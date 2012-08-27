@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.568, 
+              44.935
+            ], 
+            [
+              5.568, 
+              44.971
+            ], 
+            [
+              5.602, 
+              44.971
+            ], 
+            [
+              5.602, 
+              44.935
+            ], 
+            [
+              5.568, 
+              44.935
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624496, 
+        "name": "St.-Guillaume", 
+        "adjacent_woeid": [
+          584906, 
+          593740, 
+          611637, 
+          622887, 
+          626304
+        ], 
+        "ne_latitude": 44.971, 
+        "ne_longitude": 5.602, 
+        "longitude": 5.588, 
+        "parent_woeid": 12670537, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Guillaume"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.956, 
+        "sw_longitude": 5.568, 
+        "fullname": "St.-Guillaume, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 44.935
+      }, 
+      "id": 624496
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.460, 
+              20.141
+            ], 
+            [
+              -102.460, 
+              20.159
+            ], 
+            [
+              -102.440, 
+              20.159
+            ], 
+            [
+              -102.440, 
+              20.141
+            ], 
+            [
+              -102.460, 
+              20.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.159, 
+        "name": "Valenciano", 
+        "adjacent_woeid": [
+          120665, 
+          125577, 
+          126347, 
+          126348, 
+          128138, 
+          129287, 
+          132336, 
+          148503
+        ], 
+        "woeid": 150469, 
+        "alias_SPA_V": [
+          "Valencia"
+        ], 
+        "ne_longitude": -102.440, 
+        "longitude": -102.450, 
+        "parent_woeid": 12600481, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.150, 
+        "sw_longitude": -102.460, 
+        "fullname": "Valenciano, Michoacan de Ocampo, Ixtlan, Mexico", 
+        "sw_latitude": 20.141
+      }, 
+      "id": 150469
+    }
+  ]
+}

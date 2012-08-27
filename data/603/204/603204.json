@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.395, 
+              48.351
+            ], 
+            [
+              -0.395, 
+              48.392
+            ], 
+            [
+              -0.349, 
+              48.392
+            ], 
+            [
+              -0.349, 
+              48.351
+            ], 
+            [
+              -0.395, 
+              48.351
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603204, 
+        "name": "Le Ham", 
+        "adjacent_woeid": [
+          584613, 
+          587833, 
+          594304, 
+          604423, 
+          608754
+        ], 
+        "ne_latitude": 48.392, 
+        "ne_longitude": -0.349, 
+        "longitude": -0.377, 
+        "parent_woeid": 12664871, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Hain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.380, 
+        "sw_longitude": -0.395, 
+        "fullname": "Le Ham, Pays de la Loire, Mayenne, France", 
+        "sw_latitude": 48.351
+      }, 
+      "id": 603204
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.783, 
+              49.427
+            ], 
+            [
+              0.783, 
+              49.475
+            ], 
+            [
+              0.824, 
+              49.475
+            ], 
+            [
+              0.824, 
+              49.427
+            ], 
+            [
+              0.783, 
+              49.427
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 594811, 
+        "name": "Heurteauville", 
+        "adjacent_woeid": [
+          595753, 
+          603302, 
+          633022
+        ], 
+        "ne_latitude": 49.475, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.824, 
+        "longitude": 0.813, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12645193, 
+        "latitude": 49.448, 
+        "sw_longitude": 0.783, 
+        "fullname": "Heurteauville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.427
+      }, 
+      "id": 594811
+    }
+  ]
+}

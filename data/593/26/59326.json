@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.192, 
+              9.991
+            ], 
+            [
+              -84.192, 
+              10.009
+            ], 
+            [
+              -84.173, 
+              10.009
+            ], 
+            [
+              -84.173, 
+              9.991
+            ], 
+            [
+              -84.192, 
+              9.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.009, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          57797, 
+          58248, 
+          58262, 
+          58483, 
+          58639, 
+          59256, 
+          59553
+        ], 
+        "woeid": 59326, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -84.173, 
+        "longitude": -84.183, 
+        "parent_woeid": 26809135, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.000, 
+        "sw_longitude": -84.192, 
+        "fullname": "San Antonio, Heredia, Bel\u00e9n, Costa Rica", 
+        "sw_latitude": 9.991
+      }, 
+      "id": 59326
+    }
+  ]
+}

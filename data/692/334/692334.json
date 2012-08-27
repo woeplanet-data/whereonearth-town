@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.551, 
+              49.353
+            ], 
+            [
+              10.551, 
+              49.370
+            ], 
+            [
+              10.566, 
+              49.370
+            ], 
+            [
+              10.566, 
+              49.353
+            ], 
+            [
+              10.551, 
+              49.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 692334, 
+        "name": "Schmalach", 
+        "adjacent_woeid": [
+          636738, 
+          639102, 
+          653031, 
+          708327
+        ], 
+        "ne_latitude": 49.370, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.566, 
+        "longitude": 10.556, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12634409, 
+        "latitude": 49.362, 
+        "sw_longitude": 10.551, 
+        "fullname": "Schmalach, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.353
+      }, 
+      "id": 692334
+    }
+  ]
+}

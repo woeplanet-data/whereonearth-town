@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.067, 
+              46.182
+            ], 
+            [
+              6.067, 
+              46.200
+            ], 
+            [
+              6.093, 
+              46.200
+            ], 
+            [
+              6.093, 
+              46.182
+            ], 
+            [
+              6.067, 
+              46.182
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 782650, 
+        "name": "Gros-Chene", 
+        "adjacent_woeid": [
+          782092, 
+          783181, 
+          20100892, 
+          20102968
+        ], 
+        "ne_latitude": 46.200, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.093, 
+        "longitude": 6.080, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:50Z", 
+        "parent_woeid": 12682809, 
+        "latitude": 46.191, 
+        "sw_longitude": 6.067, 
+        "fullname": "Gros-Chene, Canton of Geneva, Geneva, Switzerland", 
+        "sw_latitude": 46.182
+      }, 
+      "id": 782650
+    }
+  ]
+}

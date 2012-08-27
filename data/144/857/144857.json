@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.793, 
+              18.608
+            ], 
+            [
+              -99.793, 
+              18.626
+            ], 
+            [
+              -99.774, 
+              18.626
+            ], 
+            [
+              -99.774, 
+              18.608
+            ], 
+            [
+              -99.793, 
+              18.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.626, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          112814, 
+          125490, 
+          125492, 
+          132814, 
+          134718, 
+          151206, 
+          151533
+        ], 
+        "woeid": 144857, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -99.774, 
+        "longitude": -99.783, 
+        "parent_woeid": 12600083, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.617, 
+        "sw_longitude": -99.793, 
+        "fullname": "San Pablo, Guerrero, Pedro Ascencio Alquisiras, Mexico", 
+        "sw_latitude": 18.608
+      }, 
+      "id": 144857
+    }
+  ]
+}

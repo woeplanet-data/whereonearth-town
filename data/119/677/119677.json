@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.460, 
+              19.241
+            ], 
+            [
+              -104.460, 
+              19.259
+            ], 
+            [
+              -104.440, 
+              19.259
+            ], 
+            [
+              -104.440, 
+              19.241
+            ], 
+            [
+              -104.460, 
+              19.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 119677, 
+        "name": "El Cerrito", 
+        "adjacent_woeid": [
+          115482, 
+          118322, 
+          119728, 
+          121988, 
+          126812, 
+          128052, 
+          150628
+        ], 
+        "ne_latitude": 19.259, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -104.440, 
+        "longitude": -104.450, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "parent_woeid": 12599930, 
+        "latitude": 19.250, 
+        "sw_longitude": -104.460, 
+        "fullname": "El Cerrito, Colima, Manzanillo, Mexico", 
+        "sw_latitude": 19.241
+      }, 
+      "id": 119677
+    }
+  ]
+}

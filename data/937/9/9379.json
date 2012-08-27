@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -121.234, 
+              55.709
+            ], 
+            [
+              -121.234, 
+              55.725
+            ], 
+            [
+              -121.205, 
+              55.725
+            ], 
+            [
+              -121.205, 
+              55.709
+            ], 
+            [
+              -121.234, 
+              55.709
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9379, 
+        "name": "East Pine", 
+        "adjacent_woeid": [
+          9360, 
+          9370, 
+          9375, 
+          9384, 
+          9385, 
+          9387, 
+          23405197
+        ], 
+        "ne_latitude": 55.725, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Pine"
+        ], 
+        "ne_longitude": -121.205, 
+        "longitude": -121.220, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:02Z", 
+        "parent_woeid": 29375233, 
+        "latitude": 55.717, 
+        "sw_longitude": -121.234, 
+        "fullname": "East Pine, British Columbia, Peace River, Canada", 
+        "sw_latitude": 55.709
+      }, 
+      "id": 9379
+    }
+  ]
+}

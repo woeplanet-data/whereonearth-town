@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.332, 
+              26.313
+            ], 
+            [
+              -108.332, 
+              26.331
+            ], 
+            [
+              -108.312, 
+              26.331
+            ], 
+            [
+              -108.312, 
+              26.313
+            ], 
+            [
+              -108.332, 
+              26.313
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.331, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          121542, 
+          121655, 
+          143413, 
+          144078, 
+          151335
+        ], 
+        "woeid": 145610, 
+        "alias_SPA_V": [
+          "Sta. Ana"
+        ], 
+        "ne_longitude": -108.312, 
+        "longitude": -108.322, 
+        "parent_woeid": 12601534, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.322, 
+        "sw_longitude": -108.332, 
+        "fullname": "Santa Ana, Sinaloa, El Fuerte, Mexico", 
+        "sw_latitude": 26.313
+      }, 
+      "id": 145610
+    }
+  ]
+}

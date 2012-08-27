@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.617, 
+              44.649
+            ], 
+            [
+              -123.617, 
+              44.658
+            ], 
+            [
+              -123.604, 
+              44.658
+            ], 
+            [
+              -123.604, 
+              44.649
+            ], 
+            [
+              -123.617, 
+              44.649
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2457161, 
+        "name": "Nashville", 
+        "adjacent_woeid": [
+          2372284, 
+          2373967, 
+          2462220, 
+          2501743
+        ], 
+        "ne_latitude": 44.658, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.604, 
+        "longitude": -123.610, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:29:20Z", 
+        "parent_woeid": 12589712, 
+        "latitude": 44.653, 
+        "sw_longitude": -123.617, 
+        "fullname": "Nashville, Oregon, Lincoln, United States", 
+        "sw_latitude": 44.649
+      }, 
+      "id": 2457161
+    }
+  ]
+}

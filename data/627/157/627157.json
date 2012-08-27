@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.799, 
+              48.133
+            ], 
+            [
+              0.799, 
+              48.178
+            ], 
+            [
+              0.848, 
+              48.178
+            ], 
+            [
+              0.848, 
+              48.133
+            ], 
+            [
+              0.799, 
+              48.133
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627157, 
+        "name": "St.-Ulphace", 
+        "adjacent_woeid": [
+          593698, 
+          622288, 
+          623279, 
+          628355
+        ], 
+        "ne_latitude": 48.178, 
+        "ne_longitude": 0.848, 
+        "longitude": 0.817, 
+        "parent_woeid": 12663744, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ulphace"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.159, 
+        "sw_longitude": 0.799, 
+        "fullname": "St.-Ulphace, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.133
+      }, 
+      "id": 627157
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.423, 
+              11.053
+            ], 
+            [
+              -85.423, 
+              11.067
+            ], 
+            [
+              -85.408, 
+              11.067
+            ], 
+            [
+              -85.408, 
+              11.053
+            ], 
+            [
+              -85.423, 
+              11.053
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 11.067, 
+        "name": "Santa Cecilia", 
+        "adjacent_woeid": [
+          58182, 
+          58357, 
+          58449, 
+          58502, 
+          59427, 
+          59665
+        ], 
+        "woeid": 59615, 
+        "alias_SPA_V": [
+          "Sta Cecilia"
+        ], 
+        "ne_longitude": -85.408, 
+        "longitude": -85.416, 
+        "parent_woeid": 26809256, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.060, 
+        "sw_longitude": -85.423, 
+        "fullname": "Santa Cecilia, Guanacaste, La Cruz, Costa Rica", 
+        "sw_latitude": 11.053
+      }, 
+      "id": 59615
+    }
+  ]
+}

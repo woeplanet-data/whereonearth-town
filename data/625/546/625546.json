@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.071, 
+              43.143
+            ], 
+            [
+              0.071, 
+              43.171
+            ], 
+            [
+              0.096, 
+              43.171
+            ], 
+            [
+              0.096, 
+              43.143
+            ], 
+            [
+              0.071, 
+              43.143
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625546, 
+        "name": "St.-Martin", 
+        "adjacent_woeid": [
+          576462, 
+          579393, 
+          594825
+        ], 
+        "ne_latitude": 43.171, 
+        "ne_longitude": 0.096, 
+        "longitude": 0.086, 
+        "parent_woeid": 12670897, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Martin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.161, 
+        "sw_longitude": 0.071, 
+        "fullname": "St.-Martin, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.143
+      }, 
+      "id": 625546
+    }
+  ]
+}

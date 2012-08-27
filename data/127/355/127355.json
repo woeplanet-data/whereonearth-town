@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.675, 
+              24.411
+            ], 
+            [
+              -106.675, 
+              24.429
+            ], 
+            [
+              -106.655, 
+              24.429
+            ], 
+            [
+              -106.655, 
+              24.411
+            ], 
+            [
+              -106.675, 
+              24.411
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.429, 
+        "name": "La Estancia", 
+        "adjacent_woeid": [
+          116595, 
+          122145, 
+          122958, 
+          124871, 
+          131184, 
+          148349
+        ], 
+        "woeid": 127355, 
+        "alias_SPA_V": [
+          "Estancia"
+        ], 
+        "ne_longitude": -106.655, 
+        "longitude": -106.665, 
+        "parent_woeid": 12601532, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.420, 
+        "sw_longitude": -106.675, 
+        "fullname": "La Estancia, Sinaloa, Cosala, Mexico", 
+        "sw_latitude": 24.411
+      }, 
+      "id": 127355
+    }
+  ]
+}

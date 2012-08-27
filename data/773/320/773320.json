@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.115, 
+              42.412
+            ], 
+            [
+              -3.115, 
+              42.421
+            ], 
+            [
+              -3.103, 
+              42.421
+            ], 
+            [
+              -3.103, 
+              42.412
+            ], 
+            [
+              -3.115, 
+              42.412
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.421, 
+        "name": "San Pedro del Monte", 
+        "adjacent_woeid": [
+          753324, 
+          771185, 
+          772774, 
+          777943, 
+          778785
+        ], 
+        "woeid": 773320, 
+        "alias_SPA_V": [
+          "S Pedro del Monte"
+        ], 
+        "ne_longitude": -3.103, 
+        "longitude": -3.109, 
+        "parent_woeid": 12691412, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.417, 
+        "sw_longitude": -3.115, 
+        "fullname": "San Pedro del Monte, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.412
+      }, 
+      "id": 773320
+    }
+  ]
+}

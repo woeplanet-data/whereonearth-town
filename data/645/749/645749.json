@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.977, 
+              51.586
+            ], 
+            [
+              11.977, 
+              51.613
+            ], 
+            [
+              12.009, 
+              51.613
+            ], 
+            [
+              12.009, 
+              51.586
+            ], 
+            [
+              11.977, 
+              51.586
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645749, 
+        "name": "Drobitz", 
+        "adjacent_woeid": [
+          645595, 
+          669663, 
+          683807, 
+          684630
+        ], 
+        "ne_latitude": 51.613, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.009, 
+        "longitude": 11.994, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12626380, 
+        "latitude": 51.600, 
+        "sw_longitude": 11.977, 
+        "fullname": "Drobitz, Saxony-Anhalt, Saalkreis, Germany", 
+        "sw_latitude": 51.586
+      }, 
+      "id": 645749
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.256, 
+              49.460
+            ], 
+            [
+              1.256, 
+              49.484
+            ], 
+            [
+              1.284, 
+              49.484
+            ], 
+            [
+              1.284, 
+              49.460
+            ], 
+            [
+              1.256, 
+              49.460
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621992, 
+        "name": "Servaville-Salmonville", 
+        "adjacent_woeid": [
+          580097, 
+          580417, 
+          593366, 
+          600397, 
+          610290, 
+          617924
+        ], 
+        "ne_latitude": 49.484, 
+        "ne_longitude": 1.284, 
+        "longitude": 1.269, 
+        "parent_woeid": 12651921, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Servaville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.475, 
+        "sw_longitude": 1.256, 
+        "fullname": "Servaville-Salmonville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.460
+      }, 
+      "id": 621992
+    }
+  ]
+}

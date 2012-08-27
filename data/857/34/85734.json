@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.341, 
+              14.293
+            ], 
+            [
+              -90.341, 
+              14.307
+            ], 
+            [
+              -90.326, 
+              14.307
+            ], 
+            [
+              -90.326, 
+              14.293
+            ], 
+            [
+              -90.341, 
+              14.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.307, 
+        "name": "San Juan de Arana", 
+        "adjacent_woeid": [
+          81105, 
+          82050, 
+          83327, 
+          84230, 
+          84617
+        ], 
+        "woeid": 85734, 
+        "alias_SPA_V": [
+          "S Juan de Arana"
+        ], 
+        "ne_longitude": -90.326, 
+        "longitude": -90.333, 
+        "parent_woeid": 26807177, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.300, 
+        "sw_longitude": -90.341, 
+        "fullname": "San Juan de Arana, Santa Rosa, Cuilapa, Guatemala", 
+        "sw_latitude": 14.293
+      }, 
+      "id": 85734
+    }
+  ]
+}

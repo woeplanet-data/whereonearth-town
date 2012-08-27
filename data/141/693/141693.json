@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.248, 
+              19.671
+            ], 
+            [
+              -103.248, 
+              19.689
+            ], 
+            [
+              -103.229, 
+              19.689
+            ], 
+            [
+              -103.229, 
+              19.671
+            ], 
+            [
+              -103.248, 
+              19.671
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.689, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          134346, 
+          142545, 
+          145513, 
+          145514, 
+          55897222
+        ], 
+        "woeid": 141693, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -103.229, 
+        "longitude": -103.238, 
+        "parent_woeid": 12600279, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.680, 
+        "sw_longitude": -103.248, 
+        "fullname": "San Antonio, Jalisco, Tamazula de Gordiano, Mexico", 
+        "sw_latitude": 19.671
+      }, 
+      "id": 141693
+    }
+  ]
+}

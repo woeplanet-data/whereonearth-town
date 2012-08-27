@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.528, 
+              -33.359
+            ], 
+            [
+              -70.528, 
+              -33.341
+            ], 
+            [
+              -70.506, 
+              -33.341
+            ], 
+            [
+              -70.506, 
+              -33.359
+            ], 
+            [
+              -70.528, 
+              -33.359
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.341, 
+        "name": "Lo Barnechea", 
+        "adjacent_woeid": [
+          346813, 
+          347321, 
+          348008, 
+          348900, 
+          349823, 
+          350051, 
+          350245
+        ], 
+        "woeid": 348371, 
+        "alias_SPA_V": [
+          "Barnechea"
+        ], 
+        "ne_longitude": -70.506, 
+        "longitude": -70.517, 
+        "parent_woeid": 26794291, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.350, 
+        "sw_longitude": -70.528, 
+        "fullname": "Lo Barnechea, Santiago Metropolitan Region, Santiago Province, Chile", 
+        "sw_latitude": -33.359
+      }, 
+      "id": 348371
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.851, 
+              52.085
+            ], 
+            [
+              8.851, 
+              52.109
+            ], 
+            [
+              8.874, 
+              52.109
+            ], 
+            [
+              8.874, 
+              52.085
+            ], 
+            [
+              8.851, 
+              52.085
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705185, 
+        "name": "Welstorf", 
+        "adjacent_woeid": [
+          665960, 
+          685075, 
+          696771, 
+          20175286
+        ], 
+        "ne_latitude": 52.109, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.874, 
+        "longitude": 8.862, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12624541, 
+        "latitude": 52.091, 
+        "sw_longitude": 8.851, 
+        "fullname": "Welstorf, North Rhine-Westphalia, Lippe, Germany", 
+        "sw_latitude": 52.085
+      }, 
+      "id": 705185
+    }
+  ]
+}

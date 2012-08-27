@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.963, 
+              24.345
+            ], 
+            [
+              -99.963, 
+              24.363
+            ], 
+            [
+              -99.943, 
+              24.363
+            ], 
+            [
+              -99.943, 
+              24.345
+            ], 
+            [
+              -99.963, 
+              24.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.363, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          112190, 
+          112525, 
+          126374, 
+          130853, 
+          143302, 
+          144056
+        ], 
+        "woeid": 142916, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -99.943, 
+        "longitude": -99.953, 
+        "parent_woeid": 12600611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.354, 
+        "sw_longitude": -99.963, 
+        "fullname": "San Isidro, Nuevo Leon, Aramberri, Mexico", 
+        "sw_latitude": 24.345
+      }, 
+      "id": 142916
+    }
+  ]
+}

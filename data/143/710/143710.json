@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.377, 
+              25.808
+            ], 
+            [
+              -97.377, 
+              25.826
+            ], 
+            [
+              -97.357, 
+              25.826
+            ], 
+            [
+              -97.357, 
+              25.808
+            ], 
+            [
+              -97.377, 
+              25.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.826, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          121804, 
+          124126, 
+          137773, 
+          145196
+        ], 
+        "woeid": 143710, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -97.357, 
+        "longitude": -97.367, 
+        "parent_woeid": 12601653, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.817, 
+        "sw_longitude": -97.377, 
+        "fullname": "San Juan, Tamaulipas, Matamoros, Mexico", 
+        "sw_latitude": 25.808
+      }, 
+      "id": 143710
+    }
+  ]
+}

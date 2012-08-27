@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.560, 
+              24.308
+            ], 
+            [
+              -99.560, 
+              24.326
+            ], 
+            [
+              -99.540, 
+              24.326
+            ], 
+            [
+              -99.540, 
+              24.308
+            ], 
+            [
+              -99.560, 
+              24.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.326, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          113881, 
+          125329, 
+          125405, 
+          129447, 
+          133038, 
+          142918
+        ], 
+        "woeid": 142917, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -99.540, 
+        "longitude": -99.550, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.317, 
+        "sw_longitude": -99.560, 
+        "fullname": "San Isidro, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.308
+      }, 
+      "id": 142917
+    }
+  ]
+}

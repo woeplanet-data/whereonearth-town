@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.845, 
+              42.242
+            ], 
+            [
+              -5.845, 
+              42.251
+            ], 
+            [
+              -5.833, 
+              42.251
+            ], 
+            [
+              -5.833, 
+              42.242
+            ], 
+            [
+              -5.845, 
+              42.242
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.251, 
+        "name": "San Juan de Torres", 
+        "adjacent_woeid": [
+          767870, 
+          771155, 
+          773122, 
+          776463, 
+          778088
+        ], 
+        "woeid": 772952, 
+        "alias_SPA_V": [
+          "S Juan de Torres"
+        ], 
+        "ne_longitude": -5.833, 
+        "longitude": -5.839, 
+        "parent_woeid": 12691795, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.247, 
+        "sw_longitude": -5.845, 
+        "fullname": "San Juan de Torres, Castille and Leon, Leon, Spain", 
+        "sw_latitude": 42.242
+      }, 
+      "id": 772952
+    }
+  ]
+}

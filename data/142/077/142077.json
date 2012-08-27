@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.560, 
+              21.058
+            ], 
+            [
+              -101.560, 
+              21.076
+            ], 
+            [
+              -101.540, 
+              21.076
+            ], 
+            [
+              -101.540, 
+              21.058
+            ], 
+            [
+              -101.560, 
+              21.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.076, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          118371, 
+          127309, 
+          127891, 
+          132426, 
+          143023, 
+          146193, 
+          55883365
+        ], 
+        "woeid": 142077, 
+        "alias_SPA_V": [
+          "S. Carlos"
+        ], 
+        "ne_longitude": -101.540, 
+        "longitude": -101.550, 
+        "parent_woeid": 12600008, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.067, 
+        "sw_longitude": -101.560, 
+        "fullname": "San Carlos, Guanajuato, Leon, Mexico", 
+        "sw_latitude": 21.058
+      }, 
+      "id": 142077
+    }
+  ]
+}

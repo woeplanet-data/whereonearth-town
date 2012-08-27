@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.530, 
+              15.910
+            ], 
+            [
+              -96.530, 
+              15.928
+            ], 
+            [
+              -96.511, 
+              15.928
+            ], 
+            [
+              -96.511, 
+              15.910
+            ], 
+            [
+              -96.530, 
+              15.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.928, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          114646, 
+          117301, 
+          141375, 
+          142587, 
+          145077
+        ], 
+        "woeid": 143003, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -96.511, 
+        "longitude": -96.520, 
+        "parent_woeid": 12600669, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.919, 
+        "sw_longitude": -96.530, 
+        "fullname": "San Isidro, Oaxaca, Candelaria Loxicha, Mexico", 
+        "sw_latitude": 15.910
+      }, 
+      "id": 143003
+    }
+  ]
+}

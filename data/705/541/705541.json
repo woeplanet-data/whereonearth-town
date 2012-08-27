@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.324, 
+              52.633
+            ], 
+            [
+              11.324, 
+              52.665
+            ], 
+            [
+              11.363, 
+              52.665
+            ], 
+            [
+              11.363, 
+              52.633
+            ], 
+            [
+              11.324, 
+              52.633
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705541, 
+        "name": "Wernstedt", 
+        "adjacent_woeid": [
+          649371, 
+          677825, 
+          702007
+        ], 
+        "ne_latitude": 52.665, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.363, 
+        "longitude": 11.338, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12627083, 
+        "latitude": 52.645, 
+        "sw_longitude": 11.324, 
+        "fullname": "Wernstedt, Saxony-Anhalt, Altmarkkreis Salzwedel, Germany", 
+        "sw_latitude": 52.633
+      }, 
+      "id": 705541
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.189, 
+              50.018
+            ], 
+            [
+              10.189, 
+              50.076
+            ], 
+            [
+              10.267, 
+              50.076
+            ], 
+            [
+              10.267, 
+              50.018
+            ], 
+            [
+              10.189, 
+              50.018
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693838, 
+        "name": "Schweinfurt", 
+        "adjacent_woeid": [
+          638171, 
+          644845, 
+          652006, 
+          652992, 
+          653771, 
+          656936, 
+          664653, 
+          679984, 
+          681831, 
+          693146, 
+          694554, 
+          700358, 
+          708656
+        ], 
+        "ne_latitude": 50.076, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "ZPW"
+        ], 
+        "ne_longitude": 10.267, 
+        "longitude": 10.236, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12635654, 
+        "latitude": 50.044, 
+        "sw_longitude": 10.189, 
+        "fullname": "Schweinfurt, Bavaria, Stadtkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.018
+      }, 
+      "id": 693838
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.478, 
+              46.291
+            ], 
+            [
+              -73.478, 
+              46.387
+            ], 
+            [
+              -73.338, 
+              46.387
+            ], 
+            [
+              -73.338, 
+              46.291
+            ], 
+            [
+              -73.478, 
+              46.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55960589, 
+        "name": "St.-Gabriel", 
+        "adjacent_woeid": [
+          3479, 
+          23396503, 
+          29374700
+        ], 
+        "ne_latitude": 46.387, 
+        "ne_longitude": -73.338, 
+        "longitude": -73.408, 
+        "parent_woeid": 29375202, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Gabriel"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.339, 
+        "sw_longitude": -73.478, 
+        "fullname": "St.-Gabriel, Quebec, d'Autray, Canada", 
+        "sw_latitude": 46.291
+      }, 
+      "id": 55960589
+    }
+  ]
+}

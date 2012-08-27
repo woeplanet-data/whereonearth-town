@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.537, 
+              49.037
+            ], 
+            [
+              12.537, 
+              49.055
+            ], 
+            [
+              12.564, 
+              49.055
+            ], 
+            [
+              12.564, 
+              49.037
+            ], 
+            [
+              12.537, 
+              49.037
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20155313, 
+        "name": "Kleinviecht", 
+        "adjacent_woeid": [
+          655246, 
+          658508, 
+          670871, 
+          20172414
+        ], 
+        "ne_latitude": 49.055, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.564, 
+        "longitude": 12.550, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12623047, 
+        "latitude": 49.046, 
+        "sw_longitude": 12.537, 
+        "fullname": "Kleinviecht, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 49.037
+      }, 
+      "id": 20155313
+    }
+  ]
+}

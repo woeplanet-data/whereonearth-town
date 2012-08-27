@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.732, 
+              43.606
+            ], 
+            [
+              -116.732, 
+              43.698
+            ], 
+            [
+              -116.598, 
+              43.698
+            ], 
+            [
+              -116.598, 
+              43.606
+            ], 
+            [
+              -116.732, 
+              43.606
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2373173, 
+        "name": "Caldwell", 
+        "adjacent_woeid": [
+          2399473, 
+          2399840, 
+          2403555, 
+          2407959, 
+          2414399, 
+          2426181, 
+          2438570, 
+          2443887, 
+          2446205, 
+          2449084, 
+          2450346, 
+          2456432, 
+          2456904, 
+          2458858, 
+          2462417, 
+          2468827, 
+          2493961, 
+          2499080, 
+          2509601, 
+          2520360
+        ], 
+        "ne_latitude": 43.698, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -116.598, 
+        "longitude": -116.693, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:29Z", 
+        "parent_woeid": 12588047, 
+        "latitude": 43.667, 
+        "sw_longitude": -116.732, 
+        "fullname": "Caldwell, Idaho, Canyon, United States", 
+        "sw_latitude": 43.606
+      }, 
+      "id": 2373173
+    }
+  ]
+}

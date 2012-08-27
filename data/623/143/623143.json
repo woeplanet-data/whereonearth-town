@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.540, 
+              42.773
+            ], 
+            [
+              0.540, 
+              42.814
+            ], 
+            [
+              0.557, 
+              42.814
+            ], 
+            [
+              0.557, 
+              42.773
+            ], 
+            [
+              0.540, 
+              42.773
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623143, 
+        "name": "St.-Aventin", 
+        "adjacent_woeid": [
+          579297, 
+          579956, 
+          583325, 
+          583492, 
+          629117, 
+          20192635
+        ], 
+        "ne_latitude": 42.814, 
+        "ne_longitude": 0.557, 
+        "longitude": 0.548, 
+        "parent_woeid": 12670168, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aventin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.807, 
+        "sw_longitude": 0.540, 
+        "fullname": "St.-Aventin, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 42.773
+      }, 
+      "id": 623143
+    }
+  ]
+}

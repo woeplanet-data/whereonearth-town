@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.442, 
+              23.689
+            ], 
+            [
+              -100.442, 
+              23.708
+            ], 
+            [
+              -100.422, 
+              23.708
+            ], 
+            [
+              -100.422, 
+              23.689
+            ], 
+            [
+              -100.442, 
+              23.689
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.708, 
+        "name": "San Gregorio", 
+        "adjacent_woeid": [
+          113582, 
+          119932, 
+          120570, 
+          141767, 
+          142828
+        ], 
+        "woeid": 142745, 
+        "alias_SPA_V": [
+          "S Gregorio"
+        ], 
+        "ne_longitude": -100.422, 
+        "longitude": -100.432, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.698, 
+        "sw_longitude": -100.442, 
+        "fullname": "San Gregorio, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.689
+      }, 
+      "id": 142745
+    }
+  ]
+}

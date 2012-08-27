@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -54.923, 
+              -34.807
+            ], 
+            [
+              -54.923, 
+              -34.788
+            ], 
+            [
+              -54.901, 
+              -34.788
+            ], 
+            [
+              -54.901, 
+              -34.807
+            ], 
+            [
+              -54.923, 
+              -34.807
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -34.788, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          380907, 
+          380929, 
+          468082, 
+          468105, 
+          468108, 
+          26794383, 
+          26794424
+        ], 
+        "woeid": 468074, 
+        "alias_SPA_V": [
+          "Villa de S. Carlos"
+        ], 
+        "ne_longitude": -54.901, 
+        "longitude": -54.912, 
+        "parent_woeid": 2347648, 
+        "placetype": "Town", 
+        "iso": "UY", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -34.797, 
+        "sw_longitude": -54.923, 
+        "fullname": "San Carlos, Maldonado, Uruguay", 
+        "sw_latitude": -34.807
+      }, 
+      "id": 468074
+    }
+  ]
+}

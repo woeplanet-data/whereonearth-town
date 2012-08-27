@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.360, 
+              22.074
+            ], 
+            [
+              -102.360, 
+              22.092
+            ], 
+            [
+              -102.340, 
+              22.092
+            ], 
+            [
+              -102.340, 
+              22.074
+            ], 
+            [
+              -102.360, 
+              22.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.092, 
+        "name": "La Estancia", 
+        "adjacent_woeid": [
+          122781, 
+          129597, 
+          144114, 
+          147016, 
+          150485
+        ], 
+        "woeid": 127357, 
+        "alias_SPA_V": [
+          "Estancia"
+        ], 
+        "ne_longitude": -102.340, 
+        "longitude": -102.350, 
+        "parent_woeid": 12599687, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.083, 
+        "sw_longitude": -102.360, 
+        "fullname": "La Estancia, Aguascalientes, Pabellon de Arteaga, Mexico", 
+        "sw_latitude": 22.074
+      }, 
+      "id": 127357
+    }
+  ]
+}

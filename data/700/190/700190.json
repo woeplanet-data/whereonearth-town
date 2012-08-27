@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.844, 
+              49.519
+            ], 
+            [
+              10.844, 
+              49.544
+            ], 
+            [
+              10.881, 
+              49.544
+            ], 
+            [
+              10.881, 
+              49.519
+            ], 
+            [
+              10.844, 
+              49.519
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700190, 
+        "name": "Tuchenbach", 
+        "adjacent_woeid": [
+          642642, 
+          660783, 
+          681758, 
+          688136
+        ], 
+        "ne_latitude": 49.544, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.881, 
+        "longitude": 10.860, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12634475, 
+        "latitude": 49.531, 
+        "sw_longitude": 10.844, 
+        "fullname": "Tuchenbach, Bavaria, Landkreis F\u00fcrth, Germany", 
+        "sw_latitude": 49.519
+      }, 
+      "id": 700190
+    }
+  ]
+}

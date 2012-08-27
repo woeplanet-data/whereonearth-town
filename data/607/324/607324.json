@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.486, 
+              45.529
+            ], 
+            [
+              5.486, 
+              45.560
+            ], 
+            [
+              5.511, 
+              45.560
+            ], 
+            [
+              5.511, 
+              45.529
+            ], 
+            [
+              5.486, 
+              45.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 607324, 
+        "name": "Les Rivoires", 
+        "adjacent_woeid": [
+          585462, 
+          603858, 
+          622959, 
+          623765, 
+          627402
+        ], 
+        "ne_latitude": 45.560, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.511, 
+        "longitude": 5.496, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "parent_woeid": 12669979, 
+        "latitude": 45.543, 
+        "sw_longitude": 5.486, 
+        "fullname": "Les Rivoires, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.529
+      }, 
+      "id": 607324
+    }
+  ]
+}

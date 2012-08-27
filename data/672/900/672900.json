@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.123, 
+              51.056
+            ], 
+            [
+              10.123, 
+              51.086
+            ], 
+            [
+              10.154, 
+              51.086
+            ], 
+            [
+              10.154, 
+              51.056
+            ], 
+            [
+              10.123, 
+              51.056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 672900, 
+        "name": "L\u00fcderbach", 
+        "adjacent_woeid": [
+          634300, 
+          663235, 
+          688922, 
+          707641
+        ], 
+        "alias_GER_S": [
+          "Luederbach"
+        ], 
+        "ne_latitude": 51.086, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.154, 
+        "longitude": 10.134, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:27Z", 
+        "parent_woeid": 12632863, 
+        "latitude": 51.073, 
+        "sw_longitude": 10.123, 
+        "fullname": "L\u00fcderbach, Hesse, Werra-Mei\u00dfner-Kreis, Germany", 
+        "sw_latitude": 51.056
+      }, 
+      "id": 672900
+    }
+  ]
+}

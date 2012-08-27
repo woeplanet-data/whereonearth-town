@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.362, 
+              43.223
+            ], 
+            [
+              1.362, 
+              43.270
+            ], 
+            [
+              1.409, 
+              43.270
+            ], 
+            [
+              1.409, 
+              43.223
+            ], 
+            [
+              1.362, 
+              43.223
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627326, 
+        "name": "St.-Ybars", 
+        "adjacent_woeid": [
+          583208, 
+          592318, 
+          610436, 
+          627744, 
+          631857
+        ], 
+        "ne_latitude": 43.270, 
+        "ne_longitude": 1.409, 
+        "longitude": 1.385, 
+        "parent_woeid": 12671344, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ybars"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.237, 
+        "sw_longitude": 1.362, 
+        "fullname": "St.-Ybars, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.223
+      }, 
+      "id": 627326
+    }
+  ]
+}

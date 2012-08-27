@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.793, 
+              23.858
+            ], 
+            [
+              -100.793, 
+              23.876
+            ], 
+            [
+              -100.773, 
+              23.876
+            ], 
+            [
+              -100.773, 
+              23.858
+            ], 
+            [
+              -100.793, 
+              23.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.876, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          121673, 
+          124830, 
+          128782, 
+          150557
+        ], 
+        "woeid": 142922, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -100.773, 
+        "longitude": -100.783, 
+        "parent_woeid": 12601476, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.867, 
+        "sw_longitude": -100.793, 
+        "fullname": "San Isidro, San Luis Potosi, Cedral, Mexico", 
+        "sw_latitude": 23.858
+      }, 
+      "id": 142922
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.998, 
+              48.664
+            ], 
+            [
+              9.998, 
+              48.715
+            ], 
+            [
+              10.041, 
+              48.715
+            ], 
+            [
+              10.041, 
+              48.664
+            ], 
+            [
+              9.998, 
+              48.664
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678965, 
+        "name": "Neuselhalden", 
+        "adjacent_woeid": [
+          645847, 
+          652939, 
+          695309, 
+          695550
+        ], 
+        "ne_latitude": 48.715, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.041, 
+        "longitude": 10.016, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12624193, 
+        "latitude": 48.683, 
+        "sw_longitude": 9.998, 
+        "fullname": "Neuselhalden, Baden-Wurttemberg, Heidenheim, Germany", 
+        "sw_latitude": 48.664
+      }, 
+      "id": 678965
+    }
+  ]
+}

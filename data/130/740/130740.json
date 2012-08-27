@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.043, 
+              21.208
+            ], 
+            [
+              -99.043, 
+              21.226
+            ], 
+            [
+              -99.024, 
+              21.226
+            ], 
+            [
+              -99.024, 
+              21.208
+            ], 
+            [
+              -99.043, 
+              21.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.226, 
+        "name": "Las Palmitas", 
+        "adjacent_woeid": [
+          111461, 
+          130811, 
+          145249
+        ], 
+        "woeid": 130740, 
+        "alias_SPA_V": [
+          "Palmitas"
+        ], 
+        "ne_longitude": -99.024, 
+        "longitude": -99.033, 
+        "parent_woeid": 12600157, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.217, 
+        "sw_longitude": -99.043, 
+        "fullname": "Las Palmitas, Hidalgo, Pisaflores, Mexico", 
+        "sw_latitude": 21.208
+      }, 
+      "id": 130740
+    }
+  ]
+}

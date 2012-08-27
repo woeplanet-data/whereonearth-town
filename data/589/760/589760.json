@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.938, 
+              49.024
+            ], 
+            [
+              3.938, 
+              49.062
+            ], 
+            [
+              3.988, 
+              49.062
+            ], 
+            [
+              3.988, 
+              49.024
+            ], 
+            [
+              3.938, 
+              49.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 589760, 
+        "name": "\u00c9pernay", 
+        "adjacent_woeid": [
+          577677, 
+          581323, 
+          585953, 
+          587734, 
+          588402, 
+          588823, 
+          594540, 
+          609203, 
+          609920, 
+          613553, 
+          616594, 
+          625563, 
+          630205, 
+          632322
+        ], 
+        "ne_latitude": 49.062, 
+        "alias_ENG_V": [
+          "XEP"
+        ], 
+        "ne_longitude": 3.988, 
+        "longitude": 3.955, 
+        "parent_woeid": 12643343, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Epernay"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.045, 
+        "sw_longitude": 3.938, 
+        "fullname": "\u00c9pernay, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.024
+      }, 
+      "id": 589760
+    }
+  ]
+}

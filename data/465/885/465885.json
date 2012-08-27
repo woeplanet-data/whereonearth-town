@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.170, 
+              -24.451
+            ], 
+            [
+              -65.170, 
+              -24.433
+            ], 
+            [
+              -65.150, 
+              -24.433
+            ], 
+            [
+              -65.150, 
+              -24.451
+            ], 
+            [
+              -65.170, 
+              -24.451
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -24.433, 
+        "name": "Monte Rico", 
+        "adjacent_woeid": [
+          330562, 
+          331087, 
+          467358, 
+          468906, 
+          468947
+        ], 
+        "woeid": 465885, 
+        "alias_SPA_V": [
+          "Mte Rico"
+        ], 
+        "ne_longitude": -65.150, 
+        "longitude": -65.160, 
+        "parent_woeid": 20070772, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -24.442, 
+        "sw_longitude": -65.170, 
+        "fullname": "Monte Rico, Jujuy, El Carmen, Argentina", 
+        "sw_latitude": -24.451
+      }, 
+      "id": 465885
+    }
+  ]
+}

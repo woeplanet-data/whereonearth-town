@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.004, 
+              49.739
+            ], 
+            [
+              10.004, 
+              49.774
+            ], 
+            [
+              10.052, 
+              49.774
+            ], 
+            [
+              10.052, 
+              49.739
+            ], 
+            [
+              10.004, 
+              49.739
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 699164, 
+        "name": "Theilheim", 
+        "adjacent_woeid": [
+          638760, 
+          652196, 
+          652544, 
+          666131, 
+          671902, 
+          686828, 
+          690071, 
+          705892
+        ], 
+        "ne_latitude": 49.774, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.052, 
+        "longitude": 10.029, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12635467, 
+        "latitude": 49.754, 
+        "sw_longitude": 10.004, 
+        "fullname": "Theilheim, Bavaria, Wurzburg, Germany", 
+        "sw_latitude": 49.739
+      }, 
+      "id": 699164
+    }
+  ]
+}

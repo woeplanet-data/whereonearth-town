@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.143, 
+              23.441
+            ], 
+            [
+              -104.143, 
+              23.459
+            ], 
+            [
+              -104.123, 
+              23.459
+            ], 
+            [
+              -104.123, 
+              23.441
+            ], 
+            [
+              -104.143, 
+              23.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.459, 
+        "name": "San Juan de Michis", 
+        "adjacent_woeid": [
+          111477, 
+          112670, 
+          125923, 
+          129269, 
+          133521, 
+          140541
+        ], 
+        "woeid": 143904, 
+        "alias_SPA_V": [
+          "S Juan de Michis"
+        ], 
+        "ne_longitude": -104.123, 
+        "longitude": -104.133, 
+        "parent_woeid": 12599983, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.450, 
+        "sw_longitude": -104.143, 
+        "fullname": "San Juan de Michis, Durango, Suchil, Mexico", 
+        "sw_latitude": 23.441
+      }, 
+      "id": 143904
+    }
+  ]
+}

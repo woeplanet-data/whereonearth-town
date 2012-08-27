@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.415, 
+              49.727
+            ], 
+            [
+              0.415, 
+              49.753
+            ], 
+            [
+              0.441, 
+              49.753
+            ], 
+            [
+              0.441, 
+              49.727
+            ], 
+            [
+              0.415, 
+              49.727
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629005, 
+        "name": "Toussaint", 
+        "adjacent_woeid": [
+          586476, 
+          586879, 
+          592388, 
+          628456
+        ], 
+        "ne_latitude": 49.753, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.441, 
+        "longitude": 0.425, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12653765, 
+        "latitude": 49.738, 
+        "sw_longitude": 0.415, 
+        "fullname": "Toussaint, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.727
+      }, 
+      "id": 629005
+    }
+  ]
+}

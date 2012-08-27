@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.410, 
+              18.624
+            ], 
+            [
+              -96.410, 
+              18.642
+            ], 
+            [
+              -96.390, 
+              18.642
+            ], 
+            [
+              -96.390, 
+              18.624
+            ], 
+            [
+              -96.410, 
+              18.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.642, 
+        "name": "El Tamarindo", 
+        "adjacent_woeid": [
+          111015, 
+          119038, 
+          125887, 
+          125943, 
+          129396, 
+          132638
+        ], 
+        "woeid": 122575, 
+        "alias_SPA_V": [
+          "Tamarindo"
+        ], 
+        "ne_longitude": -96.390, 
+        "longitude": -96.400, 
+        "parent_woeid": 12601892, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.633, 
+        "sw_longitude": -96.410, 
+        "fullname": "El Tamarindo, Veracruz-Llave, Tierra Blanca, Mexico", 
+        "sw_latitude": 18.624
+      }, 
+      "id": 122575
+    }
+  ]
+}

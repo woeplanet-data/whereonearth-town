@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.285, 
+              -31.882
+            ], 
+            [
+              -64.285, 
+              -31.864
+            ], 
+            [
+              -64.264, 
+              -31.864
+            ], 
+            [
+              -64.264, 
+              -31.882
+            ], 
+            [
+              -64.285, 
+              -31.882
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -31.864, 
+        "name": "Monte Ralo", 
+        "adjacent_woeid": [
+          464845, 
+          465248, 
+          467205, 
+          467211, 
+          468948
+        ], 
+        "woeid": 465879, 
+        "alias_SPA_V": [
+          "Mte Ralo"
+        ], 
+        "ne_longitude": -64.264, 
+        "longitude": -64.275, 
+        "parent_woeid": 20071024, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -31.873, 
+        "sw_longitude": -64.285, 
+        "fullname": "Monte Ralo, Cordoba, Santa Maria, Argentina", 
+        "sw_latitude": -31.882
+      }, 
+      "id": 465879
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.447, 
+              48.928
+            ], 
+            [
+              10.447, 
+              48.952
+            ], 
+            [
+              10.481, 
+              48.952
+            ], 
+            [
+              10.481, 
+              48.928
+            ], 
+            [
+              10.447, 
+              48.928
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675342, 
+        "name": "Minderoffingen", 
+        "adjacent_woeid": [
+          642311, 
+          648153, 
+          651958, 
+          659177, 
+          701974
+        ], 
+        "ne_latitude": 48.952, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.481, 
+        "longitude": 10.463, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12635001, 
+        "latitude": 48.943, 
+        "sw_longitude": 10.447, 
+        "fullname": "Minderoffingen, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.928
+      }, 
+      "id": 675342
+    }
+  ]
+}

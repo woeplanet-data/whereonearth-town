@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.000, 
+              53.888
+            ], 
+            [
+              10.000, 
+              53.909
+            ], 
+            [
+              10.031, 
+              53.909
+            ], 
+            [
+              10.031, 
+              53.888
+            ], 
+            [
+              10.000, 
+              53.888
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20164327, 
+        "name": "Wolfsberg", 
+        "adjacent_woeid": [
+          651082, 
+          657661, 
+          20164395, 
+          29350876
+        ], 
+        "ne_latitude": 53.909, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.031, 
+        "longitude": 10.017, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:52Z", 
+        "parent_woeid": 12631688, 
+        "latitude": 53.900, 
+        "sw_longitude": 10.000, 
+        "fullname": "Wolfsberg, Schleswig-Holstein, Segeberg, Germany", 
+        "sw_latitude": 53.888
+      }, 
+      "id": 20164327
+    }
+  ]
+}

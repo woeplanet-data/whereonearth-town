@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.682, 
+              24.658
+            ], 
+            [
+              -99.682, 
+              24.677
+            ], 
+            [
+              -99.662, 
+              24.677
+            ], 
+            [
+              -99.662, 
+              24.658
+            ], 
+            [
+              -99.682, 
+              24.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.677, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          114087, 
+          114276, 
+          117921, 
+          131465, 
+          138176
+        ], 
+        "woeid": 142596, 
+        "alias_SPA_V": [
+          "S. Francisco Tenamaxtle"
+        ], 
+        "ne_longitude": -99.662, 
+        "longitude": -99.672, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.668, 
+        "sw_longitude": -99.682, 
+        "fullname": "San Francisco, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.658
+      }, 
+      "id": 142596
+    }
+  ]
+}

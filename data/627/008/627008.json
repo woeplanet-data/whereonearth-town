@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.427, 
+              45.686
+            ], 
+            [
+              0.427, 
+              45.705
+            ], 
+            [
+              0.451, 
+              45.705
+            ], 
+            [
+              0.451, 
+              45.686
+            ], 
+            [
+              0.427, 
+              45.686
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627008, 
+        "name": "St.-Sornin", 
+        "adjacent_woeid": [
+          610053, 
+          615080, 
+          618806, 
+          631378, 
+          632686, 
+          633081, 
+          29331222
+        ], 
+        "ne_latitude": 45.705, 
+        "ne_longitude": 0.451, 
+        "longitude": 0.436, 
+        "parent_woeid": 12669079, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sornin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.694, 
+        "sw_longitude": 0.427, 
+        "fullname": "St.-Sornin, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.686
+      }, 
+      "id": 627008
+    }
+  ]
+}

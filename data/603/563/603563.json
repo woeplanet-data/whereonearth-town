@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.236, 
+              49.214
+            ], 
+            [
+              1.236, 
+              49.223
+            ], 
+            [
+              1.250, 
+              49.223
+            ], 
+            [
+              1.250, 
+              49.214
+            ], 
+            [
+              1.236, 
+              49.214
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603563, 
+        "name": "Le Mesnil", 
+        "adjacent_woeid": [
+          576041, 
+          613666, 
+          632434, 
+          29330739
+        ], 
+        "ne_latitude": 49.223, 
+        "ne_longitude": 1.250, 
+        "longitude": 1.243, 
+        "parent_woeid": 12637063, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Mesnil-Andr\u00e9"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.218, 
+        "sw_longitude": 1.236, 
+        "fullname": "Le Mesnil, Haute-Normandie, Eure, France", 
+        "alias_FRE_S": [
+          "Le Mesnil-Andre"
+        ], 
+        "sw_latitude": 49.214
+      }, 
+      "id": 603563
+    }
+  ]
+}

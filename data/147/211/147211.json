@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.680, 
+              24.314
+            ], 
+            [
+              -98.680, 
+              24.332
+            ], 
+            [
+              -98.660, 
+              24.332
+            ], 
+            [
+              -98.660, 
+              24.314
+            ], 
+            [
+              -98.680, 
+              24.314
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.332, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          115006, 
+          131836, 
+          143006, 
+          146995
+        ], 
+        "woeid": 147211, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -98.660, 
+        "longitude": -98.670, 
+        "parent_woeid": 12601650, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.323, 
+        "sw_longitude": -98.680, 
+        "fullname": "Santo Domingo, Tamaulipas, Jimenez, Mexico", 
+        "sw_latitude": 24.314
+      }, 
+      "id": 147211
+    }
+  ]
+}

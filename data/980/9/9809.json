@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.807, 
+              49.225
+            ], 
+            [
+              -122.807, 
+              49.289
+            ], 
+            [
+              -122.711, 
+              49.289
+            ], 
+            [
+              -122.711, 
+              49.225
+            ], 
+            [
+              -122.807, 
+              49.225
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9809, 
+        "name": "Port Coquitlam", 
+        "adjacent_woeid": [
+          9222, 
+          9225, 
+          9804, 
+          9813, 
+          29372900, 
+          29372927
+        ], 
+        "ne_latitude": 49.289, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Pt Coquitlam"
+        ], 
+        "ne_longitude": -122.711, 
+        "longitude": -122.782, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375222, 
+        "latitude": 49.262, 
+        "sw_longitude": -122.807, 
+        "fullname": "Port Coquitlam, British Columbia, Greater Vancouver, Canada", 
+        "sw_latitude": 49.225
+      }, 
+      "id": 9809
+    }
+  ]
+}

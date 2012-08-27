@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.468, 
+              49.119
+            ], 
+            [
+              5.468, 
+              49.172
+            ], 
+            [
+              5.517, 
+              49.172
+            ], 
+            [
+              5.517, 
+              49.119
+            ], 
+            [
+              5.468, 
+              49.119
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613434, 
+        "name": "Moulainville", 
+        "adjacent_woeid": [
+          579220, 
+          580176, 
+          585101, 
+          589567, 
+          613190
+        ], 
+        "ne_latitude": 49.172, 
+        "ne_longitude": 5.517, 
+        "longitude": 5.496, 
+        "parent_woeid": 12667335, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Moulainville-la-Basse"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.162, 
+        "sw_longitude": 5.468, 
+        "fullname": "Moulainville, Lorraine, Meuse, France", 
+        "sw_latitude": 49.119
+      }, 
+      "id": 613434
+    }
+  ]
+}

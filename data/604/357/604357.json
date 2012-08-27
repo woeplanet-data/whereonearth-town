@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.746, 
+              46.103
+            ], 
+            [
+              2.746, 
+              46.138
+            ], 
+            [
+              2.786, 
+              46.138
+            ], 
+            [
+              2.786, 
+              46.103
+            ], 
+            [
+              2.746, 
+              46.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604357, 
+        "name": "Le Quartier", 
+        "adjacent_woeid": [
+          593307, 
+          597311, 
+          598011, 
+          605340, 
+          612836, 
+          628171, 
+          632423, 
+          633051
+        ], 
+        "ne_latitude": 46.138, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.786, 
+        "longitude": 2.762, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12636865, 
+        "latitude": 46.123, 
+        "sw_longitude": 2.746, 
+        "fullname": "Le Quartier, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 46.103
+      }, 
+      "id": 604357
+    }
+  ]
+}

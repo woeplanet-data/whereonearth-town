@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.042, 
+              50.038
+            ], 
+            [
+              12.042, 
+              50.054
+            ], 
+            [
+              12.058, 
+              50.054
+            ], 
+            [
+              12.058, 
+              50.038
+            ], 
+            [
+              12.042, 
+              50.038
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707115, 
+        "name": "Wintersberg", 
+        "adjacent_woeid": [
+          653294, 
+          657887, 
+          661534, 
+          695139, 
+          707130
+        ], 
+        "ne_latitude": 50.054, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.058, 
+        "longitude": 12.050, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635380, 
+        "latitude": 50.046, 
+        "sw_longitude": 12.042, 
+        "fullname": "Wintersberg, Bavaria, Wunsiedel im Fichtelgebirge, Germany", 
+        "sw_latitude": 50.038
+      }, 
+      "id": 707115
+    }
+  ]
+}

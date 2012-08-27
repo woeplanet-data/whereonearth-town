@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.882, 
+              50.211
+            ], 
+            [
+              3.882, 
+              50.244
+            ], 
+            [
+              3.930, 
+              50.244
+            ], 
+            [
+              3.930, 
+              50.211
+            ], 
+            [
+              3.882, 
+              50.211
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626715, 
+        "name": "St.-Remy-du-Nord", 
+        "adjacent_woeid": [
+          577759, 
+          581384, 
+          608148, 
+          615608
+        ], 
+        "ne_latitude": 50.244, 
+        "ne_longitude": 3.930, 
+        "longitude": 3.905, 
+        "parent_woeid": 12671154, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Remy-du-Nord"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.231, 
+        "sw_longitude": 3.882, 
+        "fullname": "St.-Remy-du-Nord, Nord-Pas-de-Calais, Nord, France", 
+        "alias_FRE_S": [
+          "St.-Remi-du-Nord"
+        ], 
+        "sw_latitude": 50.211
+      }, 
+      "id": 626715
+    }
+  ]
+}

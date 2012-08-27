@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              24.792, 
+              63.862
+            ], 
+            [
+              24.792, 
+              63.939
+            ], 
+            [
+              25.015, 
+              63.939
+            ], 
+            [
+              25.015, 
+              63.862
+            ], 
+            [
+              24.792, 
+              63.862
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FIN", 
+        "woeid": 570372, 
+        "name": "Nivala", 
+        "adjacent_woeid": [
+          564026, 
+          566775, 
+          566984, 
+          567625, 
+          572802, 
+          573016, 
+          575273, 
+          25951608, 
+          25951609, 
+          25951610, 
+          25951615, 
+          25951618, 
+          25951628, 
+          25951633, 
+          25951637, 
+          25951822, 
+          29305404
+        ], 
+        "ne_latitude": 63.939, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 25.015, 
+        "longitude": 24.962, 
+        "placetype": "Town", 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:41:19Z", 
+        "alias_FIN_V": [
+          "Nivalan Kaupunki"
+        ], 
+        "parent_woeid": 12590851, 
+        "latitude": 63.929, 
+        "sw_longitude": 24.792, 
+        "fullname": "Nivala, Oulu Province, Northern Ostrobothnia, Finland", 
+        "sw_latitude": 63.862
+      }, 
+      "id": 570372
+    }
+  ]
+}

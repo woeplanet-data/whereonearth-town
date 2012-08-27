@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.829, 
+              49.717
+            ], 
+            [
+              1.829, 
+              49.726
+            ], 
+            [
+              1.843, 
+              49.726
+            ], 
+            [
+              1.843, 
+              49.717
+            ], 
+            [
+              1.829, 
+              49.717
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623525, 
+        "name": "St.-Clair", 
+        "adjacent_woeid": [
+          583133, 
+          591710, 
+          592101, 
+          594769, 
+          627112
+        ], 
+        "ne_latitude": 49.726, 
+        "ne_longitude": 1.843, 
+        "longitude": 1.836, 
+        "parent_woeid": 12654904, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Clair"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.722, 
+        "sw_longitude": 1.829, 
+        "fullname": "St.-Clair, Picardie, Somme, France", 
+        "sw_latitude": 49.717
+      }, 
+      "id": 623525
+    }
+  ]
+}

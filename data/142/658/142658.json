@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.443, 
+              19.424
+            ], 
+            [
+              -98.443, 
+              19.442
+            ], 
+            [
+              -98.424, 
+              19.442
+            ], 
+            [
+              -98.424, 
+              19.424
+            ], 
+            [
+              -98.443, 
+              19.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.442, 
+        "name": "San Francisco Mitepec", 
+        "adjacent_woeid": [
+          112679, 
+          123339, 
+          125180, 
+          143963
+        ], 
+        "woeid": 142658, 
+        "alias_SPA_V": [
+          "S Francisco Mitepec"
+        ], 
+        "ne_longitude": -98.424, 
+        "longitude": -98.433, 
+        "parent_woeid": 12601687, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.433, 
+        "sw_longitude": -98.443, 
+        "fullname": "San Francisco Mitepec, Tlaxcala, Espanita, Mexico", 
+        "sw_latitude": 19.424
+      }, 
+      "id": 142658
+    }
+  ]
+}

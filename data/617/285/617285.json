@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.305, 
+              47.165
+            ], 
+            [
+              5.305, 
+              47.206
+            ], 
+            [
+              5.343, 
+              47.206
+            ], 
+            [
+              5.343, 
+              47.165
+            ], 
+            [
+              5.305, 
+              47.165
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617285, 
+        "name": "Pont", 
+        "adjacent_woeid": [
+          584223, 
+          606760, 
+          628682
+        ], 
+        "ne_latitude": 47.206, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.343, 
+        "longitude": 5.317, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12650811, 
+        "latitude": 47.176, 
+        "sw_longitude": 5.305, 
+        "fullname": "Pont, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.165
+      }, 
+      "id": 617285
+    }
+  ]
+}

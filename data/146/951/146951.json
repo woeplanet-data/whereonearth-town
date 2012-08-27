@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.177, 
+              23.658
+            ], 
+            [
+              -100.177, 
+              23.676
+            ], 
+            [
+              -100.157, 
+              23.676
+            ], 
+            [
+              -100.157, 
+              23.658
+            ], 
+            [
+              -100.177, 
+              23.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.676, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          114714, 
+          118234, 
+          119487, 
+          124326, 
+          128002, 
+          128883, 
+          137489
+        ], 
+        "woeid": 146951, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -100.157, 
+        "longitude": -100.167, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.667, 
+        "sw_longitude": -100.177, 
+        "fullname": "Santa Teresa, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.658
+      }, 
+      "id": 146951
+    }
+  ]
+}

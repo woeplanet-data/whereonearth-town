@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.845, 
+              43.938
+            ], 
+            [
+              2.845, 
+              43.976
+            ], 
+            [
+              2.905, 
+              43.976
+            ], 
+            [
+              2.905, 
+              43.938
+            ], 
+            [
+              2.845, 
+              43.938
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622770, 
+        "name": "St.-Affrique", 
+        "adjacent_woeid": [
+          579210, 
+          581283, 
+          582090, 
+          582737, 
+          587070, 
+          587339, 
+          601730, 
+          619964, 
+          624707, 
+          626811, 
+          626813, 
+          628658, 
+          629705, 
+          631684, 
+          20191496, 
+          20192475, 
+          29331926
+        ], 
+        "ne_latitude": 43.976, 
+        "ne_longitude": 2.905, 
+        "longitude": 2.882, 
+        "parent_woeid": 12657587, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Affrique"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.957, 
+        "sw_longitude": 2.845, 
+        "fullname": "St.-Affrique, Midi-Pyrenees, Aveyron, France", 
+        "sw_latitude": 43.938
+      }, 
+      "id": 622770
+    }
+  ]
+}

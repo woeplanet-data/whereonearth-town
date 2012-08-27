@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.249, 
+              46.818
+            ], 
+            [
+              5.249, 
+              46.838
+            ], 
+            [
+              5.270, 
+              46.838
+            ], 
+            [
+              5.270, 
+              46.818
+            ], 
+            [
+              5.249, 
+              46.818
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597698, 
+        "name": "La Chaux", 
+        "adjacent_woeid": [
+          597553, 
+          612827, 
+          621890
+        ], 
+        "ne_latitude": 46.838, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.270, 
+        "longitude": 5.261, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12646115, 
+        "latitude": 46.827, 
+        "sw_longitude": 5.249, 
+        "fullname": "La Chaux, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.818
+      }, 
+      "id": 597698
+    }
+  ]
+}

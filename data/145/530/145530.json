@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.014, 
+              29.129
+            ], 
+            [
+              -103.014, 
+              29.148
+            ], 
+            [
+              -102.994, 
+              29.148
+            ], 
+            [
+              -102.994, 
+              29.129
+            ], 
+            [
+              -103.014, 
+              29.129
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.148, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          113586, 
+          118752, 
+          120836, 
+          129500, 
+          130401
+        ], 
+        "woeid": 145530, 
+        "alias_SPA_V": [
+          "S Vicente"
+        ], 
+        "ne_longitude": -102.994, 
+        "longitude": -103.004, 
+        "parent_woeid": 12599908, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.139, 
+        "sw_longitude": -103.014, 
+        "fullname": "San Vicente, Coahuila de Zaragoza, Ocampo, Mexico", 
+        "sw_latitude": 29.129
+      }, 
+      "id": 145530
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.025, 
+              43.330
+            ], 
+            [
+              0.025, 
+              43.342
+            ], 
+            [
+              0.054, 
+              43.342
+            ], 
+            [
+              0.054, 
+              43.330
+            ], 
+            [
+              0.025, 
+              43.330
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627980, 
+        "name": "Talazac", 
+        "adjacent_woeid": [
+          618311, 
+          622099, 
+          625282
+        ], 
+        "ne_latitude": 43.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.054, 
+        "longitude": 0.039, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12671506, 
+        "latitude": 43.334, 
+        "sw_longitude": 0.025, 
+        "fullname": "Talazac, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.330
+      }, 
+      "id": 627980
+    }
+  ]
+}

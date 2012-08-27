@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -6.995, 
+              42.247
+            ], 
+            [
+              -6.995, 
+              42.256
+            ], 
+            [
+              -6.983, 
+              42.256
+            ], 
+            [
+              -6.983, 
+              42.247
+            ], 
+            [
+              -6.995, 
+              42.247
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.256, 
+        "name": "San Lourenzo", 
+        "adjacent_woeid": [
+          753588, 
+          756598, 
+          760189, 
+          764364, 
+          770735, 
+          776672, 
+          20228374
+        ], 
+        "woeid": 20228481, 
+        "alias_SPA_V": [
+          "S Lourenzo"
+        ], 
+        "ne_longitude": -6.983, 
+        "longitude": -6.989, 
+        "parent_woeid": 12694942, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.252, 
+        "sw_longitude": -6.995, 
+        "fullname": "San Lourenzo, Galicia, Orense, Spain", 
+        "sw_latitude": 42.247
+      }, 
+      "id": 20228481
+    }
+  ]
+}

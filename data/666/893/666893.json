@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.324, 
+              49.718
+            ], 
+            [
+              11.324, 
+              49.742
+            ], 
+            [
+              11.349, 
+              49.742
+            ], 
+            [
+              11.349, 
+              49.718
+            ], 
+            [
+              11.324, 
+              49.718
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666893, 
+        "name": "Kleingesee", 
+        "adjacent_woeid": [
+          633988, 
+          637005, 
+          651916, 
+          671019, 
+          687341, 
+          695579, 
+          699747, 
+          20173252
+        ], 
+        "ne_latitude": 49.742, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.349, 
+        "longitude": 11.335, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12634360, 
+        "latitude": 49.727, 
+        "sw_longitude": 11.324, 
+        "fullname": "Kleingesee, Bavaria, Landkreis Forchheim, Germany", 
+        "sw_latitude": 49.718
+      }, 
+      "id": 666893
+    }
+  ]
+}

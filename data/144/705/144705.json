@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.977, 
+              30.508
+            ], 
+            [
+              -108.977, 
+              30.526
+            ], 
+            [
+              -108.956, 
+              30.526
+            ], 
+            [
+              -108.956, 
+              30.508
+            ], 
+            [
+              -108.977, 
+              30.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.526, 
+        "name": "San Miguelito", 
+        "adjacent_woeid": [
+          112873, 
+          113285, 
+          116954, 
+          118643, 
+          122733, 
+          130972
+        ], 
+        "woeid": 144705, 
+        "alias_SPA_V": [
+          "S Miguelito"
+        ], 
+        "ne_longitude": -108.956, 
+        "longitude": -108.967, 
+        "parent_woeid": 12601559, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.517, 
+        "sw_longitude": -108.977, 
+        "fullname": "San Miguelito, Sonora, Bavispe, Mexico", 
+        "sw_latitude": 30.508
+      }, 
+      "id": 144705
+    }
+  ]
+}

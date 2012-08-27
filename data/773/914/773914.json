@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.123, 
+              42.832
+            ], 
+            [
+              -5.123, 
+              42.841
+            ], 
+            [
+              -5.111, 
+              42.841
+            ], 
+            [
+              -5.111, 
+              42.832
+            ], 
+            [
+              -5.123, 
+              42.832
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.841, 
+        "name": "Santa Olaja de la Varga", 
+        "adjacent_woeid": [
+          752009, 
+          752010, 
+          761184, 
+          768588
+        ], 
+        "woeid": 773914, 
+        "alias_SPA_V": [
+          "Sta Olaja de la Varga"
+        ], 
+        "ne_longitude": -5.111, 
+        "longitude": -5.117, 
+        "parent_woeid": 12691799, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.837, 
+        "sw_longitude": -5.123, 
+        "fullname": "Santa Olaja de la Varga, Castille and Leon, Leon, Spain", 
+        "sw_latitude": 42.832
+      }, 
+      "id": 773914
+    }
+  ]
+}

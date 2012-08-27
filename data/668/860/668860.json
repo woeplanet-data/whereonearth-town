@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.196, 
+              52.842
+            ], 
+            [
+              13.196, 
+              52.884
+            ], 
+            [
+              13.230, 
+              52.884
+            ], 
+            [
+              13.230, 
+              52.842
+            ], 
+            [
+              13.196, 
+              52.842
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 668860, 
+        "name": "Kreuzberg", 
+        "adjacent_woeid": [
+          655517, 
+          676574, 
+          698879, 
+          703117, 
+          29352508
+        ], 
+        "ne_latitude": 52.884, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.230, 
+        "longitude": 13.217, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 24547262, 
+        "latitude": 52.867, 
+        "sw_longitude": 13.196, 
+        "fullname": "Kreuzberg, Brandenburg, Oberhavel, Germany", 
+        "sw_latitude": 52.842
+      }, 
+      "id": 668860
+    }
+  ]
+}

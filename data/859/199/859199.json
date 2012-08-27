@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.240, 
+              59.486
+            ], 
+            [
+              10.240, 
+              59.508
+            ], 
+            [
+              10.281, 
+              59.508
+            ], 
+            [
+              10.281, 
+              59.486
+            ], 
+            [
+              10.240, 
+              59.486
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "NOR", 
+        "woeid": 859199, 
+        "name": "Gullhaug", 
+        "adjacent_woeid": [
+          859787, 
+          863582, 
+          15000978, 
+          29305081
+        ], 
+        "ne_latitude": 59.508, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Gullaug"
+        ], 
+        "ne_longitude": 10.281, 
+        "longitude": 10.256, 
+        "placetype": "Town", 
+        "iso": "NO", 
+        "date_indexed": "2010-12-02T10:20:22Z", 
+        "parent_woeid": 12592919, 
+        "latitude": 59.500, 
+        "sw_longitude": 10.240, 
+        "fullname": "Gullhaug, Vestfold Fylke, Holmestrand Kommune, Norway", 
+        "alias_NOR_V": [
+          "Guldhaug"
+        ], 
+        "sw_latitude": 59.486
+      }, 
+      "id": 859199
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.543, 
+              17.041
+            ], 
+            [
+              -99.543, 
+              17.059
+            ], 
+            [
+              -99.524, 
+              17.059
+            ], 
+            [
+              -99.524, 
+              17.041
+            ], 
+            [
+              -99.543, 
+              17.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.059, 
+        "name": "El Zapote", 
+        "adjacent_woeid": [
+          118342, 
+          122673, 
+          130238, 
+          130624, 
+          135276
+        ], 
+        "woeid": 123080, 
+        "alias_SPA_V": [
+          "Zapote"
+        ], 
+        "ne_longitude": -99.524, 
+        "longitude": -99.533, 
+        "parent_woeid": 12600074, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.050, 
+        "sw_longitude": -99.543, 
+        "fullname": "El Zapote, Guerrero, Juan R. Escudero, Mexico", 
+        "sw_latitude": 17.041
+      }, 
+      "id": 123080
+    }
+  ]
+}

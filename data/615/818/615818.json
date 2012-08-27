@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.333, 
+              45.286
+            ], 
+            [
+              3.333, 
+              45.313
+            ], 
+            [
+              3.369, 
+              45.313
+            ], 
+            [
+              3.369, 
+              45.286
+            ], 
+            [
+              3.333, 
+              45.286
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615818, 
+        "name": "Paulhac", 
+        "adjacent_woeid": [
+          578733, 
+          589710, 
+          623227, 
+          625104
+        ], 
+        "ne_latitude": 45.313, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.369, 
+        "longitude": 3.349, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 22755214, 
+        "latitude": 45.301, 
+        "sw_longitude": 3.333, 
+        "fullname": "Paulhac, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.286
+      }, 
+      "id": 615818
+    }
+  ]
+}

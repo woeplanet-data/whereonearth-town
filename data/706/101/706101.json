@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.359, 
+              50.366
+            ], 
+            [
+              11.359, 
+              50.392
+            ], 
+            [
+              11.404, 
+              50.392
+            ], 
+            [
+              11.404, 
+              50.366
+            ], 
+            [
+              11.359, 
+              50.366
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706101, 
+        "name": "Wickendorf", 
+        "adjacent_woeid": [
+          646571, 
+          650176, 
+          669809, 
+          673911, 
+          686929
+        ], 
+        "ne_latitude": 50.392, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.404, 
+        "longitude": 11.377, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635339, 
+        "latitude": 50.379, 
+        "sw_longitude": 11.359, 
+        "fullname": "Wickendorf, Bavaria, Landkreis Kronach, Germany", 
+        "sw_latitude": 50.366
+      }, 
+      "id": 706101
+    }
+  ]
+}

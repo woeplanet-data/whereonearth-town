@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.902, 
+              48.512
+            ], 
+            [
+              1.902, 
+              48.550
+            ], 
+            [
+              1.980, 
+              48.550
+            ], 
+            [
+              1.980, 
+              48.512
+            ], 
+            [
+              1.902, 
+              48.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627686, 
+        "name": "Ste.-Mesme", 
+        "adjacent_woeid": [
+          586945, 
+          617452, 
+          625598
+        ], 
+        "ne_latitude": 48.550, 
+        "ne_longitude": 1.980, 
+        "longitude": 1.955, 
+        "parent_woeid": 12653420, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Mesme"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.529, 
+        "sw_longitude": 1.902, 
+        "fullname": "Ste.-Mesme, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.512
+      }, 
+      "id": 627686
+    }
+  ]
+}

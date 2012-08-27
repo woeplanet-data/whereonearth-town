@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.656, 
+              43.403
+            ], 
+            [
+              1.656, 
+              43.434
+            ], 
+            [
+              1.700, 
+              43.434
+            ], 
+            [
+              1.700, 
+              43.403
+            ], 
+            [
+              1.656, 
+              43.403
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626810, 
+        "name": "St.-Rome", 
+        "adjacent_woeid": [
+          592419, 
+          612566, 
+          612645, 
+          631170, 
+          631916
+        ], 
+        "ne_latitude": 43.434, 
+        "ne_longitude": 1.700, 
+        "longitude": 1.679, 
+        "parent_woeid": 12671191, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Rome"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.415, 
+        "sw_longitude": 1.656, 
+        "fullname": "St.-Rome, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.403
+      }, 
+      "id": 626810
+    }
+  ]
+}

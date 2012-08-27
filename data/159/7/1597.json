@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.990, 
+              45.455
+            ], 
+            [
+              -72.990, 
+              45.582
+            ], 
+            [
+              -72.815, 
+              45.582
+            ], 
+            [
+              -72.815, 
+              45.455
+            ], 
+            [
+              -72.990, 
+              45.455
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1597, 
+        "name": "St.-Pie", 
+        "adjacent_woeid": [
+          1588, 
+          23394509, 
+          23394681, 
+          23396464, 
+          23396593, 
+          29374730
+        ], 
+        "ne_latitude": 45.582, 
+        "ne_longitude": -72.815, 
+        "longitude": -72.907, 
+        "parent_woeid": 29375183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pie"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.505, 
+        "sw_longitude": -72.990, 
+        "fullname": "St.-Pie, Quebec, Les Maskoutains, Canada", 
+        "sw_latitude": 45.455
+      }, 
+      "id": 1597
+    }
+  ]
+}

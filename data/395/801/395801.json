@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.617, 
+              8.488
+            ], 
+            [
+              -64.617, 
+              8.506
+            ], 
+            [
+              -64.599, 
+              8.506
+            ], 
+            [
+              -64.599, 
+              8.488
+            ], 
+            [
+              -64.617, 
+              8.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.506, 
+        "name": "Santa Clara", 
+        "adjacent_woeid": [
+          395576, 
+          395599, 
+          395865, 
+          468140, 
+          468658
+        ], 
+        "woeid": 395801, 
+        "alias_SPA_V": [
+          "Sta Clara"
+        ], 
+        "ne_longitude": -64.599, 
+        "longitude": -64.608, 
+        "parent_woeid": 26805710, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.497, 
+        "sw_longitude": -64.617, 
+        "fullname": "Santa Clara, Anzoategui, Jose Gregorio Monagas, Venezuela", 
+        "sw_latitude": 8.488
+      }, 
+      "id": 395801
+    }
+  ]
+}

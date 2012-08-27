@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.331, 
+              43.103
+            ], 
+            [
+              0.331, 
+              43.143
+            ], 
+            [
+              0.360, 
+              43.143
+            ], 
+            [
+              0.360, 
+              43.103
+            ], 
+            [
+              0.331, 
+              43.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600869, 
+        "name": "Lagrange", 
+        "adjacent_woeid": [
+          578978, 
+          582850, 
+          594976, 
+          609069
+        ], 
+        "ne_latitude": 43.143, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.360, 
+        "longitude": 0.346, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12664292, 
+        "latitude": 43.126, 
+        "sw_longitude": 0.331, 
+        "fullname": "Lagrange, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.103
+      }, 
+      "id": 600869
+    }
+  ]
+}

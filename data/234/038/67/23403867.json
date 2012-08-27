@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.453, 
+              52.309
+            ], 
+            [
+              -111.453, 
+              52.327
+            ], 
+            [
+              -111.424, 
+              52.327
+            ], 
+            [
+              -111.424, 
+              52.309
+            ], 
+            [
+              -111.453, 
+              52.309
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23403867, 
+        "name": "Brownfield", 
+        "adjacent_woeid": [
+          8284, 
+          8547, 
+          8552, 
+          8554, 
+          8564, 
+          23403903, 
+          29373007
+        ], 
+        "ne_latitude": 52.327, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -111.424, 
+        "longitude": -111.439, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "parent_woeid": 29375228, 
+        "latitude": 52.318, 
+        "sw_longitude": -111.453, 
+        "fullname": "Brownfield, Alberta, Alberta, Canada", 
+        "sw_latitude": 52.309
+      }, 
+      "id": 23403867
+    }
+  ]
+}

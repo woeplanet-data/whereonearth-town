@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.310, 
+              21.941
+            ], 
+            [
+              -105.310, 
+              21.959
+            ], 
+            [
+              -105.286, 
+              21.959
+            ], 
+            [
+              -105.286, 
+              21.941
+            ], 
+            [
+              -105.310, 
+              21.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.959, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          122641, 
+          126547, 
+          128088, 
+          137371, 
+          137718, 
+          55921073
+        ], 
+        "woeid": 145501, 
+        "alias_SPA_V": [
+          "S Vicente"
+        ], 
+        "ne_longitude": -105.286, 
+        "longitude": -105.294, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.951, 
+        "sw_longitude": -105.310, 
+        "fullname": "San Vicente, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 21.941
+      }, 
+      "id": 145501
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.022, 
+              45.649
+            ], 
+            [
+              0.022, 
+              45.671
+            ], 
+            [
+              0.058, 
+              45.671
+            ], 
+            [
+              0.058, 
+              45.649
+            ], 
+            [
+              0.022, 
+              45.649
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626842, 
+        "name": "St.-Saturnin", 
+        "adjacent_woeid": [
+          584310, 
+          608162, 
+          629427, 
+          20198423, 
+          20198967
+        ], 
+        "ne_latitude": 45.671, 
+        "ne_longitude": 0.058, 
+        "longitude": 0.044, 
+        "parent_woeid": 12671205, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Saturnin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.661, 
+        "sw_longitude": 0.022, 
+        "fullname": "St.-Saturnin, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.649
+      }, 
+      "id": 626842
+    }
+  ]
+}

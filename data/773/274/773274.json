@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.246, 
+              38.812
+            ], 
+            [
+              -2.246, 
+              38.881
+            ], 
+            [
+              -2.171, 
+              38.881
+            ], 
+            [
+              -2.171, 
+              38.812
+            ], 
+            [
+              -2.246, 
+              38.812
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.881, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          753488, 
+          756455, 
+          756494, 
+          758544, 
+          769855, 
+          770687
+        ], 
+        "woeid": 773274, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -2.171, 
+        "longitude": -2.183, 
+        "parent_woeid": 12690282, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.829, 
+        "sw_longitude": -2.246, 
+        "fullname": "San Pedro, Castille la Mancha, Albacete, Spain", 
+        "sw_latitude": 38.812
+      }, 
+      "id": 773274
+    }
+  ]
+}

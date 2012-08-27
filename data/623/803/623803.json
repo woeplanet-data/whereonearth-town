@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.036, 
+              43.467
+            ], 
+            [
+              -1.036, 
+              43.484
+            ], 
+            [
+              -1.011, 
+              43.484
+            ], 
+            [
+              -1.011, 
+              43.467
+            ], 
+            [
+              -1.036, 
+              43.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623803, 
+        "name": "St.-Dos", 
+        "adjacent_woeid": [
+          577381, 
+          583127, 
+          600576, 
+          626318
+        ], 
+        "ne_latitude": 43.484, 
+        "ne_longitude": -1.011, 
+        "longitude": -1.025, 
+        "parent_woeid": 12652407, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Dos"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.478, 
+        "sw_longitude": -1.036, 
+        "fullname": "St.-Dos, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.467
+      }, 
+      "id": 623803
+    }
+  ]
+}

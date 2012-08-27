@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.760, 
+              21.424
+            ], 
+            [
+              -100.760, 
+              21.442
+            ], 
+            [
+              -100.740, 
+              21.442
+            ], 
+            [
+              -100.740, 
+              21.424
+            ], 
+            [
+              -100.760, 
+              21.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.442, 
+        "name": "La Providencia", 
+        "adjacent_woeid": [
+          119877, 
+          127589, 
+          127780, 
+          128898, 
+          129010, 
+          129231, 
+          137346
+        ], 
+        "woeid": 128920, 
+        "alias_SPA_V": [
+          "Providencia"
+        ], 
+        "ne_longitude": -100.740, 
+        "longitude": -100.750, 
+        "parent_woeid": 12600017, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.433, 
+        "sw_longitude": -100.760, 
+        "fullname": "La Providencia, Guanajuato, San Diego de la Union, Mexico", 
+        "sw_latitude": 21.424
+      }, 
+      "id": 128920
+    }
+  ]
+}

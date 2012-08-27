@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.234, 
+              45.050
+            ], 
+            [
+              1.234, 
+              45.082
+            ], 
+            [
+              1.256, 
+              45.082
+            ], 
+            [
+              1.256, 
+              45.050
+            ], 
+            [
+              1.234, 
+              45.050
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622845, 
+        "name": "St.-Amand-de-Coly", 
+        "adjacent_woeid": [
+          576450, 
+          577004, 
+          586568, 
+          586739, 
+          597267, 
+          597407, 
+          624122
+        ], 
+        "ne_latitude": 45.082, 
+        "alias_ENG_V": [
+          "Saint-Amand"
+        ], 
+        "ne_longitude": 1.256, 
+        "longitude": 1.247, 
+        "parent_woeid": 12639812, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Amand-de-Coly"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.064, 
+        "sw_longitude": 1.234, 
+        "fullname": "St.-Amand-de-Coly, St-Amand, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.050
+      }, 
+      "id": 622845
+    }
+  ]
+}

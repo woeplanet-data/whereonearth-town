@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.760, 
+              21.691
+            ], 
+            [
+              -99.760, 
+              21.709
+            ], 
+            [
+              -99.740, 
+              21.709
+            ], 
+            [
+              -99.740, 
+              21.691
+            ], 
+            [
+              -99.760, 
+              21.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.709, 
+        "name": "Vaqueros", 
+        "adjacent_woeid": [
+          111206, 
+          112087, 
+          115730, 
+          136346, 
+          142121, 
+          145247
+        ], 
+        "woeid": 150568, 
+        "alias_SPA_V": [
+          "Vaqueras"
+        ], 
+        "ne_longitude": -99.740, 
+        "longitude": -99.750, 
+        "parent_woeid": 12601488, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.700, 
+        "sw_longitude": -99.760, 
+        "fullname": "Vaqueros, San Luis Potosi, Lagunillas, Mexico", 
+        "sw_latitude": 21.691
+      }, 
+      "id": 150568
+    }
+  ]
+}

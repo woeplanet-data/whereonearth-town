@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.646, 
+              45.636
+            ], 
+            [
+              4.646, 
+              45.662
+            ], 
+            [
+              4.677, 
+              45.662
+            ], 
+            [
+              4.677, 
+              45.636
+            ], 
+            [
+              4.646, 
+              45.636
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627252, 
+        "name": "St.-Vincent", 
+        "adjacent_woeid": [
+          585276, 
+          622493, 
+          625106
+        ], 
+        "ne_latitude": 45.662, 
+        "ne_longitude": 4.677, 
+        "longitude": 4.667, 
+        "parent_woeid": 22755282, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vincent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.650, 
+        "sw_longitude": 4.646, 
+        "fullname": "St.-Vincent, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 45.636
+      }, 
+      "id": 627252
+    }
+  ]
+}

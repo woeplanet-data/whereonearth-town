@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.765, 
+              49.990
+            ], 
+            [
+              3.765, 
+              49.999
+            ], 
+            [
+              3.779, 
+              49.999
+            ], 
+            [
+              3.779, 
+              49.990
+            ], 
+            [
+              3.765, 
+              49.990
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218124, 
+        "name": "La Petite Rue", 
+        "adjacent_woeid": [
+          590105, 
+          607697, 
+          20218122, 
+          29332889, 
+          29333451
+        ], 
+        "ne_latitude": 49.999, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.779, 
+        "longitude": 3.772, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "parent_woeid": 22756369, 
+        "latitude": 49.995, 
+        "sw_longitude": 3.765, 
+        "fullname": "La Petite Rue, Picardie, Aisne, France", 
+        "sw_latitude": 49.990
+      }, 
+      "id": 20218124
+    }
+  ]
+}

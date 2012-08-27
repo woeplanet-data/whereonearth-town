@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.345, 
+              48.896
+            ], 
+            [
+              13.345, 
+              48.905
+            ], 
+            [
+              13.359, 
+              48.905
+            ], 
+            [
+              13.359, 
+              48.896
+            ], 
+            [
+              13.345, 
+              48.896
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670032, 
+        "name": "Langdorf", 
+        "adjacent_woeid": [
+          654798, 
+          681586, 
+          684127, 
+          29348385
+        ], 
+        "ne_latitude": 48.905, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.359, 
+        "longitude": 13.352, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12622874, 
+        "latitude": 48.900, 
+        "sw_longitude": 13.345, 
+        "fullname": "Langdorf, Bavaria, Freyung-Grafenau, Germany", 
+        "sw_latitude": 48.896
+      }, 
+      "id": 670032
+    }
+  ]
+}

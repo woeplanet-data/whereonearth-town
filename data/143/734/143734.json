@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.527, 
+              23.991
+            ], 
+            [
+              -104.527, 
+              24.009
+            ], 
+            [
+              -104.507, 
+              24.009
+            ], 
+            [
+              -104.507, 
+              23.991
+            ], 
+            [
+              -104.527, 
+              23.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.009, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          113324, 
+          113489, 
+          117277, 
+          118300, 
+          123612, 
+          133721, 
+          134402
+        ], 
+        "woeid": 143734, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -104.507, 
+        "longitude": -104.517, 
+        "parent_woeid": 12599954, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.000, 
+        "sw_longitude": -104.527, 
+        "fullname": "San Juan, Durango, Durango, Mexico", 
+        "sw_latitude": 23.991
+      }, 
+      "id": 143734
+    }
+  ]
+}

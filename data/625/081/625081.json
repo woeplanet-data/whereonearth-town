@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.191, 
+              45.070
+            ], 
+            [
+              5.191, 
+              45.103
+            ], 
+            [
+              5.228, 
+              45.103
+            ], 
+            [
+              5.228, 
+              45.070
+            ], 
+            [
+              5.191, 
+              45.070
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625081, 
+        "name": "St.-Lattier", 
+        "adjacent_woeid": [
+          590438, 
+          596820, 
+          612191, 
+          623292, 
+          29329770, 
+          29330103
+        ], 
+        "ne_latitude": 45.103, 
+        "ne_longitude": 5.228, 
+        "longitude": 5.202, 
+        "parent_woeid": 12670717, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lattier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.088, 
+        "sw_longitude": 5.191, 
+        "fullname": "St.-Lattier, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.070
+      }, 
+      "id": 625081
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.123, 
+              49.298
+            ], 
+            [
+              10.123, 
+              49.329
+            ], 
+            [
+              10.144, 
+              49.329
+            ], 
+            [
+              10.144, 
+              49.298
+            ], 
+            [
+              10.123, 
+              49.298
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641878, 
+        "name": "Buch", 
+        "adjacent_woeid": [
+          638505, 
+          651453, 
+          658043, 
+          672540, 
+          20160286
+        ], 
+        "ne_latitude": 49.329, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.144, 
+        "longitude": 10.130, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12624159, 
+        "latitude": 49.317, 
+        "sw_longitude": 10.123, 
+        "fullname": "Buch, Baden-Wurttemberg, Landkreis Schw\u00e4bisch Hall, Germany", 
+        "sw_latitude": 49.298
+      }, 
+      "id": 641878
+    }
+  ]
+}

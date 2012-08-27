@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.360, 
+              17.758
+            ], 
+            [
+              -100.360, 
+              17.776
+            ], 
+            [
+              -100.340, 
+              17.776
+            ], 
+            [
+              -100.340, 
+              17.758
+            ], 
+            [
+              -100.360, 
+              17.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.776, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          114967, 
+          117365, 
+          130759, 
+          131740, 
+          134398, 
+          144798, 
+          145536
+        ], 
+        "woeid": 142569, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -100.340, 
+        "longitude": -100.350, 
+        "parent_woeid": 12600090, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.767, 
+        "sw_longitude": -100.360, 
+        "fullname": "San Francisco, Guerrero, San Miguel Totolapan, Mexico", 
+        "sw_latitude": 17.758
+      }, 
+      "id": 142569
+    }
+  ]
+}

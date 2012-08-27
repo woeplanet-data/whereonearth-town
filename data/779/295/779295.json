@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.845, 
+              40.661
+            ], 
+            [
+              -3.845, 
+              40.717
+            ], 
+            [
+              -3.770, 
+              40.717
+            ], 
+            [
+              -3.770, 
+              40.661
+            ], 
+            [
+              -3.845, 
+              40.661
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.717, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          23413914, 
+          29370568
+        ], 
+        "woeid": 779295, 
+        "alias_SPA_V": [
+          "S Pedro"
+        ], 
+        "ne_longitude": -3.770, 
+        "longitude": -3.792, 
+        "parent_woeid": 12687993, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.679, 
+        "sw_longitude": -3.845, 
+        "fullname": "San Pedro, Madrid, Madrid, Spain", 
+        "sw_latitude": 40.661
+      }, 
+      "id": 779295
+    }
+  ]
+}

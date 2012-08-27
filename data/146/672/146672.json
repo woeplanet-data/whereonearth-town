@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.077, 
+              24.808
+            ], 
+            [
+              -100.077, 
+              24.826
+            ], 
+            [
+              -100.057, 
+              24.826
+            ], 
+            [
+              -100.057, 
+              24.808
+            ], 
+            [
+              -100.077, 
+              24.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.826, 
+        "name": "Santa Rita", 
+        "adjacent_woeid": [
+          123837, 
+          131312, 
+          137834, 
+          144312, 
+          146671
+        ], 
+        "woeid": 146672, 
+        "alias_SPA_V": [
+          "Sta Rita"
+        ], 
+        "ne_longitude": -100.057, 
+        "longitude": -100.074, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.812, 
+        "sw_longitude": -100.077, 
+        "fullname": "Santa Rita, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.808
+      }, 
+      "id": 146672
+    }
+  ]
+}

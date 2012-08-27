@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.977, 
+              23.324
+            ], 
+            [
+              -97.977, 
+              23.342
+            ], 
+            [
+              -97.957, 
+              23.342
+            ], 
+            [
+              -97.957, 
+              23.324
+            ], 
+            [
+              -97.977, 
+              23.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.342, 
+        "name": "La Zamorina", 
+        "adjacent_woeid": [
+          122984, 
+          123329, 
+          127212, 
+          134577, 
+          139814, 
+          145229
+        ], 
+        "woeid": 129664, 
+        "alias_SPA_V": [
+          "Zamorino"
+        ], 
+        "ne_longitude": -97.957, 
+        "longitude": -97.967, 
+        "parent_woeid": 12601668, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.333, 
+        "sw_longitude": -97.977, 
+        "fullname": "La Zamorina, Tamaulipas, Soto la Marina, Mexico", 
+        "sw_latitude": 23.324
+      }, 
+      "id": 129664
+    }
+  ]
+}

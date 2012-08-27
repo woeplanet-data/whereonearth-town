@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.232, 
+              49.619
+            ], 
+            [
+              11.232, 
+              49.628
+            ], 
+            [
+              11.246, 
+              49.628
+            ], 
+            [
+              11.246, 
+              49.619
+            ], 
+            [
+              11.232, 
+              49.619
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675460, 
+        "name": "Mitteldorf", 
+        "adjacent_woeid": [
+          643452, 
+          645235, 
+          675538, 
+          682153
+        ], 
+        "ne_latitude": 49.628, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.246, 
+        "longitude": 11.239, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:41Z", 
+        "parent_woeid": 12634367, 
+        "latitude": 49.624, 
+        "sw_longitude": 11.232, 
+        "fullname": "Mitteldorf, Bavaria, Landkreis Forchheim, Germany", 
+        "sw_latitude": 49.619
+      }, 
+      "id": 675460
+    }
+  ]
+}

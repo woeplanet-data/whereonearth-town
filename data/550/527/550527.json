@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.946, 
+              47.081
+            ], 
+            [
+              10.946, 
+              47.099
+            ], 
+            [
+              10.973, 
+              47.099
+            ], 
+            [
+              10.973, 
+              47.081
+            ], 
+            [
+              10.946, 
+              47.081
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550527, 
+        "name": "Dorf", 
+        "adjacent_woeid": [
+          550448, 
+          550635, 
+          550859, 
+          550971, 
+          28995883, 
+          28995899
+        ], 
+        "ne_latitude": 47.099, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.973, 
+        "longitude": 10.959, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675357, 
+        "latitude": 47.090, 
+        "sw_longitude": 10.946, 
+        "fullname": "Dorf, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.081
+      }, 
+      "id": 550527
+    }
+  ]
+}

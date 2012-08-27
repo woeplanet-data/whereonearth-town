@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.562, 
+              46.547
+            ], 
+            [
+              1.562, 
+              46.567
+            ], 
+            [
+              1.579, 
+              46.567
+            ], 
+            [
+              1.579, 
+              46.547
+            ], 
+            [
+              1.562, 
+              46.547
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603546, 
+        "name": "Le Menoux", 
+        "adjacent_woeid": [
+          577779, 
+          585385, 
+          603881, 
+          605001, 
+          29332268
+        ], 
+        "ne_latitude": 46.567, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.579, 
+        "longitude": 1.567, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:53Z", 
+        "parent_woeid": 12647428, 
+        "latitude": 46.557, 
+        "sw_longitude": 1.562, 
+        "fullname": "Le Menoux, Centre, Indre, France", 
+        "sw_latitude": 46.547
+      }, 
+      "id": 603546
+    }
+  ]
+}

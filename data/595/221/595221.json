@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.248, 
+              49.920
+            ], 
+            [
+              1.248, 
+              49.952
+            ], 
+            [
+              1.296, 
+              49.952
+            ], 
+            [
+              1.296, 
+              49.920
+            ], 
+            [
+              1.248, 
+              49.920
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595221, 
+        "name": "Intraville", 
+        "adjacent_woeid": [
+          593028, 
+          593187, 
+          593726, 
+          628991, 
+          29330877
+        ], 
+        "ne_latitude": 49.952, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.296, 
+        "longitude": 1.279, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12645369, 
+        "latitude": 49.932, 
+        "sw_longitude": 1.248, 
+        "fullname": "Intraville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.920
+      }, 
+      "id": 595221
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.069, 
+              51.505
+            ], 
+            [
+              10.069, 
+              51.546
+            ], 
+            [
+              10.093, 
+              51.546
+            ], 
+            [
+              10.093, 
+              51.505
+            ], 
+            [
+              10.069, 
+              51.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685810, 
+        "name": "Potzwenden", 
+        "adjacent_woeid": [
+          649270, 
+          669976, 
+          691132, 
+          20166203, 
+          20166215
+        ], 
+        "ne_latitude": 51.546, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.093, 
+        "longitude": 10.085, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12630335, 
+        "latitude": 51.522, 
+        "sw_longitude": 10.069, 
+        "fullname": "Potzwenden, Lower Saxony, Gottingen, Germany", 
+        "sw_latitude": 51.505
+      }, 
+      "id": 685810
+    }
+  ]
+}

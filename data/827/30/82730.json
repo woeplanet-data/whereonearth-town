@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.076, 
+              14.841
+            ], 
+            [
+              -90.076, 
+              14.859
+            ], 
+            [
+              -90.057, 
+              14.859
+            ], 
+            [
+              -90.057, 
+              14.841
+            ], 
+            [
+              -90.076, 
+              14.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.859, 
+        "name": "El Progreso", 
+        "adjacent_woeid": [
+          82164, 
+          82462, 
+          83025, 
+          84549, 
+          85529, 
+          85913, 
+          86046, 
+          86047, 
+          86572
+        ], 
+        "woeid": 82730, 
+        "alias_SPA_V": [
+          "Progreso"
+        ], 
+        "ne_longitude": -90.057, 
+        "longitude": -90.067, 
+        "parent_woeid": 26806965, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.850, 
+        "sw_longitude": -90.076, 
+        "fullname": "El Progreso, Guastatoya, Guatemala", 
+        "sw_latitude": 14.841
+      }, 
+      "id": 82730
+    }
+  ]
+}

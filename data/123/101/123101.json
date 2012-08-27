@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.733, 
+              18.333
+            ], 
+            [
+              -101.733, 
+              18.351
+            ], 
+            [
+              -101.714, 
+              18.351
+            ], 
+            [
+              -101.714, 
+              18.333
+            ], 
+            [
+              -101.733, 
+              18.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.351, 
+        "name": "El Zopilote", 
+        "adjacent_woeid": [
+          119938, 
+          120779, 
+          126333, 
+          130649, 
+          141706, 
+          143423
+        ], 
+        "woeid": 123101, 
+        "alias_SPA_V": [
+          "Zopilote"
+        ], 
+        "ne_longitude": -101.714, 
+        "longitude": -101.724, 
+        "parent_woeid": 12600052, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.342, 
+        "sw_longitude": -101.733, 
+        "fullname": "El Zopilote, Guerrero, Coahuayutla de Jose Maria Izazaga, Mexico", 
+        "sw_latitude": 18.333
+      }, 
+      "id": 123101
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.350, 
+              49.010
+            ], 
+            [
+              11.350, 
+              49.050
+            ], 
+            [
+              11.388, 
+              49.050
+            ], 
+            [
+              11.388, 
+              49.010
+            ], 
+            [
+              11.350, 
+              49.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675031, 
+        "name": "Mettendorf", 
+        "adjacent_woeid": [
+          648117, 
+          657932, 
+          658597, 
+          664481
+        ], 
+        "ne_latitude": 49.050, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.388, 
+        "longitude": 11.367, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12634537, 
+        "latitude": 49.030, 
+        "sw_longitude": 11.350, 
+        "fullname": "Mettendorf, Bavaria, Landkreis Roth, Germany", 
+        "sw_latitude": 49.010
+      }, 
+      "id": 675031
+    }
+  ]
+}

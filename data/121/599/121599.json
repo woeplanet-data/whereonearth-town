@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.640, 
+              25.877
+            ], 
+            [
+              -106.640, 
+              25.889
+            ], 
+            [
+              -106.626, 
+              25.889
+            ], 
+            [
+              -106.626, 
+              25.877
+            ], 
+            [
+              -106.640, 
+              25.877
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.889, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          120373, 
+          121601, 
+          133378, 
+          150255
+        ], 
+        "woeid": 121599, 
+        "alias_SPA_V": [
+          "Porvenir"
+        ], 
+        "ne_longitude": -106.626, 
+        "longitude": -106.633, 
+        "parent_woeid": 12599847, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.883, 
+        "sw_longitude": -106.640, 
+        "fullname": "El Porvenir, Chihuahua, Guadalupe y Calvo, Mexico", 
+        "sw_latitude": 25.877
+      }, 
+      "id": 121599
+    }
+  ]
+}

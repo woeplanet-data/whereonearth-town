@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.096, 
+              46.715
+            ], 
+            [
+              -72.096, 
+              46.799
+            ], 
+            [
+              -71.994, 
+              46.799
+            ], 
+            [
+              -71.994, 
+              46.715
+            ], 
+            [
+              -72.096, 
+              46.715
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23395670, 
+        "name": "St.-Gilbert", 
+        "adjacent_woeid": [
+          1385, 
+          23394521, 
+          23395642, 
+          23396615
+        ], 
+        "ne_latitude": 46.799, 
+        "ne_longitude": -71.994, 
+        "longitude": -72.026, 
+        "parent_woeid": 29375087, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Gilbert"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.751, 
+        "sw_longitude": -72.096, 
+        "fullname": "St.-Gilbert, Quebec, Portneuf, Canada", 
+        "sw_latitude": 46.715
+      }, 
+      "id": 23395670
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.411, 
+              47.116
+            ], 
+            [
+              0.411, 
+              47.132
+            ], 
+            [
+              0.440, 
+              47.132
+            ], 
+            [
+              0.440, 
+              47.116
+            ], 
+            [
+              0.411, 
+              47.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624434, 
+        "name": "St.-Gilles", 
+        "adjacent_woeid": [
+          588071, 
+          615610, 
+          628372
+        ], 
+        "ne_latitude": 47.132, 
+        "ne_longitude": 0.440, 
+        "longitude": 0.423, 
+        "parent_woeid": 12645341, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gilles"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.125, 
+        "sw_longitude": 0.411, 
+        "fullname": "St.-Gilles, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.116
+      }, 
+      "id": 624434
+    }
+  ]
+}

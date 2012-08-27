@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.701, 
+              48.878
+            ], 
+            [
+              5.701, 
+              48.901
+            ], 
+            [
+              5.750, 
+              48.901
+            ], 
+            [
+              5.750, 
+              48.878
+            ], 
+            [
+              5.701, 
+              48.878
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613123, 
+        "name": "Montsec", 
+        "adjacent_woeid": [
+          582525, 
+          608765, 
+          619386, 
+          632983, 
+          633014
+        ], 
+        "ne_latitude": 48.901, 
+        "ne_longitude": 5.750, 
+        "longitude": 5.720, 
+        "parent_woeid": 12667249, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Montset"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.891, 
+        "sw_longitude": 5.701, 
+        "fullname": "Montsec, Lorraine, Meuse, France", 
+        "sw_latitude": 48.878
+      }, 
+      "id": 613123
+    }
+  ]
+}

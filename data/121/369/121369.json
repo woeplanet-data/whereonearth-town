@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.943, 
+              25.141
+            ], 
+            [
+              -99.943, 
+              25.159
+            ], 
+            [
+              -99.923, 
+              25.159
+            ], 
+            [
+              -99.923, 
+              25.141
+            ], 
+            [
+              -99.943, 
+              25.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.159, 
+        "name": "El Pastor", 
+        "adjacent_woeid": [
+          114676, 
+          119180, 
+          120080, 
+          122702, 
+          122703, 
+          123290
+        ], 
+        "woeid": 121369, 
+        "alias_SPA_V": [
+          "El Pastor, Ejido"
+        ], 
+        "ne_longitude": -99.923, 
+        "longitude": -99.933, 
+        "parent_woeid": 12600644, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.150, 
+        "sw_longitude": -99.943, 
+        "fullname": "El Pastor, Nuevo Leon, Montemorelos, Mexico", 
+        "sw_latitude": 25.141
+      }, 
+      "id": 121369
+    }
+  ]
+}

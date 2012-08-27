@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.221, 
+              48.274
+            ], 
+            [
+              12.221, 
+              48.292
+            ], 
+            [
+              12.248, 
+              48.292
+            ], 
+            [
+              12.248, 
+              48.274
+            ], 
+            [
+              12.221, 
+              48.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685518, 
+        "name": "Polding", 
+        "adjacent_woeid": [
+          638053, 
+          655466, 
+          655612, 
+          690066, 
+          704090
+        ], 
+        "ne_latitude": 48.292, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.248, 
+        "longitude": 12.235, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12635141, 
+        "latitude": 48.283, 
+        "sw_longitude": 12.221, 
+        "fullname": "Polding, Bavaria, Landkreis Erding, Germany", 
+        "sw_latitude": 48.274
+      }, 
+      "id": 685518
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.972, 
+              50.027
+            ], 
+            [
+              1.972, 
+              50.062
+            ], 
+            [
+              2.004, 
+              50.062
+            ], 
+            [
+              2.004, 
+              50.027
+            ], 
+            [
+              1.972, 
+              50.027
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608485, 
+        "name": "Long", 
+        "adjacent_woeid": [
+          586369, 
+          591393, 
+          632060, 
+          15003253, 
+          20218678
+        ], 
+        "ne_latitude": 50.062, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.004, 
+        "longitude": 1.981, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 12665771, 
+        "latitude": 50.040, 
+        "sw_longitude": 1.972, 
+        "fullname": "Long, Picardie, Somme, France", 
+        "sw_latitude": 50.027
+      }, 
+      "id": 608485
+    }
+  ]
+}

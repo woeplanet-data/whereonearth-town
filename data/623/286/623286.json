@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.442, 
+              44.991
+            ], 
+            [
+              1.442, 
+              45.001
+            ], 
+            [
+              1.455, 
+              45.001
+            ], 
+            [
+              1.455, 
+              44.991
+            ], 
+            [
+              1.442, 
+              44.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623286, 
+        "name": "St.-Bonnet", 
+        "adjacent_woeid": [
+          580829, 
+          587867, 
+          588335, 
+          592835, 
+          29331835
+        ], 
+        "ne_latitude": 45.001, 
+        "ne_longitude": 1.455, 
+        "longitude": 1.449, 
+        "parent_woeid": 12662098, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bonnet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.996, 
+        "sw_longitude": 1.442, 
+        "fullname": "St.-Bonnet, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.991
+      }, 
+      "id": 623286
+    }
+  ]
+}

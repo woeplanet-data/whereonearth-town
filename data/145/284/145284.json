@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.608, 
+              29.828
+            ], 
+            [
+              -110.608, 
+              29.846
+            ], 
+            [
+              -110.587, 
+              29.846
+            ], 
+            [
+              -110.587, 
+              29.828
+            ], 
+            [
+              -110.608, 
+              29.828
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.846, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          114804, 
+          128672, 
+          135297, 
+          140263, 
+          146358
+        ], 
+        "woeid": 145284, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -110.587, 
+        "longitude": -110.598, 
+        "parent_woeid": 12601595, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.837, 
+        "sw_longitude": -110.608, 
+        "fullname": "San Rafael, Sonora, Rayon, Mexico", 
+        "sw_latitude": 29.828
+      }, 
+      "id": 145284
+    }
+  ]
+}

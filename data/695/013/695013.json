@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.284, 
+              49.285
+            ], 
+            [
+              9.284, 
+              49.310
+            ], 
+            [
+              9.320, 
+              49.310
+            ], 
+            [
+              9.320, 
+              49.285
+            ], 
+            [
+              9.284, 
+              49.285
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 695013, 
+        "name": "Siglingen", 
+        "adjacent_woeid": [
+          668805, 
+          687566, 
+          693738, 
+          709314
+        ], 
+        "ne_latitude": 49.310, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.320, 
+        "longitude": 9.306, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:15Z", 
+        "parent_woeid": 12623251, 
+        "latitude": 49.300, 
+        "sw_longitude": 9.284, 
+        "fullname": "Siglingen, Baden-Wurttemberg, Landkreis Heilbronn, Germany", 
+        "sw_latitude": 49.285
+      }, 
+      "id": 695013
+    }
+  ]
+}

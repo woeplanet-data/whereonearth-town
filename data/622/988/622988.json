@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.436, 
+              45.008
+            ], 
+            [
+              -0.436, 
+              45.026
+            ], 
+            [
+              -0.411, 
+              45.026
+            ], 
+            [
+              -0.411, 
+              45.008
+            ], 
+            [
+              -0.436, 
+              45.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622988, 
+        "name": "St.-Antoine", 
+        "adjacent_woeid": [
+          577053, 
+          632435
+        ], 
+        "ne_latitude": 45.026, 
+        "ne_longitude": -0.411, 
+        "longitude": -0.425, 
+        "parent_woeid": 12652182, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Antoine"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.017, 
+        "sw_longitude": -0.436, 
+        "fullname": "St.-Antoine, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.008
+      }, 
+      "id": 622988
+    }
+  ]
+}

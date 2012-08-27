@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.293, 
+              22.324
+            ], 
+            [
+              -103.293, 
+              22.342
+            ], 
+            [
+              -103.273, 
+              22.342
+            ], 
+            [
+              -103.273, 
+              22.324
+            ], 
+            [
+              -103.293, 
+              22.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.342, 
+        "name": "Las Bocas", 
+        "adjacent_woeid": [
+          120271, 
+          125122, 
+          133981, 
+          144535, 
+          150736
+        ], 
+        "woeid": 130082, 
+        "alias_SPA_V": [
+          "Bocas"
+        ], 
+        "ne_longitude": -103.273, 
+        "longitude": -103.283, 
+        "parent_woeid": 12600238, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.333, 
+        "sw_longitude": -103.293, 
+        "fullname": "Las Bocas, Jalisco, Huejucar, Mexico", 
+        "sw_latitude": 22.324
+      }, 
+      "id": 130082
+    }
+  ]
+}

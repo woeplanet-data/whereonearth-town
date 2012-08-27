@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.569, 
+              52.129
+            ], 
+            [
+              10.569, 
+              52.148
+            ], 
+            [
+              10.598, 
+              52.148
+            ], 
+            [
+              10.598, 
+              52.129
+            ], 
+            [
+              10.569, 
+              52.129
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666320, 
+        "name": "Klein Denkte", 
+        "adjacent_woeid": [
+          677424, 
+          695642, 
+          705261
+        ], 
+        "ne_latitude": 52.148, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.598, 
+        "longitude": 10.586, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630434, 
+        "latitude": 52.142, 
+        "sw_longitude": 10.569, 
+        "fullname": "Klein Denkte, Lower Saxony, Landkreis Wolfenb\u00fcttel, Germany", 
+        "sw_latitude": 52.129
+      }, 
+      "id": 666320
+    }
+  ]
+}

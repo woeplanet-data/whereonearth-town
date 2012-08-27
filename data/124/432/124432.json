@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.546, 
+              20.788
+            ], 
+            [
+              -101.546, 
+              21.235
+            ], 
+            [
+              -101.066, 
+              21.235
+            ], 
+            [
+              -101.066, 
+              20.788
+            ], 
+            [
+              -101.546, 
+              20.788
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.235, 
+        "name": "Guanajuato", 
+        "adjacent_woeid": [
+          114167, 
+          117222, 
+          117865, 
+          125438, 
+          126228, 
+          128134, 
+          129524, 
+          131068, 
+          132971, 
+          134905, 
+          141150, 
+          142227, 
+          142643, 
+          147582, 
+          151378, 
+          55901647, 
+          55901695
+        ], 
+        "woeid": 124432, 
+        "alias_SPA_V": [
+          "Ciudad Guanajuato"
+        ], 
+        "ne_longitude": -101.066, 
+        "longitude": -101.259, 
+        "parent_woeid": 12600003, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.018, 
+        "sw_longitude": -101.546, 
+        "fullname": "Guanajuato, Mexico", 
+        "sw_latitude": 20.788
+      }, 
+      "id": 124432
+    }
+  ]
+}

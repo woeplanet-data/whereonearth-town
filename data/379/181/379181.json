@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -54.648, 
+              -25.545
+            ], 
+            [
+              -54.648, 
+              -25.499
+            ], 
+            [
+              -54.597, 
+              -25.499
+            ], 
+            [
+              -54.597, 
+              -25.545
+            ], 
+            [
+              -54.648, 
+              -25.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -25.499, 
+        "name": "Ciudad del Este", 
+        "adjacent_woeid": [
+          377359, 
+          378406, 
+          378495, 
+          378658, 
+          420078
+        ], 
+        "woeid": 379181, 
+        "alias_UNK_Q": [
+          "AGT"
+        ], 
+        "alias_SPA_V": [
+          "Pto Presidente Stroessner"
+        ], 
+        "ne_longitude": -54.597, 
+        "longitude": -54.623, 
+        "parent_woeid": 26810732, 
+        "placetype": "Town", 
+        "iso": "PY", 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -25.522, 
+        "sw_longitude": -54.648, 
+        "fullname": "Ciudad del Este, Alto Paran\u00e1, Ciudad del Este, Paraguay", 
+        "sw_latitude": -25.545
+      }, 
+      "id": 379181
+    }
+  ]
+}

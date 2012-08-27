@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.850, 
+              45.181
+            ], 
+            [
+              10.850, 
+              45.190
+            ], 
+            [
+              10.863, 
+              45.190
+            ], 
+            [
+              10.863, 
+              45.181
+            ], 
+            [
+              10.850, 
+              45.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20106161, 
+        "name": "Caselle", 
+        "adjacent_woeid": [
+          20105284, 
+          20126273, 
+          20133322, 
+          20144816, 
+          20146532
+        ], 
+        "ne_latitude": 45.190, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.863, 
+        "longitude": 10.857, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:27:43Z", 
+        "parent_woeid": 20076370, 
+        "latitude": 45.185, 
+        "sw_longitude": 10.850, 
+        "fullname": "Caselle, Lombardy, Mantua, Italy", 
+        "sw_latitude": 45.181
+      }, 
+      "id": 20106161
+    }
+  ]
+}

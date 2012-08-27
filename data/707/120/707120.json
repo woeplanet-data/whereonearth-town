@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.605, 
+              49.235
+            ], 
+            [
+              10.605, 
+              49.255
+            ], 
+            [
+              10.631, 
+              49.255
+            ], 
+            [
+              10.631, 
+              49.235
+            ], 
+            [
+              10.605, 
+              49.235
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707120, 
+        "name": "Winterschneidbach", 
+        "adjacent_woeid": [
+          643183, 
+          653463, 
+          661008, 
+          677382, 
+          708471, 
+          20158714
+        ], 
+        "ne_latitude": 49.255, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.631, 
+        "longitude": 10.621, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12634382, 
+        "latitude": 49.243, 
+        "sw_longitude": 10.605, 
+        "fullname": "Winterschneidbach, Bavaria, Stadtkreis Ansbach, Germany", 
+        "sw_latitude": 49.235
+      }, 
+      "id": 707120
+    }
+  ]
+}

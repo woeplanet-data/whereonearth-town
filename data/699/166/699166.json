@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.317, 
+              50.198
+            ], 
+            [
+              10.317, 
+              50.242
+            ], 
+            [
+              10.353, 
+              50.242
+            ], 
+            [
+              10.353, 
+              50.198
+            ], 
+            [
+              10.317, 
+              50.198
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 699166, 
+        "name": "Theinfeld", 
+        "adjacent_woeid": [
+          681629, 
+          690319, 
+          694623, 
+          699343
+        ], 
+        "ne_latitude": 50.242, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.353, 
+        "longitude": 10.332, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12636113, 
+        "latitude": 50.217, 
+        "sw_longitude": 10.317, 
+        "fullname": "Theinfeld, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.198
+      }, 
+      "id": 699166
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.270, 
+              20.174
+            ], 
+            [
+              -99.270, 
+              20.193
+            ], 
+            [
+              -99.251, 
+              20.193
+            ], 
+            [
+              -99.251, 
+              20.174
+            ], 
+            [
+              -99.270, 
+              20.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.193, 
+        "name": "La Loma", 
+        "adjacent_woeid": [
+          111033, 
+          149228
+        ], 
+        "woeid": 128096, 
+        "alias_SPA_V": [
+          "Loma"
+        ], 
+        "ne_longitude": -99.251, 
+        "longitude": -99.261, 
+        "parent_woeid": 12600175, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.183, 
+        "sw_longitude": -99.270, 
+        "fullname": "La Loma, Hidalgo, Tezontepec de Aldama, Mexico", 
+        "sw_latitude": 20.174
+      }, 
+      "id": 128096
+    }
+  ]
+}

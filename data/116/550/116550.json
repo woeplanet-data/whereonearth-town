@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.458, 
+              20.671
+            ], 
+            [
+              -103.458, 
+              20.689
+            ], 
+            [
+              -103.439, 
+              20.689
+            ], 
+            [
+              -103.439, 
+              20.671
+            ], 
+            [
+              -103.458, 
+              20.671
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.689, 
+        "name": "Ciudad Granja", 
+        "adjacent_woeid": [
+          129056, 
+          143970, 
+          145143, 
+          145696, 
+          146565
+        ], 
+        "woeid": 116550, 
+        "alias_SPA_V": [
+          "Ciudad Granja, Zapopan"
+        ], 
+        "ne_longitude": -103.439, 
+        "longitude": -103.449, 
+        "parent_woeid": 12600313, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.680, 
+        "sw_longitude": -103.458, 
+        "fullname": "Ciudad Granja, Jalisco, Zapopan, Mexico", 
+        "sw_latitude": 20.671
+      }, 
+      "id": 116550
+    }
+  ]
+}

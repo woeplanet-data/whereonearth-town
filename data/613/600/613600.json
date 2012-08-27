@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.231, 
+              45.875
+            ], 
+            [
+              0.231, 
+              45.903
+            ], 
+            [
+              0.260, 
+              45.903
+            ], 
+            [
+              0.260, 
+              45.875
+            ], 
+            [
+              0.231, 
+              45.875
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613600, 
+        "name": "Mouton", 
+        "adjacent_woeid": [
+          577287, 
+          591446, 
+          607964, 
+          613602, 
+          618463, 
+          619872, 
+          623507, 
+          20198567
+        ], 
+        "ne_latitude": 45.903, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.260, 
+        "longitude": 0.244, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12667381, 
+        "latitude": 45.891, 
+        "sw_longitude": 0.231, 
+        "fullname": "Mouton, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.875
+      }, 
+      "id": 613600
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.177, 
+              49.717
+            ], 
+            [
+              1.177, 
+              49.742
+            ], 
+            [
+              1.207, 
+              49.742
+            ], 
+            [
+              1.207, 
+              49.717
+            ], 
+            [
+              1.177, 
+              49.717
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624508, 
+        "name": "St.-Hellier", 
+        "adjacent_woeid": [
+          587873, 
+          588022, 
+          602454, 
+          615130, 
+          622062, 
+          20219403
+        ], 
+        "ne_latitude": 49.742, 
+        "ne_longitude": 1.207, 
+        "longitude": 1.193, 
+        "parent_woeid": 12644215, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hellier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.733, 
+        "sw_longitude": 1.177, 
+        "fullname": "St.-Hellier, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.717
+      }, 
+      "id": 624508
+    }
+  ]
+}

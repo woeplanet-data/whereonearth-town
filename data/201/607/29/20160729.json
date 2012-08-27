@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.316, 
+              51.003
+            ], 
+            [
+              10.316, 
+              51.048
+            ], 
+            [
+              10.351, 
+              51.048
+            ], 
+            [
+              10.351, 
+              51.003
+            ], 
+            [
+              10.316, 
+              51.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160729, 
+        "name": "Neukirchen", 
+        "adjacent_woeid": [
+          638414, 
+          639232, 
+          662560, 
+          670680, 
+          673341, 
+          675555, 
+          697767, 
+          20160772, 
+          29353309
+        ], 
+        "ne_latitude": 51.048, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.351, 
+        "longitude": 10.339, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12625566, 
+        "latitude": 51.021, 
+        "sw_longitude": 10.316, 
+        "fullname": "Neukirchen, Thuringia, Stadtkreis Eisenach, Germany", 
+        "sw_latitude": 51.003
+      }, 
+      "id": 20160729
+    }
+  ]
+}

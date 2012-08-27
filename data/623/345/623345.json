@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.307, 
+              48.545
+            ], 
+            [
+              3.307, 
+              48.593
+            ], 
+            [
+              3.364, 
+              48.593
+            ], 
+            [
+              3.364, 
+              48.545
+            ], 
+            [
+              3.307, 
+              48.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623345, 
+        "name": "St.-Brice", 
+        "adjacent_woeid": [
+          587014, 
+          619381, 
+          620174, 
+          620175, 
+          625663
+        ], 
+        "ne_latitude": 48.593, 
+        "ne_longitude": 3.364, 
+        "longitude": 3.323, 
+        "parent_woeid": 12646621, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Brice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.566, 
+        "sw_longitude": 3.307, 
+        "fullname": "St.-Brice, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.545
+      }, 
+      "id": 623345
+    }
+  ]
+}

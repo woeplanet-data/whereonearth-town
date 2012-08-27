@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.173, 
+              19.465
+            ], 
+            [
+              -99.173, 
+              19.483
+            ], 
+            [
+              -99.153, 
+              19.483
+            ], 
+            [
+              -99.153, 
+              19.465
+            ], 
+            [
+              -99.173, 
+              19.465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.483, 
+        "name": "Cosmopolita", 
+        "adjacent_woeid": [
+          125418, 
+          128845, 
+          131385, 
+          134756, 
+          149660
+        ], 
+        "woeid": 117501, 
+        "alias_SPA_V": [
+          "Colonia Cosmopolita"
+        ], 
+        "ne_longitude": -99.153, 
+        "longitude": -99.163, 
+        "parent_woeid": 12599935, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.474, 
+        "sw_longitude": -99.173, 
+        "fullname": "Cosmopolita, Distrito Federal, Azcapotzalco, Mexico", 
+        "sw_latitude": 19.465
+      }, 
+      "id": 117501
+    }
+  ]
+}

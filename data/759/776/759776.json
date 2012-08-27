@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.790, 
+              39.953
+            ], 
+            [
+              -0.790, 
+              40.022
+            ], 
+            [
+              -0.704, 
+              40.022
+            ], 
+            [
+              -0.704, 
+              39.953
+            ], 
+            [
+              -0.790, 
+              39.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.022, 
+        "name": "Toro", 
+        "adjacent_woeid": [
+          751279, 
+          751852, 
+          753169, 
+          753786, 
+          754073, 
+          755845, 
+          757093, 
+          759517, 
+          761058, 
+          766507, 
+          766748, 
+          769604, 
+          770147, 
+          772368, 
+          772598, 
+          775580, 
+          778913, 
+          20220450, 
+          20224748
+        ], 
+        "woeid": 759776, 
+        "alias_SPA_V": [
+          "El Toro"
+        ], 
+        "ne_longitude": -0.704, 
+        "longitude": -0.747, 
+        "parent_woeid": 12695514, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.983, 
+        "sw_longitude": -0.790, 
+        "fullname": "Toro, Valencia, Castellon, Spain", 
+        "sw_latitude": 39.953
+      }, 
+      "id": 759776
+    }
+  ]
+}

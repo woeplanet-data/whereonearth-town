@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.642, 
+              50.444
+            ], 
+            [
+              1.642, 
+              50.466
+            ], 
+            [
+              1.692, 
+              50.466
+            ], 
+            [
+              1.692, 
+              50.444
+            ], 
+            [
+              1.642, 
+              50.444
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623048, 
+        "name": "St.-Aubin", 
+        "adjacent_woeid": [
+          575588, 
+          582991, 
+          622450, 
+          624901
+        ], 
+        "ne_latitude": 50.466, 
+        "ne_longitude": 1.692, 
+        "longitude": 1.665, 
+        "parent_woeid": 12670157, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aubin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.457, 
+        "sw_longitude": 1.642, 
+        "fullname": "St.-Aubin, Nord-Pas-de-Calais, Pas-de-Calais, France", 
+        "sw_latitude": 50.444
+      }, 
+      "id": 623048
+    }
+  ]
+}

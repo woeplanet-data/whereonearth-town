@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.154, 
+              49.234
+            ], 
+            [
+              0.154, 
+              49.276
+            ], 
+            [
+              0.190, 
+              49.276
+            ], 
+            [
+              0.190, 
+              49.234
+            ], 
+            [
+              0.154, 
+              49.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624633, 
+        "name": "St.-Hymer", 
+        "adjacent_woeid": [
+          586145, 
+          591613, 
+          602314, 
+          604710, 
+          616554, 
+          619257
+        ], 
+        "ne_latitude": 49.276, 
+        "ne_longitude": 0.190, 
+        "longitude": 0.174, 
+        "parent_woeid": 12652633, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hymer"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.254, 
+        "sw_longitude": 0.154, 
+        "fullname": "St.-Hymer, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.234
+      }, 
+      "id": 624633
+    }
+  ]
+}

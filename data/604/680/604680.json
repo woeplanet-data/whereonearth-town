@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.476, 
+              43.497
+            ], 
+            [
+              5.476, 
+              43.554
+            ], 
+            [
+              5.535, 
+              43.554
+            ], 
+            [
+              5.535, 
+              43.497
+            ], 
+            [
+              5.476, 
+              43.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604680, 
+        "name": "Le Tholonet", 
+        "adjacent_woeid": [
+          578802, 
+          625423, 
+          29329849, 
+          29329867, 
+          29330528
+        ], 
+        "ne_latitude": 43.554, 
+        "ne_longitude": 5.535, 
+        "longitude": 5.511, 
+        "parent_woeid": 12665141, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Tholonet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.522, 
+        "sw_longitude": 5.476, 
+        "fullname": "Le Tholonet, Provence-Alpes-Cote d'Azur, Bouches-du-Rhone, France", 
+        "sw_latitude": 43.497
+      }, 
+      "id": 604680
+    }
+  ]
+}

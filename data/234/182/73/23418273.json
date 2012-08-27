@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.311, 
+              48.123
+            ], 
+            [
+              -122.311, 
+              48.159
+            ], 
+            [
+              -122.249, 
+              48.159
+            ], 
+            [
+              -122.249, 
+              48.123
+            ], 
+            [
+              -122.311, 
+              48.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23418273, 
+        "name": "Lake Goodwin", 
+        "adjacent_woeid": [
+          2448114, 
+          2514294, 
+          23418274, 
+          23418276, 
+          28340678
+        ], 
+        "ne_latitude": 48.159, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lk. Goodwin"
+        ], 
+        "ne_longitude": -122.249, 
+        "longitude": -122.279, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:54Z", 
+        "parent_woeid": 12590470, 
+        "latitude": 48.140, 
+        "sw_longitude": -122.311, 
+        "fullname": "Lake Goodwin, Washington, Snohomish, United States", 
+        "sw_latitude": 48.123
+      }, 
+      "id": 23418273
+    }
+  ]
+}

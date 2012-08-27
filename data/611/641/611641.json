@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.418, 
+              49.586
+            ], 
+            [
+              0.418, 
+              49.625
+            ], 
+            [
+              0.462, 
+              49.625
+            ], 
+            [
+              0.462, 
+              49.586
+            ], 
+            [
+              0.418, 
+              49.586
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611641, 
+        "name": "Mirville", 
+        "adjacent_woeid": [
+          579762, 
+          581677, 
+          614425, 
+          624759, 
+          630180
+        ], 
+        "ne_latitude": 49.625, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.462, 
+        "longitude": 0.440, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12647726, 
+        "latitude": 49.610, 
+        "sw_longitude": 0.418, 
+        "fullname": "Mirville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.586
+      }, 
+      "id": 611641
+    }
+  ]
+}

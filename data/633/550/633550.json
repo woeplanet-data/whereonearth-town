@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.845, 
+              50.354
+            ], 
+            [
+              10.845, 
+              50.391
+            ], 
+            [
+              10.881, 
+              50.391
+            ], 
+            [
+              10.881, 
+              50.354
+            ], 
+            [
+              10.845, 
+              50.354
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633550, 
+        "name": "Ahlstadt", 
+        "adjacent_woeid": [
+          639758, 
+          653954, 
+          657388, 
+          659150, 
+          682969, 
+          683995
+        ], 
+        "ne_latitude": 50.391, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.881, 
+        "longitude": 10.857, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12635293, 
+        "latitude": 50.371, 
+        "sw_longitude": 10.845, 
+        "fullname": "Ahlstadt, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.354
+      }, 
+      "id": 633550
+    }
+  ]
+}

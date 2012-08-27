@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.593, 
+              24.874
+            ], 
+            [
+              -104.593, 
+              24.892
+            ], 
+            [
+              -104.573, 
+              24.892
+            ], 
+            [
+              -104.573, 
+              24.874
+            ], 
+            [
+              -104.593, 
+              24.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.892, 
+        "name": "Santa Gertrudis", 
+        "adjacent_woeid": [
+          112668, 
+          113014, 
+          116382, 
+          118203, 
+          126023, 
+          129915, 
+          138354
+        ], 
+        "woeid": 146183, 
+        "alias_SPA_V": [
+          "Sta Gertrudis"
+        ], 
+        "ne_longitude": -104.573, 
+        "longitude": -104.583, 
+        "parent_woeid": 12599978, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.883, 
+        "sw_longitude": -104.593, 
+        "fullname": "Santa Gertrudis, Durango, San Juan del Rio, Mexico", 
+        "sw_latitude": 24.874
+      }, 
+      "id": 146183
+    }
+  ]
+}

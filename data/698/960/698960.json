@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.541, 
+              50.931
+            ], 
+            [
+              10.541, 
+              50.961
+            ], 
+            [
+              10.579, 
+              50.961
+            ], 
+            [
+              10.579, 
+              50.931
+            ], 
+            [
+              10.541, 
+              50.931
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 698960, 
+        "name": "Teutleben", 
+        "adjacent_woeid": [
+          635705, 
+          651031, 
+          670539, 
+          674405, 
+          678377, 
+          704819
+        ], 
+        "ne_latitude": 50.961, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.579, 
+        "longitude": 10.562, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12625028, 
+        "latitude": 50.945, 
+        "sw_longitude": 10.541, 
+        "fullname": "Teutleben, Thuringia, Landkreis Gotha, Germany", 
+        "sw_latitude": 50.931
+      }, 
+      "id": 698960
+    }
+  ]
+}

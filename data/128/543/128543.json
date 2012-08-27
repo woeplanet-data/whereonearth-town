@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.960, 
+              28.791
+            ], 
+            [
+              -109.960, 
+              28.809
+            ], 
+            [
+              -109.940, 
+              28.809
+            ], 
+            [
+              -109.940, 
+              28.791
+            ], 
+            [
+              -109.960, 
+              28.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.809, 
+        "name": "La Palma", 
+        "adjacent_woeid": [
+          111103, 
+          116664, 
+          140499, 
+          148537, 
+          149911
+        ], 
+        "woeid": 128543, 
+        "alias_SPA_V": [
+          "Rancho la Palma"
+        ], 
+        "ne_longitude": -109.940, 
+        "longitude": -109.950, 
+        "parent_woeid": 12601580, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.800, 
+        "sw_longitude": -109.960, 
+        "fullname": "La Palma, Sonora, La Colorada, Mexico", 
+        "sw_latitude": 28.791
+      }, 
+      "id": 128543
+    }
+  ]
+}

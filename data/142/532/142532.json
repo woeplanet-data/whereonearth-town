@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.743, 
+              20.458
+            ], 
+            [
+              -99.743, 
+              20.476
+            ], 
+            [
+              -99.724, 
+              20.476
+            ], 
+            [
+              -99.724, 
+              20.458
+            ], 
+            [
+              -99.743, 
+              20.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.476, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          113550, 
+          127103, 
+          141671, 
+          143173, 
+          143448, 
+          143929, 
+          151037
+        ], 
+        "woeid": 142532, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -99.724, 
+        "longitude": -99.733, 
+        "parent_woeid": 12600168, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.467, 
+        "sw_longitude": -99.743, 
+        "fullname": "San Francisco, Hidalgo, Tecozautla, Mexico", 
+        "sw_latitude": 20.458
+      }, 
+      "id": 142532
+    }
+  ]
+}

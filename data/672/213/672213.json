@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.872, 
+              47.687
+            ], 
+            [
+              10.872, 
+              47.705
+            ], 
+            [
+              10.898, 
+              47.705
+            ], 
+            [
+              10.898, 
+              47.687
+            ], 
+            [
+              10.872, 
+              47.687
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 672213, 
+        "name": "Litzau", 
+        "adjacent_woeid": [
+          653686, 
+          659859, 
+          20157352, 
+          20173009
+        ], 
+        "ne_latitude": 47.705, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.898, 
+        "longitude": 10.885, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:27Z", 
+        "parent_woeid": 12634716, 
+        "latitude": 47.696, 
+        "sw_longitude": 10.872, 
+        "fullname": "Litzau, Bavaria, Weilheim-Schongau, Germany", 
+        "sw_latitude": 47.687
+      }, 
+      "id": 672213
+    }
+  ]
+}

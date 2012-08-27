@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.666, 
+              47.472
+            ], 
+            [
+              10.666, 
+              47.490
+            ], 
+            [
+              10.693, 
+              47.490
+            ], 
+            [
+              10.693, 
+              47.472
+            ], 
+            [
+              10.666, 
+              47.472
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20095753, 
+        "name": "Holz", 
+        "adjacent_woeid": [
+          550598, 
+          550722, 
+          551386, 
+          551415
+        ], 
+        "ne_latitude": 47.490, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.693, 
+        "longitude": 10.679, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:27Z", 
+        "parent_woeid": 12675583, 
+        "latitude": 47.482, 
+        "sw_longitude": 10.666, 
+        "fullname": "Holz, Tyrol, Reutte, Austria", 
+        "sw_latitude": 47.472
+      }, 
+      "id": 20095753
+    }
+  ]
+}

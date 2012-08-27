@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.721, 
+              41.251
+            ], 
+            [
+              1.721, 
+              41.279
+            ], 
+            [
+              1.741, 
+              41.279
+            ], 
+            [
+              1.741, 
+              41.251
+            ], 
+            [
+              1.721, 
+              41.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.279, 
+        "name": "California", 
+        "adjacent_woeid": [
+          779279, 
+          20224040, 
+          20226141, 
+          20226564, 
+          23413913, 
+          29369472, 
+          55865901
+        ], 
+        "woeid": 20221095, 
+        "alias_SPA_V": [
+          "Calif\u00f2rnia"
+        ], 
+        "ne_longitude": 1.741, 
+        "longitude": 1.725, 
+        "parent_woeid": 12693420, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:36Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.271, 
+        "sw_longitude": 1.721, 
+        "fullname": "California, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.251
+      }, 
+      "id": 20221095
+    }
+  ]
+}

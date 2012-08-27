@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.623, 
+              40.435
+            ], 
+            [
+              -80.623, 
+              40.482
+            ], 
+            [
+              -80.592, 
+              40.482
+            ], 
+            [
+              -80.592, 
+              40.435
+            ], 
+            [
+              -80.623, 
+              40.435
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2507254, 
+        "name": "Toronto", 
+        "adjacent_woeid": [
+          2399527, 
+          2401915, 
+          2416769, 
+          2427595, 
+          2458203, 
+          2480884, 
+          2499711, 
+          2500795, 
+          2516079
+        ], 
+        "ne_latitude": 40.482, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -80.592, 
+        "longitude": -80.606, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:37Z", 
+        "parent_woeid": 12589567, 
+        "latitude": 40.461, 
+        "sw_longitude": -80.623, 
+        "fullname": "Toronto, Ohio, Jefferson, United States", 
+        "sw_latitude": 40.435
+      }, 
+      "id": 2507254
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.025, 
+              34.793
+            ], 
+            [
+              -98.025, 
+              34.802
+            ], 
+            [
+              -98.014, 
+              34.802
+            ], 
+            [
+              -98.014, 
+              34.793
+            ], 
+            [
+              -98.025, 
+              34.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2351757, 
+        "name": "Acme", 
+        "adjacent_woeid": [
+          2352238, 
+          2363436, 
+          2391227, 
+          2437179
+        ], 
+        "ne_latitude": 34.802, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -98.014, 
+        "longitude": -98.019, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:22:00Z", 
+        "parent_woeid": 12589640, 
+        "latitude": 34.797, 
+        "sw_longitude": -98.025, 
+        "fullname": "Acme, Oklahoma, Grady, United States", 
+        "sw_latitude": 34.793
+      }, 
+      "id": 2351757
+    }
+  ]
+}

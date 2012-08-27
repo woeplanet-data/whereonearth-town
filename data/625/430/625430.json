@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.701, 
+              49.688
+            ], 
+            [
+              4.701, 
+              49.725
+            ], 
+            [
+              4.740, 
+              49.725
+            ], 
+            [
+              4.740, 
+              49.688
+            ], 
+            [
+              4.701, 
+              49.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625430, 
+        "name": "St.-Marceau", 
+        "adjacent_woeid": [
+          577920, 
+          583895, 
+          590320, 
+          598321, 
+          605345, 
+          626531
+        ], 
+        "ne_latitude": 49.725, 
+        "ne_longitude": 4.740, 
+        "longitude": 4.721, 
+        "parent_woeid": 12652829, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marceau"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.710, 
+        "sw_longitude": 4.701, 
+        "fullname": "St.-Marceau, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.688
+      }, 
+      "id": 625430
+    }
+  ]
+}

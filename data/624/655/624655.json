@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.799, 
+              45.216
+            ], 
+            [
+              5.799, 
+              45.284
+            ], 
+            [
+              5.855, 
+              45.284
+            ], 
+            [
+              5.855, 
+              45.216
+            ], 
+            [
+              5.799, 
+              45.216
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624655, 
+        "name": "St.-Ismier", 
+        "adjacent_woeid": [
+          586983, 
+          588887, 
+          601104, 
+          604519, 
+          604722, 
+          604907, 
+          611371, 
+          625158, 
+          631451, 
+          20209600, 
+          20219657, 
+          23388125, 
+          29330090, 
+          55863426, 
+          55863533
+        ], 
+        "ne_latitude": 45.284, 
+        "ne_longitude": 5.855, 
+        "longitude": 5.827, 
+        "parent_woeid": 12664943, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ismier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.249, 
+        "sw_longitude": 5.799, 
+        "fullname": "St.-Ismier, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.216
+      }, 
+      "id": 624655
+    }
+  ]
+}

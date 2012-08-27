@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.352, 
+              47.250
+            ], 
+            [
+              1.352, 
+              47.285
+            ], 
+            [
+              1.395, 
+              47.285
+            ], 
+            [
+              1.395, 
+              47.250
+            ], 
+            [
+              1.352, 
+              47.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622799, 
+        "name": "St.-Aignan", 
+        "adjacent_woeid": [
+          585007, 
+          592623, 
+          608889, 
+          609970, 
+          613082, 
+          614705, 
+          615043, 
+          621617, 
+          621648, 
+          629835
+        ], 
+        "ne_latitude": 47.285, 
+        "alias_ENG_V": [
+          "Saint-Aignan-sur-Cher"
+        ], 
+        "ne_longitude": 1.395, 
+        "longitude": 1.376, 
+        "parent_woeid": 12645983, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Aignan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.270, 
+        "sw_longitude": 1.352, 
+        "fullname": "St.-Aignan, St-Aignan-sur-Cher, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.250
+      }, 
+      "id": 622799
+    }
+  ]
+}

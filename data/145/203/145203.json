@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.027, 
+              25.508
+            ], 
+            [
+              -100.027, 
+              25.526
+            ], 
+            [
+              -100.007, 
+              25.526
+            ], 
+            [
+              -100.007, 
+              25.508
+            ], 
+            [
+              -100.027, 
+              25.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.526, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          119606, 
+          121932, 
+          126481, 
+          144404, 
+          146263
+        ], 
+        "woeid": 145203, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -100.007, 
+        "longitude": -100.017, 
+        "parent_woeid": 12600613, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.517, 
+        "sw_longitude": -100.027, 
+        "fullname": "San Rafael, Nuevo Leon, Cadereyta Jimenez, Mexico", 
+        "sw_latitude": 25.508
+      }, 
+      "id": 145203
+    }
+  ]
+}

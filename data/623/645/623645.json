@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.948, 
+              45.785
+            ], 
+            [
+              0.948, 
+              45.811
+            ], 
+            [
+              0.972, 
+              45.811
+            ], 
+            [
+              0.972, 
+              45.785
+            ], 
+            [
+              0.948, 
+              45.785
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623645, 
+        "name": "St.-Cyr", 
+        "adjacent_woeid": [
+          586393, 
+          599279, 
+          623140
+        ], 
+        "ne_latitude": 45.811, 
+        "ne_longitude": 0.972, 
+        "longitude": 0.959, 
+        "parent_woeid": 12667204, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cyr"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.800, 
+        "sw_longitude": 0.948, 
+        "fullname": "St.-Cyr, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.785
+      }, 
+      "id": 623645
+    }
+  ]
+}

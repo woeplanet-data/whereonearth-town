@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.593, 
+              50.924
+            ], 
+            [
+              6.593, 
+              50.950
+            ], 
+            [
+              6.617, 
+              50.950
+            ], 
+            [
+              6.617, 
+              50.924
+            ], 
+            [
+              6.593, 
+              50.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 655321, 
+        "name": "Grouven", 
+        "adjacent_woeid": [
+          638392, 
+          699311, 
+          706132, 
+          20169096
+        ], 
+        "ne_latitude": 50.950, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.617, 
+        "longitude": 6.604, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 12624583, 
+        "latitude": 50.936, 
+        "sw_longitude": 6.593, 
+        "fullname": "Grouven, North Rhine-Westphalia, Erftkreis, Germany", 
+        "sw_latitude": 50.924
+      }, 
+      "id": 655321
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.030, 
+              45.601
+            ], 
+            [
+              10.030, 
+              45.624
+            ], 
+            [
+              10.066, 
+              45.624
+            ], 
+            [
+              10.066, 
+              45.601
+            ], 
+            [
+              10.030, 
+              45.601
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20132909, 
+        "name": "Monterotondo", 
+        "adjacent_woeid": [
+          720011, 
+          20105692, 
+          20123950, 
+          29334528
+        ], 
+        "ne_latitude": 45.624, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.066, 
+        "longitude": 10.049, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:28:53Z", 
+        "parent_woeid": 12680942, 
+        "latitude": 45.611, 
+        "sw_longitude": 10.030, 
+        "fullname": "Monterotondo, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.601
+      }, 
+      "id": 20132909
+    }
+  ]
+}

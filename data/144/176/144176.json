@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.376, 
+              20.404
+            ], 
+            [
+              -103.376, 
+              20.422
+            ], 
+            [
+              -103.355, 
+              20.422
+            ], 
+            [
+              -103.355, 
+              20.404
+            ], 
+            [
+              -103.376, 
+              20.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.422, 
+        "name": "San Lucas", 
+        "adjacent_woeid": [
+          114092, 
+          117185, 
+          118068, 
+          129507, 
+          130939, 
+          137194, 
+          55887550
+        ], 
+        "woeid": 144176, 
+        "alias_SPA_V": [
+          "S Lucas"
+        ], 
+        "ne_longitude": -103.355, 
+        "longitude": -103.360, 
+        "parent_woeid": 12600291, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.408, 
+        "sw_longitude": -103.376, 
+        "fullname": "San Lucas, Jalisco, Tlajomulco de Zuniga, Mexico", 
+        "sw_latitude": 20.404
+      }, 
+      "id": 144176
+    }
+  ]
+}

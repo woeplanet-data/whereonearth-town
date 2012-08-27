@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.829, 
+              -47.029
+            ], 
+            [
+              -72.829, 
+              -47.015
+            ], 
+            [
+              -72.808, 
+              -47.015
+            ], 
+            [
+              -72.808, 
+              -47.029
+            ], 
+            [
+              -72.829, 
+              -47.029
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -47.015, 
+        "name": "Puerto Bertrand", 
+        "adjacent_woeid": [
+          349077, 
+          349978, 
+          350049, 
+          350100, 
+          350104, 
+          350111
+        ], 
+        "woeid": 350101, 
+        "alias_SPA_V": [
+          "Pto Bertrand"
+        ], 
+        "ne_longitude": -72.808, 
+        "longitude": -72.818, 
+        "parent_woeid": 26794031, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -47.022, 
+        "sw_longitude": -72.829, 
+        "fullname": "Puerto Bertrand, Aisen Region, Gral Carrera Province, Chile", 
+        "sw_latitude": -47.029
+      }, 
+      "id": 350101
+    }
+  ]
+}

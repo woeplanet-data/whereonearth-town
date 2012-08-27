@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.393, 
+              22.641
+            ], 
+            [
+              -99.393, 
+              22.659
+            ], 
+            [
+              -99.373, 
+              22.659
+            ], 
+            [
+              -99.373, 
+              22.641
+            ], 
+            [
+              -99.393, 
+              22.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.659, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          120828, 
+          128381, 
+          134910, 
+          141296, 
+          143916
+        ], 
+        "woeid": 145239, 
+        "alias_SPA_V": [
+          "S. Rafael"
+        ], 
+        "ne_longitude": -99.373, 
+        "longitude": -99.383, 
+        "parent_woeid": 24550695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.650, 
+        "sw_longitude": -99.393, 
+        "fullname": "San Rafael, San Luis Potosi, El Naranjo, Mexico", 
+        "sw_latitude": 22.641
+      }, 
+      "id": 145239
+    }
+  ]
+}

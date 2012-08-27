@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.577, 
+              48.998
+            ], 
+            [
+              10.577, 
+              49.008
+            ], 
+            [
+              10.591, 
+              49.008
+            ], 
+            [
+              10.591, 
+              48.998
+            ], 
+            [
+              10.577, 
+              48.998
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645378, 
+        "name": "Dornstadt", 
+        "adjacent_woeid": [
+          648433, 
+          660359, 
+          672315
+        ], 
+        "ne_latitude": 49.008, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.591, 
+        "longitude": 10.584, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12634985, 
+        "latitude": 49.003, 
+        "sw_longitude": 10.577, 
+        "fullname": "Dornstadt, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.998
+      }, 
+      "id": 645378
+    }
+  ]
+}

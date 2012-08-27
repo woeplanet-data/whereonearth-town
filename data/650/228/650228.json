@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.412, 
+              49.900
+            ], 
+            [
+              11.412, 
+              49.918
+            ], 
+            [
+              11.440, 
+              49.918
+            ], 
+            [
+              11.440, 
+              49.900
+            ], 
+            [
+              11.412, 
+              49.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650228, 
+        "name": "Frankenhaag", 
+        "adjacent_woeid": [
+          651950, 
+          682741, 
+          685374, 
+          698849
+        ], 
+        "ne_latitude": 49.918, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.440, 
+        "longitude": 11.426, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12635269, 
+        "latitude": 49.909, 
+        "sw_longitude": 11.412, 
+        "fullname": "Frankenhaag, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 49.900
+      }, 
+      "id": 650228
+    }
+  ]
+}

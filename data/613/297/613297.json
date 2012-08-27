@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.586, 
+              47.225
+            ], 
+            [
+              2.586, 
+              47.255
+            ], 
+            [
+              2.616, 
+              47.255
+            ], 
+            [
+              2.616, 
+              47.225
+            ], 
+            [
+              2.586, 
+              47.225
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613297, 
+        "name": "Morogues", 
+        "adjacent_woeid": [
+          577095, 
+          595061, 
+          597011, 
+          615622, 
+          623402
+        ], 
+        "ne_latitude": 47.255, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.616, 
+        "longitude": 2.597, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12645828, 
+        "latitude": 47.242, 
+        "sw_longitude": 2.586, 
+        "fullname": "Morogues, Centre, Cher, France", 
+        "sw_latitude": 47.225
+      }, 
+      "id": 613297
+    }
+  ]
+}

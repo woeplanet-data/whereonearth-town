@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.842, 
+              53.539
+            ], 
+            [
+              10.842, 
+              53.567
+            ], 
+            [
+              10.874, 
+              53.567
+            ], 
+            [
+              10.874, 
+              53.539
+            ], 
+            [
+              10.842, 
+              53.539
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 698902, 
+        "name": "Testorf", 
+        "adjacent_woeid": [
+          639974, 
+          666694, 
+          691281, 
+          29350685
+        ], 
+        "ne_latitude": 53.567, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.874, 
+        "longitude": 10.863, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 28350209, 
+        "latitude": 53.553, 
+        "sw_longitude": 10.842, 
+        "fullname": "Testorf, Mecklenburg-Vorpommern, Landkreis Ludwigslust, Germany", 
+        "sw_latitude": 53.539
+      }, 
+      "id": 698902
+    }
+  ]
+}

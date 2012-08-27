@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.295, 
+              52.820
+            ], 
+            [
+              12.295, 
+              52.844
+            ], 
+            [
+              12.323, 
+              52.844
+            ], 
+            [
+              12.323, 
+              52.820
+            ], 
+            [
+              12.295, 
+              52.820
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689050, 
+        "name": "Roddahn", 
+        "adjacent_woeid": [
+          636279, 
+          658829, 
+          668251, 
+          677748
+        ], 
+        "ne_latitude": 52.844, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.323, 
+        "longitude": 12.309, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 24547166, 
+        "latitude": 52.830, 
+        "sw_longitude": 12.295, 
+        "fullname": "Roddahn, Brandenburg, Ostprignitz-Ruppin, Germany", 
+        "sw_latitude": 52.820
+      }, 
+      "id": 689050
+    }
+  ]
+}

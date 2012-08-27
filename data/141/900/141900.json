@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.160, 
+              19.091
+            ], 
+            [
+              -98.160, 
+              19.109
+            ], 
+            [
+              -98.140, 
+              19.109
+            ], 
+            [
+              -98.140, 
+              19.091
+            ], 
+            [
+              -98.160, 
+              19.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.109, 
+        "name": "San Aparicio", 
+        "adjacent_woeid": [
+          130035, 
+          140622, 
+          142372, 
+          146580, 
+          150755
+        ], 
+        "woeid": 141900, 
+        "alias_SPA_V": [
+          "S. Aparico"
+        ], 
+        "ne_longitude": -98.140, 
+        "longitude": -98.150, 
+        "parent_woeid": 12601342, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.100, 
+        "sw_longitude": -98.160, 
+        "fullname": "San Aparicio, Puebla, Puebla, Mexico", 
+        "sw_latitude": 19.091
+      }, 
+      "id": 141900
+    }
+  ]
+}

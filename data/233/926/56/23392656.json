@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.915, 
+              46.540
+            ], 
+            [
+              -64.915, 
+              46.559
+            ], 
+            [
+              -64.889, 
+              46.559
+            ], 
+            [
+              -64.889, 
+              46.540
+            ], 
+            [
+              -64.915, 
+              46.540
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23392656, 
+        "name": "East Branch", 
+        "adjacent_woeid": [
+          23392491, 
+          23392677, 
+          23392780, 
+          23392964
+        ], 
+        "ne_latitude": 46.559, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Branch"
+        ], 
+        "ne_longitude": -64.889, 
+        "longitude": -64.902, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:09Z", 
+        "parent_woeid": 29375151, 
+        "latitude": 46.549, 
+        "sw_longitude": -64.915, 
+        "fullname": "East Branch, New Brunswick, Kent, Canada", 
+        "sw_latitude": 46.540
+      }, 
+      "id": 23392656
+    }
+  ]
+}

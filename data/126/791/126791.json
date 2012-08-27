@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.462, 
+              26.092
+            ], 
+            [
+              -103.462, 
+              26.111
+            ], 
+            [
+              -103.441, 
+              26.111
+            ], 
+            [
+              -103.441, 
+              26.092
+            ], 
+            [
+              -103.462, 
+              26.092
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.111, 
+        "name": "La Ceceda", 
+        "adjacent_woeid": [
+          129635, 
+          135890, 
+          142620, 
+          149670, 
+          151701
+        ], 
+        "woeid": 126791, 
+        "alias_SPA_V": [
+          "Ejido Ceceda"
+        ], 
+        "ne_longitude": -103.441, 
+        "longitude": -103.452, 
+        "parent_woeid": 12599986, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.101, 
+        "sw_longitude": -103.462, 
+        "fullname": "La Ceceda, Durango, Tlahualilo, Mexico", 
+        "sw_latitude": 26.092
+      }, 
+      "id": 126791
+    }
+  ]
+}

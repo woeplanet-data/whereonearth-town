@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.900, 
+              33.509
+            ], 
+            [
+              -79.900, 
+              33.540
+            ], 
+            [
+              -79.861, 
+              33.540
+            ], 
+            [
+              -79.861, 
+              33.509
+            ], 
+            [
+              -79.900, 
+              33.509
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2436241, 
+        "name": "Lane", 
+        "adjacent_woeid": [
+          2354690, 
+          2370875, 
+          2375470, 
+          2412496, 
+          2413651, 
+          2419702, 
+          2457855, 
+          2486014, 
+          2487227, 
+          2487642
+        ], 
+        "ne_latitude": 33.540, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -79.861, 
+        "longitude": -79.878, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:26Z", 
+        "parent_woeid": 12589844, 
+        "latitude": 33.524, 
+        "sw_longitude": -79.900, 
+        "fullname": "Lane, South Carolina, Williamsburg, United States", 
+        "sw_latitude": 33.509
+      }, 
+      "id": 2436241
+    }
+  ]
+}

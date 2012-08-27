@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.710, 
+              28.724
+            ], 
+            [
+              -107.710, 
+              28.742
+            ], 
+            [
+              -107.690, 
+              28.742
+            ], 
+            [
+              -107.690, 
+              28.724
+            ], 
+            [
+              -107.710, 
+              28.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.742, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          114839, 
+          116689, 
+          117451, 
+          129698, 
+          132414, 
+          148612
+        ], 
+        "woeid": 146743, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -107.690, 
+        "longitude": -107.700, 
+        "parent_woeid": 12599862, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.733, 
+        "sw_longitude": -107.710, 
+        "fullname": "Santa Rosa, Chihuahua, Matachi, Mexico", 
+        "sw_latitude": 28.724
+      }, 
+      "id": 146743
+    }
+  ]
+}

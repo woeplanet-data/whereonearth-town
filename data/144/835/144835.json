@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.677, 
+              23.808
+            ], 
+            [
+              -100.677, 
+              23.826
+            ], 
+            [
+              -100.657, 
+              23.826
+            ], 
+            [
+              -100.657, 
+              23.808
+            ], 
+            [
+              -100.677, 
+              23.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.826, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          124830, 
+          129871, 
+          132192, 
+          132303, 
+          144525, 
+          151543
+        ], 
+        "woeid": 144835, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -100.657, 
+        "longitude": -100.667, 
+        "parent_woeid": 12601476, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.817, 
+        "sw_longitude": -100.677, 
+        "fullname": "San Pablo, San Luis Potosi, Cedral, Mexico", 
+        "sw_latitude": 23.808
+      }, 
+      "id": 144835
+    }
+  ]
+}

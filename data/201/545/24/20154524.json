@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.283, 
+              48.435
+            ], 
+            [
+              12.283, 
+              48.451
+            ], 
+            [
+              12.302, 
+              48.451
+            ], 
+            [
+              12.302, 
+              48.435
+            ], 
+            [
+              12.283, 
+              48.435
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20154524, 
+        "name": "Pfaffenbach", 
+        "adjacent_woeid": [
+          642488, 
+          656126, 
+          681285, 
+          692617
+        ], 
+        "ne_latitude": 48.451, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.302, 
+        "longitude": 12.293, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:29Z", 
+        "parent_woeid": 12622922, 
+        "latitude": 48.441, 
+        "sw_longitude": 12.283, 
+        "fullname": "Pfaffenbach, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.435
+      }, 
+      "id": 20154524
+    }
+  ]
+}

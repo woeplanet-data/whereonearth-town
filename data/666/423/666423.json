@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.217, 
+              52.269
+            ], 
+            [
+              10.217, 
+              52.304
+            ], 
+            [
+              10.252, 
+              52.304
+            ], 
+            [
+              10.252, 
+              52.269
+            ], 
+            [
+              10.217, 
+              52.269
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666423, 
+        "name": "Klein Ilsede", 
+        "adjacent_woeid": [
+          645925, 
+          657109, 
+          681201, 
+          20166320
+        ], 
+        "ne_latitude": 52.304, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.252, 
+        "longitude": 10.229, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630421, 
+        "latitude": 52.285, 
+        "sw_longitude": 10.217, 
+        "fullname": "Klein Ilsede, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.269
+      }, 
+      "id": 666423
+    }
+  ]
+}

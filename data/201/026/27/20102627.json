@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.216, 
+              46.584
+            ], 
+            [
+              6.216, 
+              46.602
+            ], 
+            [
+              6.242, 
+              46.602
+            ], 
+            [
+              6.242, 
+              46.584
+            ], 
+            [
+              6.216, 
+              46.584
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20102627, 
+        "name": "Le Campe", 
+        "adjacent_woeid": [
+          20101305, 
+          20103613, 
+          20104630
+        ], 
+        "ne_latitude": 46.602, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.242, 
+        "longitude": 6.229, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12683847, 
+        "latitude": 46.593, 
+        "sw_longitude": 6.216, 
+        "fullname": "Le Campe, Canton of Vaud, La Vall\u00e9e, Switzerland", 
+        "sw_latitude": 46.584
+      }, 
+      "id": 20102627
+    }
+  ]
+}

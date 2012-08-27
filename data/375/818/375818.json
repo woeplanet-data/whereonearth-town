@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.842, 
+              0.594
+            ], 
+            [
+              -77.842, 
+              0.613
+            ], 
+            [
+              -77.824, 
+              0.613
+            ], 
+            [
+              -77.824, 
+              0.594
+            ], 
+            [
+              -77.842, 
+              0.594
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.613, 
+        "name": "San Gabriel", 
+        "adjacent_woeid": [
+          370324, 
+          370481, 
+          370775, 
+          373113, 
+          373709, 
+          375474, 
+          375844, 
+          375856
+        ], 
+        "woeid": 375818, 
+        "alias_SPA_V": [
+          "S Gabriel"
+        ], 
+        "ne_longitude": -77.824, 
+        "longitude": -77.833, 
+        "parent_woeid": 26810414, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Montufar"
+        ], 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.604, 
+        "sw_longitude": -77.842, 
+        "fullname": "San Gabriel, Carchi, Montufar, Ecuador", 
+        "sw_latitude": 0.594
+      }, 
+      "id": 375818
+    }
+  ]
+}

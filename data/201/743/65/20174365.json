@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.642, 
+              53.300
+            ], 
+            [
+              10.642, 
+              53.342
+            ], 
+            [
+              10.676, 
+              53.342
+            ], 
+            [
+              10.676, 
+              53.300
+            ], 
+            [
+              10.642, 
+              53.300
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20174365, 
+        "name": "Vogelsang", 
+        "adjacent_woeid": [
+          651548, 
+          665026, 
+          705262, 
+          20166734
+        ], 
+        "ne_latitude": 53.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.676, 
+        "longitude": 10.660, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12629684, 
+        "latitude": 53.324, 
+        "sw_longitude": 10.642, 
+        "fullname": "Vogelsang, Lower Saxony, Luneburg, Germany", 
+        "sw_latitude": 53.300
+      }, 
+      "id": 20174365
+    }
+  ]
+}

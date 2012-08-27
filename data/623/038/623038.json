@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.960, 
+              43.972
+            ], 
+            [
+              0.960, 
+              44.008
+            ], 
+            [
+              1.017, 
+              44.008
+            ], 
+            [
+              1.017, 
+              43.972
+            ], 
+            [
+              0.960, 
+              43.972
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623038, 
+        "name": "St.-Arroumex", 
+        "adjacent_woeid": [
+          576113, 
+          576912, 
+          583404, 
+          587681, 
+          590504, 
+          592658
+        ], 
+        "ne_latitude": 44.008, 
+        "ne_longitude": 1.017, 
+        "longitude": 0.997, 
+        "parent_woeid": 12670142, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Arroumex"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.993, 
+        "sw_longitude": 0.960, 
+        "fullname": "St.-Arroumex, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.972
+      }, 
+      "id": 623038
+    }
+  ]
+}

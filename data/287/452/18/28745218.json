@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.109, 
+              40.195
+            ], 
+            [
+              -77.109, 
+              40.305
+            ], 
+            [
+              -77.005, 
+              40.305
+            ], 
+            [
+              -77.005, 
+              40.195
+            ], 
+            [
+              -77.109, 
+              40.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745218, 
+        "name": "Silver Spring", 
+        "adjacent_woeid": [
+          2412001, 
+          2416798, 
+          2422832, 
+          2450333, 
+          2516506
+        ], 
+        "ne_latitude": 40.305, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Silver Spg"
+        ], 
+        "ne_longitude": -77.005, 
+        "longitude": -77.046, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589748, 
+        "latitude": 40.242, 
+        "sw_longitude": -77.109, 
+        "fullname": "Silver Spring, Pennsylvania, Cumberland, United States", 
+        "sw_latitude": 40.195
+      }, 
+      "id": 28745218
+    }
+  ]
+}

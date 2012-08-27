@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.683, 
+              46.967
+            ], 
+            [
+              0.683, 
+              46.976
+            ], 
+            [
+              0.699, 
+              46.976
+            ], 
+            [
+              0.699, 
+              46.967
+            ], 
+            [
+              0.683, 
+              46.967
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20201691, 
+        "name": "St.-Jacques", 
+        "adjacent_woeid": [
+          575334, 
+          582527, 
+          626733, 
+          627026, 
+          20201688, 
+          29331313
+        ], 
+        "ne_latitude": 46.976, 
+        "ne_longitude": 0.699, 
+        "longitude": 0.692, 
+        "parent_woeid": 12640224, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Jacques"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.972, 
+        "sw_longitude": 0.683, 
+        "fullname": "St.-Jacques, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.967
+      }, 
+      "id": 20201691
+    }
+  ]
+}

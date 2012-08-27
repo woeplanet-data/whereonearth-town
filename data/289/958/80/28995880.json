@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.319, 
+              47.110
+            ], 
+            [
+              11.319, 
+              47.128
+            ], 
+            [
+              11.346, 
+              47.128
+            ], 
+            [
+              11.346, 
+              47.110
+            ], 
+            [
+              11.319, 
+              47.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995880, 
+        "name": "Herrengasse", 
+        "adjacent_woeid": [
+          550903, 
+          550954, 
+          20095901, 
+          28995881
+        ], 
+        "ne_latitude": 47.128, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.346, 
+        "longitude": 11.332, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:40Z", 
+        "parent_woeid": 12675377, 
+        "latitude": 47.119, 
+        "sw_longitude": 11.319, 
+        "fullname": "Herrengasse, Tyrol, Innsbruck-Land, Austria", 
+        "sw_latitude": 47.110
+      }, 
+      "id": 28995880
+    }
+  ]
+}

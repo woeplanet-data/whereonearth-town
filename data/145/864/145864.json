@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.027, 
+              29.274
+            ], 
+            [
+              -107.027, 
+              29.292
+            ], 
+            [
+              -107.006, 
+              29.292
+            ], 
+            [
+              -107.006, 
+              29.274
+            ], 
+            [
+              -107.027, 
+              29.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.292, 
+        "name": "Santa Clara", 
+        "adjacent_woeid": [
+          113191, 
+          114445, 
+          127609, 
+          135222, 
+          144143, 
+          148890, 
+          55913642
+        ], 
+        "woeid": 145864, 
+        "alias_SPA_V": [
+          "Sta. Clara"
+        ], 
+        "ne_longitude": -107.006, 
+        "longitude": -107.017, 
+        "parent_woeid": 12599867, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.283, 
+        "sw_longitude": -107.027, 
+        "fullname": "Santa Clara, Chihuahua, Namiquipa, Mexico", 
+        "sw_latitude": 29.274
+      }, 
+      "id": 145864
+    }
+  ]
+}

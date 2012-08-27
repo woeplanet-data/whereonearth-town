@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.943, 
+              26.208
+            ], 
+            [
+              -104.943, 
+              26.226
+            ], 
+            [
+              -104.923, 
+              26.226
+            ], 
+            [
+              -104.923, 
+              26.208
+            ], 
+            [
+              -104.943, 
+              26.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.226, 
+        "name": "San Juan Bautista", 
+        "adjacent_woeid": [
+          129118, 
+          129674, 
+          130682, 
+          140907, 
+          142387, 
+          150878
+        ], 
+        "woeid": 143813, 
+        "alias_SPA_V": [
+          "S Juan Bautista"
+        ], 
+        "ne_longitude": -104.923, 
+        "longitude": -104.933, 
+        "parent_woeid": 12599960, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.217, 
+        "sw_longitude": -104.943, 
+        "fullname": "San Juan Bautista, Durango, Hidalgo, Mexico", 
+        "sw_latitude": 26.208
+      }, 
+      "id": 143813
+    }
+  ]
+}

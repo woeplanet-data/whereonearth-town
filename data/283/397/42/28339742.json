@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.804, 
+              43.007
+            ], 
+            [
+              -75.804, 
+              43.069
+            ], 
+            [
+              -75.654, 
+              43.069
+            ], 
+            [
+              -75.654, 
+              43.007
+            ], 
+            [
+              -75.804, 
+              43.007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28339742, 
+        "name": "Lincoln", 
+        "adjacent_woeid": [
+          2402910, 
+          2438311, 
+          2449698, 
+          2470784, 
+          2501433
+        ], 
+        "ne_latitude": 43.069, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lincoln, Town of"
+        ], 
+        "ne_longitude": -75.654, 
+        "longitude": -75.750, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589338, 
+        "latitude": 43.060, 
+        "sw_longitude": -75.804, 
+        "fullname": "Lincoln, New York, Madison, United States", 
+        "sw_latitude": 43.007
+      }, 
+      "id": 28339742
+    }
+  ]
+}

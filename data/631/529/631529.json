@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.888, 
+              47.737
+            ], 
+            [
+              0.888, 
+              47.777
+            ], 
+            [
+              0.922, 
+              47.777
+            ], 
+            [
+              0.922, 
+              47.737
+            ], 
+            [
+              0.888, 
+              47.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631529, 
+        "name": "Villavard", 
+        "adjacent_woeid": [
+          595003, 
+          601825, 
+          621113, 
+          626743
+        ], 
+        "ne_latitude": 47.777, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.922, 
+        "longitude": 0.905, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12654376, 
+        "latitude": 47.760, 
+        "sw_longitude": 0.888, 
+        "fullname": "Villavard, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.737
+      }, 
+      "id": 631529
+    }
+  ]
+}

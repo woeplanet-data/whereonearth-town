@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.210, 
+              18.812
+            ], 
+            [
+              -99.210, 
+              18.918
+            ], 
+            [
+              -99.158, 
+              18.918
+            ], 
+            [
+              -99.158, 
+              18.812
+            ], 
+            [
+              -99.210, 
+              18.812
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123159, 
+        "name": "Emiliano Zapata", 
+        "adjacent_woeid": [
+          111024, 
+          113127, 
+          125941, 
+          148601, 
+          148681, 
+          148942, 
+          149140, 
+          149232
+        ], 
+        "ne_latitude": 18.918, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -99.158, 
+        "longitude": -99.203, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "parent_woeid": 2346280, 
+        "latitude": 18.912, 
+        "sw_longitude": -99.210, 
+        "fullname": "Emiliano Zapata, Morelos, Cuernavaca, Mexico", 
+        "sw_latitude": 18.812
+      }, 
+      "id": 123159
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.821, 
+              39.850
+            ], 
+            [
+              -77.821, 
+              40.016
+            ], 
+            [
+              -77.654, 
+              40.016
+            ], 
+            [
+              -77.654, 
+              39.850
+            ], 
+            [
+              -77.821, 
+              39.850
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745577, 
+        "name": "Hamilton", 
+        "adjacent_woeid": [
+          2378784, 
+          2406994, 
+          2415512, 
+          2424910, 
+          2430845, 
+          2508744, 
+          28340036
+        ], 
+        "ne_latitude": 40.016, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Hamilton Township"
+        ], 
+        "ne_longitude": -77.654, 
+        "longitude": -77.728, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589755, 
+        "latitude": 39.962, 
+        "sw_longitude": -77.821, 
+        "fullname": "Hamilton, Pennsylvania, Franklin, United States", 
+        "sw_latitude": 39.850
+      }, 
+      "id": 28745577
+    }
+  ]
+}

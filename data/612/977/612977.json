@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.809, 
+              43.571
+            ], 
+            [
+              3.809, 
+              43.652
+            ], 
+            [
+              3.926, 
+              43.652
+            ], 
+            [
+              3.926, 
+              43.571
+            ], 
+            [
+              3.809, 
+              43.571
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612977, 
+        "name": "Montpellier", 
+        "adjacent_woeid": [
+          583272, 
+          586138, 
+          593347, 
+          595801, 
+          599282, 
+          601665, 
+          601888, 
+          610541, 
+          612611, 
+          623136, 
+          623563, 
+          624095, 
+          624796, 
+          20203775
+        ], 
+        "ne_latitude": 43.652, 
+        "alias_ENG_V": [
+          "MPL"
+        ], 
+        "ne_longitude": 3.926, 
+        "longitude": 3.876, 
+        "parent_woeid": 12658459, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Montpeller"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.611, 
+        "sw_longitude": 3.809, 
+        "fullname": "Montpellier, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.571
+      }, 
+      "id": 612977
+    }
+  ]
+}

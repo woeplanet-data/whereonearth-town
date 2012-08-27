@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.743, 
+              21.974
+            ], 
+            [
+              -99.743, 
+              21.992
+            ], 
+            [
+              -99.724, 
+              21.992
+            ], 
+            [
+              -99.724, 
+              21.974
+            ], 
+            [
+              -99.743, 
+              21.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.992, 
+        "name": "La Noria", 
+        "adjacent_woeid": [
+          111539, 
+          114827, 
+          115332, 
+          133062, 
+          142589, 
+          146687
+        ], 
+        "woeid": 128460, 
+        "alias_SPA_V": [
+          "Noria"
+        ], 
+        "ne_longitude": -99.724, 
+        "longitude": -99.733, 
+        "parent_woeid": 12601474, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.983, 
+        "sw_longitude": -99.743, 
+        "fullname": "La Noria, San Luis Potosi, Cardenas, Mexico", 
+        "sw_latitude": 21.974
+      }, 
+      "id": 128460
+    }
+  ]
+}

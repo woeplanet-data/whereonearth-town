@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.696, 
+              45.200
+            ], 
+            [
+              0.696, 
+              45.247
+            ], 
+            [
+              0.761, 
+              45.247
+            ], 
+            [
+              0.761, 
+              45.200
+            ], 
+            [
+              0.696, 
+              45.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584207, 
+        "name": "Champcevinel", 
+        "adjacent_woeid": [
+          584924, 
+          29331548, 
+          29331643, 
+          29331777
+        ], 
+        "ne_latitude": 45.247, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.761, 
+        "longitude": 0.727, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12640918, 
+        "latitude": 45.218, 
+        "sw_longitude": 0.696, 
+        "fullname": "Champcevinel, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.200
+      }, 
+      "id": 584207
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.060, 
+              24.558
+            ], 
+            [
+              -103.060, 
+              24.576
+            ], 
+            [
+              -103.040, 
+              24.576
+            ], 
+            [
+              -103.040, 
+              24.558
+            ], 
+            [
+              -103.060, 
+              24.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.576, 
+        "name": "La Granja", 
+        "adjacent_woeid": [
+          127239, 
+          128985, 
+          134161, 
+          140639, 
+          143575, 
+          143877, 
+          145539, 
+          146780
+        ], 
+        "woeid": 127588, 
+        "alias_SPA_V": [
+          "Granje"
+        ], 
+        "ne_longitude": -103.040, 
+        "longitude": -103.050, 
+        "parent_woeid": 12599956, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.567, 
+        "sw_longitude": -103.060, 
+        "fullname": "La Granja, Durango, General Simon Bolivar, Mexico", 
+        "sw_latitude": 24.558
+      }, 
+      "id": 127588
+    }
+  ]
+}

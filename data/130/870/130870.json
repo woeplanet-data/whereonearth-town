@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.077, 
+              26.874
+            ], 
+            [
+              -100.077, 
+              26.892
+            ], 
+            [
+              -100.057, 
+              26.892
+            ], 
+            [
+              -100.057, 
+              26.874
+            ], 
+            [
+              -100.077, 
+              26.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.892, 
+        "name": "Las Ranas", 
+        "adjacent_woeid": [
+          112300, 
+          118734, 
+          138381, 
+          146760, 
+          146761, 
+          150527
+        ], 
+        "woeid": 130870, 
+        "alias_SPA_V": [
+          "Rancho Las Ranas"
+        ], 
+        "ne_longitude": -100.057, 
+        "longitude": -100.067, 
+        "parent_woeid": 12600635, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.883, 
+        "sw_longitude": -100.077, 
+        "fullname": "Las Ranas, Nuevo Leon, Lampazos de Naranjo, Mexico", 
+        "sw_latitude": 26.874
+      }, 
+      "id": 130870
+    }
+  ]
+}

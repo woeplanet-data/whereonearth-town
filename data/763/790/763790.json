@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.657, 
+              41.275
+            ], 
+            [
+              0.657, 
+              41.293
+            ], 
+            [
+              0.675, 
+              41.293
+            ], 
+            [
+              0.675, 
+              41.275
+            ], 
+            [
+              0.657, 
+              41.275
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.293, 
+        "name": "La Palma de Ebro", 
+        "adjacent_woeid": [
+          754563, 
+          755210, 
+          760624, 
+          775704, 
+          778825
+        ], 
+        "woeid": 763790, 
+        "alias_SPA_V": [
+          "La Palma D'ebre"
+        ], 
+        "ne_longitude": 0.675, 
+        "longitude": 0.666, 
+        "parent_woeid": 12694237, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.284, 
+        "sw_longitude": 0.657, 
+        "fullname": "La Palma de Ebro, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.275
+      }, 
+      "id": 763790
+    }
+  ]
+}

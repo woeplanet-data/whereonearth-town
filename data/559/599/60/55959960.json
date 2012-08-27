@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.141, 
+              43.113
+            ], 
+            [
+              -123.141, 
+              43.131
+            ], 
+            [
+              -123.116, 
+              43.131
+            ], 
+            [
+              -123.116, 
+              43.113
+            ], 
+            [
+              -123.141, 
+              43.113
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 55959960, 
+        "name": "Buck Fork", 
+        "adjacent_woeid": [
+          2418640, 
+          2443148, 
+          2451730, 
+          2460229
+        ], 
+        "ne_latitude": 43.131, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.116, 
+        "longitude": -123.129, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:02Z", 
+        "parent_woeid": 12589701, 
+        "latitude": 43.122, 
+        "sw_longitude": -123.141, 
+        "fullname": "Buck Fork, Oregon, Douglas, United States", 
+        "sw_latitude": 43.113
+      }, 
+      "id": 55959960
+    }
+  ]
+}

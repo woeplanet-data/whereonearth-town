@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.050, 
+              48.547
+            ], 
+            [
+              2.050, 
+              48.580
+            ], 
+            [
+              2.084, 
+              48.580
+            ], 
+            [
+              2.084, 
+              48.547
+            ], 
+            [
+              2.050, 
+              48.547
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604817, 
+        "name": "Le Val-St.-Germain", 
+        "adjacent_woeid": [
+          576112, 
+          619789, 
+          621895, 
+          622718, 
+          625864, 
+          630271
+        ], 
+        "ne_latitude": 48.580, 
+        "ne_longitude": 2.084, 
+        "longitude": 2.061, 
+        "parent_woeid": 12639688, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Val-Saint-Germain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:24Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.565, 
+        "sw_longitude": 2.050, 
+        "fullname": "Le Val-St.-Germain, Ile-de-France, Essonne, France", 
+        "sw_latitude": 48.547
+      }, 
+      "id": 604817
+    }
+  ]
+}

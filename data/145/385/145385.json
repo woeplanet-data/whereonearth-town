@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.103, 
+              19.189
+            ], 
+            [
+              -99.103, 
+              19.208
+            ], 
+            [
+              -99.084, 
+              19.208
+            ], 
+            [
+              -99.084, 
+              19.189
+            ], 
+            [
+              -99.103, 
+              19.189
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.208, 
+        "name": "San Salvador", 
+        "adjacent_woeid": [
+          134390, 
+          142747, 
+          144868, 
+          145025, 
+          149541, 
+          149826, 
+          151047
+        ], 
+        "woeid": 145385, 
+        "alias_SPA_V": [
+          "S. Salvador"
+        ], 
+        "ne_longitude": -99.084, 
+        "longitude": -99.094, 
+        "parent_woeid": 12599945, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.199, 
+        "sw_longitude": -99.103, 
+        "fullname": "San Salvador, Distrito Federal, Milpa Alta, Mexico", 
+        "sw_latitude": 19.189
+      }, 
+      "id": 145385
+    }
+  ]
+}

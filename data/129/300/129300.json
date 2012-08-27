@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.426, 
+              16.724
+            ], 
+            [
+              -98.426, 
+              16.742
+            ], 
+            [
+              -98.407, 
+              16.742
+            ], 
+            [
+              -98.407, 
+              16.724
+            ], 
+            [
+              -98.426, 
+              16.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.742, 
+        "name": "La Soledad", 
+        "adjacent_woeid": [
+          110991, 
+          135272, 
+          136646, 
+          146431, 
+          151526, 
+          55888592
+        ], 
+        "woeid": 129300, 
+        "alias_SPA_V": [
+          "Soledad"
+        ], 
+        "ne_longitude": -98.407, 
+        "longitude": -98.417, 
+        "parent_woeid": 12600082, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.733, 
+        "sw_longitude": -98.426, 
+        "fullname": "La Soledad, Guerrero, Ometepec, Mexico", 
+        "sw_latitude": 16.724
+      }, 
+      "id": 129300
+    }
+  ]
+}

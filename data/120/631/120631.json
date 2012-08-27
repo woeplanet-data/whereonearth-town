@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.327, 
+              24.741
+            ], 
+            [
+              -100.327, 
+              24.759
+            ], 
+            [
+              -100.307, 
+              24.759
+            ], 
+            [
+              -100.307, 
+              24.741
+            ], 
+            [
+              -100.327, 
+              24.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.759, 
+        "name": "El Leoncito", 
+        "adjacent_woeid": [
+          121638, 
+          122226, 
+          145347, 
+          146731
+        ], 
+        "woeid": 120631, 
+        "alias_SPA_V": [
+          "Rancho El Leoncito"
+        ], 
+        "ne_longitude": -100.307, 
+        "longitude": -100.317, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.750, 
+        "sw_longitude": -100.327, 
+        "fullname": "El Leoncito, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.741
+      }, 
+      "id": 120631
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.135, 
+              40.436
+            ], 
+            [
+              0.135, 
+              40.497
+            ], 
+            [
+              0.207, 
+              40.497
+            ], 
+            [
+              0.207, 
+              40.436
+            ], 
+            [
+              0.135, 
+              40.436
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.497, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          757084, 
+          757377, 
+          757506, 
+          772527, 
+          779221
+        ], 
+        "woeid": 775977, 
+        "alias_SPA_V": [
+          "S. Mateo"
+        ], 
+        "ne_longitude": 0.207, 
+        "longitude": 0.179, 
+        "parent_woeid": 12695500, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.467, 
+        "sw_longitude": 0.135, 
+        "fullname": "San Mateo, Valencia, Castellon, Spain", 
+        "sw_latitude": 40.436
+      }, 
+      "id": 775977
+    }
+  ]
+}

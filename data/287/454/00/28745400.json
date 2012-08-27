@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.245, 
+              41.531
+            ], 
+            [
+              -75.245, 
+              41.634
+            ], 
+            [
+              -75.070, 
+              41.634
+            ], 
+            [
+              -75.070, 
+              41.531
+            ], 
+            [
+              -75.245, 
+              41.531
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745400, 
+        "name": "Berlin", 
+        "adjacent_woeid": [
+          28745331, 
+          28745406
+        ], 
+        "ne_latitude": 41.634, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Berlin Township"
+        ], 
+        "ne_longitude": -75.070, 
+        "longitude": -75.160, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589791, 
+        "latitude": 41.594, 
+        "sw_longitude": -75.245, 
+        "fullname": "Berlin, Pennsylvania, Wayne, United States", 
+        "sw_latitude": 41.531
+      }, 
+      "id": 28745400
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.277, 
+              56.356
+            ], 
+            [
+              -101.277, 
+              56.374
+            ], 
+            [
+              -101.244, 
+              56.374
+            ], 
+            [
+              -101.244, 
+              56.356
+            ], 
+            [
+              -101.277, 
+              56.356
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2005, 
+        "name": "Herriot", 
+        "adjacent_woeid": [
+          2000, 
+          2003, 
+          2006, 
+          2007, 
+          2008
+        ], 
+        "ne_latitude": 56.374, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -101.244, 
+        "longitude": -101.261, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:22:56Z", 
+        "parent_woeid": 29375231, 
+        "latitude": 56.365, 
+        "sw_longitude": -101.277, 
+        "fullname": "Herriot, Manitoba, Manitoba, Canada", 
+        "sw_latitude": 56.356
+      }, 
+      "id": 2005
+    }
+  ]
+}

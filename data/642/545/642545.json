@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.325, 
+              47.864
+            ], 
+            [
+              12.325, 
+              47.873
+            ], 
+            [
+              12.338, 
+              47.873
+            ], 
+            [
+              12.338, 
+              47.864
+            ], 
+            [
+              12.325, 
+              47.864
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 642545, 
+        "name": "Burgersdorf", 
+        "adjacent_woeid": [
+          654045, 
+          682779, 
+          683926, 
+          685131
+        ], 
+        "ne_latitude": 47.873, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.338, 
+        "longitude": 12.331, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12622786, 
+        "latitude": 47.868, 
+        "sw_longitude": 12.325, 
+        "fullname": "Burgersdorf, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.864
+      }, 
+      "id": 642545
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.408, 
+              48.570
+            ], 
+            [
+              5.408, 
+              48.621
+            ], 
+            [
+              5.439, 
+              48.621
+            ], 
+            [
+              5.439, 
+              48.570
+            ], 
+            [
+              5.408, 
+              48.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624888, 
+        "name": "St.-Joire", 
+        "adjacent_woeid": [
+          578420, 
+          579869, 
+          580666, 
+          588594, 
+          594960, 
+          610278, 
+          619014, 
+          619344, 
+          629333
+        ], 
+        "ne_latitude": 48.621, 
+        "ne_longitude": 5.439, 
+        "longitude": 5.415, 
+        "parent_woeid": 12670651, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Joire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.595, 
+        "sw_longitude": 5.408, 
+        "fullname": "St.-Joire, Lorraine, Meuse, France", 
+        "sw_latitude": 48.570
+      }, 
+      "id": 624888
+    }
+  ]
+}

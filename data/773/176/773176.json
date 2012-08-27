@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.426, 
+              39.062
+            ], 
+            [
+              1.426, 
+              39.073
+            ], 
+            [
+              1.448, 
+              39.073
+            ], 
+            [
+              1.448, 
+              39.062
+            ], 
+            [
+              1.426, 
+              39.062
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.073, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          773763, 
+          15003446, 
+          20225979, 
+          29369799
+        ], 
+        "woeid": 773176, 
+        "alias_SPA_V": [
+          "S Miguel"
+        ], 
+        "ne_longitude": 1.448, 
+        "longitude": 1.441, 
+        "parent_woeid": 12687757, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.068, 
+        "sw_longitude": 1.426, 
+        "fullname": "San Miguel, Balearic Islands, Baleares, Spain", 
+        "sw_latitude": 39.062
+      }, 
+      "id": 773176
+    }
+  ]
+}

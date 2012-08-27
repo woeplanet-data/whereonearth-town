@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.627, 
+              24.558
+            ], 
+            [
+              -104.627, 
+              24.576
+            ], 
+            [
+              -104.607, 
+              24.576
+            ], 
+            [
+              -104.607, 
+              24.558
+            ], 
+            [
+              -104.627, 
+              24.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.576, 
+        "name": "Medinas", 
+        "adjacent_woeid": [
+          113659, 
+          118299, 
+          118332, 
+          129224, 
+          131191
+        ], 
+        "woeid": 133266, 
+        "alias_SPA_V": [
+          "Medina"
+        ], 
+        "ne_longitude": -104.607, 
+        "longitude": -104.617, 
+        "parent_woeid": 12599950, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.567, 
+        "sw_longitude": -104.627, 
+        "fullname": "Medinas, Durango, Canatlan, Mexico", 
+        "sw_latitude": 24.558
+      }, 
+      "id": 133266
+    }
+  ]
+}

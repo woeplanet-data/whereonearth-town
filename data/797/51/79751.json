@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.948, 
+              13.997
+            ], 
+            [
+              -88.948, 
+              14.015
+            ], 
+            [
+              -88.930, 
+              14.015
+            ], 
+            [
+              -88.930, 
+              13.997
+            ], 
+            [
+              -88.948, 
+              13.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.015, 
+        "name": "San Miguel de Mercedes", 
+        "adjacent_woeid": [
+          76887, 
+          77029, 
+          79307, 
+          79452, 
+          79729, 
+          26809363, 
+          26809364
+        ], 
+        "woeid": 79751, 
+        "alias_SPA_V": [
+          "S Miguel de Mercedes"
+        ], 
+        "ne_longitude": -88.930, 
+        "longitude": -88.939, 
+        "parent_woeid": 26808571, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.006, 
+        "sw_longitude": -88.948, 
+        "fullname": "San Miguel de Mercedes, Chalatenango, San Miguel de Mercedes, El Salvador", 
+        "sw_latitude": 13.997
+      }, 
+      "id": 79751
+    }
+  ]
+}

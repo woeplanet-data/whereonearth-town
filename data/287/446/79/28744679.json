@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.922, 
+              41.476
+            ], 
+            [
+              -77.922, 
+              41.652
+            ], 
+            [
+              -77.826, 
+              41.652
+            ], 
+            [
+              -77.826, 
+              41.476
+            ], 
+            [
+              -77.922, 
+              41.476
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744679, 
+        "name": "East Fork", 
+        "adjacent_woeid": [
+          2351507, 
+          2518833, 
+          28340138, 
+          28744636, 
+          28744851
+        ], 
+        "ne_latitude": 41.652, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Frk"
+        ], 
+        "ne_longitude": -77.826, 
+        "longitude": -77.892, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589780, 
+        "latitude": 41.567, 
+        "sw_longitude": -77.922, 
+        "fullname": "East Fork, Pennsylvania, Potter, United States", 
+        "sw_latitude": 41.476
+      }, 
+      "id": 28744679
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.343, 
+              19.824
+            ], 
+            [
+              -104.343, 
+              19.842
+            ], 
+            [
+              -104.324, 
+              19.842
+            ], 
+            [
+              -104.324, 
+              19.824
+            ], 
+            [
+              -104.343, 
+              19.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.842, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          111386, 
+          112725, 
+          127994, 
+          133529
+        ], 
+        "woeid": 142541, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -104.324, 
+        "longitude": -104.333, 
+        "parent_woeid": 12600208, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.833, 
+        "sw_longitude": -104.343, 
+        "fullname": "San Francisco, Jalisco, Autlan de Navarro, Mexico", 
+        "sw_latitude": 19.824
+      }, 
+      "id": 142541
+    }
+  ]
+}

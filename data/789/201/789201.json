@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              17.445, 
+              49.148
+            ], 
+            [
+              17.445, 
+              49.196
+            ], 
+            [
+              17.490, 
+              49.196
+            ], 
+            [
+              17.490, 
+              49.148
+            ], 
+            [
+              17.445, 
+              49.148
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "CZE", 
+        "woeid": 789201, 
+        "name": "Halenkovice", 
+        "adjacent_woeid": [
+          785896, 
+          791654, 
+          792220, 
+          794481, 
+          798548, 
+          799732, 
+          802215
+        ], 
+        "ne_latitude": 49.196, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 17.490, 
+        "longitude": 17.472, 
+        "placetype": "Town", 
+        "alias_CZE_V": [
+          "Halenovice"
+        ], 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:55:52Z", 
+        "parent_woeid": 12605127, 
+        "latitude": 49.173, 
+        "sw_longitude": 17.445, 
+        "fullname": "Halenkovice, Zl\u00ednsk\u00fd, Zl\u00edn, Czech Republic", 
+        "sw_latitude": 49.148
+      }, 
+      "id": 789201
+    }
+  ]
+}

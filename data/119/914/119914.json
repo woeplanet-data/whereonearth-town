@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.843, 
+              23.024
+            ], 
+            [
+              -98.843, 
+              23.042
+            ], 
+            [
+              -98.823, 
+              23.042
+            ], 
+            [
+              -98.823, 
+              23.024
+            ], 
+            [
+              -98.843, 
+              23.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.042, 
+        "name": "El Conejo", 
+        "adjacent_woeid": [
+          122454, 
+          123166, 
+          123433, 
+          123437, 
+          123748, 
+          151018, 
+          151114
+        ], 
+        "woeid": 119914, 
+        "alias_SPA_V": [
+          "Conejo"
+        ], 
+        "ne_longitude": -98.823, 
+        "longitude": -98.833, 
+        "parent_woeid": 12601674, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.033, 
+        "sw_longitude": -98.843, 
+        "fullname": "El Conejo, Tamaulipas, Xicotencatl, Mexico", 
+        "sw_latitude": 23.024
+      }, 
+      "id": 119914
+    }
+  ]
+}

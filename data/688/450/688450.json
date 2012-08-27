@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.448, 
+              48.368
+            ], 
+            [
+              10.448, 
+              48.400
+            ], 
+            [
+              10.481, 
+              48.400
+            ], 
+            [
+              10.481, 
+              48.368
+            ], 
+            [
+              10.448, 
+              48.368
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688450, 
+        "name": "Ried", 
+        "adjacent_woeid": [
+          646279, 
+          650469, 
+          682502, 
+          691708
+        ], 
+        "ne_latitude": 48.400, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.481, 
+        "longitude": 10.461, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:42Z", 
+        "parent_woeid": 12634836, 
+        "latitude": 48.375, 
+        "sw_longitude": 10.448, 
+        "fullname": "Ried, Bavaria, Landkreis G\u00fcnzburg, Germany", 
+        "sw_latitude": 48.368
+      }, 
+      "id": 688450
+    }
+  ]
+}

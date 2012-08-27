@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.659, 
+              15.941
+            ], 
+            [
+              -93.659, 
+              15.959
+            ], 
+            [
+              -93.641, 
+              15.959
+            ], 
+            [
+              -93.641, 
+              15.941
+            ], 
+            [
+              -93.659, 
+              15.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.959, 
+        "name": "La Polka", 
+        "adjacent_woeid": [
+          113851, 
+          119518, 
+          121635, 
+          134046, 
+          137801, 
+          150072
+        ], 
+        "woeid": 128818, 
+        "alias_SPA_V": [
+          "La Polca"
+        ], 
+        "ne_longitude": -93.641, 
+        "longitude": -93.650, 
+        "parent_woeid": 12599805, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.950, 
+        "sw_longitude": -93.659, 
+        "fullname": "La Polka, Chiapas, Tonala, Mexico", 
+        "sw_latitude": 15.941
+      }, 
+      "id": 128818
+    }
+  ]
+}

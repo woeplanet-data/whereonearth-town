@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.626, 
+              21.158
+            ], 
+            [
+              -104.626, 
+              21.176
+            ], 
+            [
+              -104.607, 
+              21.176
+            ], 
+            [
+              -104.607, 
+              21.158
+            ], 
+            [
+              -104.626, 
+              21.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.176, 
+        "name": "Santa Isabel", 
+        "adjacent_woeid": [
+          115651, 
+          116619, 
+          121155, 
+          122808, 
+          127388, 
+          130630, 
+          149161
+        ], 
+        "woeid": 146275, 
+        "alias_SPA_V": [
+          "Sta Isabel"
+        ], 
+        "ne_longitude": -104.607, 
+        "longitude": -104.617, 
+        "parent_woeid": 12600600, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.167, 
+        "sw_longitude": -104.626, 
+        "fullname": "Santa Isabel, Nayarit, Santa Maria del Oro, Mexico", 
+        "sw_latitude": 21.158
+      }, 
+      "id": 146275
+    }
+  ]
+}

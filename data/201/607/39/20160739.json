@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.047, 
+              51.276
+            ], 
+            [
+              10.047, 
+              51.303
+            ], 
+            [
+              10.079, 
+              51.303
+            ], 
+            [
+              10.079, 
+              51.276
+            ], 
+            [
+              10.047, 
+              51.276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160739, 
+        "name": "Weidenbach", 
+        "adjacent_woeid": [
+          644702, 
+          647077, 
+          673333, 
+          693995
+        ], 
+        "ne_latitude": 51.303, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.079, 
+        "longitude": 10.065, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12624696, 
+        "latitude": 51.294, 
+        "sw_longitude": 10.047, 
+        "fullname": "Weidenbach, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.276
+      }, 
+      "id": 20160739
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.643, 
+              20.791
+            ], 
+            [
+              -99.643, 
+              20.809
+            ], 
+            [
+              -99.624, 
+              20.809
+            ], 
+            [
+              -99.624, 
+              20.791
+            ], 
+            [
+              -99.643, 
+              20.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.809, 
+        "name": "La Laja", 
+        "adjacent_woeid": [
+          115429, 
+          115783, 
+          137652, 
+          147769, 
+          151007
+        ], 
+        "woeid": 127986, 
+        "alias_SPA_V": [
+          "Laja"
+        ], 
+        "ne_longitude": -99.624, 
+        "longitude": -99.633, 
+        "parent_woeid": 12601446, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.800, 
+        "sw_longitude": -99.643, 
+        "fullname": "La Laja, Queretaro de Arteaga, Cadereyta de Montes, Mexico", 
+        "sw_latitude": 20.791
+      }, 
+      "id": 127986
+    }
+  ]
+}

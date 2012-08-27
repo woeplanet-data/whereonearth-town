@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.727, 
+              23.691
+            ], 
+            [
+              -109.727, 
+              23.709
+            ], 
+            [
+              -109.707, 
+              23.709
+            ], 
+            [
+              -109.707, 
+              23.691
+            ], 
+            [
+              -109.727, 
+              23.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.709, 
+        "name": "Las Palmas", 
+        "adjacent_woeid": [
+          113755, 
+          129446, 
+          140877, 
+          141928
+        ], 
+        "woeid": 130718, 
+        "alias_SPA_V": [
+          "Palmas"
+        ], 
+        "ne_longitude": -109.707, 
+        "longitude": -109.717, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.700, 
+        "sw_longitude": -109.727, 
+        "fullname": "Las Palmas, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 23.691
+      }, 
+      "id": 130718
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.336, 
+              49.285
+            ], 
+            [
+              1.336, 
+              49.315
+            ], 
+            [
+              1.364, 
+              49.315
+            ], 
+            [
+              1.364, 
+              49.285
+            ], 
+            [
+              1.336, 
+              49.285
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595015, 
+        "name": "Houville-en-Vexin", 
+        "adjacent_woeid": [
+          575956, 
+          577772, 
+          588319, 
+          594808, 
+          609901, 
+          29330741
+        ], 
+        "ne_latitude": 49.315, 
+        "ne_longitude": 1.364, 
+        "longitude": 1.353, 
+        "parent_woeid": 12645280, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Houville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.299, 
+        "sw_longitude": 1.336, 
+        "fullname": "Houville-en-Vexin, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.285
+      }, 
+      "id": 595015
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.717, 
+              23.984
+            ], 
+            [
+              -105.717, 
+              24.002
+            ], 
+            [
+              -105.697, 
+              24.002
+            ], 
+            [
+              -105.697, 
+              23.984
+            ], 
+            [
+              -105.717, 
+              23.984
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.002, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          115195, 
+          120251, 
+          126912, 
+          144289, 
+          147415, 
+          150650
+        ], 
+        "woeid": 142595, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -105.697, 
+        "longitude": -105.707, 
+        "parent_woeid": 12599976, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.993, 
+        "sw_longitude": -105.717, 
+        "fullname": "San Francisco, Durango, San Dimas, Mexico", 
+        "sw_latitude": 23.984
+      }, 
+      "id": 142595
+    }
+  ]
+}

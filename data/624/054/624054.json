@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.443, 
+              47.128
+            ], 
+            [
+              3.443, 
+              47.161
+            ], 
+            [
+              3.483, 
+              47.161
+            ], 
+            [
+              3.483, 
+              47.128
+            ], 
+            [
+              3.443, 
+              47.128
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624054, 
+        "name": "St.-Franchy", 
+        "adjacent_woeid": [
+          588109, 
+          609017, 
+          613554, 
+          615360, 
+          620915, 
+          627634, 
+          20214435
+        ], 
+        "ne_latitude": 47.161, 
+        "ne_longitude": 3.483, 
+        "longitude": 3.462, 
+        "parent_woeid": 12647839, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Franchy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.139, 
+        "sw_longitude": 3.443, 
+        "fullname": "St.-Franchy, Burgundy, Nievre, France", 
+        "sw_latitude": 47.128
+      }, 
+      "id": 624054
+    }
+  ]
+}

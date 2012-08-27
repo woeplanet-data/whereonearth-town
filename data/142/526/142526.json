@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.026, 
+              21.241
+            ], 
+            [
+              -89.026, 
+              21.259
+            ], 
+            [
+              -89.007, 
+              21.259
+            ], 
+            [
+              -89.007, 
+              21.241
+            ], 
+            [
+              -89.026, 
+              21.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.259, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          114688, 
+          118422, 
+          141649
+        ], 
+        "woeid": 142526, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -89.007, 
+        "longitude": -89.017, 
+        "parent_woeid": 12601952, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.250, 
+        "sw_longitude": -89.026, 
+        "fullname": "San Francisco, Yucatan, Dzidzantun, Mexico", 
+        "sw_latitude": 21.241
+      }, 
+      "id": 142526
+    }
+  ]
+}

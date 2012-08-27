@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.122, 
+              47.914
+            ], 
+            [
+              -122.122, 
+              47.957
+            ], 
+            [
+              -122.073, 
+              47.957
+            ], 
+            [
+              -122.073, 
+              47.914
+            ], 
+            [
+              -122.122, 
+              47.914
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23418282, 
+        "name": "Northwest Snohomish", 
+        "adjacent_woeid": [
+          2404734, 
+          2443738, 
+          2472600, 
+          2484365, 
+          2496781, 
+          23418281
+        ], 
+        "ne_latitude": 47.957, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "NW Snohomish"
+        ], 
+        "ne_longitude": -122.073, 
+        "longitude": -122.104, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:54Z", 
+        "parent_woeid": 12590470, 
+        "latitude": 47.937, 
+        "sw_longitude": -122.122, 
+        "fullname": "Northwest Snohomish, Washington, Snohomish, United States", 
+        "sw_latitude": 47.914
+      }, 
+      "id": 23418282
+    }
+  ]
+}

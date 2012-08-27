@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.342, 
+              43.405
+            ], 
+            [
+              0.342, 
+              43.440
+            ], 
+            [
+              0.382, 
+              43.440
+            ], 
+            [
+              0.382, 
+              43.405
+            ], 
+            [
+              0.342, 
+              43.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627492, 
+        "name": "Ste.-Dode", 
+        "adjacent_woeid": [
+          578134, 
+          578552, 
+          612113, 
+          612327, 
+          620581, 
+          626018
+        ], 
+        "ne_latitude": 43.440, 
+        "ne_longitude": 0.382, 
+        "longitude": 0.358, 
+        "parent_woeid": 12671389, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Dode"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.421, 
+        "sw_longitude": 0.342, 
+        "fullname": "Ste.-Dode, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.405
+      }, 
+      "id": 627492
+    }
+  ]
+}

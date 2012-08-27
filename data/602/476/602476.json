@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.123, 
+              45.650
+            ], 
+            [
+              5.123, 
+              45.687
+            ], 
+            [
+              5.158, 
+              45.687
+            ], 
+            [
+              5.158, 
+              45.650
+            ], 
+            [
+              5.123, 
+              45.650
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602476, 
+        "name": "Le Chaffard", 
+        "adjacent_woeid": [
+          583979, 
+          594411, 
+          621134
+        ], 
+        "ne_latitude": 45.687, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.158, 
+        "longitude": 5.144, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "parent_woeid": 12656317, 
+        "latitude": 45.670, 
+        "sw_longitude": 5.123, 
+        "fullname": "Le Chaffard, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.650
+      }, 
+      "id": 602476
+    }
+  ]
+}

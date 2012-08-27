@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.471, 
+              26.663
+            ], 
+            [
+              -108.471, 
+              26.681
+            ], 
+            [
+              -108.451, 
+              26.681
+            ], 
+            [
+              -108.451, 
+              26.663
+            ], 
+            [
+              -108.471, 
+              26.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.681, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          112985, 
+          113944, 
+          126864, 
+          131408, 
+          147949
+        ], 
+        "woeid": 143048, 
+        "alias_SPA_V": [
+          "S. Javier"
+        ], 
+        "ne_longitude": -108.451, 
+        "longitude": -108.461, 
+        "parent_woeid": 12601530, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.672, 
+        "sw_longitude": -108.471, 
+        "fullname": "San Javier, Sinaloa, Choix, Mexico", 
+        "sw_latitude": 26.663
+      }, 
+      "id": 143048
+    }
+  ]
+}

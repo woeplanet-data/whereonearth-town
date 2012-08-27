@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.008, 
+              48.358
+            ], 
+            [
+              -3.008, 
+              48.401
+            ], 
+            [
+              -2.933, 
+              48.401
+            ], 
+            [
+              -2.933, 
+              48.358
+            ], 
+            [
+              -3.008, 
+              48.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623264, 
+        "name": "St.-Bihy", 
+        "adjacent_woeid": [
+          598695, 
+          602931, 
+          604941, 
+          15002964, 
+          29331174
+        ], 
+        "ne_latitude": 48.401, 
+        "ne_longitude": -2.933, 
+        "longitude": -2.971, 
+        "parent_woeid": 12652249, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bihy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.380, 
+        "sw_longitude": -3.008, 
+        "fullname": "St.-Bihy, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.358
+      }, 
+      "id": 623264
+    }
+  ]
+}

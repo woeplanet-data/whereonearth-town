@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.250, 
+              49.080
+            ], 
+            [
+              1.250, 
+              49.096
+            ], 
+            [
+              1.277, 
+              49.096
+            ], 
+            [
+              1.277, 
+              49.080
+            ], 
+            [
+              1.250, 
+              49.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627244, 
+        "name": "St.-Vigor", 
+        "adjacent_woeid": [
+          577390, 
+          591385, 
+          592493, 
+          595680, 
+          621124, 
+          20187842, 
+          20219619, 
+          29330805, 
+          29330820
+        ], 
+        "ne_latitude": 49.096, 
+        "ne_longitude": 1.277, 
+        "longitude": 1.267, 
+        "parent_woeid": 12653298, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vigor"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.088, 
+        "sw_longitude": 1.250, 
+        "fullname": "St.-Vigor, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.080
+      }, 
+      "id": 627244
+    }
+  ]
+}

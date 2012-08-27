@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.708, 
+              47.037
+            ], 
+            [
+              1.708, 
+              47.079
+            ], 
+            [
+              1.770, 
+              47.079
+            ], 
+            [
+              1.770, 
+              47.037
+            ], 
+            [
+              1.708, 
+              47.037
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591462, 
+        "name": "Fontenay", 
+        "adjacent_woeid": [
+          581002, 
+          594067, 
+          597540, 
+          608192, 
+          620290
+        ], 
+        "ne_latitude": 47.079, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.770, 
+        "longitude": 1.745, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12643977, 
+        "latitude": 47.060, 
+        "sw_longitude": 1.708, 
+        "fullname": "Fontenay, Centre, Indre, France", 
+        "sw_latitude": 47.037
+      }, 
+      "id": 591462
+    }
+  ]
+}

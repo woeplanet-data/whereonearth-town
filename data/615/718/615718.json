@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.512, 
+              46.821
+            ], 
+            [
+              2.512, 
+              46.878
+            ], 
+            [
+              2.598, 
+              46.878
+            ], 
+            [
+              2.598, 
+              46.821
+            ], 
+            [
+              2.512, 
+              46.821
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615718, 
+        "name": "Parnay", 
+        "adjacent_woeid": [
+          576697, 
+          586880, 
+          610845, 
+          621579, 
+          630792
+        ], 
+        "ne_latitude": 46.878, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.598, 
+        "longitude": 2.570, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12650426, 
+        "latitude": 46.851, 
+        "sw_longitude": 2.512, 
+        "fullname": "Parnay, Centre, Cher, France", 
+        "sw_latitude": 46.821
+      }, 
+      "id": 615718
+    }
+  ]
+}

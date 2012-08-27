@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.878, 
+              45.678
+            ], 
+            [
+              1.878, 
+              45.699
+            ], 
+            [
+              1.907, 
+              45.699
+            ], 
+            [
+              1.907, 
+              45.678
+            ], 
+            [
+              1.878, 
+              45.678
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619134, 
+        "name": "Rempnat", 
+        "adjacent_woeid": [
+          596476, 
+          600695, 
+          613967, 
+          616767, 
+          628076
+        ], 
+        "ne_latitude": 45.699, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.907, 
+        "longitude": 1.890, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12664122, 
+        "latitude": 45.688, 
+        "sw_longitude": 1.878, 
+        "fullname": "Rempnat, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.678
+      }, 
+      "id": 619134
+    }
+  ]
+}

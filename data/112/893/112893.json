@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.525, 
+              29.543
+            ], 
+            [
+              -111.525, 
+              29.557
+            ], 
+            [
+              -111.509, 
+              29.557
+            ], 
+            [
+              -111.509, 
+              29.543
+            ], 
+            [
+              -111.525, 
+              29.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.557, 
+        "name": "Bacoachi", 
+        "adjacent_woeid": [
+          117354, 
+          118211, 
+          120083, 
+          126894, 
+          140108, 
+          148339
+        ], 
+        "woeid": 112893, 
+        "alias_SPA_V": [
+          "Rancho Bacoachi"
+        ], 
+        "ne_longitude": -111.509, 
+        "longitude": -111.517, 
+        "parent_woeid": 12601574, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.550, 
+        "sw_longitude": -111.525, 
+        "fullname": "Bacoachi, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 29.543
+      }, 
+      "id": 112893
+    }
+  ]
+}

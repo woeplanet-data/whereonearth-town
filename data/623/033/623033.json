@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.845, 
+              47.682
+            ], 
+            [
+              0.845, 
+              47.732
+            ], 
+            [
+              0.900, 
+              47.732
+            ], 
+            [
+              0.900, 
+              47.682
+            ], 
+            [
+              0.845, 
+              47.682
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623033, 
+        "name": "St.-Arnoult", 
+        "adjacent_woeid": [
+          601825, 
+          612706, 
+          618181, 
+          625660
+        ], 
+        "ne_latitude": 47.732, 
+        "ne_longitude": 0.900, 
+        "longitude": 0.874, 
+        "parent_woeid": 12652191, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Arnoult"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.709, 
+        "sw_longitude": 0.845, 
+        "fullname": "St.-Arnoult, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.682
+      }, 
+      "id": 623033
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.313, 
+              48.251
+            ], 
+            [
+              10.313, 
+              48.272
+            ], 
+            [
+              10.350, 
+              48.272
+            ], 
+            [
+              10.350, 
+              48.251
+            ], 
+            [
+              10.313, 
+              48.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680393, 
+        "name": "Nordhofen", 
+        "adjacent_woeid": [
+          638925, 
+          663549, 
+          680911, 
+          681063
+        ], 
+        "ne_latitude": 48.272, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.350, 
+        "longitude": 10.329, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12634828, 
+        "latitude": 48.264, 
+        "sw_longitude": 10.313, 
+        "fullname": "Nordhofen, Bavaria, Landkreis G\u00fcnzburg, Germany", 
+        "sw_latitude": 48.251
+      }, 
+      "id": 680393
+    }
+  ]
+}

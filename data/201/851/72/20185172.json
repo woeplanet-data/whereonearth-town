@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.302, 
+              47.982
+            ], 
+            [
+              1.302, 
+              47.991
+            ], 
+            [
+              1.315, 
+              47.991
+            ], 
+            [
+              1.315, 
+              47.982
+            ], 
+            [
+              1.302, 
+              47.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20185172, 
+        "name": "St.-Calais", 
+        "adjacent_woeid": [
+          577389, 
+          581884, 
+          584753, 
+          598167, 
+          619880
+        ], 
+        "ne_latitude": 47.991, 
+        "ne_longitude": 1.315, 
+        "longitude": 1.308, 
+        "parent_woeid": 12651385, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Calais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.987, 
+        "sw_longitude": 1.302, 
+        "fullname": "St.-Calais, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 47.982
+      }, 
+      "id": 20185172
+    }
+  ]
+}

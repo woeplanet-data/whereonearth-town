@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.945, 
+              47.907
+            ], 
+            [
+              10.945, 
+              47.928
+            ], 
+            [
+              10.978, 
+              47.928
+            ], 
+            [
+              10.978, 
+              47.907
+            ], 
+            [
+              10.945, 
+              47.907
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 684602, 
+        "name": "Pessenhausen", 
+        "adjacent_woeid": [
+          635315, 
+          652608, 
+          672895, 
+          687584
+        ], 
+        "ne_latitude": 47.928, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.978, 
+        "longitude": 10.959, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:21Z", 
+        "parent_woeid": 12634643, 
+        "latitude": 47.920, 
+        "sw_longitude": 10.945, 
+        "fullname": "Pessenhausen, Bavaria, Landkreis Landsberg am Lech, Germany", 
+        "sw_latitude": 47.907
+      }, 
+      "id": 684602
+    }
+  ]
+}

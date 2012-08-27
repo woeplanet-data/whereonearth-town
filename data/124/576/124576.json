@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.340, 
+              26.773
+            ], 
+            [
+              -99.340, 
+              26.792
+            ], 
+            [
+              -99.320, 
+              26.792
+            ], 
+            [
+              -99.320, 
+              26.773
+            ], 
+            [
+              -99.340, 
+              26.773
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.792, 
+        "name": "Guerrero", 
+        "adjacent_woeid": [
+          113721, 
+          130360, 
+          134729, 
+          145190
+        ], 
+        "woeid": 124576, 
+        "alias_SPA_V": [
+          "Ciudad Guerrero"
+        ], 
+        "ne_longitude": -99.320, 
+        "longitude": -99.330, 
+        "parent_woeid": 12601646, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.782, 
+        "sw_longitude": -99.340, 
+        "fullname": "Guerrero, Tamaulipas, Guerrero, Mexico", 
+        "sw_latitude": 26.773
+      }, 
+      "id": 124576
+    }
+  ]
+}

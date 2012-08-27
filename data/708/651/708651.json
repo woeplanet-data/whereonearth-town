@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.169, 
+              50.693
+            ], 
+            [
+              9.169, 
+              50.742
+            ], 
+            [
+              9.218, 
+              50.742
+            ], 
+            [
+              9.218, 
+              50.693
+            ], 
+            [
+              9.169, 
+              50.693
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 708651, 
+        "name": "Zell", 
+        "adjacent_woeid": [
+          638932, 
+          646851, 
+          658627, 
+          671707
+        ], 
+        "ne_latitude": 50.742, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.218, 
+        "longitude": 9.197, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12632730, 
+        "latitude": 50.730, 
+        "sw_longitude": 9.169, 
+        "fullname": "Zell, Hesse, Vogelbergkreis, Germany", 
+        "sw_latitude": 50.693
+      }, 
+      "id": 708651
+    }
+  ]
+}

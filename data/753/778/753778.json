@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.709, 
+              42.651
+            ], 
+            [
+              -2.709, 
+              42.675
+            ], 
+            [
+              -2.674, 
+              42.675
+            ], 
+            [
+              -2.674, 
+              42.651
+            ], 
+            [
+              -2.709, 
+              42.651
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.675, 
+        "name": "Baroja", 
+        "adjacent_woeid": [
+          752893, 
+          760384, 
+          766142
+        ], 
+        "woeid": 753778, 
+        "alias_SPA_V": [
+          "Barola"
+        ], 
+        "ne_longitude": -2.674, 
+        "longitude": -2.691, 
+        "parent_woeid": 12695050, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.666, 
+        "sw_longitude": -2.709, 
+        "fullname": "Baroja, Basque Country, Alava, Spain", 
+        "sw_latitude": 42.651
+      }, 
+      "id": 753778
+    }
+  ]
+}

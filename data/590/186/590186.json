@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.434, 
+              45.012
+            ], 
+            [
+              1.434, 
+              45.050
+            ], 
+            [
+              1.483, 
+              45.050
+            ], 
+            [
+              1.483, 
+              45.012
+            ], 
+            [
+              1.434, 
+              45.012
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590186, 
+        "name": "Estivals", 
+        "adjacent_woeid": [
+          590848, 
+          592835, 
+          613784, 
+          614041
+        ], 
+        "ne_latitude": 45.050, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.483, 
+        "longitude": 1.462, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12661075, 
+        "latitude": 45.028, 
+        "sw_longitude": 1.434, 
+        "fullname": "Estivals, Limousin, Correze, France", 
+        "sw_latitude": 45.012
+      }, 
+      "id": 590186
+    }
+  ]
+}

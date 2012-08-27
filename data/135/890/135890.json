@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.451, 
+              26.091
+            ], 
+            [
+              -103.451, 
+              26.109
+            ], 
+            [
+              -103.431, 
+              26.109
+            ], 
+            [
+              -103.431, 
+              26.091
+            ], 
+            [
+              -103.451, 
+              26.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.109, 
+        "name": "Pamplona", 
+        "adjacent_woeid": [
+          118762, 
+          122945, 
+          126791, 
+          128781, 
+          129635, 
+          131715, 
+          134840, 
+          151701
+        ], 
+        "woeid": 135890, 
+        "alias_SPA_V": [
+          "Ejido Pamplona"
+        ], 
+        "ne_longitude": -103.431, 
+        "longitude": -103.441, 
+        "parent_woeid": 12599986, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.100, 
+        "sw_longitude": -103.451, 
+        "fullname": "Pamplona, Durango, Tlahualilo, Mexico", 
+        "sw_latitude": 26.091
+      }, 
+      "id": 135890
+    }
+  ]
+}

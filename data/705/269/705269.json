@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.616, 
+              52.294
+            ], 
+            [
+              10.616, 
+              52.344
+            ], 
+            [
+              10.651, 
+              52.344
+            ], 
+            [
+              10.651, 
+              52.294
+            ], 
+            [
+              10.616, 
+              52.294
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705269, 
+        "name": "Wendhausen", 
+        "adjacent_woeid": [
+          637352, 
+          648809, 
+          653943, 
+          654430, 
+          662255, 
+          666596, 
+          704245
+        ], 
+        "ne_latitude": 52.344, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.651, 
+        "longitude": 10.633, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12630378, 
+        "latitude": 52.317, 
+        "sw_longitude": 10.616, 
+        "fullname": "Wendhausen, Lower Saxony, Landkreis Helmstedt, Germany", 
+        "sw_latitude": 52.294
+      }, 
+      "id": 705269
+    }
+  ]
+}

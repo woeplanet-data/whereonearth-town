@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.676, 
+              18.341
+            ], 
+            [
+              -92.676, 
+              18.359
+            ], 
+            [
+              -92.657, 
+              18.359
+            ], 
+            [
+              -92.657, 
+              18.341
+            ], 
+            [
+              -92.676, 
+              18.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.359, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          115993, 
+          147330, 
+          147924, 
+          148353
+        ], 
+        "woeid": 143780, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -92.657, 
+        "longitude": -92.667, 
+        "parent_woeid": 12601617, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.350, 
+        "sw_longitude": -92.676, 
+        "fullname": "San Juan, Tabasco, Centla, Mexico", 
+        "sw_latitude": 18.341
+      }, 
+      "id": 143780
+    }
+  ]
+}

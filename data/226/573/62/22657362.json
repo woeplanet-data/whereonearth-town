@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.100, 
+              45.943
+            ], 
+            [
+              1.100, 
+              45.952
+            ], 
+            [
+              1.113, 
+              45.952
+            ], 
+            [
+              1.113, 
+              45.943
+            ], 
+            [
+              1.100, 
+              45.943
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 22657362, 
+        "name": "La Roche", 
+        "adjacent_woeid": [
+          616402, 
+          621765, 
+          631018, 
+          20190508, 
+          20190525
+        ], 
+        "ne_latitude": 45.952, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.113, 
+        "longitude": 1.106, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12659792, 
+        "latitude": 45.948, 
+        "sw_longitude": 1.100, 
+        "fullname": "La Roche, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.943
+      }, 
+      "id": 22657362
+    }
+  ]
+}

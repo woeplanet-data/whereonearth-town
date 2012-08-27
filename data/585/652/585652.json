@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.603, 
+              45.879
+            ], 
+            [
+              4.603, 
+              45.907
+            ], 
+            [
+              4.636, 
+              45.907
+            ], 
+            [
+              4.636, 
+              45.879
+            ], 
+            [
+              4.603, 
+              45.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585652, 
+        "name": "Chessy", 
+        "adjacent_woeid": [
+          577825, 
+          585087, 
+          593016, 
+          602296
+        ], 
+        "ne_latitude": 45.907, 
+        "ne_longitude": 4.636, 
+        "longitude": 4.624, 
+        "parent_woeid": 22755416, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chessy-les-mines"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.887, 
+        "sw_longitude": 4.603, 
+        "fullname": "Chessy, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 45.879
+      }, 
+      "id": 585652
+    }
+  ]
+}

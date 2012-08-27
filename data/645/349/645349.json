@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.346, 
+              49.346
+            ], 
+            [
+              10.346, 
+              49.375
+            ], 
+            [
+              10.369, 
+              49.375
+            ], 
+            [
+              10.369, 
+              49.346
+            ], 
+            [
+              10.346, 
+              49.346
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645349, 
+        "name": "Dornhausen", 
+        "adjacent_woeid": [
+          638793, 
+          639038, 
+          650982, 
+          663007, 
+          668833, 
+          670685, 
+          681169, 
+          20158693
+        ], 
+        "ne_latitude": 49.375, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.369, 
+        "longitude": 10.354, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12634403, 
+        "latitude": 49.359, 
+        "sw_longitude": 10.346, 
+        "fullname": "Dornhausen, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.346
+      }, 
+      "id": 645349
+    }
+  ]
+}

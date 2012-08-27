@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.196, 
+              52.900
+            ], 
+            [
+              1.196, 
+              52.928
+            ], 
+            [
+              1.228, 
+              52.928
+            ], 
+            [
+              1.228, 
+              52.900
+            ], 
+            [
+              1.196, 
+              52.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 18900, 
+        "name": "East Beckham", 
+        "adjacent_woeid": [
+          11496, 
+          21860, 
+          30403, 
+          38721, 
+          39560
+        ], 
+        "ne_latitude": 52.928, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.228, 
+        "longitude": 1.211, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:17:46Z", 
+        "parent_woeid": 12696027, 
+        "latitude": 52.913, 
+        "sw_longitude": 1.196, 
+        "fullname": "East Beckham, England, Norfolk, United Kingdom", 
+        "sw_latitude": 52.900
+      }, 
+      "id": 18900
+    }
+  ]
+}

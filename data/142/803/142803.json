@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.143, 
+              21.024
+            ], 
+            [
+              -102.143, 
+              21.043
+            ], 
+            [
+              -102.123, 
+              21.043
+            ], 
+            [
+              -102.123, 
+              21.024
+            ], 
+            [
+              -102.143, 
+              21.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.043, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          115110, 
+          122993, 
+          132914, 
+          142226, 
+          144069, 
+          150377, 
+          55892258, 
+          55892625
+        ], 
+        "woeid": 142803, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -102.123, 
+        "longitude": -102.133, 
+        "parent_woeid": 12600269, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.033, 
+        "sw_longitude": -102.143, 
+        "fullname": "San Ignacio, Jalisco, San Julian, Mexico", 
+        "sw_latitude": 21.024
+      }, 
+      "id": 142803
+    }
+  ]
+}

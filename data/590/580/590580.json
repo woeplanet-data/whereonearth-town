@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.315, 
+              49.391
+            ], 
+            [
+              0.315, 
+              49.419
+            ], 
+            [
+              0.343, 
+              49.419
+            ], 
+            [
+              0.343, 
+              49.391
+            ], 
+            [
+              0.315, 
+              49.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590580, 
+        "name": "Fatouville-Grestain", 
+        "adjacent_woeid": [
+          579550, 
+          590995, 
+          626484, 
+          627245, 
+          29330774
+        ], 
+        "ne_latitude": 49.419, 
+        "ne_longitude": 0.343, 
+        "longitude": 0.328, 
+        "parent_woeid": 12640406, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Fatouville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.407, 
+        "sw_longitude": 0.315, 
+        "fullname": "Fatouville-Grestain, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.391
+      }, 
+      "id": 590580
+    }
+  ]
+}

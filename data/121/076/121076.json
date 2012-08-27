@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.193, 
+              18.358
+            ], 
+            [
+              -100.193, 
+              18.376
+            ], 
+            [
+              -100.174, 
+              18.376
+            ], 
+            [
+              -100.174, 
+              18.358
+            ], 
+            [
+              -100.193, 
+              18.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.376, 
+        "name": "El Naranjo", 
+        "adjacent_woeid": [
+          111892, 
+          125495, 
+          133568, 
+          141704, 
+          144712, 
+          149961
+        ], 
+        "woeid": 121076, 
+        "alias_SPA_V": [
+          "Naranjo"
+        ], 
+        "ne_longitude": -100.174, 
+        "longitude": -100.183, 
+        "parent_woeid": 12600041, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.367, 
+        "sw_longitude": -100.193, 
+        "fullname": "El Naranjo, Guerrero, Arcelia, Mexico", 
+        "sw_latitude": 18.358
+      }, 
+      "id": 121076
+    }
+  ]
+}

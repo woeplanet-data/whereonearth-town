@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.157, 
+              42.256
+            ], 
+            [
+              -4.157, 
+              42.312
+            ], 
+            [
+              -4.126, 
+              42.312
+            ], 
+            [
+              -4.126, 
+              42.256
+            ], 
+            [
+              -4.157, 
+              42.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.312, 
+        "name": "Castrojeriz", 
+        "adjacent_woeid": [
+          752817, 
+          753264, 
+          756969, 
+          758013, 
+          762208, 
+          762254, 
+          762546, 
+          765593, 
+          774225, 
+          775036, 
+          775037, 
+          776448, 
+          776860, 
+          777957, 
+          778218, 
+          778547, 
+          778583, 
+          778687
+        ], 
+        "woeid": 757033, 
+        "alias_SPA_V": [
+          "Castrogeriz"
+        ], 
+        "ne_longitude": -4.126, 
+        "longitude": -4.141, 
+        "parent_woeid": 12691450, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.286, 
+        "sw_longitude": -4.157, 
+        "fullname": "Castrojeriz, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.256
+      }, 
+      "id": 757033
+    }
+  ]
+}

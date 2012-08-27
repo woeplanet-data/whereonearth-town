@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.481, 
+              50.319
+            ], 
+            [
+              9.481, 
+              50.355
+            ], 
+            [
+              9.521, 
+              50.355
+            ], 
+            [
+              9.521, 
+              50.319
+            ], 
+            [
+              9.481, 
+              50.319
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680011, 
+        "name": "Niederzell", 
+        "adjacent_woeid": [
+          637639, 
+          641017, 
+          661408, 
+          671962
+        ], 
+        "ne_latitude": 50.355, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.521, 
+        "longitude": 9.505, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12632537, 
+        "latitude": 50.331, 
+        "sw_longitude": 9.481, 
+        "fullname": "Niederzell, Hesse, Main-Kinzig-Kreis, Germany", 
+        "sw_latitude": 50.319
+      }, 
+      "id": 680011
+    }
+  ]
+}

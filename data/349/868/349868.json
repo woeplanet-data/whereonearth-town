@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.707, 
+              -33.599
+            ], 
+            [
+              -70.707, 
+              -33.565
+            ], 
+            [
+              -70.666, 
+              -33.565
+            ], 
+            [
+              -70.666, 
+              -33.599
+            ], 
+            [
+              -70.707, 
+              -33.599
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.565, 
+        "name": "San Bernardo", 
+        "adjacent_woeid": [
+          346900, 
+          347481, 
+          347732, 
+          347916, 
+          347983, 
+          348443, 
+          348571, 
+          348739, 
+          348964, 
+          349444, 
+          349448, 
+          349602, 
+          349859, 
+          349866, 
+          22723880
+        ], 
+        "woeid": 349868, 
+        "alias_SPA_V": [
+          "S Bernardo"
+        ], 
+        "ne_longitude": -70.666, 
+        "longitude": -70.687, 
+        "parent_woeid": 26794272, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.582, 
+        "sw_longitude": -70.707, 
+        "fullname": "San Bernardo, Santiago Metropolitan Region, Maipu Province, Chile", 
+        "sw_latitude": -33.599
+      }, 
+      "id": 349868
+    }
+  ]
+}

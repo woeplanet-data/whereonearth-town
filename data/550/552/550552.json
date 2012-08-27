@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.010, 
+              47.512
+            ], 
+            [
+              12.010, 
+              47.521
+            ], 
+            [
+              12.023, 
+              47.521
+            ], 
+            [
+              12.023, 
+              47.512
+            ], 
+            [
+              12.010, 
+              47.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550552, 
+        "name": "Embach", 
+        "adjacent_woeid": [
+          550845, 
+          550888, 
+          550963, 
+          551195, 
+          20094531
+        ], 
+        "ne_latitude": 47.521, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.023, 
+        "longitude": 12.017, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12675380, 
+        "latitude": 47.517, 
+        "sw_longitude": 12.010, 
+        "fullname": "Embach, Tyrol, Kufstein, Austria", 
+        "sw_latitude": 47.512
+      }, 
+      "id": 550552
+    }
+  ]
+}

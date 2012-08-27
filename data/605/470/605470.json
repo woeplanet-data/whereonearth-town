@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.244, 
+              44.762
+            ], 
+            [
+              3.244, 
+              44.783
+            ], 
+            [
+              3.269, 
+              44.783
+            ], 
+            [
+              3.269, 
+              44.762
+            ], 
+            [
+              3.244, 
+              44.762
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605470, 
+        "name": "Les Bessons", 
+        "adjacent_woeid": [
+          590582, 
+          598078, 
+          598079, 
+          619492, 
+          20204416
+        ], 
+        "ne_latitude": 44.783, 
+        "ne_longitude": 3.269, 
+        "longitude": 3.252, 
+        "parent_woeid": 12656946, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bessons"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.774, 
+        "sw_longitude": 3.244, 
+        "fullname": "Les Bessons, Languedoc-Roussillon, Lozere, France", 
+        "sw_latitude": 44.762
+      }, 
+      "id": 605470
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.478, 
+              43.293
+            ], 
+            [
+              0.478, 
+              43.331
+            ], 
+            [
+              0.502, 
+              43.331
+            ], 
+            [
+              0.502, 
+              43.293
+            ], 
+            [
+              0.478, 
+              43.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601562, 
+        "name": "Larroque", 
+        "adjacent_woeid": [
+          578271, 
+          594119, 
+          611994, 
+          616392, 
+          617278, 
+          618327
+        ], 
+        "ne_latitude": 43.331, 
+        "ne_longitude": 0.502, 
+        "longitude": 0.491, 
+        "parent_woeid": 12664519, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Larroque-Magnoac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.310, 
+        "sw_longitude": 0.478, 
+        "fullname": "Larroque, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.293
+      }, 
+      "id": 601562
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.210, 
+              19.591
+            ], 
+            [
+              -97.210, 
+              19.609
+            ], 
+            [
+              -97.190, 
+              19.609
+            ], 
+            [
+              -97.190, 
+              19.591
+            ], 
+            [
+              -97.210, 
+              19.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.609, 
+        "name": "Los Molinos", 
+        "adjacent_woeid": [
+          115383, 
+          116171, 
+          136506, 
+          147559, 
+          148773, 
+          150825
+        ], 
+        "woeid": 132147, 
+        "alias_SPA_V": [
+          "El Molino"
+        ], 
+        "ne_longitude": -97.190, 
+        "longitude": -97.200, 
+        "parent_woeid": 12601850, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.600, 
+        "sw_longitude": -97.210, 
+        "fullname": "Los Molinos, Veracruz-Llave, Perote, Mexico", 
+        "sw_latitude": 19.591
+      }, 
+      "id": 132147
+    }
+  ]
+}

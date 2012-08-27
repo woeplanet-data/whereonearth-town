@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.855, 
+              47.025
+            ], 
+            [
+              6.855, 
+              47.040
+            ], 
+            [
+              6.878, 
+              47.040
+            ], 
+            [
+              6.878, 
+              47.025
+            ], 
+            [
+              6.855, 
+              47.025
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20102980, 
+        "name": "Malvilliers", 
+        "adjacent_woeid": [
+          20102504, 
+          20102646, 
+          20104412
+        ], 
+        "ne_latitude": 47.040, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.878, 
+        "longitude": 6.867, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12683024, 
+        "latitude": 47.033, 
+        "sw_longitude": 6.855, 
+        "fullname": "Malvilliers, Canton of Neuchatel, Val-De-Ruz, Switzerland", 
+        "sw_latitude": 47.025
+      }, 
+      "id": 20102980
+    }
+  ]
+}

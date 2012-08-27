@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.290, 
+              47.100
+            ], 
+            [
+              11.290, 
+              47.118
+            ], 
+            [
+              11.317, 
+              47.118
+            ], 
+            [
+              11.317, 
+              47.100
+            ], 
+            [
+              11.290, 
+              47.100
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995534, 
+        "name": "Scheibe", 
+        "adjacent_woeid": [
+          550913, 
+          551078, 
+          20097549, 
+          28995882
+        ], 
+        "ne_latitude": 47.118, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.317, 
+        "longitude": 11.304, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12675377, 
+        "latitude": 47.109, 
+        "sw_longitude": 11.290, 
+        "fullname": "Scheibe, Tyrol, Innsbruck-Land, Austria", 
+        "sw_latitude": 47.100
+      }, 
+      "id": 28995534
+    }
+  ]
+}

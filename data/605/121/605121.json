@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.261, 
+              49.046
+            ], 
+            [
+              5.261, 
+              49.092
+            ], 
+            [
+              5.321, 
+              49.092
+            ], 
+            [
+              5.321, 
+              49.046
+            ], 
+            [
+              5.261, 
+              49.046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605121, 
+        "name": "Lemmes", 
+        "adjacent_woeid": [
+          605128, 
+          607491, 
+          615259, 
+          621769, 
+          629733
+        ], 
+        "ne_latitude": 49.092, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.321, 
+        "longitude": 5.284, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12665240, 
+        "latitude": 49.067, 
+        "sw_longitude": 5.261, 
+        "fullname": "Lemmes, Lorraine, Meuse, France", 
+        "sw_latitude": 49.046
+      }, 
+      "id": 605121
+    }
+  ]
+}

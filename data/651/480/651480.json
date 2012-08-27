@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.243, 
+              48.851
+            ], 
+            [
+              12.243, 
+              48.881
+            ], 
+            [
+              12.270, 
+              48.881
+            ], 
+            [
+              12.270, 
+              48.851
+            ], 
+            [
+              12.243, 
+              48.851
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651480, 
+        "name": "Gansbach", 
+        "adjacent_woeid": [
+          634029, 
+          651350, 
+          700038, 
+          700991
+        ], 
+        "ne_latitude": 48.881, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.270, 
+        "longitude": 12.256, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12623104, 
+        "latitude": 48.868, 
+        "sw_longitude": 12.243, 
+        "fullname": "Gansbach, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.851
+      }, 
+      "id": 651480
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.420, 
+              44.267
+            ], 
+            [
+              2.420, 
+              44.297
+            ], 
+            [
+              2.451, 
+              44.297
+            ], 
+            [
+              2.451, 
+              44.267
+            ], 
+            [
+              2.420, 
+              44.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578075, 
+        "name": "Baraqueville", 
+        "adjacent_woeid": [
+          581354, 
+          582766, 
+          583189, 
+          593382, 
+          608877, 
+          609670, 
+          609853, 
+          613645, 
+          613915, 
+          614904, 
+          619423, 
+          619448, 
+          632630, 
+          20191719, 
+          20191752, 
+          29331954, 
+          29331957
+        ], 
+        "ne_latitude": 44.297, 
+        "ne_longitude": 2.451, 
+        "longitude": 2.434, 
+        "parent_woeid": 12656209, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Baraque de Fraysse"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.277, 
+        "sw_longitude": 2.420, 
+        "fullname": "Baraqueville, Midi-Pyrenees, Aveyron, France", 
+        "sw_latitude": 44.267
+      }, 
+      "id": 578075
+    }
+  ]
+}

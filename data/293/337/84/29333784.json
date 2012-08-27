@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.314, 
+              44.166
+            ], 
+            [
+              8.314, 
+              44.186
+            ], 
+            [
+              8.340, 
+              44.186
+            ], 
+            [
+              8.340, 
+              44.166
+            ], 
+            [
+              8.314, 
+              44.166
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 29333784, 
+        "name": "Finalborgo", 
+        "adjacent_woeid": [
+          20124116, 
+          20147833, 
+          22526295, 
+          29336345
+        ], 
+        "ne_latitude": 44.186, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.340, 
+        "longitude": 8.327, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:34Z", 
+        "parent_woeid": 12679275, 
+        "latitude": 44.175, 
+        "sw_longitude": 8.314, 
+        "fullname": "Finalborgo, Liguria, Savona, Italy", 
+        "sw_latitude": 44.166
+      }, 
+      "id": 29333784
+    }
+  ]
+}

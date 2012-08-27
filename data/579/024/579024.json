@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.131, 
+              49.381
+            ], 
+            [
+              1.131, 
+              49.409
+            ], 
+            [
+              1.161, 
+              49.409
+            ], 
+            [
+              1.161, 
+              49.381
+            ], 
+            [
+              1.131, 
+              49.381
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579024, 
+        "name": "Belbeuf", 
+        "adjacent_woeid": [
+          583573, 
+          595186, 
+          20188369, 
+          29330637
+        ], 
+        "ne_latitude": 49.409, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.161, 
+        "longitude": 1.146, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "parent_woeid": 20074882, 
+        "latitude": 49.394, 
+        "sw_longitude": 1.131, 
+        "fullname": "Belbeuf, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.381
+      }, 
+      "id": 579024
+    }
+  ]
+}

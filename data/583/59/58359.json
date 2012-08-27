@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.555, 
+              11.079
+            ], 
+            [
+              -85.555, 
+              11.088
+            ], 
+            [
+              -85.545, 
+              11.088
+            ], 
+            [
+              -85.545, 
+              11.079
+            ], 
+            [
+              -85.555, 
+              11.079
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 11.088, 
+        "name": "Garita", 
+        "adjacent_woeid": [
+          58502, 
+          58919, 
+          59148, 
+          59665
+        ], 
+        "woeid": 58359, 
+        "alias_SPA_V": [
+          "La Garita"
+        ], 
+        "ne_longitude": -85.545, 
+        "longitude": -85.550, 
+        "parent_woeid": 26808990, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.083, 
+        "sw_longitude": -85.555, 
+        "fullname": "Garita, Guanacaste, La Cruz, Costa Rica", 
+        "sw_latitude": 11.079
+      }, 
+      "id": 58359
+    }
+  ]
+}

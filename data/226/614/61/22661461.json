@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.041, 
+              42.617
+            ], 
+            [
+              1.041, 
+              42.718
+            ], 
+            [
+              1.124, 
+              42.718
+            ], 
+            [
+              1.124, 
+              42.617
+            ], 
+            [
+              1.041, 
+              42.617
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.718, 
+        "name": "Alt Aneu", 
+        "adjacent_woeid": [
+          762680, 
+          774469, 
+          774802, 
+          774844, 
+          776691, 
+          20220970, 
+          55865898
+        ], 
+        "woeid": 22661461, 
+        "alias_SPA_V": [
+          "Alt \u00c0neu"
+        ], 
+        "ne_longitude": 1.124, 
+        "longitude": 1.110, 
+        "parent_woeid": 12693930, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:24Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.634, 
+        "sw_longitude": 1.041, 
+        "fullname": "Alt Aneu, Catalonia, Lleida, Spain", 
+        "sw_latitude": 42.617
+      }, 
+      "id": 22661461
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.250, 
+              48.276
+            ], 
+            [
+              13.250, 
+              48.295
+            ], 
+            [
+              13.277, 
+              48.295
+            ], 
+            [
+              13.277, 
+              48.276
+            ], 
+            [
+              13.250, 
+              48.276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20095317, 
+        "name": "Graben", 
+        "adjacent_woeid": [
+          545169, 
+          545617, 
+          545952, 
+          20096875, 
+          20097785
+        ], 
+        "ne_latitude": 48.295, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.277, 
+        "longitude": 13.263, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:27Z", 
+        "parent_woeid": 12674543, 
+        "latitude": 48.285, 
+        "sw_longitude": 13.250, 
+        "fullname": "Graben, Upper Austria, Ried im Innkreis, Austria", 
+        "sw_latitude": 48.276
+      }, 
+      "id": 20095317
+    }
+  ]
+}

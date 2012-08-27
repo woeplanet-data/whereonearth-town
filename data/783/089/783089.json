@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.312, 
+              46.659
+            ], 
+            [
+              6.312, 
+              46.677
+            ], 
+            [
+              6.339, 
+              46.677
+            ], 
+            [
+              6.339, 
+              46.659
+            ], 
+            [
+              6.312, 
+              46.659
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 783089, 
+        "name": "Le Pont", 
+        "adjacent_woeid": [
+          782964, 
+          783116, 
+          784535, 
+          784546
+        ], 
+        "ne_latitude": 46.677, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.339, 
+        "longitude": 6.326, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:14Z", 
+        "parent_woeid": 12683797, 
+        "latitude": 46.668, 
+        "sw_longitude": 6.312, 
+        "fullname": "Le Pont, Canton of Vaud, La Vall\u00e9e, Switzerland", 
+        "sw_latitude": 46.659
+      }, 
+      "id": 783089
+    }
+  ]
+}

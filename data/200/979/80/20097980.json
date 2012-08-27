@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.299, 
+              47.586
+            ], 
+            [
+              13.299, 
+              47.601
+            ], 
+            [
+              13.323, 
+              47.601
+            ], 
+            [
+              13.323, 
+              47.586
+            ], 
+            [
+              13.299, 
+              47.586
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20097980, 
+        "name": "Waldhof", 
+        "adjacent_woeid": [
+          547782, 
+          20095048, 
+          20097929, 
+          20097985
+        ], 
+        "ne_latitude": 47.601, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.323, 
+        "longitude": 13.311, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:10Z", 
+        "parent_woeid": 12674685, 
+        "latitude": 47.593, 
+        "sw_longitude": 13.299, 
+        "fullname": "Waldhof, Salzburg, Hallein, Austria", 
+        "sw_latitude": 47.586
+      }, 
+      "id": 20097980
+    }
+  ]
+}

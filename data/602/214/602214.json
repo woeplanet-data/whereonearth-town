@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.887, 
+              44.683
+            ], 
+            [
+              1.887, 
+              44.724
+            ], 
+            [
+              1.920, 
+              44.724
+            ], 
+            [
+              1.920, 
+              44.683
+            ], 
+            [
+              1.887, 
+              44.683
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602214, 
+        "name": "Le Bourg", 
+        "adjacent_woeid": [
+          576127, 
+          595290, 
+          602259, 
+          620391, 
+          622381
+        ], 
+        "ne_latitude": 44.724, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.920, 
+        "longitude": 1.902, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12664711, 
+        "latitude": 44.709, 
+        "sw_longitude": 1.887, 
+        "fullname": "Le Bourg, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.683
+      }, 
+      "id": 602214
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.138, 
+              48.153
+            ], 
+            [
+              13.138, 
+              48.171
+            ], 
+            [
+              13.166, 
+              48.171
+            ], 
+            [
+              13.166, 
+              48.153
+            ], 
+            [
+              13.138, 
+              48.153
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995822, 
+        "name": "Ort", 
+        "adjacent_woeid": [
+          546625, 
+          546822, 
+          547279, 
+          28995821, 
+          28995825
+        ], 
+        "ne_latitude": 48.171, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.166, 
+        "longitude": 13.152, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:40Z", 
+        "parent_woeid": 12674525, 
+        "latitude": 48.162, 
+        "sw_longitude": 13.138, 
+        "fullname": "Ort, Upper Austria, Braunau am Inn, Austria", 
+        "sw_latitude": 48.153
+      }, 
+      "id": 28995822
+    }
+  ]
+}

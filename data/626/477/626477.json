@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.543, 
+              48.910
+            ], 
+            [
+              0.543, 
+              48.952
+            ], 
+            [
+              0.614, 
+              48.952
+            ], 
+            [
+              0.614, 
+              48.910
+            ], 
+            [
+              0.543, 
+              48.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626477, 
+        "name": "St.-Pierre-du-Mesnil", 
+        "adjacent_woeid": [
+          592940, 
+          598729, 
+          622780, 
+          626417, 
+          15003065
+        ], 
+        "ne_latitude": 48.952, 
+        "ne_longitude": 0.614, 
+        "longitude": 0.577, 
+        "parent_woeid": 12653124, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre-du-Mesnil"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.935, 
+        "sw_longitude": 0.543, 
+        "fullname": "St.-Pierre-du-Mesnil, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.910
+      }, 
+      "id": 626477
+    }
+  ]
+}

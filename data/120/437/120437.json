@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.460, 
+              16.941
+            ], 
+            [
+              -99.460, 
+              16.959
+            ], 
+            [
+              -99.440, 
+              16.959
+            ], 
+            [
+              -99.440, 
+              16.941
+            ], 
+            [
+              -99.460, 
+              16.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.959, 
+        "name": "El Guayabo", 
+        "adjacent_woeid": [
+          112125, 
+          117062, 
+          130238, 
+          130624, 
+          148527
+        ], 
+        "woeid": 120437, 
+        "alias_SPA_V": [
+          "El Guabayo"
+        ], 
+        "ne_longitude": -99.440, 
+        "longitude": -99.450, 
+        "parent_woeid": 12600089, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.950, 
+        "sw_longitude": -99.460, 
+        "fullname": "El Guayabo, Guerrero, San Marcos, Mexico", 
+        "sw_latitude": 16.941
+      }, 
+      "id": 120437
+    }
+  ]
+}

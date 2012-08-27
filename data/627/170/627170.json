@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.235, 
+              46.669
+            ], 
+            [
+              5.235, 
+              46.690
+            ], 
+            [
+              5.261, 
+              46.690
+            ], 
+            [
+              5.261, 
+              46.669
+            ], 
+            [
+              5.235, 
+              46.669
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627170, 
+        "name": "St.-Usuge", 
+        "adjacent_woeid": [
+          581594, 
+          595700, 
+          602891, 
+          612215, 
+          612460, 
+          622180, 
+          632325, 
+          20215546
+        ], 
+        "ne_latitude": 46.690, 
+        "ne_longitude": 5.261, 
+        "longitude": 5.251, 
+        "parent_woeid": 12653275, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Usuge"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.679, 
+        "sw_longitude": 5.235, 
+        "fullname": "St.-Usuge, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.669
+      }, 
+      "id": 627170
+    }
+  ]
+}

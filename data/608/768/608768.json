@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.301, 
+              49.411
+            ], 
+            [
+              5.301, 
+              49.465
+            ], 
+            [
+              5.381, 
+              49.465
+            ], 
+            [
+              5.381, 
+              49.411
+            ], 
+            [
+              5.301, 
+              49.411
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608768, 
+        "name": "Louppy-sur-Loison", 
+        "adjacent_woeid": [
+          581585, 
+          595239, 
+          595810, 
+          613616, 
+          613736, 
+          15003135
+        ], 
+        "ne_latitude": 49.465, 
+        "ne_longitude": 5.381, 
+        "longitude": 5.351, 
+        "parent_woeid": 12665860, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Louppy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.445, 
+        "sw_longitude": 5.301, 
+        "fullname": "Louppy-sur-Loison, Lorraine, Meuse, France", 
+        "sw_latitude": 49.411
+      }, 
+      "id": 608768
+    }
+  ]
+}

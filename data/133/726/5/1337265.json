@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.824, 
+              9.366
+            ], 
+            [
+              -8.824, 
+              9.382
+            ], 
+            [
+              -8.807, 
+              9.382
+            ], 
+            [
+              -8.807, 
+              9.366
+            ], 
+            [
+              -8.824, 
+              9.366
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1337265, 
+        "name": "Linko", 
+        "adjacent_woeid": [
+          1334503, 
+          1336073, 
+          1335027, 
+          1334500
+        ], 
+        "ne_latitude": 9.382, 
+        "ne_longitude": -8.807, 
+        "longitude": -8.815, 
+        "parent_woeid": 56061006, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "L\u00e9linko"
+        ], 
+        "iso": "GN", 
+        "date_indexed": "2010-12-02T16:11:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.374, 
+        "sw_longitude": -8.824, 
+        "fullname": "Linko, Kankan, Kerouane, Guinea", 
+        "alias_FRE_S": [
+          "Lelinko"
+        ], 
+        "sw_latitude": 9.366
+      }, 
+      "id": 1337265
+    }
+  ]
+}

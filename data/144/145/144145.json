@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.082, 
+              25.241
+            ], 
+            [
+              -98.082, 
+              25.259
+            ], 
+            [
+              -98.062, 
+              25.259
+            ], 
+            [
+              -98.062, 
+              25.241
+            ], 
+            [
+              -98.082, 
+              25.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.259, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          114649, 
+          120384, 
+          126371, 
+          126753, 
+          131023, 
+          142720, 
+          146982
+        ], 
+        "woeid": 144145, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -98.062, 
+        "longitude": -98.072, 
+        "parent_woeid": 12601666, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.250, 
+        "sw_longitude": -98.082, 
+        "fullname": "San Lorenzo, Tamaulipas, San Fernando, Mexico", 
+        "sw_latitude": 25.241
+      }, 
+      "id": 144145
+    }
+  ]
+}

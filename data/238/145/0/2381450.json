@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.141, 
+              37.547
+            ], 
+            [
+              -98.141, 
+              37.556
+            ], 
+            [
+              -98.130, 
+              37.556
+            ], 
+            [
+              -98.130, 
+              37.547
+            ], 
+            [
+              -98.141, 
+              37.547
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2381450, 
+        "name": "Cleveland", 
+        "adjacent_woeid": [
+          2352556, 
+          2359796, 
+          2373315, 
+          2521270
+        ], 
+        "ne_latitude": 37.556, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -98.130, 
+        "longitude": -98.135, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:23:51Z", 
+        "parent_woeid": 12588418, 
+        "latitude": 37.551, 
+        "sw_longitude": -98.141, 
+        "fullname": "Cleveland, Kansas, Kingman, United States", 
+        "sw_latitude": 37.547
+      }, 
+      "id": 2381450
+    }
+  ]
+}

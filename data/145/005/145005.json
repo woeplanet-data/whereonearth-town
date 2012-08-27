@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.143, 
+              16.641
+            ], 
+            [
+              -93.143, 
+              16.659
+            ], 
+            [
+              -93.124, 
+              16.659
+            ], 
+            [
+              -93.124, 
+              16.641
+            ], 
+            [
+              -93.143, 
+              16.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.659, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          117317, 
+          122907, 
+          141742, 
+          145528, 
+          147865, 
+          149046
+        ], 
+        "woeid": 145005, 
+        "alias_SPA_V": [
+          "S. Pedro Apenal"
+        ], 
+        "ne_longitude": -93.124, 
+        "longitude": -93.133, 
+        "parent_woeid": 12599795, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.650, 
+        "sw_longitude": -93.143, 
+        "fullname": "San Pedro, Chiapas, Suchiapa, Mexico", 
+        "sw_latitude": 16.641
+      }, 
+      "id": 145005
+    }
+  ]
+}

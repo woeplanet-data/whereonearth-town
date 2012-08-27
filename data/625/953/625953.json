@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.345, 
+              48.052
+            ], 
+            [
+              2.345, 
+              48.075
+            ], 
+            [
+              2.397, 
+              48.075
+            ], 
+            [
+              2.397, 
+              48.052
+            ], 
+            [
+              2.345, 
+              48.052
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625953, 
+        "name": "St.-Michel", 
+        "adjacent_woeid": [
+          578398, 
+          580433, 
+          585470, 
+          612347
+        ], 
+        "ne_latitude": 48.075, 
+        "ne_longitude": 2.397, 
+        "longitude": 2.379, 
+        "parent_woeid": 12646182, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Michel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.069, 
+        "sw_longitude": 2.345, 
+        "fullname": "St.-Michel, Centre, Loiret, France", 
+        "sw_latitude": 48.052
+      }, 
+      "id": 625953
+    }
+  ]
+}

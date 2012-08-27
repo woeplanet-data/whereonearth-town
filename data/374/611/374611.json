@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.655, 
+              -3.971
+            ], 
+            [
+              -79.655, 
+              -3.962
+            ], 
+            [
+              -79.645, 
+              -3.962
+            ], 
+            [
+              -79.645, 
+              -3.971
+            ], 
+            [
+              -79.655, 
+              -3.971
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -3.962, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          372724, 
+          373842, 
+          375578, 
+          375782, 
+          375961
+        ], 
+        "woeid": 374611, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -79.645, 
+        "longitude": -79.650, 
+        "parent_woeid": 26810389, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -3.967, 
+        "sw_longitude": -79.655, 
+        "fullname": "San Antonio, Loja, Paltas, Ecuador", 
+        "sw_latitude": -3.971
+      }, 
+      "id": 374611
+    }
+  ]
+}

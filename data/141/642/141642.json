@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.310, 
+              21.608
+            ], 
+            [
+              -101.310, 
+              21.626
+            ], 
+            [
+              -101.290, 
+              21.626
+            ], 
+            [
+              -101.290, 
+              21.608
+            ], 
+            [
+              -101.310, 
+              21.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.626, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          120899, 
+          127966, 
+          129794, 
+          130935, 
+          145027, 
+          145759
+        ], 
+        "woeid": 141642, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -101.290, 
+        "longitude": -101.300, 
+        "parent_woeid": 12600018, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.617, 
+        "sw_longitude": -101.310, 
+        "fullname": "San Antonio, Guanajuato, San Felipe, Mexico", 
+        "sw_latitude": 21.608
+      }, 
+      "id": 141642
+    }
+  ]
+}

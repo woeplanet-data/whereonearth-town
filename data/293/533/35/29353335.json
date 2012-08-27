@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.058, 
+              50.965
+            ], 
+            [
+              10.058, 
+              50.983
+            ], 
+            [
+              10.087, 
+              50.983
+            ], 
+            [
+              10.087, 
+              50.965
+            ], 
+            [
+              10.058, 
+              50.965
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29353335, 
+        "name": "Strassberg", 
+        "adjacent_woeid": [
+          639355, 
+          690815, 
+          701593, 
+          20162480
+        ], 
+        "ne_latitude": 50.983, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.087, 
+        "longitude": 10.072, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:50:24Z", 
+        "parent_woeid": 12624782, 
+        "latitude": 50.974, 
+        "sw_longitude": 10.058, 
+        "fullname": "Strassberg, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.965
+      }, 
+      "id": 29353335
+    }
+  ]
+}

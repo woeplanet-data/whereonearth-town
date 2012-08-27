@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.917, 
+              40.305
+            ], 
+            [
+              -123.917, 
+              40.314
+            ], 
+            [
+              -123.905, 
+              40.314
+            ], 
+            [
+              -123.905, 
+              40.305
+            ], 
+            [
+              -123.917, 
+              40.305
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2372051, 
+        "name": "Burlington", 
+        "adjacent_woeid": [
+          2371636, 
+          2399662, 
+          2407962, 
+          2447539
+        ], 
+        "ne_latitude": 40.314, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.905, 
+        "longitude": -123.911, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:23:14Z", 
+        "parent_woeid": 12587681, 
+        "latitude": 40.310, 
+        "sw_longitude": -123.917, 
+        "fullname": "Burlington, California, Humboldt, United States", 
+        "sw_latitude": 40.305
+      }, 
+      "id": 2372051
+    }
+  ]
+}

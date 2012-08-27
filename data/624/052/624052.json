@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.815, 
+              43.308
+            ], 
+            [
+              0.815, 
+              43.364
+            ], 
+            [
+              0.888, 
+              43.364
+            ], 
+            [
+              0.888, 
+              43.308
+            ], 
+            [
+              0.815, 
+              43.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624052, 
+        "name": "St.-Frajou", 
+        "adjacent_woeid": [
+          576001, 
+          587234, 
+          590471, 
+          620711, 
+          625101, 
+          29331560
+        ], 
+        "ne_latitude": 43.364, 
+        "ne_longitude": 0.888, 
+        "longitude": 0.849, 
+        "parent_woeid": 12670420, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Frajou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.334, 
+        "sw_longitude": 0.815, 
+        "fullname": "St.-Frajou, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.308
+      }, 
+      "id": 624052
+    }
+  ]
+}

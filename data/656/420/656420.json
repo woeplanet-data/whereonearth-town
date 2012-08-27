@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.234, 
+              52.041
+            ], 
+            [
+              12.234, 
+              52.120
+            ], 
+            [
+              12.279, 
+              52.120
+            ], 
+            [
+              12.279, 
+              52.041
+            ], 
+            [
+              12.234, 
+              52.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656420, 
+        "name": "Hagendorf", 
+        "adjacent_woeid": [
+          644986, 
+          677341, 
+          688156
+        ], 
+        "ne_latitude": 52.120, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.279, 
+        "longitude": 12.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12625871, 
+        "latitude": 52.070, 
+        "sw_longitude": 12.234, 
+        "fullname": "Hagendorf, Saxony-Anhalt, Anhalt-Zerbst, Germany", 
+        "sw_latitude": 52.041
+      }, 
+      "id": 656420
+    }
+  ]
+}

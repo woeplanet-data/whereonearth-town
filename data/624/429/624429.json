@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.651, 
+              49.267
+            ], 
+            [
+              3.651, 
+              49.295
+            ], 
+            [
+              3.706, 
+              49.295
+            ], 
+            [
+              3.706, 
+              49.267
+            ], 
+            [
+              3.651, 
+              49.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624429, 
+        "name": "St.-Gilles", 
+        "adjacent_woeid": [
+          587617, 
+          612156, 
+          612164, 
+          20217150
+        ], 
+        "ne_latitude": 49.295, 
+        "ne_longitude": 3.706, 
+        "longitude": 3.677, 
+        "parent_woeid": 12652583, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gilles"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.280, 
+        "sw_longitude": 3.651, 
+        "fullname": "St.-Gilles, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.267
+      }, 
+      "id": 624429
+    }
+  ]
+}

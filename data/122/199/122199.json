@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.681, 
+              24.375
+            ], 
+            [
+              -101.681, 
+              24.393
+            ], 
+            [
+              -101.661, 
+              24.393
+            ], 
+            [
+              -101.661, 
+              24.375
+            ], 
+            [
+              -101.681, 
+              24.375
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.393, 
+        "name": "El Rosario", 
+        "adjacent_woeid": [
+          112123, 
+          119461, 
+          128637, 
+          133220, 
+          139780, 
+          141010, 
+          145469
+        ], 
+        "woeid": 122199, 
+        "alias_SPA_V": [
+          "Rosario"
+        ], 
+        "ne_longitude": -101.661, 
+        "longitude": -101.671, 
+        "parent_woeid": 12602057, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.384, 
+        "sw_longitude": -101.681, 
+        "fullname": "El Rosario, Zacatecas, Mazapil, Mexico", 
+        "sw_latitude": 24.375
+      }, 
+      "id": 122199
+    }
+  ]
+}

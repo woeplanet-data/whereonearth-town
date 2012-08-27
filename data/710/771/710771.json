@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.102, 
+              45.303
+            ], 
+            [
+              10.102, 
+              45.353
+            ], 
+            [
+              10.156, 
+              45.353
+            ], 
+            [
+              10.156, 
+              45.303
+            ], 
+            [
+              10.102, 
+              45.303
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 710771, 
+        "name": "Bassano Bresciano", 
+        "adjacent_woeid": [
+          722552, 
+          20111491, 
+          20112883, 
+          20115184
+        ], 
+        "ne_latitude": 45.353, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.156, 
+        "longitude": 10.127, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:26:05Z", 
+        "parent_woeid": 12676622, 
+        "latitude": 45.330, 
+        "sw_longitude": 10.102, 
+        "fullname": "Bassano Bresciano, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.303
+      }, 
+      "id": 710771
+    }
+  ]
+}

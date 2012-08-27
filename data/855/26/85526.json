@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.237, 
+              15.048
+            ], 
+            [
+              -91.237, 
+              15.062
+            ], 
+            [
+              -91.222, 
+              15.062
+            ], 
+            [
+              -91.222, 
+              15.048
+            ], 
+            [
+              -91.237, 
+              15.048
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.062, 
+        "name": "San Antonio Ilotenango", 
+        "adjacent_woeid": [
+          84952, 
+          85859, 
+          85977, 
+          86014, 
+          86026
+        ], 
+        "woeid": 85526, 
+        "alias_SPA_V": [
+          "S Antonio Ilotenango"
+        ], 
+        "ne_longitude": -91.222, 
+        "longitude": -91.230, 
+        "parent_woeid": 26807107, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.055, 
+        "sw_longitude": -91.237, 
+        "fullname": "San Antonio Ilotenango, Quiche, San Antonio Ilotenango, Guatemala", 
+        "sw_latitude": 15.048
+      }, 
+      "id": 85526
+    }
+  ]
+}

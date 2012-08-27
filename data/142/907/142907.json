@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.327, 
+              24.941
+            ], 
+            [
+              -99.327, 
+              24.959
+            ], 
+            [
+              -99.307, 
+              24.959
+            ], 
+            [
+              -99.307, 
+              24.941
+            ], 
+            [
+              -99.327, 
+              24.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.959, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          115341, 
+          121723, 
+          123943, 
+          130597, 
+          137973, 
+          137974, 
+          143034
+        ], 
+        "woeid": 142907, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -99.307, 
+        "longitude": -99.317, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.950, 
+        "sw_longitude": -99.327, 
+        "fullname": "San Isidro, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.941
+      }, 
+      "id": 142907
+    }
+  ]
+}

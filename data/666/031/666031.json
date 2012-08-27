@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.232, 
+              47.879
+            ], 
+            [
+              8.232, 
+              47.914
+            ], 
+            [
+              8.276, 
+              47.914
+            ], 
+            [
+              8.276, 
+              47.879
+            ], 
+            [
+              8.232, 
+              47.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666031, 
+        "name": "Kirchsteig", 
+        "adjacent_woeid": [
+          664839, 
+          679050, 
+          689801
+        ], 
+        "ne_latitude": 47.914, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.276, 
+        "longitude": 8.253, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12623354, 
+        "latitude": 47.906, 
+        "sw_longitude": 8.232, 
+        "fullname": "Kirchsteig, Baden-Wurttemberg, Breisgau-Hochschwarzwald, Germany", 
+        "sw_latitude": 47.879
+      }, 
+      "id": 666031
+    }
+  ]
+}

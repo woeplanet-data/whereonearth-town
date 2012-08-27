@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.906, 
+              50.983
+            ], 
+            [
+              5.906, 
+              51.014
+            ], 
+            [
+              5.935, 
+              51.014
+            ], 
+            [
+              5.935, 
+              50.983
+            ], 
+            [
+              5.906, 
+              50.983
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20169305, 
+        "name": "Wehr", 
+        "adjacent_woeid": [
+          659935, 
+          20169240, 
+          20169302
+        ], 
+        "ne_latitude": 51.014, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.935, 
+        "longitude": 5.922, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:06Z", 
+        "parent_woeid": 12624630, 
+        "latitude": 50.995, 
+        "sw_longitude": 5.906, 
+        "fullname": "Wehr, North Rhine-Westphalia, Landkreis Heinsberg, Germany", 
+        "sw_latitude": 50.983
+      }, 
+      "id": 20169305
+    }
+  ]
+}

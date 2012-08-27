@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.989, 
+              45.416
+            ], 
+            [
+              5.989, 
+              45.458
+            ], 
+            [
+              6.015, 
+              45.458
+            ], 
+            [
+              6.015, 
+              45.416
+            ], 
+            [
+              5.989, 
+              45.416
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20209060, 
+        "name": "Lagache", 
+        "adjacent_woeid": [
+          578236, 
+          584533, 
+          597200, 
+          598015
+        ], 
+        "ne_latitude": 45.458, 
+        "ne_longitude": 6.015, 
+        "longitude": 6.001, 
+        "parent_woeid": 12656284, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Gache"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.435, 
+        "sw_longitude": 5.989, 
+        "fullname": "Lagache, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.416
+      }, 
+      "id": 20209060
+    }
+  ]
+}

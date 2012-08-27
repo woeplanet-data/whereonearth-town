@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.222, 
+              44.206
+            ], 
+            [
+              -123.222, 
+              44.232
+            ], 
+            [
+              -123.191, 
+              44.232
+            ], 
+            [
+              -123.191, 
+              44.206
+            ], 
+            [
+              -123.222, 
+              44.206
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2430277, 
+        "name": "Junction City", 
+        "adjacent_woeid": [
+          2354036, 
+          2360695, 
+          2367409, 
+          2379235, 
+          2398991, 
+          2400539, 
+          2409649, 
+          2418034, 
+          2436071, 
+          2451518, 
+          2453006, 
+          2482394, 
+          2511591
+        ], 
+        "ne_latitude": 44.232, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Junction Cty"
+        ], 
+        "ne_longitude": -123.191, 
+        "longitude": -123.202, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:26Z", 
+        "parent_woeid": 12589711, 
+        "latitude": 44.219, 
+        "sw_longitude": -123.222, 
+        "fullname": "Junction City, Oregon, Lane, United States", 
+        "sw_latitude": 44.206
+      }, 
+      "id": 2430277
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.626, 
+              21.324
+            ], 
+            [
+              -104.626, 
+              21.342
+            ], 
+            [
+              -104.607, 
+              21.342
+            ], 
+            [
+              -104.607, 
+              21.324
+            ], 
+            [
+              -104.626, 
+              21.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.342, 
+        "name": "Santa Barbara", 
+        "adjacent_woeid": [
+          115362, 
+          120659, 
+          127518, 
+          151606
+        ], 
+        "woeid": 145760, 
+        "alias_SPA_V": [
+          "Sta Barbara"
+        ], 
+        "ne_longitude": -104.607, 
+        "longitude": -104.617, 
+        "parent_woeid": 12600600, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.333, 
+        "sw_longitude": -104.626, 
+        "fullname": "Santa Barbara, Nayarit, Santa Maria del Oro, Mexico", 
+        "sw_latitude": 21.324
+      }, 
+      "id": 145760
+    }
+  ]
+}

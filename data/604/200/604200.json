@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.046, 
+              48.045
+            ], 
+            [
+              1.046, 
+              48.088
+            ], 
+            [
+              1.091, 
+              48.088
+            ], 
+            [
+              1.091, 
+              48.045
+            ], 
+            [
+              1.046, 
+              48.045
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604200, 
+        "name": "Le Poislay", 
+        "adjacent_woeid": [
+          580439, 
+          598221, 
+          603017, 
+          626323, 
+          20184902
+        ], 
+        "ne_latitude": 48.088, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.091, 
+        "longitude": 1.065, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12646589, 
+        "latitude": 48.067, 
+        "sw_longitude": 1.046, 
+        "fullname": "Le Poislay, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 48.045
+      }, 
+      "id": 604200
+    }
+  ]
+}

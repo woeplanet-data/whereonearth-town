@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.362, 
+              45.855
+            ], 
+            [
+              -67.362, 
+              46.074
+            ], 
+            [
+              -67.143, 
+              46.074
+            ], 
+            [
+              -67.143, 
+              45.855
+            ], 
+            [
+              -67.362, 
+              45.855
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23394101, 
+        "name": "Southampton", 
+        "adjacent_woeid": [
+          3703, 
+          23393554, 
+          23393659, 
+          23394029, 
+          29374748, 
+          29374797
+        ], 
+        "ne_latitude": 46.074, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -67.143, 
+        "longitude": -67.253, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375042, 
+        "latitude": 45.964, 
+        "sw_longitude": -67.362, 
+        "fullname": "Southampton, New Brunswick, York, Canada", 
+        "sw_latitude": 45.855
+      }, 
+      "id": 23394101
+    }
+  ]
+}

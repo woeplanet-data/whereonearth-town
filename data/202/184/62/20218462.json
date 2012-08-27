@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.525, 
+              49.264
+            ], 
+            [
+              2.525, 
+              49.303
+            ], 
+            [
+              2.554, 
+              49.303
+            ], 
+            [
+              2.554, 
+              49.264
+            ], 
+            [
+              2.525, 
+              49.264
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218462, 
+        "name": "La Rue des Bois", 
+        "adjacent_woeid": [
+          578828, 
+          581758, 
+          29333301
+        ], 
+        "ne_latitude": 49.303, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.554, 
+        "longitude": 2.542, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "parent_woeid": 22757584, 
+        "latitude": 49.293, 
+        "sw_longitude": 2.525, 
+        "fullname": "La Rue des Bois, Picardie, Oise, France", 
+        "sw_latitude": 49.264
+      }, 
+      "id": 20218462
+    }
+  ]
+}

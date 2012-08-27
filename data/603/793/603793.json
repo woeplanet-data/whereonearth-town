@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.151, 
+              44.982
+            ], 
+            [
+              -1.151, 
+              45.033
+            ], 
+            [
+              -1.111, 
+              45.033
+            ], 
+            [
+              -1.111, 
+              44.982
+            ], 
+            [
+              -1.151, 
+              44.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603793, 
+        "name": "Le Moutchic", 
+        "adjacent_woeid": [
+          603720, 
+          20196080, 
+          20196092
+        ], 
+        "ne_latitude": 45.033, 
+        "ne_longitude": -1.111, 
+        "longitude": -1.132, 
+        "parent_woeid": 12646808, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Montchic"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.003, 
+        "sw_longitude": -1.151, 
+        "fullname": "Le Moutchic, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.982
+      }, 
+      "id": 603793
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.061, 
+              43.300
+            ], 
+            [
+              -1.061, 
+              43.339
+            ], 
+            [
+              -1.014, 
+              43.339
+            ], 
+            [
+              -1.014, 
+              43.300
+            ], 
+            [
+              -1.061, 
+              43.300
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626191, 
+        "name": "St.-Palais", 
+        "adjacent_woeid": [
+          575489, 
+          575942, 
+          578150, 
+          578986, 
+          579788, 
+          594359, 
+          594601, 
+          601553, 
+          610552, 
+          613928, 
+          615209, 
+          620727, 
+          621318, 
+          624856, 
+          629580
+        ], 
+        "ne_latitude": 43.339, 
+        "ne_longitude": -1.014, 
+        "longitude": -1.031, 
+        "parent_woeid": 24543515, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Palais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.327, 
+        "sw_longitude": -1.061, 
+        "fullname": "St.-Palais, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.300
+      }, 
+      "id": 626191
+    }
+  ]
+}

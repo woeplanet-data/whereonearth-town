@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.763, 
+              51.173
+            ], 
+            [
+              11.763, 
+              51.192
+            ], 
+            [
+              11.788, 
+              51.192
+            ], 
+            [
+              11.788, 
+              51.173
+            ], 
+            [
+              11.763, 
+              51.173
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666962, 
+        "name": "Kleinjena", 
+        "adjacent_woeid": [
+          655061, 
+          655280, 
+          680208, 
+          689699
+        ], 
+        "ne_latitude": 51.192, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.788, 
+        "longitude": 11.778, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12626176, 
+        "latitude": 51.181, 
+        "sw_longitude": 11.763, 
+        "fullname": "Kleinjena, Saxony-Anhalt, Burgenlandkreis, Germany", 
+        "sw_latitude": 51.173
+      }, 
+      "id": 666962
+    }
+  ]
+}

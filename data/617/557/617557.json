@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.379, 
+              49.159
+            ], 
+            [
+              1.379, 
+              49.198
+            ], 
+            [
+              1.426, 
+              49.198
+            ], 
+            [
+              1.426, 
+              49.159
+            ], 
+            [
+              1.379, 
+              49.159
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617557, 
+        "name": "Port-Mort", 
+        "adjacent_woeid": [
+          580910, 
+          587426, 
+          594649, 
+          614565, 
+          618028, 
+          626495, 
+          20187805
+        ], 
+        "ne_latitude": 49.198, 
+        "ne_longitude": 1.426, 
+        "longitude": 1.404, 
+        "parent_woeid": 12650870, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt-Mort"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.171, 
+        "sw_longitude": 1.379, 
+        "fullname": "Port-Mort, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.159
+      }, 
+      "id": 617557
+    }
+  ]
+}

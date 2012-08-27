@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.457, 
+              47.360
+            ], 
+            [
+              4.457, 
+              47.381
+            ], 
+            [
+              4.490, 
+              47.381
+            ], 
+            [
+              4.490, 
+              47.360
+            ], 
+            [
+              4.457, 
+              47.360
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627114, 
+        "name": "St.-Thibault", 
+        "adjacent_woeid": [
+          579728, 
+          586127, 
+          609877, 
+          614512, 
+          630507, 
+          29332433, 
+          29332484
+        ], 
+        "ne_latitude": 47.381, 
+        "ne_longitude": 4.490, 
+        "longitude": 4.471, 
+        "parent_woeid": 12642538, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Thibault"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.372, 
+        "sw_longitude": 4.457, 
+        "fullname": "St.-Thibault, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.360
+      }, 
+      "id": 627114
+    }
+  ]
+}

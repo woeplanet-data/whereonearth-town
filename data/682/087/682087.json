@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.264, 
+              48.220
+            ], 
+            [
+              10.264, 
+              48.249
+            ], 
+            [
+              10.300, 
+              48.249
+            ], 
+            [
+              10.300, 
+              48.220
+            ], 
+            [
+              10.264, 
+              48.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682087, 
+        "name": "Oberried", 
+        "adjacent_woeid": [
+          650027, 
+          663549, 
+          694356, 
+          708448
+        ], 
+        "ne_latitude": 48.249, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.300, 
+        "longitude": 10.287, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12634823, 
+        "latitude": 48.229, 
+        "sw_longitude": 10.264, 
+        "fullname": "Oberried, Bavaria, Landkreis G\u00fcnzburg, Germany", 
+        "sw_latitude": 48.220
+      }, 
+      "id": 682087
+    }
+  ]
+}

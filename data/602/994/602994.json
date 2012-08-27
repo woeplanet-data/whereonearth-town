@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.592, 
+              49.580
+            ], 
+            [
+              2.592, 
+              49.618
+            ], 
+            [
+              2.643, 
+              49.618
+            ], 
+            [
+              2.643, 
+              49.580
+            ], 
+            [
+              2.592, 
+              49.580
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602994, 
+        "name": "Le Frestoy-Vaux", 
+        "adjacent_woeid": [
+          576917, 
+          587408, 
+          604176, 
+          616511, 
+          619811, 
+          620382, 
+          629373
+        ], 
+        "ne_latitude": 49.618, 
+        "ne_longitude": 2.643, 
+        "longitude": 2.610, 
+        "parent_woeid": 22756614, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Frestoy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.601, 
+        "sw_longitude": 2.592, 
+        "fullname": "Le Frestoy-Vaux, Picardie, Oise, France", 
+        "sw_latitude": 49.580
+      }, 
+      "id": 602994
+    }
+  ]
+}

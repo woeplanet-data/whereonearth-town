@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.823, 
+              51.540
+            ], 
+            [
+              10.823, 
+              51.583
+            ], 
+            [
+              10.861, 
+              51.583
+            ], 
+            [
+              10.861, 
+              51.540
+            ], 
+            [
+              10.823, 
+              51.540
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679025, 
+        "name": "Neustadt", 
+        "adjacent_woeid": [
+          642122, 
+          659453, 
+          683710, 
+          684634, 
+          690275
+        ], 
+        "ne_latitude": 51.583, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.861, 
+        "longitude": 10.835, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12624748, 
+        "latitude": 51.559, 
+        "sw_longitude": 10.823, 
+        "fullname": "Neustadt, Thuringia, Landkreis Nordhausen, Germany", 
+        "alias_GER_V": [
+          "Neustadt/ Harz"
+        ], 
+        "sw_latitude": 51.540
+      }, 
+      "id": 679025
+    }
+  ]
+}

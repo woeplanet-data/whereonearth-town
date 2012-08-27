@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.015, 
+              48.242
+            ], 
+            [
+              4.015, 
+              48.271
+            ], 
+            [
+              4.052, 
+              48.271
+            ], 
+            [
+              4.052, 
+              48.242
+            ], 
+            [
+              4.015, 
+              48.242
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624252, 
+        "name": "St.-Germain", 
+        "adjacent_woeid": [
+          585708, 
+          600920, 
+          605183, 
+          625237, 
+          626568, 
+          29333598
+        ], 
+        "ne_latitude": 48.271, 
+        "ne_longitude": 4.052, 
+        "longitude": 4.030, 
+        "parent_woeid": 12648260, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Germain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.257, 
+        "sw_longitude": 4.015, 
+        "fullname": "St.-Germain, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.242
+      }, 
+      "id": 624252
+    }
+  ]
+}

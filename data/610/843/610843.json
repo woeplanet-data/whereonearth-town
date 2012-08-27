@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.149, 
+              45.529
+            ], 
+            [
+              3.149, 
+              45.558
+            ], 
+            [
+              3.181, 
+              45.558
+            ], 
+            [
+              3.181, 
+              45.529
+            ], 
+            [
+              3.149, 
+              45.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610843, 
+        "name": "Meilhaud", 
+        "adjacent_woeid": [
+          585826, 
+          615660, 
+          616132, 
+          622317, 
+          623516, 
+          629003
+        ], 
+        "ne_latitude": 45.558, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.181, 
+        "longitude": 3.161, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12648981, 
+        "latitude": 45.545, 
+        "sw_longitude": 3.149, 
+        "fullname": "Meilhaud, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.529
+      }, 
+      "id": 610843
+    }
+  ]
+}

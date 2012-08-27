@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.724, 
+              49.527
+            ], 
+            [
+              4.724, 
+              49.577
+            ], 
+            [
+              4.770, 
+              49.577
+            ], 
+            [
+              4.770, 
+              49.527
+            ], 
+            [
+              4.724, 
+              49.527
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608810, 
+        "name": "Louvergny", 
+        "adjacent_woeid": [
+          583833, 
+          601048, 
+          610207, 
+          612679, 
+          614966, 
+          621339, 
+          628277
+        ], 
+        "ne_latitude": 49.577, 
+        "ne_longitude": 4.770, 
+        "longitude": 4.741, 
+        "parent_woeid": 12648449, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lauvergny"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.551, 
+        "sw_longitude": 4.724, 
+        "fullname": "Louvergny, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.527
+      }, 
+      "id": 608810
+    }
+  ]
+}

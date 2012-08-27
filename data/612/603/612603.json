@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.432, 
+              44.342
+            ], 
+            [
+              5.432, 
+              44.379
+            ], 
+            [
+              5.464, 
+              44.379
+            ], 
+            [
+              5.464, 
+              44.342
+            ], 
+            [
+              5.432, 
+              44.342
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612603, 
+        "name": "Montferrand-la-Fare", 
+        "adjacent_woeid": [
+          596801, 
+          605129, 
+          620234, 
+          622935, 
+          623044
+        ], 
+        "ne_latitude": 44.379, 
+        "ne_longitude": 5.464, 
+        "longitude": 5.450, 
+        "parent_woeid": 12667071, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Montterand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.360, 
+        "sw_longitude": 5.432, 
+        "fullname": "Montferrand-la-Fare, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.342
+      }, 
+      "id": 612603
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.486, 
+              49.385
+            ], 
+            [
+              10.486, 
+              49.405
+            ], 
+            [
+              10.507, 
+              49.405
+            ], 
+            [
+              10.507, 
+              49.385
+            ], 
+            [
+              10.486, 
+              49.385
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689584, 
+        "name": "Rosenbach", 
+        "adjacent_woeid": [
+          640383, 
+          645257, 
+          653740, 
+          661064, 
+          665390, 
+          675453, 
+          681398, 
+          707169
+        ], 
+        "ne_latitude": 49.405, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.507, 
+        "longitude": 10.496, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12634401, 
+        "latitude": 49.392, 
+        "sw_longitude": 10.486, 
+        "fullname": "Rosenbach, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.385
+      }, 
+      "id": 689584
+    }
+  ]
+}

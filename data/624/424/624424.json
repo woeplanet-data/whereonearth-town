@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.894, 
+              45.067
+            ], 
+            [
+              0.894, 
+              45.100
+            ], 
+            [
+              0.937, 
+              45.100
+            ], 
+            [
+              0.937, 
+              45.067
+            ], 
+            [
+              0.894, 
+              45.067
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624424, 
+        "name": "St.-Geyrac", 
+        "adjacent_woeid": [
+          598061, 
+          611510, 
+          623410, 
+          623617, 
+          623992, 
+          20195729
+        ], 
+        "ne_latitude": 45.100, 
+        "ne_longitude": 0.937, 
+        "longitude": 0.915, 
+        "parent_woeid": 12648119, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Geyrac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.089, 
+        "sw_longitude": 0.894, 
+        "fullname": "St.-Geyrac, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.067
+      }, 
+      "id": 624424
+    }
+  ]
+}

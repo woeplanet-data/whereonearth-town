@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.999, 
+              41.426
+            ], 
+            [
+              1.999, 
+              41.461
+            ], 
+            [
+              2.030, 
+              41.461
+            ], 
+            [
+              2.030, 
+              41.426
+            ], 
+            [
+              1.999, 
+              41.426
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.461, 
+        "name": "Papiol", 
+        "adjacent_woeid": [
+          756783, 
+          763990, 
+          767386, 
+          769289, 
+          772777, 
+          776759, 
+          29370149
+        ], 
+        "woeid": 769391, 
+        "alias_SPA_V": [
+          "El Papiol"
+        ], 
+        "ne_longitude": 2.030, 
+        "longitude": 2.012, 
+        "parent_woeid": 12693538, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.439, 
+        "sw_longitude": 1.999, 
+        "fullname": "Papiol, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.426
+      }, 
+      "id": 769391
+    }
+  ]
+}

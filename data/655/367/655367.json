@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.983, 
+              52.975
+            ], 
+            [
+              11.983, 
+              53.013
+            ], 
+            [
+              12.026, 
+              53.013
+            ], 
+            [
+              12.026, 
+              52.975
+            ], 
+            [
+              11.983, 
+              52.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 655367, 
+        "name": "Grube", 
+        "adjacent_woeid": [
+          654757, 
+          656141, 
+          667333, 
+          685286, 
+          702344, 
+          20161410
+        ], 
+        "ne_latitude": 53.013, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.026, 
+        "longitude": 12.001, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 24547296, 
+        "latitude": 52.997, 
+        "sw_longitude": 11.983, 
+        "fullname": "Grube, Brandenburg, Prignitz, Germany", 
+        "sw_latitude": 52.975
+      }, 
+      "id": 655367
+    }
+  ]
+}

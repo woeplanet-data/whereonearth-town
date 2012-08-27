@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.577, 
+              25.341
+            ], 
+            [
+              -99.577, 
+              25.359
+            ], 
+            [
+              -99.557, 
+              25.359
+            ], 
+            [
+              -99.557, 
+              25.341
+            ], 
+            [
+              -99.577, 
+              25.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.359, 
+        "name": "La Corona", 
+        "adjacent_woeid": [
+          120283, 
+          121936, 
+          129480, 
+          130002, 
+          146120
+        ], 
+        "woeid": 127042, 
+        "alias_SPA_V": [
+          "El Camarillo"
+        ], 
+        "ne_longitude": -99.557, 
+        "longitude": -99.567, 
+        "parent_woeid": 12600625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.350, 
+        "sw_longitude": -99.577, 
+        "fullname": "La Corona, Nuevo Leon, General Teran, Mexico", 
+        "sw_latitude": 25.341
+      }, 
+      "id": 127042
+    }
+  ]
+}

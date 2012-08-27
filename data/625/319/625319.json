@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.366, 
+              46.336
+            ], 
+            [
+              3.366, 
+              46.370
+            ], 
+            [
+              3.398, 
+              46.370
+            ], 
+            [
+              3.398, 
+              46.336
+            ], 
+            [
+              3.366, 
+              46.336
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625319, 
+        "name": "St.-Loup", 
+        "adjacent_woeid": [
+          585433, 
+          586868, 
+          598156, 
+          612948, 
+          624242
+        ], 
+        "ne_latitude": 46.370, 
+        "ne_longitude": 3.398, 
+        "longitude": 3.379, 
+        "parent_woeid": 20075082, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Loup"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.351, 
+        "sw_longitude": 3.366, 
+        "fullname": "St.-Loup, Auvergne, Allier, France", 
+        "sw_latitude": 46.336
+      }, 
+      "id": 625319
+    }
+  ]
+}

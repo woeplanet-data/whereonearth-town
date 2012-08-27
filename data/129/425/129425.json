@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.410, 
+              24.908
+            ], 
+            [
+              -100.410, 
+              24.926
+            ], 
+            [
+              -100.390, 
+              24.926
+            ], 
+            [
+              -100.390, 
+              24.908
+            ], 
+            [
+              -100.410, 
+              24.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.926, 
+        "name": "La Trinidad", 
+        "adjacent_woeid": [
+          121638, 
+          122226, 
+          128687, 
+          142650, 
+          146509
+        ], 
+        "woeid": 129425, 
+        "alias_SPA_V": [
+          "Trinidad"
+        ], 
+        "ne_longitude": -100.390, 
+        "longitude": -100.400, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.917, 
+        "sw_longitude": -100.410, 
+        "fullname": "La Trinidad, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.908
+      }, 
+      "id": 129425
+    }
+  ]
+}

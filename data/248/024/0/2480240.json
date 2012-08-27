@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.255, 
+              47.401
+            ], 
+            [
+              -122.255, 
+              47.543
+            ], 
+            [
+              -122.078, 
+              47.543
+            ], 
+            [
+              -122.078, 
+              47.401
+            ], 
+            [
+              -122.255, 
+              47.401
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2480240, 
+        "name": "Renton", 
+        "adjacent_woeid": [
+          2362031, 
+          2376764, 
+          2382202, 
+          2395707, 
+          2398711, 
+          2422627, 
+          2427913, 
+          2431667, 
+          2445301, 
+          2445391, 
+          2449514, 
+          2459386, 
+          2490383, 
+          23418255, 
+          26344188, 
+          28749738
+        ], 
+        "ne_latitude": 47.543, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "RNT"
+        ], 
+        "ne_longitude": -122.078, 
+        "longitude": -122.205, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:14Z", 
+        "parent_woeid": 12590456, 
+        "latitude": 47.476, 
+        "sw_longitude": -122.255, 
+        "fullname": "Renton, Washington, King, United States", 
+        "sw_latitude": 47.401
+      }, 
+      "id": 2480240
+    }
+  ]
+}

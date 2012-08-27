@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.522, 
+              46.941
+            ], 
+            [
+              2.522, 
+              46.950
+            ], 
+            [
+              2.535, 
+              46.950
+            ], 
+            [
+              2.535, 
+              46.941
+            ], 
+            [
+              2.522, 
+              46.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 22527899, 
+        "name": "St.-Denis", 
+        "adjacent_woeid": [
+          576223, 
+          623711, 
+          625030, 
+          632627
+        ], 
+        "ne_latitude": 46.950, 
+        "ne_longitude": 2.535, 
+        "longitude": 2.528, 
+        "parent_woeid": 12638737, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Denis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.946, 
+        "sw_longitude": 2.522, 
+        "fullname": "St.-Denis, Centre, Cher, France", 
+        "sw_latitude": 46.941
+      }, 
+      "id": 22527899
+    }
+  ]
+}

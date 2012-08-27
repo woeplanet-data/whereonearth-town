@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              123.564, 
+              -17.493
+            ], 
+            [
+              123.564, 
+              -17.274
+            ], 
+            [
+              123.769, 
+              -17.274
+            ], 
+            [
+              123.769, 
+              -17.493
+            ], 
+            [
+              123.564, 
+              -17.493
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1101656, 
+        "name": "Derby", 
+        "adjacent_woeid": [
+          1100696, 
+          1103798, 
+          1106924, 
+          7226182, 
+          28586055, 
+          28586328, 
+          28588018, 
+          28596056
+        ], 
+        "ne_latitude": -17.274, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 123.769, 
+        "longitude": 123.665, 
+        "placetype": "Town", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:43:42Z", 
+        "parent_woeid": 55864372, 
+        "latitude": -17.345, 
+        "sw_longitude": 123.564, 
+        "fullname": "Derby, Western Australia, Derby-west Kimberley, Australia", 
+        "sw_latitude": -17.493
+      }, 
+      "id": 1101656
+    }
+  ]
+}

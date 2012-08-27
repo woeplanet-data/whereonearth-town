@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.277, 
+              25.391
+            ], 
+            [
+              -100.277, 
+              25.409
+            ], 
+            [
+              -100.257, 
+              25.409
+            ], 
+            [
+              -100.257, 
+              25.391
+            ], 
+            [
+              -100.277, 
+              25.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.409, 
+        "name": "La Escondida", 
+        "adjacent_woeid": [
+          119659, 
+          121810, 
+          129807, 
+          134879, 
+          139143, 
+          143518, 
+          144939
+        ], 
+        "woeid": 127253, 
+        "alias_SPA_V": [
+          "Rancho la Escondida"
+        ], 
+        "ne_longitude": -100.257, 
+        "longitude": -100.267, 
+        "parent_woeid": 12600654, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.400, 
+        "sw_longitude": -100.277, 
+        "fullname": "La Escondida, Nuevo Leon, Santiago, Mexico", 
+        "sw_latitude": 25.391
+      }, 
+      "id": 127253
+    }
+  ]
+}

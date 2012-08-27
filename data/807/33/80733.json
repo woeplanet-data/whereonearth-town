@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.350, 
+              16.325
+            ], 
+            [
+              -61.350, 
+              16.343
+            ], 
+            [
+              -61.331, 
+              16.343
+            ], 
+            [
+              -61.331, 
+              16.325
+            ], 
+            [
+              -61.350, 
+              16.325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 80733, 
+        "name": "Le Moule", 
+        "adjacent_woeid": [
+          80671, 
+          80712, 
+          80727, 
+          80787, 
+          80884, 
+          80895
+        ], 
+        "ne_latitude": 16.343, 
+        "ne_longitude": -61.331, 
+        "longitude": -61.340, 
+        "parent_woeid": 24551294, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Moule"
+        ], 
+        "iso": "GP", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.334, 
+        "sw_longitude": -61.350, 
+        "fullname": "Le Moule, Pointe-\u00c0-Pitre, Le Moule, Guadeloupe", 
+        "sw_latitude": 16.325
+      }, 
+      "id": 80733
+    }
+  ]
+}

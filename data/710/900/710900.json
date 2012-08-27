@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.015, 
+              45.490
+            ], 
+            [
+              10.015, 
+              45.519
+            ], 
+            [
+              10.049, 
+              45.519
+            ], 
+            [
+              10.049, 
+              45.490
+            ], 
+            [
+              10.015, 
+              45.490
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 710900, 
+        "name": "Berlingo", 
+        "adjacent_woeid": [
+          20105617, 
+          20106570, 
+          20129849, 
+          29334238, 
+          29334268
+        ], 
+        "ne_latitude": 45.519, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.049, 
+        "longitude": 10.042, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:26:05Z", 
+        "parent_woeid": 12676723, 
+        "latitude": 45.502, 
+        "sw_longitude": 10.015, 
+        "fullname": "Berlingo, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.490
+      }, 
+      "id": 710900
+    }
+  ]
+}

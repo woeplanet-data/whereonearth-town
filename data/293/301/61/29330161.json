@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.034, 
+              45.056
+            ], 
+            [
+              6.034, 
+              45.074
+            ], 
+            [
+              6.060, 
+              45.074
+            ], 
+            [
+              6.060, 
+              45.056
+            ], 
+            [
+              6.034, 
+              45.056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330161, 
+        "name": "La Ville", 
+        "adjacent_woeid": [
+          598389, 
+          29330157, 
+          29330159, 
+          29330160
+        ], 
+        "ne_latitude": 45.074, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.060, 
+        "longitude": 6.047, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 12659142, 
+        "latitude": 45.065, 
+        "sw_longitude": 6.034, 
+        "fullname": "La Ville, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.056
+      }, 
+      "id": 29330161
+    }
+  ]
+}

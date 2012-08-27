@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.182, 
+              48.827
+            ], 
+            [
+              2.182, 
+              48.862
+            ], 
+            [
+              2.227, 
+              48.862
+            ], 
+            [
+              2.227, 
+              48.827
+            ], 
+            [
+              2.182, 
+              48.827
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863577, 
+        "name": "St.-Cloud", 
+        "adjacent_woeid": [
+          615702, 
+          55863433, 
+          55863479, 
+          55863527, 
+          55863565, 
+          55863575, 
+          55863593, 
+          55863606
+        ], 
+        "ne_latitude": 48.862, 
+        "ne_longitude": 2.227, 
+        "longitude": 2.220, 
+        "parent_woeid": 12652111, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Cloud"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.844, 
+        "sw_longitude": 2.182, 
+        "fullname": "St.-Cloud, Ile-de-France, Hauts-de-Seine, France", 
+        "sw_latitude": 48.827
+      }, 
+      "id": 55863577
+    }
+  ]
+}

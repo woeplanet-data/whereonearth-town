@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.678, 
+              -30.710
+            ], 
+            [
+              -64.678, 
+              -30.692
+            ], 
+            [
+              -64.657, 
+              -30.692
+            ], 
+            [
+              -64.657, 
+              -30.710
+            ], 
+            [
+              -64.678, 
+              -30.710
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -30.692, 
+        "name": "El Salto", 
+        "adjacent_woeid": [
+          331412, 
+          331996, 
+          465536, 
+          465595, 
+          26795763
+        ], 
+        "woeid": 468873, 
+        "alias_SPA_V": [
+          "Salto"
+        ], 
+        "ne_longitude": -64.657, 
+        "longitude": -64.667, 
+        "parent_woeid": 20070657, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -30.701, 
+        "sw_longitude": -64.678, 
+        "fullname": "El Salto, Cordoba, Cruz del Eje, Argentina", 
+        "sw_latitude": -30.710
+      }, 
+      "id": 468873
+    }
+  ]
+}

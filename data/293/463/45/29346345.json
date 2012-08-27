@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              48.083
+            ], 
+            [
+              12.123, 
+              48.101
+            ], 
+            [
+              12.150, 
+              48.101
+            ], 
+            [
+              12.150, 
+              48.083
+            ], 
+            [
+              12.123, 
+              48.083
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346345, 
+        "name": "Gr\u00f6ben", 
+        "adjacent_woeid": [
+          701098, 
+          701961, 
+          20153298, 
+          20153409, 
+          23411855, 
+          29346338, 
+          29346674, 
+          29348097
+        ], 
+        "alias_GER_S": [
+          "Groben"
+        ], 
+        "ne_latitude": 48.101, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.150, 
+        "longitude": 12.136, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:25Z", 
+        "parent_woeid": 24550669, 
+        "latitude": 48.092, 
+        "sw_longitude": 12.123, 
+        "fullname": "Gr\u00f6ben, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 48.083
+      }, 
+      "id": 29346345
+    }
+  ]
+}

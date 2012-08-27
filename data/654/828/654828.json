@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              48.532
+            ], 
+            [
+              12.345, 
+              48.550
+            ], 
+            [
+              12.373, 
+              48.550
+            ], 
+            [
+              12.373, 
+              48.532
+            ], 
+            [
+              12.345, 
+              48.532
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 654828, 
+        "name": "Gro\u00dfbettenrain", 
+        "adjacent_woeid": [
+          651922, 
+          666754, 
+          701489, 
+          20154404, 
+          20154407
+        ], 
+        "alias_GER_S": [
+          "Grossbettenrain"
+        ], 
+        "ne_latitude": 48.550, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.373, 
+        "longitude": 12.359, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 12622912, 
+        "latitude": 48.541, 
+        "sw_longitude": 12.345, 
+        "fullname": "Gro\u00dfbettenrain, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.532
+      }, 
+      "id": 654828
+    }
+  ]
+}

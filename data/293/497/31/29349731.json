@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.309, 
+              52.591
+            ], 
+            [
+              9.309, 
+              52.609
+            ], 
+            [
+              9.339, 
+              52.609
+            ], 
+            [
+              9.339, 
+              52.591
+            ], 
+            [
+              9.309, 
+              52.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349731, 
+        "name": "Siedlung Weisser Berg", 
+        "adjacent_woeid": [
+          640408, 
+          670134, 
+          680289, 
+          29349725
+        ], 
+        "ne_latitude": 52.609, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.339, 
+        "longitude": 9.324, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:45Z", 
+        "parent_woeid": 12630122, 
+        "latitude": 52.600, 
+        "sw_longitude": 9.309, 
+        "fullname": "Siedlung Weisser Berg, Lower Saxony, Nienburg, Germany", 
+        "sw_latitude": 52.591
+      }, 
+      "id": 29349731
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.175, 
+              45.155
+            ], 
+            [
+              3.175, 
+              45.176
+            ], 
+            [
+              3.196, 
+              45.176
+            ], 
+            [
+              3.196, 
+              45.155
+            ], 
+            [
+              3.175, 
+              45.155
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626554, 
+        "name": "St.-Poncy", 
+        "adjacent_woeid": [
+          580608, 
+          583577, 
+          597495, 
+          601632, 
+          625787, 
+          631168
+        ], 
+        "ne_latitude": 45.176, 
+        "ne_longitude": 3.196, 
+        "longitude": 3.186, 
+        "parent_woeid": 12636918, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Poncy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.165, 
+        "sw_longitude": 3.175, 
+        "fullname": "St.-Poncy, Auvergne, Cantal, France", 
+        "sw_latitude": 45.155
+      }, 
+      "id": 626554
+    }
+  ]
+}

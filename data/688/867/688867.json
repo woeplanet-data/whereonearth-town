@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.620, 
+              48.488
+            ], 
+            [
+              10.620, 
+              48.515
+            ], 
+            [
+              10.651, 
+              48.515
+            ], 
+            [
+              10.651, 
+              48.488
+            ], 
+            [
+              10.620, 
+              48.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688867, 
+        "name": "Rischgau", 
+        "adjacent_woeid": [
+          658350, 
+          674162, 
+          695542, 
+          702377, 
+          705330
+        ], 
+        "ne_latitude": 48.515, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.651, 
+        "longitude": 10.629, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:42Z", 
+        "parent_woeid": 12634814, 
+        "latitude": 48.503, 
+        "sw_longitude": 10.620, 
+        "fullname": "Rischgau, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.488
+      }, 
+      "id": 688867
+    }
+  ]
+}

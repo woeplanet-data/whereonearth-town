@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.802, 
+              48.423
+            ], 
+            [
+              10.802, 
+              48.441
+            ], 
+            [
+              10.829, 
+              48.441
+            ], 
+            [
+              10.829, 
+              48.423
+            ], 
+            [
+              10.802, 
+              48.423
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637164, 
+        "name": "Batzenhofen", 
+        "adjacent_woeid": [
+          646503, 
+          660316, 
+          661922, 
+          688116
+        ], 
+        "ne_latitude": 48.441, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.829, 
+        "longitude": 10.815, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12634765, 
+        "latitude": 48.432, 
+        "sw_longitude": 10.802, 
+        "fullname": "Batzenhofen, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.423
+      }, 
+      "id": 637164
+    }
+  ]
+}

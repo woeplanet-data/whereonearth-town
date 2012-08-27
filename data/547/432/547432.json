@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.765, 
+              47.292
+            ], 
+            [
+              12.765, 
+              47.310
+            ], 
+            [
+              12.792, 
+              47.310
+            ], 
+            [
+              12.792, 
+              47.292
+            ], 
+            [
+              12.765, 
+              47.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 547432, 
+        "name": "Bruckberg", 
+        "adjacent_woeid": [
+          547406, 
+          547862, 
+          28995701, 
+          28995703
+        ], 
+        "ne_latitude": 47.310, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.792, 
+        "longitude": 12.779, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:06Z", 
+        "parent_woeid": 12674719, 
+        "latitude": 47.301, 
+        "sw_longitude": 12.765, 
+        "fullname": "Bruckberg, Salzburg, Zell am See, Austria", 
+        "sw_latitude": 47.292
+      }, 
+      "id": 547432
+    }
+  ]
+}

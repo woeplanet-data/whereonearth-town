@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.332, 
+              46.952
+            ], 
+            [
+              8.332, 
+              46.961
+            ], 
+            [
+              8.345, 
+              46.961
+            ], 
+            [
+              8.345, 
+              46.952
+            ], 
+            [
+              8.332, 
+              46.952
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20100689, 
+        "name": "Allweg", 
+        "adjacent_woeid": [
+          784297, 
+          784638, 
+          20103771, 
+          20104009
+        ], 
+        "ne_latitude": 46.961, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.345, 
+        "longitude": 8.339, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12684599, 
+        "latitude": 46.957, 
+        "sw_longitude": 8.332, 
+        "fullname": "Allweg, Canton of Nidwalden, Nidwalden, Switzerland", 
+        "sw_latitude": 46.952
+      }, 
+      "id": 20100689
+    }
+  ]
+}

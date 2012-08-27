@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.161, 
+              45.946
+            ], 
+            [
+              3.161, 
+              45.970
+            ], 
+            [
+              3.188, 
+              45.970
+            ], 
+            [
+              3.188, 
+              45.946
+            ], 
+            [
+              3.161, 
+              45.946
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602594, 
+        "name": "Le Cheix", 
+        "adjacent_woeid": [
+          577052, 
+          599195, 
+          621029, 
+          630105, 
+          20207015, 
+          20207016
+        ], 
+        "ne_latitude": 45.970, 
+        "ne_longitude": 3.188, 
+        "longitude": 3.173, 
+        "parent_woeid": 12647264, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Cheix-sur-Morge"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.957, 
+        "sw_longitude": 3.161, 
+        "fullname": "Le Cheix, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.946
+      }, 
+      "id": 602594
+    }
+  ]
+}

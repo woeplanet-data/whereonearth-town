@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.642, 
+              46.452
+            ], 
+            [
+              -1.642, 
+              46.491
+            ], 
+            [
+              -1.590, 
+              46.491
+            ], 
+            [
+              -1.590, 
+              46.452
+            ], 
+            [
+              -1.642, 
+              46.452
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628005, 
+        "name": "Talmont-St.-Hilaire", 
+        "adjacent_woeid": [
+          577079, 
+          584913, 
+          593861, 
+          595425, 
+          599145, 
+          604199, 
+          606976, 
+          608532, 
+          624575, 
+          627296, 
+          20181756, 
+          20182540, 
+          20182544, 
+          29331027, 
+          29331424
+        ], 
+        "ne_latitude": 46.491, 
+        "ne_longitude": -1.590, 
+        "longitude": -1.617, 
+        "parent_woeid": 12670553, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Talmont-St-Hilaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.465, 
+        "sw_longitude": -1.642, 
+        "fullname": "Talmont-St.-Hilaire, Pays de la Loire, Vendee, France", 
+        "sw_latitude": 46.452
+      }, 
+      "id": 628005
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.129, 
+              50.472
+            ], 
+            [
+              10.129, 
+              50.504
+            ], 
+            [
+              10.163, 
+              50.504
+            ], 
+            [
+              10.163, 
+              50.472
+            ], 
+            [
+              10.129, 
+              50.472
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 697193, 
+        "name": "Stetten", 
+        "adjacent_woeid": [
+          658008, 
+          659782, 
+          680386, 
+          689848
+        ], 
+        "ne_latitude": 50.504, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.163, 
+        "longitude": 10.142, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12636120, 
+        "latitude": 50.489, 
+        "sw_longitude": 10.129, 
+        "fullname": "Stetten, Bavaria, Rh\u00f6n-Grabfeld, Germany", 
+        "sw_latitude": 50.472
+      }, 
+      "id": 697193
+    }
+  ]
+}

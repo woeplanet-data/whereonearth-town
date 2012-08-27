@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.476, 
+              20.358
+            ], 
+            [
+              -100.476, 
+              20.376
+            ], 
+            [
+              -100.457, 
+              20.376
+            ], 
+            [
+              -100.457, 
+              20.358
+            ], 
+            [
+              -100.476, 
+              20.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.376, 
+        "name": "La Barranca", 
+        "adjacent_woeid": [
+          113319, 
+          122686, 
+          123342, 
+          123770, 
+          126807, 
+          130895, 
+          136849, 
+          144753
+        ], 
+        "woeid": 126442, 
+        "alias_SPA_V": [
+          "Barranca"
+        ], 
+        "ne_longitude": -100.457, 
+        "longitude": -100.467, 
+        "parent_woeid": 12600007, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.367, 
+        "sw_longitude": -100.476, 
+        "fullname": "La Barranca, Guanajuato, Jerecuaro, Mexico", 
+        "sw_latitude": 20.358
+      }, 
+      "id": 126442
+    }
+  ]
+}

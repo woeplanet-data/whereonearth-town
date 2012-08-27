@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.230, 
+              23.967
+            ], 
+            [
+              -99.230, 
+              23.985
+            ], 
+            [
+              -99.211, 
+              23.985
+            ], 
+            [
+              -99.211, 
+              23.967
+            ], 
+            [
+              -99.230, 
+              23.967
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.985, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          113934, 
+          119076, 
+          119523, 
+          124620, 
+          127195, 
+          129217, 
+          130255, 
+          134544, 
+          146790
+        ], 
+        "woeid": 145015, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -99.211, 
+        "longitude": -99.220, 
+        "parent_woeid": 12601672, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.976, 
+        "sw_longitude": -99.230, 
+        "fullname": "San Pedro, Tamaulipas, Victoria, Mexico", 
+        "sw_latitude": 23.967
+      }, 
+      "id": 145015
+    }
+  ]
+}

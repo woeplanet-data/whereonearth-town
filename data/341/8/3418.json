@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.661, 
+              47.906
+            ], 
+            [
+              -74.661, 
+              47.963
+            ], 
+            [
+              -74.578, 
+              47.963
+            ], 
+            [
+              -74.578, 
+              47.906
+            ], 
+            [
+              -74.661, 
+              47.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3418, 
+        "name": "Parent", 
+        "adjacent_woeid": [
+          3275, 
+          3335, 
+          3420, 
+          29374142, 
+          29374194
+        ], 
+        "ne_latitude": 47.963, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "XFE"
+        ], 
+        "ne_longitude": -74.578, 
+        "longitude": -74.625, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:22:56Z", 
+        "parent_woeid": 29375225, 
+        "latitude": 47.920, 
+        "sw_longitude": -74.661, 
+        "fullname": "Parent, Quebec, La Tuque, Canada", 
+        "sw_latitude": 47.906
+      }, 
+      "id": 3418
+    }
+  ]
+}

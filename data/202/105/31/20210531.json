@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.601, 
+              45.446
+            ], 
+            [
+              6.601, 
+              45.455
+            ], 
+            [
+              6.614, 
+              45.455
+            ], 
+            [
+              6.614, 
+              45.446
+            ], 
+            [
+              6.601, 
+              45.446
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210531, 
+        "name": "La Roche", 
+        "adjacent_woeid": [
+          599349, 
+          604290, 
+          612208, 
+          614587, 
+          631748
+        ], 
+        "ne_latitude": 45.455, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.614, 
+        "longitude": 6.608, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 12666928, 
+        "latitude": 45.450, 
+        "sw_longitude": 6.601, 
+        "fullname": "La Roche, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.446
+      }, 
+      "id": 20210531
+    }
+  ]
+}

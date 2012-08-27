@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.443, 
+              21.724
+            ], 
+            [
+              -98.443, 
+              21.742
+            ], 
+            [
+              -98.424, 
+              21.742
+            ], 
+            [
+              -98.424, 
+              21.724
+            ], 
+            [
+              -98.443, 
+              21.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.742, 
+        "name": "Las Badeas", 
+        "adjacent_woeid": [
+          111957, 
+          113111, 
+          120454, 
+          129941, 
+          136518, 
+          148168, 
+          150066
+        ], 
+        "woeid": 130061, 
+        "alias_SPA_V": [
+          "Badeas"
+        ], 
+        "ne_longitude": -98.424, 
+        "longitude": -98.433, 
+        "parent_woeid": 12601782, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.733, 
+        "sw_longitude": -98.443, 
+        "fullname": "Las Badeas, Veracruz-Llave, El Higo, Mexico", 
+        "sw_latitude": 21.724
+      }, 
+      "id": 130061
+    }
+  ]
+}

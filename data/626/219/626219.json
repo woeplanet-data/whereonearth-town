@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.428, 
+              45.414
+            ], 
+            [
+              1.428, 
+              45.453
+            ], 
+            [
+              1.463, 
+              45.453
+            ], 
+            [
+              1.463, 
+              45.414
+            ], 
+            [
+              1.428, 
+              45.414
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626219, 
+        "name": "St.-Pardoux-Corbier", 
+        "adjacent_woeid": [
+          625762, 
+          629416, 
+          20188764
+        ], 
+        "ne_latitude": 45.453, 
+        "ne_longitude": 1.463, 
+        "longitude": 1.451, 
+        "parent_woeid": 12663793, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pardoux-Corbier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.431, 
+        "sw_longitude": 1.428, 
+        "fullname": "St.-Pardoux-Corbier, Limousin, Correze, France", 
+        "sw_latitude": 45.414
+      }, 
+      "id": 626219
+    }
+  ]
+}

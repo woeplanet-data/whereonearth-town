@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.544, 
+              27.424
+            ], 
+            [
+              -103.544, 
+              27.442
+            ], 
+            [
+              -103.523, 
+              27.442
+            ], 
+            [
+              -103.523, 
+              27.424
+            ], 
+            [
+              -103.544, 
+              27.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.442, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          117054, 
+          121223, 
+          121426, 
+          127778, 
+          147563
+        ], 
+        "woeid": 119472, 
+        "alias_SPA_V": [
+          "Rancho El Carmen"
+        ], 
+        "ne_longitude": -103.523, 
+        "longitude": -103.533, 
+        "parent_woeid": 12599919, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.433, 
+        "sw_longitude": -103.544, 
+        "fullname": "El Carmen, Coahuila de Zaragoza, Sierra Mojada, Mexico", 
+        "sw_latitude": 27.424
+      }, 
+      "id": 119472
+    }
+  ]
+}

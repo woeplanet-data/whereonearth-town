@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.465, 
+              49.145
+            ], 
+            [
+              0.465, 
+              49.165
+            ], 
+            [
+              0.501, 
+              49.165
+            ], 
+            [
+              0.501, 
+              49.145
+            ], 
+            [
+              0.465, 
+              49.145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578277, 
+        "name": "Barville", 
+        "adjacent_woeid": [
+          591262, 
+          591351, 
+          623082, 
+          15003061
+        ], 
+        "ne_latitude": 49.165, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.501, 
+        "longitude": 0.476, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12638168, 
+        "latitude": 49.157, 
+        "sw_longitude": 0.465, 
+        "fullname": "Barville, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.145
+      }, 
+      "id": 578277
+    }
+  ]
+}

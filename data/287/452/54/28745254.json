@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.137, 
+              40.023
+            ], 
+            [
+              -77.137, 
+              40.113
+            ], 
+            [
+              -77.012, 
+              40.113
+            ], 
+            [
+              -77.012, 
+              40.023
+            ], 
+            [
+              -77.137, 
+              40.023
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745254, 
+        "name": "Franklin", 
+        "adjacent_woeid": [
+          2381199, 
+          2425732, 
+          2436842, 
+          2510306, 
+          2519552, 
+          28745498
+        ], 
+        "ne_latitude": 40.113, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Franklin Township"
+        ], 
+        "ne_longitude": -77.012, 
+        "longitude": -77.066, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589794, 
+        "latitude": 40.061, 
+        "sw_longitude": -77.137, 
+        "fullname": "Franklin, Pennsylvania, York, United States", 
+        "sw_latitude": 40.023
+      }, 
+      "id": 28745254
+    }
+  ]
+}

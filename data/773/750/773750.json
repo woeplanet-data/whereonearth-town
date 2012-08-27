@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.303, 
+              42.204
+            ], 
+            [
+              -0.303, 
+              42.214
+            ], 
+            [
+              -0.291, 
+              42.214
+            ], 
+            [
+              -0.291, 
+              42.204
+            ], 
+            [
+              -0.303, 
+              42.204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.214, 
+        "name": "Santa Eulalia la Mayor", 
+        "adjacent_woeid": [
+          753774, 
+          756909, 
+          762993, 
+          766236, 
+          768452, 
+          20225835
+        ], 
+        "woeid": 773750, 
+        "alias_SPA_V": [
+          "Sta Eulalia la Mayor"
+        ], 
+        "ne_longitude": -0.291, 
+        "longitude": -0.297, 
+        "parent_woeid": 12689513, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.209, 
+        "sw_longitude": -0.303, 
+        "fullname": "Santa Eulalia la Mayor, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.204
+      }, 
+      "id": 773750
+    }
+  ]
+}

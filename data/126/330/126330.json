@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.592, 
+              25.288
+            ], 
+            [
+              -107.592, 
+              25.306
+            ], 
+            [
+              -107.572, 
+              25.306
+            ], 
+            [
+              -107.572, 
+              25.288
+            ], 
+            [
+              -107.592, 
+              25.288
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.306, 
+        "name": "La Amapa", 
+        "adjacent_woeid": [
+          114300, 
+          127687, 
+          132121, 
+          136939, 
+          147637
+        ], 
+        "woeid": 126330, 
+        "alias_SPA_V": [
+          "Amapa"
+        ], 
+        "ne_longitude": -107.572, 
+        "longitude": -107.582, 
+        "parent_woeid": 12601529, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.297, 
+        "sw_longitude": -107.592, 
+        "fullname": "La Amapa, Sinaloa, Badiraguato, Mexico", 
+        "sw_latitude": 25.288
+      }, 
+      "id": 126330
+    }
+  ]
+}

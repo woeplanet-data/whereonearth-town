@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.160, 
+              50.355
+            ], 
+            [
+              12.160, 
+              50.376
+            ], 
+            [
+              12.178, 
+              50.376
+            ], 
+            [
+              12.178, 
+              50.355
+            ], 
+            [
+              12.160, 
+              50.355
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646237, 
+        "name": "Ebersbach", 
+        "adjacent_woeid": [
+          647052, 
+          662920, 
+          681393, 
+          698412
+        ], 
+        "ne_latitude": 50.376, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.178, 
+        "longitude": 12.174, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12625605, 
+        "latitude": 50.365, 
+        "sw_longitude": 12.160, 
+        "fullname": "Ebersbach, Saxony, Vogtlandkreis, Germany", 
+        "sw_latitude": 50.355
+      }, 
+      "id": 646237
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.293, 
+              53.373
+            ], 
+            [
+              8.293, 
+              53.391
+            ], 
+            [
+              8.323, 
+              53.391
+            ], 
+            [
+              8.323, 
+              53.373
+            ], 
+            [
+              8.293, 
+              53.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633304, 
+        "name": "Achtermeer", 
+        "adjacent_woeid": [
+          680359, 
+          689516, 
+          698169, 
+          20168605
+        ], 
+        "ne_latitude": 53.391, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.323, 
+        "longitude": 8.308, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12630051, 
+        "latitude": 53.382, 
+        "sw_longitude": 8.293, 
+        "fullname": "Achtermeer, Lower Saxony, Wesermarsch, Germany", 
+        "sw_latitude": 53.373
+      }, 
+      "id": 633304
+    }
+  ]
+}

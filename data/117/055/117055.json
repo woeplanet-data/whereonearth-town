@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.917, 
+              26.465
+            ], 
+            [
+              -99.917, 
+              26.479
+            ], 
+            [
+              -99.902, 
+              26.479
+            ], 
+            [
+              -99.902, 
+              26.465
+            ], 
+            [
+              -99.917, 
+              26.465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.479, 
+        "name": "Colorado de Abajo", 
+        "adjacent_woeid": [
+          111753, 
+          113725, 
+          120177, 
+          123766, 
+          133160, 
+          139758, 
+          142061
+        ], 
+        "woeid": 117055, 
+        "alias_SPA_V": [
+          "Colorados de Abajo"
+        ], 
+        "ne_longitude": -99.902, 
+        "longitude": -99.909, 
+        "parent_woeid": 12600655, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.472, 
+        "sw_longitude": -99.917, 
+        "fullname": "Colorado de Abajo, Nuevo Leon, Vallecillo, Mexico", 
+        "sw_latitude": 26.465
+      }, 
+      "id": 117055
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.298, 
+              48.268
+            ], 
+            [
+              6.298, 
+              48.296
+            ], 
+            [
+              6.342, 
+              48.296
+            ], 
+            [
+              6.342, 
+              48.268
+            ], 
+            [
+              6.298, 
+              48.268
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627191, 
+        "name": "St.-Vallier", 
+        "adjacent_woeid": [
+          581456, 
+          592158, 
+          619029
+        ], 
+        "ne_latitude": 48.296, 
+        "ne_longitude": 6.342, 
+        "longitude": 6.317, 
+        "parent_woeid": 12671313, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vallier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.280, 
+        "sw_longitude": 6.298, 
+        "fullname": "St.-Vallier, Lorraine, Vosges, France", 
+        "sw_latitude": 48.268
+      }, 
+      "id": 627191
+    }
+  ]
+}

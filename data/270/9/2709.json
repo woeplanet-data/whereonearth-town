@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.481, 
+              49.586
+            ], 
+            [
+              -67.481, 
+              50.212
+            ], 
+            [
+              -66.719, 
+              50.212
+            ], 
+            [
+              -66.719, 
+              49.586
+            ], 
+            [
+              -67.481, 
+              49.586
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 2709, 
+        "name": "Port-Cartier", 
+        "adjacent_woeid": [
+          2707, 
+          3577, 
+          3581, 
+          3630, 
+          23396211, 
+          23396637
+        ], 
+        "ne_latitude": 50.212, 
+        "ne_longitude": -66.719, 
+        "longitude": -66.890, 
+        "parent_woeid": 29375259, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt-Cartier"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.027, 
+        "sw_longitude": -67.481, 
+        "fullname": "Port-Cartier, Quebec, Sept-Rivi\u00e8res, Canada", 
+        "sw_latitude": 49.586
+      }, 
+      "id": 2709
+    }
+  ]
+}

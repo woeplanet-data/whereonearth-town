@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.160, 
+              22.091
+            ], 
+            [
+              -99.160, 
+              22.109
+            ], 
+            [
+              -99.140, 
+              22.109
+            ], 
+            [
+              -99.140, 
+              22.091
+            ], 
+            [
+              -99.160, 
+              22.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.109, 
+        "name": "El Platanito", 
+        "adjacent_woeid": [
+          117643, 
+          133589, 
+          142237, 
+          143325, 
+          144410, 
+          146802, 
+          56074925
+        ], 
+        "woeid": 121541, 
+        "alias_SPA_V": [
+          "Platanito"
+        ], 
+        "ne_longitude": -99.140, 
+        "longitude": -99.150, 
+        "parent_woeid": 12601483, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.100, 
+        "sw_longitude": -99.160, 
+        "fullname": "El Platanito, San Luis Potosi, Ciudad Valles, Mexico", 
+        "sw_latitude": 22.091
+      }, 
+      "id": 121541
+    }
+  ]
+}

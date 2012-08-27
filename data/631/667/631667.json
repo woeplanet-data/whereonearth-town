@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.195, 
+              46.153
+            ], 
+            [
+              1.195, 
+              46.188
+            ], 
+            [
+              1.212, 
+              46.188
+            ], 
+            [
+              1.212, 
+              46.153
+            ], 
+            [
+              1.195, 
+              46.153
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631667, 
+        "name": "Villefavard", 
+        "adjacent_woeid": [
+          588955, 
+          589230, 
+          600654, 
+          618807
+        ], 
+        "ne_latitude": 46.188, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.212, 
+        "longitude": 1.208, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12672462, 
+        "latitude": 46.169, 
+        "sw_longitude": 1.195, 
+        "fullname": "Villefavard, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 46.153
+      }, 
+      "id": 631667
+    }
+  ]
+}

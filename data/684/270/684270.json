@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.111, 
+              47.496
+            ], 
+            [
+              11.111, 
+              47.504
+            ], 
+            [
+              11.123, 
+              47.504
+            ], 
+            [
+              11.123, 
+              47.496
+            ], 
+            [
+              11.111, 
+              47.496
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 684270, 
+        "name": "Partenkirchen", 
+        "adjacent_woeid": [
+          692060, 
+          20156910, 
+          29347948
+        ], 
+        "ne_latitude": 47.504, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.123, 
+        "longitude": 11.117, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:13Z", 
+        "parent_woeid": 12634611, 
+        "latitude": 47.500, 
+        "sw_longitude": 11.111, 
+        "fullname": "Partenkirchen, Bavaria, Landkreis Garmisch-Partenkirchen, Germany", 
+        "sw_latitude": 47.496
+      }, 
+      "id": 684270
+    }
+  ]
+}

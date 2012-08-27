@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.386, 
+              45.301
+            ], 
+            [
+              1.386, 
+              45.322
+            ], 
+            [
+              1.413, 
+              45.322
+            ], 
+            [
+              1.413, 
+              45.301
+            ], 
+            [
+              1.386, 
+              45.301
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626996, 
+        "name": "St.-Solve", 
+        "adjacent_woeid": [
+          583748, 
+          623666, 
+          631347
+        ], 
+        "ne_latitude": 45.322, 
+        "ne_longitude": 1.413, 
+        "longitude": 1.401, 
+        "parent_woeid": 12671249, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Solve"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.310, 
+        "sw_longitude": 1.386, 
+        "fullname": "St.-Solve, Limousin, Correze, France", 
+        "sw_latitude": 45.301
+      }, 
+      "id": 626996
+    }
+  ]
+}

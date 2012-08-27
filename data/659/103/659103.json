@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.567, 
+              48.465
+            ], 
+            [
+              10.567, 
+              48.491
+            ], 
+            [
+              10.596, 
+              48.491
+            ], 
+            [
+              10.596, 
+              48.465
+            ], 
+            [
+              10.567, 
+              48.465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659103, 
+        "name": "Hennhofen", 
+        "adjacent_woeid": [
+          636648, 
+          651102, 
+          658026, 
+          709302
+        ], 
+        "ne_latitude": 48.491, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.596, 
+        "longitude": 10.587, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12634753, 
+        "latitude": 48.476, 
+        "sw_longitude": 10.567, 
+        "fullname": "Hennhofen, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.465
+      }, 
+      "id": 659103
+    }
+  ]
+}

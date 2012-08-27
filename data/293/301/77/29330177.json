@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.387, 
+              45.106
+            ], 
+            [
+              5.387, 
+              45.125
+            ], 
+            [
+              5.413, 
+              45.125
+            ], 
+            [
+              5.413, 
+              45.106
+            ], 
+            [
+              5.387, 
+              45.106
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330177, 
+        "name": "Le Faz", 
+        "adjacent_woeid": [
+          595344, 
+          618020, 
+          619148, 
+          626421
+        ], 
+        "ne_latitude": 45.125, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.413, 
+        "longitude": 5.400, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "parent_woeid": 12671097, 
+        "latitude": 45.116, 
+        "sw_longitude": 5.387, 
+        "fullname": "Le Faz, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.106
+      }, 
+      "id": 29330177
+    }
+  ]
+}

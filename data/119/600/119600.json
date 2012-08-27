@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.586, 
+              25.539
+            ], 
+            [
+              -104.586, 
+              25.554
+            ], 
+            [
+              -104.571, 
+              25.554
+            ], 
+            [
+              -104.571, 
+              25.539
+            ], 
+            [
+              -104.586, 
+              25.539
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.554, 
+        "name": "El Casco", 
+        "adjacent_woeid": [
+          110911, 
+          113573, 
+          116393, 
+          117833, 
+          127297, 
+          136442, 
+          145296
+        ], 
+        "woeid": 119600, 
+        "alias_SPA_V": [
+          "Casco"
+        ], 
+        "ne_longitude": -104.571, 
+        "longitude": -104.578, 
+        "parent_woeid": 12599980, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.546, 
+        "sw_longitude": -104.586, 
+        "fullname": "El Casco, Durango, San Pedro del Gallo, Mexico", 
+        "sw_latitude": 25.539
+      }, 
+      "id": 119600
+    }
+  ]
+}

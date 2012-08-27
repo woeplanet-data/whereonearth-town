@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.314, 
+              28.662
+            ], 
+            [
+              -104.314, 
+              28.680
+            ], 
+            [
+              -104.293, 
+              28.680
+            ], 
+            [
+              -104.293, 
+              28.662
+            ], 
+            [
+              -104.314, 
+              28.662
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.680, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          112581, 
+          117641, 
+          118358, 
+          130248, 
+          148973
+        ], 
+        "woeid": 142817, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -104.293, 
+        "longitude": -104.304, 
+        "parent_woeid": 12599871, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.671, 
+        "sw_longitude": -104.314, 
+        "fullname": "San Ignacio, Chihuahua, Ojinaga, Mexico", 
+        "sw_latitude": 28.662
+      }, 
+      "id": 142817
+    }
+  ]
+}

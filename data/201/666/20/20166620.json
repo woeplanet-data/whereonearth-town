@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.196, 
+              52.865
+            ], 
+            [
+              10.196, 
+              52.883
+            ], 
+            [
+              10.226, 
+              52.883
+            ], 
+            [
+              10.226, 
+              52.865
+            ], 
+            [
+              10.196, 
+              52.865
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20166620, 
+        "name": "Niederohe", 
+        "adjacent_woeid": [
+          652200, 
+          678870, 
+          681959, 
+          20166621
+        ], 
+        "ne_latitude": 52.883, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.226, 
+        "longitude": 10.211, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12629604, 
+        "latitude": 52.874, 
+        "sw_longitude": 10.196, 
+        "fullname": "Niederohe, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.865
+      }, 
+      "id": 20166620
+    }
+  ]
+}

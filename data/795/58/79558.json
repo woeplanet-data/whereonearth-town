@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.183, 
+              14.330
+            ], 
+            [
+              -89.183, 
+              14.344
+            ], 
+            [
+              -89.169, 
+              14.344
+            ], 
+            [
+              -89.169, 
+              14.330
+            ], 
+            [
+              -89.183, 
+              14.330
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.344, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          77071, 
+          78527, 
+          26809358
+        ], 
+        "woeid": 79558, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -89.169, 
+        "longitude": -89.176, 
+        "parent_woeid": 26808568, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.337, 
+        "sw_longitude": -89.183, 
+        "fullname": "San Ignacio, Chalatenango, San Ignacio, El Salvador", 
+        "sw_latitude": 14.330
+      }, 
+      "id": 79558
+    }
+  ]
+}

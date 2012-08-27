@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.550, 
+              50.356
+            ], 
+            [
+              10.550, 
+              50.402
+            ], 
+            [
+              10.585, 
+              50.402
+            ], 
+            [
+              10.585, 
+              50.356
+            ], 
+            [
+              10.550, 
+              50.356
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660057, 
+        "name": "Hindfeld", 
+        "adjacent_woeid": [
+          641086, 
+          646892, 
+          652783, 
+          675321, 
+          29353367
+        ], 
+        "ne_latitude": 50.402, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.585, 
+        "longitude": 10.566, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12625116, 
+        "latitude": 50.367, 
+        "sw_longitude": 10.550, 
+        "fullname": "Hindfeld, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.356
+      }, 
+      "id": 660057
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.083, 
+              48.590
+            ], 
+            [
+              1.083, 
+              48.617
+            ], 
+            [
+              1.120, 
+              48.617
+            ], 
+            [
+              1.120, 
+              48.590
+            ], 
+            [
+              1.083, 
+              48.590
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603637, 
+        "name": "Le Mesnil-Thomas", 
+        "adjacent_woeid": [
+          590917, 
+          595468, 
+          598545, 
+          608833
+        ], 
+        "ne_latitude": 48.617, 
+        "ne_longitude": 1.120, 
+        "longitude": 1.094, 
+        "parent_woeid": 12646315, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mesnil-Thomas"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.600, 
+        "sw_longitude": 1.083, 
+        "fullname": "Le Mesnil-Thomas, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.590
+      }, 
+      "id": 603637
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.465, 
+              -41.099
+            ], 
+            [
+              -71.465, 
+              -41.081
+            ], 
+            [
+              -71.441, 
+              -41.081
+            ], 
+            [
+              -71.441, 
+              -41.099
+            ], 
+            [
+              -71.465, 
+              -41.099
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -41.081, 
+        "name": "Perito Moreno", 
+        "adjacent_woeid": [
+          331720, 
+          467298, 
+          56040239, 
+          56040522, 
+          56040528
+        ], 
+        "woeid": 467359, 
+        "alias_SPA_V": [
+          "Pto Moreno"
+        ], 
+        "ne_longitude": -71.441, 
+        "longitude": -71.453, 
+        "parent_woeid": 20071047, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -41.090, 
+        "sw_longitude": -71.465, 
+        "fullname": "Perito Moreno, Rio Negro, Bariloche, Argentina", 
+        "sw_latitude": -41.099
+      }, 
+      "id": 467359
+    }
+  ]
+}

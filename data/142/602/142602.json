@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.257, 
+              17.160
+            ], 
+            [
+              -96.257, 
+              17.178
+            ], 
+            [
+              -96.235, 
+              17.178
+            ], 
+            [
+              -96.235, 
+              17.160
+            ], 
+            [
+              -96.257, 
+              17.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.178, 
+        "name": "San Francisco Cajonos", 
+        "adjacent_woeid": [
+          144427, 
+          144899, 
+          145040, 
+          147136, 
+          147242
+        ], 
+        "woeid": 142602, 
+        "alias_SPA_V": [
+          "S Francisco Cajonos"
+        ], 
+        "ne_longitude": -96.235, 
+        "longitude": -96.247, 
+        "parent_woeid": 12600796, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.169, 
+        "sw_longitude": -96.257, 
+        "fullname": "San Francisco Cajonos, Oaxaca, San Francisco Cajonos, Mexico", 
+        "sw_latitude": 17.160
+      }, 
+      "id": 142602
+    }
+  ]
+}

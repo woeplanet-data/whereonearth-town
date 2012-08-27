@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.401, 
+              42.348
+            ], 
+            [
+              -5.401, 
+              42.357
+            ], 
+            [
+              -5.389, 
+              42.357
+            ], 
+            [
+              -5.389, 
+              42.348
+            ], 
+            [
+              -5.401, 
+              42.348
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.357, 
+        "name": "San Pedro de Los Oteros", 
+        "adjacent_woeid": [
+          751875, 
+          760730, 
+          761179, 
+          771219, 
+          773833, 
+          776640
+        ], 
+        "woeid": 773302, 
+        "alias_SPA_V": [
+          "S Pedro de Los Oteros"
+        ], 
+        "ne_longitude": -5.389, 
+        "longitude": -5.395, 
+        "parent_woeid": 12691836, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.352, 
+        "sw_longitude": -5.401, 
+        "fullname": "San Pedro de Los Oteros, Castille and Leon, Leon, Spain", 
+        "sw_latitude": 42.348
+      }, 
+      "id": 773302
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.714, 
+              50.315
+            ], 
+            [
+              10.714, 
+              50.355
+            ], 
+            [
+              10.758, 
+              50.355
+            ], 
+            [
+              10.758, 
+              50.315
+            ], 
+            [
+              10.714, 
+              50.315
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690230, 
+        "name": "Rudelsdorf", 
+        "adjacent_woeid": [
+          651693, 
+          661895, 
+          689731, 
+          694326, 
+          697827, 
+          702641
+        ], 
+        "ne_latitude": 50.355, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.758, 
+        "longitude": 10.735, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12636093, 
+        "latitude": 50.337, 
+        "sw_longitude": 10.714, 
+        "fullname": "Rudelsdorf, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.315
+      }, 
+      "id": 690230
+    }
+  ]
+}

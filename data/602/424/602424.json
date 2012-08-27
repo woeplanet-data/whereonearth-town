@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.468, 
+              49.615
+            ], 
+            [
+              2.468, 
+              49.635
+            ], 
+            [
+              2.493, 
+              49.635
+            ], 
+            [
+              2.493, 
+              49.615
+            ], 
+            [
+              2.468, 
+              49.615
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602424, 
+        "name": "Le Cardonnois", 
+        "adjacent_woeid": [
+          582155, 
+          591387, 
+          611259, 
+          632884
+        ], 
+        "ne_latitude": 49.635, 
+        "ne_longitude": 2.493, 
+        "longitude": 2.480, 
+        "parent_woeid": 12664740, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Gardonnois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.628, 
+        "sw_longitude": 2.468, 
+        "fullname": "Le Cardonnois, Picardie, Somme, France", 
+        "sw_latitude": 49.615
+      }, 
+      "id": 602424
+    }
+  ]
+}

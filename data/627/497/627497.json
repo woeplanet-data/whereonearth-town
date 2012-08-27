@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.960, 
+              48.418
+            ], 
+            [
+              1.960, 
+              48.447
+            ], 
+            [
+              1.989, 
+              48.447
+            ], 
+            [
+              1.989, 
+              48.418
+            ], 
+            [
+              1.960, 
+              48.418
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627497, 
+        "name": "St.-Escobille", 
+        "adjacent_woeid": [
+          577405, 
+          592397, 
+          609720, 
+          611153, 
+          615438, 
+          616903
+        ], 
+        "ne_latitude": 48.447, 
+        "ne_longitude": 1.989, 
+        "longitude": 1.967, 
+        "parent_woeid": 12644936, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Escobille"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.430, 
+        "sw_longitude": 1.960, 
+        "fullname": "St.-Escobille, Ile-de-France, Essonne, France", 
+        "sw_latitude": 48.418
+      }, 
+      "id": 627497
+    }
+  ]
+}

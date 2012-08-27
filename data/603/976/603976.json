@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.651, 
+              46.024
+            ], 
+            [
+              5.651, 
+              46.042
+            ], 
+            [
+              5.677, 
+              46.042
+            ], 
+            [
+              5.677, 
+              46.024
+            ], 
+            [
+              5.651, 
+              46.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603976, 
+        "name": "Le Petit-Abergement", 
+        "adjacent_woeid": [
+          581756, 
+          584222, 
+          603136, 
+          606999, 
+          620445
+        ], 
+        "ne_latitude": 46.042, 
+        "ne_longitude": 5.677, 
+        "longitude": 5.664, 
+        "parent_woeid": 12665050, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Petit-Abergement"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.034, 
+        "sw_longitude": 5.651, 
+        "fullname": "Le Petit-Abergement, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 46.024
+      }, 
+      "id": 603976
+    }
+  ]
+}

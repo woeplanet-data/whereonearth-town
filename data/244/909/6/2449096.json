@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.614, 
+              46.965
+            ], 
+            [
+              -123.614, 
+              46.983
+            ], 
+            [
+              -123.588, 
+              46.983
+            ], 
+            [
+              -123.588, 
+              46.965
+            ], 
+            [
+              -123.614, 
+              46.965
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2449096, 
+        "name": "Melbourne", 
+        "adjacent_woeid": [
+          2352907, 
+          2367954, 
+          2377608, 
+          2496511
+        ], 
+        "ne_latitude": 46.983, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.588, 
+        "longitude": -123.601, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:28:50Z", 
+        "parent_woeid": 12590453, 
+        "latitude": 46.974, 
+        "sw_longitude": -123.614, 
+        "fullname": "Melbourne, Washington, Grays Harbor, United States", 
+        "sw_latitude": 46.965
+      }, 
+      "id": 2449096
+    }
+  ]
+}

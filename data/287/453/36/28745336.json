@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.453, 
+              41.425
+            ], 
+            [
+              -75.453, 
+              41.485
+            ], 
+            [
+              -75.299, 
+              41.485
+            ], 
+            [
+              -75.299, 
+              41.425
+            ], 
+            [
+              -75.453, 
+              41.425
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745336, 
+        "name": "Lake", 
+        "adjacent_woeid": [
+          2379114, 
+          28745543, 
+          28745590
+        ], 
+        "ne_latitude": 41.485, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lk Township"
+        ], 
+        "ne_longitude": -75.299, 
+        "longitude": -75.378, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589791, 
+        "latitude": 41.455, 
+        "sw_longitude": -75.453, 
+        "fullname": "Lake, Pennsylvania, Wayne, United States", 
+        "sw_latitude": 41.425
+      }, 
+      "id": 28745336
+    }
+  ]
+}

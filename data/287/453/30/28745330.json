@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.465, 
+              41.595
+            ], 
+            [
+              -75.465, 
+              41.689
+            ], 
+            [
+              -75.329, 
+              41.689
+            ], 
+            [
+              -75.329, 
+              41.595
+            ], 
+            [
+              -75.465, 
+              41.595
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745330, 
+        "name": "Clinton", 
+        "adjacent_woeid": [
+          2363345, 
+          2394910, 
+          2511314, 
+          26342971, 
+          28745325, 
+          28745327, 
+          28745412
+        ], 
+        "ne_latitude": 41.689, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Clinton Township"
+        ], 
+        "ne_longitude": -75.329, 
+        "longitude": -75.400, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589791, 
+        "latitude": 41.651, 
+        "sw_longitude": -75.465, 
+        "fullname": "Clinton, Pennsylvania, Wayne, United States", 
+        "sw_latitude": 41.595
+      }, 
+      "id": 28745330
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.587, 
+              42.524
+            ], 
+            [
+              12.587, 
+              42.542
+            ], 
+            [
+              12.612, 
+              42.542
+            ], 
+            [
+              12.612, 
+              42.524
+            ], 
+            [
+              12.587, 
+              42.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 29338282, 
+        "name": "San Giacomo", 
+        "adjacent_woeid": [
+          20137775, 
+          29336693, 
+          29338284, 
+          29338363
+        ], 
+        "ne_latitude": 42.542, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.612, 
+        "longitude": 12.599, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:30:08Z", 
+        "parent_woeid": 12676150, 
+        "latitude": 42.533, 
+        "sw_longitude": 12.587, 
+        "fullname": "San Giacomo, Umbria, Terni, Italy", 
+        "sw_latitude": 42.524
+      }, 
+      "id": 29338282
+    }
+  ]
+}

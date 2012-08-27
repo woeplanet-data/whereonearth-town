@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.524, 
+              14.043
+            ], 
+            [
+              -90.524, 
+              14.057
+            ], 
+            [
+              -90.509, 
+              14.057
+            ], 
+            [
+              -90.509, 
+              14.043
+            ], 
+            [
+              -90.524, 
+              14.043
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.057, 
+        "name": "San Miguel Aroche", 
+        "adjacent_woeid": [
+          81191, 
+          84531, 
+          85186, 
+          86389, 
+          22722686
+        ], 
+        "woeid": 85814, 
+        "alias_SPA_V": [
+          "S Miguel Aroche"
+        ], 
+        "ne_longitude": -90.509, 
+        "longitude": -90.517, 
+        "parent_woeid": 26807181, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.050, 
+        "sw_longitude": -90.524, 
+        "fullname": "San Miguel Aroche, Santa Rosa, Taxisco, Guatemala", 
+        "sw_latitude": 14.043
+      }, 
+      "id": 85814
+    }
+  ]
+}

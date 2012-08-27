@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.451, 
+              48.504
+            ], 
+            [
+              12.451, 
+              48.525
+            ], 
+            [
+              12.467, 
+              48.525
+            ], 
+            [
+              12.467, 
+              48.504
+            ], 
+            [
+              12.451, 
+              48.504
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705225, 
+        "name": "Wendeldorf", 
+        "adjacent_woeid": [
+          648074, 
+          678491, 
+          706815, 
+          20154319
+        ], 
+        "ne_latitude": 48.525, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.467, 
+        "longitude": 12.458, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12622900, 
+        "latitude": 48.515, 
+        "sw_longitude": 12.451, 
+        "fullname": "Wendeldorf, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.504
+      }, 
+      "id": 705225
+    }
+  ]
+}

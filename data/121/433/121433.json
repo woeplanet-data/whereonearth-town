@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.693, 
+              25.908
+            ], 
+            [
+              -97.693, 
+              25.926
+            ], 
+            [
+              -97.673, 
+              25.926
+            ], 
+            [
+              -97.673, 
+              25.908
+            ], 
+            [
+              -97.693, 
+              25.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.926, 
+        "name": "El Perote", 
+        "adjacent_woeid": [
+          128121, 
+          132558, 
+          135736, 
+          137469, 
+          145588, 
+          150559
+        ], 
+        "woeid": 121433, 
+        "alias_SPA_V": [
+          "Perote"
+        ], 
+        "ne_longitude": -97.673, 
+        "longitude": -97.683, 
+        "parent_woeid": 12601653, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.917, 
+        "sw_longitude": -97.693, 
+        "fullname": "El Perote, Tamaulipas, Matamoros, Mexico", 
+        "sw_latitude": 25.908
+      }, 
+      "id": 121433
+    }
+  ]
+}

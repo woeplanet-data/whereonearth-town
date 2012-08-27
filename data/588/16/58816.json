@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.821, 
+              10.295
+            ], 
+            [
+              -84.821, 
+              10.305
+            ], 
+            [
+              -84.812, 
+              10.305
+            ], 
+            [
+              -84.812, 
+              10.295
+            ], 
+            [
+              -84.821, 
+              10.295
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.305, 
+        "name": "Monte Verde", 
+        "adjacent_woeid": [
+          58022, 
+          58048, 
+          58389, 
+          59168, 
+          59797
+        ], 
+        "woeid": 58816, 
+        "alias_SPA_V": [
+          "Monteverde"
+        ], 
+        "ne_longitude": -84.812, 
+        "longitude": -84.817, 
+        "parent_woeid": 26809065, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.300, 
+        "sw_longitude": -84.821, 
+        "fullname": "Monte Verde, Puntarenas, Puntarenas, Costa Rica", 
+        "sw_latitude": 10.295
+      }, 
+      "id": 58816
+    }
+  ]
+}

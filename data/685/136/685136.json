@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.523, 
+              48.075
+            ], 
+            [
+              12.523, 
+              48.093
+            ], 
+            [
+              12.540, 
+              48.093
+            ], 
+            [
+              12.540, 
+              48.075
+            ], 
+            [
+              12.523, 
+              48.075
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685136, 
+        "name": "Pinzgau", 
+        "adjacent_woeid": [
+          637912, 
+          704058, 
+          29346977, 
+          29346994
+        ], 
+        "ne_latitude": 48.093, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.540, 
+        "longitude": 12.528, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12622816, 
+        "latitude": 48.081, 
+        "sw_longitude": 12.523, 
+        "fullname": "Pinzgau, Bavaria, Landkreis Traunstein, Germany", 
+        "sw_latitude": 48.075
+      }, 
+      "id": 685136
+    }
+  ]
+}

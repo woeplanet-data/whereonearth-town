@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.755, 
+              37.634
+            ], 
+            [
+              -0.755, 
+              37.781
+            ], 
+            [
+              -0.707, 
+              37.781
+            ], 
+            [
+              -0.707, 
+              37.634
+            ], 
+            [
+              -0.755, 
+              37.634
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.781, 
+        "name": "La Manga", 
+        "adjacent_woeid": [
+          755320, 
+          769322, 
+          23415380, 
+          29370285, 
+          29370390
+        ], 
+        "woeid": 763643, 
+        "alias_SPA_V": [
+          "La Manga del Mar Menor"
+        ], 
+        "ne_longitude": -0.707, 
+        "longitude": -0.713, 
+        "parent_woeid": 12688141, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.641, 
+        "sw_longitude": -0.755, 
+        "fullname": "La Manga, Murcia, Murcia, Spain", 
+        "sw_latitude": 37.634
+      }, 
+      "id": 763643
+    }
+  ]
+}

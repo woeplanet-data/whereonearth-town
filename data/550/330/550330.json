@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.196, 
+              46.836
+            ], 
+            [
+              15.196, 
+              46.854
+            ], 
+            [
+              15.222, 
+              46.854
+            ], 
+            [
+              15.222, 
+              46.836
+            ], 
+            [
+              15.196, 
+              46.836
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550330, 
+        "name": "Wildbach", 
+        "adjacent_woeid": [
+          548136, 
+          548355, 
+          548403, 
+          548459, 
+          550331
+        ], 
+        "ne_latitude": 46.854, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.222, 
+        "longitude": 15.209, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12674916, 
+        "latitude": 46.845, 
+        "sw_longitude": 15.196, 
+        "fullname": "Wildbach, Styria, Deutschlandsberg, Austria", 
+        "sw_latitude": 46.836
+      }, 
+      "id": 550330
+    }
+  ]
+}

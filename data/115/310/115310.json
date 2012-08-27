@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.670, 
+              26.003
+            ], 
+            [
+              -99.670, 
+              26.021
+            ], 
+            [
+              -99.649, 
+              26.021
+            ], 
+            [
+              -99.649, 
+              26.003
+            ], 
+            [
+              -99.670, 
+              26.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.021, 
+        "name": "Cerralvo", 
+        "adjacent_woeid": [
+          124202, 
+          132200, 
+          133070, 
+          150364
+        ], 
+        "woeid": 115310, 
+        "alias_SPA_V": [
+          "Ciudad Cerralvo"
+        ], 
+        "ne_longitude": -99.649, 
+        "longitude": -99.660, 
+        "parent_woeid": 12600615, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.012, 
+        "sw_longitude": -99.670, 
+        "fullname": "Cerralvo, Nuevo Leon, Cerralvo, Mexico", 
+        "sw_latitude": 26.003
+      }, 
+      "id": 115310
+    }
+  ]
+}

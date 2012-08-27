@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.191, 
+              -28.974
+            ], 
+            [
+              -68.191, 
+              -28.960
+            ], 
+            [
+              -68.175, 
+              -28.960
+            ], 
+            [
+              -68.175, 
+              -28.974
+            ], 
+            [
+              -68.191, 
+              -28.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -28.960, 
+        "name": "El Condado", 
+        "adjacent_woeid": [
+          332642, 
+          332796, 
+          464542, 
+          466572, 
+          467274, 
+          467874, 
+          468893
+        ], 
+        "woeid": 468852, 
+        "alias_SPA_V": [
+          "Condado"
+        ], 
+        "ne_longitude": -68.175, 
+        "longitude": -68.183, 
+        "parent_woeid": 20070705, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -28.967, 
+        "sw_longitude": -68.191, 
+        "fullname": "El Condado, La Rioja, Gral Lamadrid, Argentina", 
+        "sw_latitude": -28.974
+      }, 
+      "id": 468852
+    }
+  ]
+}

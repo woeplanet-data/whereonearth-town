@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.360, 
+              19.841
+            ], 
+            [
+              -102.360, 
+              19.859
+            ], 
+            [
+              -102.340, 
+              19.859
+            ], 
+            [
+              -102.340, 
+              19.841
+            ], 
+            [
+              -102.360, 
+              19.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.859, 
+        "name": "Los Lobos", 
+        "adjacent_woeid": [
+          121122, 
+          126717, 
+          129676, 
+          138041, 
+          148064, 
+          148778
+        ], 
+        "woeid": 132074, 
+        "alias_SPA_V": [
+          "Lobos"
+        ], 
+        "ne_longitude": -102.340, 
+        "longitude": -102.350, 
+        "parent_woeid": 12600525, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.850, 
+        "sw_longitude": -102.360, 
+        "fullname": "Los Lobos, Michoacan de Ocampo, Tangancicuaro, Mexico", 
+        "sw_latitude": 19.841
+      }, 
+      "id": 132074
+    }
+  ]
+}

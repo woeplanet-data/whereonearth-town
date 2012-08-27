@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.123, 
+              19.419
+            ], 
+            [
+              -98.123, 
+              19.478
+            ], 
+            [
+              -98.077, 
+              19.478
+            ], 
+            [
+              -98.077, 
+              19.419
+            ], 
+            [
+              -98.123, 
+              19.419
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.478, 
+        "name": "Santiago Tetla", 
+        "adjacent_woeid": [
+          145073, 
+          146567, 
+          150320, 
+          24550710, 
+          55902491
+        ], 
+        "woeid": 147114, 
+        "alias_SPA_V": [
+          "Tetla"
+        ], 
+        "ne_longitude": -98.077, 
+        "longitude": -98.101, 
+        "parent_woeid": 12601706, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.448, 
+        "sw_longitude": -98.123, 
+        "fullname": "Santiago Tetla, Tlaxcala, Tetla de la Solidaridad, Mexico", 
+        "sw_latitude": 19.419
+      }, 
+      "id": 147114
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.277, 
+              25.324
+            ], 
+            [
+              -108.277, 
+              25.342
+            ], 
+            [
+              -108.257, 
+              25.342
+            ], 
+            [
+              -108.257, 
+              25.324
+            ], 
+            [
+              -108.277, 
+              25.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.342, 
+        "name": "El Llano", 
+        "adjacent_woeid": [
+          115030, 
+          126559, 
+          128556, 
+          128815, 
+          136999, 
+          141575, 
+          145285
+        ], 
+        "woeid": 120723, 
+        "alias_SPA_V": [
+          "Llano"
+        ], 
+        "ne_longitude": -108.257, 
+        "longitude": -108.267, 
+        "parent_woeid": 12601528, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.333, 
+        "sw_longitude": -108.277, 
+        "fullname": "El Llano, Sinaloa, Angostura, Mexico", 
+        "sw_latitude": 25.324
+      }, 
+      "id": 120723
+    }
+  ]
+}

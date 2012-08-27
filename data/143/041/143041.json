@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.326, 
+              19.358
+            ], 
+            [
+              -99.326, 
+              19.376
+            ], 
+            [
+              -99.307, 
+              19.376
+            ], 
+            [
+              -99.307, 
+              19.358
+            ], 
+            [
+              -99.326, 
+              19.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.376, 
+        "name": "San Jacinto", 
+        "adjacent_woeid": [
+          129550, 
+          22664527
+        ], 
+        "woeid": 143041, 
+        "alias_SPA_V": [
+          "S. Jacinto"
+        ], 
+        "ne_longitude": -99.307, 
+        "longitude": -99.324, 
+        "parent_woeid": 12600356, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.362, 
+        "sw_longitude": -99.326, 
+        "fullname": "San Jacinto, Mexico, Huixquilucan, Mexico", 
+        "sw_latitude": 19.358
+      }, 
+      "id": 143041
+    }
+  ]
+}

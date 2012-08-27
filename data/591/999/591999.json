@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.861, 
+              47.485
+            ], 
+            [
+              4.861, 
+              47.573
+            ], 
+            [
+              4.923, 
+              47.573
+            ], 
+            [
+              4.923, 
+              47.485
+            ], 
+            [
+              4.861, 
+              47.485
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591999, 
+        "name": "Fr\u00e9nois", 
+        "adjacent_woeid": [
+          587602, 
+          591879, 
+          601003, 
+          605203, 
+          611813, 
+          620756
+        ], 
+        "ne_latitude": 47.573, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.923, 
+        "longitude": 4.891, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12644172, 
+        "latitude": 47.531, 
+        "sw_longitude": 4.861, 
+        "fullname": "Fr\u00e9nois, Burgundy, Cote-d'Or, France", 
+        "alias_FRE_S": [
+          "Frenois"
+        ], 
+        "sw_latitude": 47.485
+      }, 
+      "id": 591999
+    }
+  ]
+}

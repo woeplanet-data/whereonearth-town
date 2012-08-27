@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.753, 
+              51.240
+            ], 
+            [
+              0.753, 
+              51.249
+            ], 
+            [
+              0.767, 
+              51.249
+            ], 
+            [
+              0.767, 
+              51.240
+            ], 
+            [
+              0.753, 
+              51.240
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 39207, 
+        "name": "Warren Street", 
+        "adjacent_woeid": [
+          15651, 
+          18265, 
+          26107, 
+          26108, 
+          31152, 
+          40390
+        ], 
+        "ne_latitude": 51.249, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.767, 
+        "longitude": 0.760, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:17:59Z", 
+        "parent_woeid": 12695990, 
+        "latitude": 51.245, 
+        "sw_longitude": 0.753, 
+        "fullname": "Warren Street, England, Kent, United Kingdom", 
+        "sw_latitude": 51.240
+      }, 
+      "id": 39207
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.093, 
+              20.141
+            ], 
+            [
+              -100.093, 
+              20.159
+            ], 
+            [
+              -100.074, 
+              20.159
+            ], 
+            [
+              -100.074, 
+              20.141
+            ], 
+            [
+              -100.093, 
+              20.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.159, 
+        "name": "San Pedro Tenango", 
+        "adjacent_woeid": [
+          129407, 
+          141968, 
+          143628, 
+          144691
+        ], 
+        "woeid": 145133, 
+        "alias_SPA_V": [
+          "S Pedro Tenango"
+        ], 
+        "ne_longitude": -100.074, 
+        "longitude": -100.083, 
+        "parent_woeid": 12601444, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.150, 
+        "sw_longitude": -100.093, 
+        "fullname": "San Pedro Tenango, Queretaro de Arteaga, Amealco de Bonfil, Mexico", 
+        "sw_latitude": 20.141
+      }, 
+      "id": 145133
+    }
+  ]
+}

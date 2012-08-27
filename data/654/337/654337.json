@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.256, 
+              48.847
+            ], 
+            [
+              10.256, 
+              48.881
+            ], 
+            [
+              10.284, 
+              48.881
+            ], 
+            [
+              10.284, 
+              48.847
+            ], 
+            [
+              10.256, 
+              48.847
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 654337, 
+        "name": "Gromberg", 
+        "adjacent_woeid": [
+          637873, 
+          664412, 
+          690106, 
+          697212
+        ], 
+        "ne_latitude": 48.881, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.284, 
+        "longitude": 10.267, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12624220, 
+        "latitude": 48.878, 
+        "sw_longitude": 10.256, 
+        "fullname": "Gromberg, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.847
+      }, 
+      "id": 654337
+    }
+  ]
+}

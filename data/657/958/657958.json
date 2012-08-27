@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.122, 
+              48.303
+            ], 
+            [
+              12.122, 
+              48.312
+            ], 
+            [
+              12.136, 
+              48.312
+            ], 
+            [
+              12.136, 
+              48.303
+            ], 
+            [
+              12.122, 
+              48.303
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657958, 
+        "name": "Haus", 
+        "adjacent_woeid": [
+          635177, 
+          646723, 
+          665708, 
+          680458, 
+          692603, 
+          20152527, 
+          20152529, 
+          20172816
+        ], 
+        "ne_latitude": 48.312, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.136, 
+        "longitude": 12.129, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12635141, 
+        "latitude": 48.308, 
+        "sw_longitude": 12.122, 
+        "fullname": "Haus, Bavaria, Landkreis Erding, Germany", 
+        "sw_latitude": 48.303
+      }, 
+      "id": 657958
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.424, 
+              14.716
+            ], 
+            [
+              -88.424, 
+              14.735
+            ], 
+            [
+              -88.406, 
+              14.735
+            ], 
+            [
+              -88.406, 
+              14.716
+            ], 
+            [
+              -88.424, 
+              14.716
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.735, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          100723, 
+          103005, 
+          103583, 
+          106781, 
+          107357
+        ], 
+        "woeid": 107150, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -88.406, 
+        "longitude": -88.415, 
+        "parent_woeid": 26813818, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.726, 
+        "sw_longitude": -88.424, 
+        "fullname": "San Rafael, Lempira, San Rafael, Honduras", 
+        "sw_latitude": 14.716
+      }, 
+      "id": 107150
+    }
+  ]
+}

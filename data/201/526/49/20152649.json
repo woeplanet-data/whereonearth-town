@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.082, 
+              48.404
+            ], 
+            [
+              12.082, 
+              48.422
+            ], 
+            [
+              12.110, 
+              48.422
+            ], 
+            [
+              12.110, 
+              48.404
+            ], 
+            [
+              12.082, 
+              48.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20152649, 
+        "name": "Froschbach", 
+        "adjacent_woeid": [
+          642570, 
+          663557, 
+          669186, 
+          693301
+        ], 
+        "ne_latitude": 48.422, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.110, 
+        "longitude": 12.096, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:29Z", 
+        "parent_woeid": 12635149, 
+        "latitude": 48.414, 
+        "sw_longitude": 12.082, 
+        "fullname": "Froschbach, Bavaria, Landkreis Erding, Germany", 
+        "sw_latitude": 48.404
+      }, 
+      "id": 20152649
+    }
+  ]
+}

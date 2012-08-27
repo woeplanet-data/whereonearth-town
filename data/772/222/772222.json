@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.204, 
+              41.215
+            ], 
+            [
+              1.204, 
+              41.230
+            ], 
+            [
+              1.233, 
+              41.230
+            ], 
+            [
+              1.233, 
+              41.215
+            ], 
+            [
+              1.204, 
+              41.215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.230, 
+        "name": "Rourell", 
+        "adjacent_woeid": [
+          751719, 
+          763658, 
+          767175, 
+          767809, 
+          776847, 
+          777396, 
+          20224148
+        ], 
+        "woeid": 772222, 
+        "alias_SPA_V": [
+          "Rourells"
+        ], 
+        "ne_longitude": 1.233, 
+        "longitude": 1.218, 
+        "parent_woeid": 12694271, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:24Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.224, 
+        "sw_longitude": 1.204, 
+        "fullname": "Rourell, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.215
+      }, 
+      "id": 772222
+    }
+  ]
+}

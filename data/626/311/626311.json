@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.764, 
+              45.662
+            ], 
+            [
+              5.764, 
+              45.692
+            ], 
+            [
+              5.801, 
+              45.692
+            ], 
+            [
+              5.801, 
+              45.662
+            ], 
+            [
+              5.764, 
+              45.662
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626311, 
+        "name": "St.-Paul", 
+        "adjacent_woeid": [
+          581158, 
+          597543, 
+          611390, 
+          624740, 
+          629048, 
+          20210731, 
+          29330020, 
+          29330029
+        ], 
+        "ne_latitude": 45.692, 
+        "ne_longitude": 5.801, 
+        "longitude": 5.783, 
+        "parent_woeid": 12665495, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Paul-sur-Yenne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.676, 
+        "sw_longitude": 5.764, 
+        "fullname": "St.-Paul, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.662
+      }, 
+      "id": 626311
+    }
+  ]
+}

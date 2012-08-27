@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.293, 
+              14.841
+            ], 
+            [
+              -92.293, 
+              14.859
+            ], 
+            [
+              -92.274, 
+              14.859
+            ], 
+            [
+              -92.274, 
+              14.841
+            ], 
+            [
+              -92.293, 
+              14.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.859, 
+        "name": "Las Palmas", 
+        "adjacent_woeid": [
+          113846, 
+          127822, 
+          132188, 
+          143642
+        ], 
+        "woeid": 130733, 
+        "alias_SPA_V": [
+          "Palmas"
+        ], 
+        "ne_longitude": -92.274, 
+        "longitude": -92.283, 
+        "parent_woeid": 12599798, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.850, 
+        "sw_longitude": -92.293, 
+        "fullname": "Las Palmas, Chiapas, Tapachula, Mexico", 
+        "sw_latitude": 14.841
+      }, 
+      "id": 130733
+    }
+  ]
+}

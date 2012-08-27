@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.275, 
+              47.527
+            ], 
+            [
+              10.275, 
+              47.547
+            ], 
+            [
+              10.298, 
+              47.547
+            ], 
+            [
+              10.298, 
+              47.527
+            ], 
+            [
+              10.275, 
+              47.527
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 642517, 
+        "name": "Burgberg", 
+        "adjacent_woeid": [
+          633475, 
+          639342, 
+          642017, 
+          658069, 
+          663457, 
+          683434, 
+          688115, 
+          688521, 
+          695551, 
+          699424, 
+          703192, 
+          706984, 
+          20157929
+        ], 
+        "alias_GER_S": [
+          "Burgberg I. Allgau"
+        ], 
+        "ne_latitude": 47.547, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.298, 
+        "longitude": 10.285, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12636067, 
+        "latitude": 47.538, 
+        "sw_longitude": 10.275, 
+        "fullname": "Burgberg, Bavaria, Oberallg\u00e4u, Germany", 
+        "alias_GER_V": [
+          "Burgberg im Allg\u00e4u"
+        ], 
+        "sw_latitude": 47.527
+      }, 
+      "id": 642517
+    }
+  ]
+}

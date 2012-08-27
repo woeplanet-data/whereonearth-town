@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.765, 
+              43.415
+            ], 
+            [
+              0.765, 
+              43.445
+            ], 
+            [
+              0.803, 
+              43.445
+            ], 
+            [
+              0.803, 
+              43.415
+            ], 
+            [
+              0.765, 
+              43.415
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628922, 
+        "name": "Tournan", 
+        "adjacent_woeid": [
+          580473, 
+          582607, 
+          611757, 
+          620542, 
+          29331982
+        ], 
+        "ne_latitude": 43.445, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.803, 
+        "longitude": 0.785, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12671763, 
+        "latitude": 43.432, 
+        "sw_longitude": 0.765, 
+        "fullname": "Tournan, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.415
+      }, 
+      "id": 628922
+    }
+  ]
+}

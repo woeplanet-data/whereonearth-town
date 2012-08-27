@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.043, 
+              15.425
+            ], 
+            [
+              -91.043, 
+              15.433
+            ], 
+            [
+              -91.035, 
+              15.433
+            ], 
+            [
+              -91.035, 
+              15.425
+            ], 
+            [
+              -91.043, 
+              15.425
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.433, 
+        "name": "San Juan Cotzal", 
+        "adjacent_woeid": [
+          81006, 
+          81505, 
+          82066, 
+          84587, 
+          86630
+        ], 
+        "woeid": 85733, 
+        "alias_SPA_V": [
+          "S Juan Cotzal"
+        ], 
+        "ne_longitude": -91.035, 
+        "longitude": -91.039, 
+        "parent_woeid": 26807099, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.429, 
+        "sw_longitude": -91.043, 
+        "fullname": "San Juan Cotzal, Quiche, San Juan Cotzal, Guatemala", 
+        "sw_latitude": 15.425
+      }, 
+      "id": 85733
+    }
+  ]
+}

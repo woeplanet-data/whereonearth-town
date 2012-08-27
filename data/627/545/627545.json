@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.649, 
+              49.136
+            ], 
+            [
+              3.649, 
+              49.155
+            ], 
+            [
+              3.683, 
+              49.155
+            ], 
+            [
+              3.683, 
+              49.136
+            ], 
+            [
+              3.649, 
+              49.136
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627545, 
+        "name": "Ste.-Gemme", 
+        "adjacent_woeid": [
+          584370, 
+          585984, 
+          593289, 
+          615786, 
+          619898, 
+          631985
+        ], 
+        "ne_latitude": 49.155, 
+        "ne_longitude": 3.683, 
+        "longitude": 3.672, 
+        "parent_woeid": 12671407, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Gemme"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.143, 
+        "sw_longitude": 3.649, 
+        "fullname": "Ste.-Gemme, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.136
+      }, 
+      "id": 627545
+    }
+  ]
+}

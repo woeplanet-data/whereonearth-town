@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.456, 
+              52.825
+            ], 
+            [
+              8.456, 
+              52.834
+            ], 
+            [
+              8.471, 
+              52.834
+            ], 
+            [
+              8.471, 
+              52.825
+            ], 
+            [
+              8.456, 
+              52.825
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651552, 
+        "name": "Garmhausen", 
+        "adjacent_woeid": [
+          633873, 
+          642322, 
+          643260, 
+          644138
+        ], 
+        "ne_latitude": 52.834, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.471, 
+        "longitude": 8.464, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12630001, 
+        "latitude": 52.830, 
+        "sw_longitude": 8.456, 
+        "fullname": "Garmhausen, Lower Saxony, Landkreis Oldenburg, Germany", 
+        "sw_latitude": 52.825
+      }, 
+      "id": 651552
+    }
+  ]
+}

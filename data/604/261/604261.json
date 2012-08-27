@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.309, 
+              48.441
+            ], 
+            [
+              3.309, 
+              48.474
+            ], 
+            [
+              3.345, 
+              48.474
+            ], 
+            [
+              3.345, 
+              48.441
+            ], 
+            [
+              3.309, 
+              48.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604261, 
+        "name": "Port-Montain", 
+        "adjacent_woeid": [
+          593828, 
+          594718, 
+          614695
+        ], 
+        "ne_latitude": 48.474, 
+        "ne_longitude": 3.345, 
+        "longitude": 3.331, 
+        "parent_woeid": 12647605, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Pt. Montain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.460, 
+        "sw_longitude": 3.309, 
+        "fullname": "Port-Montain, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.441
+      }, 
+      "id": 604261
+    }
+  ]
+}

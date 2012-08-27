@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.904, 
+              48.405
+            ], 
+            [
+              12.904, 
+              48.423
+            ], 
+            [
+              12.931, 
+              48.423
+            ], 
+            [
+              12.931, 
+              48.405
+            ], 
+            [
+              12.904, 
+              48.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29347920, 
+        "name": "Wald", 
+        "adjacent_woeid": [
+          633469, 
+          634644, 
+          653186, 
+          680589, 
+          691404, 
+          693323, 
+          29347924
+        ], 
+        "ne_latitude": 48.423, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.931, 
+        "longitude": 12.918, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:32Z", 
+        "parent_woeid": 12622984, 
+        "latitude": 48.414, 
+        "sw_longitude": 12.904, 
+        "fullname": "Wald, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.405
+      }, 
+      "id": 29347920
+    }
+  ]
+}

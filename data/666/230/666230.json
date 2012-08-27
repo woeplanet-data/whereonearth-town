@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.745, 
+              48.688
+            ], 
+            [
+              12.745, 
+              48.718
+            ], 
+            [
+              12.778, 
+              48.718
+            ], 
+            [
+              12.778, 
+              48.688
+            ], 
+            [
+              12.745, 
+              48.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666230, 
+        "name": "Kleegarten", 
+        "adjacent_woeid": [
+          668429, 
+          676137, 
+          685517, 
+          705835, 
+          708599, 
+          20172546, 
+          20172549
+        ], 
+        "ne_latitude": 48.718, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.778, 
+        "longitude": 12.764, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635796, 
+        "latitude": 48.697, 
+        "sw_longitude": 12.745, 
+        "fullname": "Kleegarten, Bavaria, Dingolfing-Landau, Germany", 
+        "sw_latitude": 48.688
+      }, 
+      "id": 666230
+    }
+  ]
+}

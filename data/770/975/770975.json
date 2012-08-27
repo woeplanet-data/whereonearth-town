@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.148, 
+              39.466
+            ], 
+            [
+              -5.148, 
+              39.555
+            ], 
+            [
+              -5.015, 
+              39.555
+            ], 
+            [
+              -5.015, 
+              39.466
+            ], 
+            [
+              -5.148, 
+              39.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.555, 
+        "name": "Puerto de San Vicente", 
+        "adjacent_woeid": [
+          752098, 
+          759083, 
+          763110, 
+          767334, 
+          770990
+        ], 
+        "woeid": 770975, 
+        "alias_SPA_V": [
+          "Pto. de San Vicente"
+        ], 
+        "ne_longitude": -5.015, 
+        "longitude": -5.116, 
+        "parent_woeid": 12691060, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:17Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.523, 
+        "sw_longitude": -5.148, 
+        "fullname": "Puerto de San Vicente, Castille la Mancha, Toledo, Spain", 
+        "sw_latitude": 39.466
+      }, 
+      "id": 770975
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.123, 
+              25.588
+            ], 
+            [
+              -100.123, 
+              25.592
+            ], 
+            [
+              -100.110, 
+              25.592
+            ], 
+            [
+              -100.110, 
+              25.588
+            ], 
+            [
+              -100.123, 
+              25.588
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 55909973, 
+        "name": "San Jose", 
+        "adjacent_woeid": [
+          116573
+        ], 
+        "ne_latitude": 25.592, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -100.110, 
+        "longitude": -100.117, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:48Z", 
+        "parent_woeid": 12600634, 
+        "latitude": 25.591, 
+        "sw_longitude": -100.123, 
+        "fullname": "San Jose, Nuevo Leon, Juarez, Mexico", 
+        "sw_latitude": 25.588
+      }, 
+      "id": 55909973
+    }
+  ]
+}

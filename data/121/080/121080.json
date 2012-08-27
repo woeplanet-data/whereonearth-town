@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.026, 
+              17.708
+            ], 
+            [
+              -100.026, 
+              17.726
+            ], 
+            [
+              -100.007, 
+              17.726
+            ], 
+            [
+              -100.007, 
+              17.708
+            ], 
+            [
+              -100.026, 
+              17.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.726, 
+        "name": "El Naranjo", 
+        "adjacent_woeid": [
+          114478, 
+          115692, 
+          125070, 
+          125153, 
+          131740, 
+          134398, 
+          149546
+        ], 
+        "woeid": 121080, 
+        "alias_SPA_V": [
+          "Naranjo"
+        ], 
+        "ne_longitude": -100.007, 
+        "longitude": -100.017, 
+        "parent_woeid": 12600067, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.717, 
+        "sw_longitude": -100.026, 
+        "fullname": "El Naranjo, Guerrero, General Heliodoro Castillo, Mexico", 
+        "sw_latitude": 17.708
+      }, 
+      "id": 121080
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.503, 
+              42.241
+            ], 
+            [
+              0.503, 
+              42.259
+            ], 
+            [
+              0.527, 
+              42.259
+            ], 
+            [
+              0.527, 
+              42.241
+            ], 
+            [
+              0.503, 
+              42.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 29369511, 
+        "name": "La Mazana", 
+        "adjacent_woeid": [
+          756842, 
+          772104, 
+          20224952, 
+          29370131
+        ], 
+        "ne_latitude": 42.259, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.527, 
+        "longitude": 0.515, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:39Z", 
+        "parent_woeid": 12689500, 
+        "latitude": 42.250, 
+        "sw_longitude": 0.503, 
+        "fullname": "La Mazana, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.241
+      }, 
+      "id": 29369511
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.018, 
+              46.824
+            ], 
+            [
+              2.018, 
+              46.883
+            ], 
+            [
+              2.038, 
+              46.883
+            ], 
+            [
+              2.038, 
+              46.824
+            ], 
+            [
+              2.018, 
+              46.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623061, 
+        "name": "St.-Aubin", 
+        "adjacent_woeid": [
+          585792, 
+          585949, 
+          586741, 
+          618203, 
+          621595, 
+          15002975, 
+          29332417
+        ], 
+        "ne_latitude": 46.883, 
+        "ne_longitude": 2.038, 
+        "longitude": 2.024, 
+        "parent_woeid": 12637951, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aubin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.852, 
+        "sw_longitude": 2.018, 
+        "fullname": "St.-Aubin, Centre, Indre, France", 
+        "sw_latitude": 46.824
+      }, 
+      "id": 623061
+    }
+  ]
+}

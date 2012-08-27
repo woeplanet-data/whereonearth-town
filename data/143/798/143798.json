@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.163, 
+              14.677
+            ], 
+            [
+              -92.163, 
+              14.695
+            ], 
+            [
+              -92.144, 
+              14.695
+            ], 
+            [
+              -92.144, 
+              14.677
+            ], 
+            [
+              -92.163, 
+              14.677
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.695, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          116823, 
+          125357, 
+          128042, 
+          133596, 
+          55892018
+        ], 
+        "woeid": 143798, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -92.144, 
+        "longitude": -92.153, 
+        "parent_woeid": 12599796, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.686, 
+        "sw_longitude": -92.163, 
+        "fullname": "San Juan, Chiapas, Suchiate, Mexico", 
+        "sw_latitude": 14.677
+      }, 
+      "id": 143798
+    }
+  ]
+}

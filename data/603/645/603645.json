@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.732, 
+              49.346
+            ], 
+            [
+              2.732, 
+              49.381
+            ], 
+            [
+              2.765, 
+              49.381
+            ], 
+            [
+              2.765, 
+              49.346
+            ], 
+            [
+              2.732, 
+              49.346
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603645, 
+        "name": "Le Meux", 
+        "adjacent_woeid": [
+          576628, 
+          595579, 
+          619561, 
+          20218515
+        ], 
+        "ne_latitude": 49.381, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.765, 
+        "longitude": 2.751, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "parent_woeid": 22756650, 
+        "latitude": 49.361, 
+        "sw_longitude": 2.732, 
+        "fullname": "Le Meux, Picardie, Oise, France", 
+        "sw_latitude": 49.346
+      }, 
+      "id": 603645
+    }
+  ]
+}

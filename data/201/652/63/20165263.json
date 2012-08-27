@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.759, 
+              54.172
+            ], 
+            [
+              10.759, 
+              54.201
+            ], 
+            [
+              10.783, 
+              54.201
+            ], 
+            [
+              10.783, 
+              54.172
+            ], 
+            [
+              10.759, 
+              54.172
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20165263, 
+        "name": "Neu-Petersdorf", 
+        "adjacent_woeid": [
+          656832, 
+          20165138, 
+          20165261
+        ], 
+        "ne_latitude": 54.201, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.783, 
+        "longitude": 10.766, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12632317, 
+        "latitude": 54.186, 
+        "sw_longitude": 10.759, 
+        "fullname": "Neu-Petersdorf, Schleswig-Holstein, Ostholstein, Germany", 
+        "sw_latitude": 54.172
+      }, 
+      "id": 20165263
+    }
+  ]
+}

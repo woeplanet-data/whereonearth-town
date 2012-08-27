@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.499, 
+              25.181
+            ], 
+            [
+              -100.499, 
+              25.199
+            ], 
+            [
+              -100.479, 
+              25.199
+            ], 
+            [
+              -100.479, 
+              25.181
+            ], 
+            [
+              -100.499, 
+              25.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.199, 
+        "name": "La Esmeralda", 
+        "adjacent_woeid": [
+          116513, 
+          119616, 
+          123476, 
+          126911, 
+          133365, 
+          143503, 
+          145730
+        ], 
+        "woeid": 127282, 
+        "alias_SPA_V": [
+          "Esmeralda"
+        ], 
+        "ne_longitude": -100.479, 
+        "longitude": -100.489, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.190, 
+        "sw_longitude": -100.499, 
+        "fullname": "La Esmeralda, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 25.181
+      }, 
+      "id": 127282
+    }
+  ]
+}

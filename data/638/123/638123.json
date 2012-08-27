@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.019, 
+              48.468
+            ], 
+            [
+              12.019, 
+              48.492
+            ], 
+            [
+              12.042, 
+              48.492
+            ], 
+            [
+              12.042, 
+              48.468
+            ], 
+            [
+              12.019, 
+              48.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638123, 
+        "name": "Berghofen", 
+        "adjacent_woeid": [
+          657934, 
+          669084, 
+          705068, 
+          29347855
+        ], 
+        "ne_latitude": 48.492, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.042, 
+        "longitude": 12.033, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12622905, 
+        "latitude": 48.484, 
+        "sw_longitude": 12.019, 
+        "fullname": "Berghofen, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.468
+      }, 
+      "id": 638123
+    }
+  ]
+}

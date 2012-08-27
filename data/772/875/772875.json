@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.463, 
+              42.496
+            ], 
+            [
+              -8.463, 
+              42.516
+            ], 
+            [
+              -8.412, 
+              42.516
+            ], 
+            [
+              -8.412, 
+              42.496
+            ], 
+            [
+              -8.463, 
+              42.496
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.516, 
+        "name": "San Gregorio", 
+        "adjacent_woeid": [
+          767831, 
+          20220361, 
+          20221810, 
+          20227686, 
+          29371599, 
+          29371661, 
+          29371665, 
+          29371672, 
+          29372628
+        ], 
+        "woeid": 772875, 
+        "alias_SPA_V": [
+          "S. Gregorio"
+        ], 
+        "ne_longitude": -8.412, 
+        "longitude": -8.433, 
+        "parent_woeid": 12694967, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.500, 
+        "sw_longitude": -8.463, 
+        "fullname": "San Gregorio, Galicia, Pontevedra, Spain", 
+        "sw_latitude": 42.496
+      }, 
+      "id": 772875
+    }
+  ]
+}

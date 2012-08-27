@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.671, 
+              49.018
+            ], 
+            [
+              2.671, 
+              49.054
+            ], 
+            [
+              2.724, 
+              49.054
+            ], 
+            [
+              2.724, 
+              49.018
+            ], 
+            [
+              2.671, 
+              49.018
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625470, 
+        "name": "St.-Mard", 
+        "adjacent_woeid": [
+          595725, 
+          609824, 
+          620281, 
+          628471, 
+          20218887
+        ], 
+        "ne_latitude": 49.054, 
+        "ne_longitude": 2.724, 
+        "longitude": 2.695, 
+        "parent_woeid": 12652841, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.037, 
+        "sw_longitude": 2.671, 
+        "fullname": "St.-Mard, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 49.018
+      }, 
+      "id": 625470
+    }
+  ]
+}

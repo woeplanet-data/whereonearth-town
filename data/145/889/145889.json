@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.476, 
+              16.108
+            ], 
+            [
+              -95.476, 
+              16.126
+            ], 
+            [
+              -95.457, 
+              16.126
+            ], 
+            [
+              -95.457, 
+              16.108
+            ], 
+            [
+              -95.476, 
+              16.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.126, 
+        "name": "Santa Clara", 
+        "adjacent_woeid": [
+          132746, 
+          134150, 
+          141746, 
+          144684, 
+          145082, 
+          146211, 
+          147049, 
+          148732
+        ], 
+        "woeid": 145889, 
+        "alias_SPA_V": [
+          "Sta Clara"
+        ], 
+        "ne_longitude": -95.457, 
+        "longitude": -95.467, 
+        "parent_woeid": 12601174, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.117, 
+        "sw_longitude": -95.476, 
+        "fullname": "Santa Clara, Oaxaca, Santo Domingo Tehuantepec, Mexico", 
+        "sw_latitude": 16.108
+      }, 
+      "id": 145889
+    }
+  ]
+}

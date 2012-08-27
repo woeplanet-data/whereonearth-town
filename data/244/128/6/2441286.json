@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.097, 
+              43.631
+            ], 
+            [
+              -123.097, 
+              43.640
+            ], 
+            [
+              -123.085, 
+              43.640
+            ], 
+            [
+              -123.085, 
+              43.631
+            ], 
+            [
+              -123.097, 
+              43.631
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2441286, 
+        "name": "London", 
+        "adjacent_woeid": [
+          2398470, 
+          2408680, 
+          2418943, 
+          2441306, 
+          2451948, 
+          2479248, 
+          2498707, 
+          2511506
+        ], 
+        "ne_latitude": 43.640, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.085, 
+        "longitude": -123.091, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:28:19Z", 
+        "parent_woeid": 12589711, 
+        "latitude": 43.636, 
+        "sw_longitude": -123.097, 
+        "fullname": "London, Oregon, Lane, United States", 
+        "sw_latitude": 43.631
+      }, 
+      "id": 2441286
+    }
+  ]
+}

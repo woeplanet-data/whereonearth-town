@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -7.001, 
+              42.678
+            ], 
+            [
+              -7.001, 
+              42.687
+            ], 
+            [
+              -6.989, 
+              42.687
+            ], 
+            [
+              -6.989, 
+              42.678
+            ], 
+            [
+              -7.001, 
+              42.678
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.687, 
+        "name": "San Tirso", 
+        "adjacent_woeid": [
+          753752, 
+          763377, 
+          764716, 
+          765234, 
+          20227973
+        ], 
+        "woeid": 773434, 
+        "alias_SPA_V": [
+          "S Tirso"
+        ], 
+        "ne_longitude": -6.989, 
+        "longitude": -6.995, 
+        "parent_woeid": 12691927, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.683, 
+        "sw_longitude": -7.001, 
+        "fullname": "San Tirso, Castille and Leon, Leon, Spain", 
+        "sw_latitude": 42.678
+      }, 
+      "id": 773434
+    }
+  ]
+}

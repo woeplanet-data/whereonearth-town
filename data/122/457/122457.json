@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.243, 
+              22.524
+            ], 
+            [
+              -100.243, 
+              22.542
+            ], 
+            [
+              -100.223, 
+              22.542
+            ], 
+            [
+              -100.223, 
+              22.524
+            ], 
+            [
+              -100.243, 
+              22.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.542, 
+        "name": "El Sauz", 
+        "adjacent_woeid": [
+          113766, 
+          115351, 
+          118146, 
+          120347, 
+          138019, 
+          144965
+        ], 
+        "woeid": 122457, 
+        "alias_SPA_V": [
+          "Sauza"
+        ], 
+        "ne_longitude": -100.223, 
+        "longitude": -100.233, 
+        "parent_woeid": 12601477, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.533, 
+        "sw_longitude": -100.243, 
+        "fullname": "El Sauz, San Luis Potosi, Cerritos, Mexico", 
+        "sw_latitude": 22.524
+      }, 
+      "id": 122457
+    }
+  ]
+}

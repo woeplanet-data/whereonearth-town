@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.557, 
+              9.743
+            ], 
+            [
+              -64.557, 
+              9.757
+            ], 
+            [
+              -64.543, 
+              9.757
+            ], 
+            [
+              -64.543, 
+              9.743
+            ], 
+            [
+              -64.557, 
+              9.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.757, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          394392, 
+          395458, 
+          395460, 
+          395468, 
+          395563, 
+          395570, 
+          468388, 
+          468402, 
+          468487, 
+          468670
+        ], 
+        "woeid": 468350, 
+        "alias_SPA_V": [
+          "S Mateo"
+        ], 
+        "ne_longitude": -64.543, 
+        "longitude": -64.550, 
+        "parent_woeid": 26805720, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.750, 
+        "sw_longitude": -64.557, 
+        "fullname": "San Mateo, Anzoategui, Libertad, Venezuela", 
+        "sw_latitude": 9.743
+      }, 
+      "id": 468350
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.707, 
+              16.993
+            ], 
+            [
+              -89.707, 
+              17.007
+            ], 
+            [
+              -89.693, 
+              17.007
+            ], 
+            [
+              -89.693, 
+              16.993
+            ], 
+            [
+              -89.707, 
+              16.993
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.007, 
+        "name": "El Remate", 
+        "adjacent_woeid": [
+          83054, 
+          84383, 
+          84966, 
+          85669, 
+          86457, 
+          22722701, 
+          22722704
+        ], 
+        "woeid": 82767, 
+        "alias_SPA_V": [
+          "Remate"
+        ], 
+        "ne_longitude": -89.693, 
+        "longitude": -89.700, 
+        "parent_woeid": 26807062, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.000, 
+        "sw_longitude": -89.707, 
+        "fullname": "El Remate, Peten, Flores, Guatemala", 
+        "sw_latitude": 16.993
+      }, 
+      "id": 82767
+    }
+  ]
+}

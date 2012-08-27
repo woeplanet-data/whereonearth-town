@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.935, 
+              42.606
+            ], 
+            [
+              -3.935, 
+              42.615
+            ], 
+            [
+              -3.923, 
+              42.615
+            ], 
+            [
+              -3.923, 
+              42.606
+            ], 
+            [
+              -3.935, 
+              42.606
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.615, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          761017, 
+          773652
+        ], 
+        "woeid": 773162, 
+        "alias_SPA_V": [
+          "S Miguel"
+        ], 
+        "ne_longitude": -3.923, 
+        "longitude": -3.927, 
+        "parent_woeid": 12691703, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.614, 
+        "sw_longitude": -3.935, 
+        "fullname": "San Miguel, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.606
+      }, 
+      "id": 773162
+    }
+  ]
+}

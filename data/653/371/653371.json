@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.379, 
+              50.649
+            ], 
+            [
+              11.379, 
+              50.660
+            ], 
+            [
+              11.406, 
+              50.660
+            ], 
+            [
+              11.406, 
+              50.649
+            ], 
+            [
+              11.379, 
+              50.649
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 653371, 
+        "name": "Gorndorf", 
+        "adjacent_woeid": [
+          681928, 
+          688966, 
+          698723, 
+          700851
+        ], 
+        "ne_latitude": 50.660, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.406, 
+        "longitude": 11.387, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12625301, 
+        "latitude": 50.655, 
+        "sw_longitude": 11.379, 
+        "fullname": "Gorndorf, Thuringia, Saalfeld-Rudolstadt, Germany", 
+        "sw_latitude": 50.649
+      }, 
+      "id": 653371
+    }
+  ]
+}

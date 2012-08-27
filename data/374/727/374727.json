@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.971, 
+              0.545
+            ], 
+            [
+              -79.971, 
+              0.555
+            ], 
+            [
+              -79.962, 
+              0.555
+            ], 
+            [
+              -79.962, 
+              0.545
+            ], 
+            [
+              -79.971, 
+              0.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.555, 
+        "name": "San Gregorio", 
+        "adjacent_woeid": [
+          370450, 
+          370499, 
+          373235, 
+          374586, 
+          375875, 
+          375946, 
+          376023
+        ], 
+        "woeid": 374727, 
+        "alias_SPA_V": [
+          "S. Gregorio"
+        ], 
+        "ne_longitude": -79.962, 
+        "longitude": -79.967, 
+        "parent_woeid": 26810417, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.550, 
+        "sw_longitude": -79.971, 
+        "fullname": "San Gregorio, Esmeraldas, Muisne, Ecuador", 
+        "sw_latitude": 0.545
+      }, 
+      "id": 374727
+    }
+  ]
+}

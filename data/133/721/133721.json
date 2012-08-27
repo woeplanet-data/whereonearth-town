@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.427, 
+              23.991
+            ], 
+            [
+              -104.427, 
+              24.009
+            ], 
+            [
+              -104.407, 
+              24.009
+            ], 
+            [
+              -104.407, 
+              23.991
+            ], 
+            [
+              -104.427, 
+              23.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.009, 
+        "name": "Minerva", 
+        "adjacent_woeid": [
+          113324, 
+          113489, 
+          119096, 
+          123755, 
+          124790, 
+          127794, 
+          143734
+        ], 
+        "woeid": 133721, 
+        "alias_SPA_V": [
+          "Colonia Minerva"
+        ], 
+        "ne_longitude": -104.407, 
+        "longitude": -104.417, 
+        "parent_woeid": 12599954, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.000, 
+        "sw_longitude": -104.427, 
+        "fullname": "Minerva, Durango, Durango, Mexico", 
+        "sw_latitude": 23.991
+      }, 
+      "id": 133721
+    }
+  ]
+}

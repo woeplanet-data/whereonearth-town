@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.376, 
+              53.035
+            ], 
+            [
+              10.376, 
+              53.044
+            ], 
+            [
+              10.391, 
+              53.044
+            ], 
+            [
+              10.391, 
+              53.035
+            ], 
+            [
+              10.376, 
+              53.035
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 698757, 
+        "name": "Teendorf", 
+        "adjacent_woeid": [
+          633951, 
+          634410, 
+          640792, 
+          698655
+        ], 
+        "ne_latitude": 53.044, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.391, 
+        "longitude": 10.384, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:28Z", 
+        "parent_woeid": 12629783, 
+        "latitude": 53.039, 
+        "sw_longitude": 10.376, 
+        "fullname": "Teendorf, Lower Saxony, Landkreis Uelzen, Germany", 
+        "sw_latitude": 53.035
+      }, 
+      "id": 698757
+    }
+  ]
+}

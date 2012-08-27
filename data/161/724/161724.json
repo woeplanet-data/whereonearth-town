@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.123, 
+              18.347
+            ], 
+            [
+              -66.123, 
+              18.360
+            ], 
+            [
+              -66.110, 
+              18.360
+            ], 
+            [
+              -66.110, 
+              18.347
+            ], 
+            [
+              -66.123, 
+              18.347
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.360, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          160700, 
+          161496, 
+          55869946, 
+          55869948, 
+          55869949, 
+          55869950, 
+          55869957, 
+          55869959, 
+          55869967, 
+          55869968, 
+          55869971, 
+          55869972, 
+          55869976, 
+          55869977
+        ], 
+        "woeid": 161724, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -66.110, 
+        "longitude": -66.117, 
+        "parent_woeid": 26806314, 
+        "placetype": "Town", 
+        "iso": "PR", 
+        "date_indexed": "2010-12-02T17:42:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.353, 
+        "sw_longitude": -66.123, 
+        "fullname": "Santa Rosa, Guaynabo, Santa Rosa, Puerto Rico", 
+        "sw_latitude": 18.347
+      }, 
+      "id": 161724
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.556, 
+              24.287
+            ], 
+            [
+              -103.556, 
+              24.305
+            ], 
+            [
+              -103.536, 
+              24.305
+            ], 
+            [
+              -103.536, 
+              24.287
+            ], 
+            [
+              -103.556, 
+              24.287
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.305, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          133597, 
+          135462, 
+          141805, 
+          141819, 
+          150606
+        ], 
+        "woeid": 144313, 
+        "alias_SPA_V": [
+          "S Marcos"
+        ], 
+        "ne_longitude": -103.536, 
+        "longitude": -103.546, 
+        "parent_woeid": 12599981, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.296, 
+        "sw_longitude": -103.556, 
+        "fullname": "San Marcos, Durango, Santa Clara, Mexico", 
+        "sw_latitude": 24.287
+      }, 
+      "id": 144313
+    }
+  ]
+}

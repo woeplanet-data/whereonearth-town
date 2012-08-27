@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.377, 
+              42.798
+            ], 
+            [
+              -4.377, 
+              42.808
+            ], 
+            [
+              -4.365, 
+              42.808
+            ], 
+            [
+              -4.365, 
+              42.798
+            ], 
+            [
+              -4.377, 
+              42.798
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.808, 
+        "name": "Barrio de San Pedro", 
+        "adjacent_woeid": [
+          753891, 
+          758433, 
+          760645, 
+          766818, 
+          769938
+        ], 
+        "woeid": 753890, 
+        "alias_SPA_V": [
+          "Barrio de S Pedro"
+        ], 
+        "ne_longitude": -4.365, 
+        "longitude": -4.371, 
+        "parent_woeid": 12691961, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.803, 
+        "sw_longitude": -4.377, 
+        "fullname": "Barrio de San Pedro, Castille and Leon, Palencia, Spain", 
+        "sw_latitude": 42.798
+      }, 
+      "id": 753890
+    }
+  ]
+}

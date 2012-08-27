@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.711, 
+              45.723
+            ], 
+            [
+              3.711, 
+              45.762
+            ], 
+            [
+              3.735, 
+              45.762
+            ], 
+            [
+              3.735, 
+              45.723
+            ], 
+            [
+              3.711, 
+              45.723
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599616, 
+        "name": "La Renaudie", 
+        "adjacent_woeid": [
+          597357, 
+          602349, 
+          614935, 
+          632595
+        ], 
+        "ne_latitude": 45.762, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.735, 
+        "longitude": 3.721, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12646567, 
+        "latitude": 45.735, 
+        "sw_longitude": 3.711, 
+        "fullname": "La Renaudie, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.723
+      }, 
+      "id": 599616
+    }
+  ]
+}

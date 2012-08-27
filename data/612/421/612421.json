@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.965, 
+              45.713
+            ], 
+            [
+              5.965, 
+              45.732
+            ], 
+            [
+              5.995, 
+              45.732
+            ], 
+            [
+              5.995, 
+              45.713
+            ], 
+            [
+              5.965, 
+              45.713
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612421, 
+        "name": "Montcel", 
+        "adjacent_woeid": [
+          593744, 
+          618263, 
+          626112, 
+          626113, 
+          629345, 
+          20210690, 
+          20210740
+        ], 
+        "ne_latitude": 45.732, 
+        "ne_longitude": 5.995, 
+        "longitude": 5.983, 
+        "parent_woeid": 12663481, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Montcel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.722, 
+        "sw_longitude": 5.965, 
+        "fullname": "Montcel, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.713
+      }, 
+      "id": 612421
+    }
+  ]
+}

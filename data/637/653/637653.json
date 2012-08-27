@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.994, 
+              53.269
+            ], 
+            [
+              12.994, 
+              53.311
+            ], 
+            [
+              13.042, 
+              53.311
+            ], 
+            [
+              13.042, 
+              53.269
+            ], 
+            [
+              12.994, 
+              53.269
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637653, 
+        "name": "Below", 
+        "adjacent_woeid": [
+          633593, 
+          654652, 
+          666553, 
+          703042
+        ], 
+        "ne_latitude": 53.311, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.042, 
+        "longitude": 13.017, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12636282, 
+        "latitude": 53.299, 
+        "sw_longitude": 12.994, 
+        "fullname": "Below, Mecklenburg-Vorpommern, Mecklenburg-Strelitz, Germany", 
+        "sw_latitude": 53.269
+      }, 
+      "id": 637653
+    }
+  ]
+}

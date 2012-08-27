@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.845, 
+              45.075
+            ], 
+            [
+              4.845, 
+              45.127
+            ], 
+            [
+              4.883, 
+              45.127
+            ], 
+            [
+              4.883, 
+              45.075
+            ], 
+            [
+              4.845, 
+              45.075
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601513, 
+        "name": "Larnage", 
+        "adjacent_woeid": [
+          584486, 
+          588079, 
+          589909, 
+          611069
+        ], 
+        "ne_latitude": 45.127, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.883, 
+        "longitude": 4.862, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 12664501, 
+        "latitude": 45.098, 
+        "sw_longitude": 4.845, 
+        "fullname": "Larnage, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 45.075
+      }, 
+      "id": 601513
+    }
+  ]
+}

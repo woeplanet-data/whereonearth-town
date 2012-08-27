@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.039, 
+              44.225
+            ], 
+            [
+              1.039, 
+              44.240
+            ], 
+            [
+              1.081, 
+              44.240
+            ], 
+            [
+              1.081, 
+              44.225
+            ], 
+            [
+              1.039, 
+              44.225
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611600, 
+        "name": "Miramont-de-Quercy", 
+        "adjacent_woeid": [
+          590629, 
+          612220, 
+          612345, 
+          626054, 
+          628852, 
+          20194853
+        ], 
+        "ne_latitude": 44.240, 
+        "ne_longitude": 1.081, 
+        "longitude": 1.065, 
+        "parent_woeid": 12666720, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Miramont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.231, 
+        "sw_longitude": 1.039, 
+        "fullname": "Miramont-de-Quercy, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 44.225
+      }, 
+      "id": 611600
+    }
+  ]
+}

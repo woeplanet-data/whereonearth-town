@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.255, 
+              50.678
+            ], 
+            [
+              3.255, 
+              50.697
+            ], 
+            [
+              3.285, 
+              50.697
+            ], 
+            [
+              3.285, 
+              50.678
+            ], 
+            [
+              3.255, 
+              50.678
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 973208, 
+        "name": "Leers-Nord", 
+        "adjacent_woeid": [
+          969459, 
+          969491, 
+          974737, 
+          977239
+        ], 
+        "ne_latitude": 50.697, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.285, 
+        "longitude": 3.270, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:11Z", 
+        "parent_woeid": 12602526, 
+        "latitude": 50.688, 
+        "sw_longitude": 3.255, 
+        "fullname": "Leers-Nord, Hainault, Tournai, Belgium", 
+        "sw_latitude": 50.678
+      }, 
+      "id": 973208
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.208, 
+              24.876
+            ], 
+            [
+              -98.208, 
+              24.890
+            ], 
+            [
+              -98.192, 
+              24.890
+            ], 
+            [
+              -98.192, 
+              24.876
+            ], 
+            [
+              -98.208, 
+              24.876
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.890, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          112109, 
+          120346, 
+          142411, 
+          142475, 
+          145213
+        ], 
+        "woeid": 142908, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -98.192, 
+        "longitude": -98.200, 
+        "parent_woeid": 12601666, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.883, 
+        "sw_longitude": -98.208, 
+        "fullname": "San Isidro, Tamaulipas, San Fernando, Mexico", 
+        "sw_latitude": 24.876
+      }, 
+      "id": 142908
+    }
+  ]
+}

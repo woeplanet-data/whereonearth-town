@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.461, 
+              48.220
+            ], 
+            [
+              -2.461, 
+              48.252
+            ], 
+            [
+              -2.429, 
+              48.252
+            ], 
+            [
+              -2.429, 
+              48.220
+            ], 
+            [
+              -2.461, 
+              48.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627315, 
+        "name": "St.-Vran", 
+        "adjacent_woeid": [
+          601258, 
+          601734, 
+          611122, 
+          624441, 
+          624676
+        ], 
+        "ne_latitude": 48.252, 
+        "ne_longitude": -2.429, 
+        "longitude": -2.442, 
+        "parent_woeid": 12647185, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vran"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.237, 
+        "sw_longitude": -2.461, 
+        "fullname": "St.-Vran, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.220
+      }, 
+      "id": 627315
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.587, 
+              25.260
+            ], 
+            [
+              -104.587, 
+              25.278
+            ], 
+            [
+              -104.567, 
+              25.278
+            ], 
+            [
+              -104.567, 
+              25.260
+            ], 
+            [
+              -104.587, 
+              25.260
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.278, 
+        "name": "Santa Barbara", 
+        "adjacent_woeid": [
+          110911, 
+          113573, 
+          124857, 
+          135068, 
+          144950, 
+          149274
+        ], 
+        "woeid": 145783, 
+        "alias_SPA_V": [
+          "Sta Barbara"
+        ], 
+        "ne_longitude": -104.567, 
+        "longitude": -104.577, 
+        "parent_woeid": 12599974, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.269, 
+        "sw_longitude": -104.587, 
+        "fullname": "Santa Barbara, Durango, Rodeo, Mexico", 
+        "sw_latitude": 25.260
+      }, 
+      "id": 145783
+    }
+  ]
+}

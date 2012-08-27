@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.704, 
+              47.505
+            ], 
+            [
+              10.704, 
+              47.523
+            ], 
+            [
+              10.731, 
+              47.523
+            ], 
+            [
+              10.731, 
+              47.505
+            ], 
+            [
+              10.704, 
+              47.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551060, 
+        "name": "Pflach", 
+        "adjacent_woeid": [
+          551010, 
+          551022, 
+          551332, 
+          20096501, 
+          28995723, 
+          28995725
+        ], 
+        "ne_latitude": 47.523, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.731, 
+        "longitude": 10.718, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675546, 
+        "latitude": 47.513, 
+        "sw_longitude": 10.704, 
+        "fullname": "Pflach, Tyrol, Reutte, Austria", 
+        "sw_latitude": 47.505
+      }, 
+      "id": 551060
+    }
+  ]
+}

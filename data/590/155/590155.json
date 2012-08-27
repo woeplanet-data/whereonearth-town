@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.911, 
+              44.909
+            ], 
+            [
+              1.911, 
+              44.923
+            ], 
+            [
+              1.940, 
+              44.923
+            ], 
+            [
+              1.940, 
+              44.909
+            ], 
+            [
+              1.911, 
+              44.909
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590155, 
+        "name": "Estal", 
+        "adjacent_woeid": [
+          587028, 
+          592306, 
+          601791, 
+          628313
+        ], 
+        "ne_latitude": 44.923, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.940, 
+        "longitude": 1.923, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12661058, 
+        "latitude": 44.918, 
+        "sw_longitude": 1.911, 
+        "fullname": "Estal, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.909
+      }, 
+      "id": 590155
+    }
+  ]
+}

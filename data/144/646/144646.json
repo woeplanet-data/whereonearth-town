@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.743, 
+              16.208
+            ], 
+            [
+              -95.743, 
+              16.226
+            ], 
+            [
+              -95.724, 
+              16.226
+            ], 
+            [
+              -95.724, 
+              16.208
+            ], 
+            [
+              -95.743, 
+              16.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.226, 
+        "name": "San Miguel Ecatepec", 
+        "adjacent_woeid": [
+          112558, 
+          119980, 
+          131177, 
+          143444, 
+          144684, 
+          145082, 
+          146512
+        ], 
+        "woeid": 144646, 
+        "alias_SPA_V": [
+          "S. Miguel Ecatepec"
+        ], 
+        "ne_longitude": -95.724, 
+        "longitude": -95.733, 
+        "parent_woeid": 12600940, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.217, 
+        "sw_longitude": -95.743, 
+        "fullname": "San Miguel Ecatepec, Oaxaca, San Miguel Tenango, Mexico", 
+        "sw_latitude": 16.208
+      }, 
+      "id": 144646
+    }
+  ]
+}

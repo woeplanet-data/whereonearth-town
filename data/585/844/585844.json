@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.466, 
+              48.181
+            ], 
+            [
+              3.466, 
+              48.220
+            ], 
+            [
+              3.498, 
+              48.220
+            ], 
+            [
+              3.498, 
+              48.181
+            ], 
+            [
+              3.466, 
+              48.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585844, 
+        "name": "Chigy", 
+        "adjacent_woeid": [
+          591245, 
+          605925, 
+          607473, 
+          617406, 
+          630062
+        ], 
+        "ne_latitude": 48.220, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.498, 
+        "longitude": 3.477, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12641653, 
+        "latitude": 48.200, 
+        "sw_longitude": 3.466, 
+        "fullname": "Chigy, Burgundy, Yonne, France", 
+        "sw_latitude": 48.181
+      }, 
+      "id": 585844
+    }
+  ]
+}

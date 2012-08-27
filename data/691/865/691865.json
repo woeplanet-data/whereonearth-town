@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.278, 
+              50.375
+            ], 
+            [
+              12.278, 
+              50.405
+            ], 
+            [
+              12.312, 
+              50.405
+            ], 
+            [
+              12.312, 
+              50.375
+            ], 
+            [
+              12.278, 
+              50.375
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 691865, 
+        "name": "Schilbach", 
+        "adjacent_woeid": [
+          635479, 
+          648690, 
+          673876, 
+          690621
+        ], 
+        "ne_latitude": 50.405, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.312, 
+        "longitude": 12.299, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12636508, 
+        "latitude": 50.393, 
+        "sw_longitude": 12.278, 
+        "fullname": "Schilbach, Saxony, Vogtlandkreis, Germany", 
+        "sw_latitude": 50.375
+      }, 
+      "id": 691865
+    }
+  ]
+}

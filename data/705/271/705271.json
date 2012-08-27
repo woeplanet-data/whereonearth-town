@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.539, 
+              53.232
+            ], 
+            [
+              10.539, 
+              53.261
+            ], 
+            [
+              10.581, 
+              53.261
+            ], 
+            [
+              10.581, 
+              53.232
+            ], 
+            [
+              10.539, 
+              53.232
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705271, 
+        "name": "Wendhausen", 
+        "adjacent_woeid": [
+          661855, 
+          698241, 
+          29350114
+        ], 
+        "ne_latitude": 53.261, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.581, 
+        "longitude": 10.565, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12629705, 
+        "latitude": 53.250, 
+        "sw_longitude": 10.539, 
+        "fullname": "Wendhausen, Lower Saxony, Luneburg, Germany", 
+        "sw_latitude": 53.232
+      }, 
+      "id": 705271
+    }
+  ]
+}

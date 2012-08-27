@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.192, 
+              48.690
+            ], 
+            [
+              6.192, 
+              48.716
+            ], 
+            [
+              6.217, 
+              48.716
+            ], 
+            [
+              6.217, 
+              48.690
+            ], 
+            [
+              6.192, 
+              48.690
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625883, 
+        "name": "St.-Max", 
+        "adjacent_woeid": [
+          581457, 
+          588916, 
+          590136, 
+          601932, 
+          609604, 
+          613836, 
+          628764
+        ], 
+        "ne_latitude": 48.716, 
+        "ne_longitude": 6.217, 
+        "longitude": 6.208, 
+        "parent_woeid": 12670924, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Max"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.701, 
+        "sw_longitude": 6.192, 
+        "fullname": "St.-Max, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.690
+      }, 
+      "id": 625883
+    }
+  ]
+}

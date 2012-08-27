@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.743, 
+              25.474
+            ], 
+            [
+              -103.743, 
+              25.492
+            ], 
+            [
+              -103.723, 
+              25.492
+            ], 
+            [
+              -103.723, 
+              25.474
+            ], 
+            [
+              -103.743, 
+              25.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.492, 
+        "name": "San Jacinto", 
+        "adjacent_woeid": [
+          121934, 
+          127580, 
+          141149, 
+          146220, 
+          147314, 
+          150619
+        ], 
+        "woeid": 143033, 
+        "alias_SPA_V": [
+          "S Jacinto"
+        ], 
+        "ne_longitude": -103.723, 
+        "longitude": -103.733, 
+        "parent_woeid": 12599962, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.483, 
+        "sw_longitude": -103.743, 
+        "fullname": "San Jacinto, Durango, Lerdo, Mexico", 
+        "sw_latitude": 25.474
+      }, 
+      "id": 143033
+    }
+  ]
+}

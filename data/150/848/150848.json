@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.689, 
+              22.441
+            ], 
+            [
+              -100.689, 
+              22.464
+            ], 
+            [
+              -100.669, 
+              22.464
+            ], 
+            [
+              -100.669, 
+              22.441
+            ], 
+            [
+              -100.689, 
+              22.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.464, 
+        "name": "Villa de Hidalgo", 
+        "adjacent_woeid": [
+          120627, 
+          122937, 
+          125641, 
+          148212, 
+          151648
+        ], 
+        "woeid": 150848, 
+        "alias_SPA_V": [
+          "Villa Hidalgo"
+        ], 
+        "ne_longitude": -100.669, 
+        "longitude": -100.678, 
+        "parent_woeid": 12601523, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.450, 
+        "sw_longitude": -100.689, 
+        "fullname": "Villa de Hidalgo, San Luis Potosi, Villa Hidalgo, Mexico", 
+        "sw_latitude": 22.441
+      }, 
+      "id": 150848
+    }
+  ]
+}

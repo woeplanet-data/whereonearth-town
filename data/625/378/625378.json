@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.082, 
+              48.324
+            ], 
+            [
+              -2.082, 
+              48.338
+            ], 
+            [
+              -2.067, 
+              48.338
+            ], 
+            [
+              -2.067, 
+              48.324
+            ], 
+            [
+              -2.082, 
+              48.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625378, 
+        "name": "St.-Maden", 
+        "adjacent_woeid": [
+          593949, 
+          617050, 
+          625061, 
+          629152
+        ], 
+        "ne_latitude": 48.338, 
+        "ne_longitude": -2.067, 
+        "longitude": -2.077, 
+        "parent_woeid": 12646564, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maden"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.330, 
+        "sw_longitude": -2.082, 
+        "fullname": "St.-Maden, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.324
+      }, 
+      "id": 625378
+    }
+  ]
+}

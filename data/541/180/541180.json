@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.585, 
+              48.860
+            ], 
+            [
+              15.585, 
+              48.878
+            ], 
+            [
+              15.613, 
+              48.878
+            ], 
+            [
+              15.613, 
+              48.860
+            ], 
+            [
+              15.585, 
+              48.860
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 541180, 
+        "name": "Autendorf", 
+        "adjacent_woeid": [
+          541508, 
+          543015, 
+          543371, 
+          544059, 
+          544155
+        ], 
+        "ne_latitude": 48.878, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.613, 
+        "longitude": 15.599, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:25Z", 
+        "parent_woeid": 12673783, 
+        "latitude": 48.869, 
+        "sw_longitude": 15.585, 
+        "fullname": "Autendorf, Lower Austria, Horn, Austria", 
+        "sw_latitude": 48.860
+      }, 
+      "id": 541180
+    }
+  ]
+}

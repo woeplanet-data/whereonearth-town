@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.124, 
+              42.970
+            ], 
+            [
+              1.124, 
+              42.998
+            ], 
+            [
+              1.200, 
+              42.998
+            ], 
+            [
+              1.200, 
+              42.970
+            ], 
+            [
+              1.124, 
+              42.970
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624451, 
+        "name": "St.-Girons", 
+        "adjacent_woeid": [
+          583330, 
+          590418, 
+          603470, 
+          610450, 
+          612837, 
+          613488, 
+          617888, 
+          619499, 
+          621631, 
+          625288, 
+          627481, 
+          20191268, 
+          20191288, 
+          20191385, 
+          20191454, 
+          56125993
+        ], 
+        "ne_latitude": 42.998, 
+        "ne_longitude": 1.200, 
+        "longitude": 1.144, 
+        "parent_woeid": 12670527, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Girons"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.986, 
+        "sw_longitude": 1.124, 
+        "fullname": "St.-Girons, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 42.970
+      }, 
+      "id": 624451
+    }
+  ]
+}

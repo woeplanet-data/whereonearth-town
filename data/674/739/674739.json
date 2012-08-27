@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.151, 
+              47.959
+            ], 
+            [
+              10.151, 
+              48.012
+            ], 
+            [
+              10.208, 
+              48.012
+            ], 
+            [
+              10.208, 
+              47.959
+            ], 
+            [
+              10.151, 
+              47.959
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 674739, 
+        "name": "Memmingen", 
+        "adjacent_woeid": [
+          633738, 
+          634999, 
+          637743, 
+          642946, 
+          642948, 
+          644410, 
+          655536, 
+          657441, 
+          658626, 
+          669047, 
+          670520, 
+          670728, 
+          674740, 
+          679821, 
+          696925, 
+          698608, 
+          700164, 
+          707976, 
+          15002657
+        ], 
+        "ne_latitude": 48.012, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "QOX"
+        ], 
+        "ne_longitude": 10.208, 
+        "longitude": 10.180, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12634725, 
+        "latitude": 47.986, 
+        "sw_longitude": 10.151, 
+        "fullname": "Memmingen, Bavaria, Stadtkreis Memmingen, Germany", 
+        "sw_latitude": 47.959
+      }, 
+      "id": 674739
+    }
+  ]
+}

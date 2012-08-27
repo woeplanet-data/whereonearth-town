@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.412, 
+              45.455
+            ], 
+            [
+              -76.412, 
+              45.684
+            ], 
+            [
+              -76.214, 
+              45.684
+            ], 
+            [
+              -76.214, 
+              45.455
+            ], 
+            [
+              -76.412, 
+              45.455
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23395597, 
+        "name": "Bristol", 
+        "adjacent_woeid": [
+          156, 
+          1679, 
+          23395598, 
+          29374065
+        ], 
+        "ne_latitude": 45.684, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -76.214, 
+        "longitude": -76.376, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375244, 
+        "latitude": 45.531, 
+        "sw_longitude": -76.412, 
+        "fullname": "Bristol, Quebec, Pontiac, Canada", 
+        "sw_latitude": 45.455
+      }, 
+      "id": 23395597
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.026, 
+              18.641
+            ], 
+            [
+              -99.026, 
+              18.659
+            ], 
+            [
+              -99.007, 
+              18.659
+            ], 
+            [
+              -99.007, 
+              18.641
+            ], 
+            [
+              -99.026, 
+              18.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.659, 
+        "name": "San Rafael Zaragoza", 
+        "adjacent_woeid": [
+          116060, 
+          134189, 
+          144884, 
+          148500, 
+          149612
+        ], 
+        "woeid": 145312, 
+        "alias_SPA_V": [
+          "S Rafael Zaragoza"
+        ], 
+        "ne_longitude": -99.007, 
+        "longitude": -99.017, 
+        "parent_woeid": 12600577, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.650, 
+        "sw_longitude": -99.026, 
+        "fullname": "San Rafael Zaragoza, Morelos, Tlaltizapan, Mexico", 
+        "sw_latitude": 18.641
+      }, 
+      "id": 145312
+    }
+  ]
+}

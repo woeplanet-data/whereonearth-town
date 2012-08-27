@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.230, 
+              44.958
+            ], 
+            [
+              0.230, 
+              45.003
+            ], 
+            [
+              0.272, 
+              45.003
+            ], 
+            [
+              0.272, 
+              44.958
+            ], 
+            [
+              0.230, 
+              44.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626900, 
+        "name": "St.-Sauveur-Lalande", 
+        "adjacent_woeid": [
+          578790, 
+          624245, 
+          625510, 
+          626700
+        ], 
+        "ne_latitude": 45.003, 
+        "alias_ENG_V": [
+          "Saint-Sauveur"
+        ], 
+        "ne_longitude": 0.272, 
+        "longitude": 0.253, 
+        "parent_woeid": 12653199, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Sauveur-Lalande"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.986, 
+        "sw_longitude": 0.230, 
+        "fullname": "St.-Sauveur-Lalande, St-Sauveur, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.958
+      }, 
+      "id": 626900
+    }
+  ]
+}

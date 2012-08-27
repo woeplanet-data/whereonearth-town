@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.893, 
+              21.391
+            ], 
+            [
+              -104.893, 
+              21.409
+            ], 
+            [
+              -104.874, 
+              21.409
+            ], 
+            [
+              -104.874, 
+              21.391
+            ], 
+            [
+              -104.893, 
+              21.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.409, 
+        "name": "El Refugio", 
+        "adjacent_woeid": [
+          111131, 
+          112292, 
+          123151, 
+          125686, 
+          135922, 
+          143471, 
+          150095
+        ], 
+        "woeid": 121973, 
+        "alias_SPA_V": [
+          "Testerazo"
+        ], 
+        "ne_longitude": -104.874, 
+        "longitude": -104.883, 
+        "parent_woeid": 12600605, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.400, 
+        "sw_longitude": -104.893, 
+        "fullname": "El Refugio, Nayarit, Xalisco, Mexico", 
+        "sw_latitude": 21.391
+      }, 
+      "id": 121973
+    }
+  ]
+}

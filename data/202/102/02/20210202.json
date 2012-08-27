@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.742, 
+              45.916
+            ], 
+            [
+              4.742, 
+              45.945
+            ], 
+            [
+              4.767, 
+              45.945
+            ], 
+            [
+              4.767, 
+              45.916
+            ], 
+            [
+              4.742, 
+              45.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210202, 
+        "name": "Grand Veissieux", 
+        "adjacent_woeid": [
+          20210203, 
+          29329870, 
+          29333608
+        ], 
+        "ne_latitude": 45.945, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.767, 
+        "longitude": 4.751, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 22757402, 
+        "latitude": 45.922, 
+        "sw_longitude": 4.742, 
+        "fullname": "Grand Veissieux, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 45.916
+      }, 
+      "id": 20210202
+    }
+  ]
+}

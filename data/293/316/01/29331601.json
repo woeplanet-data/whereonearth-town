@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.901, 
+              45.384
+            ], 
+            [
+              -0.901, 
+              45.402
+            ], 
+            [
+              -0.876, 
+              45.402
+            ], 
+            [
+              -0.876, 
+              45.384
+            ], 
+            [
+              -0.901, 
+              45.384
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331601, 
+        "name": "Villeneuve", 
+        "adjacent_woeid": [
+          578973, 
+          629869, 
+          20196049, 
+          20196055, 
+          29331433, 
+          29331690
+        ], 
+        "ne_latitude": 45.402, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.876, 
+        "longitude": -0.888, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12650865, 
+        "latitude": 45.393, 
+        "sw_longitude": -0.901, 
+        "fullname": "Villeneuve, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.384
+      }, 
+      "id": 29331601
+    }
+  ]
+}

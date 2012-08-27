@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.607, 
+              49.646
+            ], 
+            [
+              0.607, 
+              49.680
+            ], 
+            [
+              0.638, 
+              49.680
+            ], 
+            [
+              0.638, 
+              49.646
+            ], 
+            [
+              0.607, 
+              49.646
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626504, 
+        "name": "St.-Pierre-Lavis", 
+        "adjacent_woeid": [
+          579389, 
+          586288, 
+          619366, 
+          627630, 
+          628502
+        ], 
+        "ne_latitude": 49.680, 
+        "alias_ENG_V": [
+          "Saint-Pierre"
+        ], 
+        "ne_longitude": 0.638, 
+        "longitude": 0.627, 
+        "parent_woeid": 12646104, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pierre-Lavis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.659, 
+        "sw_longitude": 0.607, 
+        "fullname": "St.-Pierre-Lavis, St-Pierre, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.646
+      }, 
+      "id": 626504
+    }
+  ]
+}

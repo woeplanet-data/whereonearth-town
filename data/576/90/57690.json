@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.705, 
+              10.845
+            ], 
+            [
+              -84.705, 
+              10.855
+            ], 
+            [
+              -84.695, 
+              10.855
+            ], 
+            [
+              -84.695, 
+              10.845
+            ], 
+            [
+              -84.705, 
+              10.845
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.855, 
+        "name": "Amparo", 
+        "adjacent_woeid": [
+          57961, 
+          58158, 
+          58288, 
+          58769, 
+          59296, 
+          59356, 
+          59744
+        ], 
+        "woeid": 57690, 
+        "alias_SPA_V": [
+          "El Amparo"
+        ], 
+        "ne_longitude": -84.695, 
+        "longitude": -84.700, 
+        "parent_woeid": 26808980, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.850, 
+        "sw_longitude": -84.705, 
+        "fullname": "Amparo, Alajuela, Los Chiles, Costa Rica", 
+        "sw_latitude": 10.845
+      }, 
+      "id": 57690
+    }
+  ]
+}

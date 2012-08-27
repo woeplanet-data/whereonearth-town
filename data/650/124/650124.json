@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.049, 
+              48.430
+            ], 
+            [
+              12.049, 
+              48.451
+            ], 
+            [
+              12.073, 
+              48.451
+            ], 
+            [
+              12.073, 
+              48.430
+            ], 
+            [
+              12.049, 
+              48.430
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650124, 
+        "name": "Forstaibach", 
+        "adjacent_woeid": [
+          650441, 
+          661849, 
+          661888, 
+          29347859
+        ], 
+        "ne_latitude": 48.451, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.073, 
+        "longitude": 12.062, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12635781, 
+        "latitude": 48.441, 
+        "sw_longitude": 12.049, 
+        "fullname": "Forstaibach, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.430
+      }, 
+      "id": 650124
+    }
+  ]
+}

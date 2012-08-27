@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.316, 
+              41.170
+            ], 
+            [
+              -77.316, 
+              41.247
+            ], 
+            [
+              -77.242, 
+              41.247
+            ], 
+            [
+              -77.242, 
+              41.170
+            ], 
+            [
+              -77.316, 
+              41.170
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745582, 
+        "name": "Porter", 
+        "adjacent_woeid": [
+          2436634, 
+          2507017, 
+          28340082, 
+          28745282, 
+          28745366, 
+          28745528
+        ], 
+        "ne_latitude": 41.247, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Porter Township"
+        ], 
+        "ne_longitude": -77.242, 
+        "longitude": -77.279, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589768, 
+        "latitude": 41.205, 
+        "sw_longitude": -77.316, 
+        "fullname": "Porter, Pennsylvania, Lycoming, United States", 
+        "sw_latitude": 41.170
+      }, 
+      "id": 28745582
+    }
+  ]
+}

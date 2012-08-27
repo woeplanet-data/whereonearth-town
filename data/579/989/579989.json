@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.592, 
+              42.899
+            ], 
+            [
+              0.592, 
+              42.911
+            ], 
+            [
+              0.626, 
+              42.911
+            ], 
+            [
+              0.626, 
+              42.899
+            ], 
+            [
+              0.592, 
+              42.899
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579989, 
+        "name": "Binos", 
+        "adjacent_woeid": [
+          577764, 
+          589931, 
+          622128, 
+          622459
+        ], 
+        "ne_latitude": 42.911, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.626, 
+        "longitude": 0.617, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12657102, 
+        "latitude": 42.900, 
+        "sw_longitude": 0.592, 
+        "fullname": "Binos, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 42.899
+      }, 
+      "id": 579989
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.957, 
+              44.943
+            ], 
+            [
+              0.957, 
+              44.986
+            ], 
+            [
+              1.015, 
+              44.986
+            ], 
+            [
+              1.015, 
+              44.943
+            ], 
+            [
+              0.957, 
+              44.943
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609621, 
+        "name": "Manaurie", 
+        "adjacent_woeid": [
+          591111, 
+          621391, 
+          623520, 
+          629540
+        ], 
+        "ne_latitude": 44.986, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.015, 
+        "longitude": 0.990, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12648680, 
+        "latitude": 44.960, 
+        "sw_longitude": 0.957, 
+        "fullname": "Manaurie, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.943
+      }, 
+      "id": 609621
+    }
+  ]
+}

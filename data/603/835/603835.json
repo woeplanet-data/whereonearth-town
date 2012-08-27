@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.210, 
+              47.301
+            ], 
+            [
+              -3.210, 
+              47.365
+            ], 
+            [
+              -3.115, 
+              47.365
+            ], 
+            [
+              -3.115, 
+              47.301
+            ], 
+            [
+              -3.210, 
+              47.301
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603835, 
+        "name": "Le Palais", 
+        "adjacent_woeid": [
+          578014, 
+          608363, 
+          621360
+        ], 
+        "ne_latitude": 47.365, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -3.115, 
+        "longitude": -3.155, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12639383, 
+        "latitude": 47.347, 
+        "sw_longitude": -3.210, 
+        "fullname": "Le Palais, Brittany, Morbihan, France", 
+        "sw_latitude": 47.301
+      }, 
+      "id": 603835
+    }
+  ]
+}

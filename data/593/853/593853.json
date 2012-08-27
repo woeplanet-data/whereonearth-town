@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.828, 
+              45.481
+            ], 
+            [
+              5.828, 
+              45.491
+            ], 
+            [
+              5.841, 
+              45.491
+            ], 
+            [
+              5.841, 
+              45.481
+            ], 
+            [
+              5.828, 
+              45.481
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593853, 
+        "name": "Gros Louis", 
+        "adjacent_woeid": [
+          596812, 
+          606056, 
+          624744, 
+          627111
+        ], 
+        "ne_latitude": 45.491, 
+        "ne_longitude": 5.841, 
+        "longitude": 5.835, 
+        "parent_woeid": 12662418, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Les Gros Louis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.486, 
+        "sw_longitude": 5.828, 
+        "fullname": "Gros Louis, Le Gros Louis, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.481
+      }, 
+      "id": 593853
+    }
+  ]
+}

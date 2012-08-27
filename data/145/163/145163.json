@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.126, 
+              19.491
+            ], 
+            [
+              -99.126, 
+              19.509
+            ], 
+            [
+              -99.107, 
+              19.509
+            ], 
+            [
+              -99.107, 
+              19.491
+            ], 
+            [
+              -99.126, 
+              19.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.509, 
+        "name": "San Pedro Zacatenco", 
+        "adjacent_woeid": [
+          123585, 
+          123815, 
+          141951, 
+          146568, 
+          150921, 
+          55887844, 
+          55889524, 
+          55890534
+        ], 
+        "woeid": 145163, 
+        "alias_SPA_V": [
+          "S. Pedro Zacatenco"
+        ], 
+        "ne_longitude": -99.107, 
+        "longitude": -99.109, 
+        "parent_woeid": 12599940, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.505, 
+        "sw_longitude": -99.126, 
+        "fullname": "San Pedro Zacatenco, Distrito Federal, Gustavo A. Madero, Mexico", 
+        "sw_latitude": 19.491
+      }, 
+      "id": 145163
+    }
+  ]
+}

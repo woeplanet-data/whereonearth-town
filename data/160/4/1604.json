@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.117, 
+              46.806
+            ], 
+            [
+              -72.117, 
+              47.165
+            ], 
+            [
+              -71.633, 
+              47.165
+            ], 
+            [
+              -71.633, 
+              46.806
+            ], 
+            [
+              -72.117, 
+              46.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1604, 
+        "name": "St.-Raymond", 
+        "adjacent_woeid": [
+          1406, 
+          3445, 
+          23394283, 
+          23394521, 
+          23394584, 
+          23394644, 
+          23395697
+        ], 
+        "ne_latitude": 47.165, 
+        "ne_longitude": -71.633, 
+        "longitude": -71.828, 
+        "parent_woeid": 29375087, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Raymond"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.893, 
+        "sw_longitude": -72.117, 
+        "fullname": "St.-Raymond, Quebec, Portneuf, Canada", 
+        "sw_latitude": 46.806
+      }, 
+      "id": 1604
+    }
+  ]
+}

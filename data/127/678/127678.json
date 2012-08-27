@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.443, 
+              19.408
+            ], 
+            [
+              -103.443, 
+              19.426
+            ], 
+            [
+              -103.424, 
+              19.426
+            ], 
+            [
+              -103.424, 
+              19.408
+            ], 
+            [
+              -103.443, 
+              19.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.426, 
+        "name": "La Higuera", 
+        "adjacent_woeid": [
+          129018, 
+          135489, 
+          136934, 
+          143938, 
+          144328
+        ], 
+        "woeid": 127678, 
+        "alias_SPA_V": [
+          "Higuera"
+        ], 
+        "ne_longitude": -103.424, 
+        "longitude": -103.433, 
+        "parent_woeid": 12600302, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.417, 
+        "sw_longitude": -103.443, 
+        "fullname": "La Higuera, Jalisco, Tuxpan, Mexico", 
+        "sw_latitude": 19.408
+      }, 
+      "id": 127678
+    }
+  ]
+}

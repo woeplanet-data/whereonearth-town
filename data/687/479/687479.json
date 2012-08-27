@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.145, 
+              49.265
+            ], 
+            [
+              10.145, 
+              49.284
+            ], 
+            [
+              10.167, 
+              49.284
+            ], 
+            [
+              10.167, 
+              49.265
+            ], 
+            [
+              10.145, 
+              49.265
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687479, 
+        "name": "Reichenbach", 
+        "adjacent_woeid": [
+          666719, 
+          670977, 
+          700954, 
+          20158700, 
+          20173255
+        ], 
+        "ne_latitude": 49.284, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.167, 
+        "longitude": 10.153, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:48Z", 
+        "parent_woeid": 12634433, 
+        "latitude": 49.276, 
+        "sw_longitude": 10.145, 
+        "fullname": "Reichenbach, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.265
+      }, 
+      "id": 687479
+    }
+  ]
+}

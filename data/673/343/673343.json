@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.363, 
+              51.154
+            ], 
+            [
+              9.363, 
+              51.184
+            ], 
+            [
+              9.397, 
+              51.184
+            ], 
+            [
+              9.397, 
+              51.154
+            ], 
+            [
+              9.363, 
+              51.154
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673343, 
+        "name": "Maden", 
+        "adjacent_woeid": [
+          639783, 
+          644329, 
+          679954, 
+          682493
+        ], 
+        "ne_latitude": 51.184, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.397, 
+        "longitude": 9.376, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:34Z", 
+        "parent_woeid": 12632811, 
+        "latitude": 51.165, 
+        "sw_longitude": 9.363, 
+        "fullname": "Maden, Hesse, Schwalm-Eder-Kreis, Germany", 
+        "sw_latitude": 51.154
+      }, 
+      "id": 673343
+    }
+  ]
+}

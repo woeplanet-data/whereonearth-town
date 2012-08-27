@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.015, 
+              56.962
+            ], 
+            [
+              10.015, 
+              56.980
+            ], 
+            [
+              10.048, 
+              56.980
+            ], 
+            [
+              10.048, 
+              56.962
+            ], 
+            [
+              10.015, 
+              56.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 557155, 
+        "name": "Skovstrup", 
+        "adjacent_woeid": [
+          555260, 
+          555367, 
+          556691, 
+          558113
+        ], 
+        "ne_latitude": 56.980, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.048, 
+        "longitude": 10.031, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:48Z", 
+        "parent_woeid": 12582734, 
+        "latitude": 56.971, 
+        "sw_longitude": 10.015, 
+        "fullname": "Skovstrup, Nordjylland, Aalborg, Denmark", 
+        "sw_latitude": 56.962
+      }, 
+      "id": 557155
+    }
+  ]
+}

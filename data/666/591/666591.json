@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.836, 
+              54.150
+            ], 
+            [
+              10.836, 
+              54.175
+            ], 
+            [
+              10.857, 
+              54.175
+            ], 
+            [
+              10.857, 
+              54.150
+            ], 
+            [
+              10.836, 
+              54.150
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666591, 
+        "name": "Klein Schlamin", 
+        "adjacent_woeid": [
+          654684, 
+          669201, 
+          674146, 
+          694673
+        ], 
+        "ne_latitude": 54.175, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.857, 
+        "longitude": 10.848, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12632316, 
+        "latitude": 54.164, 
+        "sw_longitude": 10.836, 
+        "fullname": "Klein Schlamin, Schleswig-Holstein, Ostholstein, Germany", 
+        "sw_latitude": 54.150
+      }, 
+      "id": 666591
+    }
+  ]
+}

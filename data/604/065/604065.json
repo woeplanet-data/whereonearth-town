@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.045, 
+              45.012
+            ], 
+            [
+              0.045, 
+              45.049
+            ], 
+            [
+              0.082, 
+              45.049
+            ], 
+            [
+              0.082, 
+              45.012
+            ], 
+            [
+              0.045, 
+              45.012
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604065, 
+        "name": "Le Pizou", 
+        "adjacent_woeid": [
+          590432, 
+          610949, 
+          610951, 
+          613463, 
+          623002
+        ], 
+        "ne_latitude": 45.049, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.082, 
+        "longitude": 0.067, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12646825, 
+        "latitude": 45.028, 
+        "sw_longitude": 0.045, 
+        "fullname": "Le Pizou, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.012
+      }, 
+      "id": 604065
+    }
+  ]
+}

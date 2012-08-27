@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              123.285, 
+              10.935
+            ], 
+            [
+              123.285, 
+              10.967
+            ], 
+            [
+              123.319, 
+              10.967
+            ], 
+            [
+              123.319, 
+              10.935
+            ], 
+            [
+              123.285, 
+              10.935
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1198999, 
+        "name": "Cadiz City", 
+        "adjacent_woeid": [
+          1181671, 
+          1186941, 
+          1199000, 
+          1199088, 
+          1199550, 
+          1199970
+        ], 
+        "ne_latitude": 10.967, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Cadiz"
+        ], 
+        "ne_longitude": 123.319, 
+        "longitude": 123.287, 
+        "placetype": "Town", 
+        "iso": "PH", 
+        "date_indexed": "2010-12-02T09:56:47Z", 
+        "parent_woeid": 2346788, 
+        "latitude": 10.945, 
+        "sw_longitude": 123.285, 
+        "fullname": "Cadiz City, Western Visayas, Negros Occidental, Philippines", 
+        "sw_latitude": 10.935
+      }, 
+      "id": 1198999
+    }
+  ]
+}

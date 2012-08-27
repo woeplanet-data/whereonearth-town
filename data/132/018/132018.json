@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.052, 
+              23.463
+            ], 
+            [
+              -98.052, 
+              23.481
+            ], 
+            [
+              -98.032, 
+              23.481
+            ], 
+            [
+              -98.032, 
+              23.463
+            ], 
+            [
+              -98.052, 
+              23.463
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.481, 
+        "name": "Los Lavaderos", 
+        "adjacent_woeid": [
+          123329, 
+          127212, 
+          128709, 
+          143531
+        ], 
+        "woeid": 132018, 
+        "alias_SPA_V": [
+          "Lavaderos"
+        ], 
+        "ne_longitude": -98.032, 
+        "longitude": -98.042, 
+        "parent_woeid": 12601668, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.472, 
+        "sw_longitude": -98.052, 
+        "fullname": "Los Lavaderos, Tamaulipas, Soto la Marina, Mexico", 
+        "sw_latitude": 23.463
+      }, 
+      "id": 132018
+    }
+  ]
+}

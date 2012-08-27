@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.431, 
+              14.393
+            ], 
+            [
+              -88.431, 
+              14.408
+            ], 
+            [
+              -88.417, 
+              14.408
+            ], 
+            [
+              -88.417, 
+              14.393
+            ], 
+            [
+              -88.431, 
+              14.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.408, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          98278, 
+          101860, 
+          102265, 
+          102563, 
+          107093, 
+          107257
+        ], 
+        "woeid": 106972, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -88.417, 
+        "longitude": -88.424, 
+        "parent_woeid": 26813797, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.401, 
+        "sw_longitude": -88.431, 
+        "fullname": "San Juan, Intibuc\u00e1, San Juan, Honduras", 
+        "sw_latitude": 14.393
+      }, 
+      "id": 106972
+    }
+  ]
+}

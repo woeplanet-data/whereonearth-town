@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.708, 
+              38.992
+            ], 
+            [
+              -108.708, 
+              39.195
+            ], 
+            [
+              -108.326, 
+              39.195
+            ], 
+            [
+              -108.326, 
+              38.992
+            ], 
+            [
+              -108.708, 
+              38.992
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2412807, 
+        "name": "Grand Junction", 
+        "adjacent_woeid": [
+          2368900, 
+          2368967, 
+          2374858, 
+          2381643, 
+          2389942, 
+          2407933, 
+          2409277, 
+          2410532, 
+          2421487, 
+          2430612, 
+          2441207, 
+          2443748, 
+          2467635, 
+          2468104, 
+          2480575, 
+          2510502, 
+          2519869
+        ], 
+        "ne_latitude": 39.195, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Grandjunction"
+        ], 
+        "ne_longitude": -108.326, 
+        "longitude": -108.564, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:11Z", 
+        "parent_woeid": 12587766, 
+        "latitude": 39.069, 
+        "sw_longitude": -108.708, 
+        "fullname": "Grand Junction, Colorado, Mesa, United States", 
+        "sw_latitude": 38.992
+      }, 
+      "id": 2412807
+    }
+  ]
+}

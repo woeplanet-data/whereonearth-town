@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.154, 
+              45.424
+            ], 
+            [
+              6.154, 
+              45.476
+            ], 
+            [
+              6.200, 
+              45.476
+            ], 
+            [
+              6.200, 
+              45.424
+            ], 
+            [
+              6.154, 
+              45.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630777, 
+        "name": "Le Verneil", 
+        "adjacent_woeid": [
+          590224, 
+          618016, 
+          622823, 
+          29329954
+        ], 
+        "ne_latitude": 45.476, 
+        "ne_longitude": 6.200, 
+        "longitude": 6.168, 
+        "parent_woeid": 12665170, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Verneil"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.463, 
+        "sw_longitude": 6.154, 
+        "fullname": "Le Verneil, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.424
+      }, 
+      "id": 630777
+    }
+  ]
+}

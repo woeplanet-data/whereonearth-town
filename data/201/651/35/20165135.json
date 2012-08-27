@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.804, 
+              54.146
+            ], 
+            [
+              10.804, 
+              54.165
+            ], 
+            [
+              10.825, 
+              54.165
+            ], 
+            [
+              10.825, 
+              54.146
+            ], 
+            [
+              10.804, 
+              54.146
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20165135, 
+        "name": "Klaushorst", 
+        "adjacent_woeid": [
+          657750, 
+          660479, 
+          694673, 
+          697529
+        ], 
+        "ne_latitude": 54.165, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.825, 
+        "longitude": 10.816, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12632288, 
+        "latitude": 54.157, 
+        "sw_longitude": 10.804, 
+        "fullname": "Klaushorst, Schleswig-Holstein, Ostholstein, Germany", 
+        "sw_latitude": 54.146
+      }, 
+      "id": 20165135
+    }
+  ]
+}

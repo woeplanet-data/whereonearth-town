@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.227, 
+              25.324
+            ], 
+            [
+              -108.227, 
+              25.342
+            ], 
+            [
+              -108.207, 
+              25.342
+            ], 
+            [
+              -108.207, 
+              25.324
+            ], 
+            [
+              -108.227, 
+              25.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.342, 
+        "name": "San Luciano", 
+        "adjacent_woeid": [
+          120171, 
+          127296, 
+          128556, 
+          128904, 
+          136999, 
+          141575
+        ], 
+        "woeid": 144199, 
+        "alias_SPA_V": [
+          "S Luciano"
+        ], 
+        "ne_longitude": -108.207, 
+        "longitude": -108.217, 
+        "parent_woeid": 12601528, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.333, 
+        "sw_longitude": -108.227, 
+        "fullname": "San Luciano, Sinaloa, Angostura, Mexico", 
+        "sw_latitude": 25.324
+      }, 
+      "id": 144199
+    }
+  ]
+}

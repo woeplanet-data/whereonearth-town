@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.348, 
+              37.144
+            ], 
+            [
+              -5.348, 
+              37.297
+            ], 
+            [
+              -5.209, 
+              37.297
+            ], 
+            [
+              -5.209, 
+              37.144
+            ], 
+            [
+              -5.348, 
+              37.144
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.297, 
+        "name": "La Puebla de Cazalla", 
+        "adjacent_woeid": [
+          766551, 
+          767849, 
+          769006, 
+          778134, 
+          20225449, 
+          23413519, 
+          23414238
+        ], 
+        "woeid": 763903, 
+        "alias_SPA_V": [
+          "Puebla de Cazalla"
+        ], 
+        "ne_longitude": -5.209, 
+        "longitude": -5.313, 
+        "parent_woeid": 12689369, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.223, 
+        "sw_longitude": -5.348, 
+        "fullname": "La Puebla de Cazalla, Andalusia, Seville, Spain", 
+        "sw_latitude": 37.144
+      }, 
+      "id": 763903
+    }
+  ]
+}

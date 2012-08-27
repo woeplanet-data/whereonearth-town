@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.796, 
+              48.882
+            ], 
+            [
+              10.796, 
+              48.910
+            ], 
+            [
+              10.826, 
+              48.910
+            ], 
+            [
+              10.826, 
+              48.882
+            ], 
+            [
+              10.796, 
+              48.882
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704759, 
+        "name": "Weilheimerbach", 
+        "adjacent_woeid": [
+          643840, 
+          655812, 
+          704757
+        ], 
+        "ne_latitude": 48.910, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.826, 
+        "longitude": 10.810, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12635013, 
+        "latitude": 48.895, 
+        "sw_longitude": 10.796, 
+        "fullname": "Weilheimerbach, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.882
+      }, 
+      "id": 704759
+    }
+  ]
+}

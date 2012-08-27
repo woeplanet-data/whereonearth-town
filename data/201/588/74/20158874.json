@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.582, 
+              49.466
+            ], 
+            [
+              10.582, 
+              49.492
+            ], 
+            [
+              10.606, 
+              49.492
+            ], 
+            [
+              10.606, 
+              49.466
+            ], 
+            [
+              10.582, 
+              49.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20158874, 
+        "name": "Hohenroth", 
+        "adjacent_woeid": [
+          634848, 
+          671915, 
+          674934
+        ], 
+        "ne_latitude": 49.492, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.606, 
+        "longitude": 10.591, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12634528, 
+        "latitude": 49.475, 
+        "sw_longitude": 10.582, 
+        "fullname": "Hohenroth, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.466
+      }, 
+      "id": 20158874
+    }
+  ]
+}

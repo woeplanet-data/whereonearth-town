@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.284, 
+              44.817
+            ], 
+            [
+              4.284, 
+              44.848
+            ], 
+            [
+              4.317, 
+              44.848
+            ], 
+            [
+              4.317, 
+              44.817
+            ], 
+            [
+              4.284, 
+              44.817
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602496, 
+        "name": "Le Chambon", 
+        "adjacent_woeid": [
+          589042, 
+          600705, 
+          621027, 
+          622891
+        ], 
+        "ne_latitude": 44.848, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.317, 
+        "longitude": 4.306, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 20075118, 
+        "latitude": 44.837, 
+        "sw_longitude": 4.284, 
+        "fullname": "Le Chambon, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 44.817
+      }, 
+      "id": 602496
+    }
+  ]
+}

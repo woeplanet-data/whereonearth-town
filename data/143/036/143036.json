@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.243, 
+              22.341
+            ], 
+            [
+              -102.243, 
+              22.359
+            ], 
+            [
+              -102.223, 
+              22.359
+            ], 
+            [
+              -102.223, 
+              22.341
+            ], 
+            [
+              -102.243, 
+              22.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.359, 
+        "name": "San Jacinto", 
+        "adjacent_woeid": [
+          119734, 
+          124369, 
+          132570, 
+          133424, 
+          135152, 
+          55892263, 
+          55917083
+        ], 
+        "woeid": 143036, 
+        "alias_SPA_V": [
+          "S Jacinto"
+        ], 
+        "ne_longitude": -102.223, 
+        "longitude": -102.233, 
+        "parent_woeid": 12599688, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.350, 
+        "sw_longitude": -102.243, 
+        "fullname": "San Jacinto, Aguascalientes, Rincon de Romos, Mexico", 
+        "sw_latitude": 22.341
+      }, 
+      "id": 143036
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.975, 
+              43.345
+            ], 
+            [
+              0.975, 
+              43.379
+            ], 
+            [
+              1.007, 
+              43.379
+            ], 
+            [
+              1.007, 
+              43.345
+            ], 
+            [
+              0.975, 
+              43.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623021, 
+        "name": "St.-Araille", 
+        "adjacent_woeid": [
+          583315, 
+          612302, 
+          612992, 
+          617767, 
+          621719, 
+          29331455
+        ], 
+        "ne_latitude": 43.379, 
+        "ne_longitude": 1.007, 
+        "longitude": 0.992, 
+        "parent_woeid": 12670137, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Araille"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.358, 
+        "sw_longitude": 0.975, 
+        "fullname": "St.-Araille, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.345
+      }, 
+      "id": 623021
+    }
+  ]
+}

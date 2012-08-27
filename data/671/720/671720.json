@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.466, 
+              49.274
+            ], 
+            [
+              10.466, 
+              49.292
+            ], 
+            [
+              10.493, 
+              49.292
+            ], 
+            [
+              10.493, 
+              49.274
+            ], 
+            [
+              10.466, 
+              49.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671720, 
+        "name": "Liegenbach", 
+        "adjacent_woeid": [
+          660789, 
+          671208, 
+          681008, 
+          706934
+        ], 
+        "ne_latitude": 49.292, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.493, 
+        "longitude": 10.479, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:20Z", 
+        "parent_woeid": 12634382, 
+        "latitude": 49.283, 
+        "sw_longitude": 10.466, 
+        "fullname": "Liegenbach, Bavaria, Stadtkreis Ansbach, Germany", 
+        "sw_latitude": 49.274
+      }, 
+      "id": 671720
+    }
+  ]
+}

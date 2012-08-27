@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.037, 
+              53.418
+            ], 
+            [
+              10.037, 
+              53.442
+            ], 
+            [
+              10.064, 
+              53.442
+            ], 
+            [
+              10.064, 
+              53.418
+            ], 
+            [
+              10.037, 
+              53.418
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650895, 
+        "name": "Friesenwerdermoor", 
+        "adjacent_woeid": [
+          654619, 
+          662470, 
+          666510, 
+          674412
+        ], 
+        "ne_latitude": 53.442, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.064, 
+        "longitude": 10.050, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12629640, 
+        "latitude": 53.433, 
+        "sw_longitude": 10.037, 
+        "fullname": "Friesenwerdermoor, Lower Saxony, Harburg, Germany", 
+        "sw_latitude": 53.418
+      }, 
+      "id": 650895
+    }
+  ]
+}

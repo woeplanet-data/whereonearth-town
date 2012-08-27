@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.182, 
+              46.243
+            ], 
+            [
+              6.182, 
+              46.261
+            ], 
+            [
+              6.209, 
+              46.261
+            ], 
+            [
+              6.209, 
+              46.243
+            ], 
+            [
+              6.182, 
+              46.243
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20100862, 
+        "name": "Belle Rive", 
+        "adjacent_woeid": [
+          20101410, 
+          20102520, 
+          20103973
+        ], 
+        "ne_latitude": 46.261, 
+        "ne_longitude": 6.209, 
+        "longitude": 6.195, 
+        "parent_woeid": 12683214, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bellerive"
+        ], 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.252, 
+        "sw_longitude": 6.182, 
+        "fullname": "Belle Rive, Canton of Geneva, Geneva, Switzerland", 
+        "sw_latitude": 46.243
+      }, 
+      "id": 20100862
+    }
+  ]
+}

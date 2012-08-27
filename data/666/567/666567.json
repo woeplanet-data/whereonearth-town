@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.175, 
+              52.195
+            ], 
+            [
+              14.175, 
+              52.225
+            ], 
+            [
+              14.204, 
+              52.225
+            ], 
+            [
+              14.204, 
+              52.195
+            ], 
+            [
+              14.175, 
+              52.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666567, 
+        "name": "Klein Rietz", 
+        "adjacent_woeid": [
+          639153, 
+          642195, 
+          654661, 
+          688721
+        ], 
+        "ne_latitude": 52.225, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.204, 
+        "longitude": 14.194, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 24547164, 
+        "latitude": 52.210, 
+        "sw_longitude": 14.175, 
+        "fullname": "Klein Rietz, Brandenburg, Oder-Spree, Germany", 
+        "sw_latitude": 52.195
+      }, 
+      "id": 666567
+    }
+  ]
+}

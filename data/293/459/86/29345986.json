@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.751, 
+              47.982
+            ], 
+            [
+              12.751, 
+              48.001
+            ], 
+            [
+              12.778, 
+              48.001
+            ], 
+            [
+              12.778, 
+              47.982
+            ], 
+            [
+              12.751, 
+              47.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29345986, 
+        "name": "Langwied", 
+        "adjacent_woeid": [
+          637918, 
+          652405, 
+          657355, 
+          29346892
+        ], 
+        "ne_latitude": 48.001, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.778, 
+        "longitude": 12.764, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:19Z", 
+        "parent_woeid": 12622817, 
+        "latitude": 47.992, 
+        "sw_longitude": 12.751, 
+        "fullname": "Langwied, Bavaria, Landkreis Traunstein, Germany", 
+        "sw_latitude": 47.982
+      }, 
+      "id": 29345986
+    }
+  ]
+}

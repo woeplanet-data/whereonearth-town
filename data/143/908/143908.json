@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.160, 
+              25.774
+            ], 
+            [
+              -101.160, 
+              25.792
+            ], 
+            [
+              -101.140, 
+              25.792
+            ], 
+            [
+              -101.140, 
+              25.774
+            ], 
+            [
+              -101.160, 
+              25.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.792, 
+        "name": "San Juan de Sauceda", 
+        "adjacent_woeid": [
+          119190, 
+          121180, 
+          123763, 
+          145917, 
+          146735, 
+          147348
+        ], 
+        "woeid": 143908, 
+        "alias_SPA_V": [
+          "S. Juan de Sauceda"
+        ], 
+        "ne_longitude": -101.140, 
+        "longitude": -101.150, 
+        "parent_woeid": 12599912, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.783, 
+        "sw_longitude": -101.160, 
+        "fullname": "San Juan de Sauceda, Coahuila de Zaragoza, Ramos Arizpe, Mexico", 
+        "sw_latitude": 25.774
+      }, 
+      "id": 143908
+    }
+  ]
+}

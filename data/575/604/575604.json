@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.356, 
+              45.592
+            ], 
+            [
+              2.356, 
+              45.629
+            ], 
+            [
+              2.396, 
+              45.629
+            ], 
+            [
+              2.396, 
+              45.592
+            ], 
+            [
+              2.356, 
+              45.592
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575604, 
+        "name": "Aix", 
+        "adjacent_woeid": [
+          587244, 
+          587567, 
+          601017, 
+          611146, 
+          623751, 
+          623876, 
+          624060, 
+          626230
+        ], 
+        "ne_latitude": 45.629, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.396, 
+        "longitude": 2.383, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12654999, 
+        "latitude": 45.616, 
+        "sw_longitude": 2.356, 
+        "fullname": "Aix, Limousin, Correze, France", 
+        "sw_latitude": 45.592
+      }, 
+      "id": 575604
+    }
+  ]
+}

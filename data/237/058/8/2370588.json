@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.522, 
+              42.080
+            ], 
+            [
+              -123.522, 
+              42.089
+            ], 
+            [
+              -123.510, 
+              42.089
+            ], 
+            [
+              -123.510, 
+              42.080
+            ], 
+            [
+              -123.522, 
+              42.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2370588, 
+        "name": "Browntown", 
+        "adjacent_woeid": [
+          2353196, 
+          2368989, 
+          2373292, 
+          2503634
+        ], 
+        "ne_latitude": 42.089, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.510, 
+        "longitude": -123.516, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:23:14Z", 
+        "parent_woeid": 12589708, 
+        "latitude": 42.085, 
+        "sw_longitude": -123.522, 
+        "fullname": "Browntown, Oregon, Josephine, United States", 
+        "sw_latitude": 42.080
+      }, 
+      "id": 2370588
+    }
+  ]
+}

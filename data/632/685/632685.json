@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.423, 
+              45.275
+            ], 
+            [
+              1.423, 
+              45.304
+            ], 
+            [
+              1.459, 
+              45.304
+            ], 
+            [
+              1.459, 
+              45.275
+            ], 
+            [
+              1.423, 
+              45.275
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 632685, 
+        "name": "Voutezac", 
+        "adjacent_woeid": [
+          583748, 
+          590189, 
+          604502, 
+          615101
+        ], 
+        "ne_latitude": 45.304, 
+        "ne_longitude": 1.459, 
+        "longitude": 1.438, 
+        "parent_woeid": 12658703, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vautezac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.291, 
+        "sw_longitude": 1.423, 
+        "fullname": "Voutezac, Limousin, Correze, France", 
+        "sw_latitude": 45.275
+      }, 
+      "id": 632685
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.653, 
+              49.375
+            ], 
+            [
+              9.653, 
+              49.405
+            ], 
+            [
+              9.687, 
+              49.405
+            ], 
+            [
+              9.687, 
+              49.375
+            ], 
+            [
+              9.653, 
+              49.375
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 667302, 
+        "name": "Klepsau", 
+        "adjacent_woeid": [
+          662403, 
+          669825, 
+          678860, 
+          700973
+        ], 
+        "ne_latitude": 49.405, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.687, 
+        "longitude": 9.672, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12624131, 
+        "latitude": 49.388, 
+        "sw_longitude": 9.653, 
+        "fullname": "Klepsau, Baden-Wurttemberg, Hohenlohekreis, Germany", 
+        "sw_latitude": 49.375
+      }, 
+      "id": 667302
+    }
+  ]
+}

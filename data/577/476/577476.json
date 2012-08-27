@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.260, 
+              43.424
+            ], 
+            [
+              0.260, 
+              43.456
+            ], 
+            [
+              0.281, 
+              43.456
+            ], 
+            [
+              0.281, 
+              43.424
+            ], 
+            [
+              0.260, 
+              43.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 577476, 
+        "name": "Aux-Aussat", 
+        "adjacent_woeid": [
+          600881, 
+          612019, 
+          628678, 
+          629445
+        ], 
+        "ne_latitude": 43.456, 
+        "ne_longitude": 0.281, 
+        "longitude": 0.271, 
+        "parent_woeid": 12655909, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Aux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.436, 
+        "sw_longitude": 0.260, 
+        "fullname": "Aux-Aussat, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.424
+      }, 
+      "id": 577476
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.109, 
+              50.111
+            ], 
+            [
+              10.109, 
+              50.137
+            ], 
+            [
+              10.148, 
+              50.137
+            ], 
+            [
+              10.148, 
+              50.111
+            ], 
+            [
+              10.109, 
+              50.111
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646175, 
+        "name": "Ebenhausen", 
+        "adjacent_woeid": [
+          656676, 
+          669669, 
+          684904
+        ], 
+        "ne_latitude": 50.137, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.148, 
+        "longitude": 10.135, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12635505, 
+        "latitude": 50.126, 
+        "sw_longitude": 10.109, 
+        "fullname": "Ebenhausen, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.111
+      }, 
+      "id": 646175
+    }
+  ]
+}

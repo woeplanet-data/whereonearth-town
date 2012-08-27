@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.909, 
+              16.908
+            ], 
+            [
+              -97.909, 
+              16.926
+            ], 
+            [
+              -97.891, 
+              16.926
+            ], 
+            [
+              -97.891, 
+              16.908
+            ], 
+            [
+              -97.909, 
+              16.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.926, 
+        "name": "San Miguel Reyes", 
+        "adjacent_woeid": [
+          122499, 
+          124287, 
+          133437, 
+          145430, 
+          146592
+        ], 
+        "woeid": 144671, 
+        "alias_SPA_V": [
+          "S Miguel Reyes"
+        ], 
+        "ne_longitude": -97.891, 
+        "longitude": -97.900, 
+        "parent_woeid": 12600733, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.917, 
+        "sw_longitude": -97.909, 
+        "fullname": "San Miguel Reyes, Oaxaca, Putla Villa de Guerrero, Mexico", 
+        "sw_latitude": 16.908
+      }, 
+      "id": 144671
+    }
+  ]
+}

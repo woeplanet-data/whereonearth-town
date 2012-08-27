@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.026, 
+              45.945
+            ], 
+            [
+              -0.026, 
+              45.975
+            ], 
+            [
+              0.006, 
+              45.975
+            ], 
+            [
+              0.006, 
+              45.945
+            ], 
+            [
+              -0.026, 
+              45.945
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624049, 
+        "name": "St.-Fraigne", 
+        "adjacent_woeid": [
+          589358, 
+          606384, 
+          608555, 
+          622665, 
+          20198149, 
+          20198152, 
+          20198157, 
+          20198339, 
+          20198968
+        ], 
+        "ne_latitude": 45.975, 
+        "ne_longitude": 0.006, 
+        "longitude": -0.009, 
+        "parent_woeid": 12670418, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Fraigne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.953, 
+        "sw_longitude": -0.026, 
+        "fullname": "St.-Fraigne, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.945
+      }, 
+      "id": 624049
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.844, 
+              42.963
+            ], 
+            [
+              -73.844, 
+              42.981
+            ], 
+            [
+              -73.819, 
+              42.981
+            ], 
+            [
+              -73.819, 
+              42.963
+            ], 
+            [
+              -73.844, 
+              42.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2395839, 
+        "name": "East Line", 
+        "adjacent_woeid": [
+          2358761, 
+          2417779, 
+          2429911, 
+          2444542, 
+          2444551, 
+          2444552
+        ], 
+        "ne_latitude": 42.981, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Line"
+        ], 
+        "ne_longitude": -73.819, 
+        "longitude": -73.831, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:24:51Z", 
+        "parent_woeid": 12589356, 
+        "latitude": 42.972, 
+        "sw_longitude": -73.844, 
+        "fullname": "East Line, New York, Saratoga, United States", 
+        "sw_latitude": 42.963
+      }, 
+      "id": 2395839
+    }
+  ]
+}

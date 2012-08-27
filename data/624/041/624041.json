@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.276, 
+              46.997
+            ], 
+            [
+              4.276, 
+              47.021
+            ], 
+            [
+              4.313, 
+              47.021
+            ], 
+            [
+              4.313, 
+              46.997
+            ], 
+            [
+              4.276, 
+              46.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624041, 
+        "name": "St.-Forgeot", 
+        "adjacent_woeid": [
+          589163, 
+          618972, 
+          626202, 
+          20214704, 
+          20214743
+        ], 
+        "ne_latitude": 47.021, 
+        "ne_longitude": 4.313, 
+        "longitude": 4.300, 
+        "parent_woeid": 12652467, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Forgeot"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.004, 
+        "sw_longitude": 4.276, 
+        "fullname": "St.-Forgeot, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.997
+      }, 
+      "id": 624041
+    }
+  ]
+}

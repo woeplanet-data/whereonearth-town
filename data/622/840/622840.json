@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.086, 
+              43.443
+            ], 
+            [
+              2.086, 
+              43.488
+            ], 
+            [
+              2.120, 
+              43.488
+            ], 
+            [
+              2.120, 
+              43.443
+            ], 
+            [
+              2.086, 
+              43.443
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622840, 
+        "name": "St.-Amancet", 
+        "adjacent_woeid": [
+          576531, 
+          582648, 
+          600837
+        ], 
+        "ne_latitude": 43.488, 
+        "ne_longitude": 2.120, 
+        "longitude": 2.101, 
+        "parent_woeid": 12670074, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Amancet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.466, 
+        "sw_longitude": 2.086, 
+        "fullname": "St.-Amancet, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.443
+      }, 
+      "id": 622840
+    }
+  ]
+}

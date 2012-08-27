@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.510, 
+              23.308
+            ], 
+            [
+              -100.510, 
+              23.326
+            ], 
+            [
+              -100.490, 
+              23.326
+            ], 
+            [
+              -100.490, 
+              23.308
+            ], 
+            [
+              -100.510, 
+              23.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.326, 
+        "name": "Los Pocitos", 
+        "adjacent_woeid": [
+          119488, 
+          126983, 
+          133617, 
+          137446, 
+          137841, 
+          144532, 
+          146796
+        ], 
+        "woeid": 132305, 
+        "alias_SPA_V": [
+          "Pocitos"
+        ], 
+        "ne_longitude": -100.490, 
+        "longitude": -100.500, 
+        "parent_woeid": 12601489, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.317, 
+        "sw_longitude": -100.510, 
+        "fullname": "Los Pocitos, San Luis Potosi, Matehuala, Mexico", 
+        "sw_latitude": 23.308
+      }, 
+      "id": 132305
+    }
+  ]
+}

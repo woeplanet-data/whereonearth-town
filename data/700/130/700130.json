@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.283, 
+              49.405
+            ], 
+            [
+              12.283, 
+              49.435
+            ], 
+            [
+              12.302, 
+              49.435
+            ], 
+            [
+              12.302, 
+              49.405
+            ], 
+            [
+              12.283, 
+              49.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700130, 
+        "name": "Trossau", 
+        "adjacent_woeid": [
+          646017, 
+          650992, 
+          691957, 
+          694857, 
+          701127
+        ], 
+        "ne_latitude": 49.435, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.302, 
+        "longitude": 12.292, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:35Z", 
+        "parent_woeid": 12634299, 
+        "latitude": 49.418, 
+        "sw_longitude": 12.283, 
+        "fullname": "Trossau, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.405
+      }, 
+      "id": 700130
+    }
+  ]
+}

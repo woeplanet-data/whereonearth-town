@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.768, 
+              27.698
+            ], 
+            [
+              -99.768, 
+              27.711
+            ], 
+            [
+              -99.754, 
+              27.711
+            ], 
+            [
+              -99.754, 
+              27.698
+            ], 
+            [
+              -99.768, 
+              27.698
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.711, 
+        "name": "Colombia", 
+        "adjacent_woeid": [
+          119212, 
+          124831, 
+          127777, 
+          131861, 
+          150877
+        ], 
+        "woeid": 116802, 
+        "alias_SPA_V": [
+          "Columbia"
+        ], 
+        "ne_longitude": -99.754, 
+        "longitude": -99.761, 
+        "parent_woeid": 12600609, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.705, 
+        "sw_longitude": -99.768, 
+        "fullname": "Colombia, Nuevo Leon, Anahuac, Mexico", 
+        "sw_latitude": 27.698
+      }, 
+      "id": 116802
+    }
+  ]
+}

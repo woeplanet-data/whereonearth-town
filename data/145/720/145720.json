@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.893, 
+              24.613
+            ], 
+            [
+              -106.893, 
+              24.631
+            ], 
+            [
+              -106.873, 
+              24.631
+            ], 
+            [
+              -106.873, 
+              24.613
+            ], 
+            [
+              -106.893, 
+              24.613
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.631, 
+        "name": "Santa Anita", 
+        "adjacent_woeid": [
+          112869, 
+          117095, 
+          128565, 
+          130352, 
+          133516, 
+          146011
+        ], 
+        "woeid": 145720, 
+        "alias_SPA_V": [
+          "Sta. Anita"
+        ], 
+        "ne_longitude": -106.873, 
+        "longitude": -106.883, 
+        "parent_woeid": 12601532, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.622, 
+        "sw_longitude": -106.893, 
+        "fullname": "Santa Anita, Sinaloa, Cosala, Mexico", 
+        "sw_latitude": 24.613
+      }, 
+      "id": 145720
+    }
+  ]
+}

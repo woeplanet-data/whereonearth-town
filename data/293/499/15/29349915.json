@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.805, 
+              53.335
+            ], 
+            [
+              8.805, 
+              53.353
+            ], 
+            [
+              8.836, 
+              53.353
+            ], 
+            [
+              8.836, 
+              53.335
+            ], 
+            [
+              8.805, 
+              53.335
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349915, 
+        "name": "Hoher Ort", 
+        "adjacent_woeid": [
+          642371, 
+          672821, 
+          684086
+        ], 
+        "ne_latitude": 53.353, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.836, 
+        "longitude": 8.821, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:45Z", 
+        "parent_woeid": 12630199, 
+        "latitude": 53.344, 
+        "sw_longitude": 8.805, 
+        "fullname": "Hoher Ort, Lower Saxony, Landkreis Osterholz, Germany", 
+        "sw_latitude": 53.335
+      }, 
+      "id": 29349915
+    }
+  ]
+}

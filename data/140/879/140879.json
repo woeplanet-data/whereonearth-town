@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.960, 
+              29.624
+            ], 
+            [
+              -109.960, 
+              29.642
+            ], 
+            [
+              -109.940, 
+              29.642
+            ], 
+            [
+              -109.940, 
+              29.624
+            ], 
+            [
+              -109.960, 
+              29.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.642, 
+        "name": "Rodeo", 
+        "adjacent_woeid": [
+          112720, 
+          115061, 
+          116432, 
+          118010, 
+          125134, 
+          126954, 
+          133237, 
+          133848, 
+          144909
+        ], 
+        "woeid": 140879, 
+        "alias_SPA_V": [
+          "Rancho Rodeo"
+        ], 
+        "ne_longitude": -109.940, 
+        "longitude": -109.950, 
+        "parent_woeid": 12601583, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.633, 
+        "sw_longitude": -109.960, 
+        "fullname": "Rodeo, Sonora, Moctezuma, Mexico", 
+        "sw_latitude": 29.624
+      }, 
+      "id": 140879
+    }
+  ]
+}

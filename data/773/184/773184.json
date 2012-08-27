@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.303, 
+              40.476
+            ], 
+            [
+              -5.303, 
+              40.510
+            ], 
+            [
+              -5.247, 
+              40.510
+            ], 
+            [
+              -5.247, 
+              40.476
+            ], 
+            [
+              -5.303, 
+              40.476
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.510, 
+        "name": "San Miguel de Corneja", 
+        "adjacent_woeid": [
+          759001, 
+          759738, 
+          767120, 
+          777703
+        ], 
+        "woeid": 773184, 
+        "alias_SPA_V": [
+          "S. Miguel de Corneja"
+        ], 
+        "ne_longitude": -5.247, 
+        "longitude": -5.286, 
+        "parent_woeid": 12691323, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.488, 
+        "sw_longitude": -5.303, 
+        "fullname": "San Miguel de Corneja, Castille and Leon, Avila, Spain", 
+        "sw_latitude": 40.476
+      }, 
+      "id": 773184
+    }
+  ]
+}

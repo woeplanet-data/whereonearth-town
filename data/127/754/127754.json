@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.343, 
+              20.491
+            ], 
+            [
+              -102.343, 
+              20.509
+            ], 
+            [
+              -102.324, 
+              20.509
+            ], 
+            [
+              -102.324, 
+              20.491
+            ], 
+            [
+              -102.343, 
+              20.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.509, 
+        "name": "La Isla", 
+        "adjacent_woeid": [
+          119892, 
+          120792, 
+          127894, 
+          133782, 
+          143099, 
+          146702
+        ], 
+        "woeid": 127754, 
+        "alias_SPA_V": [
+          "Isla"
+        ], 
+        "ne_longitude": -102.324, 
+        "longitude": -102.333, 
+        "parent_woeid": 12600209, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.500, 
+        "sw_longitude": -102.343, 
+        "fullname": "La Isla, Jalisco, Ayotlan, Mexico", 
+        "sw_latitude": 20.491
+      }, 
+      "id": 127754
+    }
+  ]
+}

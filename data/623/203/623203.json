@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.963, 
+              48.114
+            ], 
+            [
+              5.963, 
+              48.176
+            ], 
+            [
+              6.026, 
+              48.176
+            ], 
+            [
+              6.026, 
+              48.114
+            ], 
+            [
+              5.963, 
+              48.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623203, 
+        "name": "St.-Baslemont", 
+        "adjacent_woeid": [
+          608059, 
+          618153, 
+          619082, 
+          628621
+        ], 
+        "ne_latitude": 48.176, 
+        "ne_longitude": 6.026, 
+        "longitude": 5.994, 
+        "parent_woeid": 12670183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Baslemont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.148, 
+        "sw_longitude": 5.963, 
+        "fullname": "St.-Baslemont, Lorraine, Vosges, France", 
+        "sw_latitude": 48.114
+      }, 
+      "id": 623203
+    }
+  ]
+}

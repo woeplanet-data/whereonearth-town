@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.796, 
+              46.977
+            ], 
+            [
+              5.796, 
+              47.025
+            ], 
+            [
+              5.840, 
+              47.025
+            ], 
+            [
+              5.840, 
+              46.977
+            ], 
+            [
+              5.796, 
+              46.977
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617553, 
+        "name": "Port-Lesney", 
+        "adjacent_woeid": [
+          582287, 
+          584172, 
+          587733, 
+          593606, 
+          615479, 
+          619167
+        ], 
+        "ne_latitude": 47.025, 
+        "ne_longitude": 5.840, 
+        "longitude": 5.824, 
+        "parent_woeid": 12650868, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt-Lesney"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.004, 
+        "sw_longitude": 5.796, 
+        "fullname": "Port-Lesney, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.977
+      }, 
+      "id": 617553
+    }
+  ]
+}

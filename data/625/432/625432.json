@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.933, 
+              49.105
+            ], 
+            [
+              5.933, 
+              49.137
+            ], 
+            [
+              5.970, 
+              49.137
+            ], 
+            [
+              5.970, 
+              49.105
+            ], 
+            [
+              5.933, 
+              49.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625432, 
+        "name": "St.-Marcel", 
+        "adjacent_woeid": [
+          588993, 
+          593671, 
+          595614, 
+          619307, 
+          630812, 
+          632382, 
+          20212749, 
+          20212752
+        ], 
+        "ne_latitude": 49.137, 
+        "ne_longitude": 5.970, 
+        "longitude": 5.952, 
+        "parent_woeid": 12670817, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marcel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.122, 
+        "sw_longitude": 5.933, 
+        "fullname": "St.-Marcel, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 49.105
+      }, 
+      "id": 625432
+    }
+  ]
+}

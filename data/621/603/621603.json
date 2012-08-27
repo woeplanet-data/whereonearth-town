@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.483, 
+              43.003
+            ], 
+            [
+              0.483, 
+              43.040
+            ], 
+            [
+              0.511, 
+              43.040
+            ], 
+            [
+              0.511, 
+              43.003
+            ], 
+            [
+              0.483, 
+              43.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621603, 
+        "name": "Seich", 
+        "adjacent_woeid": [
+          580070, 
+          592603, 
+          612500, 
+          620573, 
+          15003181, 
+          20194047, 
+          20194049
+        ], 
+        "ne_latitude": 43.040, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.511, 
+        "longitude": 0.489, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12655492, 
+        "latitude": 43.018, 
+        "sw_longitude": 0.483, 
+        "fullname": "Seich, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.003
+      }, 
+      "id": 621603
+    }
+  ]
+}

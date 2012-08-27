@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.938, 
+              44.512
+            ], 
+            [
+              1.938, 
+              44.554
+            ], 
+            [
+              1.973, 
+              44.554
+            ], 
+            [
+              1.973, 
+              44.512
+            ], 
+            [
+              1.938, 
+              44.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626533, 
+        "name": "St.-Pierre-Toirac", 
+        "adjacent_woeid": [
+          577917, 
+          578966, 
+          583029, 
+          590699, 
+          592205, 
+          601565
+        ], 
+        "ne_latitude": 44.554, 
+        "ne_longitude": 1.973, 
+        "longitude": 1.955, 
+        "parent_woeid": 12671109, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre-Toirac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.527, 
+        "sw_longitude": 1.938, 
+        "fullname": "St.-Pierre-Toirac, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.512
+      }, 
+      "id": 626533
+    }
+  ]
+}

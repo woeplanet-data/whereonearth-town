@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.218, 
+              13.853
+            ], 
+            [
+              -88.218, 
+              13.872
+            ], 
+            [
+              -88.199, 
+              13.872
+            ], 
+            [
+              -88.199, 
+              13.853
+            ], 
+            [
+              -88.218, 
+              13.853
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.872, 
+        "name": "El Rosario", 
+        "adjacent_woeid": [
+          78085, 
+          78268, 
+          79062, 
+          79192, 
+          79566, 
+          79841, 
+          80109
+        ], 
+        "woeid": 77836, 
+        "alias_SPA_V": [
+          "Villa Rosario"
+        ], 
+        "ne_longitude": -88.199, 
+        "longitude": -88.208, 
+        "parent_woeid": 26808661, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.863, 
+        "sw_longitude": -88.218, 
+        "fullname": "El Rosario, Moraz\u00e1n, El Rosario, El Salvador", 
+        "sw_latitude": 13.853
+      }, 
+      "id": 77836
+    }
+  ]
+}

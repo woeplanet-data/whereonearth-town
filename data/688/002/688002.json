@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.222, 
+              48.240
+            ], 
+            [
+              10.222, 
+              48.261
+            ], 
+            [
+              10.261, 
+              48.261
+            ], 
+            [
+              10.261, 
+              48.240
+            ], 
+            [
+              10.222, 
+              48.240
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688002, 
+        "name": "Rennertshofen", 
+        "adjacent_woeid": [
+          643147, 
+          663549, 
+          674991, 
+          680401
+        ], 
+        "ne_latitude": 48.261, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.261, 
+        "longitude": 10.232, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12634855, 
+        "latitude": 48.247, 
+        "sw_longitude": 10.222, 
+        "fullname": "Rennertshofen, Bavaria, Landkreis Neu-Ulm, Germany", 
+        "sw_latitude": 48.240
+      }, 
+      "id": 688002
+    }
+  ]
+}

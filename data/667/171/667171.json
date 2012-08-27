@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.595, 
+              48.771
+            ], 
+            [
+              10.595, 
+              48.801
+            ], 
+            [
+              10.623, 
+              48.801
+            ], 
+            [
+              10.623, 
+              48.771
+            ], 
+            [
+              10.595, 
+              48.771
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 667171, 
+        "name": "Kleinsorheim", 
+        "adjacent_woeid": [
+          655215, 
+          671756, 
+          675769, 
+          691319, 
+          709086
+        ], 
+        "ne_latitude": 48.801, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.623, 
+        "longitude": 10.605, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635007, 
+        "latitude": 48.789, 
+        "sw_longitude": 10.595, 
+        "fullname": "Kleinsorheim, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.771
+      }, 
+      "id": 667171
+    }
+  ]
+}

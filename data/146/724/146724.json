@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.753, 
+              16.256
+            ], 
+            [
+              -91.753, 
+              16.274
+            ], 
+            [
+              -91.734, 
+              16.274
+            ], 
+            [
+              -91.734, 
+              16.256
+            ], 
+            [
+              -91.753, 
+              16.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.274, 
+        "name": "Santa Rita", 
+        "adjacent_woeid": [
+          112107, 
+          115836, 
+          120180, 
+          130601, 
+          145276
+        ], 
+        "woeid": 146724, 
+        "alias_SPA_V": [
+          "Sta Rita"
+        ], 
+        "ne_longitude": -91.734, 
+        "longitude": -91.743, 
+        "parent_woeid": 12599760, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.265, 
+        "sw_longitude": -91.753, 
+        "fullname": "Santa Rita, Chiapas, Las Margaritas, Mexico", 
+        "sw_latitude": 16.256
+      }, 
+      "id": 146724
+    }
+  ]
+}

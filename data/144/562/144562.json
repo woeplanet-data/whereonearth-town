@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.726, 
+              19.658
+            ], 
+            [
+              -104.726, 
+              19.676
+            ], 
+            [
+              -104.707, 
+              19.676
+            ], 
+            [
+              -104.707, 
+              19.658
+            ], 
+            [
+              -104.726, 
+              19.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.676, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          123390, 
+          125937, 
+          130816, 
+          131426, 
+          134256, 
+          147973, 
+          148563, 
+          151602
+        ], 
+        "woeid": 144562, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -104.707, 
+        "longitude": -104.717, 
+        "parent_woeid": 12600310, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.667, 
+        "sw_longitude": -104.726, 
+        "fullname": "San Miguel, Jalisco, Villa Purificacion, Mexico", 
+        "sw_latitude": 19.658
+      }, 
+      "id": 144562
+    }
+  ]
+}

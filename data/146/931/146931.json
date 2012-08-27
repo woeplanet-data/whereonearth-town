@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.027, 
+              27.541
+            ], 
+            [
+              -110.027, 
+              27.559
+            ], 
+            [
+              -110.006, 
+              27.559
+            ], 
+            [
+              -110.006, 
+              27.541
+            ], 
+            [
+              -110.027, 
+              27.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.559, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          111983, 
+          112902, 
+          113361, 
+          114088, 
+          116694, 
+          117371, 
+          135376, 
+          55885983
+        ], 
+        "woeid": 146931, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -110.006, 
+        "longitude": -110.017, 
+        "parent_woeid": 12601556, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.550, 
+        "sw_longitude": -110.027, 
+        "fullname": "Santa Teresa, Sonora, Bacum, Mexico", 
+        "sw_latitude": 27.541
+      }, 
+      "id": 146931
+    }
+  ]
+}

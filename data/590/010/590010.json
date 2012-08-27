@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.173, 
+              48.119
+            ], 
+            [
+              2.173, 
+              48.150
+            ], 
+            [
+              2.209, 
+              48.150
+            ], 
+            [
+              2.209, 
+              48.119
+            ], 
+            [
+              2.173, 
+              48.119
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590010, 
+        "name": "Escrennes", 
+        "adjacent_woeid": [
+          591923, 
+          600529, 
+          609929, 
+          613161, 
+          616733
+        ], 
+        "ne_latitude": 48.150, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.209, 
+        "longitude": 2.191, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:29Z", 
+        "parent_woeid": 12643440, 
+        "latitude": 48.134, 
+        "sw_longitude": 2.173, 
+        "fullname": "Escrennes, Centre, Loiret, France", 
+        "sw_latitude": 48.119
+      }, 
+      "id": 590010
+    }
+  ]
+}

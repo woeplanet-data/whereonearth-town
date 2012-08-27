@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.074, 
+              37.477
+            ], 
+            [
+              -122.074, 
+              37.564
+            ], 
+            [
+              -121.988, 
+              37.564
+            ], 
+            [
+              -121.988, 
+              37.477
+            ], 
+            [
+              -122.074, 
+              37.477
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2459268, 
+        "name": "Newark", 
+        "adjacent_woeid": [
+          2395993, 
+          2407405, 
+          2467861, 
+          2509769
+        ], 
+        "ne_latitude": 37.564, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -121.988, 
+        "longitude": -122.030, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:58Z", 
+        "parent_woeid": 12587670, 
+        "latitude": 37.536, 
+        "sw_longitude": -122.074, 
+        "fullname": "Newark, California, Alameda, United States", 
+        "sw_latitude": 37.477
+      }, 
+      "id": 2459268
+    }
+  ]
+}

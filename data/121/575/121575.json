@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.073, 
+              24.878
+            ], 
+            [
+              -104.073, 
+              24.897
+            ], 
+            [
+              -104.052, 
+              24.897
+            ], 
+            [
+              -104.052, 
+              24.878
+            ], 
+            [
+              -104.073, 
+              24.878
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.897, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          117524, 
+          125371, 
+          126156, 
+          127015, 
+          127413, 
+          151395
+        ], 
+        "woeid": 121575, 
+        "alias_SPA_V": [
+          "Rancho El Porvenir"
+        ], 
+        "ne_longitude": -104.052, 
+        "longitude": -104.062, 
+        "parent_woeid": 12599971, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.888, 
+        "sw_longitude": -104.073, 
+        "fullname": "El Porvenir, Durango, Penon Blanco, Mexico", 
+        "sw_latitude": 24.878
+      }, 
+      "id": 121575
+    }
+  ]
+}

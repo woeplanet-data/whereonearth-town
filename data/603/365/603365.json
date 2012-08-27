@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.562, 
+              48.053
+            ], 
+            [
+              0.562, 
+              48.088
+            ], 
+            [
+              0.611, 
+              48.088
+            ], 
+            [
+              0.611, 
+              48.053
+            ], 
+            [
+              0.562, 
+              48.053
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603365, 
+        "name": "Le Luart", 
+        "adjacent_woeid": [
+          580981, 
+          589277, 
+          601827, 
+          621475, 
+          625386
+        ], 
+        "ne_latitude": 48.088, 
+        "ne_longitude": 0.611, 
+        "longitude": 0.587, 
+        "parent_woeid": 12664894, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Laurt"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.070, 
+        "sw_longitude": 0.562, 
+        "fullname": "Le Luart, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.053
+      }, 
+      "id": 603365
+    }
+  ]
+}

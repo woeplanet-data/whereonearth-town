@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.706, 
+              49.360
+            ], 
+            [
+              5.706, 
+              49.395
+            ], 
+            [
+              5.752, 
+              49.395
+            ], 
+            [
+              5.752, 
+              49.360
+            ], 
+            [
+              5.706, 
+              49.360
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627063, 
+        "name": "St.-Supplet", 
+        "adjacent_woeid": [
+          594256, 
+          614930, 
+          633015, 
+          15003136
+        ], 
+        "ne_latitude": 49.395, 
+        "ne_longitude": 5.752, 
+        "longitude": 5.735, 
+        "parent_woeid": 12671277, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Supplet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.382, 
+        "sw_longitude": 5.706, 
+        "fullname": "St.-Supplet, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 49.360
+      }, 
+      "id": 627063
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.477, 
+              50.580
+            ], 
+            [
+              12.477, 
+              50.605
+            ], 
+            [
+              12.504, 
+              50.605
+            ], 
+            [
+              12.504, 
+              50.580
+            ], 
+            [
+              12.477, 
+              50.580
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670710, 
+        "name": "Lauterhofen", 
+        "adjacent_woeid": [
+          652484, 
+          671474, 
+          696320, 
+          707591
+        ], 
+        "ne_latitude": 50.605, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.504, 
+        "longitude": 12.492, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:19Z", 
+        "parent_woeid": 12625668, 
+        "latitude": 50.589, 
+        "sw_longitude": 12.477, 
+        "fullname": "Lauterhofen, Saxony, Zwickauer Land, Germany", 
+        "sw_latitude": 50.580
+      }, 
+      "id": 670710
+    }
+  ]
+}

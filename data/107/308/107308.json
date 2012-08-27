@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.041, 
+              15.888
+            ], 
+            [
+              -86.041, 
+              15.906
+            ], 
+            [
+              -86.022, 
+              15.906
+            ], 
+            [
+              -86.022, 
+              15.888
+            ], 
+            [
+              -86.041, 
+              15.888
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.906, 
+        "name": "Santa Fe", 
+        "adjacent_woeid": [
+          98207, 
+          105267, 
+          106461, 
+          107901
+        ], 
+        "woeid": 107308, 
+        "alias_SPA_V": [
+          "Sta Fe"
+        ], 
+        "ne_longitude": -86.022, 
+        "longitude": -86.031, 
+        "parent_woeid": 26813830, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.897, 
+        "sw_longitude": -86.041, 
+        "fullname": "Santa Fe, Col\u00f3n, Santa F\u00e9, Honduras", 
+        "sw_latitude": 15.888
+      }, 
+      "id": 107308
+    }
+  ]
+}

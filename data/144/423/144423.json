@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.368, 
+              17.565
+            ], 
+            [
+              -98.368, 
+              17.583
+            ], 
+            [
+              -98.349, 
+              17.583
+            ], 
+            [
+              -98.349, 
+              17.565
+            ], 
+            [
+              -98.368, 
+              17.565
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.583, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          143831, 
+          144439, 
+          149638
+        ], 
+        "woeid": 144423, 
+        "alias_SPA_V": [
+          "S Mateo"
+        ], 
+        "ne_longitude": -98.349, 
+        "longitude": -98.358, 
+        "parent_woeid": 12600101, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.574, 
+        "sw_longitude": -98.368, 
+        "fullname": "San Mateo, Guerrero, Tlalixtaquilla de Maldonado, Mexico", 
+        "sw_latitude": 17.565
+      }, 
+      "id": 144423
+    }
+  ]
+}

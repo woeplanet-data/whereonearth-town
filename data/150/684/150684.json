@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.993, 
+              21.508
+            ], 
+            [
+              -104.993, 
+              21.526
+            ], 
+            [
+              -104.974, 
+              21.526
+            ], 
+            [
+              -104.974, 
+              21.508
+            ], 
+            [
+              -104.993, 
+              21.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.526, 
+        "name": "Venustiano Carranza", 
+        "adjacent_woeid": [
+          113370, 
+          118874, 
+          122820, 
+          131262, 
+          135532, 
+          136824
+        ], 
+        "woeid": 150684, 
+        "alias_SPA_V": [
+          "El Gringo"
+        ], 
+        "ne_longitude": -104.974, 
+        "longitude": -104.983, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.517, 
+        "sw_longitude": -104.993, 
+        "fullname": "Venustiano Carranza, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.508
+      }, 
+      "id": 150684
+    }
+  ]
+}

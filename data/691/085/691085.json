@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.951, 
+              50.251
+            ], 
+            [
+              6.951, 
+              50.278
+            ], 
+            [
+              6.975, 
+              50.278
+            ], 
+            [
+              6.975, 
+              50.251
+            ], 
+            [
+              6.951, 
+              50.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 691085, 
+        "name": "Sassen", 
+        "adjacent_woeid": [
+          655819, 
+          668061, 
+          668444, 
+          676292
+        ], 
+        "ne_latitude": 50.278, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.975, 
+        "longitude": 6.965, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12629333, 
+        "latitude": 50.266, 
+        "sw_longitude": 6.951, 
+        "fullname": "Sassen, Rhineland-Palatinate, Landkreis Daun, Germany", 
+        "sw_latitude": 50.251
+      }, 
+      "id": 691085
+    }
+  ]
+}

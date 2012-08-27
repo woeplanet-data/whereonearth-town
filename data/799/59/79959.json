@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.859, 
+              13.709
+            ], 
+            [
+              -88.859, 
+              13.723
+            ], 
+            [
+              -88.845, 
+              13.723
+            ], 
+            [
+              -88.845, 
+              13.709
+            ], 
+            [
+              -88.859, 
+              13.709
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.723, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          76974, 
+          77322, 
+          79493, 
+          79710, 
+          79807, 
+          79829, 
+          80075, 
+          80175, 
+          26809421, 
+          26809483
+        ], 
+        "woeid": 79959, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -88.845, 
+        "longitude": -88.852, 
+        "parent_woeid": 26808741, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.716, 
+        "sw_longitude": -88.859, 
+        "fullname": "Santo Domingo, San Vicente, Santo Domingo, El Salvador", 
+        "sw_latitude": 13.709
+      }, 
+      "id": 79959
+    }
+  ]
+}

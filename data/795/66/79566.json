@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.237, 
+              13.846
+            ], 
+            [
+              -88.237, 
+              13.860
+            ], 
+            [
+              -88.222, 
+              13.860
+            ], 
+            [
+              -88.222, 
+              13.846
+            ], 
+            [
+              -88.237, 
+              13.846
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.860, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          77836, 
+          79416, 
+          79841, 
+          80109, 
+          26809444
+        ], 
+        "woeid": 79566, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -88.222, 
+        "longitude": -88.230, 
+        "parent_woeid": 26808673, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.853, 
+        "sw_longitude": -88.237, 
+        "fullname": "San Isidro, Moraz\u00e1n, San Isidro, El Salvador", 
+        "sw_latitude": 13.846
+      }, 
+      "id": 79566
+    }
+  ]
+}

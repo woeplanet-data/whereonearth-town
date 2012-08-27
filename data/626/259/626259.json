@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.882, 
+              45.200
+            ], 
+            [
+              1.882, 
+              45.228
+            ], 
+            [
+              1.910, 
+              45.228
+            ], 
+            [
+              1.910, 
+              45.200
+            ], 
+            [
+              1.882, 
+              45.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626259, 
+        "name": "St.-Paul", 
+        "adjacent_woeid": [
+          584147, 
+          590035, 
+          594125, 
+          609779, 
+          615591, 
+          627067
+        ], 
+        "ne_latitude": 45.228, 
+        "ne_longitude": 1.910, 
+        "longitude": 1.896, 
+        "parent_woeid": 12663044, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Paul"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.219, 
+        "sw_longitude": 1.882, 
+        "fullname": "St.-Paul, Limousin, Correze, France", 
+        "sw_latitude": 45.200
+      }, 
+      "id": 626259
+    }
+  ]
+}

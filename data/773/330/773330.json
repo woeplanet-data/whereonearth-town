@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.059, 
+              42.142
+            ], 
+            [
+              3.059, 
+              42.225
+            ], 
+            [
+              3.115, 
+              42.225
+            ], 
+            [
+              3.115, 
+              42.142
+            ], 
+            [
+              3.059, 
+              42.142
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.225, 
+        "name": "Sant Pere Pescador", 
+        "adjacent_woeid": [
+          752979, 
+          756801, 
+          763319, 
+          775876, 
+          777398, 
+          779225, 
+          29369601, 
+          29369895
+        ], 
+        "woeid": 773330, 
+        "alias_SPA_V": [
+          "San Pedro Pescador"
+        ], 
+        "ne_longitude": 3.115, 
+        "longitude": 3.081, 
+        "parent_woeid": 12693855, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.188, 
+        "sw_longitude": 3.059, 
+        "fullname": "Sant Pere Pescador, Catalonia, Gerona, Spain", 
+        "sw_latitude": 42.142
+      }, 
+      "id": 773330
+    }
+  ]
+}

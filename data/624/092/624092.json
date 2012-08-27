@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.322, 
+              43.822
+            ], 
+            [
+              -0.322, 
+              43.855
+            ], 
+            [
+              -0.286, 
+              43.855
+            ], 
+            [
+              -0.286, 
+              43.822
+            ], 
+            [
+              -0.322, 
+              43.822
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624092, 
+        "name": "St.-Gein", 
+        "adjacent_woeid": [
+          583215, 
+          594930, 
+          616115, 
+          618312
+        ], 
+        "ne_latitude": 43.855, 
+        "ne_longitude": -0.286, 
+        "longitude": -0.301, 
+        "parent_woeid": 12652474, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gein"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.836, 
+        "sw_longitude": -0.322, 
+        "fullname": "St.-Gein, Aquitaine, Landes, France", 
+        "sw_latitude": 43.822
+      }, 
+      "id": 624092
+    }
+  ]
+}

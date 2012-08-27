@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.886, 
+              49.602
+            ], 
+            [
+              0.886, 
+              49.632
+            ], 
+            [
+              0.909, 
+              49.632
+            ], 
+            [
+              0.909, 
+              49.602
+            ], 
+            [
+              0.886, 
+              49.602
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585980, 
+        "name": "Cideville", 
+        "adjacent_woeid": [
+          577526, 
+          578944, 
+          608133, 
+          611251
+        ], 
+        "ne_latitude": 49.632, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.909, 
+        "longitude": 0.895, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12641706, 
+        "latitude": 49.615, 
+        "sw_longitude": 0.886, 
+        "fullname": "Cideville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.602
+      }, 
+      "id": 585980
+    }
+  ]
+}

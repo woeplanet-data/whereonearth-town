@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.143, 
+              25.991
+            ], 
+            [
+              -101.143, 
+              26.009
+            ], 
+            [
+              -101.123, 
+              26.009
+            ], 
+            [
+              -101.123, 
+              25.991
+            ], 
+            [
+              -101.143, 
+              25.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.009, 
+        "name": "La Leona", 
+        "adjacent_woeid": [
+          112026, 
+          130345, 
+          134574, 
+          140498
+        ], 
+        "woeid": 128012, 
+        "alias_SPA_V": [
+          "Leona"
+        ], 
+        "ne_longitude": -101.123, 
+        "longitude": -101.133, 
+        "parent_woeid": 12599912, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.000, 
+        "sw_longitude": -101.143, 
+        "fullname": "La Leona, Coahuila de Zaragoza, Ramos Arizpe, Mexico", 
+        "sw_latitude": 25.991
+      }, 
+      "id": 128012
+    }
+  ]
+}

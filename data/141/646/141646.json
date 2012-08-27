@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.008, 
+              21.376
+            ], 
+            [
+              -99.008, 
+              21.390
+            ], 
+            [
+              -98.992, 
+              21.390
+            ], 
+            [
+              -98.992, 
+              21.376
+            ], 
+            [
+              -99.008, 
+              21.376
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.390, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          111629, 
+          120745, 
+          125192, 
+          148066, 
+          149336, 
+          151126
+        ], 
+        "woeid": 141646, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -98.992, 
+        "longitude": -99.000, 
+        "parent_woeid": 12601525, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.383, 
+        "sw_longitude": -99.008, 
+        "fullname": "San Antonio, San Luis Potosi, Xilitla, Mexico", 
+        "sw_latitude": 21.376
+      }, 
+      "id": 141646
+    }
+  ]
+}

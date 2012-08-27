@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.412, 
+              13.799
+            ], 
+            [
+              -88.412, 
+              13.813
+            ], 
+            [
+              -88.397, 
+              13.813
+            ], 
+            [
+              -88.397, 
+              13.799
+            ], 
+            [
+              -88.412, 
+              13.799
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.813, 
+        "name": "San Gerardo", 
+        "adjacent_woeid": [
+          79156, 
+          79728, 
+          79970, 
+          26809418, 
+          26809419
+        ], 
+        "woeid": 79555, 
+        "alias_SPA_V": [
+          "S Gerardo"
+        ], 
+        "ne_longitude": -88.397, 
+        "longitude": -88.404, 
+        "parent_woeid": 26808693, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.806, 
+        "sw_longitude": -88.412, 
+        "fullname": "San Gerardo, San Miguel, San Gerardo, El Salvador", 
+        "sw_latitude": 13.799
+      }, 
+      "id": 79555
+    }
+  ]
+}

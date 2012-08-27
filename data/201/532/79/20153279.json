@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.385, 
+              47.901
+            ], 
+            [
+              12.385, 
+              47.910
+            ], 
+            [
+              12.398, 
+              47.910
+            ], 
+            [
+              12.398, 
+              47.901
+            ], 
+            [
+              12.385, 
+              47.901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20153279, 
+        "name": "Haus", 
+        "adjacent_woeid": [
+          650642, 
+          20153275, 
+          20153300, 
+          20153302, 
+          23411715
+        ], 
+        "ne_latitude": 47.910, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.398, 
+        "longitude": 12.391, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:29Z", 
+        "parent_woeid": 12635764, 
+        "latitude": 47.905, 
+        "sw_longitude": 12.385, 
+        "fullname": "Haus, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.901
+      }, 
+      "id": 20153279
+    }
+  ]
+}

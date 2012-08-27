@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.936, 
+              21.165
+            ], 
+            [
+              -100.936, 
+              21.183
+            ], 
+            [
+              -100.917, 
+              21.183
+            ], 
+            [
+              -100.917, 
+              21.165
+            ], 
+            [
+              -100.936, 
+              21.165
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.183, 
+        "name": "San Antonio del Carmen", 
+        "adjacent_woeid": [
+          120633, 
+          122087, 
+          126578, 
+          129543, 
+          137346, 
+          144843, 
+          148201, 
+          149035
+        ], 
+        "woeid": 141831, 
+        "alias_SPA_V": [
+          "S. Antonio del Carmen"
+        ], 
+        "ne_longitude": -100.917, 
+        "longitude": -100.927, 
+        "parent_woeid": 12600002, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.174, 
+        "sw_longitude": -100.936, 
+        "fullname": "San Antonio del Carmen, Guanajuato, Dolores Hidalgo, Mexico", 
+        "sw_latitude": 21.165
+      }, 
+      "id": 141831
+    }
+  ]
+}

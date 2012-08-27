@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.149, 
+              47.255
+            ], 
+            [
+              3.149, 
+              47.264
+            ], 
+            [
+              3.163, 
+              47.264
+            ], 
+            [
+              3.163, 
+              47.255
+            ], 
+            [
+              3.149, 
+              47.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20214344, 
+        "name": "Guichy", 
+        "adjacent_woeid": [
+          584793, 
+          605458, 
+          613844, 
+          631193
+        ], 
+        "ne_latitude": 47.264, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.163, 
+        "longitude": 3.156, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12648012, 
+        "latitude": 47.259, 
+        "sw_longitude": 3.149, 
+        "fullname": "Guichy, Burgundy, Nievre, France", 
+        "sw_latitude": 47.255
+      }, 
+      "id": 20214344
+    }
+  ]
+}

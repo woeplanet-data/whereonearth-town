@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.543, 
+              18.974
+            ], 
+            [
+              -99.543, 
+              18.992
+            ], 
+            [
+              -99.524, 
+              18.992
+            ], 
+            [
+              -99.524, 
+              18.974
+            ], 
+            [
+              -99.543, 
+              18.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.992, 
+        "name": "San Simonito", 
+        "adjacent_woeid": [
+          112642, 
+          125996, 
+          148719, 
+          148721, 
+          151830, 
+          55886832, 
+          55889543
+        ], 
+        "woeid": 145463, 
+        "alias_SPA_V": [
+          "S Simonito"
+        ], 
+        "ne_longitude": -99.524, 
+        "longitude": -99.533, 
+        "parent_woeid": 12600407, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.983, 
+        "sw_longitude": -99.543, 
+        "fullname": "San Simonito, Mexico, Tenancingo, Mexico", 
+        "sw_latitude": 18.974
+      }, 
+      "id": 145463
+    }
+  ]
+}

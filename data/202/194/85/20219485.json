@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.451, 
+              45.842
+            ], 
+            [
+              3.451, 
+              45.882
+            ], 
+            [
+              3.486, 
+              45.882
+            ], 
+            [
+              3.486, 
+              45.842
+            ], 
+            [
+              3.451, 
+              45.842
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20219485, 
+        "name": "Pont Astier", 
+        "adjacent_woeid": [
+          589031, 
+          29332081, 
+          29332096
+        ], 
+        "ne_latitude": 45.882, 
+        "ne_longitude": 3.486, 
+        "longitude": 3.472, 
+        "parent_woeid": 12640875, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pont-Astier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.869, 
+        "sw_longitude": 3.451, 
+        "fullname": "Pont Astier, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.842
+      }, 
+      "id": 20219485
+    }
+  ]
+}

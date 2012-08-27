@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.379, 
+              19.358
+            ], 
+            [
+              -96.379, 
+              19.376
+            ], 
+            [
+              -96.359, 
+              19.376
+            ], 
+            [
+              -96.359, 
+              19.358
+            ], 
+            [
+              -96.379, 
+              19.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.376, 
+        "name": "La Antigua Veracruz", 
+        "adjacent_woeid": [
+          120936, 
+          130062, 
+          136169, 
+          141243, 
+          149763
+        ], 
+        "woeid": 126358, 
+        "alias_SPA_V": [
+          "La Antigua"
+        ], 
+        "ne_longitude": -96.359, 
+        "longitude": -96.369, 
+        "parent_woeid": 12601813, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.367, 
+        "sw_longitude": -96.379, 
+        "fullname": "La Antigua Veracruz, Veracruz-Llave, La Antigua, Mexico", 
+        "sw_latitude": 19.358
+      }, 
+      "id": 126358
+    }
+  ]
+}

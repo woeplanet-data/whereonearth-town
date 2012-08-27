@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.285, 
+              48.831
+            ], 
+            [
+              5.285, 
+              48.888
+            ], 
+            [
+              5.328, 
+              48.888
+            ], 
+            [
+              5.328, 
+              48.831
+            ], 
+            [
+              5.285, 
+              48.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579218, 
+        "name": "Belrain", 
+        "adjacent_woeid": [
+          589887, 
+          614277, 
+          620036, 
+          631556, 
+          632277
+        ], 
+        "ne_latitude": 48.888, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.328, 
+        "longitude": 5.306, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12656755, 
+        "latitude": 48.864, 
+        "sw_longitude": 5.285, 
+        "fullname": "Belrain, Lorraine, Meuse, France", 
+        "sw_latitude": 48.831
+      }, 
+      "id": 579218
+    }
+  ]
+}

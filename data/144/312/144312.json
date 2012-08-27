@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.077, 
+              24.691
+            ], 
+            [
+              -100.077, 
+              24.709
+            ], 
+            [
+              -100.057, 
+              24.709
+            ], 
+            [
+              -100.057, 
+              24.691
+            ], 
+            [
+              -100.077, 
+              24.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.709, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          123837, 
+          128835, 
+          128905, 
+          137834, 
+          145896, 
+          146672
+        ], 
+        "woeid": 144312, 
+        "alias_SPA_V": [
+          "S. Marcos"
+        ], 
+        "ne_longitude": -100.057, 
+        "longitude": -100.067, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.700, 
+        "sw_longitude": -100.077, 
+        "fullname": "San Marcos, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.691
+      }, 
+      "id": 144312
+    }
+  ]
+}

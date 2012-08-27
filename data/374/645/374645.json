@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.121, 
+              0.295
+            ], 
+            [
+              -78.121, 
+              0.305
+            ], 
+            [
+              -78.112, 
+              0.305
+            ], 
+            [
+              -78.112, 
+              0.295
+            ], 
+            [
+              -78.121, 
+              0.295
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.305, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          373055, 
+          375925
+        ], 
+        "woeid": 374645, 
+        "alias_SPA_V": [
+          "S. Antonio de Ibarra"
+        ], 
+        "ne_longitude": -78.112, 
+        "longitude": -78.117, 
+        "parent_woeid": 26810090, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.300, 
+        "sw_longitude": -78.121, 
+        "fullname": "San Antonio, Imbabura, Ibarra, Ecuador", 
+        "sw_latitude": 0.295
+      }, 
+      "id": 374645
+    }
+  ]
+}

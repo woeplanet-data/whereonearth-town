@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.547, 
+              48.975
+            ], 
+            [
+              10.547, 
+              49.010
+            ], 
+            [
+              10.578, 
+              49.010
+            ], 
+            [
+              10.578, 
+              48.975
+            ], 
+            [
+              10.547, 
+              48.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648433, 
+        "name": "Erlbach", 
+        "adjacent_woeid": [
+          641081, 
+          645378, 
+          660359, 
+          672315, 
+          672461, 
+          679565
+        ], 
+        "ne_latitude": 49.010, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.578, 
+        "longitude": 10.563, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12636065, 
+        "latitude": 48.984, 
+        "sw_longitude": 10.547, 
+        "fullname": "Erlbach, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.975
+      }, 
+      "id": 648433
+    }
+  ]
+}

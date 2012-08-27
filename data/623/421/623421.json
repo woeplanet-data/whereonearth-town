@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.017, 
+              43.532
+            ], 
+            [
+              5.017, 
+              43.572
+            ], 
+            [
+              5.050, 
+              43.572
+            ], 
+            [
+              5.050, 
+              43.532
+            ], 
+            [
+              5.017, 
+              43.532
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623421, 
+        "name": "St.-Chamas", 
+        "adjacent_woeid": [
+          579459, 
+          587061, 
+          593637, 
+          601115, 
+          610581, 
+          611593, 
+          611594
+        ], 
+        "ne_latitude": 43.572, 
+        "ne_longitude": 5.050, 
+        "longitude": 5.033, 
+        "parent_woeid": 12670245, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Chamas"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.550, 
+        "sw_longitude": 5.017, 
+        "fullname": "St.-Chamas, Provence-Alpes-Cote d'Azur, Bouches-du-Rhone, France", 
+        "sw_latitude": 43.532
+      }, 
+      "id": 623421
+    }
+  ]
+}

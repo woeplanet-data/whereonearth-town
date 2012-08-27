@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.988, 
+              47.341
+            ], 
+            [
+              15.988, 
+              47.357
+            ], 
+            [
+              16.012, 
+              47.357
+            ], 
+            [
+              16.012, 
+              47.341
+            ], 
+            [
+              15.988, 
+              47.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20096000, 
+        "name": "Kleinlungitz", 
+        "adjacent_woeid": [
+          548300, 
+          548327, 
+          549646, 
+          28996370
+        ], 
+        "ne_latitude": 47.357, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.012, 
+        "longitude": 16.000, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12675092, 
+        "latitude": 47.349, 
+        "sw_longitude": 15.988, 
+        "fullname": "Kleinlungitz, Styria, Hartberg, Austria", 
+        "sw_latitude": 47.341
+      }, 
+      "id": 20096000
+    }
+  ]
+}

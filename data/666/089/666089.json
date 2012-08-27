@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.036, 
+              50.618
+            ], 
+            [
+              9.036, 
+              50.655
+            ], 
+            [
+              9.058, 
+              50.655
+            ], 
+            [
+              9.058, 
+              50.618
+            ], 
+            [
+              9.036, 
+              50.618
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666089, 
+        "name": "Kirschgarten", 
+        "adjacent_woeid": [
+          679262, 
+          706010, 
+          20162396
+        ], 
+        "ne_latitude": 50.655, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.058, 
+        "longitude": 9.048, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12632729, 
+        "latitude": 50.631, 
+        "sw_longitude": 9.036, 
+        "fullname": "Kirschgarten, Hesse, Vogelbergkreis, Germany", 
+        "sw_latitude": 50.618
+      }, 
+      "id": 666089
+    }
+  ]
+}

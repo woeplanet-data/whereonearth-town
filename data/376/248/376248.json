@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.569, 
+              -1.634
+            ], 
+            [
+              -79.569, 
+              -1.616
+            ], 
+            [
+              -79.550, 
+              -1.616
+            ], 
+            [
+              -79.550, 
+              -1.634
+            ], 
+            [
+              -79.569, 
+              -1.634
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -1.616, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          369837, 
+          371097, 
+          372855, 
+          374091, 
+          374458, 
+          375811
+        ], 
+        "woeid": 376248, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -79.550, 
+        "longitude": -79.560, 
+        "parent_woeid": 26810446, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.625, 
+        "sw_longitude": -79.569, 
+        "fullname": "San Juan, Los Rios, Puebloviejo, Ecuador", 
+        "sw_latitude": -1.634
+      }, 
+      "id": 376248
+    }
+  ]
+}

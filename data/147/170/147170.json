@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.477, 
+              25.791
+            ], 
+            [
+              -104.477, 
+              25.809
+            ], 
+            [
+              -104.457, 
+              25.809
+            ], 
+            [
+              -104.457, 
+              25.791
+            ], 
+            [
+              -104.477, 
+              25.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.809, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          116393, 
+          116484, 
+          118409, 
+          129674, 
+          136442
+        ], 
+        "woeid": 147170, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -104.457, 
+        "longitude": -104.467, 
+        "parent_woeid": 12599980, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.800, 
+        "sw_longitude": -104.477, 
+        "fullname": "Santo Domingo, Durango, San Pedro del Gallo, Mexico", 
+        "sw_latitude": 25.791
+      }, 
+      "id": 147170
+    }
+  ]
+}

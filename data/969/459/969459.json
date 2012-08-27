@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.299, 
+              50.669
+            ], 
+            [
+              3.299, 
+              50.687
+            ], 
+            [
+              3.327, 
+              50.687
+            ], 
+            [
+              3.327, 
+              50.669
+            ], 
+            [
+              3.299, 
+              50.669
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 969459, 
+        "name": "Estaimbourg", 
+        "adjacent_woeid": [
+          966815, 
+          973208, 
+          974737, 
+          977239
+        ], 
+        "ne_latitude": 50.687, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.327, 
+        "longitude": 3.313, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:04Z", 
+        "parent_woeid": 12602526, 
+        "latitude": 50.678, 
+        "sw_longitude": 3.299, 
+        "fullname": "Estaimbourg, Hainault, Tournai, Belgium", 
+        "sw_latitude": 50.669
+      }, 
+      "id": 969459
+    }
+  ]
+}

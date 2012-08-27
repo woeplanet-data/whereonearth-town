@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.233, 
+              52.432
+            ], 
+            [
+              12.233, 
+              52.464
+            ], 
+            [
+              12.270, 
+              52.464
+            ], 
+            [
+              12.270, 
+              52.432
+            ], 
+            [
+              12.233, 
+              52.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666800, 
+        "name": "Kleindemsin", 
+        "adjacent_woeid": [
+          654866, 
+          667268, 
+          689719, 
+          692010, 
+          20163457
+        ], 
+        "ne_latitude": 52.464, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.270, 
+        "longitude": 12.256, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12626603, 
+        "latitude": 52.448, 
+        "sw_longitude": 12.233, 
+        "fullname": "Kleindemsin, Saxony-Anhalt, Jerichower Land, Germany", 
+        "sw_latitude": 52.432
+      }, 
+      "id": 666800
+    }
+  ]
+}

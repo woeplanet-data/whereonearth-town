@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.442, 
+              43.102
+            ], 
+            [
+              -3.442, 
+              43.111
+            ], 
+            [
+              -3.429, 
+              43.111
+            ], 
+            [
+              -3.429, 
+              43.102
+            ], 
+            [
+              -3.442, 
+              43.102
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.111, 
+        "name": "San Pelayo", 
+        "adjacent_woeid": [
+          751511, 
+          765026, 
+          770788, 
+          22661326
+        ], 
+        "woeid": 773337, 
+        "alias_SPA_V": [
+          "S Pelayo"
+        ], 
+        "ne_longitude": -3.429, 
+        "longitude": -3.435, 
+        "parent_woeid": 12691540, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.106, 
+        "sw_longitude": -3.442, 
+        "fullname": "San Pelayo, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 43.102
+      }, 
+      "id": 773337
+    }
+  ]
+}

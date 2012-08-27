@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.760, 
+              18.008
+            ], 
+            [
+              -93.760, 
+              18.026
+            ], 
+            [
+              -93.740, 
+              18.026
+            ], 
+            [
+              -93.740, 
+              18.008
+            ], 
+            [
+              -93.760, 
+              18.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.026, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          113453, 
+          113823, 
+          142408, 
+          142590, 
+          142980, 
+          151555
+        ], 
+        "woeid": 144577, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -93.740, 
+        "longitude": -93.750, 
+        "parent_woeid": 12601622, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.017, 
+        "sw_longitude": -93.760, 
+        "fullname": "San Miguel, Tabasco, Huimanguillo, Mexico", 
+        "sw_latitude": 18.008
+      }, 
+      "id": 144577
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.640, 
+              24.823
+            ], 
+            [
+              -101.640, 
+              24.833
+            ], 
+            [
+              -101.629, 
+              24.833
+            ], 
+            [
+              -101.629, 
+              24.823
+            ], 
+            [
+              -101.640, 
+              24.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.833, 
+        "name": "San Pedro Ocampo", 
+        "adjacent_woeid": [
+          120543, 
+          125671, 
+          130016, 
+          132210, 
+          134523, 
+          147009
+        ], 
+        "woeid": 145116, 
+        "alias_SPA_V": [
+          "S Pedro Ocampo"
+        ], 
+        "ne_longitude": -101.629, 
+        "longitude": -101.634, 
+        "parent_woeid": 12602058, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.828, 
+        "sw_longitude": -101.640, 
+        "fullname": "San Pedro Ocampo, Zacatecas, Melchor Ocampo, Mexico", 
+        "sw_latitude": 24.823
+      }, 
+      "id": 145116
+    }
+  ]
+}

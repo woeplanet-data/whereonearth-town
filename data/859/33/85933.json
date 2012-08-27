@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.798, 
+              16.741
+            ], 
+            [
+              -89.798, 
+              16.755
+            ], 
+            [
+              -89.783, 
+              16.755
+            ], 
+            [
+              -89.783, 
+              16.741
+            ], 
+            [
+              -89.798, 
+              16.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.755, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          82088, 
+          82722, 
+          84966, 
+          85594, 
+          85932, 
+          86099
+        ], 
+        "woeid": 85933, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -89.783, 
+        "longitude": -89.791, 
+        "parent_woeid": 26807069, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.748, 
+        "sw_longitude": -89.798, 
+        "fullname": "Santa Ana, Peten, San Francisco, Guatemala", 
+        "sw_latitude": 16.741
+      }, 
+      "id": 85933
+    }
+  ]
+}

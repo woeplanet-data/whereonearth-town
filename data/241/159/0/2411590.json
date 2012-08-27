@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.123, 
+              38.577
+            ], 
+            [
+              -123.123, 
+              38.586
+            ], 
+            [
+              -123.112, 
+              38.586
+            ], 
+            [
+              -123.112, 
+              38.577
+            ], 
+            [
+              -123.123, 
+              38.577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2411590, 
+        "name": "Goat Rock", 
+        "adjacent_woeid": [
+          2405933, 
+          2436685, 
+          2453209, 
+          2511580, 
+          28337872
+        ], 
+        "ne_latitude": 38.586, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.112, 
+        "longitude": -123.117, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:25:50Z", 
+        "parent_woeid": 12587718, 
+        "latitude": 38.582, 
+        "sw_longitude": -123.123, 
+        "fullname": "Goat Rock, California, Sonoma, United States", 
+        "sw_latitude": 38.577
+      }, 
+      "id": 2411590
+    }
+  ]
+}

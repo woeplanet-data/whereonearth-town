@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.257, 
+              25.740
+            ], 
+            [
+              -100.257, 
+              25.758
+            ], 
+            [
+              -100.237, 
+              25.758
+            ], 
+            [
+              -100.237, 
+              25.740
+            ], 
+            [
+              -100.257, 
+              25.740
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.758, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          120868
+        ], 
+        "woeid": 147172, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -100.237, 
+        "longitude": -100.247, 
+        "parent_woeid": 12600651, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.749, 
+        "sw_longitude": -100.257, 
+        "fullname": "Santo Domingo, Nuevo Leon, San Nicolas de Los Garza, Mexico", 
+        "sw_latitude": 25.740
+      }, 
+      "id": 147172
+    }
+  ]
+}

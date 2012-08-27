@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.881, 
+              -33.704
+            ], 
+            [
+              -61.881, 
+              -31.776
+            ], 
+            [
+              -59.588, 
+              -31.776
+            ], 
+            [
+              -59.588, 
+              -33.704
+            ], 
+            [
+              -61.881, 
+              -33.704
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -31.776, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          330075, 
+          330667, 
+          331735, 
+          331778, 
+          332484, 
+          466367, 
+          466862, 
+          466920, 
+          466937, 
+          466950
+        ], 
+        "woeid": 332479, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -59.588, 
+        "longitude": -60.735, 
+        "parent_woeid": 20070930, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:42Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -32.746, 
+        "sw_longitude": -61.881, 
+        "fullname": "San Lorenzo, Santa Fe, San Lorenzo, Argentina", 
+        "sw_latitude": -33.704
+      }, 
+      "id": 332479
+    }
+  ]
+}

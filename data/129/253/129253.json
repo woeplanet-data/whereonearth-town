@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.860, 
+              26.908
+            ], 
+            [
+              -103.860, 
+              26.926
+            ], 
+            [
+              -103.840, 
+              26.926
+            ], 
+            [
+              -103.840, 
+              26.908
+            ], 
+            [
+              -103.860, 
+              26.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.926, 
+        "name": "La Soledad", 
+        "adjacent_woeid": [
+          114929, 
+          129814, 
+          130406, 
+          137562, 
+          142875, 
+          144492, 
+          147563
+        ], 
+        "woeid": 129253, 
+        "alias_SPA_V": [
+          "Rancho la Soledad"
+        ], 
+        "ne_longitude": -103.840, 
+        "longitude": -103.850, 
+        "parent_woeid": 12599854, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.917, 
+        "sw_longitude": -103.860, 
+        "fullname": "La Soledad, Chihuahua, Jimenez, Mexico", 
+        "sw_latitude": 26.908
+      }, 
+      "id": 129253
+    }
+  ]
+}

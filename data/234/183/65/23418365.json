@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.841, 
+              43.389
+            ], 
+            [
+              -110.841, 
+              43.469
+            ], 
+            [
+              -110.748, 
+              43.469
+            ], 
+            [
+              -110.748, 
+              43.389
+            ], 
+            [
+              -110.841, 
+              43.389
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23418365, 
+        "name": "South Park", 
+        "adjacent_woeid": [
+          2369738, 
+          2422612, 
+          2422613, 
+          23418364, 
+          23510821
+        ], 
+        "ne_latitude": 43.469, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "S Park"
+        ], 
+        "ne_longitude": -110.748, 
+        "longitude": -110.802, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:54Z", 
+        "parent_woeid": 12590625, 
+        "latitude": 43.424, 
+        "sw_longitude": -110.841, 
+        "fullname": "South Park, Wyoming, Teton, United States", 
+        "sw_latitude": 43.389
+      }, 
+      "id": 23418365
+    }
+  ]
+}

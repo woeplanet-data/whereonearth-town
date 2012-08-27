@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.388, 
+              43.032
+            ], 
+            [
+              0.388, 
+              43.060
+            ], 
+            [
+              0.419, 
+              43.060
+            ], 
+            [
+              0.419, 
+              43.032
+            ], 
+            [
+              0.388, 
+              43.032
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623036, 
+        "name": "St.-Arroman", 
+        "adjacent_woeid": [
+          578555, 
+          592538, 
+          608664, 
+          610779, 
+          612972, 
+          20194045
+        ], 
+        "ne_latitude": 43.060, 
+        "ne_longitude": 0.419, 
+        "longitude": 0.401, 
+        "parent_woeid": 12670140, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Arroman"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.045, 
+        "sw_longitude": 0.388, 
+        "fullname": "St.-Arroman, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.032
+      }, 
+      "id": 623036
+    }
+  ]
+}

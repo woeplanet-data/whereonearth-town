@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.485, 
+              43.851
+            ], 
+            [
+              10.485, 
+              43.869
+            ], 
+            [
+              10.510, 
+              43.869
+            ], 
+            [
+              10.510, 
+              43.851
+            ], 
+            [
+              10.485, 
+              43.851
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 29339206, 
+        "name": "Monte San Quirico", 
+        "adjacent_woeid": [
+          712145, 
+          723078, 
+          22656575, 
+          29337181
+        ], 
+        "ne_latitude": 43.869, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.510, 
+        "longitude": 10.498, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:30:15Z", 
+        "parent_woeid": 12676167, 
+        "latitude": 43.860, 
+        "sw_longitude": 10.485, 
+        "fullname": "Monte San Quirico, Tuscany, Lucca, Italy", 
+        "sw_latitude": 43.851
+      }, 
+      "id": 29339206
+    }
+  ]
+}

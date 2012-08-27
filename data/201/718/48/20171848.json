@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.908, 
+              52.345
+            ], 
+            [
+              8.908, 
+              52.367
+            ], 
+            [
+              8.930, 
+              52.367
+            ], 
+            [
+              8.930, 
+              52.345
+            ], 
+            [
+              8.908, 
+              52.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20171848, 
+        "name": "Amerkamp", 
+        "adjacent_woeid": [
+          680403, 
+          699594, 
+          706430, 
+          20171806
+        ], 
+        "ne_latitude": 52.367, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.930, 
+        "longitude": 8.917, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:20Z", 
+        "parent_woeid": 12624552, 
+        "latitude": 52.352, 
+        "sw_longitude": 8.908, 
+        "fullname": "Amerkamp, North Rhine-Westphalia, Minden, Germany", 
+        "sw_latitude": 52.345
+      }, 
+      "id": 20171848
+    }
+  ]
+}

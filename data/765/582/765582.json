@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.238, 
+              42.485
+            ], 
+            [
+              -2.238, 
+              42.602
+            ], 
+            [
+              -2.132, 
+              42.602
+            ], 
+            [
+              -2.132, 
+              42.485
+            ], 
+            [
+              -2.238, 
+              42.485
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.602, 
+        "name": "Los Arcos", 
+        "alias_ENG_P": [
+          "Arcos"
+        ], 
+        "woeid": 765582, 
+        "alias_SPA_V": [
+          "Losarcos"
+        ], 
+        "ne_longitude": -2.132, 
+        "longitude": -2.192, 
+        "parent_woeid": 12688198, 
+        "placetype": "Town", 
+        "adjacent_woeid": [
+          753100, 
+          753658, 
+          753755, 
+          759047, 
+          760333, 
+          764992, 
+          765002, 
+          767047, 
+          767958, 
+          768603, 
+          773550, 
+          774483, 
+          775853, 
+          777938
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.568, 
+        "sw_longitude": -2.238, 
+        "fullname": "Los Arcos, Arcos, Navarre, Navarre, Spain", 
+        "sw_latitude": 42.485
+      }, 
+      "id": 765582
+    }
+  ]
+}

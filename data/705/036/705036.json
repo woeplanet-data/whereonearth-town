@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.802, 
+              49.328
+            ], 
+            [
+              10.802, 
+              49.358
+            ], 
+            [
+              10.830, 
+              49.358
+            ], 
+            [
+              10.830, 
+              49.328
+            ], 
+            [
+              10.802, 
+              49.328
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705036, 
+        "name": "Weiterndorf", 
+        "adjacent_woeid": [
+          653003, 
+          676769, 
+          704943
+        ], 
+        "ne_latitude": 49.358, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.830, 
+        "longitude": 10.813, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12634405, 
+        "latitude": 49.339, 
+        "sw_longitude": 10.802, 
+        "fullname": "Weiterndorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.328
+      }, 
+      "id": 705036
+    }
+  ]
+}

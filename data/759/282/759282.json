@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.577, 
+              41.577
+            ], 
+            [
+              1.577, 
+              41.630
+            ], 
+            [
+              1.609, 
+              41.630
+            ], 
+            [
+              1.609, 
+              41.577
+            ], 
+            [
+              1.577, 
+              41.577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.630, 
+        "name": "El Espelt", 
+        "adjacent_woeid": [
+          20224133, 
+          20226011
+        ], 
+        "woeid": 759282, 
+        "alias_SPA_V": [
+          "L'espelt"
+        ], 
+        "ne_longitude": 1.609, 
+        "longitude": 1.593, 
+        "parent_woeid": 12693523, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.600, 
+        "sw_longitude": 1.577, 
+        "fullname": "El Espelt, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.577
+      }, 
+      "id": 759282
+    }
+  ]
+}

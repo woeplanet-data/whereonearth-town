@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.526, 
+              18.141
+            ], 
+            [
+              -101.526, 
+              18.159
+            ], 
+            [
+              -101.507, 
+              18.159
+            ], 
+            [
+              -101.507, 
+              18.141
+            ], 
+            [
+              -101.526, 
+              18.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.159, 
+        "name": "La Vainilla", 
+        "adjacent_woeid": [
+          123836, 
+          127945, 
+          130038, 
+          139803, 
+          150069
+        ], 
+        "woeid": 129519, 
+        "alias_SPA_V": [
+          "Vainilla"
+        ], 
+        "ne_longitude": -101.507, 
+        "longitude": -101.517, 
+        "parent_woeid": 12600052, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.150, 
+        "sw_longitude": -101.526, 
+        "fullname": "La Vainilla, Guerrero, Coahuayutla de Jose Maria Izazaga, Mexico", 
+        "sw_latitude": 18.141
+      }, 
+      "id": 129519
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.227, 
+              31.441
+            ], 
+            [
+              -116.227, 
+              31.459
+            ], 
+            [
+              -116.206, 
+              31.459
+            ], 
+            [
+              -116.206, 
+              31.441
+            ], 
+            [
+              -116.227, 
+              31.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.459, 
+        "name": "San Jacinto", 
+        "adjacent_woeid": [
+          119004, 
+          145529, 
+          145901, 
+          147277
+        ], 
+        "woeid": 143042, 
+        "alias_SPA_V": [
+          "S Jacinto"
+        ], 
+        "ne_longitude": -116.206, 
+        "longitude": -116.217, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.450, 
+        "sw_longitude": -116.227, 
+        "fullname": "San Jacinto, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 31.441
+      }, 
+      "id": 143042
+    }
+  ]
+}

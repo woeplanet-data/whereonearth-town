@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.866, 
+              48.484
+            ], 
+            [
+              5.866, 
+              48.546
+            ], 
+            [
+              5.934, 
+              48.546
+            ], 
+            [
+              5.934, 
+              48.484
+            ], 
+            [
+              5.866, 
+              48.484
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 586523, 
+        "name": "Colombey-les-Belles", 
+        "adjacent_woeid": [
+          575725, 
+          577434, 
+          577815, 
+          578180, 
+          580214, 
+          587637, 
+          587839, 
+          590679, 
+          614057, 
+          617397, 
+          621634, 
+          628866, 
+          630029, 
+          630214, 
+          631046, 
+          632458
+        ], 
+        "ne_latitude": 48.546, 
+        "ne_longitude": 5.934, 
+        "longitude": 5.897, 
+        "parent_woeid": 12659668, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Colombey"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.529, 
+        "sw_longitude": 5.866, 
+        "fullname": "Colombey-les-Belles, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.484
+      }, 
+      "id": 586523
+    }
+  ]
+}

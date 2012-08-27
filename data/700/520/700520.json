@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.284, 
+              50.568
+            ], 
+            [
+              8.284, 
+              50.598
+            ], 
+            [
+              8.320, 
+              50.598
+            ], 
+            [
+              8.320, 
+              50.568
+            ], 
+            [
+              8.284, 
+              50.568
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700520, 
+        "name": "Ulm", 
+        "adjacent_woeid": [
+          633960, 
+          639283, 
+          643861, 
+          654033, 
+          661910, 
+          697423
+        ], 
+        "ne_latitude": 50.598, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.320, 
+        "longitude": 8.298, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12632666, 
+        "latitude": 50.582, 
+        "sw_longitude": 8.284, 
+        "fullname": "Ulm, Hesse, Lahn-Dill-Kreis, Germany", 
+        "sw_latitude": 50.568
+      }, 
+      "id": 700520
+    }
+  ]
+}

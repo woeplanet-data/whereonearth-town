@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.276, 
+              50.128
+            ], 
+            [
+              10.276, 
+              50.152
+            ], 
+            [
+              10.325, 
+              50.152
+            ], 
+            [
+              10.325, 
+              50.128
+            ], 
+            [
+              10.276, 
+              50.128
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673344, 
+        "name": "Madenhausen", 
+        "adjacent_woeid": [
+          646293, 
+          659614, 
+          662182, 
+          702643, 
+          704857
+        ], 
+        "ne_latitude": 50.152, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.325, 
+        "longitude": 10.301, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:34Z", 
+        "parent_woeid": 12635435, 
+        "latitude": 50.136, 
+        "sw_longitude": 10.276, 
+        "fullname": "Madenhausen, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.128
+      }, 
+      "id": 673344
+    }
+  ]
+}

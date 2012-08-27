@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.177, 
+              24.823
+            ], 
+            [
+              -98.177, 
+              24.865
+            ], 
+            [
+              -98.117, 
+              24.865
+            ], 
+            [
+              -98.117, 
+              24.823
+            ], 
+            [
+              -98.177, 
+              24.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.865, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          112109, 
+          116909, 
+          137831, 
+          142908, 
+          145213
+        ], 
+        "woeid": 142411, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -98.117, 
+        "longitude": -98.162, 
+        "parent_woeid": 12601666, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.842, 
+        "sw_longitude": -98.177, 
+        "fullname": "San Fernando, Tamaulipas, San Fernando, Mexico", 
+        "sw_latitude": 24.823
+      }, 
+      "id": 142411
+    }
+  ]
+}

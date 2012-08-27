@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.064, 
+              49.812
+            ], 
+            [
+              4.064, 
+              49.831
+            ], 
+            [
+              4.096, 
+              49.831
+            ], 
+            [
+              4.096, 
+              49.812
+            ], 
+            [
+              4.064, 
+              49.812
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333452, 
+        "name": "La Longue Rue", 
+        "adjacent_woeid": [
+          579569, 
+          582270, 
+          595513, 
+          20217995, 
+          20218003, 
+          29333453
+        ], 
+        "ne_latitude": 49.831, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.096, 
+        "longitude": 4.082, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "parent_woeid": 22756647, 
+        "latitude": 49.822, 
+        "sw_longitude": 4.064, 
+        "fullname": "La Longue Rue, Picardie, Aisne, France", 
+        "sw_latitude": 49.812
+      }, 
+      "id": 29333452
+    }
+  ]
+}

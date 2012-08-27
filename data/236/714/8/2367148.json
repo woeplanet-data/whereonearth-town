@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.917, 
+              47.130
+            ], 
+            [
+              -122.917, 
+              47.148
+            ], 
+            [
+              -122.890, 
+              47.148
+            ], 
+            [
+              -122.890, 
+              47.130
+            ], 
+            [
+              -122.917, 
+              47.130
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2367148, 
+        "name": "Boston Harbor", 
+        "adjacent_woeid": [
+          2355534, 
+          2358752, 
+          2461399, 
+          2477174, 
+          2489686, 
+          2495942
+        ], 
+        "ne_latitude": 47.148, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Boston Hbr"
+        ], 
+        "ne_longitude": -122.890, 
+        "longitude": -122.904, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:22:59Z", 
+        "parent_woeid": 12590473, 
+        "latitude": 47.139, 
+        "sw_longitude": -122.917, 
+        "fullname": "Boston Harbor, Washington, Thurston, United States", 
+        "sw_latitude": 47.130
+      }, 
+      "id": 2367148
+    }
+  ]
+}

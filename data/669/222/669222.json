@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.584, 
+              52.238
+            ], 
+            [
+              13.584, 
+              52.285
+            ], 
+            [
+              13.625, 
+              52.285
+            ], 
+            [
+              13.625, 
+              52.238
+            ], 
+            [
+              13.584, 
+              52.238
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 669222, 
+        "name": "Krummensee", 
+        "adjacent_woeid": [
+          651422, 
+          668279, 
+          691699, 
+          708574
+        ], 
+        "ne_latitude": 52.285, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.625, 
+        "longitude": 13.605, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12632932, 
+        "latitude": 52.266, 
+        "sw_longitude": 13.584, 
+        "fullname": "Krummensee, Brandenburg, Dahme-Spreewald, Germany", 
+        "sw_latitude": 52.238
+      }, 
+      "id": 669222
+    }
+  ]
+}

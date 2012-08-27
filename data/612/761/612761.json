@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.356, 
+              47.225
+            ], 
+            [
+              3.356, 
+              47.234
+            ], 
+            [
+              3.369, 
+              47.234
+            ], 
+            [
+              3.369, 
+              47.225
+            ], 
+            [
+              3.356, 
+              47.225
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612761, 
+        "name": "Montigny", 
+        "adjacent_woeid": [
+          576788, 
+          576851, 
+          592938, 
+          614447, 
+          623327
+        ], 
+        "ne_latitude": 47.234, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.369, 
+        "longitude": 3.363, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12644512, 
+        "latitude": 47.230, 
+        "sw_longitude": 3.356, 
+        "fullname": "Montigny, Burgundy, Nievre, France", 
+        "sw_latitude": 47.225
+      }, 
+      "id": 612761
+    }
+  ]
+}

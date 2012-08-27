@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.556, 
+              25.020
+            ], 
+            [
+              -100.556, 
+              25.031
+            ], 
+            [
+              -100.545, 
+              25.031
+            ], 
+            [
+              -100.545, 
+              25.020
+            ], 
+            [
+              -100.556, 
+              25.020
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.031, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          123476, 
+          128916, 
+          134410, 
+          143161, 
+          146508
+        ], 
+        "woeid": 145286, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -100.545, 
+        "longitude": -100.551, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.025, 
+        "sw_longitude": -100.556, 
+        "fullname": "San Rafael, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 25.020
+      }, 
+      "id": 145286
+    }
+  ]
+}

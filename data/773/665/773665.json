@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.625, 
+              37.002
+            ], 
+            [
+              -2.625, 
+              37.050
+            ], 
+            [
+              -2.565, 
+              37.050
+            ], 
+            [
+              -2.565, 
+              37.002
+            ], 
+            [
+              -2.625, 
+              37.002
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.050, 
+        "name": "Santa Cruz de Marchena", 
+        "adjacent_woeid": [
+          751729, 
+          752085, 
+          752297, 
+          754308, 
+          761092, 
+          761533, 
+          762573, 
+          764523, 
+          773754, 
+          775379
+        ], 
+        "woeid": 773665, 
+        "alias_SPA_V": [
+          "Sta. Cruz de Marchena"
+        ], 
+        "ne_longitude": -2.565, 
+        "longitude": -2.603, 
+        "parent_woeid": 12688702, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.016, 
+        "sw_longitude": -2.625, 
+        "fullname": "Santa Cruz de Marchena, Andalusia, Almeria, Spain", 
+        "sw_latitude": 37.002
+      }, 
+      "id": 773665
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.002, 
+              54.636
+            ], 
+            [
+              10.002, 
+              54.658
+            ], 
+            [
+              10.032, 
+              54.658
+            ], 
+            [
+              10.032, 
+              54.636
+            ], 
+            [
+              10.002, 
+              54.636
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20174038, 
+        "name": "Weidefeld", 
+        "adjacent_woeid": [
+          680369, 
+          683256, 
+          20174040, 
+          29351769
+        ], 
+        "ne_latitude": 54.658, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.032, 
+        "longitude": 10.018, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12631549, 
+        "latitude": 54.649, 
+        "sw_longitude": 10.002, 
+        "fullname": "Weidefeld, Schleswig-Holstein, Schleswig-Flensburg, Germany", 
+        "sw_latitude": 54.636
+      }, 
+      "id": 20174038
+    }
+  ]
+}

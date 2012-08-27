@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.268, 
+              16.646
+            ], 
+            [
+              -92.268, 
+              16.658
+            ], 
+            [
+              -92.256, 
+              16.658
+            ], 
+            [
+              -92.256, 
+              16.646
+            ], 
+            [
+              -92.268, 
+              16.646
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.658, 
+        "name": "Chanal", 
+        "adjacent_woeid": [
+          111936, 
+          112036, 
+          125289, 
+          135426, 
+          142578, 
+          147040
+        ], 
+        "woeid": 115615, 
+        "alias_SPA_V": [
+          "S. Pedro Chanal"
+        ], 
+        "ne_longitude": -92.256, 
+        "longitude": -92.262, 
+        "parent_woeid": 12599725, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.652, 
+        "sw_longitude": -92.268, 
+        "fullname": "Chanal, Chiapas, Chanal, Mexico", 
+        "sw_latitude": 16.646
+      }, 
+      "id": 115615
+    }
+  ]
+}

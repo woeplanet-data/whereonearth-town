@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.000, 
+              48.743
+            ], 
+            [
+              10.000, 
+              48.780
+            ], 
+            [
+              10.015, 
+              48.780
+            ], 
+            [
+              10.015, 
+              48.743
+            ], 
+            [
+              10.000, 
+              48.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160404, 
+        "name": "Birkenteich", 
+        "adjacent_woeid": [
+          634967, 
+          652939, 
+          663671, 
+          670707, 
+          20160405, 
+          29352807
+        ], 
+        "ne_latitude": 48.780, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.015, 
+        "longitude": 10.008, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:12Z", 
+        "parent_woeid": 12624211, 
+        "latitude": 48.756, 
+        "sw_longitude": 10.000, 
+        "fullname": "Birkenteich, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.743
+      }, 
+      "id": 20160404
+    }
+  ]
+}

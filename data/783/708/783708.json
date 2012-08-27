@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.107, 
+              46.182
+            ], 
+            [
+              6.107, 
+              46.198
+            ], 
+            [
+              6.131, 
+              46.198
+            ], 
+            [
+              6.131, 
+              46.182
+            ], 
+            [
+              6.107, 
+              46.182
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 783708, 
+        "name": "Petit-Lancy", 
+        "adjacent_woeid": [
+          783001, 
+          783027, 
+          783091, 
+          784255
+        ], 
+        "ne_latitude": 46.198, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.131, 
+        "longitude": 6.119, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:14Z", 
+        "parent_woeid": 12683585, 
+        "latitude": 46.190, 
+        "sw_longitude": 6.107, 
+        "fullname": "Petit-Lancy, Canton of Geneva, Geneva, Switzerland", 
+        "sw_latitude": 46.182
+      }, 
+      "id": 783708
+    }
+  ]
+}

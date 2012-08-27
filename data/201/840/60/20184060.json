@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.581, 
+              48.607
+            ], 
+            [
+              0.581, 
+              48.617
+            ], 
+            [
+              0.595, 
+              48.617
+            ], 
+            [
+              0.595, 
+              48.607
+            ], 
+            [
+              0.581, 
+              48.607
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20184060, 
+        "name": "Le Perrier", 
+        "adjacent_woeid": [
+          581773, 
+          582250, 
+          608054, 
+          618005, 
+          622318
+        ], 
+        "ne_latitude": 48.617, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.595, 
+        "longitude": 0.588, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12650965, 
+        "latitude": 48.612, 
+        "sw_longitude": 0.581, 
+        "fullname": "Le Perrier, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.607
+      }, 
+      "id": 20184060
+    }
+  ]
+}

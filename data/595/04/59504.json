@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.074, 
+              9.876
+            ], 
+            [
+              -84.074, 
+              9.890
+            ], 
+            [
+              -84.060, 
+              9.890
+            ], 
+            [
+              -84.060, 
+              9.876
+            ], 
+            [
+              -84.074, 
+              9.876
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.890, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          22723604, 
+          22722343, 
+          58527, 
+          22723574, 
+          22723570, 
+          22723572, 
+          59590, 
+          22723571
+        ], 
+        "woeid": 59504, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -84.060, 
+        "longitude": -84.067, 
+        "parent_woeid": 26808996, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.883, 
+        "sw_longitude": -84.074, 
+        "fullname": "San Miguel, San Jose, Desamparados, Costa Rica", 
+        "sw_latitude": 9.876
+      }, 
+      "id": 59504
+    }
+  ]
+}

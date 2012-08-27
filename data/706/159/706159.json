@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.349, 
+              49.487
+            ], 
+            [
+              10.349, 
+              49.529
+            ], 
+            [
+              10.394, 
+              49.529
+            ], 
+            [
+              10.394, 
+              49.487
+            ], 
+            [
+              10.349, 
+              49.487
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706159, 
+        "name": "Wiebelsheim", 
+        "adjacent_woeid": [
+          642064, 
+          681938, 
+          693769
+        ], 
+        "ne_latitude": 49.529, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.394, 
+        "longitude": 10.369, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12634496, 
+        "latitude": 49.500, 
+        "sw_longitude": 10.349, 
+        "fullname": "Wiebelsheim, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.487
+      }, 
+      "id": 706159
+    }
+  ]
+}

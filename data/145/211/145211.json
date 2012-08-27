@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.418, 
+              24.966
+            ], 
+            [
+              -107.418, 
+              24.984
+            ], 
+            [
+              -107.398, 
+              24.984
+            ], 
+            [
+              -107.398, 
+              24.966
+            ], 
+            [
+              -107.418, 
+              24.966
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.984, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          121818, 
+          125873, 
+          135861, 
+          136054, 
+          149003, 
+          149006, 
+          150985
+        ], 
+        "woeid": 145211, 
+        "alias_SPA_V": [
+          "S. Rafael"
+        ], 
+        "ne_longitude": -107.398, 
+        "longitude": -107.408, 
+        "parent_woeid": 12601533, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.975, 
+        "sw_longitude": -107.418, 
+        "fullname": "San Rafael, Sinaloa, Culiacan, Mexico", 
+        "sw_latitude": 24.966
+      }, 
+      "id": 145211
+    }
+  ]
+}

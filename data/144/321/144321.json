@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.554, 
+              20.328
+            ], 
+            [
+              -103.554, 
+              20.346
+            ], 
+            [
+              -103.535, 
+              20.346
+            ], 
+            [
+              -103.535, 
+              20.328
+            ], 
+            [
+              -103.554, 
+              20.328
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.346, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          113373, 
+          120961, 
+          125114, 
+          129117, 
+          151525, 
+          151656
+        ], 
+        "woeid": 144321, 
+        "alias_SPA_V": [
+          "S Marcos"
+        ], 
+        "ne_longitude": -103.535, 
+        "longitude": -103.545, 
+        "parent_woeid": 12600312, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.337, 
+        "sw_longitude": -103.554, 
+        "fullname": "San Marcos, Jalisco, Zacoalco de Torres, Mexico", 
+        "sw_latitude": 20.328
+      }, 
+      "id": 144321
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -119.008, 
+              50.806
+            ], 
+            [
+              -119.008, 
+              50.861
+            ], 
+            [
+              -118.929, 
+              50.861
+            ], 
+            [
+              -118.929, 
+              50.806
+            ], 
+            [
+              -119.008, 
+              50.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9685, 
+        "name": "Sicamous", 
+        "adjacent_woeid": [
+          9681, 
+          9689, 
+          9693, 
+          9956
+        ], 
+        "ne_latitude": 50.861, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -118.929, 
+        "longitude": -118.970, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375237, 
+        "latitude": 50.838, 
+        "sw_longitude": -119.008, 
+        "fullname": "Sicamous, British Columbia, Columbia-Shuswap, Canada", 
+        "sw_latitude": 50.806
+      }, 
+      "id": 9685
+    }
+  ]
+}

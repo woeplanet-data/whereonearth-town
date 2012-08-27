@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.303, 
+              50.353
+            ], 
+            [
+              12.303, 
+              50.383
+            ], 
+            [
+              12.334, 
+              50.383
+            ], 
+            [
+              12.334, 
+              50.353
+            ], 
+            [
+              12.303, 
+              50.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648690, 
+        "name": "Eschenbach", 
+        "adjacent_woeid": [
+          655909, 
+          690621, 
+          691865, 
+          707454
+        ], 
+        "ne_latitude": 50.383, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.334, 
+        "longitude": 12.320, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12636508, 
+        "latitude": 50.368, 
+        "sw_longitude": 12.303, 
+        "fullname": "Eschenbach, Saxony, Vogtlandkreis, Germany", 
+        "sw_latitude": 50.353
+      }, 
+      "id": 648690
+    }
+  ]
+}

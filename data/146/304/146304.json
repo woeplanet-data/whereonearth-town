@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.110, 
+              23.658
+            ], 
+            [
+              -99.110, 
+              23.676
+            ], 
+            [
+              -99.090, 
+              23.676
+            ], 
+            [
+              -99.090, 
+              23.658
+            ], 
+            [
+              -99.110, 
+              23.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.676, 
+        "name": "Santa Librada", 
+        "adjacent_woeid": [
+          120203, 
+          126487, 
+          144011, 
+          148078, 
+          56074861, 
+          56074862
+        ], 
+        "woeid": 146304, 
+        "alias_SPA_V": [
+          "Sta Librada"
+        ], 
+        "ne_longitude": -99.090, 
+        "longitude": -99.100, 
+        "parent_woeid": 12601672, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.667, 
+        "sw_longitude": -99.110, 
+        "fullname": "Santa Librada, Tamaulipas, Victoria, Mexico", 
+        "sw_latitude": 23.658
+      }, 
+      "id": 146304
+    }
+  ]
+}

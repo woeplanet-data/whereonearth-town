@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.210, 
+              25.924
+            ], 
+            [
+              -99.210, 
+              25.942
+            ], 
+            [
+              -99.190, 
+              25.942
+            ], 
+            [
+              -99.190, 
+              25.924
+            ], 
+            [
+              -99.210, 
+              25.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.942, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          121301, 
+          131472, 
+          146616
+        ], 
+        "woeid": 144936, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -99.190, 
+        "longitude": -99.200, 
+        "parent_woeid": 12600637, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.933, 
+        "sw_longitude": -99.210, 
+        "fullname": "San Pedro, Nuevo Leon, Los Aldamas, Mexico", 
+        "sw_latitude": 25.924
+      }, 
+      "id": 144936
+    }
+  ]
+}

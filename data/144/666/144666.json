@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.293, 
+              17.274
+            ], 
+            [
+              -98.293, 
+              17.292
+            ], 
+            [
+              -98.274, 
+              17.292
+            ], 
+            [
+              -98.274, 
+              17.274
+            ], 
+            [
+              -98.293, 
+              17.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.292, 
+        "name": "San Miguel Peras", 
+        "adjacent_woeid": [
+          116778, 
+          144392, 
+          145998, 
+          149370
+        ], 
+        "woeid": 144666, 
+        "alias_SPA_V": [
+          "S Miguel Peras"
+        ], 
+        "ne_longitude": -98.274, 
+        "longitude": -98.283, 
+        "parent_woeid": 12600903, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.283, 
+        "sw_longitude": -98.293, 
+        "fullname": "San Miguel Peras, Oaxaca, San Martin Peras, Mexico", 
+        "sw_latitude": 17.274
+      }, 
+      "id": 144666
+    }
+  ]
+}

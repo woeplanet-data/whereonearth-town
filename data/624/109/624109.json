@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.576, 
+              46.251
+            ], 
+            [
+              2.576, 
+              46.277
+            ], 
+            [
+              2.609, 
+              46.277
+            ], 
+            [
+              2.609, 
+              46.251
+            ], 
+            [
+              2.576, 
+              46.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624109, 
+        "name": "St.-Genest", 
+        "adjacent_woeid": [
+          576698, 
+          598515, 
+          608057, 
+          627749, 
+          628230, 
+          631616
+        ], 
+        "ne_latitude": 46.277, 
+        "ne_longitude": 2.609, 
+        "longitude": 2.594, 
+        "parent_woeid": 22755201, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Genest"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.265, 
+        "sw_longitude": 2.576, 
+        "fullname": "St.-Genest, Auvergne, Allier, France", 
+        "sw_latitude": 46.251
+      }, 
+      "id": 624109
+    }
+  ]
+}

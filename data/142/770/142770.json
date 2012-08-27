@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.877, 
+              26.858
+            ], 
+            [
+              -107.877, 
+              26.876
+            ], 
+            [
+              -107.857, 
+              26.876
+            ], 
+            [
+              -107.857, 
+              26.858
+            ], 
+            [
+              -107.877, 
+              26.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.876, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          117453, 
+          119538, 
+          119785, 
+          134704, 
+          136724, 
+          144490
+        ], 
+        "woeid": 142770, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -107.857, 
+        "longitude": -107.867, 
+        "parent_woeid": 12599826, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.867, 
+        "sw_longitude": -107.877, 
+        "fullname": "San Ignacio, Chihuahua, Batopilas, Mexico", 
+        "sw_latitude": 26.858
+      }, 
+      "id": 142770
+    }
+  ]
+}

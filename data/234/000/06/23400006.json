@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.161, 
+              44.014
+            ], 
+            [
+              -78.161, 
+              44.032
+            ], 
+            [
+              -78.136, 
+              44.032
+            ], 
+            [
+              -78.136, 
+              44.014
+            ], 
+            [
+              -78.161, 
+              44.014
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23400006, 
+        "name": "Baltimore", 
+        "adjacent_woeid": [
+          647, 
+          23398469, 
+          29374094, 
+          29374295, 
+          29374583
+        ], 
+        "ne_latitude": 44.032, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -78.136, 
+        "longitude": -78.148, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375132, 
+        "latitude": 44.023, 
+        "sw_longitude": -78.161, 
+        "fullname": "Baltimore, Ontario, Northumberland, Canada", 
+        "sw_latitude": 44.014
+      }, 
+      "id": 23400006
+    }
+  ]
+}

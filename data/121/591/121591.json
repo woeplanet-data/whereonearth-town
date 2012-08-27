@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.441, 
+              26.826
+            ], 
+            [
+              -104.441, 
+              26.840
+            ], 
+            [
+              -104.425, 
+              26.840
+            ], 
+            [
+              -104.425, 
+              26.826
+            ], 
+            [
+              -104.441, 
+              26.826
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.840, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          123277, 
+          132415, 
+          142772, 
+          142875, 
+          143047
+        ], 
+        "woeid": 121591, 
+        "alias_SPA_V": [
+          "Porvenir"
+        ], 
+        "ne_longitude": -104.425, 
+        "longitude": -104.433, 
+        "parent_woeid": 12599854, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.833, 
+        "sw_longitude": -104.441, 
+        "fullname": "El Porvenir, Chihuahua, Jimenez, Mexico", 
+        "sw_latitude": 26.826
+      }, 
+      "id": 121591
+    }
+  ]
+}

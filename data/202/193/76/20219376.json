@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.989, 
+              47.197
+            ], 
+            [
+              1.989, 
+              47.232
+            ], 
+            [
+              2.015, 
+              47.232
+            ], 
+            [
+              2.015, 
+              47.197
+            ], 
+            [
+              1.989, 
+              47.197
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20219376, 
+        "name": "le Grand Village", 
+        "adjacent_woeid": [
+          610451, 
+          611199, 
+          624233, 
+          624549, 
+          20219377
+        ], 
+        "ne_latitude": 47.232, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.015, 
+        "longitude": 2.002, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12652119, 
+        "latitude": 47.209, 
+        "sw_longitude": 1.989, 
+        "fullname": "le Grand Village, Centre, Cher, France", 
+        "sw_latitude": 47.197
+      }, 
+      "id": 20219376
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.308, 
+              15.947
+            ], 
+            [
+              -61.308, 
+              15.963
+            ], 
+            [
+              -61.291, 
+              15.963
+            ], 
+            [
+              -61.291, 
+              15.947
+            ], 
+            [
+              -61.308, 
+              15.947
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 80889, 
+        "name": "St.-Louis", 
+        "adjacent_woeid": [
+          80490, 
+          80568, 
+          80574, 
+          80591, 
+          80605, 
+          80656, 
+          80745
+        ], 
+        "ne_latitude": 15.963, 
+        "ne_longitude": -61.291, 
+        "longitude": -61.300, 
+        "parent_woeid": 24551307, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Louis"
+        ], 
+        "iso": "GP", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.955, 
+        "sw_longitude": -61.308, 
+        "fullname": "St.-Louis, Pointe-\u00c0-Pitre, Saint-Louis, Guadeloupe", 
+        "sw_latitude": 15.947
+      }, 
+      "id": 80889
+    }
+  ]
+}

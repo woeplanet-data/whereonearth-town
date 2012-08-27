@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.369, 
+              52.432
+            ], 
+            [
+              12.369, 
+              52.466
+            ], 
+            [
+              12.402, 
+              52.466
+            ], 
+            [
+              12.402, 
+              52.432
+            ], 
+            [
+              12.369, 
+              52.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705219, 
+        "name": "Wendeberg", 
+        "adjacent_woeid": [
+          667619, 
+          676338, 
+          680219, 
+          685297, 
+          20161368
+        ], 
+        "ne_latitude": 52.466, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.402, 
+        "longitude": 12.383, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 12633185, 
+        "latitude": 52.450, 
+        "sw_longitude": 12.369, 
+        "fullname": "Wendeberg, Brandenburg, Havelland, Germany", 
+        "sw_latitude": 52.432
+      }, 
+      "id": 705219
+    }
+  ]
+}

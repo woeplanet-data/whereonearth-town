@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.093, 
+              20.608
+            ], 
+            [
+              -90.093, 
+              20.626
+            ], 
+            [
+              -90.074, 
+              20.626
+            ], 
+            [
+              -90.074, 
+              20.608
+            ], 
+            [
+              -90.093, 
+              20.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.626, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          124080, 
+          126287, 
+          135993, 
+          142403, 
+          147184
+        ], 
+        "woeid": 146821, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -90.074, 
+        "longitude": -90.083, 
+        "parent_woeid": 12601973, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.617, 
+        "sw_longitude": -90.093, 
+        "fullname": "Santa Rosa, Yucatan, Maxcanu, Mexico", 
+        "sw_latitude": 20.608
+      }, 
+      "id": 146821
+    }
+  ]
+}

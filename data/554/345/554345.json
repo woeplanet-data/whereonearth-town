@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.922, 
+              55.143
+            ], 
+            [
+              10.922, 
+              55.157
+            ], 
+            [
+              10.945, 
+              55.157
+            ], 
+            [
+              10.945, 
+              55.143
+            ], 
+            [
+              10.922, 
+              55.143
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 554345, 
+        "name": "Hov", 
+        "adjacent_woeid": [
+          552239, 
+          555313, 
+          555815
+        ], 
+        "ne_latitude": 55.157, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.945, 
+        "longitude": 10.933, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:23Z", 
+        "parent_woeid": 28583806, 
+        "latitude": 55.150, 
+        "sw_longitude": 10.922, 
+        "fullname": "Hov, Syddanmark, Langeland, Denmark", 
+        "sw_latitude": 55.143
+      }, 
+      "id": 554345
+    }
+  ]
+}

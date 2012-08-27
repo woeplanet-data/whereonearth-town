@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.844, 
+              30.324
+            ], 
+            [
+              -104.844, 
+              30.342
+            ], 
+            [
+              -104.823, 
+              30.342
+            ], 
+            [
+              -104.823, 
+              30.324
+            ], 
+            [
+              -104.844, 
+              30.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.342, 
+        "name": "Los Fresnos", 
+        "adjacent_woeid": [
+          119903, 
+          120053, 
+          131380
+        ], 
+        "woeid": 131871, 
+        "alias_SPA_V": [
+          "Fresnos"
+        ], 
+        "ne_longitude": -104.823, 
+        "longitude": -104.833, 
+        "parent_woeid": 12599871, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.333, 
+        "sw_longitude": -104.844, 
+        "fullname": "Los Fresnos, Chihuahua, Ojinaga, Mexico", 
+        "sw_latitude": 30.324
+      }, 
+      "id": 131871
+    }
+  ]
+}

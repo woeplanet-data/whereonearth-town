@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.309, 
+              50.255
+            ], 
+            [
+              9.309, 
+              50.284
+            ], 
+            [
+              9.343, 
+              50.284
+            ], 
+            [
+              9.343, 
+              50.255
+            ], 
+            [
+              9.309, 
+              50.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 677995, 
+        "name": "Neudorf", 
+        "adjacent_woeid": [
+          636034, 
+          659618, 
+          700377, 
+          704742
+        ], 
+        "ne_latitude": 50.284, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.343, 
+        "longitude": 9.319, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12632541, 
+        "latitude": 50.265, 
+        "sw_longitude": 9.309, 
+        "fullname": "Neudorf, Hesse, Main-Kinzig-Kreis, Germany", 
+        "sw_latitude": 50.255
+      }, 
+      "id": 677995
+    }
+  ]
+}

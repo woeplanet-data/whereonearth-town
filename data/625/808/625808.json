@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.574, 
+              46.589
+            ], 
+            [
+              5.574, 
+              46.629
+            ], 
+            [
+              5.615, 
+              46.629
+            ], 
+            [
+              5.615, 
+              46.589
+            ], 
+            [
+              5.574, 
+              46.589
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625808, 
+        "name": "St.-Maur", 
+        "adjacent_woeid": [
+          575713, 
+          617095, 
+          619276, 
+          630767
+        ], 
+        "ne_latitude": 46.629, 
+        "ne_longitude": 5.615, 
+        "longitude": 5.590, 
+        "parent_woeid": 12652937, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.615, 
+        "sw_longitude": 5.574, 
+        "fullname": "St.-Maur, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.589
+      }, 
+      "id": 625808
+    }
+  ]
+}

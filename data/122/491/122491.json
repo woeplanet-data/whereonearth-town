@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.706, 
+              31.889
+            ], 
+            [
+              -116.706, 
+              31.903
+            ], 
+            [
+              -116.690, 
+              31.903
+            ], 
+            [
+              -116.690, 
+              31.889
+            ], 
+            [
+              -116.706, 
+              31.889
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.903, 
+        "name": "El Sauzal", 
+        "adjacent_woeid": [
+          123253, 
+          133801, 
+          150497
+        ], 
+        "woeid": 122491, 
+        "alias_SPA_V": [
+          "El Suazal"
+        ], 
+        "ne_longitude": -116.690, 
+        "longitude": -116.698, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.896, 
+        "sw_longitude": -116.706, 
+        "fullname": "El Sauzal, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 31.889
+      }, 
+      "id": 122491
+    }
+  ]
+}

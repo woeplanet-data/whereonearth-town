@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.171, 
+              47.229
+            ], 
+            [
+              8.171, 
+              47.241
+            ], 
+            [
+              8.188, 
+              47.241
+            ], 
+            [
+              8.188, 
+              47.229
+            ], 
+            [
+              8.171, 
+              47.229
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 785366, 
+        "name": "Burg", 
+        "adjacent_woeid": [
+          783315, 
+          785367, 
+          20103223, 
+          20103325
+        ], 
+        "ne_latitude": 47.241, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.188, 
+        "longitude": 8.180, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:21Z", 
+        "parent_woeid": 12685068, 
+        "latitude": 47.235, 
+        "sw_longitude": 8.171, 
+        "fullname": "Burg, Canton of Aargau, Kulm, Switzerland", 
+        "sw_latitude": 47.229
+      }, 
+      "id": 785366
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.242, 
+              45.548
+            ], 
+            [
+              4.242, 
+              45.557
+            ], 
+            [
+              4.259, 
+              45.557
+            ], 
+            [
+              4.259, 
+              45.548
+            ], 
+            [
+              4.242, 
+              45.548
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20209915, 
+        "name": "La Rive", 
+        "adjacent_woeid": [
+          581418, 
+          587728, 
+          623633, 
+          630431
+        ], 
+        "ne_latitude": 45.557, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.259, 
+        "longitude": 4.252, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "parent_woeid": 12672151, 
+        "latitude": 45.552, 
+        "sw_longitude": 4.242, 
+        "fullname": "La Rive, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.548
+      }, 
+      "id": 20209915
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.743, 
+              26.008
+            ], 
+            [
+              -97.743, 
+              26.026
+            ], 
+            [
+              -97.723, 
+              26.026
+            ], 
+            [
+              -97.723, 
+              26.008
+            ], 
+            [
+              -97.743, 
+              26.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.026, 
+        "name": "La Barranca", 
+        "adjacent_woeid": [
+          119939, 
+          131025, 
+          132558, 
+          135736, 
+          136338, 
+          150899
+        ], 
+        "woeid": 126433, 
+        "alias_SPA_V": [
+          "Barranco"
+        ], 
+        "ne_longitude": -97.723, 
+        "longitude": -97.733, 
+        "parent_woeid": 12601653, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.017, 
+        "sw_longitude": -97.743, 
+        "fullname": "La Barranca, Tamaulipas, Matamoros, Mexico", 
+        "sw_latitude": 26.008
+      }, 
+      "id": 126433
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.060, 
+              22.891
+            ], 
+            [
+              -101.060, 
+              22.909
+            ], 
+            [
+              -101.040, 
+              22.909
+            ], 
+            [
+              -101.040, 
+              22.891
+            ], 
+            [
+              -101.060, 
+              22.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.909, 
+        "name": "El Salitre", 
+        "adjacent_woeid": [
+          118314, 
+          123896, 
+          124242, 
+          144963
+        ], 
+        "woeid": 122297, 
+        "alias_SPA_V": [
+          "Salitre"
+        ], 
+        "ne_longitude": -101.040, 
+        "longitude": -101.050, 
+        "parent_woeid": 12601516, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.900, 
+        "sw_longitude": -101.060, 
+        "fullname": "El Salitre, San Luis Potosi, Venado, Mexico", 
+        "sw_latitude": 22.891
+      }, 
+      "id": 122297
+    }
+  ]
+}

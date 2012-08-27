@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.301, 
+              40.480
+            ], 
+            [
+              0.301, 
+              40.538
+            ], 
+            [
+              0.383, 
+              40.538
+            ], 
+            [
+              0.383, 
+              40.480
+            ], 
+            [
+              0.301, 
+              40.480
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.538, 
+        "name": "Sant Jordi", 
+        "adjacent_woeid": [
+          755518, 
+          757377, 
+          775965, 
+          776252, 
+          778815, 
+          29369529, 
+          29370270, 
+          55965500
+        ], 
+        "woeid": 772901, 
+        "alias_SPA_V": [
+          "S. Jorge"
+        ], 
+        "ne_longitude": 0.383, 
+        "longitude": 0.332, 
+        "parent_woeid": 12695497, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.509, 
+        "sw_longitude": 0.301, 
+        "fullname": "Sant Jordi, Valencia, Castellon, Spain", 
+        "sw_latitude": 40.480
+      }, 
+      "id": 772901
+    }
+  ]
+}

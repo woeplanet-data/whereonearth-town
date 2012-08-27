@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.456, 
+              41.705
+            ], 
+            [
+              -123.456, 
+              41.714
+            ], 
+            [
+              -123.443, 
+              41.714
+            ], 
+            [
+              -123.443, 
+              41.705
+            ], 
+            [
+              -123.456, 
+              41.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2381142, 
+        "name": "Clear Creek", 
+        "adjacent_woeid": [
+          2385490, 
+          2469140
+        ], 
+        "ne_latitude": 41.714, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Clear Crk"
+        ], 
+        "ne_longitude": -123.443, 
+        "longitude": -123.449, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:23:51Z", 
+        "parent_woeid": 12587716, 
+        "latitude": 41.709, 
+        "sw_longitude": -123.456, 
+        "fullname": "Clear Creek, California, Siskiyou, United States", 
+        "sw_latitude": 41.705
+      }, 
+      "id": 2381142
+    }
+  ]
+}

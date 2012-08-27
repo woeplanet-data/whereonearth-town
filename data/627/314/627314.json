@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.782, 
+              48.668
+            ], 
+            [
+              4.782, 
+              48.718
+            ], 
+            [
+              4.826, 
+              48.718
+            ], 
+            [
+              4.826, 
+              48.668
+            ], 
+            [
+              4.782, 
+              48.668
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627314, 
+        "name": "St.-Vrain", 
+        "adjacent_woeid": [
+          594590, 
+          610634, 
+          616172, 
+          621530, 
+          623952, 
+          632663, 
+          20216963
+        ], 
+        "ne_latitude": 48.718, 
+        "ne_longitude": 4.826, 
+        "longitude": 4.801, 
+        "parent_woeid": 12653319, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vrain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.694, 
+        "sw_longitude": 4.782, 
+        "fullname": "St.-Vrain, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.668
+      }, 
+      "id": 627314
+    }
+  ]
+}

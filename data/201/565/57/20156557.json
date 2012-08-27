@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.538, 
+              49.945
+            ], 
+            [
+              10.538, 
+              49.980
+            ], 
+            [
+              10.578, 
+              49.980
+            ], 
+            [
+              10.578, 
+              49.945
+            ], 
+            [
+              10.538, 
+              49.945
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20156557, 
+        "name": "Zell am Ebersberg", 
+        "adjacent_woeid": [
+          648679, 
+          649149, 
+          671815, 
+          682201, 
+          20156556
+        ], 
+        "ne_latitude": 49.980, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.578, 
+        "longitude": 10.565, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12635553, 
+        "latitude": 49.967, 
+        "sw_longitude": 10.538, 
+        "fullname": "Zell am Ebersberg, Bavaria, Ha\u00dfberge, Germany", 
+        "alias_GER_V": [
+          "Zell"
+        ], 
+        "sw_latitude": 49.945
+      }, 
+      "id": 20156557
+    }
+  ]
+}

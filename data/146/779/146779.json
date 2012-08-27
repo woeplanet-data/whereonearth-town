@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.227, 
+              24.941
+            ], 
+            [
+              -99.227, 
+              24.959
+            ], 
+            [
+              -99.207, 
+              24.959
+            ], 
+            [
+              -99.207, 
+              24.941
+            ], 
+            [
+              -99.227, 
+              24.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.959, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          121605, 
+          137973, 
+          137974, 
+          143034
+        ], 
+        "woeid": 146779, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -99.207, 
+        "longitude": -99.217, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.950, 
+        "sw_longitude": -99.227, 
+        "fullname": "Santa Rosa, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.941
+      }, 
+      "id": 146779
+    }
+  ]
+}

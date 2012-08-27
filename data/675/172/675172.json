@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.639, 
+              50.042
+            ], 
+            [
+              11.639, 
+              50.060
+            ], 
+            [
+              11.658, 
+              50.060
+            ], 
+            [
+              11.658, 
+              50.042
+            ], 
+            [
+              11.639, 
+              50.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675172, 
+        "name": "Micheldorf", 
+        "adjacent_woeid": [
+          653473, 
+          653523, 
+          688757, 
+          29348732
+        ], 
+        "ne_latitude": 50.060, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.658, 
+        "longitude": 11.651, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12636089, 
+        "latitude": 50.056, 
+        "sw_longitude": 11.639, 
+        "fullname": "Micheldorf, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 50.042
+      }, 
+      "id": 675172
+    }
+  ]
+}

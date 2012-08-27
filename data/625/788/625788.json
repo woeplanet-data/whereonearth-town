@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.241, 
+              49.284
+            ], 
+            [
+              4.241, 
+              49.321
+            ], 
+            [
+              4.277, 
+              49.321
+            ], 
+            [
+              4.277, 
+              49.284
+            ], 
+            [
+              4.241, 
+              49.284
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625788, 
+        "name": "St.-Masmes", 
+        "adjacent_woeid": [
+          589825, 
+          594816, 
+          601816, 
+          621644
+        ], 
+        "ne_latitude": 49.321, 
+        "ne_longitude": 4.277, 
+        "longitude": 4.262, 
+        "parent_woeid": 12652932, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Masmes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.313, 
+        "sw_longitude": 4.241, 
+        "fullname": "St.-Masmes, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.284
+      }, 
+      "id": 625788
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.689, 
+              48.454
+            ], 
+            [
+              10.689, 
+              48.497
+            ], 
+            [
+              10.732, 
+              48.497
+            ], 
+            [
+              10.732, 
+              48.454
+            ], 
+            [
+              10.689, 
+              48.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670706, 
+        "name": "Lauterbrunn", 
+        "adjacent_woeid": [
+          633446, 
+          659225, 
+          660139, 
+          675916
+        ], 
+        "ne_latitude": 48.497, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.732, 
+        "longitude": 10.717, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:19Z", 
+        "parent_woeid": 12634769, 
+        "latitude": 48.473, 
+        "sw_longitude": 10.689, 
+        "fullname": "Lauterbrunn, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.454
+      }, 
+      "id": 670706
+    }
+  ]
+}

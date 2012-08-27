@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.645, 
+              53.925
+            ], 
+            [
+              10.645, 
+              53.954
+            ], 
+            [
+              10.669, 
+              53.954
+            ], 
+            [
+              10.669, 
+              53.925
+            ], 
+            [
+              10.645, 
+              53.925
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666539, 
+        "name": "Klein Parin", 
+        "adjacent_woeid": [
+          685484, 
+          688008, 
+          20165141, 
+          20165275, 
+          29350730
+        ], 
+        "ne_latitude": 53.954, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.669, 
+        "longitude": 10.657, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12632319, 
+        "latitude": 53.940, 
+        "sw_longitude": 10.645, 
+        "fullname": "Klein Parin, Schleswig-Holstein, Ostholstein, Germany", 
+        "sw_latitude": 53.925
+      }, 
+      "id": 666539
+    }
+  ]
+}

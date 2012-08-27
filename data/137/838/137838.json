@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.660, 
+              20.991
+            ], 
+            [
+              -100.660, 
+              21.009
+            ], 
+            [
+              -100.640, 
+              21.009
+            ], 
+            [
+              -100.640, 
+              20.991
+            ], 
+            [
+              -100.660, 
+              20.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.009, 
+        "name": "Puerto de Sosa", 
+        "adjacent_woeid": [
+          115350, 
+          119494, 
+          127479, 
+          129326
+        ], 
+        "woeid": 137838, 
+        "alias_SPA_V": [
+          "Pto de Sosa"
+        ], 
+        "ne_longitude": -100.640, 
+        "longitude": -100.650, 
+        "parent_woeid": 12599991, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.000, 
+        "sw_longitude": -100.660, 
+        "fullname": "Puerto de Sosa, Guanajuato, Allende, Mexico", 
+        "sw_latitude": 20.991
+      }, 
+      "id": 137838
+    }
+  ]
+}

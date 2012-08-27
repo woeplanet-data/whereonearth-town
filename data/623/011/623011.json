@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.061, 
+              47.318
+            ], 
+            [
+              5.061, 
+              47.355
+            ], 
+            [
+              5.122, 
+              47.355
+            ], 
+            [
+              5.122, 
+              47.318
+            ], 
+            [
+              5.061, 
+              47.318
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623011, 
+        "name": "St.-Apollinaire", 
+        "adjacent_woeid": [
+          588765, 
+          618566, 
+          620441, 
+          630130
+        ], 
+        "ne_latitude": 47.355, 
+        "ne_longitude": 5.122, 
+        "longitude": 5.084, 
+        "parent_woeid": 12652185, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Apollinaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.334, 
+        "sw_longitude": 5.061, 
+        "fullname": "St.-Apollinaire, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.318
+      }, 
+      "id": 623011
+    }
+  ]
+}

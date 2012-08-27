@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.911, 
+              22.820
+            ], 
+            [
+              -100.911, 
+              22.838
+            ], 
+            [
+              -100.891, 
+              22.838
+            ], 
+            [
+              -100.891, 
+              22.820
+            ], 
+            [
+              -100.911, 
+              22.820
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.838, 
+        "name": "El Epazote", 
+        "adjacent_woeid": [
+          119999, 
+          129712, 
+          142800, 
+          143165, 
+          144963
+        ], 
+        "woeid": 120210, 
+        "alias_SPA_V": [
+          "Epazote"
+        ], 
+        "ne_longitude": -100.891, 
+        "longitude": -100.901, 
+        "parent_woeid": 12601516, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.829, 
+        "sw_longitude": -100.911, 
+        "fullname": "El Epazote, San Luis Potosi, Venado, Mexico", 
+        "sw_latitude": 22.820
+      }, 
+      "id": 120210
+    }
+  ]
+}

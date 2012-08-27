@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.071, 
+              44.542
+            ], 
+            [
+              0.071, 
+              44.578
+            ], 
+            [
+              0.102, 
+              44.578
+            ], 
+            [
+              0.102, 
+              44.542
+            ], 
+            [
+              0.071, 
+              44.542
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625759, 
+        "name": "St.-Martin-Petit", 
+        "adjacent_woeid": [
+          595777, 
+          600884, 
+          601073, 
+          626012
+        ], 
+        "ne_latitude": 44.578, 
+        "ne_longitude": 0.102, 
+        "longitude": 0.084, 
+        "parent_woeid": 12652931, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Martin-Petit"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.563, 
+        "sw_longitude": 0.071, 
+        "fullname": "St.-Martin-Petit, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.542
+      }, 
+      "id": 625759
+    }
+  ]
+}

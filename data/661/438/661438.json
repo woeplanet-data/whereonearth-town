@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.363, 
+              48.754
+            ], 
+            [
+              10.363, 
+              48.783
+            ], 
+            [
+              10.398, 
+              48.783
+            ], 
+            [
+              10.398, 
+              48.754
+            ], 
+            [
+              10.363, 
+              48.754
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661438, 
+        "name": "Hohlenstein", 
+        "adjacent_woeid": [
+          650014, 
+          676272, 
+          683090, 
+          29352999
+        ], 
+        "ne_latitude": 48.783, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.398, 
+        "longitude": 10.382, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12624225, 
+        "latitude": 48.763, 
+        "sw_longitude": 10.363, 
+        "fullname": "Hohlenstein, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.754
+      }, 
+      "id": 661438
+    }
+  ]
+}

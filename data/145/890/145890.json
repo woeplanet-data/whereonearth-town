@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.393, 
+              14.941
+            ], 
+            [
+              -92.393, 
+              14.959
+            ], 
+            [
+              -92.374, 
+              14.959
+            ], 
+            [
+              -92.374, 
+              14.941
+            ], 
+            [
+              -92.393, 
+              14.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.959, 
+        "name": "Santa Clara", 
+        "adjacent_woeid": [
+          111989, 
+          113898, 
+          119276, 
+          125101, 
+          128055, 
+          128739, 
+          133045, 
+          151005
+        ], 
+        "woeid": 145890, 
+        "alias_SPA_V": [
+          "Sta. Clara"
+        ], 
+        "ne_longitude": -92.374, 
+        "longitude": -92.383, 
+        "parent_woeid": 12599743, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.950, 
+        "sw_longitude": -92.393, 
+        "fullname": "Santa Clara, Chiapas, Huehuetan, Mexico", 
+        "sw_latitude": 14.941
+      }, 
+      "id": 145890
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.357, 
+              49.755
+            ], 
+            [
+              10.357, 
+              49.786
+            ], 
+            [
+              10.405, 
+              49.786
+            ], 
+            [
+              10.405, 
+              49.755
+            ], 
+            [
+              10.357, 
+              49.755
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633256, 
+        "name": "Abtswind", 
+        "adjacent_woeid": [
+          654130, 
+          687421, 
+          690241, 
+          701454
+        ], 
+        "ne_latitude": 49.786, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.405, 
+        "longitude": 10.375, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12635563, 
+        "latitude": 49.771, 
+        "sw_longitude": 10.357, 
+        "fullname": "Abtswind, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.755
+      }, 
+      "id": 633256
+    }
+  ]
+}

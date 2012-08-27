@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.197, 
+              43.273
+            ], 
+            [
+              -2.197, 
+              43.299
+            ], 
+            [
+              -2.155, 
+              43.299
+            ], 
+            [
+              -2.155, 
+              43.273
+            ], 
+            [
+              -2.197, 
+              43.273
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.299, 
+        "name": "Zarautz", 
+        "adjacent_woeid": [
+          751581, 
+          751583, 
+          753344, 
+          761957, 
+          768907, 
+          776366, 
+          29371458
+        ], 
+        "woeid": 779071, 
+        "alias_SPA_V": [
+          "Zarauz"
+        ], 
+        "ne_longitude": -2.155, 
+        "longitude": -2.178, 
+        "parent_woeid": 12695148, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.285, 
+        "sw_longitude": -2.197, 
+        "fullname": "Zarautz, Basque Country, Guipuzcoa, Spain", 
+        "sw_latitude": 43.273
+      }, 
+      "id": 779071
+    }
+  ]
+}

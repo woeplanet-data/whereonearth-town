@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.552, 
+              46.471
+            ], 
+            [
+              7.552, 
+              46.486
+            ], 
+            [
+              7.567, 
+              46.486
+            ], 
+            [
+              7.567, 
+              46.471
+            ], 
+            [
+              7.552, 
+              46.471
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20100966, 
+        "name": "Boden", 
+        "adjacent_woeid": [
+          784117, 
+          784480, 
+          20101875
+        ], 
+        "ne_latitude": 46.486, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.567, 
+        "longitude": 7.558, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12682708, 
+        "latitude": 46.481, 
+        "sw_longitude": 7.552, 
+        "fullname": "Boden, Canton of Berne, Frutigen, Switzerland", 
+        "sw_latitude": 46.471
+      }, 
+      "id": 20100966
+    }
+  ]
+}

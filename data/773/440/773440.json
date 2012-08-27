@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.913, 
+              42.465
+            ], 
+            [
+              -2.913, 
+              42.504
+            ], 
+            [
+              -2.876, 
+              42.504
+            ], 
+            [
+              -2.876, 
+              42.465
+            ], 
+            [
+              -2.913, 
+              42.465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.504, 
+        "name": "San Torcuato", 
+        "adjacent_woeid": [
+          757583, 
+          762180, 
+          20221575
+        ], 
+        "woeid": 773440, 
+        "alias_SPA_V": [
+          "S. Torcuato"
+        ], 
+        "ne_longitude": -2.876, 
+        "longitude": -2.890, 
+        "parent_woeid": 12687900, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.483, 
+        "sw_longitude": -2.913, 
+        "fullname": "San Torcuato, La Rioja, Rioja, Spain", 
+        "sw_latitude": 42.465
+      }, 
+      "id": 773440
+    }
+  ]
+}

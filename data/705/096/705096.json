@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.266, 
+              49.896
+            ], 
+            [
+              11.266, 
+              49.926
+            ], 
+            [
+              11.321, 
+              49.926
+            ], 
+            [
+              11.321, 
+              49.896
+            ], 
+            [
+              11.266, 
+              49.896
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705096, 
+        "name": "Welkendorf", 
+        "adjacent_woeid": [
+          660778, 
+          696441, 
+          699401, 
+          699955
+        ], 
+        "ne_latitude": 49.926, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.321, 
+        "longitude": 11.310, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12635264, 
+        "latitude": 49.910, 
+        "sw_longitude": 11.266, 
+        "fullname": "Welkendorf, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 49.896
+      }, 
+      "id": 705096
+    }
+  ]
+}

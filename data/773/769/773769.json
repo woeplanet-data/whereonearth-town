@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.144, 
+              42.547
+            ], 
+            [
+              0.144, 
+              42.556
+            ], 
+            [
+              0.156, 
+              42.556
+            ], 
+            [
+              0.156, 
+              42.547
+            ], 
+            [
+              0.144, 
+              42.547
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.556, 
+        "name": "Santa Justa", 
+        "adjacent_woeid": [
+          754159, 
+          760089, 
+          763405, 
+          773802
+        ], 
+        "woeid": 773769, 
+        "alias_SPA_V": [
+          "Sta Justa"
+        ], 
+        "ne_longitude": 0.156, 
+        "longitude": 0.150, 
+        "parent_woeid": 12689542, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.552, 
+        "sw_longitude": 0.144, 
+        "fullname": "Santa Justa, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.547
+      }, 
+      "id": 773769
+    }
+  ]
+}

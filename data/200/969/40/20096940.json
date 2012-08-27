@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.205, 
+              47.659
+            ], 
+            [
+              12.205, 
+              47.675
+            ], 
+            [
+              12.228, 
+              47.675
+            ], 
+            [
+              12.228, 
+              47.659
+            ], 
+            [
+              12.205, 
+              47.659
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20096940, 
+        "name": "Praschberg", 
+        "adjacent_woeid": [
+          550563, 
+          550939, 
+          20094988, 
+          20095331
+        ], 
+        "ne_latitude": 47.675, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.228, 
+        "longitude": 12.217, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:10Z", 
+        "parent_woeid": 12675435, 
+        "latitude": 47.667, 
+        "sw_longitude": 12.205, 
+        "fullname": "Praschberg, Tyrol, Kufstein, Austria", 
+        "sw_latitude": 47.659
+      }, 
+      "id": 20096940
+    }
+  ]
+}

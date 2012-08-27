@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.256, 
+              42.514
+            ], 
+            [
+              -2.256, 
+              42.559
+            ], 
+            [
+              -2.225, 
+              42.559
+            ], 
+            [
+              -2.225, 
+              42.514
+            ], 
+            [
+              -2.256, 
+              42.514
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.559, 
+        "name": "El Busto", 
+        "adjacent_woeid": [
+          775853
+        ], 
+        "woeid": 759047, 
+        "alias_SPA_V": [
+          "Busto"
+        ], 
+        "ne_longitude": -2.225, 
+        "longitude": -2.242, 
+        "parent_woeid": 12688237, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.550, 
+        "sw_longitude": -2.256, 
+        "fullname": "El Busto, Navarre, Navarre, Spain", 
+        "sw_latitude": 42.514
+      }, 
+      "id": 759047
+    }
+  ]
+}

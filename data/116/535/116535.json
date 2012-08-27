@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.676, 
+              18.347
+            ], 
+            [
+              -100.676, 
+              18.366
+            ], 
+            [
+              -100.657, 
+              18.366
+            ], 
+            [
+              -100.657, 
+              18.347
+            ], 
+            [
+              -100.676, 
+              18.347
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.366, 
+        "name": "Ciudad Altamirano", 
+        "adjacent_woeid": [
+          117588, 
+          143111, 
+          145773, 
+          147192, 
+          147994, 
+          55919617
+        ], 
+        "woeid": 116535, 
+        "alias_SPA_V": [
+          "Pungarabato"
+        ], 
+        "ne_longitude": -100.657, 
+        "longitude": -100.666, 
+        "parent_woeid": 12600086, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.357, 
+        "sw_longitude": -100.676, 
+        "fullname": "Ciudad Altamirano, Guerrero, Pungarabato, Mexico", 
+        "sw_latitude": 18.347
+      }, 
+      "id": 116535
+    }
+  ]
+}

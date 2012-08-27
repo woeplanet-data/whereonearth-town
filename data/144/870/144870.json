@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.100, 
+              18.129
+            ], 
+            [
+              -98.100, 
+              18.147
+            ], 
+            [
+              -98.081, 
+              18.147
+            ], 
+            [
+              -98.081, 
+              18.129
+            ], 
+            [
+              -98.100, 
+              18.129
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.147, 
+        "name": "San Pablo Amicano", 
+        "adjacent_woeid": [
+          111020, 
+          112056, 
+          124281, 
+          136555, 
+          151348, 
+          55902954, 
+          55902955
+        ], 
+        "woeid": 144870, 
+        "alias_SPA_V": [
+          "S. Pablo Amicano"
+        ], 
+        "ne_longitude": -98.081, 
+        "longitude": -98.091, 
+        "parent_woeid": 12601366, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.138, 
+        "sw_longitude": -98.100, 
+        "fullname": "San Pablo Amicano, Puebla, San Pablo Anicano, Mexico", 
+        "sw_latitude": 18.129
+      }, 
+      "id": 144870
+    }
+  ]
+}

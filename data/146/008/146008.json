@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.879, 
+              17.098
+            ], 
+            [
+              -92.879, 
+              17.116
+            ], 
+            [
+              -92.860, 
+              17.116
+            ], 
+            [
+              -92.860, 
+              17.098
+            ], 
+            [
+              -92.879, 
+              17.098
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.116, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          119258, 
+          120213, 
+          125443, 
+          125940, 
+          137651, 
+          140471, 
+          26804430, 
+          55918046
+        ], 
+        "woeid": 146008, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -92.860, 
+        "longitude": -92.869, 
+        "parent_woeid": 12599752, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.107, 
+        "sw_longitude": -92.879, 
+        "fullname": "Santa Cruz, Chiapas, Jitotol, Mexico", 
+        "sw_latitude": 17.098
+      }, 
+      "id": 146008
+    }
+  ]
+}

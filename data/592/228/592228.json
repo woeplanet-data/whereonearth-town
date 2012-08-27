@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.285, 
+              43.495
+            ], 
+            [
+              1.285, 
+              43.541
+            ], 
+            [
+              1.341, 
+              43.541
+            ], 
+            [
+              1.341, 
+              43.495
+            ], 
+            [
+              1.285, 
+              43.495
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592228, 
+        "name": "Frouzins", 
+        "adjacent_woeid": [
+          622086, 
+          631909, 
+          15003166, 
+          29331559, 
+          29332027
+        ], 
+        "ne_latitude": 43.541, 
+        "ne_longitude": 1.341, 
+        "longitude": 1.324, 
+        "parent_woeid": 12661852, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Frollzins"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.515, 
+        "sw_longitude": 1.285, 
+        "fullname": "Frouzins, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.495
+      }, 
+      "id": 592228
+    }
+  ]
+}

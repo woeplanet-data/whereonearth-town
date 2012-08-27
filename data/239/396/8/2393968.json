@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -82.963, 
+              32.490
+            ], 
+            [
+              -82.963, 
+              32.603
+            ], 
+            [
+              -82.875, 
+              32.603
+            ], 
+            [
+              -82.875, 
+              32.490
+            ], 
+            [
+              -82.963, 
+              32.490
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2393968, 
+        "name": "Dublin", 
+        "adjacent_woeid": [
+          2352570, 
+          2353398, 
+          2373009, 
+          2378236, 
+          2378723, 
+          2391801, 
+          2394051, 
+          2395510, 
+          2409071, 
+          2411424, 
+          2427745, 
+          2453542, 
+          2453758, 
+          2480244, 
+          2483434, 
+          2495801, 
+          2508412
+        ], 
+        "ne_latitude": 32.603, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "DBN"
+        ], 
+        "ne_longitude": -82.875, 
+        "longitude": -82.907, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:55Z", 
+        "parent_woeid": 12587956, 
+        "latitude": 32.539, 
+        "sw_longitude": -82.963, 
+        "fullname": "Dublin, Georgia, Laurens, United States", 
+        "sw_latitude": 32.490
+      }, 
+      "id": 2393968
+    }
+  ]
+}

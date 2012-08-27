@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.043, 
+              20.341
+            ], 
+            [
+              -98.043, 
+              20.359
+            ], 
+            [
+              -98.024, 
+              20.359
+            ], 
+            [
+              -98.024, 
+              20.341
+            ], 
+            [
+              -98.043, 
+              20.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.359, 
+        "name": "Cuautepec", 
+        "adjacent_woeid": [
+          112633, 
+          141676, 
+          149556, 
+          149647, 
+          151119
+        ], 
+        "woeid": 117799, 
+        "alias_SPA_V": [
+          "Cuantepec"
+        ], 
+        "ne_longitude": -98.024, 
+        "longitude": -98.033, 
+        "parent_woeid": 12601405, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.350, 
+        "sw_longitude": -98.043, 
+        "fullname": "Cuautepec, Puebla, Tlacuilotepec, Mexico", 
+        "sw_latitude": 20.341
+      }, 
+      "id": 117799
+    }
+  ]
+}

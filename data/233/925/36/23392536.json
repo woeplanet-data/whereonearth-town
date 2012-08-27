@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.826, 
+              45.875
+            ], 
+            [
+              -64.826, 
+              45.893
+            ], 
+            [
+              -64.800, 
+              45.893
+            ], 
+            [
+              -64.800, 
+              45.875
+            ], 
+            [
+              -64.826, 
+              45.875
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23392536, 
+        "name": "Baltimore", 
+        "adjacent_woeid": [
+          23392555, 
+          23392593, 
+          23392800, 
+          23392840, 
+          23392885
+        ], 
+        "ne_latitude": 45.893, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -64.800, 
+        "longitude": -64.813, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:09Z", 
+        "parent_woeid": 29375098, 
+        "latitude": 45.884, 
+        "sw_longitude": -64.826, 
+        "fullname": "Baltimore, New Brunswick, Albert, Canada", 
+        "sw_latitude": 45.875
+      }, 
+      "id": 23392536
+    }
+  ]
+}

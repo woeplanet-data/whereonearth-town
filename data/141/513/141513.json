@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.867, 
+              28.400
+            ], 
+            [
+              -106.867, 
+              28.418
+            ], 
+            [
+              -106.847, 
+              28.418
+            ], 
+            [
+              -106.847, 
+              28.400
+            ], 
+            [
+              -106.867, 
+              28.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.418, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          114366, 
+          146308, 
+          146363, 
+          148357
+        ], 
+        "woeid": 141513, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -106.847, 
+        "longitude": -106.857, 
+        "parent_woeid": 12599836, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.409, 
+        "sw_longitude": -106.867, 
+        "fullname": "San Antonio, Chihuahua, Cuauhtemoc, Mexico", 
+        "sw_latitude": 28.400
+      }, 
+      "id": 141513
+    }
+  ]
+}

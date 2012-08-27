@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.456, 
+              52.453
+            ], 
+            [
+              12.456, 
+              52.506
+            ], 
+            [
+              12.488, 
+              52.506
+            ], 
+            [
+              12.488, 
+              52.453
+            ], 
+            [
+              12.456, 
+              52.453
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650043, 
+        "name": "Fohrde", 
+        "adjacent_woeid": [
+          640720, 
+          641277, 
+          653240, 
+          661171, 
+          675305, 
+          685908, 
+          686061, 
+          699399, 
+          23410754
+        ], 
+        "ne_latitude": 52.506, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.488, 
+        "longitude": 12.470, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 24547171, 
+        "latitude": 52.484, 
+        "sw_longitude": 12.456, 
+        "fullname": "Fohrde, Brandenburg, Potsdam-Mittelmark, Germany", 
+        "sw_latitude": 52.453
+      }, 
+      "id": 650043
+    }
+  ]
+}

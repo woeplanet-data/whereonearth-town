@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.116, 
+              51.096
+            ], 
+            [
+              13.116, 
+              51.114
+            ], 
+            [
+              13.145, 
+              51.114
+            ], 
+            [
+              13.145, 
+              51.096
+            ], 
+            [
+              13.116, 
+              51.096
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29353208, 
+        "name": "Siedlung Rossweiner Strasse", 
+        "adjacent_woeid": [
+          659340, 
+          678410, 
+          682039
+        ], 
+        "ne_latitude": 51.114, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.145, 
+        "longitude": 13.131, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:50:24Z", 
+        "parent_woeid": 12625679, 
+        "latitude": 51.105, 
+        "sw_longitude": 13.116, 
+        "fullname": "Siedlung Rossweiner Strasse, Saxony, Dobeln, Germany", 
+        "sw_latitude": 51.096
+      }, 
+      "id": 29353208
+    }
+  ]
+}

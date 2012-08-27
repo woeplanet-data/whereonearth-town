@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.150, 
+              45.656
+            ], 
+            [
+              3.150, 
+              45.674
+            ], 
+            [
+              3.176, 
+              45.674
+            ], 
+            [
+              3.176, 
+              45.656
+            ], 
+            [
+              3.150, 
+              45.656
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332731, 
+        "name": "Saint-Alyre", 
+        "adjacent_woeid": [
+          599971, 
+          627995, 
+          29332732
+        ], 
+        "ne_latitude": 45.674, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.176, 
+        "longitude": 3.163, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12652072, 
+        "latitude": 45.665, 
+        "sw_longitude": 3.150, 
+        "fullname": "Saint-Alyre, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.656
+      }, 
+      "id": 29332731
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.314, 
+              49.747
+            ], 
+            [
+              8.314, 
+              49.778
+            ], 
+            [
+              8.363, 
+              49.778
+            ], 
+            [
+              8.363, 
+              49.747
+            ], 
+            [
+              8.314, 
+              49.747
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 634130, 
+        "name": "Alsheim", 
+        "adjacent_woeid": [
+          645301, 
+          652603, 
+          655876, 
+          675035, 
+          675909, 
+          707125, 
+          20163603, 
+          20173951
+        ], 
+        "ne_latitude": 49.778, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.363, 
+        "longitude": 8.340, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:24Z", 
+        "parent_woeid": 12627144, 
+        "latitude": 49.764, 
+        "sw_longitude": 8.314, 
+        "fullname": "Alsheim, Rhineland-Palatinate, Alzey-Worms, Germany", 
+        "sw_latitude": 49.747
+      }, 
+      "id": 634130
+    }
+  ]
+}

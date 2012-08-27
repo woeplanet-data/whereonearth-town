@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.021, 
+              45.828
+            ], 
+            [
+              0.021, 
+              45.860
+            ], 
+            [
+              0.051, 
+              45.860
+            ], 
+            [
+              0.051, 
+              45.828
+            ], 
+            [
+              0.021, 
+              45.828
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597386, 
+        "name": "La Chapelle", 
+        "adjacent_woeid": [
+          575886, 
+          609851, 
+          20198370, 
+          29331262
+        ], 
+        "ne_latitude": 45.860, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.051, 
+        "longitude": 0.035, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12663480, 
+        "latitude": 45.840, 
+        "sw_longitude": 0.021, 
+        "fullname": "La Chapelle, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.828
+      }, 
+      "id": 597386
+    }
+  ]
+}

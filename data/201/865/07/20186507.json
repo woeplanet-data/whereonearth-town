@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.327, 
+              47.622
+            ], 
+            [
+              1.327, 
+              47.631
+            ], 
+            [
+              1.344, 
+              47.631
+            ], 
+            [
+              1.344, 
+              47.622
+            ], 
+            [
+              1.327, 
+              47.622
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20186507, 
+        "name": "Francillon", 
+        "adjacent_woeid": [
+          623737, 
+          631593, 
+          20186508, 
+          29332431
+        ], 
+        "ne_latitude": 47.631, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.344, 
+        "longitude": 1.337, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12654389, 
+        "latitude": 47.626, 
+        "sw_longitude": 1.327, 
+        "fullname": "Francillon, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.622
+      }, 
+      "id": 20186507
+    }
+  ]
+}

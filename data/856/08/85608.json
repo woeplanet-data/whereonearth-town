@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.857, 
+              14.726
+            ], 
+            [
+              -91.857, 
+              14.740
+            ], 
+            [
+              -91.843, 
+              14.740
+            ], 
+            [
+              -91.843, 
+              14.726
+            ], 
+            [
+              -91.857, 
+              14.726
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.740, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          81908, 
+          82744, 
+          83661, 
+          83921, 
+          85696, 
+          22722689, 
+          22722694
+        ], 
+        "woeid": 85608, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -91.843, 
+        "longitude": -91.850, 
+        "parent_woeid": 26807167, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.733, 
+        "sw_longitude": -91.857, 
+        "fullname": "San Francisco, San Marcos, El Quetzal, Guatemala", 
+        "sw_latitude": 14.726
+      }, 
+      "id": 85608
+    }
+  ]
+}

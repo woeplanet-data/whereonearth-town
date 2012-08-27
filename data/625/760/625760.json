@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.195, 
+              49.963
+            ], 
+            [
+              1.195, 
+              49.972
+            ], 
+            [
+              1.211, 
+              49.972
+            ], 
+            [
+              1.211, 
+              49.963
+            ], 
+            [
+              1.195, 
+              49.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625760, 
+        "name": "St.-Martin-Plage", 
+        "adjacent_woeid": [
+          579428, 
+          625713, 
+          630164
+        ], 
+        "ne_latitude": 49.972, 
+        "ne_longitude": 1.211, 
+        "longitude": 1.204, 
+        "parent_woeid": 12652869, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Martin-Plage"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.967, 
+        "sw_longitude": 1.195, 
+        "fullname": "St.-Martin-Plage, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.963
+      }, 
+      "id": 625760
+    }
+  ]
+}

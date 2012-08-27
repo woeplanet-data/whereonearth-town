@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.819, 
+              49.690
+            ], 
+            [
+              0.819, 
+              49.726
+            ], 
+            [
+              0.846, 
+              49.726
+            ], 
+            [
+              0.846, 
+              49.690
+            ], 
+            [
+              0.819, 
+              49.690
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579544, 
+        "name": "Berville", 
+        "adjacent_woeid": [
+          575957, 
+          580966, 
+          590240, 
+          608171, 
+          615414, 
+          618047, 
+          621657
+        ], 
+        "ne_latitude": 49.726, 
+        "ne_longitude": 0.846, 
+        "longitude": 0.832, 
+        "parent_woeid": 12638249, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Berville-en-Caux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.709, 
+        "sw_longitude": 0.819, 
+        "fullname": "Berville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.690
+      }, 
+      "id": 579544
+    }
+  ]
+}

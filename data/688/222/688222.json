@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.333, 
+              50.655
+            ], 
+            [
+              9.333, 
+              50.709
+            ], 
+            [
+              9.383, 
+              50.709
+            ], 
+            [
+              9.383, 
+              50.655
+            ], 
+            [
+              9.333, 
+              50.655
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688222, 
+        "name": "Reuters", 
+        "adjacent_woeid": [
+          640794, 
+          658190, 
+          659241, 
+          673295, 
+          703675
+        ], 
+        "ne_latitude": 50.709, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.383, 
+        "longitude": 9.350, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12632728, 
+        "latitude": 50.674, 
+        "sw_longitude": 9.333, 
+        "fullname": "Reuters, Hesse, Vogelbergkreis, Germany", 
+        "sw_latitude": 50.655
+      }, 
+      "id": 688222
+    }
+  ]
+}

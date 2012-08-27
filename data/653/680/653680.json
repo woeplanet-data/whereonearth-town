@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.281, 
+              47.951
+            ], 
+            [
+              12.281, 
+              47.960
+            ], 
+            [
+              12.295, 
+              47.960
+            ], 
+            [
+              12.295, 
+              47.951
+            ], 
+            [
+              12.281, 
+              47.951
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 653680, 
+        "name": "Graben", 
+        "adjacent_woeid": [
+          634090, 
+          650079, 
+          651806, 
+          657134, 
+          660742, 
+          695528, 
+          700963, 
+          701382, 
+          707776
+        ], 
+        "ne_latitude": 47.960, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.295, 
+        "longitude": 12.288, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:57Z", 
+        "parent_woeid": 12622775, 
+        "latitude": 47.955, 
+        "sw_longitude": 12.281, 
+        "fullname": "Graben, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.951
+      }, 
+      "id": 653680
+    }
+  ]
+}

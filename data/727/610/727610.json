@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.680, 
+              52.657
+            ], 
+            [
+              4.680, 
+              52.683
+            ], 
+            [
+              4.727, 
+              52.683
+            ], 
+            [
+              4.727, 
+              52.657
+            ], 
+            [
+              4.680, 
+              52.657
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 727610, 
+        "name": "Bergen", 
+        "adjacent_woeid": [
+          727611, 
+          729002, 
+          730840, 
+          732597, 
+          733310, 
+          733311, 
+          734516
+        ], 
+        "ne_latitude": 52.683, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.727, 
+        "longitude": 4.701, 
+        "placetype": "Town", 
+        "iso": "NL", 
+        "date_indexed": "2010-12-02T18:17:25Z", 
+        "alias_DUT_V": [
+          "Bergen-Binnen"
+        ], 
+        "parent_woeid": 12592066, 
+        "latitude": 52.670, 
+        "sw_longitude": 4.680, 
+        "fullname": "Bergen, North Holland, Bergen, Netherlands", 
+        "sw_latitude": 52.657
+      }, 
+      "id": 727610
+    }
+  ]
+}

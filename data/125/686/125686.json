@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.911, 
+              21.432
+            ], 
+            [
+              -104.911, 
+              21.466
+            ], 
+            [
+              -104.887, 
+              21.466
+            ], 
+            [
+              -104.887, 
+              21.432
+            ], 
+            [
+              -104.911, 
+              21.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.466, 
+        "name": "Jalisco", 
+        "adjacent_woeid": [
+          111131, 
+          118874, 
+          121973, 
+          131875, 
+          133938, 
+          135532, 
+          135922
+        ], 
+        "woeid": 125686, 
+        "alias_SPA_V": [
+          "Xalisco"
+        ], 
+        "ne_longitude": -104.887, 
+        "longitude": -104.899, 
+        "parent_woeid": 12600605, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.452, 
+        "sw_longitude": -104.911, 
+        "fullname": "Jalisco, Nayarit, Xalisco, Mexico", 
+        "sw_latitude": 21.432
+      }, 
+      "id": 125686
+    }
+  ]
+}

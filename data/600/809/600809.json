@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.101, 
+              43.952
+            ], 
+            [
+              1.101, 
+              43.982
+            ], 
+            [
+              1.138, 
+              43.982
+            ], 
+            [
+              1.138, 
+              43.952
+            ], 
+            [
+              1.101, 
+              43.952
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600809, 
+        "name": "Lafitte", 
+        "adjacent_woeid": [
+          586971, 
+          592427, 
+          600634, 
+          20195022
+        ], 
+        "ne_latitude": 43.982, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.138, 
+        "longitude": 1.120, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12664260, 
+        "latitude": 43.972, 
+        "sw_longitude": 1.101, 
+        "fullname": "Lafitte, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.952
+      }, 
+      "id": 600809
+    }
+  ]
+}

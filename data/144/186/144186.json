@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.948, 
+              22.872
+            ], 
+            [
+              -109.948, 
+              22.905
+            ], 
+            [
+              -109.894, 
+              22.905
+            ], 
+            [
+              -109.894, 
+              22.872
+            ], 
+            [
+              -109.948, 
+              22.872
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.905, 
+        "name": "San Lucas", 
+        "adjacent_woeid": [
+          114635, 
+          121341, 
+          122875, 
+          137359, 
+          55897385, 
+          55899908
+        ], 
+        "woeid": 144186, 
+        "alias_SPA_V": [
+          "S Lucas"
+        ], 
+        "ne_longitude": -109.894, 
+        "longitude": -109.919, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.888, 
+        "sw_longitude": -109.948, 
+        "fullname": "San Lucas, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 22.872
+      }, 
+      "id": 144186
+    }
+  ]
+}

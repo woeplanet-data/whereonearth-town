@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.167, 
+              44.620
+            ], 
+            [
+              -0.167, 
+              44.654
+            ], 
+            [
+              -0.120, 
+              44.654
+            ], 
+            [
+              -0.120, 
+              44.620
+            ], 
+            [
+              -0.167, 
+              44.620
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625151, 
+        "name": "St.-Laurent-du-Bois", 
+        "adjacent_woeid": [
+          583292, 
+          593163, 
+          623971, 
+          623987, 
+          625157, 
+          625506, 
+          627539
+        ], 
+        "ne_latitude": 44.654, 
+        "ne_longitude": -0.120, 
+        "longitude": -0.135, 
+        "parent_woeid": 12652745, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Laurent-du-Bois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.637, 
+        "sw_longitude": -0.167, 
+        "fullname": "St.-Laurent-du-Bois, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.620
+      }, 
+      "id": 625151
+    }
+  ]
+}

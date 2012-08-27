@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.771, 
+              24.230
+            ], 
+            [
+              -100.771, 
+              24.249
+            ], 
+            [
+              -100.751, 
+              24.249
+            ], 
+            [
+              -100.751, 
+              24.230
+            ], 
+            [
+              -100.771, 
+              24.230
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.249, 
+        "name": "San Juan de la Cruz", 
+        "adjacent_woeid": [
+          120318, 
+          120630, 
+          123436, 
+          141139, 
+          141605, 
+          145056
+        ], 
+        "woeid": 143881, 
+        "alias_SPA_V": [
+          "S Juan de la Cruz"
+        ], 
+        "ne_longitude": -100.751, 
+        "longitude": -100.761, 
+        "parent_woeid": 12601515, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.240, 
+        "sw_longitude": -100.771, 
+        "fullname": "San Juan de la Cruz, San Luis Potosi, Vanegas, Mexico", 
+        "sw_latitude": 24.230
+      }, 
+      "id": 143881
+    }
+  ]
+}

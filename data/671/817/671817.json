@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.500, 
+              49.467
+            ], 
+            [
+              10.500, 
+              49.493
+            ], 
+            [
+              10.530, 
+              49.493
+            ], 
+            [
+              10.530, 
+              49.467
+            ], 
+            [
+              10.500, 
+              49.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671817, 
+        "name": "Limbach", 
+        "adjacent_woeid": [
+          658195, 
+          663208, 
+          686908, 
+          693407
+        ], 
+        "ne_latitude": 49.493, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.530, 
+        "longitude": 10.518, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:20Z", 
+        "parent_woeid": 12634523, 
+        "latitude": 49.481, 
+        "sw_longitude": 10.500, 
+        "fullname": "Limbach, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.467
+      }, 
+      "id": 671817
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.727, 
+              22.074
+            ], 
+            [
+              -100.727, 
+              22.092
+            ], 
+            [
+              -100.707, 
+              22.092
+            ], 
+            [
+              -100.707, 
+              22.074
+            ], 
+            [
+              -100.727, 
+              22.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.092, 
+        "name": "Parada de Zarcido", 
+        "adjacent_woeid": [
+          111977, 
+          112388, 
+          128771, 
+          134110, 
+          142516
+        ], 
+        "woeid": 135980, 
+        "alias_SPA_V": [
+          "Parada Surcido"
+        ], 
+        "ne_longitude": -100.707, 
+        "longitude": -100.717, 
+        "parent_woeid": 12601526, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.083, 
+        "sw_longitude": -100.727, 
+        "fullname": "Parada de Zarcido, San Luis Potosi, Zaragoza, Mexico", 
+        "sw_latitude": 22.074
+      }, 
+      "id": 135980
+    }
+  ]
+}

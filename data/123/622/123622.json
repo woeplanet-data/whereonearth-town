@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.127, 
+              23.824
+            ], 
+            [
+              -102.127, 
+              23.842
+            ], 
+            [
+              -102.107, 
+              23.842
+            ], 
+            [
+              -102.107, 
+              23.824
+            ], 
+            [
+              -102.127, 
+              23.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.842, 
+        "name": "Felipe Carrillo Puerto", 
+        "adjacent_woeid": [
+          111416, 
+          114325, 
+          117180, 
+          121948, 
+          135471, 
+          142375
+        ], 
+        "woeid": 123622, 
+        "alias_SPA_V": [
+          "Colonia Carrillo Puerto"
+        ], 
+        "ne_longitude": -102.107, 
+        "longitude": -102.117, 
+        "parent_woeid": 12602082, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.833, 
+        "sw_longitude": -102.127, 
+        "fullname": "Felipe Carrillo Puerto, Zacatecas, Villa de Cos, Mexico", 
+        "sw_latitude": 23.824
+      }, 
+      "id": 123622
+    }
+  ]
+}

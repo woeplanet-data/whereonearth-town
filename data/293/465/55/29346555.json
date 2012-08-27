@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.198, 
+              47.824
+            ], 
+            [
+              12.198, 
+              47.842
+            ], 
+            [
+              12.225, 
+              47.842
+            ], 
+            [
+              12.225, 
+              47.824
+            ], 
+            [
+              12.198, 
+              47.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346555, 
+        "name": "Mitterfeld", 
+        "adjacent_woeid": [
+          653057, 
+          699530, 
+          701374, 
+          29346573
+        ], 
+        "ne_latitude": 47.842, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.225, 
+        "longitude": 12.211, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:26Z", 
+        "parent_woeid": 12622785, 
+        "latitude": 47.833, 
+        "sw_longitude": 12.198, 
+        "fullname": "Mitterfeld, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.824
+      }, 
+      "id": 29346555
+    }
+  ]
+}

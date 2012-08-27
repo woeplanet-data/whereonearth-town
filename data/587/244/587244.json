@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.311, 
+              45.643
+            ], 
+            [
+              2.311, 
+              45.678
+            ], 
+            [
+              2.343, 
+              45.678
+            ], 
+            [
+              2.343, 
+              45.643
+            ], 
+            [
+              2.311, 
+              45.643
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587244, 
+        "name": "Couffy-sur-Sarsonne", 
+        "adjacent_woeid": [
+          575604, 
+          587567, 
+          601017, 
+          625518, 
+          626696
+        ], 
+        "ne_latitude": 45.678, 
+        "ne_longitude": 2.343, 
+        "longitude": 2.329, 
+        "parent_woeid": 12659933, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Couffy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.661, 
+        "sw_longitude": 2.311, 
+        "fullname": "Couffy-sur-Sarsonne, Limousin, Correze, France", 
+        "sw_latitude": 45.643
+      }, 
+      "id": 587244
+    }
+  ]
+}

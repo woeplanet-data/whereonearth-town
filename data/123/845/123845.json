@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.243, 
+              21.274
+            ], 
+            [
+              -98.243, 
+              21.292
+            ], 
+            [
+              -98.224, 
+              21.292
+            ], 
+            [
+              -98.224, 
+              21.274
+            ], 
+            [
+              -98.243, 
+              21.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123845, 
+        "name": "Galera", 
+        "adjacent_woeid": [
+          111041, 
+          115664, 
+          119777, 
+          119788, 
+          132248, 
+          137336, 
+          145399, 
+          148255
+        ], 
+        "ne_latitude": 21.292, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -98.224, 
+        "longitude": -98.233, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "parent_woeid": 12601875, 
+        "latitude": 21.283, 
+        "sw_longitude": -98.243, 
+        "fullname": "Galera, Veracruz-Llave, Tantoyuca, Mexico", 
+        "sw_latitude": 21.274
+      }, 
+      "id": 123845
+    }
+  ]
+}

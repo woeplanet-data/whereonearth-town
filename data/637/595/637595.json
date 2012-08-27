@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.987, 
+              52.496
+            ], 
+            [
+              10.987, 
+              52.542
+            ], 
+            [
+              11.042, 
+              52.542
+            ], 
+            [
+              11.042, 
+              52.496
+            ], 
+            [
+              10.987, 
+              52.496
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637595, 
+        "name": "Belfort", 
+        "adjacent_woeid": [
+          642137, 
+          663920, 
+          669536, 
+          690147, 
+          20166175
+        ], 
+        "ne_latitude": 52.542, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.042, 
+        "longitude": 11.017, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:21Z", 
+        "parent_woeid": 12627072, 
+        "latitude": 52.517, 
+        "sw_longitude": 10.987, 
+        "fullname": "Belfort, Saxony-Anhalt, Altmarkkreis Salzwedel, Germany", 
+        "sw_latitude": 52.496
+      }, 
+      "id": 637595
+    }
+  ]
+}

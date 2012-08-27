@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -112.901, 
+              27.292
+            ], 
+            [
+              -112.901, 
+              27.306
+            ], 
+            [
+              -112.885, 
+              27.306
+            ], 
+            [
+              -112.885, 
+              27.292
+            ], 
+            [
+              -112.901, 
+              27.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.306, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          129805, 
+          136049, 
+          142436, 
+          143689, 
+          146366, 
+          146369
+        ], 
+        "woeid": 142816, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -112.885, 
+        "longitude": -112.893, 
+        "parent_woeid": 12599698, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.299, 
+        "sw_longitude": -112.901, 
+        "fullname": "San Ignacio, Baja California Sur, Mulege, Mexico", 
+        "sw_latitude": 27.292
+      }, 
+      "id": 142816
+    }
+  ]
+}

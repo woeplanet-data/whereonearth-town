@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.273, 
+              40.093
+            ], 
+            [
+              -1.273, 
+              40.104
+            ], 
+            [
+              -1.213, 
+              40.104
+            ], 
+            [
+              -1.213, 
+              40.093
+            ], 
+            [
+              -1.273, 
+              40.093
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.104, 
+        "name": "Torre Baja", 
+        "adjacent_woeid": [
+          751417, 
+          756831, 
+          765164, 
+          766003, 
+          766690, 
+          775667, 
+          776429
+        ], 
+        "woeid": 775669, 
+        "alias_SPA_V": [
+          "Torrebaja"
+        ], 
+        "ne_longitude": -1.213, 
+        "longitude": -1.258, 
+        "parent_woeid": 12695781, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.096, 
+        "sw_longitude": -1.273, 
+        "fullname": "Torre Baja, Valencia, Valencia, Spain", 
+        "sw_latitude": 40.093
+      }, 
+      "id": 775669
+    }
+  ]
+}

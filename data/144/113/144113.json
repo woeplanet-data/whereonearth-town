@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.093, 
+              21.941
+            ], 
+            [
+              -105.093, 
+              21.959
+            ], 
+            [
+              -105.074, 
+              21.959
+            ], 
+            [
+              -105.074, 
+              21.941
+            ], 
+            [
+              -105.093, 
+              21.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.959, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          110976, 
+          117572, 
+          126083, 
+          129813, 
+          142236
+        ], 
+        "woeid": 144113, 
+        "alias_SPA_V": [
+          "S. Lorenzo"
+        ], 
+        "ne_longitude": -105.074, 
+        "longitude": -105.083, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.950, 
+        "sw_longitude": -105.093, 
+        "fullname": "San Lorenzo, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 21.941
+      }, 
+      "id": 144113
+    }
+  ]
+}

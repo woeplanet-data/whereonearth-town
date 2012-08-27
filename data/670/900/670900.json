@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.600, 
+              48.969
+            ], 
+            [
+              10.600, 
+              48.992
+            ], 
+            [
+              10.625, 
+              48.992
+            ], 
+            [
+              10.625, 
+              48.969
+            ], 
+            [
+              10.600, 
+              48.969
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670900, 
+        "name": "Lehmingen", 
+        "adjacent_woeid": [
+          672315, 
+          672461, 
+          694867, 
+          703091
+        ], 
+        "ne_latitude": 48.992, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.625, 
+        "longitude": 10.611, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:19Z", 
+        "parent_woeid": 12636065, 
+        "latitude": 48.980, 
+        "sw_longitude": 10.600, 
+        "fullname": "Lehmingen, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.969
+      }, 
+      "id": 670900
+    }
+  ]
+}

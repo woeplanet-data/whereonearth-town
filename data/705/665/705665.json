@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.389, 
+              51.398
+            ], 
+            [
+              7.389, 
+              51.431
+            ], 
+            [
+              7.448, 
+              51.431
+            ], 
+            [
+              7.448, 
+              51.398
+            ], 
+            [
+              7.389, 
+              51.398
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705665, 
+        "name": "Westende", 
+        "adjacent_woeid": [
+          659812, 
+          665923, 
+          703033
+        ], 
+        "ne_latitude": 51.431, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.448, 
+        "longitude": 7.406, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12624485, 
+        "latitude": 51.415, 
+        "sw_longitude": 7.389, 
+        "fullname": "Westende, North Rhine-Westphalia, Ennepe-Ruhr-Kreis, Germany", 
+        "sw_latitude": 51.398
+      }, 
+      "id": 705665
+    }
+  ]
+}

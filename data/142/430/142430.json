@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.377, 
+              28.324
+            ], 
+            [
+              -103.377, 
+              28.342
+            ], 
+            [
+              -103.356, 
+              28.342
+            ], 
+            [
+              -103.356, 
+              28.324
+            ], 
+            [
+              -103.377, 
+              28.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.342, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          118560, 
+          118661, 
+          122998, 
+          128847, 
+          135839
+        ], 
+        "woeid": 142430, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -103.356, 
+        "longitude": -103.367, 
+        "parent_woeid": 12599908, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.333, 
+        "sw_longitude": -103.377, 
+        "fullname": "San Francisco, Coahuila de Zaragoza, Ocampo, Mexico", 
+        "sw_latitude": 28.324
+      }, 
+      "id": 142430
+    }
+  ]
+}

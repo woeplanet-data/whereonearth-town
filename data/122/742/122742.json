@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.343, 
+              22.891
+            ], 
+            [
+              -99.343, 
+              22.909
+            ], 
+            [
+              -99.323, 
+              22.909
+            ], 
+            [
+              -99.323, 
+              22.891
+            ], 
+            [
+              -99.343, 
+              22.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.909, 
+        "name": "El Tigre", 
+        "adjacent_woeid": [
+          114678, 
+          116603, 
+          119588, 
+          124048, 
+          134910, 
+          144110
+        ], 
+        "woeid": 122742, 
+        "alias_SPA_V": [
+          "Tigre"
+        ], 
+        "ne_longitude": -99.323, 
+        "longitude": -99.333, 
+        "parent_woeid": 12601660, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.900, 
+        "sw_longitude": -99.343, 
+        "fullname": "El Tigre, Tamaulipas, Ocampo, Mexico", 
+        "sw_latitude": 22.891
+      }, 
+      "id": 122742
+    }
+  ]
+}

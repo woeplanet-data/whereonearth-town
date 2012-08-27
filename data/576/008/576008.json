@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.368, 
+              49.009
+            ], 
+            [
+              6.368, 
+              49.045
+            ], 
+            [
+              6.423, 
+              49.045
+            ], 
+            [
+              6.423, 
+              49.009
+            ], 
+            [
+              6.368, 
+              49.009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 576008, 
+        "name": "Ancerville", 
+        "adjacent_woeid": [
+          584523, 
+          605133, 
+          630217, 
+          632076, 
+          632562
+        ], 
+        "ne_latitude": 49.045, 
+        "ne_longitude": 6.423, 
+        "longitude": 6.386, 
+        "parent_woeid": 12655218, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ancerville-sur-Nied"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.029, 
+        "sw_longitude": 6.368, 
+        "fullname": "Ancerville, Lorraine, Moselle, France", 
+        "sw_latitude": 49.009
+      }, 
+      "id": 576008
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.151, 
+              41.622
+            ], 
+            [
+              1.151, 
+              41.674
+            ], 
+            [
+              1.190, 
+              41.674
+            ], 
+            [
+              1.190, 
+              41.622
+            ], 
+            [
+              1.151, 
+              41.622
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.674, 
+        "name": "Talladell", 
+        "adjacent_woeid": [
+          752307, 
+          760583, 
+          761794, 
+          20223038, 
+          29370290
+        ], 
+        "woeid": 775143, 
+        "alias_SPA_V": [
+          "El Talladell"
+        ], 
+        "ne_longitude": 1.190, 
+        "longitude": 1.167, 
+        "parent_woeid": 12694100, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.649, 
+        "sw_longitude": 1.151, 
+        "fullname": "Talladell, Catalonia, Lleida, Spain", 
+        "sw_latitude": 41.622
+      }, 
+      "id": 775143
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.623, 
+              43.330
+            ], 
+            [
+              0.623, 
+              43.364
+            ], 
+            [
+              0.668, 
+              43.364
+            ], 
+            [
+              0.668, 
+              43.330
+            ], 
+            [
+              0.623, 
+              43.330
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623271, 
+        "name": "St.-Blancard", 
+        "adjacent_woeid": [
+          577371, 
+          582571, 
+          600956, 
+          608985, 
+          609663, 
+          613987, 
+          621020
+        ], 
+        "ne_latitude": 43.364, 
+        "ne_longitude": 0.668, 
+        "longitude": 0.647, 
+        "parent_woeid": 12670215, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Blancard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.344, 
+        "sw_longitude": 0.623, 
+        "fullname": "St.-Blancard, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.330
+      }, 
+      "id": 623271
+    }
+  ]
+}

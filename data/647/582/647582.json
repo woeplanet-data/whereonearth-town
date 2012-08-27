@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.537, 
+              48.478
+            ], 
+            [
+              10.537, 
+              48.510
+            ], 
+            [
+              10.574, 
+              48.510
+            ], 
+            [
+              10.574, 
+              48.478
+            ], 
+            [
+              10.537, 
+              48.478
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647582, 
+        "name": "Ellerbach", 
+        "adjacent_woeid": [
+          634320, 
+          644123, 
+          648257, 
+          651102
+        ], 
+        "ne_latitude": 48.510, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.574, 
+        "longitude": 10.563, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12634805, 
+        "latitude": 48.498, 
+        "sw_longitude": 10.537, 
+        "fullname": "Ellerbach, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.478
+      }, 
+      "id": 647582
+    }
+  ]
+}

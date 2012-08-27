@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.507, 
+              10.426
+            ], 
+            [
+              -68.507, 
+              10.440
+            ], 
+            [
+              -68.493, 
+              10.440
+            ], 
+            [
+              -68.493, 
+              10.426
+            ], 
+            [
+              -68.507, 
+              10.426
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.440, 
+        "name": "El Guayabo", 
+        "adjacent_woeid": [
+          468125, 
+          468374, 
+          468375, 
+          468377, 
+          26806893
+        ], 
+        "woeid": 468196, 
+        "alias_SPA_V": [
+          "Guayabo"
+        ], 
+        "ne_longitude": -68.493, 
+        "longitude": -68.500, 
+        "parent_woeid": 26804829, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.433, 
+        "sw_longitude": -68.507, 
+        "fullname": "El Guayabo, Yaracuy, Veroes, Venezuela", 
+        "sw_latitude": 10.426
+      }, 
+      "id": 468196
+    }
+  ]
+}

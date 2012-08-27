@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.646, 
+              49.351
+            ], 
+            [
+              4.646, 
+              49.392
+            ], 
+            [
+              4.702, 
+              49.392
+            ], 
+            [
+              4.702, 
+              49.351
+            ], 
+            [
+              4.646, 
+              49.351
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627631, 
+        "name": "Ste.-Marie", 
+        "adjacent_woeid": [
+          580102, 
+          581154, 
+          586883, 
+          621431, 
+          627827
+        ], 
+        "ne_latitude": 49.392, 
+        "ne_longitude": 4.702, 
+        "longitude": 4.667, 
+        "parent_woeid": 12653412, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Marie"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.372, 
+        "sw_longitude": 4.646, 
+        "fullname": "Ste.-Marie, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.351
+      }, 
+      "id": 627631
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.203, 
+              28.086
+            ], 
+            [
+              -106.203, 
+              28.104
+            ], 
+            [
+              -106.182, 
+              28.104
+            ], 
+            [
+              -106.182, 
+              28.086
+            ], 
+            [
+              -106.203, 
+              28.086
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.104, 
+        "name": "San Onofre", 
+        "adjacent_woeid": [
+          127503, 
+          128322, 
+          141321, 
+          143811
+        ], 
+        "woeid": 144811, 
+        "alias_SPA_V": [
+          "S Onofre"
+        ], 
+        "ne_longitude": -106.182, 
+        "longitude": -106.193, 
+        "parent_woeid": 12599880, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Riverenyo"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.095, 
+        "sw_longitude": -106.203, 
+        "fullname": "San Onofre, Chihuahua, Satevo, Mexico", 
+        "sw_latitude": 28.086
+      }, 
+      "id": 144811
+    }
+  ]
+}

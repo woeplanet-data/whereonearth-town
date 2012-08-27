@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.626, 
+              48.512
+            ], 
+            [
+              -71.626, 
+              48.656
+            ], 
+            [
+              -71.437, 
+              48.656
+            ], 
+            [
+              -71.437, 
+              48.512
+            ], 
+            [
+              -71.626, 
+              48.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1577, 
+        "name": "St.-Nazaire", 
+        "adjacent_woeid": [
+          1426, 
+          3400, 
+          23394391, 
+          23394498, 
+          23395639, 
+          29374145
+        ], 
+        "ne_latitude": 48.656, 
+        "ne_longitude": -71.437, 
+        "longitude": -71.552, 
+        "parent_woeid": 29375107, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Nazaire"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.588, 
+        "sw_longitude": -71.626, 
+        "fullname": "St.-Nazaire, Quebec, Lac-St-Jean-Est, Canada", 
+        "sw_latitude": 48.512
+      }, 
+      "id": 1577
+    }
+  ]
+}

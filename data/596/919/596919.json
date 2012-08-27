@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.072, 
+              43.008
+            ], 
+            [
+              2.072, 
+              43.049
+            ], 
+            [
+              2.123, 
+              43.049
+            ], 
+            [
+              2.123, 
+              43.008
+            ], 
+            [
+              2.072, 
+              43.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 596919, 
+        "name": "La Bezole", 
+        "adjacent_woeid": [
+          575626, 
+          583287, 
+          631733, 
+          29331812
+        ], 
+        "ne_latitude": 43.049, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.123, 
+        "longitude": 2.107, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12663345, 
+        "latitude": 43.034, 
+        "sw_longitude": 2.072, 
+        "fullname": "La Bezole, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 43.008
+      }, 
+      "id": 596919
+    }
+  ]
+}

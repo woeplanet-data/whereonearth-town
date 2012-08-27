@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.813, 
+              40.735
+            ], 
+            [
+              -75.813, 
+              40.812
+            ], 
+            [
+              -75.609, 
+              40.812
+            ], 
+            [
+              -75.609, 
+              40.735
+            ], 
+            [
+              -75.813, 
+              40.735
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745470, 
+        "name": "East Penn", 
+        "adjacent_woeid": [
+          28745494, 
+          28745495, 
+          28745623
+        ], 
+        "ne_latitude": 40.812, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Penn Township"
+        ], 
+        "ne_longitude": -75.609, 
+        "longitude": -75.738, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589740, 
+        "latitude": 40.773, 
+        "sw_longitude": -75.813, 
+        "fullname": "East Penn, Pennsylvania, Carbon, United States", 
+        "sw_latitude": 40.735
+      }, 
+      "id": 28745470
+    }
+  ]
+}

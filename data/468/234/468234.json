@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.024, 
+              11.010
+            ], 
+            [
+              -64.024, 
+              11.024
+            ], 
+            [
+              -64.010, 
+              11.024
+            ], 
+            [
+              -64.010, 
+              11.010
+            ], 
+            [
+              -64.024, 
+              11.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 468234, 
+        "name": "La Guardia", 
+        "adjacent_woeid": [
+          468195, 
+          468253, 
+          468255, 
+          468345
+        ], 
+        "ne_latitude": 11.024, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -64.010, 
+        "longitude": -64.017, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "parent_woeid": 26805111, 
+        "latitude": 11.017, 
+        "sw_longitude": -64.024, 
+        "fullname": "La Guardia, Nueva Esparta, Diaz, Venezuela", 
+        "sw_latitude": 11.010
+      }, 
+      "id": 468234
+    }
+  ]
+}

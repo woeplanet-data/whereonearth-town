@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.508, 
+              49.227
+            ], 
+            [
+              12.508, 
+              49.245
+            ], 
+            [
+              12.535, 
+              49.245
+            ], 
+            [
+              12.535, 
+              49.227
+            ], 
+            [
+              12.508, 
+              49.227
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20172130, 
+        "name": "Langwald", 
+        "adjacent_woeid": [
+          681584, 
+          697648, 
+          705978, 
+          20155670, 
+          20172390
+        ], 
+        "ne_latitude": 49.245, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.535, 
+        "longitude": 12.521, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12623080, 
+        "latitude": 49.237, 
+        "sw_longitude": 12.508, 
+        "fullname": "Langwald, Bavaria, Landkreis Cham, Germany", 
+        "sw_latitude": 49.227
+      }, 
+      "id": 20172130
+    }
+  ]
+}

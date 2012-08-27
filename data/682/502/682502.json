@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.456, 
+              48.340
+            ], 
+            [
+              10.456, 
+              48.371
+            ], 
+            [
+              10.498, 
+              48.371
+            ], 
+            [
+              10.498, 
+              48.340
+            ], 
+            [
+              10.456, 
+              48.340
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682502, 
+        "name": "Oberwaldbach", 
+        "adjacent_woeid": [
+          635239, 
+          646279, 
+          648888, 
+          650469, 
+          651257, 
+          655530, 
+          688450
+        ], 
+        "ne_latitude": 48.371, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.498, 
+        "longitude": 10.466, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12634827, 
+        "latitude": 48.361, 
+        "sw_longitude": 10.456, 
+        "fullname": "Oberwaldbach, Bavaria, Landkreis G\u00fcnzburg, Germany", 
+        "sw_latitude": 48.340
+      }, 
+      "id": 682502
+    }
+  ]
+}

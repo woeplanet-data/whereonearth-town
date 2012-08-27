@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.753, 
+              49.753
+            ], 
+            [
+              5.753, 
+              49.771
+            ], 
+            [
+              5.781, 
+              49.771
+            ], 
+            [
+              5.781, 
+              49.753
+            ], 
+            [
+              5.753, 
+              49.753
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 976767, 
+        "name": "Schockville", 
+        "adjacent_woeid": [
+          970921, 
+          974998, 
+          975440, 
+          975830
+        ], 
+        "ne_latitude": 49.771, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.781, 
+        "longitude": 5.767, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "parent_woeid": 12602466, 
+        "latitude": 49.762, 
+        "sw_longitude": 5.753, 
+        "fullname": "Schockville, Luxemburg, Arlon, Belgium", 
+        "sw_latitude": 49.753
+      }, 
+      "id": 976767
+    }
+  ]
+}

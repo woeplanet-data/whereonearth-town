@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.562, 
+              -31.558
+            ], 
+            [
+              -68.562, 
+              -31.507
+            ], 
+            [
+              -68.501, 
+              -31.507
+            ], 
+            [
+              -68.501, 
+              -31.558
+            ], 
+            [
+              -68.562, 
+              -31.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -31.507, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          330001, 
+          332118, 
+          332414, 
+          465796, 
+          466661, 
+          466750, 
+          467099, 
+          467878, 
+          467907, 
+          468766
+        ], 
+        "woeid": 332472, 
+        "alias_UNK_Q": [
+          "UAQ"
+        ], 
+        "alias_SPA_V": [
+          "S Juan"
+        ], 
+        "ne_longitude": -68.501, 
+        "longitude": -68.538, 
+        "parent_woeid": 20070775, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -31.512, 
+        "sw_longitude": -68.562, 
+        "fullname": "San Juan, Argentina", 
+        "sw_latitude": -31.558
+      }, 
+      "id": 332472
+    }
+  ]
+}

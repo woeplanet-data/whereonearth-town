@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.912, 
+              45.114
+            ], 
+            [
+              -73.912, 
+              45.132
+            ], 
+            [
+              -73.886, 
+              45.132
+            ], 
+            [
+              -73.886, 
+              45.114
+            ], 
+            [
+              -73.912, 
+              45.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396311, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          1423, 
+          3571, 
+          23394913, 
+          23395673, 
+          23395693, 
+          23396420
+        ], 
+        "ne_latitude": 45.132, 
+        "alias_ENG_V": [
+          "Lac St-Pierre"
+        ], 
+        "ne_longitude": -73.886, 
+        "longitude": -73.899, 
+        "parent_woeid": 29375136, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pierre"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.123, 
+        "sw_longitude": -73.912, 
+        "fullname": "St.-Pierre, Quebec, Le Haut-St-Laurent, Canada", 
+        "sw_latitude": 45.114
+      }, 
+      "id": 23396311
+    }
+  ]
+}

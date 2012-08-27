@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.692, 
+              52.947
+            ], 
+            [
+              12.692, 
+              52.965
+            ], 
+            [
+              12.723, 
+              52.965
+            ], 
+            [
+              12.723, 
+              52.947
+            ], 
+            [
+              12.692, 
+              52.947
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703216, 
+        "name": "Wahlendorf", 
+        "adjacent_woeid": [
+          643795, 
+          668644, 
+          668645, 
+          707903
+        ], 
+        "ne_latitude": 52.965, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.723, 
+        "longitude": 12.707, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12636227, 
+        "latitude": 52.956, 
+        "sw_longitude": 12.692, 
+        "fullname": "Wahlendorf, Brandenburg, Ostprignitz-Ruppin, Germany", 
+        "sw_latitude": 52.947
+      }, 
+      "id": 703216
+    }
+  ]
+}

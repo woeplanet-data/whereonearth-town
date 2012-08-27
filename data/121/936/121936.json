@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.560, 
+              25.391
+            ], 
+            [
+              -99.560, 
+              25.409
+            ], 
+            [
+              -99.540, 
+              25.409
+            ], 
+            [
+              -99.540, 
+              25.391
+            ], 
+            [
+              -99.560, 
+              25.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.409, 
+        "name": "El Refugio", 
+        "adjacent_woeid": [
+          120002, 
+          120283, 
+          127042, 
+          144943, 
+          146120
+        ], 
+        "woeid": 121936, 
+        "alias_SPA_V": [
+          "Refugio"
+        ], 
+        "ne_longitude": -99.540, 
+        "longitude": -99.550, 
+        "parent_woeid": 12600625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.400, 
+        "sw_longitude": -99.560, 
+        "fullname": "El Refugio, Nuevo Leon, General Teran, Mexico", 
+        "sw_latitude": 25.391
+      }, 
+      "id": 121936
+    }
+  ]
+}

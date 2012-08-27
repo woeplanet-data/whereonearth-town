@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.745, 
+              49.327
+            ], 
+            [
+              10.745, 
+              49.363
+            ], 
+            [
+              10.777, 
+              49.363
+            ], 
+            [
+              10.777, 
+              49.327
+            ], 
+            [
+              10.745, 
+              49.327
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665605, 
+        "name": "Ketteldorf", 
+        "adjacent_woeid": [
+          640169, 
+          655023, 
+          660953, 
+          696665
+        ], 
+        "ne_latitude": 49.363, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.777, 
+        "longitude": 10.761, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12634405, 
+        "latitude": 49.352, 
+        "sw_longitude": 10.745, 
+        "fullname": "Ketteldorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.327
+      }, 
+      "id": 665605
+    }
+  ]
+}

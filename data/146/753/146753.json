@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.710, 
+              27.458
+            ], 
+            [
+              -109.710, 
+              27.476
+            ], 
+            [
+              -109.690, 
+              27.476
+            ], 
+            [
+              -109.690, 
+              27.458
+            ], 
+            [
+              -109.710, 
+              27.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.476, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          112887, 
+          113242, 
+          113972, 
+          124183, 
+          149120, 
+          151453
+        ], 
+        "woeid": 146753, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -109.690, 
+        "longitude": -109.700, 
+        "parent_woeid": 12601594, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.467, 
+        "sw_longitude": -109.710, 
+        "fullname": "Santa Rosa, Sonora, Quiriego, Mexico", 
+        "sw_latitude": 27.458
+      }, 
+      "id": 146753
+    }
+  ]
+}

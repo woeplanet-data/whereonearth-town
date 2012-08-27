@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.505, 
+              50.630
+            ], 
+            [
+              12.505, 
+              50.658
+            ], 
+            [
+              12.535, 
+              50.658
+            ], 
+            [
+              12.535, 
+              50.630
+            ], 
+            [
+              12.505, 
+              50.630
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 643401, 
+        "name": "Cunersdorf", 
+        "adjacent_woeid": [
+          643392, 
+          656123, 
+          679394, 
+          706351
+        ], 
+        "ne_latitude": 50.658, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.535, 
+        "longitude": 12.516, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12636465, 
+        "latitude": 50.645, 
+        "sw_longitude": 12.505, 
+        "fullname": "Cunersdorf, Saxony, Zwickauer Land, Germany", 
+        "sw_latitude": 50.630
+      }, 
+      "id": 643401
+    }
+  ]
+}

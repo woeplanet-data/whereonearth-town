@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.622, 
+              48.822
+            ], 
+            [
+              12.622, 
+              48.848
+            ], 
+            [
+              12.653, 
+              48.848
+            ], 
+            [
+              12.653, 
+              48.822
+            ], 
+            [
+              12.622, 
+              48.822
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679519, 
+        "name": "Niederharthausen", 
+        "adjacent_woeid": [
+          652047, 
+          666006, 
+          707571, 
+          20172249
+        ], 
+        "ne_latitude": 48.848, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.653, 
+        "longitude": 12.640, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12623013, 
+        "latitude": 48.831, 
+        "sw_longitude": 12.622, 
+        "fullname": "Niederharthausen, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 48.822
+      }, 
+      "id": 679519
+    }
+  ]
+}

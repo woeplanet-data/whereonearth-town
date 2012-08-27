@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.084, 
+              48.492
+            ], 
+            [
+              0.084, 
+              48.526
+            ], 
+            [
+              0.112, 
+              48.526
+            ], 
+            [
+              0.112, 
+              48.492
+            ], 
+            [
+              0.084, 
+              48.492
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 618717, 
+        "name": "Radon", 
+        "adjacent_woeid": [
+          591451, 
+          591592, 
+          602175, 
+          624410, 
+          626088, 
+          629877, 
+          632355, 
+          29331394
+        ], 
+        "ne_latitude": 48.526, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.112, 
+        "longitude": 0.102, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "parent_woeid": 12651112, 
+        "latitude": 48.503, 
+        "sw_longitude": 0.084, 
+        "fullname": "Radon, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.492
+      }, 
+      "id": 618717
+    }
+  ]
+}

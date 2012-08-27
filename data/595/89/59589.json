@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.305, 
+              10.095
+            ], 
+            [
+              -84.305, 
+              10.105
+            ], 
+            [
+              -84.295, 
+              10.105
+            ], 
+            [
+              -84.295, 
+              10.095
+            ], 
+            [
+              -84.305, 
+              10.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.105, 
+        "name": "San Roque", 
+        "adjacent_woeid": [
+          58789, 
+          59027, 
+          59847, 
+          59636
+        ], 
+        "woeid": 59589, 
+        "alias_SPA_V": [
+          "S. Roque"
+        ], 
+        "ne_longitude": -84.295, 
+        "longitude": -84.304, 
+        "parent_woeid": 26809181, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.100, 
+        "sw_longitude": -84.305, 
+        "fullname": "San Roque, Alajuela, Grecia, Costa Rica", 
+        "sw_latitude": 10.095
+      }, 
+      "id": 59589
+    }
+  ]
+}

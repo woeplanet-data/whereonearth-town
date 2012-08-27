@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.660, 
+              49.999
+            ], 
+            [
+              1.660, 
+              50.025
+            ], 
+            [
+              1.686, 
+              50.025
+            ], 
+            [
+              1.686, 
+              49.999
+            ], 
+            [
+              1.660, 
+              49.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 632449, 
+        "name": "Vismes", 
+        "adjacent_woeid": [
+          587097, 
+          592102, 
+          594250, 
+          604728, 
+          609356, 
+          610287, 
+          20218685
+        ], 
+        "ne_latitude": 50.025, 
+        "ne_longitude": 1.686, 
+        "longitude": 1.675, 
+        "parent_woeid": 20075302, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vismes-au Val"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.012, 
+        "sw_longitude": 1.660, 
+        "fullname": "Vismes, Picardie, Somme, France", 
+        "sw_latitude": 49.999
+      }, 
+      "id": 632449
+    }
+  ]
+}

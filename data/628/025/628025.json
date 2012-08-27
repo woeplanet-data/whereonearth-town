@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.448, 
+              49.460
+            ], 
+            [
+              0.448, 
+              49.505
+            ], 
+            [
+              0.493, 
+              49.505
+            ], 
+            [
+              0.493, 
+              49.460
+            ], 
+            [
+              0.448, 
+              49.460
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628025, 
+        "name": "Tancarville", 
+        "adjacent_woeid": [
+          597314, 
+          624749, 
+          626080, 
+          15003071
+        ], 
+        "ne_latitude": 49.505, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.493, 
+        "longitude": 0.466, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:04:01Z", 
+        "parent_woeid": 12653528, 
+        "latitude": 49.486, 
+        "sw_longitude": 0.448, 
+        "fullname": "Tancarville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.460
+      }, 
+      "id": 628025
+    }
+  ]
+}

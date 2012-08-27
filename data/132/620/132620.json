@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.310, 
+              21.558
+            ], 
+            [
+              -100.310, 
+              21.576
+            ], 
+            [
+              -100.290, 
+              21.576
+            ], 
+            [
+              -100.290, 
+              21.558
+            ], 
+            [
+              -100.310, 
+              21.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.576, 
+        "name": "Macuala", 
+        "adjacent_woeid": [
+          111616, 
+          111772, 
+          122744, 
+          133359, 
+          133651, 
+          135651, 
+          141338
+        ], 
+        "woeid": 132620, 
+        "alias_SPA_V": [
+          "Macula"
+        ], 
+        "ne_longitude": -100.290, 
+        "longitude": -100.300, 
+        "parent_woeid": 12600021, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.567, 
+        "sw_longitude": -100.310, 
+        "fullname": "Macuala, Guanajuato, San Luis de la Paz, Mexico", 
+        "sw_latitude": 21.558
+      }, 
+      "id": 132620
+    }
+  ]
+}

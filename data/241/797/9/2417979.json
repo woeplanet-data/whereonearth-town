@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.435, 
+              44.582
+            ], 
+            [
+              -123.435, 
+              44.591
+            ], 
+            [
+              -123.422, 
+              44.591
+            ], 
+            [
+              -123.422, 
+              44.582
+            ], 
+            [
+              -123.435, 
+              44.582
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2417979, 
+        "name": "Harris", 
+        "adjacent_woeid": [
+          2352891, 
+          2424620, 
+          2460315, 
+          2524072
+        ], 
+        "ne_latitude": 44.591, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.422, 
+        "longitude": -123.429, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:26:23Z", 
+        "parent_woeid": 12589693, 
+        "latitude": 44.586, 
+        "sw_longitude": -123.435, 
+        "fullname": "Harris, Oregon, Benton, United States", 
+        "sw_latitude": 44.582
+      }, 
+      "id": 2417979
+    }
+  ]
+}

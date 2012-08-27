@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.494, 
+              30.558
+            ], 
+            [
+              -111.494, 
+              30.576
+            ], 
+            [
+              -111.473, 
+              30.576
+            ], 
+            [
+              -111.473, 
+              30.558
+            ], 
+            [
+              -111.494, 
+              30.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.576, 
+        "name": "El Ocuca", 
+        "adjacent_woeid": [
+          111342, 
+          115416, 
+          129211, 
+          135304, 
+          144299
+        ], 
+        "woeid": 121157, 
+        "alias_SPA_V": [
+          "Ocuca"
+        ], 
+        "ne_longitude": -111.473, 
+        "longitude": -111.483, 
+        "parent_woeid": 12601609, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.567, 
+        "sw_longitude": -111.494, 
+        "fullname": "El Ocuca, Sonora, Trincheras, Mexico", 
+        "sw_latitude": 30.558
+      }, 
+      "id": 121157
+    }
+  ]
+}

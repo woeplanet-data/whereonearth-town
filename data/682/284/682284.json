@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.052, 
+              52.488
+            ], 
+            [
+              10.052, 
+              52.503
+            ], 
+            [
+              10.067, 
+              52.503
+            ], 
+            [
+              10.067, 
+              52.488
+            ], 
+            [
+              10.052, 
+              52.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682284, 
+        "name": "Obershagen", 
+        "adjacent_woeid": [
+          646785, 
+          657148, 
+          684005, 
+          684199, 
+          704303
+        ], 
+        "ne_latitude": 52.503, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.067, 
+        "longitude": 10.060, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12629470, 
+        "latitude": 52.492, 
+        "sw_longitude": 10.052, 
+        "fullname": "Obershagen, Lower Saxony, Hanover, Germany", 
+        "sw_latitude": 52.488
+      }, 
+      "id": 682284
+    }
+  ]
+}

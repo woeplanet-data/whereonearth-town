@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.237, 
+              52.390
+            ], 
+            [
+              -1.237, 
+              52.420
+            ], 
+            [
+              -1.204, 
+              52.420
+            ], 
+            [
+              -1.204, 
+              52.390
+            ], 
+            [
+              -1.237, 
+              52.390
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 30200, 
+        "name": "Newton", 
+        "adjacent_woeid": [
+          15444, 
+          16075, 
+          16328, 
+          26251, 
+          34474
+        ], 
+        "ne_latitude": 52.420, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.204, 
+        "longitude": -1.221, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:26Z", 
+        "parent_woeid": 12696100, 
+        "latitude": 52.399, 
+        "sw_longitude": -1.237, 
+        "fullname": "Newton, England, Warwickshire, United Kingdom", 
+        "sw_latitude": 52.390
+      }, 
+      "id": 30200
+    }
+  ]
+}

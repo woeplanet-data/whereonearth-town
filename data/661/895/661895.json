@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.727, 
+              50.277
+            ], 
+            [
+              10.727, 
+              50.325
+            ], 
+            [
+              10.775, 
+              50.325
+            ], 
+            [
+              10.775, 
+              50.277
+            ], 
+            [
+              10.727, 
+              50.277
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661895, 
+        "name": "Holzhausen", 
+        "adjacent_woeid": [
+          651693, 
+          658813, 
+          679725, 
+          690230, 
+          702641
+        ], 
+        "ne_latitude": 50.325, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.775, 
+        "longitude": 10.749, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:40Z", 
+        "parent_woeid": 12625097, 
+        "latitude": 50.301, 
+        "sw_longitude": 10.727, 
+        "fullname": "Holzhausen, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.277
+      }, 
+      "id": 661895
+    }
+  ]
+}

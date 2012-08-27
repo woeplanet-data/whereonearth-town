@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.538, 
+              28.384
+            ], 
+            [
+              -16.538, 
+              28.393
+            ], 
+            [
+              -16.528, 
+              28.393
+            ], 
+            [
+              -16.528, 
+              28.384
+            ], 
+            [
+              -16.538, 
+              28.384
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.393, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          763621, 
+          763840, 
+          20227928, 
+          56065558
+        ], 
+        "woeid": 773174, 
+        "alias_SPA_V": [
+          "S Miguel"
+        ], 
+        "ne_longitude": -16.528, 
+        "longitude": -16.533, 
+        "parent_woeid": 12690183, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.388, 
+        "sw_longitude": -16.538, 
+        "fullname": "San Miguel, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.384
+      }, 
+      "id": 773174
+    }
+  ]
+}

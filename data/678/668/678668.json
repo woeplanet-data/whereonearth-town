@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.948, 
+              48.551
+            ], 
+            [
+              10.948, 
+              48.571
+            ], 
+            [
+              10.977, 
+              48.571
+            ], 
+            [
+              10.977, 
+              48.551
+            ], 
+            [
+              10.948, 
+              48.551
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678668, 
+        "name": "Neukirchen", 
+        "adjacent_woeid": [
+          658641, 
+          661990, 
+          680839, 
+          683758, 
+          704498
+        ], 
+        "ne_latitude": 48.571, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.977, 
+        "longitude": 10.965, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12634788, 
+        "latitude": 48.559, 
+        "sw_longitude": 10.948, 
+        "fullname": "Neukirchen, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.551
+      }, 
+      "id": 678668
+    }
+  ]
+}

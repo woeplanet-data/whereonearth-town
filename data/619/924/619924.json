@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.142, 
+              49.970
+            ], 
+            [
+              3.142, 
+              49.998
+            ], 
+            [
+              3.175, 
+              49.998
+            ], 
+            [
+              3.175, 
+              49.970
+            ], 
+            [
+              3.142, 
+              49.970
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619924, 
+        "name": "Ronssoy", 
+        "adjacent_woeid": [
+          580748, 
+          594326, 
+          605127, 
+          628204, 
+          29333257
+        ], 
+        "ne_latitude": 49.998, 
+        "ne_longitude": 3.175, 
+        "longitude": 3.161, 
+        "parent_woeid": 12665104, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Ronssoy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.985, 
+        "sw_longitude": 3.142, 
+        "fullname": "Ronssoy, Picardie, Somme, France", 
+        "sw_latitude": 49.970
+      }, 
+      "id": 619924
+    }
+  ]
+}

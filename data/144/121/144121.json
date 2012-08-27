@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.734, 
+              20.459
+            ], 
+            [
+              -100.734, 
+              20.477
+            ], 
+            [
+              -100.708, 
+              20.477
+            ], 
+            [
+              -100.708, 
+              20.459
+            ], 
+            [
+              -100.734, 
+              20.459
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.477, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          112238, 
+          125029, 
+          126103, 
+          128576, 
+          139795, 
+          140714, 
+          143360, 
+          55892573
+        ], 
+        "woeid": 144121, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -100.708, 
+        "longitude": -100.722, 
+        "parent_woeid": 12599995, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.468, 
+        "sw_longitude": -100.734, 
+        "fullname": "San Lorenzo, Guanajuato, Celaya, Mexico", 
+        "sw_latitude": 20.459
+      }, 
+      "id": 144121
+    }
+  ]
+}

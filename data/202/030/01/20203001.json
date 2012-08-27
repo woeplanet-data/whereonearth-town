@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.511, 
+              43.844
+            ], 
+            [
+              5.511, 
+              43.853
+            ], 
+            [
+              5.523, 
+              43.853
+            ], 
+            [
+              5.523, 
+              43.844
+            ], 
+            [
+              5.511, 
+              43.844
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20203001, 
+        "name": "Le Boisset", 
+        "adjacent_woeid": [
+          582586, 
+          583247, 
+          599167, 
+          616353, 
+          620612, 
+          625601, 
+          20203002
+        ], 
+        "ne_latitude": 43.853, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.523, 
+        "longitude": 5.517, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 22755516, 
+        "latitude": 43.848, 
+        "sw_longitude": 5.511, 
+        "fullname": "Le Boisset, Provence-Alpes-Cote d'Azur, Vaucluse, France", 
+        "sw_latitude": 43.844
+      }, 
+      "id": 20203001
+    }
+  ]
+}

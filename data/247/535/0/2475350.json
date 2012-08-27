@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.682, 
+              40.984
+            ], 
+            [
+              -73.682, 
+              41.025
+            ], 
+            [
+              -73.652, 
+              41.025
+            ], 
+            [
+              -73.652, 
+              40.984
+            ], 
+            [
+              -73.682, 
+              40.984
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2475350, 
+        "name": "Port Chester", 
+        "adjacent_woeid": [
+          2411341, 
+          2414657, 
+          2477320, 
+          2486221, 
+          2519492
+        ], 
+        "ne_latitude": 41.025, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Portchester"
+        ], 
+        "ne_longitude": -73.652, 
+        "longitude": -73.667, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:06Z", 
+        "parent_woeid": 12589371, 
+        "latitude": 41.000, 
+        "sw_longitude": -73.682, 
+        "fullname": "Port Chester, New York, Westchester, United States", 
+        "sw_latitude": 40.984
+      }, 
+      "id": 2475350
+    }
+  ]
+}

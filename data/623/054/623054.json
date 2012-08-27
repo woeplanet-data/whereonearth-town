@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.535, 
+              48.455
+            ], 
+            [
+              3.535, 
+              48.495
+            ], 
+            [
+              3.577, 
+              48.495
+            ], 
+            [
+              3.577, 
+              48.455
+            ], 
+            [
+              3.535, 
+              48.455
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623054, 
+        "name": "St.-Aubin", 
+        "adjacent_woeid": [
+          591377, 
+          607040, 
+          608571, 
+          610143, 
+          617405, 
+          618636, 
+          629229
+        ], 
+        "ne_latitude": 48.495, 
+        "ne_longitude": 3.577, 
+        "longitude": 3.555, 
+        "parent_woeid": 12641088, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aubin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.476, 
+        "sw_longitude": 3.535, 
+        "fullname": "St.-Aubin, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.455
+      }, 
+      "id": 623054
+    }
+  ]
+}

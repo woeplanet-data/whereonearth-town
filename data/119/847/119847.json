@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.576, 
+              15.691
+            ], 
+            [
+              -96.576, 
+              15.709
+            ], 
+            [
+              -96.557, 
+              15.709
+            ], 
+            [
+              -96.557, 
+              15.691
+            ], 
+            [
+              -96.576, 
+              15.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.709, 
+        "name": "El Coco", 
+        "adjacent_woeid": [
+          129063, 
+          137797, 
+          142608, 
+          146574
+        ], 
+        "woeid": 119847, 
+        "alias_SPA_V": [
+          "Coco"
+        ], 
+        "ne_longitude": -96.557, 
+        "longitude": -96.567, 
+        "parent_woeid": 12601100, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.700, 
+        "sw_longitude": -96.576, 
+        "fullname": "El Coco, Oaxaca, Santa Maria Tonameca, Mexico", 
+        "sw_latitude": 15.691
+      }, 
+      "id": 119847
+    }
+  ]
+}

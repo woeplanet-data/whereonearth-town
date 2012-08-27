@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.250, 
+              46.126
+            ], 
+            [
+              2.250, 
+              46.147
+            ], 
+            [
+              2.289, 
+              46.147
+            ], 
+            [
+              2.289, 
+              46.126
+            ], 
+            [
+              2.250, 
+              46.126
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625320, 
+        "name": "St.-Loup", 
+        "adjacent_woeid": [
+          602456, 
+          609057, 
+          616550, 
+          624997, 
+          628064
+        ], 
+        "ne_latitude": 46.147, 
+        "ne_longitude": 2.289, 
+        "longitude": 2.271, 
+        "parent_woeid": 12661448, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Loup"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.137, 
+        "sw_longitude": 2.250, 
+        "fullname": "St.-Loup, Limousin, Creuse, France", 
+        "sw_latitude": 46.126
+      }, 
+      "id": 625320
+    }
+  ]
+}

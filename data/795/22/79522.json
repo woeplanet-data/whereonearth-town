@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.032, 
+              14.290
+            ], 
+            [
+              -89.032, 
+              14.304
+            ], 
+            [
+              -89.018, 
+              14.304
+            ], 
+            [
+              -89.018, 
+              14.290
+            ], 
+            [
+              -89.032, 
+              14.290
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.304, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          77215, 
+          78527, 
+          79553, 
+          26809361
+        ], 
+        "woeid": 79522, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -89.018, 
+        "longitude": -89.025, 
+        "parent_woeid": 26808566, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.297, 
+        "sw_longitude": -89.032, 
+        "fullname": "San Fernando, Chalatenango, San Fernando, El Salvador", 
+        "sw_latitude": 14.290
+      }, 
+      "id": 79522
+    }
+  ]
+}

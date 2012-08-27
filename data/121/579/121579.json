@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.394, 
+              28.891
+            ], 
+            [
+              -102.394, 
+              28.909
+            ], 
+            [
+              -102.373, 
+              28.909
+            ], 
+            [
+              -102.373, 
+              28.891
+            ], 
+            [
+              -102.394, 
+              28.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.909, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          118591, 
+          119638, 
+          122877, 
+          132636, 
+          133283, 
+          135723
+        ], 
+        "woeid": 121579, 
+        "alias_SPA_V": [
+          "Porvenir"
+        ], 
+        "ne_longitude": -102.373, 
+        "longitude": -102.383, 
+        "parent_woeid": 12599905, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.900, 
+        "sw_longitude": -102.394, 
+        "fullname": "El Porvenir, Coahuila de Zaragoza, Muzquiz, Mexico", 
+        "sw_latitude": 28.891
+      }, 
+      "id": 121579
+    }
+  ]
+}

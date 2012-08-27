@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.437, 
+              10.188
+            ], 
+            [
+              -85.437, 
+              10.202
+            ], 
+            [
+              -85.423, 
+              10.202
+            ], 
+            [
+              -85.423, 
+              10.188
+            ], 
+            [
+              -85.437, 
+              10.188
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.202, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          57854, 
+          58067, 
+          58278, 
+          58812, 
+          58997, 
+          59111, 
+          59170, 
+          59288, 
+          59468
+        ], 
+        "woeid": 59341, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -85.423, 
+        "longitude": -85.430, 
+        "parent_woeid": 26809165, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.195, 
+        "sw_longitude": -85.437, 
+        "fullname": "San Antonio, Guanacaste, Nicoya, Costa Rica", 
+        "sw_latitude": 10.188
+      }, 
+      "id": 59341
+    }
+  ]
+}

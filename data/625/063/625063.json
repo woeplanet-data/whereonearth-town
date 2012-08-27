@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.471, 
+              46.879
+            ], 
+            [
+              1.471, 
+              46.932
+            ], 
+            [
+              1.522, 
+              46.932
+            ], 
+            [
+              1.522, 
+              46.879
+            ], 
+            [
+              1.471, 
+              46.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625063, 
+        "name": "St.-Lactencin", 
+        "adjacent_woeid": [
+          585803, 
+          591886, 
+          628292, 
+          631708, 
+          632280
+        ], 
+        "ne_latitude": 46.932, 
+        "ne_longitude": 1.522, 
+        "longitude": 1.494, 
+        "parent_woeid": 12652728, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lactencin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.899, 
+        "sw_longitude": 1.471, 
+        "fullname": "St.-Lactencin, Centre, Indre, France", 
+        "sw_latitude": 46.879
+      }, 
+      "id": 625063
+    }
+  ]
+}

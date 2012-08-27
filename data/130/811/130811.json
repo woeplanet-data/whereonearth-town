@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.143, 
+              21.108
+            ], 
+            [
+              -99.143, 
+              21.126
+            ], 
+            [
+              -99.124, 
+              21.126
+            ], 
+            [
+              -99.124, 
+              21.108
+            ], 
+            [
+              -99.143, 
+              21.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.126, 
+        "name": "Las Pilas", 
+        "adjacent_woeid": [
+          111461, 
+          128312, 
+          130740, 
+          135390, 
+          145677, 
+          149366
+        ], 
+        "woeid": 130811, 
+        "alias_SPA_V": [
+          "Pilas"
+        ], 
+        "ne_longitude": -99.124, 
+        "longitude": -99.133, 
+        "parent_woeid": 12600143, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.117, 
+        "sw_longitude": -99.143, 
+        "fullname": "Las Pilas, Hidalgo, La Mision, Mexico", 
+        "sw_latitude": 21.108
+      }, 
+      "id": 130811
+    }
+  ]
+}

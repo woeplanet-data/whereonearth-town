@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.142, 
+              43.056
+            ], 
+            [
+              1.142, 
+              43.099
+            ], 
+            [
+              1.186, 
+              43.099
+            ], 
+            [
+              1.186, 
+              43.056
+            ], 
+            [
+              1.142, 
+              43.056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601616, 
+        "name": "Lasserre", 
+        "adjacent_woeid": [
+          578185, 
+          592339, 
+          611120, 
+          612283, 
+          628984
+        ], 
+        "ne_latitude": 43.099, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.186, 
+        "longitude": 1.172, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12664542, 
+        "latitude": 43.071, 
+        "sw_longitude": 1.142, 
+        "fullname": "Lasserre, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.056
+      }, 
+      "id": 601616
+    }
+  ]
+}

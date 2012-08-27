@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.938, 
+              0.663
+            ], 
+            [
+              -77.938, 
+              0.672
+            ], 
+            [
+              -77.929, 
+              0.672
+            ], 
+            [
+              -77.929, 
+              0.663
+            ], 
+            [
+              -77.938, 
+              0.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.672, 
+        "name": "La Libertad", 
+        "adjacent_woeid": [
+          370975, 
+          372928, 
+          374738, 
+          375804, 
+          375818, 
+          375844, 
+          375856
+        ], 
+        "woeid": 373113, 
+        "alias_SPA_V": [
+          "Libertad"
+        ], 
+        "ne_longitude": -77.929, 
+        "longitude": -77.933, 
+        "parent_woeid": 26810095, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.667, 
+        "sw_longitude": -77.938, 
+        "fullname": "La Libertad, Carchi, Espejo, Ecuador", 
+        "sw_latitude": 0.663
+      }, 
+      "id": 373113
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.559, 
+              49.365
+            ], 
+            [
+              3.559, 
+              49.403
+            ], 
+            [
+              3.582, 
+              49.403
+            ], 
+            [
+              3.582, 
+              49.365
+            ], 
+            [
+              3.559, 
+              49.365
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588344, 
+        "name": "Cys-la-Commune", 
+        "adjacent_woeid": [
+          581750, 
+          585388, 
+          587427, 
+          618022, 
+          622615, 
+          625469
+        ], 
+        "ne_latitude": 49.403, 
+        "ne_longitude": 3.582, 
+        "longitude": 3.571, 
+        "parent_woeid": 22756263, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cys"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.393, 
+        "sw_longitude": 3.559, 
+        "fullname": "Cys-la-Commune, Picardie, Aisne, France", 
+        "sw_latitude": 49.365
+      }, 
+      "id": 588344
+    }
+  ]
+}

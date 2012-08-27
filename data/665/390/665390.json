@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.485, 
+              49.372
+            ], 
+            [
+              10.485, 
+              49.390
+            ], 
+            [
+              10.513, 
+              49.390
+            ], 
+            [
+              10.513, 
+              49.372
+            ], 
+            [
+              10.485, 
+              49.372
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665390, 
+        "name": "Kellern", 
+        "adjacent_woeid": [
+          639102, 
+          640383, 
+          681398, 
+          689584
+        ], 
+        "ne_latitude": 49.390, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.513, 
+        "longitude": 10.499, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12634401, 
+        "latitude": 49.381, 
+        "sw_longitude": 10.485, 
+        "fullname": "Kellern, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.372
+      }, 
+      "id": 665390
+    }
+  ]
+}

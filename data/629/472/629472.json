@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.227, 
+              43.299
+            ], 
+            [
+              0.227, 
+              43.333
+            ], 
+            [
+              0.246, 
+              43.333
+            ], 
+            [
+              0.246, 
+              43.299
+            ], 
+            [
+              0.227, 
+              43.299
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629472, 
+        "name": "Trouley-Labarthe", 
+        "adjacent_woeid": [
+          576287, 
+          581025, 
+          585463, 
+          601040, 
+          615266
+        ], 
+        "ne_latitude": 43.333, 
+        "ne_longitude": 0.246, 
+        "longitude": 0.241, 
+        "parent_woeid": 12671880, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Trouley"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.317, 
+        "sw_longitude": 0.227, 
+        "fullname": "Trouley-Labarthe, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.299
+      }, 
+      "id": 629472
+    }
+  ]
+}

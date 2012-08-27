@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.174, 
+              51.287
+            ], 
+            [
+              10.174, 
+              51.311
+            ], 
+            [
+              10.204, 
+              51.311
+            ], 
+            [
+              10.204, 
+              51.287
+            ], 
+            [
+              10.174, 
+              51.287
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635661, 
+        "name": "Ascherode", 
+        "adjacent_woeid": [
+          638382, 
+          649974, 
+          654814, 
+          674111, 
+          703102
+        ], 
+        "ne_latitude": 51.311, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.204, 
+        "longitude": 10.192, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:21Z", 
+        "parent_woeid": 12636146, 
+        "latitude": 51.299, 
+        "sw_longitude": 10.174, 
+        "fullname": "Ascherode, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.287
+      }, 
+      "id": 635661
+    }
+  ]
+}

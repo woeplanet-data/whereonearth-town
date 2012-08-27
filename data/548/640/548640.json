@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.509, 
+              47.205
+            ], 
+            [
+              15.509, 
+              47.223
+            ], 
+            [
+              15.536, 
+              47.223
+            ], 
+            [
+              15.536, 
+              47.205
+            ], 
+            [
+              15.509, 
+              47.205
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 548640, 
+        "name": "Hammersberg", 
+        "adjacent_woeid": [
+          548060, 
+          548173, 
+          548449, 
+          549529
+        ], 
+        "ne_latitude": 47.223, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.536, 
+        "longitude": 15.522, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:13Z", 
+        "parent_woeid": 12674922, 
+        "latitude": 47.214, 
+        "sw_longitude": 15.509, 
+        "fullname": "Hammersberg, Styria, Weiz, Austria", 
+        "sw_latitude": 47.205
+      }, 
+      "id": 548640
+    }
+  ]
+}

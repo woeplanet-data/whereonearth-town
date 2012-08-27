@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.252, 
+              49.245
+            ], 
+            [
+              2.252, 
+              49.254
+            ], 
+            [
+              2.266, 
+              49.254
+            ], 
+            [
+              2.266, 
+              49.245
+            ], 
+            [
+              2.252, 
+              49.245
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218203, 
+        "name": "La Fosse-St.-Clair", 
+        "adjacent_woeid": [
+          576247, 
+          588741, 
+          600718, 
+          613325, 
+          614658, 
+          20218197, 
+          20218306, 
+          29333328
+        ], 
+        "ne_latitude": 49.254, 
+        "ne_longitude": 2.266, 
+        "longitude": 2.259, 
+        "parent_woeid": 22756114, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Fosse Saint-clair"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.250, 
+        "sw_longitude": 2.252, 
+        "fullname": "La Fosse-St.-Clair, Picardie, Oise, France", 
+        "sw_latitude": 49.245
+      }, 
+      "id": 20218203
+    }
+  ]
+}

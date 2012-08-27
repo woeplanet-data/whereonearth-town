@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.823, 
+              45.553
+            ], 
+            [
+              5.823, 
+              45.579
+            ], 
+            [
+              5.852, 
+              45.579
+            ], 
+            [
+              5.852, 
+              45.553
+            ], 
+            [
+              5.823, 
+              45.553
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627030, 
+        "name": "St.-Sulpice", 
+        "adjacent_woeid": [
+          612316, 
+          632310, 
+          20210716, 
+          20210783, 
+          29329931
+        ], 
+        "ne_latitude": 45.579, 
+        "ne_longitude": 5.852, 
+        "longitude": 5.844, 
+        "parent_woeid": 12671273, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sulpice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.568, 
+        "sw_longitude": 5.823, 
+        "fullname": "St.-Sulpice, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.553
+      }, 
+      "id": 627030
+    }
+  ]
+}

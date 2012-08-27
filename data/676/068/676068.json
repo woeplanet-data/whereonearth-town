@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.761, 
+              50.393
+            ], 
+            [
+              11.761, 
+              50.411
+            ], 
+            [
+              11.790, 
+              50.411
+            ], 
+            [
+              11.790, 
+              50.393
+            ], 
+            [
+              11.761, 
+              50.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 676068, 
+        "name": "Moos", 
+        "adjacent_woeid": [
+          647339, 
+          690291, 
+          690711, 
+          692593, 
+          699440
+        ], 
+        "ne_latitude": 50.411, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.790, 
+        "longitude": 11.775, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:47Z", 
+        "parent_woeid": 12635301, 
+        "latitude": 50.402, 
+        "sw_longitude": 11.761, 
+        "fullname": "Moos, Bavaria, Landkreis Hof, Germany", 
+        "sw_latitude": 50.393
+      }, 
+      "id": 676068
+    }
+  ]
+}

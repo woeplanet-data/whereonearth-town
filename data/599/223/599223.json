@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.540, 
+              49.345
+            ], 
+            [
+              1.540, 
+              49.372
+            ], 
+            [
+              1.583, 
+              49.372
+            ], 
+            [
+              1.583, 
+              49.345
+            ], 
+            [
+              1.540, 
+              49.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599223, 
+        "name": "La Neuve-Grange", 
+        "adjacent_woeid": [
+          592154, 
+          613235, 
+          618241
+        ], 
+        "ne_latitude": 49.372, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.583, 
+        "longitude": 1.554, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12644232, 
+        "latitude": 49.361, 
+        "sw_longitude": 1.540, 
+        "fullname": "La Neuve-Grange, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.345
+      }, 
+      "id": 599223
+    }
+  ]
+}

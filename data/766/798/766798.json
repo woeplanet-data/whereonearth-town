@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.867, 
+              36.708
+            ], 
+            [
+              -2.867, 
+              36.742
+            ], 
+            [
+              -2.810, 
+              36.742
+            ], 
+            [
+              -2.810, 
+              36.708
+            ], 
+            [
+              -2.867, 
+              36.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 36.742, 
+        "name": "Matagorda", 
+        "adjacent_woeid": [
+          752213, 
+          753512, 
+          761915, 
+          20224231, 
+          20226314, 
+          20228607, 
+          29370740
+        ], 
+        "woeid": 766798, 
+        "alias_SPA_V": [
+          "Cortijada Matagorda"
+        ], 
+        "ne_longitude": -2.810, 
+        "longitude": -2.842, 
+        "parent_woeid": 12688662, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.724, 
+        "sw_longitude": -2.867, 
+        "fullname": "Matagorda, Andalusia, Almeria, Spain", 
+        "sw_latitude": 36.708
+      }, 
+      "id": 766798
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.404, 
+              54.094
+            ], 
+            [
+              12.404, 
+              54.123
+            ], 
+            [
+              12.432, 
+              54.123
+            ], 
+            [
+              12.432, 
+              54.094
+            ], 
+            [
+              12.404, 
+              54.094
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705301, 
+        "name": "Wendorf", 
+        "adjacent_woeid": [
+          643754, 
+          666357, 
+          677823, 
+          688043, 
+          705264
+        ], 
+        "ne_latitude": 54.123, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.432, 
+        "longitude": 12.422, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12636261, 
+        "latitude": 54.106, 
+        "sw_longitude": 12.404, 
+        "fullname": "Wendorf, Mecklenburg-Vorpommern, Landkreis Bad Doberan, Germany", 
+        "sw_latitude": 54.094
+      }, 
+      "id": 705301
+    }
+  ]
+}

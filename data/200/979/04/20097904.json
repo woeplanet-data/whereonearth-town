@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.203, 
+              47.391
+            ], 
+            [
+              15.203, 
+              47.409
+            ], 
+            [
+              15.230, 
+              47.409
+            ], 
+            [
+              15.230, 
+              47.391
+            ], 
+            [
+              15.203, 
+              47.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20097904, 
+        "name": "Utschtal", 
+        "adjacent_woeid": [
+          549221, 
+          549321, 
+          549491, 
+          549757
+        ], 
+        "ne_latitude": 47.409, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.230, 
+        "longitude": 15.217, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:10Z", 
+        "parent_woeid": 12675201, 
+        "latitude": 47.400, 
+        "sw_longitude": 15.203, 
+        "fullname": "Utschtal, Styria, Bruck an der Mur, Austria", 
+        "sw_latitude": 47.391
+      }, 
+      "id": 20097904
+    }
+  ]
+}

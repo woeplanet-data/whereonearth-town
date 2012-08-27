@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.293, 
+              24.141
+            ], 
+            [
+              -99.293, 
+              24.159
+            ], 
+            [
+              -99.273, 
+              24.159
+            ], 
+            [
+              -99.273, 
+              24.141
+            ], 
+            [
+              -99.293, 
+              24.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.159, 
+        "name": "Palo Alto", 
+        "adjacent_woeid": [
+          115007, 
+          122451, 
+          135437, 
+          137540, 
+          142487, 
+          145940, 
+          146139
+        ], 
+        "woeid": 135710, 
+        "alias_SPA_V": [
+          "Palos Altos"
+        ], 
+        "ne_longitude": -99.273, 
+        "longitude": -99.283, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.150, 
+        "sw_longitude": -99.293, 
+        "fullname": "Palo Alto, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.141
+      }, 
+      "id": 135710
+    }
+  ]
+}

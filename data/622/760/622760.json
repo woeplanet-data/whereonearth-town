@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.502, 
+              48.501
+            ], 
+            [
+              -2.502, 
+              48.519
+            ], 
+            [
+              -2.475, 
+              48.519
+            ], 
+            [
+              -2.475, 
+              48.501
+            ], 
+            [
+              -2.502, 
+              48.501
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622760, 
+        "name": "St.-Aaron", 
+        "adjacent_woeid": [
+          576043, 
+          594630, 
+          599504, 
+          616828, 
+          618672, 
+          622815, 
+          629165
+        ], 
+        "ne_latitude": 48.519, 
+        "ne_longitude": -2.475, 
+        "longitude": -2.488, 
+        "parent_woeid": 12642167, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aaron"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.510, 
+        "sw_longitude": -2.502, 
+        "fullname": "St.-Aaron, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.501
+      }, 
+      "id": 622760
+    }
+  ]
+}

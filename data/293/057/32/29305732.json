@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              23.456, 
+              60.239
+            ], 
+            [
+              23.456, 
+              60.257
+            ], 
+            [
+              23.506, 
+              60.257
+            ], 
+            [
+              23.506, 
+              60.239
+            ], 
+            [
+              23.456, 
+              60.239
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FIN", 
+        "woeid": 29305732, 
+        "name": "Kisko Kirkonkyl\u00e4", 
+        "adjacent_woeid": [
+          564826, 
+          567087, 
+          568791, 
+          569158, 
+          25946759, 
+          29305703
+        ], 
+        "ne_latitude": 60.257, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 23.506, 
+        "longitude": 23.488, 
+        "placetype": "Town", 
+        "alias_FIN_S": [
+          "Kisko Kirkonkyla"
+        ], 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:41:04Z", 
+        "parent_woeid": 12590970, 
+        "latitude": 60.248, 
+        "sw_longitude": 23.456, 
+        "fullname": "Kisko Kirkonkyl\u00e4, Western Finland, Proper Finland, Finland", 
+        "sw_latitude": 60.239
+      }, 
+      "id": 29305732
+    }
+  ]
+}

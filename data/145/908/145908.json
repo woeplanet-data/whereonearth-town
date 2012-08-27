@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.210, 
+              27.558
+            ], 
+            [
+              -101.210, 
+              27.576
+            ], 
+            [
+              -101.190, 
+              27.576
+            ], 
+            [
+              -101.190, 
+              27.558
+            ], 
+            [
+              -101.210, 
+              27.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.576, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          118759, 
+          120876, 
+          130344, 
+          130467, 
+          134891, 
+          145479
+        ], 
+        "woeid": 145908, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -101.190, 
+        "longitude": -101.200, 
+        "parent_woeid": 12599911, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.567, 
+        "sw_longitude": -101.210, 
+        "fullname": "Santa Cruz, Coahuila de Zaragoza, Progreso, Mexico", 
+        "sw_latitude": 27.558
+      }, 
+      "id": 145908
+    }
+  ]
+}

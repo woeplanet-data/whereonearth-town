@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.298, 
+              50.021
+            ], 
+            [
+              3.298, 
+              50.070
+            ], 
+            [
+              3.341, 
+              50.070
+            ], 
+            [
+              3.341, 
+              50.021
+            ], 
+            [
+              3.298, 
+              50.021
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609521, 
+        "name": "Malincourt", 
+        "adjacent_woeid": [
+          578835, 
+          588578, 
+          589582, 
+          621826, 
+          29333370
+        ], 
+        "ne_latitude": 50.070, 
+        "ne_longitude": 3.341, 
+        "longitude": 3.326, 
+        "parent_woeid": 12666089, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Malicourt"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.047, 
+        "sw_longitude": 3.298, 
+        "fullname": "Malincourt, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.021
+      }, 
+      "id": 609521
+    }
+  ]
+}

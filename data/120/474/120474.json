@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.160, 
+              24.841
+            ], 
+            [
+              -103.160, 
+              24.859
+            ], 
+            [
+              -103.140, 
+              24.859
+            ], 
+            [
+              -103.140, 
+              24.841
+            ], 
+            [
+              -103.160, 
+              24.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.859, 
+        "name": "El Huariche", 
+        "adjacent_woeid": [
+          113178, 
+          125040, 
+          135330, 
+          137358, 
+          146780
+        ], 
+        "woeid": 120474, 
+        "alias_SPA_V": [
+          "Huariche"
+        ], 
+        "ne_longitude": -103.140, 
+        "longitude": -103.150, 
+        "parent_woeid": 12599956, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.850, 
+        "sw_longitude": -103.160, 
+        "fullname": "El Huariche, Durango, General Simon Bolivar, Mexico", 
+        "sw_latitude": 24.841
+      }, 
+      "id": 120474
+    }
+  ]
+}

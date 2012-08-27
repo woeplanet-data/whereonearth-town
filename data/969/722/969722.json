@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.523, 
+              50.664
+            ], 
+            [
+              3.523, 
+              50.682
+            ], 
+            [
+              3.551, 
+              50.682
+            ], 
+            [
+              3.551, 
+              50.664
+            ], 
+            [
+              3.523, 
+              50.664
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 969722, 
+        "name": "Forest", 
+        "adjacent_woeid": [
+          966593, 
+          968462, 
+          974553, 
+          975821, 
+          975956
+        ], 
+        "ne_latitude": 50.682, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.551, 
+        "longitude": 3.537, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:04Z", 
+        "parent_woeid": 12602355, 
+        "latitude": 50.673, 
+        "sw_longitude": 3.523, 
+        "fullname": "Forest, Hainault, Ath, Belgium", 
+        "sw_latitude": 50.664
+      }, 
+      "id": 969722
+    }
+  ]
+}

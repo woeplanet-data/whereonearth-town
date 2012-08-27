@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.210, 
+              25.591
+            ], 
+            [
+              -108.210, 
+              25.609
+            ], 
+            [
+              -108.190, 
+              25.609
+            ], 
+            [
+              -108.190, 
+              25.591
+            ], 
+            [
+              -108.210, 
+              25.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.609, 
+        "name": "Los Capomos", 
+        "adjacent_woeid": [
+          111328, 
+          113019, 
+          122287, 
+          129998, 
+          140391, 
+          145285
+        ], 
+        "woeid": 131658, 
+        "alias_SPA_V": [
+          "Capomos"
+        ], 
+        "ne_longitude": -108.190, 
+        "longitude": -108.200, 
+        "parent_woeid": 12601537, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.600, 
+        "sw_longitude": -108.210, 
+        "fullname": "Los Capomos, Sinaloa, Guasave, Mexico", 
+        "sw_latitude": 25.591
+      }, 
+      "id": 131658
+    }
+  ]
+}

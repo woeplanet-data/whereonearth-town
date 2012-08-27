@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.409, 
+              48.166
+            ], 
+            [
+              0.409, 
+              48.202
+            ], 
+            [
+              0.450, 
+              48.202
+            ], 
+            [
+              0.450, 
+              48.166
+            ], 
+            [
+              0.409, 
+              48.166
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580667, 
+        "name": "Bonn\u00e9table", 
+        "adjacent_woeid": [
+          577973, 
+          579119, 
+          582022, 
+          586822, 
+          598152, 
+          609610, 
+          610176, 
+          612628, 
+          614393, 
+          618062, 
+          620201, 
+          622158, 
+          623715, 
+          624211, 
+          628269, 
+          628782, 
+          29331195
+        ], 
+        "ne_latitude": 48.202, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.450, 
+        "longitude": 0.426, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12655792, 
+        "latitude": 48.180, 
+        "sw_longitude": 0.409, 
+        "fullname": "Bonn\u00e9table, Pays de la Loire, Sarthe, France", 
+        "alias_FRE_S": [
+          "Bonnetable"
+        ], 
+        "sw_latitude": 48.166
+      }, 
+      "id": 580667
+    }
+  ]
+}

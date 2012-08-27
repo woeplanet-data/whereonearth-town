@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.235, 
+              49.293
+            ], 
+            [
+              10.235, 
+              49.311
+            ], 
+            [
+              10.262, 
+              49.311
+            ], 
+            [
+              10.262, 
+              49.293
+            ], 
+            [
+              10.235, 
+              49.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707495, 
+        "name": "Wohnbach", 
+        "adjacent_woeid": [
+          637623, 
+          649369, 
+          679137, 
+          693813
+        ], 
+        "ne_latitude": 49.311, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.262, 
+        "longitude": 10.249, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12634424, 
+        "latitude": 49.302, 
+        "sw_longitude": 10.235, 
+        "fullname": "Wohnbach, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.293
+      }, 
+      "id": 707495
+    }
+  ]
+}

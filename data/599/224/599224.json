@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.725, 
+              48.889
+            ], 
+            [
+              0.725, 
+              48.919
+            ], 
+            [
+              0.764, 
+              48.919
+            ], 
+            [
+              0.764, 
+              48.889
+            ], 
+            [
+              0.725, 
+              48.889
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599224, 
+        "name": "La Neuve-Lyre", 
+        "adjacent_woeid": [
+          577455, 
+          580424, 
+          600391
+        ], 
+        "ne_latitude": 48.919, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.764, 
+        "longitude": 0.748, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12646485, 
+        "latitude": 48.905, 
+        "sw_longitude": 0.725, 
+        "fullname": "La Neuve-Lyre, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.889
+      }, 
+      "id": 599224
+    }
+  ]
+}

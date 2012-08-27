@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.227, 
+              23.108
+            ], 
+            [
+              -101.227, 
+              23.126
+            ], 
+            [
+              -101.207, 
+              23.126
+            ], 
+            [
+              -101.207, 
+              23.108
+            ], 
+            [
+              -101.227, 
+              23.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.126, 
+        "name": "La Trinidad", 
+        "adjacent_woeid": [
+          115706, 
+          117580, 
+          120243, 
+          124434, 
+          134660, 
+          142585
+        ], 
+        "woeid": 129431, 
+        "alias_SPA_V": [
+          "Trinidad"
+        ], 
+        "ne_longitude": -101.207, 
+        "longitude": -101.217, 
+        "parent_woeid": 12601479, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.117, 
+        "sw_longitude": -101.227, 
+        "fullname": "La Trinidad, San Luis Potosi, Charcas, Mexico", 
+        "sw_latitude": 23.108
+      }, 
+      "id": 129431
+    }
+  ]
+}

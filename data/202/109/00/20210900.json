@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.328, 
+              45.758
+            ], 
+            [
+              6.328, 
+              45.767
+            ], 
+            [
+              6.341, 
+              45.767
+            ], 
+            [
+              6.341, 
+              45.758
+            ], 
+            [
+              6.328, 
+              45.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210900, 
+        "name": "Le Thermesay", 
+        "adjacent_woeid": [
+          586834, 
+          610089, 
+          624001
+        ], 
+        "ne_latitude": 45.767, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.341, 
+        "longitude": 6.335, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12666271, 
+        "latitude": 45.762, 
+        "sw_longitude": 6.328, 
+        "fullname": "Le Thermesay, Rhone-Alpes, Haute-Savoie, France", 
+        "sw_latitude": 45.758
+      }, 
+      "id": 20210900
+    }
+  ]
+}

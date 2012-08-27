@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.832, 
+              51.025
+            ], 
+            [
+              10.832, 
+              51.058
+            ], 
+            [
+              10.868, 
+              51.058
+            ], 
+            [
+              10.868, 
+              51.025
+            ], 
+            [
+              10.832, 
+              51.025
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666860, 
+        "name": "Kleinfahner", 
+        "adjacent_woeid": [
+          638826, 
+          652517, 
+          654979, 
+          703767, 
+          707319
+        ], 
+        "ne_latitude": 51.058, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.868, 
+        "longitude": 10.846, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12625001, 
+        "latitude": 51.038, 
+        "sw_longitude": 10.832, 
+        "fullname": "Kleinfahner, Thuringia, Landkreis Gotha, Germany", 
+        "sw_latitude": 51.025
+      }, 
+      "id": 666860
+    }
+  ]
+}

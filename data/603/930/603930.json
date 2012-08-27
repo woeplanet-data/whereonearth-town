@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.820, 
+              50.323
+            ], 
+            [
+              1.820, 
+              50.332
+            ], 
+            [
+              1.834, 
+              50.332
+            ], 
+            [
+              1.834, 
+              50.323
+            ], 
+            [
+              1.820, 
+              50.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603930, 
+        "name": "Petit-Chemin", 
+        "adjacent_woeid": [
+          576595, 
+          588909, 
+          632433
+        ], 
+        "ne_latitude": 50.332, 
+        "ne_longitude": 1.834, 
+        "longitude": 1.827, 
+        "parent_woeid": 12660553, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Petit Chemin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.327, 
+        "sw_longitude": 1.820, 
+        "fullname": "Petit-Chemin, Picardie, Somme, France", 
+        "sw_latitude": 50.323
+      }, 
+      "id": 603930
+    }
+  ]
+}

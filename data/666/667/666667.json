@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.345, 
+              52.047
+            ], 
+            [
+              11.345, 
+              52.089
+            ], 
+            [
+              11.411, 
+              52.089
+            ], 
+            [
+              11.411, 
+              52.047
+            ], 
+            [
+              11.345, 
+              52.047
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666667, 
+        "name": "Klein Wanzleben", 
+        "adjacent_woeid": [
+          635068, 
+          637999, 
+          645118, 
+          654489, 
+          675115, 
+          687916, 
+          694145, 
+          20163441
+        ], 
+        "ne_latitude": 52.089, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.411, 
+        "longitude": 11.370, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 24547370, 
+        "latitude": 52.070, 
+        "sw_longitude": 11.345, 
+        "fullname": "Klein Wanzleben, Saxony-Anhalt, B\u00f6rdekreis, Germany", 
+        "sw_latitude": 52.047
+      }, 
+      "id": 666667
+    }
+  ]
+}

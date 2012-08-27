@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.229, 
+              49.234
+            ], 
+            [
+              3.229, 
+              49.252
+            ], 
+            [
+              3.257, 
+              49.252
+            ], 
+            [
+              3.257, 
+              49.234
+            ], 
+            [
+              3.229, 
+              49.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332892, 
+        "name": "La Falaise", 
+        "adjacent_woeid": [
+          586962, 
+          608685, 
+          626704, 
+          632024, 
+          20217860, 
+          20217864, 
+          29333396
+        ], 
+        "ne_latitude": 49.252, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.257, 
+        "longitude": 3.243, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 22757007, 
+        "latitude": 49.243, 
+        "sw_longitude": 3.229, 
+        "fullname": "La Falaise, Picardie, Aisne, France", 
+        "sw_latitude": 49.234
+      }, 
+      "id": 29332892
+    }
+  ]
+}

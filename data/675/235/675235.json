@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.694, 
+              48.593
+            ], 
+            [
+              12.694, 
+              48.611
+            ], 
+            [
+              12.721, 
+              48.611
+            ], 
+            [
+              12.721, 
+              48.593
+            ], 
+            [
+              12.694, 
+              48.593
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675235, 
+        "name": "Mienbach", 
+        "adjacent_woeid": [
+          657914, 
+          669319, 
+          679529, 
+          690085
+        ], 
+        "ne_latitude": 48.611, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.721, 
+        "longitude": 12.707, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12623060, 
+        "latitude": 48.602, 
+        "sw_longitude": 12.694, 
+        "fullname": "Mienbach, Bavaria, Dingolfing-Landau, Germany", 
+        "sw_latitude": 48.593
+      }, 
+      "id": 675235
+    }
+  ]
+}

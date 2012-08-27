@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.391, 
+              25.552
+            ], 
+            [
+              -103.391, 
+              25.570
+            ], 
+            [
+              -103.371, 
+              25.570
+            ], 
+            [
+              -103.371, 
+              25.552
+            ], 
+            [
+              -103.391, 
+              25.552
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.570, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          118228, 
+          125352, 
+          127788, 
+          128025
+        ], 
+        "woeid": 144216, 
+        "alias_SPA_V": [
+          "S. Luis"
+        ], 
+        "ne_longitude": -103.371, 
+        "longitude": -103.381, 
+        "parent_woeid": 12599920, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.561, 
+        "sw_longitude": -103.391, 
+        "fullname": "San Luis, Coahuila de Zaragoza, Torreon, Mexico", 
+        "sw_latitude": 25.552
+      }, 
+      "id": 144216
+    }
+  ]
+}

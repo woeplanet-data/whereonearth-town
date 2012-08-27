@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.346, 
+              39.793
+            ], 
+            [
+              -75.346, 
+              39.852
+            ], 
+            [
+              -75.236, 
+              39.852
+            ], 
+            [
+              -75.236, 
+              39.793
+            ], 
+            [
+              -75.346, 
+              39.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745148, 
+        "name": "Greenwich", 
+        "adjacent_woeid": [
+          28339597, 
+          28745150
+        ], 
+        "ne_latitude": 39.852, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Greenwich Township"
+        ], 
+        "ne_longitude": -75.236, 
+        "longitude": -75.289, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589265, 
+        "latitude": 39.826, 
+        "sw_longitude": -75.346, 
+        "fullname": "Greenwich, New Jersey, Gloucester, United States", 
+        "sw_latitude": 39.793
+      }, 
+      "id": 28745148
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.759, 
+              -33.657
+            ], 
+            [
+              -70.759, 
+              -33.643
+            ], 
+            [
+              -70.741, 
+              -33.643
+            ], 
+            [
+              -70.741, 
+              -33.657
+            ], 
+            [
+              -70.759, 
+              -33.657
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.643, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          348739
+        ], 
+        "woeid": 349448, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -70.741, 
+        "longitude": -70.750, 
+        "parent_woeid": 26794270, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.650, 
+        "sw_longitude": -70.759, 
+        "fullname": "San Juan, Santiago Metropolitan Region, Maipu Province, Chile", 
+        "sw_latitude": -33.657
+      }, 
+      "id": 349448
+    }
+  ]
+}

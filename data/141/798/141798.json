@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.577, 
+              24.508
+            ], 
+            [
+              -100.577, 
+              24.526
+            ], 
+            [
+              -100.557, 
+              24.526
+            ], 
+            [
+              -100.557, 
+              24.508
+            ], 
+            [
+              -100.577, 
+              24.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.526, 
+        "name": "San Antonio de Gonzalez", 
+        "adjacent_woeid": [
+          119483, 
+          120630, 
+          143415, 
+          143871
+        ], 
+        "woeid": 141798, 
+        "alias_SPA_V": [
+          "S Antonio de Gonzalez"
+        ], 
+        "ne_longitude": -100.557, 
+        "longitude": -100.567, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.517, 
+        "sw_longitude": -100.577, 
+        "fullname": "San Antonio de Gonzalez, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.508
+      }, 
+      "id": 141798
+    }
+  ]
+}

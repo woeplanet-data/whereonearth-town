@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.457, 
+              13.415
+            ], 
+            [
+              -87.457, 
+              13.434
+            ], 
+            [
+              -87.438, 
+              13.434
+            ], 
+            [
+              -87.438, 
+              13.415
+            ], 
+            [
+              -87.457, 
+              13.415
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.434, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          98953, 
+          103055, 
+          105111, 
+          105388, 
+          105756
+        ], 
+        "woeid": 107013, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -87.438, 
+        "longitude": -87.448, 
+        "parent_woeid": 26813798, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.424, 
+        "sw_longitude": -87.457, 
+        "fullname": "San Lorenzo, Valle, San Lorenzo, Honduras", 
+        "sw_latitude": 13.415
+      }, 
+      "id": 107013
+    }
+  ]
+}

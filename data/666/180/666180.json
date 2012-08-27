@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.505, 
+              50.951
+            ], 
+            [
+              12.505, 
+              50.982
+            ], 
+            [
+              12.531, 
+              50.982
+            ], 
+            [
+              12.531, 
+              50.951
+            ], 
+            [
+              12.505, 
+              50.951
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666180, 
+        "name": "Klausa", 
+        "adjacent_woeid": [
+          639834, 
+          646824, 
+          657892, 
+          672497, 
+          679659, 
+          680195
+        ], 
+        "ne_latitude": 50.982, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.531, 
+        "longitude": 12.514, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12625553, 
+        "latitude": 50.958, 
+        "sw_longitude": 12.505, 
+        "fullname": "Klausa, Thuringia, Altenburg, Germany", 
+        "sw_latitude": 50.951
+      }, 
+      "id": 666180
+    }
+  ]
+}

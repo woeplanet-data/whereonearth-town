@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.193, 
+              26.824
+            ], 
+            [
+              -105.193, 
+              26.842
+            ], 
+            [
+              -105.173, 
+              26.842
+            ], 
+            [
+              -105.173, 
+              26.824
+            ], 
+            [
+              -105.193, 
+              26.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.842, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          125475, 
+          137625, 
+          141146, 
+          143694, 
+          145605, 
+          150489, 
+          150550, 
+          150836, 
+          150886, 
+          151683
+        ], 
+        "woeid": 144213, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -105.173, 
+        "longitude": -105.183, 
+        "parent_woeid": 12599821, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.833, 
+        "sw_longitude": -105.193, 
+        "fullname": "San Luis, Chihuahua, Allende, Mexico", 
+        "sw_latitude": 26.824
+      }, 
+      "id": 144213
+    }
+  ]
+}

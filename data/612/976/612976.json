@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.347, 
+              45.327
+            ], 
+            [
+              6.347, 
+              45.346
+            ], 
+            [
+              6.373, 
+              45.346
+            ], 
+            [
+              6.373, 
+              45.327
+            ], 
+            [
+              6.347, 
+              45.327
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612976, 
+        "name": "Montpascal", 
+        "adjacent_woeid": [
+          602551, 
+          612246, 
+          613156, 
+          624729
+        ], 
+        "ne_latitude": 45.346, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.373, 
+        "longitude": 6.360, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 20075156, 
+        "latitude": 45.337, 
+        "sw_longitude": 6.347, 
+        "fullname": "Montpascal, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.327
+      }, 
+      "id": 612976
+    }
+  ]
+}

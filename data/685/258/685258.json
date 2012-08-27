@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.089, 
+              50.411
+            ], 
+            [
+              12.089, 
+              50.429
+            ], 
+            [
+              12.117, 
+              50.429
+            ], 
+            [
+              12.117, 
+              50.411
+            ], 
+            [
+              12.089, 
+              50.411
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685258, 
+        "name": "Planschwitz", 
+        "adjacent_woeid": [
+          669467, 
+          673380, 
+          692910, 
+          698536
+        ], 
+        "ne_latitude": 50.429, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.117, 
+        "longitude": 12.103, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12625616, 
+        "latitude": 50.420, 
+        "sw_longitude": 12.089, 
+        "fullname": "Planschwitz, Saxony, Vogtlandkreis, Germany", 
+        "sw_latitude": 50.411
+      }, 
+      "id": 685258
+    }
+  ]
+}

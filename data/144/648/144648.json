@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.621, 
+              21.003
+            ], 
+            [
+              -102.621, 
+              21.016
+            ], 
+            [
+              -102.608, 
+              21.016
+            ], 
+            [
+              -102.608, 
+              21.003
+            ], 
+            [
+              -102.621, 
+              21.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.016, 
+        "name": "San Miguel el Alto", 
+        "adjacent_woeid": [
+          132536, 
+          133780, 
+          136352, 
+          150494, 
+          150901
+        ], 
+        "woeid": 144648, 
+        "alias_SPA_V": [
+          "S. Miguel el Alto"
+        ], 
+        "ne_longitude": -102.608, 
+        "longitude": -102.615, 
+        "parent_woeid": 12600305, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.010, 
+        "sw_longitude": -102.621, 
+        "fullname": "San Miguel el Alto, Jalisco, Valle de Guadalupe, Mexico", 
+        "sw_latitude": 21.003
+      }, 
+      "id": 144648
+    }
+  ]
+}

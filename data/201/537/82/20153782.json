@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.726, 
+              47.866
+            ], 
+            [
+              12.726, 
+              47.875
+            ], 
+            [
+              12.739, 
+              47.875
+            ], 
+            [
+              12.739, 
+              47.866
+            ], 
+            [
+              12.726, 
+              47.866
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20153782, 
+        "name": "Kapell", 
+        "adjacent_woeid": [
+          651635, 
+          20153761, 
+          20153781, 
+          20154029
+        ], 
+        "ne_latitude": 47.875, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.739, 
+        "longitude": 12.732, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:29Z", 
+        "parent_woeid": 12622815, 
+        "latitude": 47.871, 
+        "sw_longitude": 12.726, 
+        "fullname": "Kapell, Bavaria, Landkreis Traunstein, Germany", 
+        "sw_latitude": 47.866
+      }, 
+      "id": 20153782
+    }
+  ]
+}

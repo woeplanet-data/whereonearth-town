@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.229, 
+              49.549
+            ], 
+            [
+              1.229, 
+              49.584
+            ], 
+            [
+              1.275, 
+              49.584
+            ], 
+            [
+              1.275, 
+              49.549
+            ], 
+            [
+              1.229, 
+              49.549
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599908, 
+        "name": "La Rue-St.-Pierre", 
+        "adjacent_woeid": [
+          582668, 
+          590196, 
+          608572, 
+          616587, 
+          622964, 
+          631273, 
+          633054
+        ], 
+        "ne_latitude": 49.584, 
+        "ne_longitude": 1.275, 
+        "longitude": 1.244, 
+        "parent_woeid": 12645784, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Rue-Saint-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.567, 
+        "sw_longitude": 1.229, 
+        "fullname": "La Rue-St.-Pierre, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.549
+      }, 
+      "id": 599908
+    }
+  ]
+}

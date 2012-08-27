@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.159, 
+              45.014
+            ], 
+            [
+              -73.159, 
+              45.076
+            ], 
+            [
+              -72.927, 
+              45.076
+            ], 
+            [
+              -72.927, 
+              45.014
+            ], 
+            [
+              -73.159, 
+              45.014
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394485, 
+        "name": "St.-Armand", 
+        "adjacent_woeid": [
+          94, 
+          1743, 
+          23394371, 
+          23394606, 
+          23394670
+        ], 
+        "ne_latitude": 45.076, 
+        "ne_longitude": -72.927, 
+        "longitude": -73.047, 
+        "parent_woeid": 29375053, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Armand"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.033, 
+        "sw_longitude": -73.159, 
+        "fullname": "St.-Armand, Quebec, Brome-Missisquoi, Canada", 
+        "sw_latitude": 45.014
+      }, 
+      "id": 23394485
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.204, 
+              56.426
+            ], 
+            [
+              10.204, 
+              56.440
+            ], 
+            [
+              10.229, 
+              56.440
+            ], 
+            [
+              10.229, 
+              56.426
+            ], 
+            [
+              10.204, 
+              56.426
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555019, 
+        "name": "Krogsager", 
+        "adjacent_woeid": [
+          551974, 
+          555357, 
+          555639, 
+          555861, 
+          558790
+        ], 
+        "ne_latitude": 56.440, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.229, 
+        "longitude": 10.217, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:30Z", 
+        "parent_woeid": 12582627, 
+        "latitude": 56.433, 
+        "sw_longitude": 10.204, 
+        "fullname": "Krogsager, Midtjylland, Randers, Denmark", 
+        "sw_latitude": 56.426
+      }, 
+      "id": 555019
+    }
+  ]
+}

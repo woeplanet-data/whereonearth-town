@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.443, 
+              25.358
+            ], 
+            [
+              -99.443, 
+              25.376
+            ], 
+            [
+              -99.423, 
+              25.376
+            ], 
+            [
+              -99.423, 
+              25.358
+            ], 
+            [
+              -99.443, 
+              25.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.376, 
+        "name": "El Fresno", 
+        "adjacent_woeid": [
+          113737, 
+          120002, 
+          121936, 
+          124215, 
+          127042, 
+          129480, 
+          135743
+        ], 
+        "woeid": 120283, 
+        "alias_SPA_V": [
+          "Los Fresnos"
+        ], 
+        "ne_longitude": -99.423, 
+        "longitude": -99.433, 
+        "parent_woeid": 12600625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.367, 
+        "sw_longitude": -99.443, 
+        "fullname": "El Fresno, Nuevo Leon, General Teran, Mexico", 
+        "sw_latitude": 25.358
+      }, 
+      "id": 120283
+    }
+  ]
+}

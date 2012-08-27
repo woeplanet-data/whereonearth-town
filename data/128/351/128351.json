@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.693, 
+              25.124
+            ], 
+            [
+              -99.693, 
+              25.142
+            ], 
+            [
+              -99.673, 
+              25.142
+            ], 
+            [
+              -99.673, 
+              25.124
+            ], 
+            [
+              -99.693, 
+              25.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.142, 
+        "name": "La Morita", 
+        "adjacent_woeid": [
+          115957, 
+          121602, 
+          123992, 
+          127298, 
+          128999, 
+          135743
+        ], 
+        "woeid": 128351, 
+        "alias_SPA_V": [
+          "Rancho la Mora"
+        ], 
+        "ne_longitude": -99.673, 
+        "longitude": -99.683, 
+        "parent_woeid": 12600644, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.133, 
+        "sw_longitude": -99.693, 
+        "fullname": "La Morita, Nuevo Leon, Montemorelos, Mexico", 
+        "sw_latitude": 25.124
+      }, 
+      "id": 128351
+    }
+  ]
+}

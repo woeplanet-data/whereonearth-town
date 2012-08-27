@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.661, 
+              41.355
+            ], 
+            [
+              -73.661, 
+              41.451
+            ], 
+            [
+              -73.536, 
+              41.451
+            ], 
+            [
+              -73.536, 
+              41.355
+            ], 
+            [
+              -73.661, 
+              41.355
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745020, 
+        "name": "Southeast", 
+        "adjacent_woeid": [
+          2490321, 
+          23417791, 
+          28744952
+        ], 
+        "ne_latitude": 41.451, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "SE, Town Of"
+        ], 
+        "ne_longitude": -73.536, 
+        "longitude": -73.604, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589351, 
+        "latitude": 41.414, 
+        "sw_longitude": -73.661, 
+        "fullname": "Southeast, New York, Putnam, United States", 
+        "sw_latitude": 41.355
+      }, 
+      "id": 28745020
+    }
+  ]
+}

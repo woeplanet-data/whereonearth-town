@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.094, 
+              29.541
+            ], 
+            [
+              -111.094, 
+              29.559
+            ], 
+            [
+              -111.073, 
+              29.559
+            ], 
+            [
+              -111.073, 
+              29.541
+            ], 
+            [
+              -111.094, 
+              29.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.559, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          111140, 
+          114804, 
+          133921, 
+          136521, 
+          148339
+        ], 
+        "woeid": 144203, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -111.073, 
+        "longitude": -111.083, 
+        "parent_woeid": 12601564, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.550, 
+        "sw_longitude": -111.094, 
+        "fullname": "San Luis, Sonora, Carbo, Mexico", 
+        "sw_latitude": 29.541
+      }, 
+      "id": 144203
+    }
+  ]
+}

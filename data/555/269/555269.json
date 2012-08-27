@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.098, 
+              56.521
+            ], 
+            [
+              10.098, 
+              56.544
+            ], 
+            [
+              10.140, 
+              56.544
+            ], 
+            [
+              10.140, 
+              56.521
+            ], 
+            [
+              10.098, 
+              56.521
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555269, 
+        "name": "Linde", 
+        "adjacent_woeid": [
+          553785, 
+          553871, 
+          555267, 
+          555524, 
+          558311
+        ], 
+        "ne_latitude": 56.544, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.140, 
+        "longitude": 10.119, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:02Z", 
+        "parent_woeid": 12582627, 
+        "latitude": 56.533, 
+        "sw_longitude": 10.098, 
+        "fullname": "Linde, Midtjylland, Randers, Denmark", 
+        "sw_latitude": 56.521
+      }, 
+      "id": 555269
+    }
+  ]
+}

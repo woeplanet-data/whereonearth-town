@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.893, 
+              26.758
+            ], 
+            [
+              -108.893, 
+              26.776
+            ], 
+            [
+              -108.873, 
+              26.776
+            ], 
+            [
+              -108.873, 
+              26.758
+            ], 
+            [
+              -108.893, 
+              26.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.776, 
+        "name": "Los Muertos", 
+        "adjacent_woeid": [
+          113220, 
+          115373, 
+          125813, 
+          130359, 
+          145481
+        ], 
+        "woeid": 132167, 
+        "alias_SPA_V": [
+          "Muertos"
+        ], 
+        "ne_longitude": -108.873, 
+        "longitude": -108.883, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.767, 
+        "sw_longitude": -108.893, 
+        "fullname": "Los Muertos, Sonora, Alamos, Mexico", 
+        "sw_latitude": 26.758
+      }, 
+      "id": 132167
+    }
+  ]
+}

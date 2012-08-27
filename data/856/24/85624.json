@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.524, 
+              14.510
+            ], 
+            [
+              -91.524, 
+              14.524
+            ], 
+            [
+              -91.509, 
+              14.524
+            ], 
+            [
+              -91.509, 
+              14.510
+            ], 
+            [
+              -91.524, 
+              14.510
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.524, 
+        "name": "San Gabriel", 
+        "adjacent_woeid": [
+          81910, 
+          84465, 
+          85752, 
+          85874, 
+          86094
+        ], 
+        "woeid": 85624, 
+        "alias_SPA_V": [
+          "S Gabriel"
+        ], 
+        "ne_longitude": -91.509, 
+        "longitude": -91.517, 
+        "parent_woeid": 26807220, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.517, 
+        "sw_longitude": -91.524, 
+        "fullname": "San Gabriel, Suchitepequez, San Gabriel, Guatemala", 
+        "sw_latitude": 14.510
+      }, 
+      "id": 85624
+    }
+  ]
+}

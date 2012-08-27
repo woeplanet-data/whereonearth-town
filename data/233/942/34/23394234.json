@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.441, 
+              45.601
+            ], 
+            [
+              -65.441, 
+              45.754
+            ], 
+            [
+              -65.288, 
+              45.754
+            ], 
+            [
+              -65.288, 
+              45.601
+            ], 
+            [
+              -65.441, 
+              45.601
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23394234, 
+        "name": "Waterford", 
+        "adjacent_woeid": [
+          23393451, 
+          23393945, 
+          23393967, 
+          23394228
+        ], 
+        "ne_latitude": 45.754, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -65.288, 
+        "longitude": -65.364, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375192, 
+        "latitude": 45.678, 
+        "sw_longitude": -65.441, 
+        "fullname": "Waterford, New Brunswick, Kings, Canada", 
+        "sw_latitude": 45.601
+      }, 
+      "id": 23394234
+    }
+  ]
+}

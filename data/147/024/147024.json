@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.360, 
+              20.024
+            ], 
+            [
+              -98.360, 
+              20.042
+            ], 
+            [
+              -98.340, 
+              20.042
+            ], 
+            [
+              -98.340, 
+              20.024
+            ], 
+            [
+              -98.360, 
+              20.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.042, 
+        "name": "Santiago", 
+        "adjacent_woeid": [
+          117800, 
+          132392, 
+          146969, 
+          148466, 
+          55887615
+        ], 
+        "woeid": 147024, 
+        "alias_SPA_V": [
+          "Santiago Tulantepec"
+        ], 
+        "ne_longitude": -98.340, 
+        "longitude": -98.350, 
+        "parent_woeid": 12600165, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.033, 
+        "sw_longitude": -98.360, 
+        "fullname": "Santiago, Hidalgo, Santiago Tulantepec de Lugo Guerrero, Mexico", 
+        "sw_latitude": 20.024
+      }, 
+      "id": 147024
+    }
+  ]
+}

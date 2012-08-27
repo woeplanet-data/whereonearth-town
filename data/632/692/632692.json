@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.755, 
+              46.100
+            ], 
+            [
+              5.755, 
+              46.123
+            ], 
+            [
+              5.802, 
+              46.123
+            ], 
+            [
+              5.802, 
+              46.100
+            ], 
+            [
+              5.755, 
+              46.100
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 632692, 
+        "name": "Vouvray", 
+        "adjacent_woeid": [
+          585088, 
+          600976, 
+          603136, 
+          614805, 
+          632099
+        ], 
+        "ne_latitude": 46.123, 
+        "ne_longitude": 5.802, 
+        "longitude": 5.781, 
+        "parent_woeid": 12657992, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vouvray-Ochiaz"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.110, 
+        "sw_longitude": 5.755, 
+        "fullname": "Vouvray, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 46.100
+      }, 
+      "id": 632692
+    }
+  ]
+}

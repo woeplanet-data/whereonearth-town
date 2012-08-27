@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.831, 
+              43.315
+            ], 
+            [
+              2.831, 
+              43.374
+            ], 
+            [
+              2.878, 
+              43.374
+            ], 
+            [
+              2.878, 
+              43.315
+            ], 
+            [
+              2.831, 
+              43.315
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575438, 
+        "name": "Agel", 
+        "adjacent_woeid": [
+          575530, 
+          580071, 
+          609285, 
+          624772
+        ], 
+        "ne_latitude": 43.374, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.878, 
+        "longitude": 2.852, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12654893, 
+        "latitude": 43.338, 
+        "sw_longitude": 2.831, 
+        "fullname": "Agel, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.315
+      }, 
+      "id": 575438
+    }
+  ]
+}

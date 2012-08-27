@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.985, 
+              48.711
+            ], 
+            [
+              1.985, 
+              48.754
+            ], 
+            [
+              2.034, 
+              48.754
+            ], 
+            [
+              2.034, 
+              48.711
+            ], 
+            [
+              1.985, 
+              48.711
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625068, 
+        "name": "St.-Lambert", 
+        "adjacent_woeid": [
+          582357, 
+          611550, 
+          29329667, 
+          29329748
+        ], 
+        "ne_latitude": 48.754, 
+        "ne_longitude": 2.034, 
+        "longitude": 2.021, 
+        "parent_woeid": 12645934, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Lambert"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.733, 
+        "sw_longitude": 1.985, 
+        "fullname": "St.-Lambert, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.711
+      }, 
+      "id": 625068
+    }
+  ]
+}

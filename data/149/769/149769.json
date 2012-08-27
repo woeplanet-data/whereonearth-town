@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.783, 
+              19.168
+            ], 
+            [
+              -99.783, 
+              19.419
+            ], 
+            [
+              -99.487, 
+              19.419
+            ], 
+            [
+              -99.487, 
+              19.168
+            ], 
+            [
+              -99.783, 
+              19.168
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.419, 
+        "name": "Toluca de Lerdo", 
+        "adjacent_woeid": [
+          119502, 
+          133454, 
+          135659, 
+          142048, 
+          144157, 
+          144614, 
+          144703, 
+          144873, 
+          146551, 
+          148684, 
+          150914, 
+          151211, 
+          55886306, 
+          55888692, 
+          55901195
+        ], 
+        "woeid": 149769, 
+        "alias_UNK_Q": [
+          "TLC"
+        ], 
+        "alias_SPA_V": [
+          "Toluca"
+        ], 
+        "ne_longitude": -99.487, 
+        "longitude": -99.656, 
+        "parent_woeid": 12600425, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.288, 
+        "sw_longitude": -99.783, 
+        "fullname": "Toluca de Lerdo, Mexico, Toluca, Mexico", 
+        "sw_latitude": 19.168
+      }, 
+      "id": 149769
+    }
+  ]
+}

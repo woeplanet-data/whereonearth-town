@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.064, 
+              21.947
+            ], 
+            [
+              -99.064, 
+              22.030
+            ], 
+            [
+              -98.958, 
+              22.030
+            ], 
+            [
+              -98.958, 
+              21.947
+            ], 
+            [
+              -99.064, 
+              21.947
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.030, 
+        "name": "Ciudad Valles", 
+        "adjacent_woeid": [
+          111774, 
+          111990, 
+          112204, 
+          113772, 
+          118459, 
+          120804, 
+          137671, 
+          140469, 
+          142333, 
+          144540, 
+          146802, 
+          148185, 
+          56074926, 
+          56074944, 
+          56074997
+        ], 
+        "woeid": 116571, 
+        "alias_SPA_V": [
+          "Valles"
+        ], 
+        "ne_longitude": -98.958, 
+        "longitude": -99.006, 
+        "parent_woeid": 12601483, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.008, 
+        "sw_longitude": -99.064, 
+        "fullname": "Ciudad Valles, San Luis Potosi, Ciudad Valles, Mexico", 
+        "sw_latitude": 21.947
+      }, 
+      "id": 116571
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.066, 
+              19.179
+            ], 
+            [
+              -99.066, 
+              19.197
+            ], 
+            [
+              -99.047, 
+              19.197
+            ], 
+            [
+              -99.047, 
+              19.179
+            ], 
+            [
+              -99.066, 
+              19.179
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.197, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          145025, 
+          145385, 
+          145698, 
+          149541
+        ], 
+        "woeid": 144868, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -99.047, 
+        "longitude": -99.057, 
+        "parent_woeid": 12599945, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.188, 
+        "sw_longitude": -99.066, 
+        "fullname": "San Pablo, Distrito Federal, Milpa Alta, Mexico", 
+        "sw_latitude": 19.179
+      }, 
+      "id": 144868
+    }
+  ]
+}

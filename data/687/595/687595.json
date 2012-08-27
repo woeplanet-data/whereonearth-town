@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.860, 
+              49.057
+            ], 
+            [
+              12.860, 
+              49.080
+            ], 
+            [
+              12.883, 
+              49.080
+            ], 
+            [
+              12.883, 
+              49.057
+            ], 
+            [
+              12.860, 
+              49.057
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687595, 
+        "name": "Reichsdorf", 
+        "adjacent_woeid": [
+          687195, 
+          692064, 
+          702801
+        ], 
+        "ne_latitude": 49.080, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.883, 
+        "longitude": 12.873, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12622972, 
+        "latitude": 49.067, 
+        "sw_longitude": 12.860, 
+        "fullname": "Reichsdorf, Bavaria, Landkreis Regen, Germany", 
+        "sw_latitude": 49.057
+      }, 
+      "id": 687595
+    }
+  ]
+}

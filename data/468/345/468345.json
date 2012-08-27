@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.957, 
+              11.010
+            ], 
+            [
+              -63.957, 
+              11.024
+            ], 
+            [
+              -63.943, 
+              11.024
+            ], 
+            [
+              -63.943, 
+              11.010
+            ], 
+            [
+              -63.957, 
+              11.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 11.024, 
+        "name": "San Juan Bautista", 
+        "adjacent_woeid": [
+          468151, 
+          468195, 
+          468198, 
+          468234, 
+          468255, 
+          468264
+        ], 
+        "woeid": 468345, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -63.943, 
+        "longitude": -63.950, 
+        "parent_woeid": 26805118, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.017, 
+        "sw_longitude": -63.957, 
+        "fullname": "San Juan Bautista, Nueva Esparta, Diaz, Venezuela", 
+        "sw_latitude": 11.010
+      }, 
+      "id": 468345
+    }
+  ]
+}

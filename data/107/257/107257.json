@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.521, 
+              14.312
+            ], 
+            [
+              -88.521, 
+              14.321
+            ], 
+            [
+              -88.512, 
+              14.321
+            ], 
+            [
+              -88.512, 
+              14.312
+            ], 
+            [
+              -88.521, 
+              14.312
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.321, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          101860, 
+          102563, 
+          106599, 
+          106972, 
+          26813886
+        ], 
+        "woeid": 107257, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -88.512, 
+        "longitude": -88.517, 
+        "parent_woeid": 26813827, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.317, 
+        "sw_longitude": -88.521, 
+        "fullname": "Santa Cruz, Lempira, Santa Cruz, Honduras", 
+        "sw_latitude": 14.312
+      }, 
+      "id": 107257
+    }
+  ]
+}

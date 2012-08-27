@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.643, 
+              25.174
+            ], 
+            [
+              -106.643, 
+              25.192
+            ], 
+            [
+              -106.623, 
+              25.192
+            ], 
+            [
+              -106.623, 
+              25.174
+            ], 
+            [
+              -106.643, 
+              25.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.192, 
+        "name": "El Pino", 
+        "adjacent_woeid": [
+          120091, 
+          130437, 
+          130515, 
+          131254, 
+          141580, 
+          150530
+        ], 
+        "woeid": 121484, 
+        "alias_SPA_V": [
+          "Pino"
+        ], 
+        "ne_longitude": -106.623, 
+        "longitude": -106.633, 
+        "parent_woeid": 12599987, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.183, 
+        "sw_longitude": -106.643, 
+        "fullname": "El Pino, Durango, Topia, Mexico", 
+        "sw_latitude": 25.174
+      }, 
+      "id": 121484
+    }
+  ]
+}

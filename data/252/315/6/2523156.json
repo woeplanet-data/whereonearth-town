@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.022, 
+              46.275
+            ], 
+            [
+              -116.022, 
+              46.284
+            ], 
+            [
+              -116.009, 
+              46.284
+            ], 
+            [
+              -116.009, 
+              46.275
+            ], 
+            [
+              -116.022, 
+              46.275
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2523156, 
+        "name": "Woodland", 
+        "adjacent_woeid": [
+          2374965, 
+          2395754, 
+          2418019, 
+          2507635
+        ], 
+        "ne_latitude": 46.284, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -116.009, 
+        "longitude": -116.016, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:32Z", 
+        "parent_woeid": 12588058, 
+        "latitude": 46.279, 
+        "sw_longitude": -116.022, 
+        "fullname": "Woodland, Idaho, Idaho, United States", 
+        "sw_latitude": 46.275
+      }, 
+      "id": 2523156
+    }
+  ]
+}

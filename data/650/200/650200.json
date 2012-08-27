@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.199, 
+              50.052
+            ], 
+            [
+              11.199, 
+              50.077
+            ], 
+            [
+              11.217, 
+              50.077
+            ], 
+            [
+              11.217, 
+              50.052
+            ], 
+            [
+              11.199, 
+              50.052
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650200, 
+        "name": "Frankenberg", 
+        "adjacent_woeid": [
+          648414, 
+          665067, 
+          676313, 
+          691430, 
+          20156434
+        ], 
+        "ne_latitude": 50.077, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.217, 
+        "longitude": 11.209, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12635370, 
+        "latitude": 50.063, 
+        "sw_longitude": 11.199, 
+        "fullname": "Frankenberg, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.052
+      }, 
+      "id": 650200
+    }
+  ]
+}

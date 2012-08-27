@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.863, 
+              49.910
+            ], 
+            [
+              10.863, 
+              49.942
+            ], 
+            [
+              10.899, 
+              49.942
+            ], 
+            [
+              10.899, 
+              49.910
+            ], 
+            [
+              10.863, 
+              49.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656879, 
+        "name": "Hallstadt", 
+        "adjacent_woeid": [
+          636766, 
+          645258, 
+          665437, 
+          670522, 
+          674734, 
+          681292
+        ], 
+        "ne_latitude": 49.942, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.899, 
+        "longitude": 10.875, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12635234, 
+        "latitude": 49.929, 
+        "sw_longitude": 10.863, 
+        "fullname": "Hallstadt, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.910
+      }, 
+      "id": 656879
+    }
+  ]
+}

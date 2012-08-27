@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.263, 
+              44.852
+            ], 
+            [
+              4.263, 
+              44.878
+            ], 
+            [
+              4.289, 
+              44.878
+            ], 
+            [
+              4.289, 
+              44.852
+            ], 
+            [
+              4.263, 
+              44.852
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625504, 
+        "name": "St.-Martial", 
+        "adjacent_woeid": [
+          576432, 
+          580801, 
+          620596, 
+          622891, 
+          627503
+        ], 
+        "ne_latitude": 44.878, 
+        "ne_longitude": 4.289, 
+        "longitude": 4.275, 
+        "parent_woeid": 22756605, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Martial"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.865, 
+        "sw_longitude": 4.263, 
+        "fullname": "St.-Martial, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 44.852
+      }, 
+      "id": 625504
+    }
+  ]
+}

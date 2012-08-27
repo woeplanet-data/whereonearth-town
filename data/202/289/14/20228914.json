@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.038, 
+              42.300
+            ], 
+            [
+              -8.038, 
+              42.309
+            ], 
+            [
+              -8.025, 
+              42.309
+            ], 
+            [
+              -8.025, 
+              42.300
+            ], 
+            [
+              -8.038, 
+              42.300
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.309, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          29371442
+        ], 
+        "woeid": 20228914, 
+        "alias_SPA_V": [
+          "S Pedro"
+        ], 
+        "ne_longitude": -8.025, 
+        "longitude": -8.031, 
+        "parent_woeid": 12694883, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.304, 
+        "sw_longitude": -8.038, 
+        "fullname": "San Pedro, Galicia, Orense, Spain", 
+        "sw_latitude": 42.300
+      }, 
+      "id": 20228914
+    }
+  ]
+}

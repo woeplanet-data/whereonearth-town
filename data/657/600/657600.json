@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.032, 
+              48.608
+            ], 
+            [
+              11.032, 
+              48.643
+            ], 
+            [
+              11.063, 
+              48.643
+            ], 
+            [
+              11.063, 
+              48.608
+            ], 
+            [
+              11.032, 
+              48.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657600, 
+        "name": "Haselbach", 
+        "adjacent_woeid": [
+          641910, 
+          687555, 
+          704563, 
+          20157837
+        ], 
+        "ne_latitude": 48.643, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.063, 
+        "longitude": 11.046, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:19Z", 
+        "parent_woeid": 12634656, 
+        "latitude": 48.628, 
+        "sw_longitude": 11.032, 
+        "fullname": "Haselbach, Bavaria, Neuburg-Schrobenhausen, Germany", 
+        "sw_latitude": 48.608
+      }, 
+      "id": 657600
+    }
+  ]
+}

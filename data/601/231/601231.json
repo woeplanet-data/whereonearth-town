@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.070, 
+              46.803
+            ], 
+            [
+              3.070, 
+              46.829
+            ], 
+            [
+              3.100, 
+              46.829
+            ], 
+            [
+              3.100, 
+              46.803
+            ], 
+            [
+              3.070, 
+              46.803
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601231, 
+        "name": "Langeron", 
+        "adjacent_woeid": [
+          588698, 
+          608297, 
+          610224, 
+          613295, 
+          29332740
+        ], 
+        "ne_latitude": 46.829, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.100, 
+        "longitude": 3.084, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12637628, 
+        "latitude": 46.810, 
+        "sw_longitude": 3.070, 
+        "fullname": "Langeron, Burgundy, Nievre, France", 
+        "sw_latitude": 46.803
+      }, 
+      "id": 601231
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.254, 
+              23.132
+            ], 
+            [
+              -106.254, 
+              23.150
+            ], 
+            [
+              -106.234, 
+              23.150
+            ], 
+            [
+              -106.234, 
+              23.132
+            ], 
+            [
+              -106.254, 
+              23.132
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.150, 
+        "name": "El Walamo", 
+        "adjacent_woeid": [
+          111450, 
+          111484, 
+          113202, 
+          114083, 
+          121708, 
+          150910
+        ], 
+        "woeid": 122999, 
+        "alias_SPA_V": [
+          "Watamo"
+        ], 
+        "ne_longitude": -106.234, 
+        "longitude": -106.244, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.141, 
+        "sw_longitude": -106.254, 
+        "fullname": "El Walamo, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.132
+      }, 
+      "id": 122999
+    }
+  ]
+}

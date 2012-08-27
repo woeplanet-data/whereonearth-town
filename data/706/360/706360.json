@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.284, 
+              49.717
+            ], 
+            [
+              10.284, 
+              49.766
+            ], 
+            [
+              10.324, 
+              49.766
+            ], 
+            [
+              10.324, 
+              49.717
+            ], 
+            [
+              10.284, 
+              49.717
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706360, 
+        "name": "Wiesenbronn", 
+        "adjacent_woeid": [
+          639170, 
+          643084, 
+          655099, 
+          690241, 
+          699831, 
+          20172939
+        ], 
+        "ne_latitude": 49.766, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.324, 
+        "longitude": 10.307, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635588, 
+        "latitude": 49.748, 
+        "sw_longitude": 10.284, 
+        "fullname": "Wiesenbronn, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.717
+      }, 
+      "id": 706360
+    }
+  ]
+}

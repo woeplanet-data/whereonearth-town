@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.443, 
+              16.541
+            ], 
+            [
+              -93.443, 
+              16.559
+            ], 
+            [
+              -93.424, 
+              16.559
+            ], 
+            [
+              -93.424, 
+              16.541
+            ], 
+            [
+              -93.443, 
+              16.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.559, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          121336, 
+          122907, 
+          125952, 
+          140675, 
+          143191, 
+          143791
+        ], 
+        "woeid": 141744, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -93.424, 
+        "longitude": -93.433, 
+        "parent_woeid": 12599771, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.550, 
+        "sw_longitude": -93.443, 
+        "fullname": "San Antonio, Chiapas, Ocozocoautla de Espinosa, Mexico", 
+        "sw_latitude": 16.541
+      }, 
+      "id": 141744
+    }
+  ]
+}

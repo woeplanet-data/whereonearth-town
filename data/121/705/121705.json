@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.238, 
+              24.908
+            ], 
+            [
+              -107.238, 
+              24.926
+            ], 
+            [
+              -107.218, 
+              24.926
+            ], 
+            [
+              -107.218, 
+              24.908
+            ], 
+            [
+              -107.238, 
+              24.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.926, 
+        "name": "El Pozo", 
+        "adjacent_woeid": [
+          113342, 
+          127279, 
+          128448, 
+          141587, 
+          147965, 
+          149793, 
+          150985
+        ], 
+        "woeid": 121705, 
+        "alias_SPA_V": [
+          "Pozo"
+        ], 
+        "ne_longitude": -107.218, 
+        "longitude": -107.228, 
+        "parent_woeid": 12601533, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.917, 
+        "sw_longitude": -107.238, 
+        "fullname": "El Pozo, Sinaloa, Culiacan, Mexico", 
+        "sw_latitude": 24.908
+      }, 
+      "id": 121705
+    }
+  ]
+}

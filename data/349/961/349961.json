@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.995, 
+              -34.596
+            ], 
+            [
+              -70.995, 
+              -34.580
+            ], 
+            [
+              -70.975, 
+              -34.580
+            ], 
+            [
+              -70.975, 
+              -34.596
+            ], 
+            [
+              -70.995, 
+              -34.596
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -34.580, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          347701, 
+          348534, 
+          348565, 
+          348586, 
+          348699, 
+          348977, 
+          349061, 
+          349360, 
+          349493, 
+          349662, 
+          349954, 
+          349964, 
+          349965, 
+          350002, 
+          350317, 
+          350378
+        ], 
+        "woeid": 349961, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -70.975, 
+        "longitude": -70.985, 
+        "parent_woeid": 26794222, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -34.588, 
+        "sw_longitude": -70.995, 
+        "fullname": "San Fernando, O'Higgins Region, Colchagua Province, Chile", 
+        "sw_latitude": -34.596
+      }, 
+      "id": 349961
+    }
+  ]
+}

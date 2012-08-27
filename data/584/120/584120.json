@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.521, 
+              45.120
+            ], 
+            [
+              1.521, 
+              45.151
+            ], 
+            [
+              1.563, 
+              45.151
+            ], 
+            [
+              1.563, 
+              45.120
+            ], 
+            [
+              1.521, 
+              45.120
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584120, 
+        "name": "Champ", 
+        "adjacent_woeid": [
+          595696, 
+          601235, 
+          614366
+        ], 
+        "ne_latitude": 45.151, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.563, 
+        "longitude": 1.533, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "parent_woeid": 12656710, 
+        "latitude": 45.133, 
+        "sw_longitude": 1.521, 
+        "fullname": "Champ, Limousin, Correze, France", 
+        "sw_latitude": 45.120
+      }, 
+      "id": 584120
+    }
+  ]
+}

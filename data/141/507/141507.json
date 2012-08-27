@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.410, 
+              28.941
+            ], 
+            [
+              -111.410, 
+              28.959
+            ], 
+            [
+              -111.390, 
+              28.959
+            ], 
+            [
+              -111.390, 
+              28.941
+            ], 
+            [
+              -111.410, 
+              28.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.959, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          120308, 
+          129659, 
+          133595, 
+          133921, 
+          140108, 
+          144242, 
+          144468, 
+          151010
+        ], 
+        "woeid": 141507, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -111.390, 
+        "longitude": -111.400, 
+        "parent_woeid": 12601574, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.950, 
+        "sw_longitude": -111.410, 
+        "fullname": "San Antonio, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 28.941
+      }, 
+      "id": 141507
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.280, 
+              46.937
+            ], 
+            [
+              5.280, 
+              46.984
+            ], 
+            [
+              5.319, 
+              46.984
+            ], 
+            [
+              5.319, 
+              46.937
+            ], 
+            [
+              5.280, 
+              46.937
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20212060, 
+        "name": "Beauchemin", 
+        "adjacent_woeid": [
+          576220, 
+          585489, 
+          616258, 
+          20212062
+        ], 
+        "ne_latitude": 46.984, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.319, 
+        "longitude": 5.296, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 12641501, 
+        "latitude": 46.967, 
+        "sw_longitude": 5.280, 
+        "fullname": "Beauchemin, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.937
+      }, 
+      "id": 20212060
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.955, 
+              47.300
+            ], 
+            [
+              2.955, 
+              47.319
+            ], 
+            [
+              2.976, 
+              47.319
+            ], 
+            [
+              2.976, 
+              47.300
+            ], 
+            [
+              2.955, 
+              47.300
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622885, 
+        "name": "St.-Andelain", 
+        "adjacent_woeid": [
+          584646, 
+          585213, 
+          604329, 
+          605457, 
+          609584, 
+          625168, 
+          625775
+        ], 
+        "ne_latitude": 47.319, 
+        "ne_longitude": 2.976, 
+        "longitude": 2.961, 
+        "parent_woeid": 12639160, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Andelain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.309, 
+        "sw_longitude": 2.955, 
+        "fullname": "St.-Andelain, Burgundy, Nievre, France", 
+        "sw_latitude": 47.300
+      }, 
+      "id": 622885
+    }
+  ]
+}

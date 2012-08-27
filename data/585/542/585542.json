@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.933, 
+              47.898
+            ], 
+            [
+              3.933, 
+              47.931
+            ], 
+            [
+              3.986, 
+              47.931
+            ], 
+            [
+              3.986, 
+              47.898
+            ], 
+            [
+              3.933, 
+              47.898
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585542, 
+        "name": "Cheney", 
+        "adjacent_woeid": [
+          588494, 
+          608063, 
+          611812, 
+          629448, 
+          631058
+        ], 
+        "ne_latitude": 47.931, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.986, 
+        "longitude": 3.951, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12641522, 
+        "latitude": 47.906, 
+        "sw_longitude": 3.933, 
+        "fullname": "Cheney, Burgundy, Yonne, France", 
+        "sw_latitude": 47.898
+      }, 
+      "id": 585542
+    }
+  ]
+}

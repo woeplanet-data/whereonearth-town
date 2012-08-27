@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.385, 
+              49.335
+            ], 
+            [
+              10.385, 
+              49.355
+            ], 
+            [
+              10.409, 
+              49.355
+            ], 
+            [
+              10.409, 
+              49.335
+            ], 
+            [
+              10.385, 
+              49.335
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675085, 
+        "name": "Meuchlein", 
+        "adjacent_woeid": [
+          635948, 
+          638793, 
+          650982, 
+          20158710
+        ], 
+        "ne_latitude": 49.355, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.409, 
+        "longitude": 10.398, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12634393, 
+        "latitude": 49.342, 
+        "sw_longitude": 10.385, 
+        "fullname": "Meuchlein, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.335
+      }, 
+      "id": 675085
+    }
+  ]
+}

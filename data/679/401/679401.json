@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.425, 
+              50.855
+            ], 
+            [
+              8.425, 
+              50.882
+            ], 
+            [
+              8.458, 
+              50.882
+            ], 
+            [
+              8.458, 
+              50.855
+            ], 
+            [
+              8.425, 
+              50.855
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679401, 
+        "name": "Niederdieten", 
+        "adjacent_woeid": [
+          666898, 
+          680998, 
+          686432, 
+          707926
+        ], 
+        "ne_latitude": 50.882, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.458, 
+        "longitude": 8.441, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12632701, 
+        "latitude": 50.871, 
+        "sw_longitude": 8.425, 
+        "fullname": "Niederdieten, Hesse, Marburg-Biedenkopf, Germany", 
+        "sw_latitude": 50.855
+      }, 
+      "id": 679401
+    }
+  ]
+}

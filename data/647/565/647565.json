@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.413, 
+              49.824
+            ], 
+            [
+              12.413, 
+              49.850
+            ], 
+            [
+              12.446, 
+              49.850
+            ], 
+            [
+              12.446, 
+              49.824
+            ], 
+            [
+              12.413, 
+              49.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647565, 
+        "name": "Ellenfeld", 
+        "adjacent_woeid": [
+          633575, 
+          705255, 
+          20158547, 
+          29348726
+        ], 
+        "ne_latitude": 49.850, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.446, 
+        "longitude": 12.426, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12634330, 
+        "latitude": 49.839, 
+        "sw_longitude": 12.413, 
+        "fullname": "Ellenfeld, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 49.824
+      }, 
+      "id": 647565
+    }
+  ]
+}

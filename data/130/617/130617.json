@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.793, 
+              15.224
+            ], 
+            [
+              -92.793, 
+              15.242
+            ], 
+            [
+              -92.774, 
+              15.242
+            ], 
+            [
+              -92.774, 
+              15.224
+            ], 
+            [
+              -92.793, 
+              15.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.242, 
+        "name": "Las Mercedes", 
+        "adjacent_woeid": [
+          130403, 
+          133135, 
+          146108, 
+          146109
+        ], 
+        "woeid": 130617, 
+        "alias_SPA_V": [
+          "Mercedes"
+        ], 
+        "ne_longitude": -92.774, 
+        "longitude": -92.783, 
+        "parent_woeid": 12599710, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.233, 
+        "sw_longitude": -92.793, 
+        "fullname": "Las Mercedes, Chiapas, Acapetahua, Mexico", 
+        "sw_latitude": 15.224
+      }, 
+      "id": 130617
+    }
+  ]
+}

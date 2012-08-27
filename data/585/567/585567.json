@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.218, 
+              45.941
+            ], 
+            [
+              0.218, 
+              45.955
+            ], 
+            [
+              0.259, 
+              45.955
+            ], 
+            [
+              0.259, 
+              45.941
+            ], 
+            [
+              0.218, 
+              45.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585567, 
+        "name": "Chenon", 
+        "adjacent_woeid": [
+          578487, 
+          585566, 
+          608604, 
+          617744
+        ], 
+        "ne_latitude": 45.955, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.259, 
+        "longitude": 0.244, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12659326, 
+        "latitude": 45.950, 
+        "sw_longitude": 0.218, 
+        "fullname": "Chenon, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.941
+      }, 
+      "id": 585567
+    }
+  ]
+}

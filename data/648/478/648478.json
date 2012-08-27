@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.886, 
+              50.083
+            ], 
+            [
+              10.886, 
+              50.103
+            ], 
+            [
+              10.916, 
+              50.103
+            ], 
+            [
+              10.916, 
+              50.083
+            ], 
+            [
+              10.886, 
+              50.083
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648478, 
+        "name": "Erlhof", 
+        "adjacent_woeid": [
+          645283, 
+          645542, 
+          650429, 
+          669806, 
+          674983, 
+          700567, 
+          706346, 
+          20156139
+        ], 
+        "ne_latitude": 50.103, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.916, 
+        "longitude": 10.902, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12635365, 
+        "latitude": 50.094, 
+        "sw_longitude": 10.886, 
+        "fullname": "Erlhof, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.083
+      }, 
+      "id": 648478
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.209, 
+              45.859
+            ], 
+            [
+              -75.209, 
+              45.980
+            ], 
+            [
+              -75.020, 
+              45.980
+            ], 
+            [
+              -75.020, 
+              45.859
+            ], 
+            [
+              -75.209, 
+              45.859
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394401, 
+        "name": "Lac-Simon", 
+        "adjacent_woeid": [
+          23394344, 
+          23394358, 
+          23394433
+        ], 
+        "ne_latitude": 45.980, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -75.020, 
+        "longitude": -75.093, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375249, 
+        "latitude": 45.905, 
+        "sw_longitude": -75.209, 
+        "fullname": "Lac-Simon, Quebec, Papineau, Canada", 
+        "sw_latitude": 45.859
+      }, 
+      "id": 23394401
+    }
+  ]
+}

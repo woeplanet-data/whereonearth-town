@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.139, 
+              19.387
+            ], 
+            [
+              -99.139, 
+              19.405
+            ], 
+            [
+              -99.119, 
+              19.405
+            ], 
+            [
+              -99.119, 
+              19.387
+            ], 
+            [
+              -99.139, 
+              19.387
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.405, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          124122, 
+          126229, 
+          127107, 
+          146611
+        ], 
+        "woeid": 144994, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -99.119, 
+        "longitude": -99.129, 
+        "parent_woeid": 12599941, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.396, 
+        "sw_longitude": -99.139, 
+        "fullname": "San Pedro, Distrito Federal, Iztacalco, Mexico", 
+        "sw_latitude": 19.387
+      }, 
+      "id": 144994
+    }
+  ]
+}

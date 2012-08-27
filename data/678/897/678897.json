@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.579, 
+              51.020
+            ], 
+            [
+              6.579, 
+              51.056
+            ], 
+            [
+              6.635, 
+              51.056
+            ], 
+            [
+              6.635, 
+              51.020
+            ], 
+            [
+              6.579, 
+              51.020
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678897, 
+        "name": "Neurath", 
+        "adjacent_woeid": [
+          650906, 
+          668575, 
+          678210, 
+          20168886
+        ], 
+        "ne_latitude": 51.056, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.635, 
+        "longitude": 6.594, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12624448, 
+        "latitude": 51.039, 
+        "sw_longitude": 6.579, 
+        "fullname": "Neurath, North Rhine-Westphalia, Landkreis Neuss, Germany", 
+        "sw_latitude": 51.020
+      }, 
+      "id": 678897
+    }
+  ]
+}

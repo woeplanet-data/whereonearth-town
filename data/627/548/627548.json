@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.329, 
+              46.830
+            ], 
+            [
+              1.329, 
+              46.870
+            ], 
+            [
+              1.368, 
+              46.870
+            ], 
+            [
+              1.368, 
+              46.830
+            ], 
+            [
+              1.329, 
+              46.830
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627548, 
+        "name": "Ste.-Gemme", 
+        "adjacent_woeid": [
+          576696, 
+          621192, 
+          624148, 
+          627813, 
+          630556
+        ], 
+        "ne_latitude": 46.870, 
+        "ne_longitude": 1.368, 
+        "longitude": 1.340, 
+        "parent_woeid": 12646606, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Gemme"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.853, 
+        "sw_longitude": 1.329, 
+        "fullname": "Ste.-Gemme, Centre, Indre, France", 
+        "sw_latitude": 46.830
+      }, 
+      "id": 627548
+    }
+  ]
+}

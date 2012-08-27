@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.236, 
+              50.312
+            ], 
+            [
+              3.236, 
+              50.350
+            ], 
+            [
+              3.280, 
+              50.350
+            ], 
+            [
+              3.280, 
+              50.312
+            ], 
+            [
+              3.236, 
+              50.312
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 576177, 
+        "name": "Aniche", 
+        "adjacent_woeid": [
+          575364, 
+          577020, 
+          582189, 
+          589618, 
+          610204, 
+          611879, 
+          619748, 
+          622335
+        ], 
+        "ne_latitude": 50.350, 
+        "ne_longitude": 3.280, 
+        "longitude": 3.250, 
+        "parent_woeid": 12655293, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Aniches"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.331, 
+        "sw_longitude": 3.236, 
+        "fullname": "Aniche, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.312
+      }, 
+      "id": 576177
+    }
+  ]
+}

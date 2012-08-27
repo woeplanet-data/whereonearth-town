@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.000, 
+              49.375
+            ], 
+            [
+              10.000, 
+              49.408
+            ], 
+            [
+              10.029, 
+              49.408
+            ], 
+            [
+              10.029, 
+              49.375
+            ], 
+            [
+              10.000, 
+              49.375
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658603, 
+        "name": "Heimberg", 
+        "adjacent_woeid": [
+          640567, 
+          645960, 
+          656245, 
+          668874, 
+          671558, 
+          682103, 
+          700879, 
+          706536, 
+          707772
+        ], 
+        "ne_latitude": 49.408, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.029, 
+        "longitude": 10.015, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12624183, 
+        "latitude": 49.386, 
+        "sw_longitude": 10.000, 
+        "fullname": "Heimberg, Baden-Wurttemberg, Main-Tauber-Kreis, Germany", 
+        "sw_latitude": 49.375
+      }, 
+      "id": 658603
+    }
+  ]
+}

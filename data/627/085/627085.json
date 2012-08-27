@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.299, 
+              46.797
+            ], 
+            [
+              2.299, 
+              46.826
+            ], 
+            [
+              2.327, 
+              46.826
+            ], 
+            [
+              2.327, 
+              46.797
+            ], 
+            [
+              2.299, 
+              46.797
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627085, 
+        "name": "St.-Symphorien", 
+        "adjacent_woeid": [
+          584039, 
+          587921, 
+          595195, 
+          612872, 
+          630576
+        ], 
+        "ne_latitude": 46.826, 
+        "ne_longitude": 2.327, 
+        "longitude": 2.308, 
+        "parent_woeid": 12648508, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Symphorien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.812, 
+        "sw_longitude": 2.299, 
+        "fullname": "St.-Symphorien, Centre, Cher, France", 
+        "sw_latitude": 46.797
+      }, 
+      "id": 627085
+    }
+  ]
+}

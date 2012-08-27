@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.435, 
+              47.244
+            ], 
+            [
+              8.435, 
+              47.262
+            ], 
+            [
+              8.462, 
+              47.262
+            ], 
+            [
+              8.462, 
+              47.244
+            ], 
+            [
+              8.435, 
+              47.244
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101581, 
+        "name": "Eigi", 
+        "adjacent_woeid": [
+          20101429, 
+          20101983, 
+          20104883, 
+          28996893
+        ], 
+        "ne_latitude": 47.262, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.462, 
+        "longitude": 8.448, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:50Z", 
+        "parent_woeid": 12683979, 
+        "latitude": 47.253, 
+        "sw_longitude": 8.435, 
+        "fullname": "Eigi, Canton of Zurich, Affoltern, Switzerland", 
+        "sw_latitude": 47.244
+      }, 
+      "id": 20101581
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.008, 
+              25.526
+            ], 
+            [
+              -100.008, 
+              25.540
+            ], 
+            [
+              -99.992, 
+              25.540
+            ], 
+            [
+              -99.992, 
+              25.526
+            ], 
+            [
+              -100.008, 
+              25.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.540, 
+        "name": "El Castillo", 
+        "adjacent_woeid": [
+          114053, 
+          121932, 
+          141924, 
+          144404, 
+          145203
+        ], 
+        "woeid": 119606, 
+        "alias_SPA_V": [
+          "Rancho El Castillo"
+        ], 
+        "ne_longitude": -99.992, 
+        "longitude": -100.000, 
+        "parent_woeid": 12600613, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.533, 
+        "sw_longitude": -100.008, 
+        "fullname": "El Castillo, Nuevo Leon, Cadereyta Jimenez, Mexico", 
+        "sw_latitude": 25.526
+      }, 
+      "id": 119606
+    }
+  ]
+}

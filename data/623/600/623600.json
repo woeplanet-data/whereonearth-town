@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.316, 
+              48.053
+            ], 
+            [
+              0.316, 
+              48.101
+            ], 
+            [
+              0.372, 
+              48.101
+            ], 
+            [
+              0.372, 
+              48.053
+            ], 
+            [
+              0.316, 
+              48.053
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623600, 
+        "name": "St.-Corneille", 
+        "adjacent_woeid": [
+          590579, 
+          608467, 
+          615666, 
+          621402, 
+          625493
+        ], 
+        "ne_latitude": 48.101, 
+        "ne_longitude": 0.372, 
+        "longitude": 0.343, 
+        "parent_woeid": 12665513, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Corneille"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.067, 
+        "sw_longitude": 0.316, 
+        "fullname": "St.-Corneille, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.053
+      }, 
+      "id": 623600
+    }
+  ]
+}

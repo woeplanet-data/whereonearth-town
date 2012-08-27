@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.063, 
+              50.031
+            ], 
+            [
+              10.063, 
+              50.070
+            ], 
+            [
+              10.087, 
+              50.070
+            ], 
+            [
+              10.087, 
+              50.031
+            ], 
+            [
+              10.063, 
+              50.031
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640867, 
+        "name": "Brebersdorf", 
+        "adjacent_woeid": [
+          646605, 
+          664483, 
+          690561, 
+          693890, 
+          695441
+        ], 
+        "ne_latitude": 50.070, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.087, 
+        "longitude": 10.073, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12635437, 
+        "latitude": 50.050, 
+        "sw_longitude": 10.063, 
+        "fullname": "Brebersdorf, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.031
+      }, 
+      "id": 640867
+    }
+  ]
+}

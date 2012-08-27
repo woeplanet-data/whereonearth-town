@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.964, 
+              45.892
+            ], 
+            [
+              3.964, 
+              45.930
+            ], 
+            [
+              3.986, 
+              45.930
+            ], 
+            [
+              3.986, 
+              45.892
+            ], 
+            [
+              3.964, 
+              45.892
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626550, 
+        "name": "St.-Polgues", 
+        "adjacent_woeid": [
+          582353, 
+          587821, 
+          588470, 
+          622654
+        ], 
+        "ne_latitude": 45.930, 
+        "ne_longitude": 3.986, 
+        "longitude": 3.978, 
+        "parent_woeid": 12671115, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Polgues"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.912, 
+        "sw_longitude": 3.964, 
+        "fullname": "St.-Polgues, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.892
+      }, 
+      "id": 626550
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.123, 
+              43.897
+            ], 
+            [
+              4.123, 
+              43.955
+            ], 
+            [
+              4.175, 
+              43.955
+            ], 
+            [
+              4.175, 
+              43.897
+            ], 
+            [
+              4.123, 
+              43.897
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612182, 
+        "name": "Montagnac", 
+        "adjacent_woeid": [
+          591302, 
+          610609, 
+          612742, 
+          613447, 
+          623212, 
+          624126, 
+          20203440
+        ], 
+        "ne_latitude": 43.955, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.175, 
+        "longitude": 4.147, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12666918, 
+        "latitude": 43.937, 
+        "sw_longitude": 4.123, 
+        "fullname": "Montagnac, Languedoc-Roussillon, Gard, France", 
+        "sw_latitude": 43.897
+      }, 
+      "id": 612182
+    }
+  ]
+}

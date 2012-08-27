@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.743, 
+              19.508
+            ], 
+            [
+              -97.743, 
+              19.526
+            ], 
+            [
+              -97.724, 
+              19.526
+            ], 
+            [
+              -97.724, 
+              19.508
+            ], 
+            [
+              -97.743, 
+              19.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.526, 
+        "name": "Las Chapas", 
+        "adjacent_woeid": [
+          111076, 
+          126595, 
+          130066, 
+          131107, 
+          133473, 
+          134956, 
+          148953
+        ], 
+        "woeid": 130164, 
+        "alias_SPA_V": [
+          "Chapas"
+        ], 
+        "ne_longitude": -97.724, 
+        "longitude": -97.733, 
+        "parent_woeid": 12601323, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.517, 
+        "sw_longitude": -97.743, 
+        "fullname": "Las Chapas, Puebla, Libres, Mexico", 
+        "sw_latitude": 19.508
+      }, 
+      "id": 130164
+    }
+  ]
+}

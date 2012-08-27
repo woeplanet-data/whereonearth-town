@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.098, 
+              45.705
+            ], 
+            [
+              1.098, 
+              45.734
+            ], 
+            [
+              1.142, 
+              45.734
+            ], 
+            [
+              1.142, 
+              45.705
+            ], 
+            [
+              1.098, 
+              45.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601899, 
+        "name": "Lavignac", 
+        "adjacent_woeid": [
+          582399, 
+          591071, 
+          610838, 
+          625749
+        ], 
+        "ne_latitude": 45.734, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.142, 
+        "longitude": 1.119, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12664645, 
+        "latitude": 45.722, 
+        "sw_longitude": 1.098, 
+        "fullname": "Lavignac, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.705
+      }, 
+      "id": 601899
+    }
+  ]
+}

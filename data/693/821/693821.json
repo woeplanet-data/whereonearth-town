@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.325, 
+              50.811
+            ], 
+            [
+              10.325, 
+              50.861
+            ], 
+            [
+              10.362, 
+              50.861
+            ], 
+            [
+              10.362, 
+              50.811
+            ], 
+            [
+              10.325, 
+              50.811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693821, 
+        "name": "Schweina", 
+        "adjacent_woeid": [
+          652899, 
+          671669, 
+          673923, 
+          696634, 
+          29353205, 
+          29353330, 
+          29353342
+        ], 
+        "ne_latitude": 50.861, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.362, 
+        "longitude": 10.340, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12624804, 
+        "latitude": 50.823, 
+        "sw_longitude": 10.325, 
+        "fullname": "Schweina, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.811
+      }, 
+      "id": 693821
+    }
+  ]
+}

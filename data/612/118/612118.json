@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.163, 
+              43.534
+            ], 
+            [
+              -0.163, 
+              43.576
+            ], 
+            [
+              -0.130, 
+              43.576
+            ], 
+            [
+              -0.130, 
+              43.534
+            ], 
+            [
+              -0.163, 
+              43.534
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612118, 
+        "name": "Mont-Disse", 
+        "adjacent_woeid": [
+          576750, 
+          577100, 
+          577352, 
+          577682, 
+          582615, 
+          586699, 
+          588812
+        ], 
+        "ne_latitude": 43.576, 
+        "ne_longitude": -0.130, 
+        "longitude": -0.151, 
+        "parent_woeid": 12649363, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mont-Diusse"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.558, 
+        "sw_longitude": -0.163, 
+        "fullname": "Mont-Disse, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.534
+      }, 
+      "id": 612118
+    }
+  ]
+}

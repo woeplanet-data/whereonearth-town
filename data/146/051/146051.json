@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.826, 
+              18.274
+            ], 
+            [
+              -97.826, 
+              18.292
+            ], 
+            [
+              -97.807, 
+              18.292
+            ], 
+            [
+              -97.807, 
+              18.274
+            ], 
+            [
+              -97.826, 
+              18.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.292, 
+        "name": "Santa Cruz Nuevo", 
+        "adjacent_woeid": [
+          142376, 
+          143143, 
+          147238, 
+          147293, 
+          149964
+        ], 
+        "woeid": 146051, 
+        "alias_SPA_V": [
+          "Sta Cruz Nuevo"
+        ], 
+        "ne_longitude": -97.807, 
+        "longitude": -97.817, 
+        "parent_woeid": 12601416, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.283, 
+        "sw_longitude": -97.826, 
+        "fullname": "Santa Cruz Nuevo, Puebla, Totoltepec de Guerrero, Mexico", 
+        "sw_latitude": 18.274
+      }, 
+      "id": 146051
+    }
+  ]
+}

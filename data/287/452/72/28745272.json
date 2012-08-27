@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.544, 
+              40.794
+            ], 
+            [
+              -77.544, 
+              40.916
+            ], 
+            [
+              -77.439, 
+              40.916
+            ], 
+            [
+              -77.439, 
+              40.794
+            ], 
+            [
+              -77.544, 
+              40.794
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745272, 
+        "name": "Penn", 
+        "adjacent_woeid": [
+          2493451, 
+          28745469, 
+          28745522, 
+          28745601, 
+          28745602
+        ], 
+        "ne_latitude": 40.916, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Penn Township"
+        ], 
+        "ne_longitude": -77.439, 
+        "longitude": -77.503, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589741, 
+        "latitude": 40.885, 
+        "sw_longitude": -77.544, 
+        "fullname": "Penn, Pennsylvania, Centre, United States", 
+        "sw_latitude": 40.794
+      }, 
+      "id": 28745272
+    }
+  ]
+}

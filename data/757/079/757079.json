@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.905, 
+              42.904
+            ], 
+            [
+              -2.905, 
+              42.921
+            ], 
+            [
+              -2.862, 
+              42.921
+            ], 
+            [
+              -2.862, 
+              42.904
+            ], 
+            [
+              -2.905, 
+              42.904
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.921, 
+        "name": "Catadiano", 
+        "adjacent_woeid": [
+          752433, 
+          752435, 
+          762728, 
+          768715, 
+          774356, 
+          778900, 
+          20226457
+        ], 
+        "woeid": 757079, 
+        "alias_SPA_V": [
+          "Katadiano"
+        ], 
+        "ne_longitude": -2.862, 
+        "longitude": -2.889, 
+        "parent_woeid": 12695031, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.911, 
+        "sw_longitude": -2.905, 
+        "fullname": "Catadiano, Basque Country, Alava, Spain", 
+        "sw_latitude": 42.904
+      }, 
+      "id": 757079
+    }
+  ]
+}

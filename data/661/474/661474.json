@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.486, 
+              49.747
+            ], 
+            [
+              10.486, 
+              49.772
+            ], 
+            [
+              10.514, 
+              49.772
+            ], 
+            [
+              10.514, 
+              49.747
+            ], 
+            [
+              10.486, 
+              49.747
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661474, 
+        "name": "Hohnsberg", 
+        "adjacent_woeid": [
+          642585, 
+          656080, 
+          695250, 
+          20156580
+        ], 
+        "ne_latitude": 49.772, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.514, 
+        "longitude": 10.505, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12635569, 
+        "latitude": 49.762, 
+        "sw_longitude": 10.486, 
+        "fullname": "Hohnsberg, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.747
+      }, 
+      "id": 661474
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.331, 
+              10.308
+            ], 
+            [
+              -72.331, 
+              10.355
+            ], 
+            [
+              -72.283, 
+              10.355
+            ], 
+            [
+              -72.283, 
+              10.308
+            ], 
+            [
+              -72.331, 
+              10.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.355, 
+        "name": "Rosario", 
+        "adjacent_woeid": [
+          395826, 
+          420114, 
+          395762, 
+          395521, 
+          390484, 
+          395622
+        ], 
+        "woeid": 468804, 
+        "alias_SPA_V": [
+          "La Villa del Rosario"
+        ], 
+        "ne_longitude": -72.283, 
+        "longitude": -72.307, 
+        "parent_woeid": 26805308, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.331, 
+        "sw_longitude": -72.331, 
+        "fullname": "Rosario, Zulia, Rosario de Perija, Venezuela", 
+        "sw_latitude": 10.308
+      }, 
+      "id": 468804
+    }
+  ]
+}

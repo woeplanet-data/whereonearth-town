@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.648, 
+              44.456
+            ], 
+            [
+              1.648, 
+              44.499
+            ], 
+            [
+              1.709, 
+              44.499
+            ], 
+            [
+              1.709, 
+              44.456
+            ], 
+            [
+              1.648, 
+              44.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628898, 
+        "name": "Tour-de-Faure", 
+        "adjacent_woeid": [
+          581487, 
+          587811, 
+          621188, 
+          623521, 
+          625731
+        ], 
+        "ne_latitude": 44.499, 
+        "ne_longitude": 1.709, 
+        "longitude": 1.690, 
+        "parent_woeid": 12664065, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Tour de Faure"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.469, 
+        "sw_longitude": 1.648, 
+        "fullname": "Tour-de-Faure, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.456
+      }, 
+      "id": 628898
+    }
+  ]
+}

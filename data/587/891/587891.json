@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.141, 
+              49.813
+            ], 
+            [
+              2.141, 
+              49.860
+            ], 
+            [
+              2.191, 
+              49.860
+            ], 
+            [
+              2.191, 
+              49.813
+            ], 
+            [
+              2.141, 
+              49.813
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587891, 
+        "name": "Creuse", 
+        "adjacent_woeid": [
+          577769, 
+          586116, 
+          619265, 
+          620473, 
+          630906
+        ], 
+        "ne_latitude": 49.860, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.191, 
+        "longitude": 2.168, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "parent_woeid": 12660167, 
+        "latitude": 49.840, 
+        "sw_longitude": 2.141, 
+        "fullname": "Creuse, Picardie, Somme, France", 
+        "sw_latitude": 49.813
+      }, 
+      "id": 587891
+    }
+  ]
+}

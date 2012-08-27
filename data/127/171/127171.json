@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.310, 
+              21.691
+            ], 
+            [
+              -105.310, 
+              21.709
+            ], 
+            [
+              -105.290, 
+              21.709
+            ], 
+            [
+              -105.290, 
+              21.691
+            ], 
+            [
+              -105.310, 
+              21.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.709, 
+        "name": "La Culebra", 
+        "adjacent_woeid": [
+          112724, 
+          117470, 
+          119468, 
+          127579, 
+          137636, 
+          137732
+        ], 
+        "woeid": 127171, 
+        "alias_SPA_V": [
+          "Culebra"
+        ], 
+        "ne_longitude": -105.290, 
+        "longitude": -105.300, 
+        "parent_woeid": 12600601, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.700, 
+        "sw_longitude": -105.310, 
+        "fullname": "La Culebra, Nayarit, Santiago Ixcuintla, Mexico", 
+        "sw_latitude": 21.691
+      }, 
+      "id": 127171
+    }
+  ]
+}

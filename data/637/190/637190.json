@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.461, 
+              54.260
+            ], 
+            [
+              10.461, 
+              54.279
+            ], 
+            [
+              10.495, 
+              54.279
+            ], 
+            [
+              10.495, 
+              54.260
+            ], 
+            [
+              10.461, 
+              54.260
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637190, 
+        "name": "Bauersdorf", 
+        "adjacent_woeid": [
+          637630, 
+          676377, 
+          686884, 
+          29350735
+        ], 
+        "ne_latitude": 54.279, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.495, 
+        "longitude": 10.473, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12632407, 
+        "latitude": 54.269, 
+        "sw_longitude": 10.461, 
+        "fullname": "Bauersdorf, Schleswig-Holstein, Plon, Germany", 
+        "sw_latitude": 54.260
+      }, 
+      "id": 637190
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.063, 
+              50.739
+            ], 
+            [
+              10.063, 
+              50.776
+            ], 
+            [
+              10.097, 
+              50.776
+            ], 
+            [
+              10.097, 
+              50.739
+            ], 
+            [
+              10.063, 
+              50.739
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651801, 
+        "name": "Gehaus", 
+        "adjacent_woeid": [
+          637285, 
+          661381, 
+          674115, 
+          682869, 
+          707567
+        ], 
+        "ne_latitude": 50.776, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.097, 
+        "longitude": 10.077, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12636521, 
+        "latitude": 50.757, 
+        "sw_longitude": 10.063, 
+        "fullname": "Gehaus, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.739
+      }, 
+      "id": 651801
+    }
+  ]
+}

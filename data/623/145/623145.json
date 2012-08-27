@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.692, 
+              47.336
+            ], 
+            [
+              0.692, 
+              47.386
+            ], 
+            [
+              0.760, 
+              47.386
+            ], 
+            [
+              0.760, 
+              47.336
+            ], 
+            [
+              0.692, 
+              47.336
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623145, 
+        "name": "St.-Avertin", 
+        "adjacent_woeid": [
+          584074, 
+          601471, 
+          612874, 
+          626460, 
+          628971
+        ], 
+        "ne_latitude": 47.386, 
+        "ne_longitude": 0.760, 
+        "longitude": 0.727, 
+        "parent_woeid": 12651452, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Avertin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.367, 
+        "sw_longitude": 0.692, 
+        "fullname": "St.-Avertin, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.336
+      }, 
+      "id": 623145
+    }
+  ]
+}

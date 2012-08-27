@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.260, 
+              28.891
+            ], 
+            [
+              -110.260, 
+              28.909
+            ], 
+            [
+              -110.240, 
+              28.909
+            ], 
+            [
+              -110.240, 
+              28.891
+            ], 
+            [
+              -110.260, 
+              28.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.909, 
+        "name": "La Galera", 
+        "adjacent_woeid": [
+          116664, 
+          130109, 
+          145174
+        ], 
+        "woeid": 127501, 
+        "alias_SPA_V": [
+          "Rancho la Galera"
+        ], 
+        "ne_longitude": -110.240, 
+        "longitude": -110.250, 
+        "parent_woeid": 12601580, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.900, 
+        "sw_longitude": -110.260, 
+        "fullname": "La Galera, Sonora, La Colorada, Mexico", 
+        "sw_latitude": 28.891
+      }, 
+      "id": 127501
+    }
+  ]
+}

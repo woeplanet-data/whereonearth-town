@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.743, 
+              23.658
+            ], 
+            [
+              -100.743, 
+              23.676
+            ], 
+            [
+              -100.723, 
+              23.676
+            ], 
+            [
+              -100.723, 
+              23.658
+            ], 
+            [
+              -100.743, 
+              23.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.676, 
+        "name": "La Boca", 
+        "adjacent_woeid": [
+          131134, 
+          132192, 
+          141086
+        ], 
+        "woeid": 126486, 
+        "alias_SPA_V": [
+          "Boca"
+        ], 
+        "ne_longitude": -100.723, 
+        "longitude": -100.733, 
+        "parent_woeid": 12601520, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.667, 
+        "sw_longitude": -100.743, 
+        "fullname": "La Boca, San Luis Potosi, Villa de la Paz, Mexico", 
+        "sw_latitude": 23.658
+      }, 
+      "id": 126486
+    }
+  ]
+}

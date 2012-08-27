@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.056, 
+              49.396
+            ], 
+            [
+              5.056, 
+              49.422
+            ], 
+            [
+              5.099, 
+              49.422
+            ], 
+            [
+              5.099, 
+              49.396
+            ], 
+            [
+              5.056, 
+              49.396
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 607582, 
+        "name": "Les Tuileries", 
+        "adjacent_woeid": [
+          576058, 
+          578251, 
+          612766, 
+          619129, 
+          627953, 
+          632008
+        ], 
+        "ne_latitude": 49.422, 
+        "ne_longitude": 5.099, 
+        "longitude": 5.078, 
+        "parent_woeid": 12637075, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Les Tuilleries"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.408, 
+        "sw_longitude": 5.056, 
+        "fullname": "Les Tuileries, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.396
+      }, 
+      "id": 607582
+    }
+  ]
+}

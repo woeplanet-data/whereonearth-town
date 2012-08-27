@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.777, 
+              45.627
+            ], 
+            [
+              -71.777, 
+              45.749
+            ], 
+            [
+              -71.615, 
+              45.749
+            ], 
+            [
+              -71.615, 
+              45.627
+            ], 
+            [
+              -71.777, 
+              45.627
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396463, 
+        "name": "St.-Camille", 
+        "adjacent_woeid": [
+          1536, 
+          23394473, 
+          23394566, 
+          23394640, 
+          23396338, 
+          23396850
+        ], 
+        "ne_latitude": 45.749, 
+        "ne_longitude": -71.615, 
+        "longitude": -71.704, 
+        "parent_woeid": 29375047, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Camille"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.683, 
+        "sw_longitude": -71.777, 
+        "fullname": "St.-Camille, Quebec, Asbestos, Canada", 
+        "sw_latitude": 45.627
+      }, 
+      "id": 23396463
+    }
+  ]
+}

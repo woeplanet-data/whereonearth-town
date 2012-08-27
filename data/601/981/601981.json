@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.642, 
+              44.705
+            ], 
+            [
+              1.642, 
+              44.736
+            ], 
+            [
+              1.683, 
+              44.736
+            ], 
+            [
+              1.683, 
+              44.705
+            ], 
+            [
+              1.642, 
+              44.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601981, 
+        "name": "Le Bastit", 
+        "adjacent_woeid": [
+          583085, 
+          587709, 
+          591422, 
+          608989, 
+          612588, 
+          619060, 
+          29331804
+        ], 
+        "ne_latitude": 44.736, 
+        "ne_longitude": 1.683, 
+        "longitude": 1.666, 
+        "parent_woeid": 12661916, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Bastit-pres-Gramat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.721, 
+        "sw_longitude": 1.642, 
+        "fullname": "Le Bastit, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.705
+      }, 
+      "id": 601981
+    }
+  ]
+}

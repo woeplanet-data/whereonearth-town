@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.551, 
+              48.333
+            ], 
+            [
+              10.551, 
+              48.354
+            ], 
+            [
+              10.572, 
+              48.354
+            ], 
+            [
+              10.572, 
+              48.333
+            ], 
+            [
+              10.551, 
+              48.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635239, 
+        "name": "Anried", 
+        "adjacent_woeid": [
+          648888, 
+          649921, 
+          655530, 
+          682502, 
+          691166
+        ], 
+        "ne_latitude": 48.354, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.572, 
+        "longitude": 10.557, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:25Z", 
+        "parent_woeid": 12634759, 
+        "latitude": 48.344, 
+        "sw_longitude": 10.551, 
+        "fullname": "Anried, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.333
+      }, 
+      "id": 635239
+    }
+  ]
+}

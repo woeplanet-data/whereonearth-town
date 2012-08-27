@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.877, 
+              49.781
+            ], 
+            [
+              11.877, 
+              49.799
+            ], 
+            [
+              11.905, 
+              49.799
+            ], 
+            [
+              11.905, 
+              49.781
+            ], 
+            [
+              11.877, 
+              49.781
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 662632, 
+        "name": "Hub", 
+        "adjacent_woeid": [
+          642710, 
+          649433, 
+          649434, 
+          669580, 
+          684995
+        ], 
+        "ne_latitude": 49.799, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.905, 
+        "longitude": 11.891, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:40Z", 
+        "parent_woeid": 12634282, 
+        "latitude": 49.790, 
+        "sw_longitude": 11.877, 
+        "fullname": "Hub, Bavaria, Landkreis Neustadt an der Waldnaab, Germany", 
+        "sw_latitude": 49.781
+      }, 
+      "id": 662632
+    }
+  ]
+}

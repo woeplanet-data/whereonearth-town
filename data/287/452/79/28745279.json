@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.103, 
+              40.340
+            ], 
+            [
+              -77.103, 
+              40.431
+            ], 
+            [
+              -76.932, 
+              40.431
+            ], 
+            [
+              -76.932, 
+              40.340
+            ], 
+            [
+              -77.103, 
+              40.340
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745279, 
+        "name": "Penn", 
+        "adjacent_woeid": [
+          2386138, 
+          2390866, 
+          28339985, 
+          28340008, 
+          28340132, 
+          28745373
+        ], 
+        "ne_latitude": 40.431, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Penn Township"
+        ], 
+        "ne_longitude": -76.932, 
+        "longitude": -77.038, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589777, 
+        "latitude": 40.389, 
+        "sw_longitude": -77.103, 
+        "fullname": "Penn, Pennsylvania, Perry, United States", 
+        "sw_latitude": 40.340
+      }, 
+      "id": 28745279
+    }
+  ]
+}

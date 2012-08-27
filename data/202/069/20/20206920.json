@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.731, 
+              45.880
+            ], 
+            [
+              3.731, 
+              45.889
+            ], 
+            [
+              3.744, 
+              45.889
+            ], 
+            [
+              3.744, 
+              45.880
+            ], 
+            [
+              3.731, 
+              45.880
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20206920, 
+        "name": "La Meule", 
+        "adjacent_woeid": [
+          585283, 
+          607419, 
+          20206921
+        ], 
+        "ne_latitude": 45.889, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.744, 
+        "longitude": 3.737, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12637289, 
+        "latitude": 45.885, 
+        "sw_longitude": 3.731, 
+        "fullname": "La Meule, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.880
+      }, 
+      "id": 20206920
+    }
+  ]
+}

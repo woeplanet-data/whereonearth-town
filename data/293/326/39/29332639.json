@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.876, 
+              45.307
+            ], 
+            [
+              1.876, 
+              45.325
+            ], 
+            [
+              1.902, 
+              45.325
+            ], 
+            [
+              1.902, 
+              45.307
+            ], 
+            [
+              1.876, 
+              45.307
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332639, 
+        "name": "Brach", 
+        "adjacent_woeid": [
+          592874, 
+          625511, 
+          20188919, 
+          29332636
+        ], 
+        "ne_latitude": 45.325, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.902, 
+        "longitude": 1.889, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12668493, 
+        "latitude": 45.316, 
+        "sw_longitude": 1.876, 
+        "fullname": "Brach, Limousin, Correze, France", 
+        "sw_latitude": 45.307
+      }, 
+      "id": 29332639
+    }
+  ]
+}

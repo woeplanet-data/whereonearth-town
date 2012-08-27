@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.999, 
+              9.579
+            ], 
+            [
+              -69.999, 
+              9.985
+            ], 
+            [
+              -69.587, 
+              9.985
+            ], 
+            [
+              -69.587, 
+              9.579
+            ], 
+            [
+              -69.999, 
+              9.579
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.985, 
+        "name": "El Tocuyo", 
+        "adjacent_woeid": [
+          381280, 
+          383314, 
+          395283, 
+          395309, 
+          395325, 
+          468382, 
+          468392, 
+          468429, 
+          468451, 
+          468485, 
+          468529, 
+          468552, 
+          468580, 
+          468673, 
+          468689, 
+          468811
+        ], 
+        "woeid": 395279, 
+        "alias_SPA_V": [
+          "Tocuyo"
+        ], 
+        "ne_longitude": -69.587, 
+        "longitude": -69.793, 
+        "parent_woeid": 26805345, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.782, 
+        "sw_longitude": -69.999, 
+        "fullname": "El Tocuyo, Lara, Moran, Venezuela", 
+        "sw_latitude": 9.579
+      }, 
+      "id": 395279
+    }
+  ]
+}

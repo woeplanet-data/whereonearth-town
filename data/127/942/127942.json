@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.510, 
+              19.741
+            ], 
+            [
+              -98.510, 
+              19.759
+            ], 
+            [
+              -98.490, 
+              19.759
+            ], 
+            [
+              -98.490, 
+              19.741
+            ], 
+            [
+              -98.510, 
+              19.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.759, 
+        "name": "La Laguna", 
+        "adjacent_woeid": [
+          111067, 
+          112224, 
+          143102, 
+          148869
+        ], 
+        "woeid": 127942, 
+        "alias_SPA_V": [
+          "Laguna"
+        ], 
+        "ne_longitude": -98.490, 
+        "longitude": -98.500, 
+        "parent_woeid": 12600117, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.750, 
+        "sw_longitude": -98.510, 
+        "fullname": "La Laguna, Hidalgo, Apan, Mexico", 
+        "sw_latitude": 19.741
+      }, 
+      "id": 127942
+    }
+  ]
+}

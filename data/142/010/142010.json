@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.709, 
+              16.358
+            ], 
+            [
+              -96.709, 
+              16.376
+            ], 
+            [
+              -96.691, 
+              16.376
+            ], 
+            [
+              -96.691, 
+              16.358
+            ], 
+            [
+              -96.709, 
+              16.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.376, 
+        "name": "San Bernardo", 
+        "adjacent_woeid": [
+          145457, 
+          145661, 
+          146049, 
+          146063
+        ], 
+        "woeid": 142010, 
+        "alias_SPA_V": [
+          "S Bernardo"
+        ], 
+        "ne_longitude": -96.691, 
+        "longitude": -96.700, 
+        "parent_woeid": 12601045, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.367, 
+        "sw_longitude": -96.709, 
+        "fullname": "San Bernardo, Oaxaca, Santa Cruz Xitla, Mexico", 
+        "sw_latitude": 16.358
+      }, 
+      "id": 142010
+    }
+  ]
+}

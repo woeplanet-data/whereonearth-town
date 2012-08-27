@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.676, 
+              15.224
+            ], 
+            [
+              -92.676, 
+              15.242
+            ], 
+            [
+              -92.657, 
+              15.242
+            ], 
+            [
+              -92.657, 
+              15.224
+            ], 
+            [
+              -92.676, 
+              15.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.242, 
+        "name": "Nueva Reforma", 
+        "adjacent_woeid": [
+          110973, 
+          131697, 
+          133135, 
+          134306, 
+          147203, 
+          149504
+        ], 
+        "woeid": 134752, 
+        "alias_SPA_V": [
+          "Barrio Nuevo"
+        ], 
+        "ne_longitude": -92.657, 
+        "longitude": -92.667, 
+        "parent_woeid": 12599710, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.233, 
+        "sw_longitude": -92.676, 
+        "fullname": "Nueva Reforma, Chiapas, Acapetahua, Mexico", 
+        "sw_latitude": 15.224
+      }, 
+      "id": 134752
+    }
+  ]
+}

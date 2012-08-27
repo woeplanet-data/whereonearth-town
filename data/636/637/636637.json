@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.833, 
+              48.776
+            ], 
+            [
+              10.833, 
+              48.809
+            ], 
+            [
+              10.865, 
+              48.809
+            ], 
+            [
+              10.865, 
+              48.776
+            ], 
+            [
+              10.833, 
+              48.776
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 636637, 
+        "name": "Baierfeld", 
+        "adjacent_woeid": [
+          638182, 
+          660532, 
+          663811, 
+          20157786
+        ], 
+        "ne_latitude": 48.809, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.865, 
+        "longitude": 10.845, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12634986, 
+        "latitude": 48.797, 
+        "sw_longitude": 10.833, 
+        "fullname": "Baierfeld, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.776
+      }, 
+      "id": 636637
+    }
+  ]
+}

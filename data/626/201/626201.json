@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.074, 
+              43.651
+            ], 
+            [
+              -1.074, 
+              43.688
+            ], 
+            [
+              -1.008, 
+              43.688
+            ], 
+            [
+              -1.008, 
+              43.651
+            ], 
+            [
+              -1.074, 
+              43.651
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626201, 
+        "name": "St.-Pandelon", 
+        "adjacent_woeid": [
+          579265, 
+          594797, 
+          614832, 
+          621160, 
+          622083
+        ], 
+        "ne_latitude": 43.688, 
+        "ne_longitude": -1.008, 
+        "longitude": -1.037, 
+        "parent_woeid": 12653037, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pandelon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.669, 
+        "sw_longitude": -1.074, 
+        "fullname": "St.-Pandelon, Aquitaine, Landes, France", 
+        "sw_latitude": 43.651
+      }, 
+      "id": 626201
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.326, 
+              18.008
+            ], 
+            [
+              -98.326, 
+              18.026
+            ], 
+            [
+              -98.307, 
+              18.026
+            ], 
+            [
+              -98.307, 
+              18.008
+            ], 
+            [
+              -98.326, 
+              18.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.026, 
+        "name": "Progreso", 
+        "adjacent_woeid": [
+          124281, 
+          148521, 
+          150188, 
+          150190, 
+          151403
+        ], 
+        "woeid": 137533, 
+        "alias_SPA_V": [
+          "El Progreso"
+        ], 
+        "ne_longitude": -98.307, 
+        "longitude": -98.317, 
+        "parent_woeid": 12601341, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.017, 
+        "sw_longitude": -98.326, 
+        "fullname": "Progreso, Puebla, Piaxtla, Mexico", 
+        "sw_latitude": 18.008
+      }, 
+      "id": 137533
+    }
+  ]
+}

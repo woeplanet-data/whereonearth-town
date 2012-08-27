@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.323, 
+              46.706
+            ], 
+            [
+              1.323, 
+              46.715
+            ], 
+            [
+              1.336, 
+              46.715
+            ], 
+            [
+              1.336, 
+              46.706
+            ], 
+            [
+              1.323, 
+              46.706
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598520, 
+        "name": "La Grand Maison", 
+        "adjacent_woeid": [
+          585898, 
+          597225, 
+          611038, 
+          611492, 
+          614745, 
+          621527
+        ], 
+        "ne_latitude": 46.715, 
+        "ne_longitude": 1.336, 
+        "longitude": 1.330, 
+        "parent_woeid": 12646147, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Grand-maison"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.711, 
+        "sw_longitude": 1.323, 
+        "fullname": "La Grand Maison, Centre, Indre, France", 
+        "sw_latitude": 46.706
+      }, 
+      "id": 598520
+    }
+  ]
+}

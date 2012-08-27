@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.793, 
+              23.341
+            ], 
+            [
+              -100.793, 
+              23.359
+            ], 
+            [
+              -100.773, 
+              23.359
+            ], 
+            [
+              -100.773, 
+              23.341
+            ], 
+            [
+              -100.793, 
+              23.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.359, 
+        "name": "El Leoncito", 
+        "adjacent_woeid": [
+          125768, 
+          127798, 
+          129830, 
+          132688, 
+          141619, 
+          150847
+        ], 
+        "woeid": 120629, 
+        "alias_SPA_V": [
+          "Leoncito"
+        ], 
+        "ne_longitude": -100.773, 
+        "longitude": -100.783, 
+        "parent_woeid": 12601519, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.350, 
+        "sw_longitude": -100.793, 
+        "fullname": "El Leoncito, San Luis Potosi, Villa de Guadalupe, Mexico", 
+        "sw_latitude": 23.341
+      }, 
+      "id": 120629
+    }
+  ]
+}

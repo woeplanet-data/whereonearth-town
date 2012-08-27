@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.123, 
+              44.495
+            ], 
+            [
+              3.123, 
+              44.572
+            ], 
+            [
+              3.207, 
+              44.572
+            ], 
+            [
+              3.207, 
+              44.495
+            ], 
+            [
+              3.123, 
+              44.495
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 607407, 
+        "name": "Les Salces", 
+        "adjacent_woeid": [
+          577320, 
+          585869, 
+          603673, 
+          606565, 
+          609814, 
+          612687, 
+          625134, 
+          629208
+        ], 
+        "ne_latitude": 44.572, 
+        "ne_longitude": 3.207, 
+        "longitude": 3.161, 
+        "parent_woeid": 12665500, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Salses"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.534, 
+        "sw_longitude": 3.123, 
+        "fullname": "Les Salces, Languedoc-Roussillon, Lozere, France", 
+        "sw_latitude": 44.495
+      }, 
+      "id": 607407
+    }
+  ]
+}

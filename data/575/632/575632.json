@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.769, 
+              48.959
+            ], 
+            [
+              0.769, 
+              48.984
+            ], 
+            [
+              0.786, 
+              48.984
+            ], 
+            [
+              0.786, 
+              48.959
+            ], 
+            [
+              0.769, 
+              48.959
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575632, 
+        "name": "Ajou", 
+        "adjacent_woeid": [
+          584276, 
+          598756, 
+          20219618, 
+          29330728
+        ], 
+        "ne_latitude": 48.984, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.786, 
+        "longitude": 0.782, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12636871, 
+        "latitude": 48.979, 
+        "sw_longitude": 0.769, 
+        "fullname": "Ajou, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.959
+      }, 
+      "id": 575632
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.127, 
+              49.297
+            ], 
+            [
+              -123.127, 
+              49.451
+            ], 
+            [
+              -122.863, 
+              49.451
+            ], 
+            [
+              -122.863, 
+              49.297
+            ], 
+            [
+              -123.127, 
+              49.297
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9794, 
+        "name": "North Vancouver", 
+        "adjacent_woeid": [
+          9152, 
+          9225, 
+          9786, 
+          9790, 
+          23404887, 
+          23404889, 
+          23405454, 
+          23405764, 
+          29372896, 
+          29372897, 
+          29372930, 
+          29374053, 
+          29374869
+        ], 
+        "ne_latitude": 49.451, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Northvancouver"
+        ], 
+        "ne_longitude": -122.863, 
+        "longitude": -123.074, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375222, 
+        "latitude": 49.321, 
+        "sw_longitude": -123.127, 
+        "fullname": "North Vancouver, British Columbia, Greater Vancouver, Canada", 
+        "sw_latitude": 49.297
+      }, 
+      "id": 9794
+    }
+  ]
+}

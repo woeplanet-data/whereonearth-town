@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.201, 
+              52.089
+            ], 
+            [
+              -122.201, 
+              52.199
+            ], 
+            [
+              -122.024, 
+              52.199
+            ], 
+            [
+              -122.024, 
+              52.089
+            ], 
+            [
+              -122.201, 
+              52.089
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9583, 
+        "name": "Williams Lake", 
+        "adjacent_woeid": [
+          9586, 
+          9587, 
+          9588, 
+          9604, 
+          29373950, 
+          56121072
+        ], 
+        "ne_latitude": 52.199, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "YWL"
+        ], 
+        "ne_longitude": -122.024, 
+        "longitude": -122.141, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375153, 
+        "latitude": 52.129, 
+        "sw_longitude": -122.201, 
+        "fullname": "Williams Lake, British Columbia, Cariboo, Canada", 
+        "sw_latitude": 52.089
+      }, 
+      "id": 9583
+    }
+  ]
+}

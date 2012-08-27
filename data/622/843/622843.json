@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.195, 
+              45.962
+            ], 
+            [
+              2.195, 
+              45.987
+            ], 
+            [
+              2.223, 
+              45.987
+            ], 
+            [
+              2.223, 
+              45.962
+            ], 
+            [
+              2.195, 
+              45.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622843, 
+        "name": "St.-Amand", 
+        "adjacent_woeid": [
+          597667, 
+          622834, 
+          625385
+        ], 
+        "ne_latitude": 45.987, 
+        "ne_longitude": 2.223, 
+        "longitude": 2.209, 
+        "parent_woeid": 12659781, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Amand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.981, 
+        "sw_longitude": 2.195, 
+        "fullname": "St.-Amand, Limousin, Creuse, France", 
+        "sw_latitude": 45.962
+      }, 
+      "id": 622843
+    }
+  ]
+}

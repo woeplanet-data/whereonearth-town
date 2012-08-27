@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.944, 
+              27.091
+            ], 
+            [
+              -108.944, 
+              27.109
+            ], 
+            [
+              -108.923, 
+              27.109
+            ], 
+            [
+              -108.923, 
+              27.091
+            ], 
+            [
+              -108.944, 
+              27.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.109, 
+        "name": "La Higuera", 
+        "adjacent_woeid": [
+          111765, 
+          113720, 
+          116677, 
+          122239, 
+          132455, 
+          133700, 
+          136723
+        ], 
+        "woeid": 127670, 
+        "alias_SPA_V": [
+          "Higuera"
+        ], 
+        "ne_longitude": -108.923, 
+        "longitude": -108.933, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.100, 
+        "sw_longitude": -108.944, 
+        "fullname": "La Higuera, Sonora, Alamos, Mexico", 
+        "sw_latitude": 27.091
+      }, 
+      "id": 127670
+    }
+  ]
+}

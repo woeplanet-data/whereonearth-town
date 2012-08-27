@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.225, 
+              55.283
+            ], 
+            [
+              10.225, 
+              55.303
+            ], 
+            [
+              10.260, 
+              55.303
+            ], 
+            [
+              10.260, 
+              55.283
+            ], 
+            [
+              10.225, 
+              55.283
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 554101, 
+        "name": "Hjelmerup", 
+        "adjacent_woeid": [
+          553296, 
+          557313, 
+          558594, 
+          558804
+        ], 
+        "ne_latitude": 55.303, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.260, 
+        "longitude": 10.242, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:02Z", 
+        "parent_woeid": 12582667, 
+        "latitude": 55.293, 
+        "sw_longitude": 10.225, 
+        "fullname": "Hjelmerup, Syddanmark, Assens, Denmark", 
+        "sw_latitude": 55.283
+      }, 
+      "id": 554101
+    }
+  ]
+}

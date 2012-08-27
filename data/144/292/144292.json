@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.410, 
+              23.558
+            ], 
+            [
+              -105.410, 
+              23.576
+            ], 
+            [
+              -105.390, 
+              23.576
+            ], 
+            [
+              -105.390, 
+              23.558
+            ], 
+            [
+              -105.410, 
+              23.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.576, 
+        "name": "San Manuel", 
+        "adjacent_woeid": [
+          117459, 
+          125638, 
+          130154, 
+          132190, 
+          140559, 
+          146320
+        ], 
+        "woeid": 144292, 
+        "alias_SPA_V": [
+          "S. Manuel"
+        ], 
+        "ne_longitude": -105.390, 
+        "longitude": -105.400, 
+        "parent_woeid": 12599973, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.567, 
+        "sw_longitude": -105.410, 
+        "fullname": "San Manuel, Durango, Pueblo Nuevo, Mexico", 
+        "sw_latitude": 23.558
+      }, 
+      "id": 144292
+    }
+  ]
+}

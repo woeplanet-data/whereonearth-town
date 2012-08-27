@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.283, 
+              45.695
+            ], 
+            [
+              4.283, 
+              45.726
+            ], 
+            [
+              4.325, 
+              45.726
+            ], 
+            [
+              4.325, 
+              45.695
+            ], 
+            [
+              4.283, 
+              45.695
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629831, 
+        "name": "Valeille", 
+        "adjacent_woeid": [
+          620821, 
+          623201, 
+          623672, 
+          625169, 
+          632420
+        ], 
+        "ne_latitude": 45.726, 
+        "ne_longitude": 4.325, 
+        "longitude": 4.306, 
+        "parent_woeid": 12657270, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Valeilles"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.707, 
+        "sw_longitude": 4.283, 
+        "fullname": "Valeille, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.695
+      }, 
+      "id": 629831
+    }
+  ]
+}

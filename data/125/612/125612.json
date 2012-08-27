@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.199, 
+              20.998
+            ], 
+            [
+              -99.199, 
+              21.017
+            ], 
+            [
+              -99.179, 
+              21.017
+            ], 
+            [
+              -99.179, 
+              20.998
+            ], 
+            [
+              -99.199, 
+              20.998
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.017, 
+        "name": "Jacala", 
+        "adjacent_woeid": [
+          111375, 
+          111378, 
+          117887, 
+          124884, 
+          131967, 
+          55916564
+        ], 
+        "woeid": 125612, 
+        "alias_SPA_V": [
+          "Xacala"
+        ], 
+        "ne_longitude": -99.179, 
+        "longitude": -99.191, 
+        "parent_woeid": 12600140, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.008, 
+        "sw_longitude": -99.199, 
+        "fullname": "Jacala, Hidalgo, Jacala de Ledezma, Mexico", 
+        "sw_latitude": 20.998
+      }, 
+      "id": 125612
+    }
+  ]
+}

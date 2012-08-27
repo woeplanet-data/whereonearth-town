@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.425, 
+              49.056
+            ], 
+            [
+              12.425, 
+              49.065
+            ], 
+            [
+              12.439, 
+              49.065
+            ], 
+            [
+              12.439, 
+              49.056
+            ], 
+            [
+              12.425, 
+              49.056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709280, 
+        "name": "Zumhof", 
+        "adjacent_woeid": [
+          636138, 
+          649168, 
+          20155602, 
+          20172306
+        ], 
+        "ne_latitude": 49.065, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.439, 
+        "longitude": 12.432, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12623108, 
+        "latitude": 49.061, 
+        "sw_longitude": 12.425, 
+        "fullname": "Zumhof, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 49.056
+      }, 
+      "id": 709280
+    }
+  ]
+}

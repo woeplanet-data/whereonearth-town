@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.947, 
+              49.182
+            ], 
+            [
+              3.947, 
+              49.200
+            ], 
+            [
+              3.975, 
+              49.200
+            ], 
+            [
+              3.975, 
+              49.182
+            ], 
+            [
+              3.947, 
+              49.182
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333546, 
+        "name": "La Garenne", 
+        "adjacent_woeid": [
+          579803, 
+          589490, 
+          620577, 
+          631992
+        ], 
+        "ne_latitude": 49.200, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.975, 
+        "longitude": 3.961, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12643238, 
+        "latitude": 49.191, 
+        "sw_longitude": 3.947, 
+        "fullname": "La Garenne, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.182
+      }, 
+      "id": 29333546
+    }
+  ]
+}

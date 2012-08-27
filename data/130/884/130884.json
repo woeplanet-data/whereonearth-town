@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.110, 
+              25.474
+            ], 
+            [
+              -100.110, 
+              25.492
+            ], 
+            [
+              -100.090, 
+              25.492
+            ], 
+            [
+              -100.090, 
+              25.474
+            ], 
+            [
+              -100.110, 
+              25.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.492, 
+        "name": "Las Sabinas", 
+        "adjacent_woeid": [
+          124999, 
+          126481, 
+          126870, 
+          132388, 
+          144404
+        ], 
+        "woeid": 130884, 
+        "alias_SPA_V": [
+          "Sabinas"
+        ], 
+        "ne_longitude": -100.090, 
+        "longitude": -100.100, 
+        "parent_woeid": 12600654, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.483, 
+        "sw_longitude": -100.110, 
+        "fullname": "Las Sabinas, Nuevo Leon, Santiago, Mexico", 
+        "sw_latitude": 25.474
+      }, 
+      "id": 130884
+    }
+  ]
+}

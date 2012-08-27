@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -6.636, 
+              41.075
+            ], 
+            [
+              -6.636, 
+              41.133
+            ], 
+            [
+              -6.552, 
+              41.133
+            ], 
+            [
+              -6.552, 
+              41.075
+            ], 
+            [
+              -6.636, 
+              41.075
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.133, 
+        "name": "Milano", 
+        "adjacent_woeid": [
+          755282, 
+          757316, 
+          778554
+        ], 
+        "woeid": 767178, 
+        "alias_SPA_V": [
+          "El Milano"
+        ], 
+        "ne_longitude": -6.552, 
+        "longitude": -6.599, 
+        "parent_woeid": 12692325, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.092, 
+        "sw_longitude": -6.636, 
+        "fullname": "Milano, Castille and Leon, Salamanca, Spain", 
+        "sw_latitude": 41.075
+      }, 
+      "id": 767178
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.422, 
+              42.802
+            ], 
+            [
+              0.422, 
+              42.840
+            ], 
+            [
+              0.465, 
+              42.840
+            ], 
+            [
+              0.465, 
+              42.802
+            ], 
+            [
+              0.422, 
+              42.802
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612071, 
+        "name": "Mont", 
+        "adjacent_woeid": [
+          583503, 
+          590163, 
+          595774, 
+          608721, 
+          617590
+        ], 
+        "ne_latitude": 42.840, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.465, 
+        "longitude": 0.430, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12666891, 
+        "latitude": 42.816, 
+        "sw_longitude": 0.422, 
+        "fullname": "Mont, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 42.802
+      }, 
+      "id": 612071
+    }
+  ]
+}

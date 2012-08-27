@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.461, 
+              48.221
+            ], 
+            [
+              0.461, 
+              48.260
+            ], 
+            [
+              0.507, 
+              48.260
+            ], 
+            [
+              0.507, 
+              48.221
+            ], 
+            [
+              0.461, 
+              48.221
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614393, 
+        "name": "Nogent-le-Bernard", 
+        "adjacent_woeid": [
+          579184, 
+          586882, 
+          588577, 
+          597448, 
+          617764, 
+          620201, 
+          623603, 
+          624211
+        ], 
+        "ne_latitude": 48.260, 
+        "ne_longitude": 0.507, 
+        "longitude": 0.490, 
+        "parent_woeid": 12663231, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Nogent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.237, 
+        "sw_longitude": 0.461, 
+        "fullname": "Nogent-le-Bernard, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.221
+      }, 
+      "id": 614393
+    }
+  ]
+}

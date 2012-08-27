@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.011, 
+              46.477
+            ], 
+            [
+              3.011, 
+              46.505
+            ], 
+            [
+              3.042, 
+              46.505
+            ], 
+            [
+              3.042, 
+              46.477
+            ], 
+            [
+              3.011, 
+              46.477
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624526, 
+        "name": "St.-Hilaire", 
+        "adjacent_woeid": [
+          585372, 
+          592902, 
+          619713, 
+          623110, 
+          627005, 
+          20204979
+        ], 
+        "ne_latitude": 46.505, 
+        "ne_longitude": 3.042, 
+        "longitude": 3.020, 
+        "parent_woeid": 22754933, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hilaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.495, 
+        "sw_longitude": 3.011, 
+        "fullname": "St.-Hilaire, Auvergne, Allier, France", 
+        "sw_latitude": 46.477
+      }, 
+      "id": 624526
+    }
+  ]
+}

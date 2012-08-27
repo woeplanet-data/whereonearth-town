@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.910, 
+              27.191
+            ], 
+            [
+              -108.910, 
+              27.209
+            ], 
+            [
+              -108.890, 
+              27.209
+            ], 
+            [
+              -108.890, 
+              27.191
+            ], 
+            [
+              -108.910, 
+              27.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.209, 
+        "name": "Los Tanques", 
+        "adjacent_woeid": [
+          116677, 
+          120066, 
+          120297, 
+          127670, 
+          131648, 
+          132478, 
+          136723, 
+          148459
+        ], 
+        "woeid": 132455, 
+        "alias_SPA_V": [
+          "Tanques"
+        ], 
+        "ne_longitude": -108.890, 
+        "longitude": -108.900, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.200, 
+        "sw_longitude": -108.910, 
+        "fullname": "Los Tanques, Sonora, Alamos, Mexico", 
+        "sw_latitude": 27.191
+      }, 
+      "id": 132455
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.521, 
+              51.208
+            ], 
+            [
+              10.521, 
+              51.238
+            ], 
+            [
+              10.570, 
+              51.238
+            ], 
+            [
+              10.570, 
+              51.208
+            ], 
+            [
+              10.521, 
+              51.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160802, 
+        "name": "Grabe", 
+        "adjacent_woeid": [
+          640078, 
+          653366, 
+          668316, 
+          690611, 
+          702620, 
+          20160796
+        ], 
+        "ne_latitude": 51.238, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.570, 
+        "longitude": 10.543, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12624861, 
+        "latitude": 51.227, 
+        "sw_longitude": 10.521, 
+        "fullname": "Grabe, Thuringia, Unstrut-Hainich-Kreis, Germany", 
+        "sw_latitude": 51.208
+      }, 
+      "id": 20160802
+    }
+  ]
+}

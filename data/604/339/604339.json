@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.853, 
+              45.018
+            ], 
+            [
+              3.853, 
+              45.065
+            ], 
+            [
+              3.918, 
+              45.065
+            ], 
+            [
+              3.918, 
+              45.018
+            ], 
+            [
+              3.853, 
+              45.018
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604339, 
+        "name": "Le Puy-en-Velay", 
+        "adjacent_woeid": [
+          577887, 
+          582044, 
+          583823, 
+          590042, 
+          608722, 
+          615256, 
+          615379, 
+          626315, 
+          628116, 
+          629987, 
+          632624, 
+          15002915, 
+          20206588
+        ], 
+        "ne_latitude": 45.065, 
+        "ne_longitude": 3.918, 
+        "longitude": 3.883, 
+        "parent_woeid": 22754962, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Puy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.042, 
+        "sw_longitude": 3.853, 
+        "fullname": "Le Puy-en-Velay, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.018
+      }, 
+      "id": 604339
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.810, 
+              27.891
+            ], 
+            [
+              -107.810, 
+              27.909
+            ], 
+            [
+              -107.790, 
+              27.909
+            ], 
+            [
+              -107.790, 
+              27.891
+            ], 
+            [
+              -107.810, 
+              27.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.909, 
+        "name": "La Laguna", 
+        "adjacent_woeid": [
+          113223, 
+          116164, 
+          121793, 
+          132698, 
+          136876
+        ], 
+        "woeid": 127906, 
+        "alias_SPA_V": [
+          "Rancho la Laguna"
+        ], 
+        "ne_longitude": -107.790, 
+        "longitude": -107.800, 
+        "parent_woeid": 12599827, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.900, 
+        "sw_longitude": -107.810, 
+        "fullname": "La Laguna, Chihuahua, Bocoyna, Mexico", 
+        "sw_latitude": 27.891
+      }, 
+      "id": 127906
+    }
+  ]
+}

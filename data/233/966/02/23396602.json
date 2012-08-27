@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.051, 
+              45.904
+            ], 
+            [
+              -73.051, 
+              46.034
+            ], 
+            [
+              -72.923, 
+              46.034
+            ], 
+            [
+              -72.923, 
+              45.904
+            ], 
+            [
+              -73.051, 
+              45.904
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396602, 
+        "name": "St.-Robert", 
+        "adjacent_woeid": [
+          3504, 
+          23394662, 
+          23395647, 
+          23395684, 
+          23396510
+        ], 
+        "ne_latitude": 46.034, 
+        "ne_longitude": -72.923, 
+        "longitude": -73.000, 
+        "parent_woeid": 29375092, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Robert"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.972, 
+        "sw_longitude": -73.051, 
+        "fullname": "St.-Robert, Quebec, Le Bas-Richelieu, Canada", 
+        "sw_latitude": 45.904
+      }, 
+      "id": 23396602
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.722, 
+              49.222
+            ], 
+            [
+              1.722, 
+              49.252
+            ], 
+            [
+              1.752, 
+              49.252
+            ], 
+            [
+              1.752, 
+              49.222
+            ], 
+            [
+              1.722, 
+              49.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 581337, 
+        "name": "Boury-en-Vexin", 
+        "adjacent_woeid": [
+          581849, 
+          584062, 
+          587413, 
+          592939, 
+          601664, 
+          602107, 
+          615721, 
+          630220, 
+          20218170
+        ], 
+        "ne_latitude": 49.252, 
+        "ne_longitude": 1.752, 
+        "longitude": 1.738, 
+        "parent_woeid": 22755728, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Boury"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.240, 
+        "sw_longitude": 1.722, 
+        "fullname": "Boury-en-Vexin, Picardie, Oise, France", 
+        "sw_latitude": 49.222
+      }, 
+      "id": 581337
+    }
+  ]
+}

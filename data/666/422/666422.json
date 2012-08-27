@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.020, 
+              51.999
+            ], 
+            [
+              10.020, 
+              52.041
+            ], 
+            [
+              10.048, 
+              52.041
+            ], 
+            [
+              10.048, 
+              51.999
+            ], 
+            [
+              10.020, 
+              51.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666422, 
+        "name": "Klein Ilde", 
+        "adjacent_woeid": [
+          639809, 
+          642394, 
+          649084, 
+          654531, 
+          701812
+        ], 
+        "ne_latitude": 52.041, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.048, 
+        "longitude": 10.037, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12629481, 
+        "latitude": 52.015, 
+        "sw_longitude": 10.020, 
+        "fullname": "Klein Ilde, Lower Saxony, Landkreis Hildesheim, Germany", 
+        "sw_latitude": 51.999
+      }, 
+      "id": 666422
+    }
+  ]
+}

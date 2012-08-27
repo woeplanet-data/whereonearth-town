@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.838, 
+              49.756
+            ], 
+            [
+              10.838, 
+              49.790
+            ], 
+            [
+              10.860, 
+              49.790
+            ], 
+            [
+              10.860, 
+              49.756
+            ], 
+            [
+              10.838, 
+              49.756
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706849, 
+        "name": "Wind", 
+        "adjacent_woeid": [
+          690878, 
+          693823, 
+          706963
+        ], 
+        "ne_latitude": 49.790, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.860, 
+        "longitude": 10.849, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635244, 
+        "latitude": 49.777, 
+        "sw_longitude": 10.838, 
+        "fullname": "Wind, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.756
+      }, 
+      "id": 706849
+    }
+  ]
+}

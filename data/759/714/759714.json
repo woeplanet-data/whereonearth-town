@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.123, 
+              37.009
+            ], 
+            [
+              -5.123, 
+              37.153
+            ], 
+            [
+              -5.084, 
+              37.153
+            ], 
+            [
+              -5.084, 
+              37.009
+            ], 
+            [
+              -5.123, 
+              37.009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.153, 
+        "name": "Saucejo", 
+        "adjacent_woeid": [
+          752056, 
+          752178, 
+          755938, 
+          763695, 
+          765706, 
+          768273, 
+          769006, 
+          778134, 
+          20225449
+        ], 
+        "woeid": 759714, 
+        "alias_SPA_V": [
+          "El Saucejo"
+        ], 
+        "ne_longitude": -5.084, 
+        "longitude": -5.097, 
+        "parent_woeid": 12689382, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.070, 
+        "sw_longitude": -5.123, 
+        "fullname": "Saucejo, Andalusia, Seville, Spain", 
+        "sw_latitude": 37.009
+      }, 
+      "id": 759714
+    }
+  ]
+}

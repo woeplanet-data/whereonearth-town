@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.374, 
+              45.825
+            ], 
+            [
+              0.374, 
+              45.837
+            ], 
+            [
+              0.410, 
+              45.837
+            ], 
+            [
+              0.410, 
+              45.825
+            ], 
+            [
+              0.374, 
+              45.825
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625786, 
+        "name": "St.-Mary", 
+        "adjacent_woeid": [
+          576785, 
+          585331, 
+          600050, 
+          607147
+        ], 
+        "ne_latitude": 45.837, 
+        "ne_longitude": 0.410, 
+        "longitude": 0.388, 
+        "parent_woeid": 12655583, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mary"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.833, 
+        "sw_longitude": 0.374, 
+        "fullname": "St.-Mary, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.825
+      }, 
+      "id": 625786
+    }
+  ]
+}

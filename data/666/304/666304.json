@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.659, 
+              52.359
+            ], 
+            [
+              10.659, 
+              52.385
+            ], 
+            [
+              10.696, 
+              52.385
+            ], 
+            [
+              10.696, 
+              52.359
+            ], 
+            [
+              10.659, 
+              52.359
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666304, 
+        "name": "Klein Brunsrode", 
+        "adjacent_woeid": [
+          648830, 
+          649895, 
+          654430, 
+          664050
+        ], 
+        "ne_latitude": 52.385, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.696, 
+        "longitude": 10.676, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630378, 
+        "latitude": 52.371, 
+        "sw_longitude": 10.659, 
+        "fullname": "Klein Brunsrode, Lower Saxony, Landkreis Helmstedt, Germany", 
+        "sw_latitude": 52.359
+      }, 
+      "id": 666304
+    }
+  ]
+}

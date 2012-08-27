@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.726, 
+              21.241
+            ], 
+            [
+              -100.726, 
+              21.259
+            ], 
+            [
+              -100.707, 
+              21.259
+            ], 
+            [
+              -100.707, 
+              21.241
+            ], 
+            [
+              -100.726, 
+              21.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.259, 
+        "name": "Palma Prieta", 
+        "adjacent_woeid": [
+          120633, 
+          141651, 
+          142948
+        ], 
+        "woeid": 135573, 
+        "alias_SPA_V": [
+          "Palma"
+        ], 
+        "ne_longitude": -100.707, 
+        "longitude": -100.717, 
+        "parent_woeid": 12600002, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.250, 
+        "sw_longitude": -100.726, 
+        "fullname": "Palma Prieta, Guanajuato, Dolores Hidalgo, Mexico", 
+        "sw_latitude": 21.241
+      }, 
+      "id": 135573
+    }
+  ]
+}

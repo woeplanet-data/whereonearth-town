@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.484, 
+              50.234
+            ], 
+            [
+              5.484, 
+              50.252
+            ], 
+            [
+              5.513, 
+              50.252
+            ], 
+            [
+              5.513, 
+              50.234
+            ], 
+            [
+              5.484, 
+              50.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 976162, 
+        "name": "Rendeux Bas", 
+        "adjacent_woeid": [
+          967034, 
+          970614, 
+          976161, 
+          977946, 
+          978583
+        ], 
+        "ne_latitude": 50.252, 
+        "ne_longitude": 5.513, 
+        "longitude": 5.498, 
+        "parent_woeid": 12602278, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Rendeux-Bas"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.243, 
+        "sw_longitude": 5.484, 
+        "fullname": "Rendeux Bas, Luxemburg, Marche-en-Famenne, Belgium", 
+        "sw_latitude": 50.234
+      }, 
+      "id": 976162
+    }
+  ]
+}

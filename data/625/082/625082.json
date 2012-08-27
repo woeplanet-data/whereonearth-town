@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.389, 
+              48.224
+            ], 
+            [
+              -2.389, 
+              48.242
+            ], 
+            [
+              -2.362, 
+              48.242
+            ], 
+            [
+              -2.362, 
+              48.224
+            ], 
+            [
+              -2.389, 
+              48.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625082, 
+        "name": "St.-Launeuc", 
+        "adjacent_woeid": [
+          589875, 
+          601341, 
+          611122, 
+          629262
+        ], 
+        "ne_latitude": 48.242, 
+        "ne_longitude": -2.362, 
+        "longitude": -2.375, 
+        "parent_woeid": 12646349, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Launeuc"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.233, 
+        "sw_longitude": -2.389, 
+        "fullname": "St.-Launeuc, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.224
+      }, 
+      "id": 625082
+    }
+  ]
+}

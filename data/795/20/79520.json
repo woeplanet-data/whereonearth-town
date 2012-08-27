@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.202, 
+              13.953
+            ], 
+            [
+              -88.202, 
+              13.967
+            ], 
+            [
+              -88.188, 
+              13.967
+            ], 
+            [
+              -88.188, 
+              13.953
+            ], 
+            [
+              -88.202, 
+              13.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.967, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          76870, 
+          78268, 
+          79245, 
+          80109
+        ], 
+        "woeid": 79520, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -88.188, 
+        "longitude": -88.195, 
+        "parent_woeid": 26808672, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.960, 
+        "sw_longitude": -88.202, 
+        "fullname": "San Fernando, Moraz\u00e1n, San Fernando, El Salvador", 
+        "sw_latitude": 13.953
+      }, 
+      "id": 79520
+    }
+  ]
+}

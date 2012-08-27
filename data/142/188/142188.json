@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.340, 
+              24.373
+            ], 
+            [
+              -107.340, 
+              24.391
+            ], 
+            [
+              -107.320, 
+              24.391
+            ], 
+            [
+              -107.320, 
+              24.373
+            ], 
+            [
+              -107.340, 
+              24.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.391, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          117131, 
+          117510, 
+          119365, 
+          127093, 
+          133557, 
+          134414, 
+          142069, 
+          143303, 
+          144287, 
+          55903145, 
+          56074919, 
+          56074921
+        ], 
+        "woeid": 142188, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -107.320, 
+        "longitude": -107.330, 
+        "parent_woeid": 12601533, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.382, 
+        "sw_longitude": -107.340, 
+        "fullname": "San Diego, Sinaloa, Culiacan, Mexico", 
+        "sw_latitude": 24.373
+      }, 
+      "id": 142188
+    }
+  ]
+}

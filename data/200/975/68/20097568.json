@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.305, 
+              46.994
+            ], 
+            [
+              15.305, 
+              47.012
+            ], 
+            [
+              15.332, 
+              47.012
+            ], 
+            [
+              15.332, 
+              46.994
+            ], 
+            [
+              15.305, 
+              46.994
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20097568, 
+        "name": "Stein Siedlung", 
+        "adjacent_woeid": [
+          548094, 
+          549123, 
+          549843, 
+          20097241, 
+          20097565
+        ], 
+        "ne_latitude": 47.012, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.332, 
+        "longitude": 15.318, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:17Z", 
+        "parent_woeid": 12674865, 
+        "latitude": 47.003, 
+        "sw_longitude": 15.305, 
+        "fullname": "Stein Siedlung, Styria, Graz, Austria", 
+        "sw_latitude": 46.994
+      }, 
+      "id": 20097568
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.502, 
+              49.411
+            ], 
+            [
+              10.502, 
+              49.430
+            ], 
+            [
+              10.519, 
+              49.430
+            ], 
+            [
+              10.519, 
+              49.411
+            ], 
+            [
+              10.502, 
+              49.411
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702433, 
+        "name": "Virnsberg", 
+        "adjacent_woeid": [
+          640574, 
+          665429, 
+          679079, 
+          707169
+        ], 
+        "ne_latitude": 49.430, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.519, 
+        "longitude": 10.512, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12634401, 
+        "latitude": 49.424, 
+        "sw_longitude": 10.502, 
+        "fullname": "Virnsberg, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.411
+      }, 
+      "id": 702433
+    }
+  ]
+}

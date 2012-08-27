@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.444, 
+              49.759
+            ], 
+            [
+              10.444, 
+              49.785
+            ], 
+            [
+              10.464, 
+              49.785
+            ], 
+            [
+              10.464, 
+              49.759
+            ], 
+            [
+              10.444, 
+              49.759
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670102, 
+        "name": "Langenberg", 
+        "adjacent_woeid": [
+          646068, 
+          653768, 
+          687421, 
+          689338
+        ], 
+        "ne_latitude": 49.785, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.464, 
+        "longitude": 10.456, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12635569, 
+        "latitude": 49.772, 
+        "sw_longitude": 10.444, 
+        "fullname": "Langenberg, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.759
+      }, 
+      "id": 670102
+    }
+  ]
+}

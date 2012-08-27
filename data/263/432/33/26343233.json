@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.791, 
+              39.863
+            ], 
+            [
+              -74.791, 
+              39.981
+            ], 
+            [
+              -74.596, 
+              39.981
+            ], 
+            [
+              -74.596, 
+              39.863
+            ], 
+            [
+              -74.791, 
+              39.863
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 26343233, 
+        "name": "Southampton", 
+        "adjacent_woeid": [
+          2448934, 
+          2470067, 
+          2498285, 
+          2503464, 
+          26342928, 
+          28745317
+        ], 
+        "ne_latitude": 39.981, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Southampton Township"
+        ], 
+        "ne_longitude": -74.596, 
+        "longitude": -74.717, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589260, 
+        "latitude": 39.920, 
+        "sw_longitude": -74.791, 
+        "fullname": "Southampton, New Jersey, Burlington, United States", 
+        "sw_latitude": 39.863
+      }, 
+      "id": 26343233
+    }
+  ]
+}

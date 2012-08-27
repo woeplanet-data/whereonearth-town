@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.171, 
+              49.279
+            ], 
+            [
+              10.171, 
+              49.301
+            ], 
+            [
+              10.191, 
+              49.301
+            ], 
+            [
+              10.191, 
+              49.279
+            ], 
+            [
+              10.171, 
+              49.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20158699, 
+        "name": "Sandhof", 
+        "adjacent_woeid": [
+          644431, 
+          670977, 
+          20158668, 
+          20158669
+        ], 
+        "ne_latitude": 49.301, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.191, 
+        "longitude": 10.182, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12634407, 
+        "latitude": 49.290, 
+        "sw_longitude": 10.171, 
+        "fullname": "Sandhof, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.279
+      }, 
+      "id": 20158699
+    }
+  ]
+}

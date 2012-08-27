@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.710, 
+              28.108
+            ], 
+            [
+              -105.710, 
+              28.126
+            ], 
+            [
+              -105.690, 
+              28.126
+            ], 
+            [
+              -105.690, 
+              28.108
+            ], 
+            [
+              -105.710, 
+              28.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.126, 
+        "name": "San Lucas", 
+        "adjacent_woeid": [
+          120948, 
+          124920, 
+          134284, 
+          145050, 
+          146033, 
+          146207
+        ], 
+        "woeid": 144165, 
+        "alias_SPA_V": [
+          "S Lucas"
+        ], 
+        "ne_longitude": -105.690, 
+        "longitude": -105.700, 
+        "parent_woeid": 12599874, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.117, 
+        "sw_longitude": -105.710, 
+        "fullname": "San Lucas, Chihuahua, Rosales, Mexico", 
+        "sw_latitude": 28.108
+      }, 
+      "id": 144165
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.549, 
+              17.097
+            ], 
+            [
+              -97.549, 
+              17.115
+            ], 
+            [
+              -97.530, 
+              17.115
+            ], 
+            [
+              -97.530, 
+              17.097
+            ], 
+            [
+              -97.549, 
+              17.097
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.115, 
+        "name": "San Pedro Molinos", 
+        "adjacent_woeid": [
+          115559, 
+          136408, 
+          141885, 
+          142291, 
+          144649, 
+          145846, 
+          26797923
+        ], 
+        "woeid": 145110, 
+        "alias_SPA_V": [
+          "S. Pedro Molinos"
+        ], 
+        "ne_longitude": -97.530, 
+        "longitude": -97.540, 
+        "parent_woeid": 12600978, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.106, 
+        "sw_longitude": -97.549, 
+        "fullname": "San Pedro Molinos, Oaxaca, San Pedro Molinos, Mexico", 
+        "sw_latitude": 17.097
+      }, 
+      "id": 145110
+    }
+  ]
+}

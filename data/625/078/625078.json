@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.880, 
+              42.916
+            ], 
+            [
+              0.880, 
+              42.955
+            ], 
+            [
+              0.905, 
+              42.955
+            ], 
+            [
+              0.905, 
+              42.916
+            ], 
+            [
+              0.880, 
+              42.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625078, 
+        "name": "St.-Lary", 
+        "adjacent_woeid": [
+          576305, 
+          577204, 
+          581431, 
+          592348, 
+          610898, 
+          15003165
+        ], 
+        "ne_latitude": 42.955, 
+        "ne_longitude": 0.905, 
+        "longitude": 0.895, 
+        "parent_woeid": 12670714, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lary"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.929, 
+        "sw_longitude": 0.880, 
+        "fullname": "St.-Lary, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 42.916
+      }, 
+      "id": 625078
+    }
+  ]
+}

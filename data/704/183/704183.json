@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.869, 
+              50.171
+            ], 
+            [
+              10.869, 
+              50.203
+            ], 
+            [
+              10.901, 
+              50.203
+            ], 
+            [
+              10.901, 
+              50.171
+            ], 
+            [
+              10.869, 
+              50.171
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704183, 
+        "name": "Watzendorf", 
+        "adjacent_woeid": [
+          642038, 
+          653470, 
+          669180, 
+          678988, 
+          705167, 
+          708889, 
+          20172890
+        ], 
+        "ne_latitude": 50.203, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.901, 
+        "longitude": 10.890, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:56Z", 
+        "parent_woeid": 12635290, 
+        "latitude": 50.189, 
+        "sw_longitude": 10.869, 
+        "fullname": "Watzendorf, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.171
+      }, 
+      "id": 704183
+    }
+  ]
+}

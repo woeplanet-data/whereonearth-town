@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.902, 
+              10.591
+            ], 
+            [
+              -66.902, 
+              10.616
+            ], 
+            [
+              -66.877, 
+              10.616
+            ], 
+            [
+              -66.877, 
+              10.591
+            ], 
+            [
+              -66.902, 
+              10.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.616, 
+        "name": "La Guaira", 
+        "adjacent_woeid": [
+          385470, 
+          390420, 
+          468274, 
+          26808462
+        ], 
+        "woeid": 468419, 
+        "alias_SPA_V": [
+          "La Guayra"
+        ], 
+        "ne_longitude": -66.877, 
+        "longitude": -66.889, 
+        "parent_woeid": 26805330, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.604, 
+        "sw_longitude": -66.902, 
+        "fullname": "La Guaira, Vargas, Vargas, Venezuela", 
+        "sw_latitude": 10.591
+      }, 
+      "id": 468419
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.357, 
+              43.953
+            ], 
+            [
+              2.357, 
+              43.980
+            ], 
+            [
+              2.390, 
+              43.980
+            ], 
+            [
+              2.390, 
+              43.953
+            ], 
+            [
+              2.357, 
+              43.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623509, 
+        "name": "St.-Cirgue", 
+        "adjacent_woeid": [
+          575895, 
+          576916, 
+          587528, 
+          621856, 
+          626011, 
+          29331470
+        ], 
+        "ne_latitude": 43.980, 
+        "ne_longitude": 2.390, 
+        "longitude": 2.373, 
+        "parent_woeid": 12670274, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cirgue"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.966, 
+        "sw_longitude": 2.357, 
+        "fullname": "St.-Cirgue, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.953
+      }, 
+      "id": 623509
+    }
+  ]
+}

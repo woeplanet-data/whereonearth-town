@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.669, 
+              39.720
+            ], 
+            [
+              -77.669, 
+              39.787
+            ], 
+            [
+              -77.459, 
+              39.787
+            ], 
+            [
+              -77.459, 
+              39.720
+            ], 
+            [
+              -77.669, 
+              39.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745390, 
+        "name": "Washington", 
+        "adjacent_woeid": [
+          2365841, 
+          2378514, 
+          2387039, 
+          2396458, 
+          2410808, 
+          2470111, 
+          2470274, 
+          2515648
+        ], 
+        "ne_latitude": 39.787, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Washington Township"
+        ], 
+        "ne_longitude": -77.459, 
+        "longitude": -77.524, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589755, 
+        "latitude": 39.738, 
+        "sw_longitude": -77.669, 
+        "fullname": "Washington, Pennsylvania, Franklin, United States", 
+        "sw_latitude": 39.720
+      }, 
+      "id": 28745390
+    }
+  ]
+}

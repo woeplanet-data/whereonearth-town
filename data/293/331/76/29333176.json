@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.860, 
+              49.440
+            ], 
+            [
+              1.860, 
+              49.458
+            ], 
+            [
+              1.888, 
+              49.458
+            ], 
+            [
+              1.888, 
+              49.440
+            ], 
+            [
+              1.860, 
+              49.440
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333176, 
+        "name": "La Haute Rue", 
+        "adjacent_woeid": [
+          580082, 
+          594875, 
+          20218241, 
+          29333351
+        ], 
+        "ne_latitude": 49.458, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.888, 
+        "longitude": 1.874, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "parent_woeid": 22755654, 
+        "latitude": 49.449, 
+        "sw_longitude": 1.860, 
+        "fullname": "La Haute Rue, Picardie, Oise, France", 
+        "sw_latitude": 49.440
+      }, 
+      "id": 29333176
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.489, 
+              47.518
+            ], 
+            [
+              1.489, 
+              47.563
+            ], 
+            [
+              1.522, 
+              47.563
+            ], 
+            [
+              1.522, 
+              47.518
+            ], 
+            [
+              1.489, 
+              47.518
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628900, 
+        "name": "Tour-en-Sologne", 
+        "adjacent_woeid": [
+          578463, 
+          581531, 
+          587351, 
+          591406, 
+          614227, 
+          20186772, 
+          23416775
+        ], 
+        "ne_latitude": 47.563, 
+        "ne_longitude": 1.522, 
+        "longitude": 1.514, 
+        "parent_woeid": 12653739, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Tour"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.542, 
+        "sw_longitude": 1.489, 
+        "fullname": "Tour-en-Sologne, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.518
+      }, 
+      "id": 628900
+    }
+  ]
+}

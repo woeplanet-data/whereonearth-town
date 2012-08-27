@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.050, 
+              40.953
+            ], 
+            [
+              0.050, 
+              40.996
+            ], 
+            [
+              0.121, 
+              40.996
+            ], 
+            [
+              0.121, 
+              40.953
+            ], 
+            [
+              0.050, 
+              40.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.996, 
+        "name": "Valdeltormo", 
+        "adjacent_woeid": [
+          758352, 
+          763412, 
+          766891, 
+          775703, 
+          776732
+        ], 
+        "woeid": 776567, 
+        "alias_SPA_V": [
+          "Valdetormo"
+        ], 
+        "ne_longitude": 0.121, 
+        "longitude": 0.082, 
+        "parent_woeid": 12689815, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.987, 
+        "sw_longitude": 0.050, 
+        "fullname": "Valdeltormo, Aragon, Teruel, Spain", 
+        "sw_latitude": 40.953
+      }, 
+      "id": 776567
+    }
+  ]
+}

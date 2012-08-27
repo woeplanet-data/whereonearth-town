@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -57.557, 
+              -25.433
+            ], 
+            [
+              -57.557, 
+              -25.415
+            ], 
+            [
+              -57.537, 
+              -25.415
+            ], 
+            [
+              -57.537, 
+              -25.433
+            ], 
+            [
+              -57.557, 
+              -25.433
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -25.415, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          378570, 
+          379135, 
+          379166
+        ], 
+        "woeid": 378948, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -57.537, 
+        "longitude": -57.547, 
+        "parent_woeid": 26810741, 
+        "placetype": "Town", 
+        "iso": "PY", 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -25.424, 
+        "sw_longitude": -57.557, 
+        "fullname": "San Antonio, Central, San Antonio, Paraguay", 
+        "sw_latitude": -25.433
+      }, 
+      "id": 378948
+    }
+  ]
+}

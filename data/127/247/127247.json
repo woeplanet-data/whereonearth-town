@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.343, 
+              26.408
+            ], 
+            [
+              -100.343, 
+              26.426
+            ], 
+            [
+              -100.323, 
+              26.426
+            ], 
+            [
+              -100.323, 
+              26.408
+            ], 
+            [
+              -100.343, 
+              26.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.426, 
+        "name": "La Escondida", 
+        "adjacent_woeid": [
+          111752, 
+          120177, 
+          129952, 
+          135732, 
+          143257
+        ], 
+        "woeid": 127247, 
+        "alias_SPA_V": [
+          "Rancho la Escondida"
+        ], 
+        "ne_longitude": -100.323, 
+        "longitude": -100.333, 
+        "parent_woeid": 12600656, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.417, 
+        "sw_longitude": -100.343, 
+        "fullname": "La Escondida, Nuevo Leon, Villaldama, Mexico", 
+        "sw_latitude": 26.408
+      }, 
+      "id": 127247
+    }
+  ]
+}

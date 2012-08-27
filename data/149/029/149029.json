@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.848, 
+              20.865
+            ], 
+            [
+              -103.848, 
+              20.895
+            ], 
+            [
+              -103.817, 
+              20.895
+            ], 
+            [
+              -103.817, 
+              20.865
+            ], 
+            [
+              -103.848, 
+              20.865
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.895, 
+        "name": "Tequila", 
+        "adjacent_woeid": [
+          111360, 
+          112048, 
+          115684, 
+          122353, 
+          127808, 
+          146963
+        ], 
+        "woeid": 149029, 
+        "alias_SPA_V": [
+          "Santiago de Tequila"
+        ], 
+        "ne_longitude": -103.817, 
+        "longitude": -103.840, 
+        "parent_woeid": 12600288, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.882, 
+        "sw_longitude": -103.848, 
+        "fullname": "Tequila, Jalisco, Tequila, Mexico", 
+        "sw_latitude": 20.865
+      }, 
+      "id": 149029
+    }
+  ]
+}

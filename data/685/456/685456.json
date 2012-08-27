@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.386, 
+              53.809
+            ], 
+            [
+              10.386, 
+              53.836
+            ], 
+            [
+              10.411, 
+              53.836
+            ], 
+            [
+              10.411, 
+              53.809
+            ], 
+            [
+              10.386, 
+              53.809
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685456, 
+        "name": "Poggensee", 
+        "adjacent_woeid": [
+          667578, 
+          677638, 
+          694282, 
+          20164565
+        ], 
+        "ne_latitude": 53.836, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.411, 
+        "longitude": 10.395, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12631906, 
+        "latitude": 53.826, 
+        "sw_longitude": 10.386, 
+        "fullname": "Poggensee, Schleswig-Holstein, Stormarn, Germany", 
+        "sw_latitude": 53.809
+      }, 
+      "id": 685456
+    }
+  ]
+}

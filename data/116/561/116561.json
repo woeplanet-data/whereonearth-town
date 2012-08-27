@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.199, 
+              18.789
+            ], 
+            [
+              -97.199, 
+              18.817
+            ], 
+            [
+              -97.164, 
+              18.817
+            ], 
+            [
+              -97.164, 
+              18.789
+            ], 
+            [
+              -97.199, 
+              18.789
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.817, 
+        "name": "Ciudad Mendoza", 
+        "adjacent_woeid": [
+          112710, 
+          125205, 
+          132804, 
+          148440, 
+          55902190, 
+          55902252
+        ], 
+        "woeid": 116561, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -97.164, 
+        "longitude": -97.183, 
+        "parent_woeid": 12601747, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.803, 
+        "sw_longitude": -97.199, 
+        "fullname": "Ciudad Mendoza, Veracruz-Llave, Camerino Z. Mendoza, Mexico", 
+        "sw_latitude": 18.789
+      }, 
+      "id": 116561
+    }
+  ]
+}

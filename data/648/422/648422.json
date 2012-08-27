@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.789, 
+              49.867
+            ], 
+            [
+              10.789, 
+              49.888
+            ], 
+            [
+              10.809, 
+              49.888
+            ], 
+            [
+              10.809, 
+              49.867
+            ], 
+            [
+              10.789, 
+              49.867
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648422, 
+        "name": "Erlau", 
+        "adjacent_woeid": [
+          668890, 
+          676551, 
+          704848, 
+          20156148
+        ], 
+        "ne_latitude": 49.888, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.809, 
+        "longitude": 10.801, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12635253, 
+        "latitude": 49.873, 
+        "sw_longitude": 10.789, 
+        "fullname": "Erlau, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.867
+      }, 
+      "id": 648422
+    }
+  ]
+}

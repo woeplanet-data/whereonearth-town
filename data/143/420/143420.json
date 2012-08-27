@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.508, 
+              21.825
+            ], 
+            [
+              -100.508, 
+              21.843
+            ], 
+            [
+              -100.489, 
+              21.843
+            ], 
+            [
+              -100.489, 
+              21.825
+            ], 
+            [
+              -100.508, 
+              21.825
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.843, 
+        "name": "San Jose Alburquerque", 
+        "adjacent_woeid": [
+          122530, 
+          122744, 
+          129707, 
+          129713, 
+          146074, 
+          149330
+        ], 
+        "woeid": 143420, 
+        "alias_SPA_V": [
+          "S Jose Alburquerque"
+        ], 
+        "ne_longitude": -100.489, 
+        "longitude": -100.498, 
+        "parent_woeid": 12601503, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.834, 
+        "sw_longitude": -100.508, 
+        "fullname": "San Jose Alburquerque, San Luis Potosi, Santa Maria del Rio, Mexico", 
+        "sw_latitude": 21.825
+      }, 
+      "id": 143420
+    }
+  ]
+}

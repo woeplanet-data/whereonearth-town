@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.877, 
+              25.024
+            ], 
+            [
+              -103.877, 
+              25.042
+            ], 
+            [
+              -103.857, 
+              25.042
+            ], 
+            [
+              -103.857, 
+              25.024
+            ], 
+            [
+              -103.877, 
+              25.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.042, 
+        "name": "Las Mercedes", 
+        "adjacent_woeid": [
+          111453, 
+          111604, 
+          117524, 
+          119655, 
+          123171, 
+          127413, 
+          136336, 
+          139906, 
+          150600
+        ], 
+        "woeid": 130614, 
+        "alias_SPA_V": [
+          "Mercedes"
+        ], 
+        "ne_longitude": -103.857, 
+        "longitude": -103.867, 
+        "parent_woeid": 12599953, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.033, 
+        "sw_longitude": -103.877, 
+        "fullname": "Las Mercedes, Durango, Cuencame, Mexico", 
+        "sw_latitude": 25.024
+      }, 
+      "id": 130614
+    }
+  ]
+}

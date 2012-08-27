@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.125, 
+              -27.240
+            ], 
+            [
+              -65.125, 
+              -27.226
+            ], 
+            [
+              -65.109, 
+              -27.226
+            ], 
+            [
+              -65.109, 
+              -27.240
+            ], 
+            [
+              -65.125, 
+              -27.240
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -27.226, 
+        "name": "Monte Bello", 
+        "adjacent_woeid": [
+          464865, 
+          464885, 
+          465699, 
+          465847, 
+          465950, 
+          466027, 
+          466674
+        ], 
+        "woeid": 465866, 
+        "alias_SPA_V": [
+          "Mte Bello"
+        ], 
+        "ne_longitude": -65.109, 
+        "longitude": -65.117, 
+        "parent_woeid": 20070862, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -27.233, 
+        "sw_longitude": -65.125, 
+        "fullname": "Monte Bello, Tucuman, Leales, Argentina", 
+        "sw_latitude": -27.240
+      }, 
+      "id": 465866
+    }
+  ]
+}

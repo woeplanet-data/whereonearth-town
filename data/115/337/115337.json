@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.243, 
+              23.591
+            ], 
+            [
+              -100.243, 
+              23.609
+            ], 
+            [
+              -100.223, 
+              23.609
+            ], 
+            [
+              -100.223, 
+              23.591
+            ], 
+            [
+              -100.243, 
+              23.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.609, 
+        "name": "Cerrito del Aire", 
+        "adjacent_woeid": [
+          111785, 
+          113582, 
+          120570, 
+          124326, 
+          128002
+        ], 
+        "woeid": 115337, 
+        "alias_SPA_V": [
+          "Cerro del Aire"
+        ], 
+        "ne_longitude": -100.223, 
+        "longitude": -100.233, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.600, 
+        "sw_longitude": -100.243, 
+        "fullname": "Cerrito del Aire, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.591
+      }, 
+      "id": 115337
+    }
+  ]
+}

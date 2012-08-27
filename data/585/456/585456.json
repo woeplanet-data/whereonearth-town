@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.867, 
+              43.013
+            ], 
+            [
+              0.867, 
+              43.028
+            ], 
+            [
+              0.895, 
+              43.028
+            ], 
+            [
+              0.895, 
+              43.013
+            ], 
+            [
+              0.867, 
+              43.013
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585456, 
+        "name": "Chein-Dessus", 
+        "adjacent_woeid": [
+          576378, 
+          590150, 
+          594748, 
+          611514, 
+          612300, 
+          20192694, 
+          20192702
+        ], 
+        "ne_latitude": 43.028, 
+        "ne_longitude": 0.895, 
+        "longitude": 0.884, 
+        "parent_woeid": 12659276, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chein"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.019, 
+        "sw_longitude": 0.867, 
+        "fullname": "Chein-Dessus, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.013
+      }, 
+      "id": 585456
+    }
+  ]
+}

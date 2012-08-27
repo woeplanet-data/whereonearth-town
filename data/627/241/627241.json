@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.364, 
+              45.452
+            ], 
+            [
+              2.364, 
+              45.485
+            ], 
+            [
+              2.395, 
+              45.485
+            ], 
+            [
+              2.395, 
+              45.452
+            ], 
+            [
+              2.364, 
+              45.452
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627241, 
+        "name": "St.-Victour", 
+        "adjacent_woeid": [
+          585870, 
+          609984, 
+          619641, 
+          623321, 
+          623931, 
+          623972, 
+          627669, 
+          631025
+        ], 
+        "ne_latitude": 45.485, 
+        "ne_longitude": 2.395, 
+        "longitude": 2.379, 
+        "parent_woeid": 12671326, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Victour"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.465, 
+        "sw_longitude": 2.364, 
+        "fullname": "St.-Victour, Limousin, Correze, France", 
+        "sw_latitude": 45.452
+      }, 
+      "id": 627241
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.429, 
+              15.073
+            ], 
+            [
+              -86.429, 
+              15.091
+            ], 
+            [
+              -86.410, 
+              15.091
+            ], 
+            [
+              -86.410, 
+              15.073
+            ], 
+            [
+              -86.429, 
+              15.073
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.091, 
+        "name": "La Guata", 
+        "adjacent_woeid": [
+          98160, 
+          101876, 
+          101996, 
+          102315, 
+          105091, 
+          105533, 
+          106157
+        ], 
+        "woeid": 102965, 
+        "alias_SPA_V": [
+          "Guata"
+        ], 
+        "ne_longitude": -86.410, 
+        "longitude": -86.420, 
+        "parent_woeid": 26813667, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.082, 
+        "sw_longitude": -86.429, 
+        "fullname": "La Guata, Olancho, Guata, Honduras", 
+        "sw_latitude": 15.073
+      }, 
+      "id": 102965
+    }
+  ]
+}

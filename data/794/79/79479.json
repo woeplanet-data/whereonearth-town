@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.103, 
+              13.631
+            ], 
+            [
+              -88.103, 
+              13.650
+            ], 
+            [
+              -88.084, 
+              13.650
+            ], 
+            [
+              -88.084, 
+              13.631
+            ], 
+            [
+              -88.103, 
+              13.631
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.650, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          77470, 
+          79530, 
+          79759, 
+          80184, 
+          26809455, 
+          26809480
+        ], 
+        "woeid": 79479, 
+        "alias_SPA_V": [
+          "S Carlos"
+        ], 
+        "ne_longitude": -88.084, 
+        "longitude": -88.094, 
+        "parent_woeid": 26808671, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.640, 
+        "sw_longitude": -88.103, 
+        "fullname": "San Carlos, Moraz\u00e1n, San Carlos, El Salvador", 
+        "sw_latitude": 13.631
+      }, 
+      "id": 79479
+    }
+  ]
+}

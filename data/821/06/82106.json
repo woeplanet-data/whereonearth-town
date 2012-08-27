@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.841, 
+              14.160
+            ], 
+            [
+              -89.841, 
+              14.174
+            ], 
+            [
+              -89.826, 
+              14.174
+            ], 
+            [
+              -89.826, 
+              14.160
+            ], 
+            [
+              -89.841, 
+              14.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.174, 
+        "name": "El Adelanto", 
+        "adjacent_woeid": [
+          81940, 
+          82941, 
+          83336, 
+          86891, 
+          86907
+        ], 
+        "woeid": 82106, 
+        "alias_SPA_V": [
+          "Adelanto"
+        ], 
+        "ne_longitude": -89.826, 
+        "longitude": -89.833, 
+        "parent_woeid": 26807055, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.167, 
+        "sw_longitude": -89.841, 
+        "fullname": "El Adelanto, Jutiapa, El Adelanto, Guatemala", 
+        "sw_latitude": 14.160
+      }, 
+      "id": 82106
+    }
+  ]
+}

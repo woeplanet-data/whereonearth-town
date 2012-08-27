@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.006, 
+              53.946
+            ], 
+            [
+              12.006, 
+              53.984
+            ], 
+            [
+              12.040, 
+              53.984
+            ], 
+            [
+              12.040, 
+              53.946
+            ], 
+            [
+              12.006, 
+              53.946
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666384, 
+        "name": "Klein Grenz", 
+        "adjacent_woeid": [
+          636787, 
+          640029, 
+          654502, 
+          671379, 
+          674229, 
+          708963
+        ], 
+        "ne_latitude": 53.984, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.040, 
+        "longitude": 12.026, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630480, 
+        "latitude": 53.964, 
+        "sw_longitude": 12.006, 
+        "fullname": "Klein Grenz, Mecklenburg-Vorpommern, Landkreis Bad Doberan, Germany", 
+        "sw_latitude": 53.946
+      }, 
+      "id": 666384
+    }
+  ]
+}

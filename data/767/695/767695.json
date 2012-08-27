@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.088, 
+              41.265
+            ], 
+            [
+              1.088, 
+              41.304
+            ], 
+            [
+              1.133, 
+              41.304
+            ], 
+            [
+              1.133, 
+              41.265
+            ], 
+            [
+              1.088, 
+              41.265
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.304, 
+        "name": "Mont-Ral", 
+        "adjacent_woeid": [
+          751719, 
+          751854, 
+          756022, 
+          760416, 
+          763977, 
+          767525, 
+          770155, 
+          770718, 
+          772141, 
+          777429, 
+          20222450, 
+          20223469, 
+          20223546, 
+          29369977, 
+          29370304
+        ], 
+        "woeid": 767695, 
+        "alias_SPA_V": [
+          "Montreal"
+        ], 
+        "ne_longitude": 1.133, 
+        "longitude": 1.100, 
+        "parent_woeid": 12694224, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.287, 
+        "sw_longitude": 1.088, 
+        "fullname": "Mont-Ral, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.265
+      }, 
+      "id": 767695
+    }
+  ]
+}

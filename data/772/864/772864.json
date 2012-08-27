@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -15.456, 
+              28.045
+            ], 
+            [
+              -15.456, 
+              28.066
+            ], 
+            [
+              -15.421, 
+              28.066
+            ], 
+            [
+              -15.421, 
+              28.045
+            ], 
+            [
+              -15.456, 
+              28.045
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.066, 
+        "name": "San Francisco de Paula", 
+        "adjacent_woeid": [
+          766670, 
+          775095, 
+          775096, 
+          56065902, 
+          56065905, 
+          56065927
+        ], 
+        "woeid": 772864, 
+        "alias_SPA_V": [
+          "S. Francisco de Paula"
+        ], 
+        "ne_longitude": -15.421, 
+        "longitude": -15.453, 
+        "parent_woeid": 12690140, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.056, 
+        "sw_longitude": -15.456, 
+        "fullname": "San Francisco de Paula, Canary Islands, Palmas, Spain", 
+        "sw_latitude": 28.045
+      }, 
+      "id": 772864
+    }
+  ]
+}

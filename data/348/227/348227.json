@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.552, 
+              -33.414
+            ], 
+            [
+              -70.552, 
+              -33.400
+            ], 
+            [
+              -70.535, 
+              -33.400
+            ], 
+            [
+              -70.535, 
+              -33.414
+            ], 
+            [
+              -70.552, 
+              -33.414
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.400, 
+        "name": "Las Condes", 
+        "adjacent_woeid": [
+          346813, 
+          348146, 
+          348743, 
+          349035, 
+          349823
+        ], 
+        "woeid": 348227, 
+        "alias_SPA_V": [
+          "Lascondes"
+        ], 
+        "ne_longitude": -70.535, 
+        "longitude": -70.543, 
+        "parent_woeid": 26794290, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.407, 
+        "sw_longitude": -70.552, 
+        "fullname": "Las Condes, Santiago Metropolitan Region, Santiago Province, Chile", 
+        "sw_latitude": -33.414
+      }, 
+      "id": 348227
+    }
+  ]
+}

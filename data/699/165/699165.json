@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.120, 
+              49.926
+            ], 
+            [
+              10.120, 
+              49.959
+            ], 
+            [
+              10.158, 
+              49.959
+            ], 
+            [
+              10.158, 
+              49.926
+            ], 
+            [
+              10.120, 
+              49.926
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 699165, 
+        "name": "Theilheim", 
+        "adjacent_woeid": [
+          643444, 
+          648845, 
+          659251
+        ], 
+        "ne_latitude": 49.959, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.158, 
+        "longitude": 10.143, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12635436, 
+        "latitude": 49.944, 
+        "sw_longitude": 10.120, 
+        "fullname": "Theilheim, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.926
+      }, 
+      "id": 699165
+    }
+  ]
+}

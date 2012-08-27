@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.123, 
+              47.123
+            ], 
+            [
+              8.123, 
+              47.145
+            ], 
+            [
+              8.150, 
+              47.145
+            ], 
+            [
+              8.150, 
+              47.123
+            ], 
+            [
+              8.123, 
+              47.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 783529, 
+        "name": "Nottwil", 
+        "adjacent_woeid": [
+          781989, 
+          782307, 
+          783602, 
+          783968, 
+          784167, 
+          785375, 
+          20101114, 
+          20101636
+        ], 
+        "ne_latitude": 47.145, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.150, 
+        "longitude": 8.137, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:14Z", 
+        "parent_woeid": 12684096, 
+        "latitude": 47.136, 
+        "sw_longitude": 8.123, 
+        "fullname": "Nottwil, Canton of Lucerne, Sursee, Switzerland", 
+        "sw_latitude": 47.123
+      }, 
+      "id": 783529
+    }
+  ]
+}

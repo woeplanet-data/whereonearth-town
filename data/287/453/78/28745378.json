@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.229, 
+              40.284
+            ], 
+            [
+              -77.229, 
+              40.402
+            ], 
+            [
+              -77.116, 
+              40.402
+            ], 
+            [
+              -77.116, 
+              40.284
+            ], 
+            [
+              -77.229, 
+              40.284
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745378, 
+        "name": "Carroll", 
+        "adjacent_woeid": [
+          2377653, 
+          2390866, 
+          2448895, 
+          28340127, 
+          28745372
+        ], 
+        "ne_latitude": 40.402, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Carroll Township"
+        ], 
+        "ne_longitude": -77.116, 
+        "longitude": -77.172, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589777, 
+        "latitude": 40.364, 
+        "sw_longitude": -77.229, 
+        "fullname": "Carroll, Pennsylvania, Perry, United States", 
+        "sw_latitude": 40.284
+      }, 
+      "id": 28745378
+    }
+  ]
+}

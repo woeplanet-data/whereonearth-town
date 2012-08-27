@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.221, 
+              42.391
+            ], 
+            [
+              -3.221, 
+              42.400
+            ], 
+            [
+              -3.208, 
+              42.400
+            ], 
+            [
+              -3.208, 
+              42.391
+            ], 
+            [
+              -3.221, 
+              42.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.400, 
+        "name": "San Miguel de Pedroso", 
+        "adjacent_woeid": [
+          760350, 
+          771066, 
+          772738, 
+          775908
+        ], 
+        "woeid": 773204, 
+        "alias_SPA_V": [
+          "S Miguel de Pedroso"
+        ], 
+        "ne_longitude": -3.208, 
+        "longitude": -3.215, 
+        "parent_woeid": 12691414, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.395, 
+        "sw_longitude": -3.221, 
+        "fullname": "San Miguel de Pedroso, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.391
+      }, 
+      "id": 773204
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.243, 
+              19.408
+            ], 
+            [
+              -99.243, 
+              19.426
+            ], 
+            [
+              -99.224, 
+              19.426
+            ], 
+            [
+              -99.224, 
+              19.408
+            ], 
+            [
+              -99.243, 
+              19.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.426, 
+        "name": "San Miguel Tecamachalco", 
+        "adjacent_woeid": [
+          131383, 
+          131385, 
+          131389, 
+          132359, 
+          141897, 
+          146150
+        ], 
+        "woeid": 144680, 
+        "alias_SPA_V": [
+          "S Miguel Tecamachalco"
+        ], 
+        "ne_longitude": -99.224, 
+        "longitude": -99.229, 
+        "parent_woeid": 12600377, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.425, 
+        "sw_longitude": -99.243, 
+        "fullname": "San Miguel Tecamachalco, Mexico, Naucalpan de Juarez, Mexico", 
+        "sw_latitude": 19.408
+      }, 
+      "id": 144680
+    }
+  ]
+}

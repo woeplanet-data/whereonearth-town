@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.724, 
+              50.545
+            ], 
+            [
+              10.724, 
+              50.592
+            ], 
+            [
+              10.759, 
+              50.592
+            ], 
+            [
+              10.759, 
+              50.545
+            ], 
+            [
+              10.724, 
+              50.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660333, 
+        "name": "Hirschbach", 
+        "adjacent_woeid": [
+          634380, 
+          641002, 
+          648421, 
+          653161, 
+          702227
+        ], 
+        "ne_latitude": 50.592, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.759, 
+        "longitude": 10.738, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12625127, 
+        "latitude": 50.562, 
+        "sw_longitude": 10.724, 
+        "fullname": "Hirschbach, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.545
+      }, 
+      "id": 660333
+    }
+  ]
+}

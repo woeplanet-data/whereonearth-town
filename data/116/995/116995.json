@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.773, 
+              30.043
+            ], 
+            [
+              -107.773, 
+              30.057
+            ], 
+            [
+              -107.757, 
+              30.057
+            ], 
+            [
+              -107.757, 
+              30.043
+            ], 
+            [
+              -107.773, 
+              30.043
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.057, 
+        "name": "Colonia San Joaquin", 
+        "adjacent_woeid": [
+          113709, 
+          123838, 
+          133851, 
+          143150, 
+          150065
+        ], 
+        "woeid": 116995, 
+        "alias_SPA_V": [
+          "Colonia S Joaquin"
+        ], 
+        "ne_longitude": -107.757, 
+        "longitude": -107.765, 
+        "parent_woeid": 12599841, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.050, 
+        "sw_longitude": -107.773, 
+        "fullname": "Colonia San Joaquin, Chihuahua, Galeana, Mexico", 
+        "sw_latitude": 30.043
+      }, 
+      "id": 116995
+    }
+  ]
+}

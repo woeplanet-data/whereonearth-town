@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.973, 
+              48.217
+            ], 
+            [
+              -68.973, 
+              48.355
+            ], 
+            [
+              -68.732, 
+              48.355
+            ], 
+            [
+              -68.732, 
+              48.217
+            ], 
+            [
+              -68.973, 
+              48.217
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3644, 
+        "name": "St.-Fabien", 
+        "adjacent_woeid": [
+          23394414, 
+          23395446, 
+          23396543, 
+          23396581, 
+          29374507
+        ], 
+        "ne_latitude": 48.355, 
+        "ne_longitude": -68.732, 
+        "longitude": -68.867, 
+        "parent_woeid": 29375135, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Fabien"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.295, 
+        "sw_longitude": -68.973, 
+        "fullname": "St.-Fabien, Quebec, Rimouski-Neigette, Canada", 
+        "sw_latitude": 48.217
+      }, 
+      "id": 3644
+    }
+  ]
+}

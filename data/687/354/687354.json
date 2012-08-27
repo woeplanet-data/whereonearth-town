@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.836, 
+              48.871
+            ], 
+            [
+              10.836, 
+              48.897
+            ], 
+            [
+              10.866, 
+              48.897
+            ], 
+            [
+              10.866, 
+              48.871
+            ], 
+            [
+              10.836, 
+              48.871
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687354, 
+        "name": "Rehau", 
+        "adjacent_woeid": [
+          642890, 
+          655812, 
+          689917, 
+          704757, 
+          707327
+        ], 
+        "ne_latitude": 48.897, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.866, 
+        "longitude": 10.847, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:35Z", 
+        "parent_woeid": 12635008, 
+        "latitude": 48.884, 
+        "sw_longitude": 10.836, 
+        "fullname": "Rehau, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.871
+      }, 
+      "id": 687354
+    }
+  ]
+}

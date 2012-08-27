@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.211, 
+              48.358
+            ], 
+            [
+              4.211, 
+              48.423
+            ], 
+            [
+              4.278, 
+              48.423
+            ], 
+            [
+              4.278, 
+              48.358
+            ], 
+            [
+              4.211, 
+              48.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 581466, 
+        "name": "Bouy-Luxembourg", 
+        "adjacent_woeid": [
+          576929, 
+          609089, 
+          614993, 
+          620177
+        ], 
+        "ne_latitude": 48.423, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.278, 
+        "longitude": 4.259, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 12639697, 
+        "latitude": 48.380, 
+        "sw_longitude": 4.211, 
+        "fullname": "Bouy-Luxembourg, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.358
+      }, 
+      "id": 581466
+    }
+  ]
+}

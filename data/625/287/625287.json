@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.376, 
+              43.957
+            ], 
+            [
+              6.376, 
+              43.999
+            ], 
+            [
+              6.433, 
+              43.999
+            ], 
+            [
+              6.433, 
+              43.957
+            ], 
+            [
+              6.376, 
+              43.957
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625287, 
+        "name": "St.-Lions", 
+        "adjacent_woeid": [
+          586322, 
+          613247, 
+          624661
+        ], 
+        "ne_latitude": 43.999, 
+        "ne_longitude": 6.433, 
+        "longitude": 6.399, 
+        "parent_woeid": 22757741, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lions"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.985, 
+        "sw_longitude": 6.376, 
+        "fullname": "St.-Lions, Provence-Alpes-Cote d'Azur, Alpes-de-Haute-Provence, France", 
+        "sw_latitude": 43.957
+      }, 
+      "id": 625287
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.282, 
+              44.400
+            ], 
+            [
+              4.282, 
+              44.418
+            ], 
+            [
+              4.307, 
+              44.418
+            ], 
+            [
+              4.307, 
+              44.400
+            ], 
+            [
+              4.282, 
+              44.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330267, 
+        "name": "La Gare", 
+        "adjacent_woeid": [
+          584400, 
+          593870, 
+          620865, 
+          622828
+        ], 
+        "ne_latitude": 44.418, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.307, 
+        "longitude": 4.295, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "parent_woeid": 22756135, 
+        "latitude": 44.409, 
+        "sw_longitude": 4.282, 
+        "fullname": "La Gare, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 44.400
+      }, 
+      "id": 29330267
+    }
+  ]
+}

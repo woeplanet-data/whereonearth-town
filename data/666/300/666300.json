@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.343, 
+              52.072
+            ], 
+            [
+              14.343, 
+              52.131
+            ], 
+            [
+              14.397, 
+              52.131
+            ], 
+            [
+              14.397, 
+              52.072
+            ], 
+            [
+              14.343, 
+              52.072
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666300, 
+        "name": "Klein Briesen", 
+        "adjacent_woeid": [
+          643140, 
+          654426, 
+          672051, 
+          688160, 
+          704433
+        ], 
+        "ne_latitude": 52.131, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.397, 
+        "longitude": 14.371, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 24547275, 
+        "latitude": 52.107, 
+        "sw_longitude": 14.343, 
+        "fullname": "Klein Briesen, Brandenburg, Oder-Spree, Germany", 
+        "sw_latitude": 52.072
+      }, 
+      "id": 666300
+    }
+  ]
+}

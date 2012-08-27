@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.384, 
+              48.432
+            ], 
+            [
+              16.384, 
+              48.451
+            ], 
+            [
+              16.411, 
+              48.451
+            ], 
+            [
+              16.411, 
+              48.432
+            ], 
+            [
+              16.384, 
+              48.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 542109, 
+        "name": "Hetzmannsdorf", 
+        "adjacent_woeid": [
+          542628, 
+          543057, 
+          543543, 
+          544316
+        ], 
+        "ne_latitude": 48.451, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.411, 
+        "longitude": 16.397, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:32Z", 
+        "parent_woeid": 12674073, 
+        "latitude": 48.442, 
+        "sw_longitude": 16.384, 
+        "fullname": "Hetzmannsdorf, Lower Austria, Korneuburg, Austria", 
+        "sw_latitude": 48.432
+      }, 
+      "id": 542109
+    }
+  ]
+}

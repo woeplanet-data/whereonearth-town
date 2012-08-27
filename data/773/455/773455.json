@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.594, 
+              28.388
+            ], 
+            [
+              -16.594, 
+              28.396
+            ], 
+            [
+              -16.583, 
+              28.396
+            ], 
+            [
+              -16.583, 
+              28.388
+            ], 
+            [
+              -16.594, 
+              28.388
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.396, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          762523, 
+          775434, 
+          29372741, 
+          56065290, 
+          56065296
+        ], 
+        "woeid": 773455, 
+        "alias_SPA_V": [
+          "S Vicente"
+        ], 
+        "ne_longitude": -16.583, 
+        "longitude": -16.591, 
+        "parent_woeid": 12690188, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.393, 
+        "sw_longitude": -16.594, 
+        "fullname": "San Vicente, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.388
+      }, 
+      "id": 773455
+    }
+  ]
+}

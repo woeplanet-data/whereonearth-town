@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.260, 
+              19.258
+            ], 
+            [
+              -100.260, 
+              19.276
+            ], 
+            [
+              -100.240, 
+              19.276
+            ], 
+            [
+              -100.240, 
+              19.258
+            ], 
+            [
+              -100.260, 
+              19.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.276, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          124435, 
+          124798, 
+          125552, 
+          143142, 
+          144179, 
+          147904
+        ], 
+        "woeid": 143775, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -100.240, 
+        "longitude": -100.250, 
+        "parent_woeid": 12600360, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.267, 
+        "sw_longitude": -100.260, 
+        "fullname": "San Juan, Mexico, Ixtapan del Oro, Mexico", 
+        "sw_latitude": 19.258
+      }, 
+      "id": 143775
+    }
+  ]
+}

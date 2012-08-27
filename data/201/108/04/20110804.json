@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.484, 
+              45.465
+            ], 
+            [
+              10.484, 
+              45.507
+            ], 
+            [
+              10.522, 
+              45.507
+            ], 
+            [
+              10.522, 
+              45.465
+            ], 
+            [
+              10.484, 
+              45.465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20110804, 
+        "name": "Barcuzzi", 
+        "adjacent_woeid": [
+          715122, 
+          719736, 
+          20130162, 
+          20143439
+        ], 
+        "ne_latitude": 45.507, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.522, 
+        "longitude": 10.497, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:27:56Z", 
+        "parent_woeid": 12678207, 
+        "latitude": 45.487, 
+        "sw_longitude": 10.484, 
+        "fullname": "Barcuzzi, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.465
+      }, 
+      "id": 20110804
+    }
+  ]
+}

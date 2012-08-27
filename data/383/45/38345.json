@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.784, 
+              56.653
+            ], 
+            [
+              -2.784, 
+              56.684
+            ], 
+            [
+              -2.748, 
+              56.684
+            ], 
+            [
+              -2.748, 
+              56.653
+            ], 
+            [
+              -2.784, 
+              56.653
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 38345, 
+        "name": "Turin", 
+        "adjacent_woeid": [
+          10273, 
+          11662, 
+          16351, 
+          22035, 
+          32091
+        ], 
+        "ne_latitude": 56.684, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -2.748, 
+        "longitude": -2.756, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:17:52Z", 
+        "parent_woeid": 12696184, 
+        "latitude": 56.668, 
+        "sw_longitude": -2.784, 
+        "fullname": "Turin, Scotland, Tayside, United Kingdom", 
+        "sw_latitude": 56.653
+      }, 
+      "id": 38345
+    }
+  ]
+}

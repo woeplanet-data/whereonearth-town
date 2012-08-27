@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.054, 
+              27.954
+            ], 
+            [
+              -111.054, 
+              27.973
+            ], 
+            [
+              -111.033, 
+              27.973
+            ], 
+            [
+              -111.033, 
+              27.954
+            ], 
+            [
+              -111.054, 
+              27.954
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.973, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          113873, 
+          122897, 
+          123255
+        ], 
+        "woeid": 142089, 
+        "alias_SPA_V": [
+          "S Carlos"
+        ], 
+        "ne_longitude": -111.033, 
+        "longitude": -111.044, 
+        "parent_woeid": 12601573, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.964, 
+        "sw_longitude": -111.054, 
+        "fullname": "San Carlos, Sonora, Guaymas, Mexico", 
+        "sw_latitude": 27.954
+      }, 
+      "id": 142089
+    }
+  ]
+}

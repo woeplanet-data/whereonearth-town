@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.239, 
+              51.103
+            ], 
+            [
+              5.239, 
+              51.141
+            ], 
+            [
+              5.299, 
+              51.141
+            ], 
+            [
+              5.299, 
+              51.103
+            ], 
+            [
+              5.239, 
+              51.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 973256, 
+        "name": "Leopoldsburg", 
+        "adjacent_woeid": [
+          966828, 
+          967195, 
+          969316, 
+          969701, 
+          970617, 
+          970807, 
+          971005, 
+          971224, 
+          971980, 
+          972268, 
+          973651, 
+          973681, 
+          29374960, 
+          29374968
+        ], 
+        "ne_latitude": 51.141, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.299, 
+        "longitude": 5.264, 
+        "placetype": "Town", 
+        "alias_DUT_S": [
+          "Bourg-Leopold"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:11Z", 
+        "alias_DUT_V": [
+          "Bourg-L\u00e9opold"
+        ], 
+        "parent_woeid": 12602724, 
+        "latitude": 51.118, 
+        "sw_longitude": 5.239, 
+        "fullname": "Leopoldsburg, Limburg, Hasselt, Belgium", 
+        "sw_latitude": 51.103
+      }, 
+      "id": 973256
+    }
+  ]
+}

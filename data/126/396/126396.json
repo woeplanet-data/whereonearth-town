@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.243, 
+              19.662
+            ], 
+            [
+              -99.243, 
+              19.680
+            ], 
+            [
+              -99.223, 
+              19.680
+            ], 
+            [
+              -99.223, 
+              19.662
+            ], 
+            [
+              -99.243, 
+              19.662
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.680, 
+        "name": "La Aurora", 
+        "adjacent_woeid": [
+          117803, 
+          144434, 
+          144454, 
+          148980, 
+          55900671
+        ], 
+        "woeid": 126396, 
+        "alias_SPA_V": [
+          "Aurora"
+        ], 
+        "ne_longitude": -99.223, 
+        "longitude": -99.233, 
+        "parent_woeid": 12600349, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.671, 
+        "sw_longitude": -99.243, 
+        "fullname": "La Aurora, Mexico, Cuautitlan Izcalli, Mexico", 
+        "sw_latitude": 19.662
+      }, 
+      "id": 126396
+    }
+  ]
+}

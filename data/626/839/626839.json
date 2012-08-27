@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.861, 
+              48.602
+            ], 
+            [
+              3.861, 
+              48.640
+            ], 
+            [
+              3.915, 
+              48.640
+            ], 
+            [
+              3.915, 
+              48.602
+            ], 
+            [
+              3.861, 
+              48.602
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626839, 
+        "name": "St.-Saturnin", 
+        "adjacent_woeid": [
+          581065, 
+          587432, 
+          592006, 
+          610248, 
+          628318, 
+          632638
+        ], 
+        "ne_latitude": 48.640, 
+        "ne_longitude": 3.915, 
+        "longitude": 3.901, 
+        "parent_woeid": 12653194, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Saturnin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.615, 
+        "sw_longitude": 3.861, 
+        "fullname": "St.-Saturnin, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.602
+      }, 
+      "id": 626839
+    }
+  ]
+}

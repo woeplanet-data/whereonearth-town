@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.008, 
+              47.729
+            ], 
+            [
+              11.008, 
+              47.747
+            ], 
+            [
+              11.035, 
+              47.747
+            ], 
+            [
+              11.035, 
+              47.729
+            ], 
+            [
+              11.008, 
+              47.729
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20173005, 
+        "name": "Kirnberg", 
+        "adjacent_woeid": [
+          651882, 
+          692865, 
+          702861, 
+          20173006
+        ], 
+        "ne_latitude": 47.747, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.035, 
+        "longitude": 11.021, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12634691, 
+        "latitude": 47.738, 
+        "sw_longitude": 11.008, 
+        "fullname": "Kirnberg, Bavaria, Weilheim-Schongau, Germany", 
+        "sw_latitude": 47.729
+      }, 
+      "id": 20173005
+    }
+  ]
+}

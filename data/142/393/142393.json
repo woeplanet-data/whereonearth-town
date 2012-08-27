@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.910, 
+              28.524
+            ], 
+            [
+              -100.910, 
+              28.542
+            ], 
+            [
+              -100.890, 
+              28.542
+            ], 
+            [
+              -100.890, 
+              28.524
+            ], 
+            [
+              -100.910, 
+              28.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.542, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          122020, 
+          128208, 
+          129991
+        ], 
+        "woeid": 142393, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -100.890, 
+        "longitude": -100.900, 
+        "parent_woeid": 12599923, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.533, 
+        "sw_longitude": -100.910, 
+        "fullname": "San Fernando, Coahuila de Zaragoza, Zaragoza, Mexico", 
+        "sw_latitude": 28.524
+      }, 
+      "id": 142393
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.783, 
+              47.060
+            ], 
+            [
+              1.783, 
+              47.104
+            ], 
+            [
+              1.810, 
+              47.104
+            ], 
+            [
+              1.810, 
+              47.060
+            ], 
+            [
+              1.783, 
+              47.060
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624030, 
+        "name": "St.-Florentin", 
+        "adjacent_woeid": [
+          594067, 
+          597540, 
+          615248, 
+          618952, 
+          626175
+        ], 
+        "ne_latitude": 47.104, 
+        "ne_longitude": 1.810, 
+        "longitude": 1.802, 
+        "parent_woeid": 12652464, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Florentin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.077, 
+        "sw_longitude": 1.783, 
+        "fullname": "St.-Florentin, Centre, Indre, France", 
+        "sw_latitude": 47.060
+      }, 
+      "id": 624030
+    }
+  ]
+}

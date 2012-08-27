@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.718, 
+              52.740
+            ], 
+            [
+              10.718, 
+              52.782
+            ], 
+            [
+              10.745, 
+              52.782
+            ], 
+            [
+              10.745, 
+              52.740
+            ], 
+            [
+              10.718, 
+              52.740
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20166151, 
+        "name": "Rumstorf", 
+        "adjacent_woeid": [
+          648566, 
+          651477, 
+          672828, 
+          697384
+        ], 
+        "ne_latitude": 52.782, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.745, 
+        "longitude": 10.729, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12630319, 
+        "latitude": 52.760, 
+        "sw_longitude": 10.718, 
+        "fullname": "Rumstorf, Lower Saxony, Landkreis Gifhorn, Germany", 
+        "sw_latitude": 52.740
+      }, 
+      "id": 20166151
+    }
+  ]
+}

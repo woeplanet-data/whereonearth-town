@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.645, 
+              48.304
+            ], 
+            [
+              12.645, 
+              48.322
+            ], 
+            [
+              12.673, 
+              48.322
+            ], 
+            [
+              12.673, 
+              48.304
+            ], 
+            [
+              12.645, 
+              48.304
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703348, 
+        "name": "Wald", 
+        "adjacent_woeid": [
+          635295, 
+          662005, 
+          675633, 
+          690355, 
+          692741, 
+          699037, 
+          20172250, 
+          20172251, 
+          29348054, 
+          29348721
+        ], 
+        "ne_latitude": 48.322, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.673, 
+        "longitude": 12.659, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 12622710, 
+        "latitude": 48.313, 
+        "sw_longitude": 12.645, 
+        "fullname": "Wald, Bavaria, Altotting, Germany", 
+        "sw_latitude": 48.304
+      }, 
+      "id": 703348
+    }
+  ]
+}

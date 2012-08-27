@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.427, 
+              49.296
+            ], 
+            [
+              -1.427, 
+              49.315
+            ], 
+            [
+              -1.402, 
+              49.315
+            ], 
+            [
+              -1.402, 
+              49.296
+            ], 
+            [
+              -1.427, 
+              49.296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624889, 
+        "name": "St.-Jores", 
+        "adjacent_woeid": [
+          577457, 
+          578457, 
+          586423, 
+          593159, 
+          618046, 
+          627745, 
+          22527897
+        ], 
+        "ne_latitude": 49.315, 
+        "ne_longitude": -1.402, 
+        "longitude": -1.422, 
+        "parent_woeid": 12652697, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Jores"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.304, 
+        "sw_longitude": -1.427, 
+        "fullname": "St.-Jores, Basse-Normandie, Manche, France", 
+        "sw_latitude": 49.296
+      }, 
+      "id": 624889
+    }
+  ]
+}

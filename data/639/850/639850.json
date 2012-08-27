@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.766, 
+              53.063
+            ], 
+            [
+              10.766, 
+              53.086
+            ], 
+            [
+              10.781, 
+              53.086
+            ], 
+            [
+              10.781, 
+              53.063
+            ], 
+            [
+              10.766, 
+              53.063
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639850, 
+        "name": "Boecke", 
+        "adjacent_woeid": [
+          666633, 
+          692043, 
+          699708, 
+          20166952
+        ], 
+        "ne_latitude": 53.086, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.781, 
+        "longitude": 10.771, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12629795, 
+        "latitude": 53.071, 
+        "sw_longitude": 10.766, 
+        "fullname": "Boecke, Lower Saxony, Landkreis Uelzen, Germany", 
+        "sw_latitude": 53.063
+      }, 
+      "id": 639850
+    }
+  ]
+}

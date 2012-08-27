@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.539, 
+              45.194
+            ], 
+            [
+              1.539, 
+              45.203
+            ], 
+            [
+              1.552, 
+              45.203
+            ], 
+            [
+              1.552, 
+              45.194
+            ], 
+            [
+              1.539, 
+              45.194
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623001, 
+        "name": "St.-Antoine-les-Plantades", 
+        "adjacent_woeid": [
+          589021, 
+          627517, 
+          629093
+        ], 
+        "ne_latitude": 45.203, 
+        "ne_longitude": 1.552, 
+        "longitude": 1.545, 
+        "parent_woeid": 12658930, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-antoine les Plantades"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.198, 
+        "sw_longitude": 1.539, 
+        "fullname": "St.-Antoine-les-Plantades, Limousin, Correze, France", 
+        "sw_latitude": 45.194
+      }, 
+      "id": 623001
+    }
+  ]
+}

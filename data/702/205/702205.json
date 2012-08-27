@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.472, 
+              52.178
+            ], 
+            [
+              12.472, 
+              52.228
+            ], 
+            [
+              12.509, 
+              52.228
+            ], 
+            [
+              12.509, 
+              52.178
+            ], 
+            [
+              12.472, 
+              52.178
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702205, 
+        "name": "Verlorenwasser", 
+        "adjacent_woeid": [
+          646585, 
+          654427, 
+          666301, 
+          705063, 
+          705428
+        ], 
+        "ne_latitude": 52.228, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.509, 
+        "longitude": 12.483, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 24547285, 
+        "latitude": 52.206, 
+        "sw_longitude": 12.472, 
+        "fullname": "Verlorenwasser, Brandenburg, Potsdam-Mittelmark, Germany", 
+        "alias_GER_V": [
+          "Kolonie Verlorenwasser"
+        ], 
+        "sw_latitude": 52.178
+      }, 
+      "id": 702205
+    }
+  ]
+}

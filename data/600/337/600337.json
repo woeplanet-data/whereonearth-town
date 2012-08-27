@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.527, 
+              47.231
+            ], 
+            [
+              1.527, 
+              47.255
+            ], 
+            [
+              1.560, 
+              47.255
+            ], 
+            [
+              1.560, 
+              47.231
+            ], 
+            [
+              1.527, 
+              47.231
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600337, 
+        "name": "La Vernelle", 
+        "adjacent_woeid": [
+          584006, 
+          591537, 
+          611357, 
+          617494, 
+          630102, 
+          20186916, 
+          29332044
+        ], 
+        "ne_latitude": 47.255, 
+        "ne_longitude": 1.560, 
+        "longitude": 1.544, 
+        "parent_woeid": 12640937, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vernelle"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.248, 
+        "sw_longitude": 1.527, 
+        "fullname": "La Vernelle, Centre, Indre, France", 
+        "sw_latitude": 47.231
+      }, 
+      "id": 600337
+    }
+  ]
+}

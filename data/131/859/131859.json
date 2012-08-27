@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.760, 
+              20.191
+            ], 
+            [
+              -100.760, 
+              20.209
+            ], 
+            [
+              -100.740, 
+              20.209
+            ], 
+            [
+              -100.740, 
+              20.191
+            ], 
+            [
+              -100.760, 
+              20.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.209, 
+        "name": "Los Fierros", 
+        "adjacent_woeid": [
+          111037, 
+          120556, 
+          123355, 
+          135147, 
+          135976, 
+          55896212
+        ], 
+        "woeid": 131859, 
+        "alias_SPA_V": [
+          "Fierros"
+        ], 
+        "ne_longitude": -100.740, 
+        "longitude": -100.750, 
+        "parent_woeid": 12600027, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.200, 
+        "sw_longitude": -100.760, 
+        "fullname": "Los Fierros, Guanajuato, Tarimoro, Mexico", 
+        "sw_latitude": 20.191
+      }, 
+      "id": 131859
+    }
+  ]
+}

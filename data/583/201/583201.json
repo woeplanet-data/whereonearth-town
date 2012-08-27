@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.781, 
+              44.285
+            ], 
+            [
+              0.781, 
+              44.310
+            ], 
+            [
+              0.802, 
+              44.310
+            ], 
+            [
+              0.802, 
+              44.285
+            ], 
+            [
+              0.781, 
+              44.285
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583201, 
+        "name": "Cassignas", 
+        "adjacent_woeid": [
+          583450, 
+          592063, 
+          594495, 
+          611837
+        ], 
+        "ne_latitude": 44.310, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.802, 
+        "longitude": 0.792, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12640490, 
+        "latitude": 44.298, 
+        "sw_longitude": 0.781, 
+        "fullname": "Cassignas, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.285
+      }, 
+      "id": 583201
+    }
+  ]
+}

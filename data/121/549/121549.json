@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -112.133, 
+              31.254
+            ], 
+            [
+              -112.133, 
+              31.272
+            ], 
+            [
+              -112.111, 
+              31.272
+            ], 
+            [
+              -112.111, 
+              31.254
+            ], 
+            [
+              -112.133, 
+              31.254
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.272, 
+        "name": "El Plomo", 
+        "adjacent_woeid": [
+          119147, 
+          120003, 
+          132148, 
+          142685, 
+          144279, 
+          145288
+        ], 
+        "woeid": 121549, 
+        "alias_SPA_V": [
+          "Mina de Plomo"
+        ], 
+        "ne_longitude": -112.111, 
+        "longitude": -112.122, 
+        "parent_woeid": 12601548, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.263, 
+        "sw_longitude": -112.133, 
+        "fullname": "El Plomo, Sonora, Altar, Mexico", 
+        "sw_latitude": 31.254
+      }, 
+      "id": 121549
+    }
+  ]
+}

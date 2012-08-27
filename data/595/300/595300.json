@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.963, 
+              46.927
+            ], 
+            [
+              1.963, 
+              46.975
+            ], 
+            [
+              2.024, 
+              46.975
+            ], 
+            [
+              2.024, 
+              46.927
+            ], 
+            [
+              1.963, 
+              46.927
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595300, 
+        "name": "Issoudun", 
+        "adjacent_woeid": [
+          576496, 
+          577530, 
+          584741, 
+          585949, 
+          586741, 
+          588630, 
+          595505, 
+          605557, 
+          607871, 
+          608066, 
+          608311, 
+          619248, 
+          621166, 
+          622879, 
+          623009, 
+          623061, 
+          630171, 
+          632190
+        ], 
+        "ne_latitude": 46.975, 
+        "ne_longitude": 2.024, 
+        "longitude": 1.991, 
+        "parent_woeid": 12641663, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Uxellodunum"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.950, 
+        "sw_longitude": 1.963, 
+        "fullname": "Issoudun, Centre, Indre, France", 
+        "sw_latitude": 46.927
+      }, 
+      "id": 595300
+    }
+  ]
+}

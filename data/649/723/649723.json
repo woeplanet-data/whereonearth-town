@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.833, 
+              50.522
+            ], 
+            [
+              9.833, 
+              50.544
+            ], 
+            [
+              9.851, 
+              50.544
+            ], 
+            [
+              9.851, 
+              50.522
+            ], 
+            [
+              9.833, 
+              50.522
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649723, 
+        "name": "Finkenhain", 
+        "adjacent_woeid": [
+          650885, 
+          669472, 
+          670113, 
+          707609
+        ], 
+        "ne_latitude": 50.544, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.851, 
+        "longitude": 9.837, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12632739, 
+        "latitude": 50.533, 
+        "sw_longitude": 9.833, 
+        "fullname": "Finkenhain, Hesse, Landkreis Fulda, Germany", 
+        "sw_latitude": 50.522
+      }, 
+      "id": 649723
+    }
+  ]
+}

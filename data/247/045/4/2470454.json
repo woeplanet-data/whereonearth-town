@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.213, 
+              44.444
+            ], 
+            [
+              -123.213, 
+              44.453
+            ], 
+            [
+              -123.200, 
+              44.453
+            ], 
+            [
+              -123.200, 
+              44.444
+            ], 
+            [
+              -123.213, 
+              44.444
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2470454, 
+        "name": "Peoria", 
+        "adjacent_woeid": [
+          2362054, 
+          2393845, 
+          2402722, 
+          2414112, 
+          2429064, 
+          2460131, 
+          2463849
+        ], 
+        "ne_latitude": 44.453, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.200, 
+        "longitude": -123.206, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:30:05Z", 
+        "parent_woeid": 12589713, 
+        "latitude": 44.448, 
+        "sw_longitude": -123.213, 
+        "fullname": "Peoria, Oregon, Linn, United States", 
+        "sw_latitude": 44.444
+      }, 
+      "id": 2470454
+    }
+  ]
+}

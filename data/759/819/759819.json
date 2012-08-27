@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.101, 
+              42.309
+            ], 
+            [
+              -2.101, 
+              42.327
+            ], 
+            [
+              -2.083, 
+              42.327
+            ], 
+            [
+              -2.083, 
+              42.309
+            ], 
+            [
+              -2.101, 
+              42.309
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.327, 
+        "name": "El Villar de Arnedo", 
+        "adjacent_woeid": [
+          751929, 
+          753006, 
+          753308, 
+          768605, 
+          770709, 
+          776147
+        ], 
+        "woeid": 759819, 
+        "alias_SPA_V": [
+          "El Villar de Arneda"
+        ], 
+        "ne_longitude": -2.083, 
+        "longitude": -2.092, 
+        "parent_woeid": 12687933, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.318, 
+        "sw_longitude": -2.101, 
+        "fullname": "El Villar de Arnedo, La Rioja, Rioja, Spain", 
+        "sw_latitude": 42.309
+      }, 
+      "id": 759819
+    }
+  ]
+}

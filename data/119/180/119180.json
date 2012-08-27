@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.110, 
+              25.024
+            ], 
+            [
+              -100.110, 
+              25.042
+            ], 
+            [
+              -100.090, 
+              25.042
+            ], 
+            [
+              -100.090, 
+              25.024
+            ], 
+            [
+              -100.110, 
+              25.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.042, 
+        "name": "El Barreal", 
+        "adjacent_woeid": [
+          121369, 
+          122702, 
+          144171, 
+          146667, 
+          146669
+        ], 
+        "woeid": 119180, 
+        "alias_SPA_V": [
+          "Barrial"
+        ], 
+        "ne_longitude": -100.090, 
+        "longitude": -100.100, 
+        "parent_woeid": 12600648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.033, 
+        "sw_longitude": -100.110, 
+        "fullname": "El Barreal, Nuevo Leon, Rayones, Mexico", 
+        "sw_latitude": 25.024
+      }, 
+      "id": 119180
+    }
+  ]
+}

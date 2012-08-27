@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -55.447, 
+              47.672
+            ], 
+            [
+              -55.447, 
+              47.695
+            ], 
+            [
+              -55.419, 
+              47.695
+            ], 
+            [
+              -55.419, 
+              47.672
+            ], 
+            [
+              -55.447, 
+              47.672
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1234, 
+        "name": "Pool's Cove", 
+        "adjacent_woeid": [
+          560, 
+          3908, 
+          3921, 
+          23388626, 
+          23388662, 
+          23388663, 
+          29374822
+        ], 
+        "ne_latitude": 47.695, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -55.419, 
+        "longitude": -55.431, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:22:56Z", 
+        "parent_woeid": 29375216, 
+        "latitude": 47.683, 
+        "sw_longitude": -55.447, 
+        "fullname": "Pool's Cove, Newfoundland and Labrador, Newfoundland and Labrador, Canada", 
+        "sw_latitude": 47.672
+      }, 
+      "id": 1234
+    }
+  ]
+}

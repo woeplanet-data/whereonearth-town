@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.318, 
+              46.097
+            ], 
+            [
+              2.318, 
+              46.120
+            ], 
+            [
+              2.341, 
+              46.120
+            ], 
+            [
+              2.341, 
+              46.097
+            ], 
+            [
+              2.318, 
+              46.097
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602456, 
+        "name": "Le Chauchet", 
+        "adjacent_woeid": [
+          576150, 
+          624997, 
+          625320, 
+          626577, 
+          628064
+        ], 
+        "ne_latitude": 46.120, 
+        "ne_longitude": 2.341, 
+        "longitude": 2.333, 
+        "parent_woeid": 12663404, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Cauchet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.109, 
+        "sw_longitude": 2.318, 
+        "fullname": "Le Chauchet, Limousin, Creuse, France", 
+        "sw_latitude": 46.097
+      }, 
+      "id": 602456
+    }
+  ]
+}

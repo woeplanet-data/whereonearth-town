@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.305, 
+              9.862
+            ], 
+            [
+              -84.305, 
+              9.871
+            ], 
+            [
+              -84.295, 
+              9.871
+            ], 
+            [
+              -84.295, 
+              9.862
+            ], 
+            [
+              -84.305, 
+              9.862
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.871, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          58054, 
+          58215, 
+          58522, 
+          58551, 
+          59809
+        ], 
+        "woeid": 59333, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -84.295, 
+        "longitude": -84.300, 
+        "parent_woeid": 26809161, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.867, 
+        "sw_longitude": -84.305, 
+        "fullname": "San Antonio, San Jose, Puriscal, Costa Rica", 
+        "sw_latitude": 9.862
+      }, 
+      "id": 59333
+    }
+  ]
+}

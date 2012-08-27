@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.678, 
+              45.729
+            ], 
+            [
+              5.678, 
+              45.754
+            ], 
+            [
+              5.709, 
+              45.754
+            ], 
+            [
+              5.709, 
+              45.729
+            ], 
+            [
+              5.678, 
+              45.729
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20207812, 
+        "name": "Les Ecassas", 
+        "adjacent_woeid": [
+          632421, 
+          20207821, 
+          29330427
+        ], 
+        "ne_latitude": 45.754, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.709, 
+        "longitude": 5.701, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12656724, 
+        "latitude": 45.741, 
+        "sw_longitude": 5.678, 
+        "fullname": "Les Ecassas, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 45.729
+      }, 
+      "id": 20207812
+    }
+  ]
+}

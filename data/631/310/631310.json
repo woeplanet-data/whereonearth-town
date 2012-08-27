@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.239, 
+              47.688
+            ], 
+            [
+              2.239, 
+              47.770
+            ], 
+            [
+              2.345, 
+              47.770
+            ], 
+            [
+              2.345, 
+              47.688
+            ], 
+            [
+              2.239, 
+              47.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631310, 
+        "name": "Viglain", 
+        "adjacent_woeid": [
+          594065, 
+          595255, 
+          614236, 
+          630030, 
+          631795
+        ], 
+        "ne_latitude": 47.770, 
+        "ne_longitude": 2.345, 
+        "longitude": 2.302, 
+        "parent_woeid": 12647862, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Viglian"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.728, 
+        "sw_longitude": 2.239, 
+        "fullname": "Viglain, Centre, Loiret, France", 
+        "sw_latitude": 47.688
+      }, 
+      "id": 631310
+    }
+  ]
+}

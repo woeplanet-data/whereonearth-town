@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.060, 
+              20.808
+            ], 
+            [
+              -104.060, 
+              20.826
+            ], 
+            [
+              -104.040, 
+              20.826
+            ], 
+            [
+              -104.040, 
+              20.808
+            ], 
+            [
+              -104.060, 
+              20.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.826, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          112215, 
+          123576, 
+          132667, 
+          141423, 
+          146908
+        ], 
+        "woeid": 144978, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -104.040, 
+        "longitude": -104.050, 
+        "parent_woeid": 12600200, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.817, 
+        "sw_longitude": -104.060, 
+        "fullname": "San Pedro, Jalisco, Antonio Escobedo, Mexico", 
+        "sw_latitude": 20.808
+      }, 
+      "id": 144978
+    }
+  ]
+}

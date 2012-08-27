@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.814, 
+              42.608
+            ], 
+            [
+              -78.814, 
+              42.696
+            ], 
+            [
+              -78.697, 
+              42.696
+            ], 
+            [
+              -78.697, 
+              42.608
+            ], 
+            [
+              -78.814, 
+              42.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2367093, 
+        "name": "Boston", 
+        "adjacent_woeid": [
+          2382785, 
+          2383977, 
+          2396981, 
+          2416511, 
+          2460700, 
+          2460823, 
+          2498524, 
+          2517001
+        ], 
+        "ne_latitude": 42.696, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Boston, Town of"
+        ], 
+        "ne_longitude": -78.697, 
+        "longitude": -78.745, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:19Z", 
+        "parent_woeid": 12589326, 
+        "latitude": 42.653, 
+        "sw_longitude": -78.814, 
+        "fullname": "Boston, New York, Erie, United States", 
+        "sw_latitude": 42.608
+      }, 
+      "id": 2367093
+    }
+  ]
+}

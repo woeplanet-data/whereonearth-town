@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.425, 
+              45.102
+            ], 
+            [
+              -0.425, 
+              45.132
+            ], 
+            [
+              -0.391, 
+              45.132
+            ], 
+            [
+              -0.391, 
+              45.102
+            ], 
+            [
+              -0.425, 
+              45.102
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625483, 
+        "name": "St.-Mariens", 
+        "adjacent_woeid": [
+          583757, 
+          586074, 
+          601571, 
+          627341, 
+          20196365
+        ], 
+        "ne_latitude": 45.132, 
+        "ne_longitude": -0.391, 
+        "longitude": -0.404, 
+        "parent_woeid": 12652845, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mariens"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.117, 
+        "sw_longitude": -0.425, 
+        "fullname": "St.-Mariens, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.102
+      }, 
+      "id": 625483
+    }
+  ]
+}

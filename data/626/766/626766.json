@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.131, 
+              45.263
+            ], 
+            [
+              0.131, 
+              45.290
+            ], 
+            [
+              0.162, 
+              45.290
+            ], 
+            [
+              0.162, 
+              45.263
+            ], 
+            [
+              0.131, 
+              45.263
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626766, 
+        "name": "St.-Romain", 
+        "adjacent_woeid": [
+          579177, 
+          580660, 
+          587483, 
+          601450, 
+          606123, 
+          615132, 
+          616632, 
+          620118
+        ], 
+        "ne_latitude": 45.290, 
+        "ne_longitude": 0.162, 
+        "longitude": 0.147, 
+        "parent_woeid": 12671183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Romain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.277, 
+        "sw_longitude": 0.131, 
+        "fullname": "St.-Romain, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.263
+      }, 
+      "id": 626766
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.275, 
+              51.339
+            ], 
+            [
+              3.275, 
+              51.355
+            ], 
+            [
+              3.300, 
+              51.355
+            ], 
+            [
+              3.300, 
+              51.339
+            ], 
+            [
+              3.275, 
+              51.339
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "adjacent_woeid": [
+          967974, 
+          968620, 
+          972186, 
+          20098225
+        ], 
+        "name": "Knokke-Heist", 
+        "alias_ENG_P": [
+          "Knokkne"
+        ], 
+        "supercededby_woeid": 972186, 
+        "woeid": 972188, 
+        "provider": "geoplanet 7.5.1", 
+        "ne_longitude": 3.300, 
+        "longitude": 3.288, 
+        "parent_woeid": 12602275, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "sw_latitude": 51.339, 
+        "ne_latitude": 51.355, 
+        "latitude": 51.347, 
+        "sw_longitude": 3.275, 
+        "fullname": "Knokkne, West-Vlaanderen, Bruges, Belgium", 
+        "date_indexed": "2010-06-06T12:06:30Z"
+      }, 
+      "id": 972188
+    }
+  ]
+}

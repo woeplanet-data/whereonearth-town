@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.212, 
+              45.524
+            ], 
+            [
+              4.212, 
+              45.561
+            ], 
+            [
+              4.254, 
+              45.561
+            ], 
+            [
+              4.254, 
+              45.524
+            ], 
+            [
+              4.212, 
+              45.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623633, 
+        "name": "St.-Cyprien", 
+        "adjacent_woeid": [
+          580735, 
+          581418, 
+          587728, 
+          20209915, 
+          29330547
+        ], 
+        "ne_latitude": 45.561, 
+        "ne_longitude": 4.254, 
+        "longitude": 4.237, 
+        "parent_woeid": 12657649, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cyprien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.539, 
+        "sw_longitude": 4.212, 
+        "fullname": "St.-Cyprien, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.524
+      }, 
+      "id": 623633
+    }
+  ]
+}

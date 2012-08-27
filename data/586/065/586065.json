@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.813, 
+              49.970
+            ], 
+            [
+              1.813, 
+              50.003
+            ], 
+            [
+              1.841, 
+              50.003
+            ], 
+            [
+              1.841, 
+              49.970
+            ], 
+            [
+              1.813, 
+              49.970
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 586065, 
+        "name": "Citerne", 
+        "adjacent_woeid": [
+          591566, 
+          592232, 
+          594873, 
+          611085, 
+          614171, 
+          630377, 
+          632951, 
+          632985
+        ], 
+        "ne_latitude": 50.003, 
+        "ne_longitude": 1.841, 
+        "longitude": 1.824, 
+        "parent_woeid": 12659504, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Citernes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.982, 
+        "sw_longitude": 1.813, 
+        "fullname": "Citerne, Picardie, Somme, France", 
+        "sw_latitude": 49.970
+      }, 
+      "id": 586065
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.657, 
+              49.779
+            ], 
+            [
+              0.657, 
+              49.797
+            ], 
+            [
+              0.685, 
+              49.797
+            ], 
+            [
+              0.685, 
+              49.779
+            ], 
+            [
+              0.657, 
+              49.779
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330965, 
+        "name": "Le Bout de Sasseville", 
+        "adjacent_woeid": [
+          614808, 
+          621123, 
+          29330910
+        ], 
+        "ne_latitude": 49.797, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.685, 
+        "longitude": 0.672, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12643823, 
+        "latitude": 49.788, 
+        "sw_longitude": 0.657, 
+        "fullname": "Le Bout de Sasseville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.779
+      }, 
+      "id": 29330965
+    }
+  ]
+}

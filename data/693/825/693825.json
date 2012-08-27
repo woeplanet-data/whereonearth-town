@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.195, 
+              48.535
+            ], 
+            [
+              12.195, 
+              48.555
+            ], 
+            [
+              12.222, 
+              48.555
+            ], 
+            [
+              12.222, 
+              48.535
+            ], 
+            [
+              12.195, 
+              48.535
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693825, 
+        "name": "Schweinbach", 
+        "adjacent_woeid": [
+          634038, 
+          659683, 
+          696296, 
+          707639, 
+          20154433, 
+          20172467
+        ], 
+        "ne_latitude": 48.555, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.222, 
+        "longitude": 12.205, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12622825, 
+        "latitude": 48.545, 
+        "sw_longitude": 12.195, 
+        "fullname": "Schweinbach, Bavaria, Stadtkreis Landshut, Germany", 
+        "sw_latitude": 48.535
+      }, 
+      "id": 693825
+    }
+  ]
+}

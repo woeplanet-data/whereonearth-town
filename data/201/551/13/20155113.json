@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.902, 
+              48.353
+            ], 
+            [
+              12.902, 
+              48.372
+            ], 
+            [
+              12.929, 
+              48.372
+            ], 
+            [
+              12.929, 
+              48.353
+            ], 
+            [
+              12.902, 
+              48.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20155113, 
+        "name": "N\u00fcrnberg", 
+        "adjacent_woeid": [
+          635009, 
+          663431, 
+          669121, 
+          695362, 
+          703331, 
+          20155111, 
+          20155114
+        ], 
+        "alias_GER_S": [
+          "Nuernberg"
+        ], 
+        "ne_latitude": 48.372, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.929, 
+        "longitude": 12.916, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:04Z", 
+        "parent_woeid": 12622990, 
+        "latitude": 48.362, 
+        "sw_longitude": 12.902, 
+        "fullname": "N\u00fcrnberg, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.353
+      }, 
+      "id": 20155113
+    }
+  ]
+}

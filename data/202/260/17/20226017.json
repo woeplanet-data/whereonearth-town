@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.239, 
+              42.133
+            ], 
+            [
+              -1.239, 
+              42.145
+            ], 
+            [
+              -1.225, 
+              42.145
+            ], 
+            [
+              -1.225, 
+              42.133
+            ], 
+            [
+              -1.239, 
+              42.133
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.145, 
+        "name": "Santa Anastasia", 
+        "adjacent_woeid": [
+          15003735, 
+          15003736, 
+          20222435, 
+          20225662, 
+          20226655
+        ], 
+        "woeid": 20226017, 
+        "alias_SPA_V": [
+          "Sta Anastasia"
+        ], 
+        "ne_longitude": -1.225, 
+        "longitude": -1.233, 
+        "parent_woeid": 12689928, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.139, 
+        "sw_longitude": -1.239, 
+        "fullname": "Santa Anastasia, Aragon, Zaragoza, Spain", 
+        "sw_latitude": 42.133
+      }, 
+      "id": 20226017
+    }
+  ]
+}

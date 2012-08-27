@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.993, 
+              47.295
+            ], 
+            [
+              12.993, 
+              47.305
+            ], 
+            [
+              13.007, 
+              47.305
+            ], 
+            [
+              13.007, 
+              47.295
+            ], 
+            [
+              12.993, 
+              47.295
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 547418, 
+        "name": "Berg", 
+        "adjacent_woeid": [
+          547474, 
+          20095425, 
+          20097240, 
+          20097407, 
+          20097503
+        ], 
+        "ne_latitude": 47.305, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.007, 
+        "longitude": 13.000, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:33:55Z", 
+        "parent_woeid": 12674709, 
+        "latitude": 47.300, 
+        "sw_longitude": 12.993, 
+        "fullname": "Berg, Salzburg, Zell am See, Austria", 
+        "sw_latitude": 47.295
+      }, 
+      "id": 547418
+    }
+  ]
+}

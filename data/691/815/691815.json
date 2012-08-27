@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.580, 
+              48.729
+            ], 
+            [
+              13.580, 
+              48.749
+            ], 
+            [
+              13.607, 
+              48.749
+            ], 
+            [
+              13.607, 
+              48.729
+            ], 
+            [
+              13.580, 
+              48.729
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 691815, 
+        "name": "Schiefweg", 
+        "adjacent_woeid": [
+          675646, 
+          681643, 
+          686608, 
+          688375, 
+          694702, 
+          708060, 
+          20154209
+        ], 
+        "ne_latitude": 48.749, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.607, 
+        "longitude": 13.591, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12622876, 
+        "latitude": 48.739, 
+        "sw_longitude": 13.580, 
+        "fullname": "Schiefweg, Bavaria, Freyung-Grafenau, Germany", 
+        "alias_GER_V": [
+          "Schliefweg"
+        ], 
+        "sw_latitude": 48.729
+      }, 
+      "id": 691815
+    }
+  ]
+}

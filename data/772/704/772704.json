@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.291, 
+              38.801
+            ], 
+            [
+              -3.291, 
+              38.890
+            ], 
+            [
+              -3.192, 
+              38.890
+            ], 
+            [
+              -3.192, 
+              38.801
+            ], 
+            [
+              -3.291, 
+              38.801
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.890, 
+        "name": "San Carlos del Valle", 
+        "adjacent_woeid": [
+          752090, 
+          764070, 
+          767034, 
+          770656, 
+          776603
+        ], 
+        "woeid": 772704, 
+        "alias_SPA_V": [
+          "S. Carlos del Valle"
+        ], 
+        "ne_longitude": -3.192, 
+        "longitude": -3.240, 
+        "parent_woeid": 12690373, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.840, 
+        "sw_longitude": -3.291, 
+        "fullname": "San Carlos del Valle, Castille la Mancha, Ciudad Real, Spain", 
+        "sw_latitude": 38.801
+      }, 
+      "id": 772704
+    }
+  ]
+}

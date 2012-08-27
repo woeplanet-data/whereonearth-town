@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.055, 
+              9.679
+            ], 
+            [
+              -84.055, 
+              9.688
+            ], 
+            [
+              -84.045, 
+              9.688
+            ], 
+            [
+              -84.045, 
+              9.679
+            ], 
+            [
+              -84.055, 
+              9.679
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.688, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          57952, 
+          58653, 
+          59301, 
+          59335, 
+          59397, 
+          59470, 
+          59621
+        ], 
+        "woeid": 59515, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -84.045, 
+        "longitude": -84.050, 
+        "parent_woeid": 26809222, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.683, 
+        "sw_longitude": -84.055, 
+        "fullname": "San Pablo, San Jose, Le\u00f3n Cort\u00e9s, Costa Rica", 
+        "sw_latitude": 9.679
+      }, 
+      "id": 59515
+    }
+  ]
+}

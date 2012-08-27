@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -6.765, 
+              42.618
+            ], 
+            [
+              -6.765, 
+              42.655
+            ], 
+            [
+              -6.735, 
+              42.655
+            ], 
+            [
+              -6.735, 
+              42.618
+            ], 
+            [
+              -6.765, 
+              42.618
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.655, 
+        "name": "San Clemente", 
+        "adjacent_woeid": [
+          770391, 
+          771123, 
+          776915, 
+          777583, 
+          20225429, 
+          29372025
+        ], 
+        "woeid": 772731, 
+        "alias_SPA_V": [
+          "S. Clemente"
+        ], 
+        "ne_longitude": -6.735, 
+        "longitude": -6.747, 
+        "parent_woeid": 12691775, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.630, 
+        "sw_longitude": -6.765, 
+        "fullname": "San Clemente, Castille and Leon, Leon, Spain", 
+        "sw_latitude": 42.618
+      }, 
+      "id": 772731
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.494, 
+              28.641
+            ], 
+            [
+              -111.494, 
+              28.659
+            ], 
+            [
+              -111.473, 
+              28.659
+            ], 
+            [
+              -111.473, 
+              28.641
+            ], 
+            [
+              -111.494, 
+              28.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.659, 
+        "name": "Santa Elvira", 
+        "adjacent_woeid": [
+          113870, 
+          116169, 
+          118976, 
+          136898, 
+          140966, 
+          146895
+        ], 
+        "woeid": 146116, 
+        "alias_SPA_V": [
+          "Sta. Elvira"
+        ], 
+        "ne_longitude": -111.473, 
+        "longitude": -111.483, 
+        "parent_woeid": 12601574, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.650, 
+        "sw_longitude": -111.494, 
+        "fullname": "Santa Elvira, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 28.641
+      }, 
+      "id": 146116
+    }
+  ]
+}

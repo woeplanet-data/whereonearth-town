@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.771, 
+              53.141
+            ], 
+            [
+              11.771, 
+              53.176
+            ], 
+            [
+              11.810, 
+              53.176
+            ], 
+            [
+              11.810, 
+              53.141
+            ], 
+            [
+              11.771, 
+              53.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704148, 
+        "name": "Waterloo", 
+        "adjacent_woeid": [
+          639631, 
+          652889, 
+          667428, 
+          685770, 
+          685911, 
+          697770
+        ], 
+        "ne_latitude": 53.176, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.810, 
+        "longitude": 11.795, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:56Z", 
+        "parent_woeid": 24547342, 
+        "latitude": 53.156, 
+        "sw_longitude": 11.771, 
+        "fullname": "Waterloo, Brandenburg, Prignitz, Germany", 
+        "sw_latitude": 53.141
+      }, 
+      "id": 704148
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.008, 
+              18.824
+            ], 
+            [
+              -99.008, 
+              18.843
+            ], 
+            [
+              -98.989, 
+              18.843
+            ], 
+            [
+              -98.989, 
+              18.824
+            ], 
+            [
+              -99.008, 
+              18.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 124958, 
+        "name": "Hospital", 
+        "adjacent_woeid": [
+          112241, 
+          112651, 
+          112752, 
+          114164, 
+          116701, 
+          117812, 
+          128415, 
+          146235
+        ], 
+        "ne_latitude": 18.843, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -98.989, 
+        "longitude": -98.999, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "parent_woeid": 12600558, 
+        "latitude": 18.834, 
+        "sw_longitude": -99.008, 
+        "fullname": "Hospital, Morelos, Cuautla, Mexico", 
+        "sw_latitude": 18.824
+      }, 
+      "id": 124958
+    }
+  ]
+}

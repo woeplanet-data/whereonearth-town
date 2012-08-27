@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.283, 
+              46.452
+            ], 
+            [
+              -0.283, 
+              46.461
+            ], 
+            [
+              -0.269, 
+              46.461
+            ], 
+            [
+              -0.269, 
+              46.452
+            ], 
+            [
+              -0.283, 
+              46.452
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20200314, 
+        "name": "Le Plessis", 
+        "adjacent_woeid": [
+          577181, 
+          597419, 
+          620673, 
+          624194, 
+          20200280, 
+          20200306
+        ], 
+        "ne_latitude": 46.461, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.269, 
+        "longitude": -0.276, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12655772, 
+        "latitude": 46.456, 
+        "sw_longitude": -0.283, 
+        "fullname": "Le Plessis, Poitou-Charentes, Deux-Sevres, France", 
+        "sw_latitude": 46.452
+      }, 
+      "id": 20200314
+    }
+  ]
+}

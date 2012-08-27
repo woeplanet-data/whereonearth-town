@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.321, 
+              45.645
+            ], 
+            [
+              12.321, 
+              45.654
+            ], 
+            [
+              12.334, 
+              45.654
+            ], 
+            [
+              12.334, 
+              45.645
+            ], 
+            [
+              12.321, 
+              45.645
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 23412526, 
+        "name": "Nerbon", 
+        "adjacent_woeid": [
+          20111545, 
+          20119639, 
+          20144358, 
+          29341183
+        ], 
+        "ne_latitude": 45.654, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.334, 
+        "longitude": 12.328, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:34Z", 
+        "parent_woeid": 12676843, 
+        "latitude": 45.650, 
+        "sw_longitude": 12.321, 
+        "fullname": "Nerbon, Veneto, Treviso, Italy", 
+        "sw_latitude": 45.645
+      }, 
+      "id": 23412526
+    }
+  ]
+}

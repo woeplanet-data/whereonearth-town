@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.826, 
+              48.434
+            ], 
+            [
+              10.826, 
+              48.480
+            ], 
+            [
+              10.855, 
+              48.480
+            ], 
+            [
+              10.855, 
+              48.434
+            ], 
+            [
+              10.826, 
+              48.434
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20157476, 
+        "name": "Gablingen-Siedlung", 
+        "adjacent_woeid": [
+          660316, 
+          661922, 
+          697235, 
+          20157482
+        ], 
+        "ne_latitude": 48.480, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.855, 
+        "longitude": 10.843, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12634764, 
+        "latitude": 48.462, 
+        "sw_longitude": 10.826, 
+        "fullname": "Gablingen-Siedlung, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.434
+      }, 
+      "id": 20157476
+    }
+  ]
+}

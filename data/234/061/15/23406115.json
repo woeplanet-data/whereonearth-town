@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.861, 
+              47.183
+            ], 
+            [
+              15.861, 
+              47.201
+            ], 
+            [
+              15.888, 
+              47.201
+            ], 
+            [
+              15.888, 
+              47.183
+            ], 
+            [
+              15.861, 
+              47.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23406115, 
+        "name": "Hinterwald", 
+        "adjacent_woeid": [
+          548154, 
+          548771, 
+          23406118, 
+          28996262
+        ], 
+        "ne_latitude": 47.201, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.888, 
+        "longitude": 15.874, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12675160, 
+        "latitude": 47.192, 
+        "sw_longitude": 15.861, 
+        "fullname": "Hinterwald, Styria, Hartberg, Austria", 
+        "sw_latitude": 47.183
+      }, 
+      "id": 23406115
+    }
+  ]
+}

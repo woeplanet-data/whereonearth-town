@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.205, 
+              45.177
+            ], 
+            [
+              -73.205, 
+              45.294
+            ], 
+            [
+              -73.070, 
+              45.294
+            ], 
+            [
+              -73.070, 
+              45.177
+            ], 
+            [
+              -73.205, 
+              45.177
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394478, 
+        "name": "St.-Alexandre", 
+        "adjacent_woeid": [
+          23394655, 
+          23396417, 
+          23396607, 
+          29374375
+        ], 
+        "ne_latitude": 45.294, 
+        "ne_longitude": -73.070, 
+        "longitude": -73.119, 
+        "parent_woeid": 29375141, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Alexandre"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.240, 
+        "sw_longitude": -73.205, 
+        "fullname": "St.-Alexandre, Quebec, Le Haut-Richelieu, Canada", 
+        "sw_latitude": 45.177
+      }, 
+      "id": 23394478
+    }
+  ]
+}

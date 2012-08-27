@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.336, 
+              24.781
+            ], 
+            [
+              -101.336, 
+              24.799
+            ], 
+            [
+              -101.316, 
+              24.799
+            ], 
+            [
+              -101.316, 
+              24.781
+            ], 
+            [
+              -101.336, 
+              24.781
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.799, 
+        "name": "El Colorado", 
+        "adjacent_woeid": [
+          112727, 
+          120889, 
+          125799, 
+          131981, 
+          137444
+        ], 
+        "woeid": 119889, 
+        "alias_SPA_V": [
+          "Colorado"
+        ], 
+        "ne_longitude": -101.316, 
+        "longitude": -101.326, 
+        "parent_woeid": 12602039, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.790, 
+        "sw_longitude": -101.336, 
+        "fullname": "El Colorado, Zacatecas, Concepcion del Oro, Mexico", 
+        "sw_latitude": 24.781
+      }, 
+      "id": 119889
+    }
+  ]
+}

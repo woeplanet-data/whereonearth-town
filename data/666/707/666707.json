@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.323, 
+              48.821
+            ], 
+            [
+              12.323, 
+              48.849
+            ], 
+            [
+              12.340, 
+              48.849
+            ], 
+            [
+              12.340, 
+              48.821
+            ], 
+            [
+              12.323, 
+              48.821
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666707, 
+        "name": "Kleinaich", 
+        "adjacent_woeid": [
+          647416, 
+          654784, 
+          656181, 
+          686196, 
+          700991, 
+          703717
+        ], 
+        "ne_latitude": 48.849, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.340, 
+        "longitude": 12.333, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12623019, 
+        "latitude": 48.833, 
+        "sw_longitude": 12.323, 
+        "fullname": "Kleinaich, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 48.821
+      }, 
+      "id": 666707
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.029, 
+              -3.600
+            ], 
+            [
+              -80.029, 
+              -3.445
+            ], 
+            [
+              -79.873, 
+              -3.445
+            ], 
+            [
+              -79.873, 
+              -3.600
+            ], 
+            [
+              -80.029, 
+              -3.600
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -3.445, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          369872, 
+          371560, 
+          372877, 
+          375589, 
+          375735, 
+          375746, 
+          375868, 
+          375951
+        ], 
+        "woeid": 375762, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -79.873, 
+        "longitude": -79.955, 
+        "parent_woeid": 26810507, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -3.455, 
+        "sw_longitude": -80.029, 
+        "fullname": "Santa Rosa, El Oro, Santa Rosa, Ecuador", 
+        "sw_latitude": -3.600
+      }, 
+      "id": 375762
+    }
+  ]
+}

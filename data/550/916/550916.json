@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.868, 
+              46.953
+            ], 
+            [
+              10.868, 
+              46.962
+            ], 
+            [
+              10.882, 
+              46.962
+            ], 
+            [
+              10.882, 
+              46.953
+            ], 
+            [
+              10.868, 
+              46.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550916, 
+        "name": "Mittelberg", 
+        "adjacent_woeid": [
+          550741, 
+          550885, 
+          551121, 
+          551421
+        ], 
+        "ne_latitude": 46.962, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.882, 
+        "longitude": 10.875, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12675390, 
+        "latitude": 46.957, 
+        "sw_longitude": 10.868, 
+        "fullname": "Mittelberg, Tyrol, Imst, Austria", 
+        "sw_latitude": 46.953
+      }, 
+      "id": 550916
+    }
+  ]
+}

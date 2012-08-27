@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.425, 
+              45.921
+            ], 
+            [
+              0.425, 
+              45.959
+            ], 
+            [
+              0.470, 
+              45.959
+            ], 
+            [
+              0.470, 
+              45.921
+            ], 
+            [
+              0.425, 
+              45.921
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603149, 
+        "name": "Le Grand-Madieu", 
+        "adjacent_woeid": [
+          605024, 
+          615752, 
+          625117, 
+          629529
+        ], 
+        "ne_latitude": 45.959, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.470, 
+        "longitude": 0.445, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 20075009, 
+        "latitude": 45.941, 
+        "sw_longitude": 0.425, 
+        "fullname": "Le Grand-Madieu, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.921
+      }, 
+      "id": 603149
+    }
+  ]
+}

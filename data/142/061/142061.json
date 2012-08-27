@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.793, 
+              26.558
+            ], 
+            [
+              -99.793, 
+              26.576
+            ], 
+            [
+              -99.773, 
+              26.576
+            ], 
+            [
+              -99.773, 
+              26.558
+            ], 
+            [
+              -99.793, 
+              26.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.576, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          111753, 
+          117055, 
+          118987, 
+          133160, 
+          135697, 
+          135731, 
+          145190, 
+          146760, 
+          150527
+        ], 
+        "woeid": 142061, 
+        "alias_SPA_V": [
+          "S. Carlos"
+        ], 
+        "ne_longitude": -99.773, 
+        "longitude": -99.783, 
+        "parent_woeid": 12600655, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.567, 
+        "sw_longitude": -99.793, 
+        "fullname": "San Carlos, Nuevo Leon, Vallecillo, Mexico", 
+        "sw_latitude": 26.558
+      }, 
+      "id": 142061
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.694, 
+              50.877
+            ], 
+            [
+              9.694, 
+              50.900
+            ], 
+            [
+              9.727, 
+              50.900
+            ], 
+            [
+              9.727, 
+              50.877
+            ], 
+            [
+              9.694, 
+              50.877
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20162464, 
+        "name": "Wehneberg", 
+        "adjacent_woeid": [
+          650725, 
+          658281, 
+          689282, 
+          698564
+        ], 
+        "ne_latitude": 50.900, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.727, 
+        "longitude": 9.708, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:52Z", 
+        "parent_woeid": 12632759, 
+        "latitude": 50.886, 
+        "sw_longitude": 9.694, 
+        "fullname": "Wehneberg, Hesse, Hersfeld-Rotenburg, Germany", 
+        "sw_latitude": 50.877
+      }, 
+      "id": 20162464
+    }
+  ]
+}

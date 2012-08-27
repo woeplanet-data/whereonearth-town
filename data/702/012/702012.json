@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.679, 
+              48.201
+            ], 
+            [
+              8.679, 
+              48.225
+            ], 
+            [
+              8.718, 
+              48.225
+            ], 
+            [
+              8.718, 
+              48.201
+            ], 
+            [
+              8.679, 
+              48.201
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702012, 
+        "name": "Vaihinger Hof", 
+        "adjacent_woeid": [
+          653487, 
+          678649, 
+          708749
+        ], 
+        "ne_latitude": 48.225, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.718, 
+        "longitude": 8.705, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12623443, 
+        "latitude": 48.212, 
+        "sw_longitude": 8.679, 
+        "fullname": "Vaihinger Hof, Baden-Wurttemberg, Landkreis Rottweil, Germany", 
+        "sw_latitude": 48.201
+      }, 
+      "id": 702012
+    }
+  ]
+}

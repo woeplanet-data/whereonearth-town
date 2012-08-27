@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.243, 
+              43.255
+            ], 
+            [
+              -3.243, 
+              43.283
+            ], 
+            [
+              -3.225, 
+              43.283
+            ], 
+            [
+              -3.225, 
+              43.255
+            ], 
+            [
+              -3.243, 
+              43.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.283, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          761696, 
+          763540, 
+          764099, 
+          764544, 
+          773195, 
+          20226471, 
+          20227153, 
+          29371519
+        ], 
+        "woeid": 773656, 
+        "alias_SPA_V": [
+          "Sta Cruz"
+        ], 
+        "ne_longitude": -3.225, 
+        "longitude": -3.233, 
+        "parent_woeid": 12695164, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.266, 
+        "sw_longitude": -3.243, 
+        "fullname": "Santa Cruz, Basque Country, Biscay, Spain", 
+        "sw_latitude": 43.255
+      }, 
+      "id": 773656
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.026, 
+              20.274
+            ], 
+            [
+              -99.026, 
+              20.298
+            ], 
+            [
+              -99.007, 
+              20.298
+            ], 
+            [
+              -99.007, 
+              20.274
+            ], 
+            [
+              -99.026, 
+              20.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.298, 
+        "name": "San Salvador", 
+        "adjacent_woeid": [
+          113626, 
+          120861, 
+          129864, 
+          141896, 
+          143993, 
+          146450, 
+          148862, 
+          55884099
+        ], 
+        "woeid": 145381, 
+        "alias_SPA_V": [
+          "S. Salvador"
+        ], 
+        "ne_longitude": -99.007, 
+        "longitude": -99.018, 
+        "parent_woeid": 12600163, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.290, 
+        "sw_longitude": -99.026, 
+        "fullname": "San Salvador, Hidalgo, San Salvador, Mexico", 
+        "sw_latitude": 20.274
+      }, 
+      "id": 145381
+    }
+  ]
+}

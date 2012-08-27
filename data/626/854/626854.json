@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.230, 
+              49.761
+            ], 
+            [
+              2.230, 
+              49.802
+            ], 
+            [
+              2.285, 
+              49.802
+            ], 
+            [
+              2.285, 
+              49.761
+            ], 
+            [
+              2.230, 
+              49.761
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626854, 
+        "name": "St.-Sauflieu", 
+        "adjacent_woeid": [
+          594564, 
+          608392, 
+          613819, 
+          615076, 
+          616744, 
+          620481
+        ], 
+        "ne_latitude": 49.802, 
+        "ne_longitude": 2.285, 
+        "longitude": 2.257, 
+        "parent_woeid": 12671208, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sauflieu"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.787, 
+        "sw_longitude": 2.230, 
+        "fullname": "St.-Sauflieu, Picardie, Somme, France", 
+        "sw_latitude": 49.761
+      }, 
+      "id": 626854
+    }
+  ]
+}

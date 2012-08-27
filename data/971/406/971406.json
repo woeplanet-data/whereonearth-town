@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.713, 
+              49.900
+            ], 
+            [
+              5.713, 
+              49.918
+            ], 
+            [
+              5.742, 
+              49.918
+            ], 
+            [
+              5.742, 
+              49.900
+            ], 
+            [
+              5.713, 
+              49.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 971406, 
+        "name": "Honville", 
+        "adjacent_woeid": [
+          971352, 
+          973635, 
+          973898, 
+          976592, 
+          977824
+        ], 
+        "ne_latitude": 49.918, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.742, 
+        "longitude": 5.728, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:11Z", 
+        "parent_woeid": 12602487, 
+        "latitude": 49.909, 
+        "sw_longitude": 5.713, 
+        "fullname": "Honville, Luxemburg, Bastogne, Belgium", 
+        "sw_latitude": 49.900
+      }, 
+      "id": 971406
+    }
+  ]
+}

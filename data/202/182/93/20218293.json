@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.253, 
+              49.456
+            ], 
+            [
+              2.253, 
+              49.492
+            ], 
+            [
+              2.286, 
+              49.492
+            ], 
+            [
+              2.286, 
+              49.456
+            ], 
+            [
+              2.253, 
+              49.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218293, 
+        "name": "St.-Rimault", 
+        "adjacent_woeid": [
+          590146, 
+          591732, 
+          594385, 
+          602895, 
+          619101, 
+          20218292
+        ], 
+        "ne_latitude": 49.492, 
+        "ne_longitude": 2.286, 
+        "longitude": 2.273, 
+        "parent_woeid": 22756192, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint Rimault"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.474, 
+        "sw_longitude": 2.253, 
+        "fullname": "St.-Rimault, Picardie, Oise, France", 
+        "sw_latitude": 49.456
+      }, 
+      "id": 20218293
+    }
+  ]
+}

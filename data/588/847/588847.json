@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.458, 
+              47.055
+            ], 
+            [
+              5.458, 
+              47.117
+            ], 
+            [
+              5.520, 
+              47.117
+            ], 
+            [
+              5.520, 
+              47.055
+            ], 
+            [
+              5.458, 
+              47.055
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588847, 
+        "name": "Dole", 
+        "adjacent_woeid": [
+          577409, 
+          577493, 
+          581888, 
+          584366, 
+          585284, 
+          587953, 
+          589401, 
+          590521, 
+          591668, 
+          591835, 
+          593317, 
+          595633, 
+          611738, 
+          612015, 
+          612148, 
+          620860, 
+          627327, 
+          628143, 
+          632137
+        ], 
+        "ne_latitude": 47.117, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "DLE"
+        ], 
+        "ne_longitude": 5.520, 
+        "longitude": 5.490, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12637899, 
+        "latitude": 47.090, 
+        "sw_longitude": 5.458, 
+        "fullname": "Dole, Franche-Comte, Jura, France", 
+        "sw_latitude": 47.055
+      }, 
+      "id": 588847
+    }
+  ]
+}

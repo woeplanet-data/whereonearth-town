@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.349, 
+              48.678
+            ], 
+            [
+              -72.349, 
+              49.011
+            ], 
+            [
+              -72.075, 
+              49.011
+            ], 
+            [
+              -72.075, 
+              48.678
+            ], 
+            [
+              -72.349, 
+              48.678
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394305, 
+        "name": "Dolbeau", 
+        "adjacent_woeid": [
+          7, 
+          974, 
+          1600, 
+          3388, 
+          3390, 
+          23394452, 
+          23394554, 
+          29374136, 
+          29374148
+        ], 
+        "ne_latitude": 49.011, 
+        "ne_longitude": -72.075, 
+        "longitude": -72.232, 
+        "parent_woeid": 29375173, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Dolbeau-Mistassini"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.882, 
+        "sw_longitude": -72.349, 
+        "fullname": "Dolbeau, Quebec, Maria-Chapdelaine, Canada", 
+        "sw_latitude": 48.678
+      }, 
+      "id": 23394305
+    }
+  ]
+}

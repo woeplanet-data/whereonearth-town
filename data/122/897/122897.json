@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.960, 
+              28.008
+            ], 
+            [
+              -110.960, 
+              28.026
+            ], 
+            [
+              -110.940, 
+              28.026
+            ], 
+            [
+              -110.940, 
+              28.008
+            ], 
+            [
+              -110.960, 
+              28.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.026, 
+        "name": "El Valiente", 
+        "adjacent_woeid": [
+          113873, 
+          116454, 
+          123255, 
+          135359, 
+          141516, 
+          142089, 
+          142722, 
+          143493
+        ], 
+        "woeid": 122897, 
+        "alias_SPA_V": [
+          "Valiente"
+        ], 
+        "ne_longitude": -110.940, 
+        "longitude": -110.950, 
+        "parent_woeid": 12601573, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.017, 
+        "sw_longitude": -110.960, 
+        "fullname": "El Valiente, Sonora, Guaymas, Mexico", 
+        "sw_latitude": 28.008
+      }, 
+      "id": 122897
+    }
+  ]
+}

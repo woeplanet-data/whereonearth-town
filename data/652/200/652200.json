@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.173, 
+              52.858
+            ], 
+            [
+              10.173, 
+              52.897
+            ], 
+            [
+              10.198, 
+              52.897
+            ], 
+            [
+              10.198, 
+              52.858
+            ], 
+            [
+              10.173, 
+              52.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652200, 
+        "name": "Gerdehaus", 
+        "adjacent_woeid": [
+          676411, 
+          678870, 
+          20166619, 
+          20166620, 
+          20166621
+        ], 
+        "ne_latitude": 52.897, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.198, 
+        "longitude": 10.187, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12629604, 
+        "latitude": 52.882, 
+        "sw_longitude": 10.173, 
+        "fullname": "Gerdehaus, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.858
+      }, 
+      "id": 652200
+    }
+  ]
+}

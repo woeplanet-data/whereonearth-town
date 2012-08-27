@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.403, 
+              49.836
+            ], 
+            [
+              11.403, 
+              49.851
+            ], 
+            [
+              11.420, 
+              49.851
+            ], 
+            [
+              11.420, 
+              49.836
+            ], 
+            [
+              11.403, 
+              49.836
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704603, 
+        "name": "Weiher", 
+        "adjacent_woeid": [
+          643143, 
+          647050, 
+          650427, 
+          687893
+        ], 
+        "ne_latitude": 49.851, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.420, 
+        "longitude": 11.410, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12635280, 
+        "latitude": 49.841, 
+        "sw_longitude": 11.403, 
+        "fullname": "Weiher, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 49.836
+      }, 
+      "id": 704603
+    }
+  ]
+}

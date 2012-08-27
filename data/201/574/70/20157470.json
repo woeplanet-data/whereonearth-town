@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.778, 
+              48.522
+            ], 
+            [
+              10.778, 
+              48.553
+            ], 
+            [
+              10.814, 
+              48.553
+            ], 
+            [
+              10.814, 
+              48.522
+            ], 
+            [
+              10.778, 
+              48.522
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20157470, 
+        "name": "Markt", 
+        "adjacent_woeid": [
+          648483, 
+          670240, 
+          678939, 
+          688429, 
+          690820
+        ], 
+        "ne_latitude": 48.553, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.814, 
+        "longitude": 10.799, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12634754, 
+        "latitude": 48.533, 
+        "sw_longitude": 10.778, 
+        "fullname": "Markt, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.522
+      }, 
+      "id": 20157470
+    }
+  ]
+}

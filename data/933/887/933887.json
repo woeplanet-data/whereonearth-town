@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              32.123, 
+              50.130
+            ], 
+            [
+              32.123, 
+              50.150
+            ], 
+            [
+              32.144, 
+              50.150
+            ], 
+            [
+              32.144, 
+              50.130
+            ], 
+            [
+              32.123, 
+              50.130
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 933887, 
+        "name": "Shramkovka", 
+        "adjacent_woeid": [
+          917110, 
+          935559, 
+          921777, 
+          923385, 
+          934356, 
+          917972, 
+          926412
+        ], 
+        "ne_latitude": 50.150, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Khutor Shramkovka"
+        ], 
+        "ne_longitude": 32.144, 
+        "longitude": 32.134, 
+        "placetype": "Town", 
+        "iso": "UA", 
+        "date_indexed": "2010-12-02T08:52:28Z", 
+        "parent_woeid": 2347534, 
+        "latitude": 50.140, 
+        "sw_longitude": 32.123, 
+        "fullname": "Shramkovka, Cherkasy Oblast, Ukraine", 
+        "sw_latitude": 50.130
+      }, 
+      "id": 933887
+    }
+  ]
+}

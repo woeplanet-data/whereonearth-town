@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.509, 
+              49.990
+            ], 
+            [
+              3.509, 
+              49.999
+            ], 
+            [
+              3.523, 
+              49.999
+            ], 
+            [
+              3.523, 
+              49.990
+            ], 
+            [
+              3.509, 
+              49.990
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218094, 
+        "name": "Regnicourt", 
+        "adjacent_woeid": [
+          611009, 
+          621538, 
+          630355, 
+          29333422
+        ], 
+        "ne_latitude": 49.999, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.523, 
+        "longitude": 3.516, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 12672135, 
+        "latitude": 49.995, 
+        "sw_longitude": 3.509, 
+        "fullname": "Regnicourt, Picardie, Aisne, France", 
+        "sw_latitude": 49.990
+      }, 
+      "id": 20218094
+    }
+  ]
+}

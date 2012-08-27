@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.459, 
+              10.486
+            ], 
+            [
+              -71.459, 
+              10.500
+            ], 
+            [
+              -71.445, 
+              10.500
+            ], 
+            [
+              -71.445, 
+              10.486
+            ], 
+            [
+              -71.459, 
+              10.486
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.500, 
+        "name": "Puerto Escondido", 
+        "adjacent_woeid": [
+          383422, 
+          395312, 
+          395319, 
+          395513
+        ], 
+        "woeid": 468318, 
+        "alias_SPA_V": [
+          "Pto Escondido"
+        ], 
+        "ne_longitude": -71.445, 
+        "longitude": -71.452, 
+        "parent_woeid": 26804804, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.493, 
+        "sw_longitude": -71.459, 
+        "fullname": "Puerto Escondido, Zulia, Santa Rita, Venezuela", 
+        "sw_latitude": 10.486
+      }, 
+      "id": 468318
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.156, 
+              48.837
+            ], 
+            [
+              10.156, 
+              48.867
+            ], 
+            [
+              10.185, 
+              48.867
+            ], 
+            [
+              10.185, 
+              48.837
+            ], 
+            [
+              10.156, 
+              48.837
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638343, 
+        "name": "Bernlohe", 
+        "adjacent_woeid": [
+          635439, 
+          687483, 
+          689864, 
+          695115
+        ], 
+        "ne_latitude": 48.867, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.185, 
+        "longitude": 10.177, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:44Z", 
+        "parent_woeid": 12624242, 
+        "latitude": 48.849, 
+        "sw_longitude": 10.156, 
+        "fullname": "Bernlohe, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.837
+      }, 
+      "id": 638343
+    }
+  ]
+}

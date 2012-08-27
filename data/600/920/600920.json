@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.980, 
+              48.220
+            ], 
+            [
+              3.980, 
+              48.252
+            ], 
+            [
+              4.013, 
+              48.252
+            ], 
+            [
+              4.013, 
+              48.220
+            ], 
+            [
+              3.980, 
+              48.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600920, 
+        "name": "Laines-aux-Bois", 
+        "adjacent_woeid": [
+          585708, 
+          605183, 
+          618172, 
+          622584, 
+          624252, 
+          626568, 
+          630195
+        ], 
+        "ne_latitude": 48.252, 
+        "ne_longitude": 4.013, 
+        "longitude": 3.994, 
+        "parent_woeid": 12646866, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Laines"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.235, 
+        "sw_longitude": 3.980, 
+        "fullname": "Laines-aux-Bois, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.220
+      }, 
+      "id": 600920
+    }
+  ]
+}

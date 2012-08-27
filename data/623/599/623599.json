@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.674, 
+              48.900
+            ], 
+            [
+              1.674, 
+              48.909
+            ], 
+            [
+              1.688, 
+              48.909
+            ], 
+            [
+              1.688, 
+              48.900
+            ], 
+            [
+              1.674, 
+              48.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623599, 
+        "name": "St.-Corentin", 
+        "adjacent_woeid": [
+          576681, 
+          580347, 
+          619991
+        ], 
+        "ne_latitude": 48.909, 
+        "ne_longitude": 1.688, 
+        "longitude": 1.681, 
+        "parent_woeid": 12647997, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Corentin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.905, 
+        "sw_longitude": 1.674, 
+        "fullname": "St.-Corentin, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.900
+      }, 
+      "id": 623599
+    }
+  ]
+}

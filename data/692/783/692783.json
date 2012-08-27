@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.101, 
+              49.415
+            ], 
+            [
+              10.101, 
+              49.437
+            ], 
+            [
+              10.127, 
+              49.437
+            ], 
+            [
+              10.127, 
+              49.415
+            ], 
+            [
+              10.101, 
+              49.415
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 692783, 
+        "name": "Schonach", 
+        "adjacent_woeid": [
+          642644, 
+          649751, 
+          694421, 
+          698690, 
+          707675
+        ], 
+        "ne_latitude": 49.437, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.127, 
+        "longitude": 10.115, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12624176, 
+        "latitude": 49.426, 
+        "sw_longitude": 10.101, 
+        "fullname": "Schonach, Baden-Wurttemberg, Main-Tauber-Kreis, Germany", 
+        "sw_latitude": 49.415
+      }, 
+      "id": 692783
+    }
+  ]
+}

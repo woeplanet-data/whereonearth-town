@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.259, 
+              16.908
+            ], 
+            [
+              -93.259, 
+              16.926
+            ], 
+            [
+              -93.241, 
+              16.926
+            ], 
+            [
+              -93.241, 
+              16.908
+            ], 
+            [
+              -93.259, 
+              16.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.926, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          112257, 
+          113408, 
+          115912, 
+          124913, 
+          134983
+        ], 
+        "woeid": 144861, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -93.241, 
+        "longitude": -93.250, 
+        "parent_woeid": 12599786, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.917, 
+        "sw_longitude": -93.259, 
+        "fullname": "San Pablo, Chiapas, San Fernando, Mexico", 
+        "sw_latitude": 16.908
+      }, 
+      "id": 144861
+    }
+  ]
+}

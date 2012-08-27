@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.810, 
+              20.358
+            ], 
+            [
+              -101.810, 
+              20.376
+            ], 
+            [
+              -101.790, 
+              20.376
+            ], 
+            [
+              -101.790, 
+              20.358
+            ], 
+            [
+              -101.810, 
+              20.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.376, 
+        "name": "San Bernardo", 
+        "adjacent_woeid": [
+          127233, 
+          129439, 
+          136437, 
+          141673, 
+          145693, 
+          147986, 
+          55921103
+        ], 
+        "woeid": 142007, 
+        "alias_SPA_V": [
+          "S Bernardo"
+        ], 
+        "ne_longitude": -101.790, 
+        "longitude": -101.800, 
+        "parent_woeid": 12600011, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.367, 
+        "sw_longitude": -101.810, 
+        "fullname": "San Bernardo, Guanajuato, Penjamo, Mexico", 
+        "sw_latitude": 20.358
+      }, 
+      "id": 142007
+    }
+  ]
+}

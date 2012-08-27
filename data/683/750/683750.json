@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.726, 
+              48.729
+            ], 
+            [
+              10.726, 
+              48.753
+            ], 
+            [
+              10.752, 
+              48.753
+            ], 
+            [
+              10.752, 
+              48.729
+            ], 
+            [
+              10.726, 
+              48.729
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 683750, 
+        "name": "Osterweiler", 
+        "adjacent_woeid": [
+          639012, 
+          646217, 
+          649552, 
+          708005
+        ], 
+        "ne_latitude": 48.753, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.752, 
+        "longitude": 10.740, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:20Z", 
+        "parent_woeid": 12634989, 
+        "latitude": 48.737, 
+        "sw_longitude": 10.726, 
+        "fullname": "Osterweiler, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.729
+      }, 
+      "id": 683750
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.871, 
+              43.203
+            ], 
+            [
+              -77.871, 
+              43.342
+            ], 
+            [
+              -77.748, 
+              43.342
+            ], 
+            [
+              -77.748, 
+              43.203
+            ], 
+            [
+              -77.871, 
+              43.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 55864815, 
+        "name": "Town of Parma", 
+        "adjacent_woeid": [
+          2351908, 
+          2413634, 
+          26342949, 
+          55864829
+        ], 
+        "ne_latitude": 43.342, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Parma, Town of"
+        ], 
+        "ne_longitude": -77.748, 
+        "longitude": -77.791, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:34:31Z", 
+        "parent_woeid": 12589339, 
+        "latitude": 43.252, 
+        "sw_longitude": -77.871, 
+        "fullname": "Town of Parma, New York, Monroe, United States", 
+        "sw_latitude": 43.203
+      }, 
+      "id": 55864815
+    }
+  ]
+}

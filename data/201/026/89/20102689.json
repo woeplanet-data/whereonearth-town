@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.723, 
+              47.017
+            ], 
+            [
+              6.723, 
+              47.033
+            ], 
+            [
+              6.746, 
+              47.033
+            ], 
+            [
+              6.746, 
+              47.017
+            ], 
+            [
+              6.723, 
+              47.017
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20102689, 
+        "name": "Le Quartier", 
+        "adjacent_woeid": [
+          785011, 
+          785736, 
+          20103594
+        ], 
+        "ne_latitude": 47.033, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.746, 
+        "longitude": 6.734, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12684850, 
+        "latitude": 47.025, 
+        "sw_longitude": 6.723, 
+        "fullname": "Le Quartier, Canton of Neuchatel, Le Locle, Switzerland", 
+        "sw_latitude": 47.017
+      }, 
+      "id": 20102689
+    }
+  ]
+}

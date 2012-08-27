@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.295, 
+              53.081
+            ], 
+            [
+              12.295, 
+              53.125
+            ], 
+            [
+              12.331, 
+              53.125
+            ], 
+            [
+              12.331, 
+              53.081
+            ], 
+            [
+              12.295, 
+              53.081
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658422, 
+        "name": "Heidelberg", 
+        "adjacent_woeid": [
+          639345, 
+          639617, 
+          640100, 
+          642134, 
+          670339
+        ], 
+        "ne_latitude": 53.125, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.331, 
+        "longitude": 12.311, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 24547180, 
+        "latitude": 53.096, 
+        "sw_longitude": 12.295, 
+        "fullname": "Heidelberg, Brandenburg, Prignitz, Germany", 
+        "alias_GER_V": [
+          "Kolonie Heidelberg"
+        ], 
+        "sw_latitude": 53.081
+      }, 
+      "id": 658422
+    }
+  ]
+}

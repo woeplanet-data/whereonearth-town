@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.309, 
+              45.491
+            ], 
+            [
+              1.309, 
+              45.520
+            ], 
+            [
+              1.341, 
+              45.520
+            ], 
+            [
+              1.341, 
+              45.491
+            ], 
+            [
+              1.309, 
+              45.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587630, 
+        "name": "Coussac-Bonneval", 
+        "adjacent_woeid": [
+          584910, 
+          599757, 
+          611362, 
+          612671, 
+          625002, 
+          626596
+        ], 
+        "ne_latitude": 45.520, 
+        "ne_longitude": 1.341, 
+        "longitude": 1.325, 
+        "parent_woeid": 12660055, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Coussac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.511, 
+        "sw_longitude": 1.309, 
+        "fullname": "Coussac-Bonneval, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.491
+      }, 
+      "id": 587630
+    }
+  ]
+}

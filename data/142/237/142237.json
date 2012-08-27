@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.243, 
+              22.008
+            ], 
+            [
+              -99.243, 
+              22.026
+            ], 
+            [
+              -99.223, 
+              22.026
+            ], 
+            [
+              -99.223, 
+              22.008
+            ], 
+            [
+              -99.243, 
+              22.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.026, 
+        "name": "San Dieguito", 
+        "adjacent_woeid": [
+          117643, 
+          120771, 
+          121541, 
+          140457, 
+          144410, 
+          148097, 
+          148142, 
+          55915685
+        ], 
+        "woeid": 142237, 
+        "alias_SPA_V": [
+          "S Dieguito"
+        ], 
+        "ne_longitude": -99.223, 
+        "longitude": -99.233, 
+        "parent_woeid": 12601483, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.017, 
+        "sw_longitude": -99.243, 
+        "fullname": "San Dieguito, San Luis Potosi, Ciudad Valles, Mexico", 
+        "sw_latitude": 22.008
+      }, 
+      "id": 142237
+    }
+  ]
+}

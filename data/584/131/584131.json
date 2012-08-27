@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.995, 
+              48.949
+            ], 
+            [
+              0.995, 
+              48.977
+            ], 
+            [
+              1.024, 
+              48.977
+            ], 
+            [
+              1.024, 
+              48.949
+            ], 
+            [
+              0.995, 
+              48.949
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584131, 
+        "name": "Champ-Dolent", 
+        "adjacent_woeid": [
+          592505, 
+          593029, 
+          602988, 
+          615241
+        ], 
+        "ne_latitude": 48.977, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.024, 
+        "longitude": 1.014, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12640885, 
+        "latitude": 48.961, 
+        "sw_longitude": 0.995, 
+        "fullname": "Champ-Dolent, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.949
+      }, 
+      "id": 584131
+    }
+  ]
+}

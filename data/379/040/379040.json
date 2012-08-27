@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -56.789, 
+              -27.155
+            ], 
+            [
+              -56.789, 
+              -27.145
+            ], 
+            [
+              -56.778, 
+              -27.145
+            ], 
+            [
+              -56.778, 
+              -27.155
+            ], 
+            [
+              -56.789, 
+              -27.155
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 379040, 
+        "name": "Santiago", 
+        "adjacent_woeid": [
+          377321, 
+          377461, 
+          378382, 
+          378962, 
+          379001, 
+          379012, 
+          379200, 
+          379222, 
+          379267, 
+          379269, 
+          420080
+        ], 
+        "ne_latitude": -27.145, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -56.778, 
+        "longitude": -56.783, 
+        "placetype": "Town", 
+        "iso": "PY", 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "parent_woeid": 26810932, 
+        "latitude": -27.150, 
+        "sw_longitude": -56.789, 
+        "fullname": "Santiago, Misiones, Santiago, Paraguay", 
+        "sw_latitude": -27.155
+      }, 
+      "id": 379040
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.661, 
+              47.742
+            ], 
+            [
+              12.661, 
+              47.760
+            ], 
+            [
+              12.688, 
+              47.760
+            ], 
+            [
+              12.688, 
+              47.742
+            ], 
+            [
+              12.661, 
+              47.742
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29347327, 
+        "name": "Stadler", 
+        "adjacent_woeid": [
+          20153630, 
+          29347286, 
+          29347301, 
+          29347346
+        ], 
+        "ne_latitude": 47.760, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.688, 
+        "longitude": 12.675, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:32Z", 
+        "parent_woeid": 12622810, 
+        "latitude": 47.751, 
+        "sw_longitude": 12.661, 
+        "fullname": "Stadler, Bavaria, Landkreis Traunstein, Germany", 
+        "sw_latitude": 47.742
+      }, 
+      "id": 29347327
+    }
+  ]
+}

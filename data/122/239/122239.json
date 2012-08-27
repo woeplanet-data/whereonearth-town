@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.822, 
+              26.983
+            ], 
+            [
+              -108.822, 
+              27.002
+            ], 
+            [
+              -108.801, 
+              27.002
+            ], 
+            [
+              -108.801, 
+              26.983
+            ], 
+            [
+              -108.822, 
+              26.983
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.002, 
+        "name": "El Sabino", 
+        "adjacent_woeid": [
+          111765, 
+          116677, 
+          119340, 
+          127670, 
+          133518, 
+          144926
+        ], 
+        "woeid": 122239, 
+        "alias_SPA_V": [
+          "Sabino"
+        ], 
+        "ne_longitude": -108.801, 
+        "longitude": -108.812, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.992, 
+        "sw_longitude": -108.822, 
+        "fullname": "El Sabino, Sonora, Alamos, Mexico", 
+        "sw_latitude": 26.983
+      }, 
+      "id": 122239
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.142, 
+              50.146
+            ], 
+            [
+              10.142, 
+              50.175
+            ], 
+            [
+              10.183, 
+              50.175
+            ], 
+            [
+              10.183, 
+              50.146
+            ], 
+            [
+              10.142, 
+              50.146
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690088, 
+        "name": "Rottershausen", 
+        "adjacent_woeid": [
+          647785, 
+          684904, 
+          693649, 
+          29348768
+        ], 
+        "ne_latitude": 50.175, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.183, 
+        "longitude": 10.161, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12635505, 
+        "latitude": 50.165, 
+        "sw_longitude": 10.142, 
+        "fullname": "Rottershausen, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.146
+      }, 
+      "id": 690088
+    }
+  ]
+}

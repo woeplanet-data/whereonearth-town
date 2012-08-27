@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.723, 
+              16.604
+            ], 
+            [
+              -92.723, 
+              16.623
+            ], 
+            [
+              -92.704, 
+              16.623
+            ], 
+            [
+              -92.704, 
+              16.604
+            ], 
+            [
+              -92.723, 
+              16.604
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.623, 
+        "name": "El Zapotal", 
+        "adjacent_woeid": [
+          110953, 
+          115837, 
+          125545, 
+          142347, 
+          151742
+        ], 
+        "woeid": 123038, 
+        "alias_SPA_V": [
+          "S. Lucas"
+        ], 
+        "ne_longitude": -92.704, 
+        "longitude": -92.714, 
+        "parent_woeid": 12599788, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.614, 
+        "sw_longitude": -92.723, 
+        "fullname": "El Zapotal, Chiapas, San Lucas, Mexico", 
+        "sw_latitude": 16.604
+      }, 
+      "id": 123038
+    }
+  ]
+}

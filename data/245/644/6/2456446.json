@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.345, 
+              42.337
+            ], 
+            [
+              -123.345, 
+              42.355
+            ], 
+            [
+              -123.320, 
+              42.355
+            ], 
+            [
+              -123.320, 
+              42.337
+            ], 
+            [
+              -123.345, 
+              42.337
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2456446, 
+        "name": "Murphy", 
+        "adjacent_woeid": [
+          2355666, 
+          2393904, 
+          2411703, 
+          2413165, 
+          2433979, 
+          2458533, 
+          2490715, 
+          2493901, 
+          2520729, 
+          23418375
+        ], 
+        "ne_latitude": 42.355, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.320, 
+        "longitude": -123.333, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:29:12Z", 
+        "parent_woeid": 12589708, 
+        "latitude": 42.347, 
+        "sw_longitude": -123.345, 
+        "fullname": "Murphy, Oregon, Josephine, United States", 
+        "sw_latitude": 42.337
+      }, 
+      "id": 2456446
+    }
+  ]
+}

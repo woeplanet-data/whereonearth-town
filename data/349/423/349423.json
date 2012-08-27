@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.258, 
+              -33.790
+            ], 
+            [
+              -70.258, 
+              -33.776
+            ], 
+            [
+              -70.242, 
+              -33.776
+            ], 
+            [
+              -70.242, 
+              -33.790
+            ], 
+            [
+              -70.258, 
+              -33.790
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.776, 
+        "name": "San Gabriel", 
+        "adjacent_woeid": [
+          347492, 
+          349965, 
+          350023, 
+          350359
+        ], 
+        "woeid": 349423, 
+        "alias_SPA_V": [
+          "S Gabriel"
+        ], 
+        "ne_longitude": -70.242, 
+        "longitude": -70.250, 
+        "parent_woeid": 26794268, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.783, 
+        "sw_longitude": -70.258, 
+        "fullname": "San Gabriel, Santiago Metropolitan Region, Cordillera Province, Chile", 
+        "sw_latitude": -33.790
+      }, 
+      "id": 349423
+    }
+  ]
+}

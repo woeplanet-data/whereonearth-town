@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.607, 
+              46.329
+            ], 
+            [
+              4.607, 
+              46.351
+            ], 
+            [
+              4.622, 
+              46.351
+            ], 
+            [
+              4.622, 
+              46.329
+            ], 
+            [
+              4.607, 
+              46.329
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626543, 
+        "name": "St.-Point", 
+        "adjacent_woeid": [
+          581269, 
+          581589, 
+          586230, 
+          616534, 
+          621968, 
+          629054, 
+          29332067
+        ], 
+        "ne_latitude": 46.351, 
+        "ne_longitude": 4.622, 
+        "longitude": 4.616, 
+        "parent_woeid": 12653129, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Point"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.339, 
+        "sw_longitude": 4.607, 
+        "fullname": "St.-Point, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.329
+      }, 
+      "id": 626543
+    }
+  ]
+}

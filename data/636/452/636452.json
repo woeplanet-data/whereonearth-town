@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.829, 
+              49.814
+            ], 
+            [
+              7.829, 
+              49.869
+            ], 
+            [
+              7.921, 
+              49.869
+            ], 
+            [
+              7.921, 
+              49.814
+            ], 
+            [
+              7.829, 
+              49.814
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 636452, 
+        "name": "Bad Kreuznach", 
+        "adjacent_woeid": [
+          634321, 
+          636468, 
+          640470, 
+          641247, 
+          650426, 
+          652116, 
+          656265, 
+          657307, 
+          670225, 
+          672543, 
+          680456, 
+          685245, 
+          690152, 
+          690270, 
+          699768, 
+          707151, 
+          20162800
+        ], 
+        "ne_latitude": 49.869, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.921, 
+        "longitude": 7.863, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12627970, 
+        "latitude": 49.843, 
+        "sw_longitude": 7.829, 
+        "fullname": "Bad Kreuznach, Rhineland-Palatinate, Landkreis Bad Kreuznach, Germany", 
+        "alias_GER_V": [
+          "Kreuznach"
+        ], 
+        "sw_latitude": 49.814
+      }, 
+      "id": 636452
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.487, 
+              40.457
+            ], 
+            [
+              -4.487, 
+              40.551
+            ], 
+            [
+              -4.372, 
+              40.551
+            ], 
+            [
+              -4.372, 
+              40.457
+            ], 
+            [
+              -4.487, 
+              40.457
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.551, 
+        "name": "Hoyo de Pinares", 
+        "adjacent_woeid": [
+          757141, 
+          772680, 
+          776575, 
+          20228919, 
+          56065168
+        ], 
+        "woeid": 759361, 
+        "alias_SPA_V": [
+          "El Hoyo de Pinares"
+        ], 
+        "ne_longitude": -4.372, 
+        "longitude": -4.426, 
+        "parent_woeid": 12691214, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.499, 
+        "sw_longitude": -4.487, 
+        "fullname": "Hoyo de Pinares, Castille and Leon, Avila, Spain", 
+        "sw_latitude": 40.457
+      }, 
+      "id": 759361
+    }
+  ]
+}

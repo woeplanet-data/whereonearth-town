@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.326, 
+              48.915
+            ], 
+            [
+              4.326, 
+              48.936
+            ], 
+            [
+              4.379, 
+              48.936
+            ], 
+            [
+              4.379, 
+              48.915
+            ], 
+            [
+              4.326, 
+              48.915
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 586894, 
+        "name": "Coolus", 
+        "adjacent_woeid": [
+          585549, 
+          586671, 
+          589517, 
+          621098, 
+          632031
+        ], 
+        "ne_latitude": 48.936, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.379, 
+        "longitude": 4.353, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 12642098, 
+        "latitude": 48.922, 
+        "sw_longitude": 4.326, 
+        "fullname": "Coolus, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.915
+      }, 
+      "id": 586894
+    }
+  ]
+}

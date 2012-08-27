@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.643, 
+              23.391
+            ], 
+            [
+              -109.643, 
+              23.409
+            ], 
+            [
+              -109.623, 
+              23.409
+            ], 
+            [
+              -109.623, 
+              23.391
+            ], 
+            [
+              -109.643, 
+              23.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.409, 
+        "name": "El Refugio", 
+        "adjacent_woeid": [
+          115380, 
+          128610, 
+          130149, 
+          130280, 
+          133758, 
+          147041
+        ], 
+        "woeid": 121957, 
+        "alias_SPA_V": [
+          "Refugio"
+        ], 
+        "ne_longitude": -109.623, 
+        "longitude": -109.633, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.400, 
+        "sw_longitude": -109.643, 
+        "fullname": "El Refugio, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 23.391
+      }, 
+      "id": 121957
+    }
+  ]
+}

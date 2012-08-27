@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.403, 
+              45.321
+            ], 
+            [
+              5.403, 
+              45.368
+            ], 
+            [
+              5.457, 
+              45.368
+            ], 
+            [
+              5.457, 
+              45.321
+            ], 
+            [
+              5.403, 
+              45.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595337, 
+        "name": "Izeaux", 
+        "adjacent_woeid": [
+          578613, 
+          586515, 
+          616795, 
+          626269
+        ], 
+        "ne_latitude": 45.368, 
+        "ne_longitude": 5.457, 
+        "longitude": 5.426, 
+        "parent_woeid": 12662968, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Izeaux-aux Bois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.334, 
+        "sw_longitude": 5.403, 
+        "fullname": "Izeaux, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.321
+      }, 
+      "id": 595337
+    }
+  ]
+}

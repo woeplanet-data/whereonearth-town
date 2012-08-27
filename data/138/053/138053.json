@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.210, 
+              18.291
+            ], 
+            [
+              -99.210, 
+              18.309
+            ], 
+            [
+              -99.190, 
+              18.309
+            ], 
+            [
+              -99.190, 
+              18.291
+            ], 
+            [
+              -99.210, 
+              18.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.309, 
+        "name": "Quetzalapa", 
+        "adjacent_woeid": [
+          112664, 
+          115774, 
+          129886, 
+          148795, 
+          149388
+        ], 
+        "woeid": 138053, 
+        "alias_SPA_V": [
+          "Quelzalapa"
+        ], 
+        "ne_longitude": -99.190, 
+        "longitude": -99.200, 
+        "parent_woeid": 12600069, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.300, 
+        "sw_longitude": -99.210, 
+        "fullname": "Quetzalapa, Guerrero, Huitzuco de Los Figueroa, Mexico", 
+        "sw_latitude": 18.291
+      }, 
+      "id": 138053
+    }
+  ]
+}

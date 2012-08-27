@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.177, 
+              28.408
+            ], 
+            [
+              -109.177, 
+              28.426
+            ], 
+            [
+              -109.156, 
+              28.426
+            ], 
+            [
+              -109.156, 
+              28.408
+            ], 
+            [
+              -109.177, 
+              28.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.426, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          124626, 
+          129418, 
+          144783, 
+          145597
+        ], 
+        "woeid": 146745, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -109.156, 
+        "longitude": -109.167, 
+        "parent_woeid": 12601614, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.417, 
+        "sw_longitude": -109.177, 
+        "fullname": "Santa Rosa, Sonora, Yecora, Mexico", 
+        "sw_latitude": 28.408
+      }, 
+      "id": 146745
+    }
+  ]
+}

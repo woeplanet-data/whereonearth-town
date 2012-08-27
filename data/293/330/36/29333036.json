@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.128, 
+              48.612
+            ], 
+            [
+              7.128, 
+              48.630
+            ], 
+            [
+              7.155, 
+              48.630
+            ], 
+            [
+              7.155, 
+              48.612
+            ], 
+            [
+              7.128, 
+              48.612
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333036, 
+        "name": "Grand Soldat", 
+        "adjacent_woeid": [
+          609078, 
+          632801, 
+          20213000, 
+          20213001
+        ], 
+        "ne_latitude": 48.630, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.155, 
+        "longitude": 7.141, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "parent_woeid": 12654855, 
+        "latitude": 48.621, 
+        "sw_longitude": 7.128, 
+        "fullname": "Grand Soldat, Lorraine, Moselle, France", 
+        "sw_latitude": 48.612
+      }, 
+      "id": 29333036
+    }
+  ]
+}

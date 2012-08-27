@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.791, 
+              14.776
+            ], 
+            [
+              -89.791, 
+              14.790
+            ], 
+            [
+              -89.776, 
+              14.790
+            ], 
+            [
+              -89.776, 
+              14.776
+            ], 
+            [
+              -89.791, 
+              14.776
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.790, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          81243, 
+          81701, 
+          85776, 
+          85865, 
+          85905, 
+          86245
+        ], 
+        "woeid": 85580, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -89.776, 
+        "longitude": -89.783, 
+        "parent_woeid": 26807243, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.783, 
+        "sw_longitude": -89.791, 
+        "fullname": "San Diego, Zacapa, San Diego, Guatemala", 
+        "sw_latitude": 14.776
+      }, 
+      "id": 85580
+    }
+  ]
+}

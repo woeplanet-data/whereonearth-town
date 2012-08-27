@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.658, 
+              22.780
+            ], 
+            [
+              -100.658, 
+              22.798
+            ], 
+            [
+              -100.638, 
+              22.798
+            ], 
+            [
+              -100.638, 
+              22.780
+            ], 
+            [
+              -100.658, 
+              22.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.798, 
+        "name": "La Tapona", 
+        "adjacent_woeid": [
+          115617, 
+          115619, 
+          115724, 
+          119999, 
+          134434, 
+          141235
+        ], 
+        "woeid": 129334, 
+        "alias_SPA_V": [
+          "Tapona"
+        ], 
+        "ne_longitude": -100.638, 
+        "longitude": -100.648, 
+        "parent_woeid": 12601523, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.789, 
+        "sw_longitude": -100.658, 
+        "fullname": "La Tapona, San Luis Potosi, Villa Hidalgo, Mexico", 
+        "sw_latitude": 22.780
+      }, 
+      "id": 129334
+    }
+  ]
+}

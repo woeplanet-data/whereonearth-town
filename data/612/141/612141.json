@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.127, 
+              48.820
+            ], 
+            [
+              0.127, 
+              48.845
+            ], 
+            [
+              0.156, 
+              48.845
+            ], 
+            [
+              0.156, 
+              48.820
+            ], 
+            [
+              0.127, 
+              48.820
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612141, 
+        "name": "Mont-Ormel", 
+        "adjacent_woeid": [
+          584321, 
+          587204, 
+          626498, 
+          627879
+        ], 
+        "ne_latitude": 48.845, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.156, 
+        "longitude": 0.144, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12649368, 
+        "latitude": 48.837, 
+        "sw_longitude": 0.127, 
+        "fullname": "Mont-Ormel, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.820
+      }, 
+      "id": 612141
+    }
+  ]
+}

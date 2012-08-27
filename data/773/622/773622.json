@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.295, 
+              42.830
+            ], 
+            [
+              -3.295, 
+              42.839
+            ], 
+            [
+              -3.283, 
+              42.839
+            ], 
+            [
+              -3.283, 
+              42.830
+            ], 
+            [
+              -3.295, 
+              42.830
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.839, 
+        "name": "Santa Coloma", 
+        "adjacent_woeid": [
+          760343, 
+          762079, 
+          763890, 
+          769483
+        ], 
+        "woeid": 773622, 
+        "alias_SPA_V": [
+          "Sta Coloma"
+        ], 
+        "ne_longitude": -3.283, 
+        "longitude": -3.289, 
+        "parent_woeid": 12691539, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.835, 
+        "sw_longitude": -3.295, 
+        "fullname": "Santa Coloma, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.830
+      }, 
+      "id": 773622
+    }
+  ]
+}

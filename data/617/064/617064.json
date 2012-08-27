@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.227, 
+              47.191
+            ], 
+            [
+              5.227, 
+              47.220
+            ], 
+            [
+              5.264, 
+              47.220
+            ], 
+            [
+              5.264, 
+              47.191
+            ], 
+            [
+              5.227, 
+              47.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617064, 
+        "name": "Pluvault", 
+        "adjacent_woeid": [
+          586494, 
+          608509, 
+          617065, 
+          628090
+        ], 
+        "ne_latitude": 47.220, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.264, 
+        "longitude": 5.253, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12650734, 
+        "latitude": 47.213, 
+        "sw_longitude": 5.227, 
+        "fullname": "Pluvault, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.191
+      }, 
+      "id": 617064
+    }
+  ]
+}

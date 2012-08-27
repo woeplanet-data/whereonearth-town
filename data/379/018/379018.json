@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -56.810, 
+              -25.409
+            ], 
+            [
+              -56.810, 
+              -25.391
+            ], 
+            [
+              -56.790, 
+              -25.391
+            ], 
+            [
+              -56.790, 
+              -25.409
+            ], 
+            [
+              -56.810, 
+              -25.409
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -25.391, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          378420, 
+          378426, 
+          378523, 
+          379184, 
+          379228
+        ], 
+        "woeid": 379018, 
+        "alias_SPA_V": [
+          "Sta Elena"
+        ], 
+        "ne_longitude": -56.790, 
+        "longitude": -56.800, 
+        "parent_woeid": 26810880, 
+        "placetype": "Town", 
+        "iso": "PY", 
+        "date_indexed": "2010-12-02T12:08:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -25.400, 
+        "sw_longitude": -56.810, 
+        "fullname": "Santa Elena, Cordillera, Santa Elena, Paraguay", 
+        "sw_latitude": -25.409
+      }, 
+      "id": 379018
+    }
+  ]
+}

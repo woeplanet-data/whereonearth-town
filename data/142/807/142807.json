@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.027, 
+              20.491
+            ], 
+            [
+              -104.027, 
+              20.509
+            ], 
+            [
+              -104.007, 
+              20.509
+            ], 
+            [
+              -104.007, 
+              20.491
+            ], 
+            [
+              -104.027, 
+              20.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.509, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          119324, 
+          122254, 
+          127044, 
+          127312, 
+          127674, 
+          150871
+        ], 
+        "woeid": 142807, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -104.007, 
+        "longitude": -104.017, 
+        "parent_woeid": 12600199, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.500, 
+        "sw_longitude": -104.027, 
+        "fullname": "San Ignacio, Jalisco, Ameca, Mexico", 
+        "sw_latitude": 20.491
+      }, 
+      "id": 142807
+    }
+  ]
+}

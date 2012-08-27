@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.484, 
+              45.653
+            ], 
+            [
+              5.484, 
+              45.684
+            ], 
+            [
+              5.514, 
+              45.684
+            ], 
+            [
+              5.514, 
+              45.653
+            ], 
+            [
+              5.484, 
+              45.653
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20209468, 
+        "name": "Le Mollard", 
+        "adjacent_woeid": [
+          588272, 
+          602143, 
+          627226, 
+          628615, 
+          631050, 
+          29330194
+        ], 
+        "ne_latitude": 45.684, 
+        "ne_longitude": 5.514, 
+        "longitude": 5.503, 
+        "parent_woeid": 12664698, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Molard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.670, 
+        "sw_longitude": 5.484, 
+        "fullname": "Le Mollard, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.653
+      }, 
+      "id": 20209468
+    }
+  ]
+}

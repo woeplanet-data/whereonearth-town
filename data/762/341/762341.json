@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.901, 
+              40.981
+            ], 
+            [
+              0.901, 
+              41.009
+            ], 
+            [
+              0.931, 
+              41.009
+            ], 
+            [
+              0.931, 
+              40.981
+            ], 
+            [
+              0.901, 
+              40.981
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.009, 
+        "name": "Hospitalet del Infante", 
+        "adjacent_woeid": [
+          766680, 
+          779254, 
+          20224159, 
+          20226521, 
+          29369972, 
+          29369973, 
+          29370437
+        ], 
+        "woeid": 762341, 
+        "alias_SPA_V": [
+          "L'hospitalet De L'infant"
+        ], 
+        "ne_longitude": 0.931, 
+        "longitude": 0.921, 
+        "parent_woeid": 12694302, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.991, 
+        "sw_longitude": 0.901, 
+        "fullname": "Hospitalet del Infante, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 40.981
+      }, 
+      "id": 762341
+    }
+  ]
+}

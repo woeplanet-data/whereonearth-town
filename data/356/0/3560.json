@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.049, 
+              45.225
+            ], 
+            [
+              -73.049, 
+              45.342
+            ], 
+            [
+              -72.882, 
+              45.342
+            ], 
+            [
+              -72.882, 
+              45.225
+            ], 
+            [
+              -73.049, 
+              45.225
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3560, 
+        "name": "Farnham", 
+        "adjacent_woeid": [
+          3552, 
+          3566, 
+          23394322, 
+          23394336, 
+          23394434, 
+          23394517, 
+          23396538, 
+          23396652, 
+          29374375
+        ], 
+        "ne_latitude": 45.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -72.882, 
+        "longitude": -72.975, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "parent_woeid": 29375053, 
+        "latitude": 45.283, 
+        "sw_longitude": -73.049, 
+        "fullname": "Farnham, Quebec, Brome-Missisquoi, Canada", 
+        "sw_latitude": 45.225
+      }, 
+      "id": 3560
+    }
+  ]
+}

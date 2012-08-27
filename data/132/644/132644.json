@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.881, 
+              19.074
+            ], 
+            [
+              -103.881, 
+              19.092
+            ], 
+            [
+              -103.857, 
+              19.092
+            ], 
+            [
+              -103.857, 
+              19.074
+            ], 
+            [
+              -103.881, 
+              19.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 132644, 
+        "name": "Madrid", 
+        "adjacent_woeid": [
+          122182, 
+          125657, 
+          126147, 
+          127320, 
+          140700
+        ], 
+        "ne_latitude": 19.092, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -103.857, 
+        "longitude": -103.872, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "parent_woeid": 12599932, 
+        "latitude": 19.084, 
+        "sw_longitude": -103.881, 
+        "fullname": "Madrid, Colima, Tecoman, Mexico", 
+        "sw_latitude": 19.074
+      }, 
+      "id": 132644
+    }
+  ]
+}

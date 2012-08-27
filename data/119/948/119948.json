@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.077, 
+              22.341
+            ], 
+            [
+              -98.077, 
+              22.359
+            ], 
+            [
+              -98.057, 
+              22.359
+            ], 
+            [
+              -98.057, 
+              22.341
+            ], 
+            [
+              -98.077, 
+              22.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.359, 
+        "name": "El Corcovado", 
+        "adjacent_woeid": [
+          114677, 
+          117791, 
+          120892, 
+          125995, 
+          127047, 
+          133052, 
+          148111
+        ], 
+        "woeid": 119948, 
+        "alias_SPA_V": [
+          "El Corcobado"
+        ], 
+        "ne_longitude": -98.057, 
+        "longitude": -98.067, 
+        "parent_woeid": 12601634, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.350, 
+        "sw_longitude": -98.077, 
+        "fullname": "El Corcovado, Tamaulipas, Altamira, Mexico", 
+        "sw_latitude": 22.341
+      }, 
+      "id": 119948
+    }
+  ]
+}

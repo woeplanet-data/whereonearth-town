@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.014, 
+              46.115
+            ], 
+            [
+              0.014, 
+              46.124
+            ], 
+            [
+              0.030, 
+              46.124
+            ], 
+            [
+              0.030, 
+              46.115
+            ], 
+            [
+              0.014, 
+              46.115
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20200572, 
+        "name": "Vieille-Ville", 
+        "adjacent_woeid": [
+          597516, 
+          608647, 
+          610891, 
+          20200571, 
+          20200575
+        ], 
+        "ne_latitude": 46.124, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.030, 
+        "longitude": 0.021, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12666536, 
+        "latitude": 46.120, 
+        "sw_longitude": 0.014, 
+        "fullname": "Vieille-Ville, Poitou-Charentes, Deux-Sevres, France", 
+        "sw_latitude": 46.115
+      }, 
+      "id": 20200572
+    }
+  ]
+}

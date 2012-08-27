@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.410, 
+              23.441
+            ], 
+            [
+              -99.410, 
+              23.459
+            ], 
+            [
+              -99.390, 
+              23.459
+            ], 
+            [
+              -99.390, 
+              23.441
+            ], 
+            [
+              -99.410, 
+              23.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.459, 
+        "name": "San Juanito", 
+        "adjacent_woeid": [
+          116479, 
+          120525, 
+          126014, 
+          127746, 
+          129484, 
+          133174, 
+          142637
+        ], 
+        "woeid": 144041, 
+        "alias_SPA_V": [
+          "S Juanito"
+        ], 
+        "ne_longitude": -99.390, 
+        "longitude": -99.400, 
+        "parent_woeid": 12601649, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.450, 
+        "sw_longitude": -99.410, 
+        "fullname": "San Juanito, Tamaulipas, Jaumave, Mexico", 
+        "sw_latitude": 23.441
+      }, 
+      "id": 144041
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.676, 
+              44.696
+            ], 
+            [
+              5.676, 
+              44.705
+            ], 
+            [
+              5.688, 
+              44.705
+            ], 
+            [
+              5.688, 
+              44.696
+            ], 
+            [
+              5.676, 
+              44.696
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597972, 
+        "name": "La Croix Haute", 
+        "adjacent_woeid": [
+          575463, 
+          577582, 
+          593808, 
+          600975, 
+          602545, 
+          623784, 
+          29330149
+        ], 
+        "ne_latitude": 44.705, 
+        "ne_longitude": 5.688, 
+        "longitude": 5.682, 
+        "parent_woeid": 12663591, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Croix-haute"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.701, 
+        "sw_longitude": 5.676, 
+        "fullname": "La Croix Haute, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.696
+      }, 
+      "id": 597972
+    }
+  ]
+}

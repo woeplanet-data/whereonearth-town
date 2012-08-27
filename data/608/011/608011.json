@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.151, 
+              45.442
+            ], 
+            [
+              5.151, 
+              45.478
+            ], 
+            [
+              5.209, 
+              45.478
+            ], 
+            [
+              5.209, 
+              45.442
+            ], 
+            [
+              5.151, 
+              45.442
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608011, 
+        "name": "Lieudieu", 
+        "adjacent_woeid": [
+          576850, 
+          585123, 
+          621692, 
+          631851
+        ], 
+        "ne_latitude": 45.478, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.209, 
+        "longitude": 5.182, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "parent_woeid": 12665644, 
+        "latitude": 45.458, 
+        "sw_longitude": 5.151, 
+        "fullname": "Lieudieu, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.442
+      }, 
+      "id": 608011
+    }
+  ]
+}

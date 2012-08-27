@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.910, 
+              21.558
+            ], 
+            [
+              -104.910, 
+              21.576
+            ], 
+            [
+              -104.890, 
+              21.576
+            ], 
+            [
+              -104.890, 
+              21.558
+            ], 
+            [
+              -104.910, 
+              21.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.576, 
+        "name": "La Escondida", 
+        "adjacent_woeid": [
+          113344, 
+          122084, 
+          125779, 
+          127471, 
+          127664, 
+          141419
+        ], 
+        "woeid": 127267, 
+        "alias_SPA_V": [
+          "Escondida"
+        ], 
+        "ne_longitude": -104.890, 
+        "longitude": -104.900, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.567, 
+        "sw_longitude": -104.910, 
+        "fullname": "La Escondida, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.558
+      }, 
+      "id": 127267
+    }
+  ]
+}

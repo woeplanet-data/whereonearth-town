@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.504, 
+              48.152
+            ], 
+            [
+              0.504, 
+              48.200
+            ], 
+            [
+              0.549, 
+              48.200
+            ], 
+            [
+              0.549, 
+              48.152
+            ], 
+            [
+              0.504, 
+              48.152
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597012, 
+        "name": "La Bosse", 
+        "adjacent_woeid": [
+          580322, 
+          623088, 
+          623715, 
+          624211, 
+          625674
+        ], 
+        "ne_latitude": 48.200, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.549, 
+        "longitude": 0.527, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12663364, 
+        "latitude": 48.171, 
+        "sw_longitude": 0.504, 
+        "fullname": "La Bosse, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.152
+      }, 
+      "id": 597012
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.001, 
+              51.010
+            ], 
+            [
+              0.001, 
+              51.020
+            ], 
+            [
+              0.015, 
+              51.020
+            ], 
+            [
+              0.015, 
+              51.010
+            ], 
+            [
+              0.001, 
+              51.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 20742, 
+        "name": "Furners Green", 
+        "adjacent_woeid": [
+          17910, 
+          23958, 
+          30761, 
+          34504, 
+          35506
+        ], 
+        "ne_latitude": 51.020, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.015, 
+        "longitude": 0.008, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:21Z", 
+        "parent_woeid": 12695939, 
+        "latitude": 51.015, 
+        "sw_longitude": 0.001, 
+        "fullname": "Furners Green, England, East Sussex, United Kingdom", 
+        "sw_latitude": 51.010
+      }, 
+      "id": 20742
+    }
+  ]
+}

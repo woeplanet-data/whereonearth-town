@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.242, 
+              41.031
+            ], 
+            [
+              0.242, 
+              41.049
+            ], 
+            [
+              0.260, 
+              41.049
+            ], 
+            [
+              0.260, 
+              41.031
+            ], 
+            [
+              0.242, 
+              41.031
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.049, 
+        "name": "Caseres", 
+        "adjacent_woeid": [
+          752823, 
+          753990, 
+          754786, 
+          755446, 
+          766293
+        ], 
+        "woeid": 756602, 
+        "alias_SPA_V": [
+          "Caseras"
+        ], 
+        "ne_longitude": 0.260, 
+        "longitude": 0.251, 
+        "parent_woeid": 12694180, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.040, 
+        "sw_longitude": 0.242, 
+        "fullname": "Caseres, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.031
+      }, 
+      "id": 756602
+    }
+  ]
+}

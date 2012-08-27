@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.143, 
+              21.041
+            ], 
+            [
+              -99.143, 
+              21.059
+            ], 
+            [
+              -99.124, 
+              21.059
+            ], 
+            [
+              -99.124, 
+              21.041
+            ], 
+            [
+              -99.143, 
+              21.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.059, 
+        "name": "Los Duraznos", 
+        "adjacent_woeid": [
+          117887, 
+          121475, 
+          128331, 
+          129833, 
+          149563
+        ], 
+        "woeid": 131822, 
+        "alias_SPA_V": [
+          "El Durazno"
+        ], 
+        "ne_longitude": -99.124, 
+        "longitude": -99.133, 
+        "parent_woeid": 12600140, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.050, 
+        "sw_longitude": -99.143, 
+        "fullname": "Los Duraznos, Hidalgo, Jacala de Ledezma, Mexico", 
+        "sw_latitude": 21.041
+      }, 
+      "id": 131822
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.301, 
+              48.437
+            ], 
+            [
+              10.301, 
+              48.477
+            ], 
+            [
+              10.332, 
+              48.477
+            ], 
+            [
+              10.332, 
+              48.437
+            ], 
+            [
+              10.301, 
+              48.437
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680460, 
+        "name": "Nornheim", 
+        "adjacent_woeid": [
+          644181, 
+          657482, 
+          671046, 
+          687808
+        ], 
+        "ne_latitude": 48.477, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.332, 
+        "longitude": 10.314, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12634832, 
+        "latitude": 48.451, 
+        "sw_longitude": 10.301, 
+        "fullname": "Nornheim, Bavaria, Landkreis G\u00fcnzburg, Germany", 
+        "sw_latitude": 48.437
+      }, 
+      "id": 680460
+    }
+  ]
+}

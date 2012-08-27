@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.659, 
+              48.681
+            ], 
+            [
+              10.659, 
+              48.706
+            ], 
+            [
+              10.693, 
+              48.706
+            ], 
+            [
+              10.693, 
+              48.681
+            ], 
+            [
+              10.659, 
+              48.681
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640616, 
+        "name": "Brachstadt", 
+        "adjacent_woeid": [
+          648488, 
+          663097, 
+          683342, 
+          707875
+        ], 
+        "ne_latitude": 48.706, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.693, 
+        "longitude": 10.676, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12635018, 
+        "latitude": 48.698, 
+        "sw_longitude": 10.659, 
+        "fullname": "Brachstadt, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.681
+      }, 
+      "id": 640616
+    }
+  ]
+}

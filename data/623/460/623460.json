@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.563, 
+              46.137
+            ], 
+            [
+              3.563, 
+              46.188
+            ], 
+            [
+              3.595, 
+              46.188
+            ], 
+            [
+              3.595, 
+              46.137
+            ], 
+            [
+              3.563, 
+              46.137
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623460, 
+        "name": "St.-Christophe", 
+        "adjacent_woeid": [
+          579953, 
+          595291, 
+          602310, 
+          623910, 
+          626617, 
+          20205297, 
+          20205304
+        ], 
+        "ne_latitude": 46.188, 
+        "ne_longitude": 3.595, 
+        "longitude": 3.576, 
+        "parent_woeid": 22755291, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Christophe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.167, 
+        "sw_longitude": 3.563, 
+        "fullname": "St.-Christophe, Auvergne, Allier, France", 
+        "sw_latitude": 46.137
+      }, 
+      "id": 623460
+    }
+  ]
+}

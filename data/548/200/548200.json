@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.968, 
+              47.422
+            ], 
+            [
+              15.968, 
+              47.440
+            ], 
+            [
+              15.995, 
+              47.440
+            ], 
+            [
+              15.995, 
+              47.422
+            ], 
+            [
+              15.968, 
+              47.422
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 548200, 
+        "name": "Burgfeld", 
+        "adjacent_woeid": [
+          548102, 
+          548736, 
+          549866, 
+          20094683, 
+          20097118
+        ], 
+        "ne_latitude": 47.440, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.995, 
+        "longitude": 15.981, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:06Z", 
+        "parent_woeid": 12673457, 
+        "latitude": 47.431, 
+        "sw_longitude": 15.968, 
+        "fullname": "Burgfeld, Styria, Hartberg, Austria", 
+        "sw_latitude": 47.422
+      }, 
+      "id": 548200
+    }
+  ]
+}

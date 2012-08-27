@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.691, 
+              46.930
+            ], 
+            [
+              4.691, 
+              46.967
+            ], 
+            [
+              4.722, 
+              46.967
+            ], 
+            [
+              4.722, 
+              46.930
+            ], 
+            [
+              4.691, 
+              46.930
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623060, 
+        "name": "St.-Aubin", 
+        "adjacent_woeid": [
+          584804, 
+          599778, 
+          20213524
+        ], 
+        "ne_latitude": 46.967, 
+        "ne_longitude": 4.722, 
+        "longitude": 4.710, 
+        "parent_woeid": 12652219, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aubin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.951, 
+        "sw_longitude": 4.691, 
+        "fullname": "St.-Aubin, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 46.930
+      }, 
+      "id": 623060
+    }
+  ]
+}

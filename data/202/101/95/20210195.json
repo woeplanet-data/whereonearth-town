@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.567, 
+              45.902
+            ], 
+            [
+              4.567, 
+              45.911
+            ], 
+            [
+              4.580, 
+              45.911
+            ], 
+            [
+              4.580, 
+              45.902
+            ], 
+            [
+              4.567, 
+              45.902
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210195, 
+        "name": "Les Ponts Tarrets", 
+        "adjacent_woeid": [
+          602296, 
+          605089, 
+          621016, 
+          627205
+        ], 
+        "ne_latitude": 45.911, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.580, 
+        "longitude": 4.574, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 22756800, 
+        "latitude": 45.907, 
+        "sw_longitude": 4.567, 
+        "fullname": "Les Ponts Tarrets, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 45.902
+      }, 
+      "id": 20210195
+    }
+  ]
+}

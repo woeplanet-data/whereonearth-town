@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.291, 
+              52.282
+            ], 
+            [
+              10.291, 
+              52.328
+            ], 
+            [
+              10.331, 
+              52.328
+            ], 
+            [
+              10.331, 
+              52.282
+            ], 
+            [
+              10.291, 
+              52.282
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707919, 
+        "name": "Woltorf", 
+        "adjacent_woeid": [
+          645925, 
+          648843, 
+          651165, 
+          674464, 
+          692396, 
+          694958, 
+          695574
+        ], 
+        "ne_latitude": 52.328, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.331, 
+        "longitude": 10.316, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12630424, 
+        "latitude": 52.306, 
+        "sw_longitude": 10.291, 
+        "fullname": "Woltorf, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.282
+      }, 
+      "id": 707919
+    }
+  ]
+}

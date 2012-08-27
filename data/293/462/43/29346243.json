@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.735, 
+              47.736
+            ], 
+            [
+              11.735, 
+              47.755
+            ], 
+            [
+              11.762, 
+              47.755
+            ], 
+            [
+              11.762, 
+              47.736
+            ], 
+            [
+              11.735, 
+              47.736
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346243, 
+        "name": "Hof", 
+        "adjacent_woeid": [
+          642144, 
+          651625, 
+          29346193
+        ], 
+        "ne_latitude": 47.755, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.762, 
+        "longitude": 11.748, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:25Z", 
+        "parent_woeid": 12636082, 
+        "latitude": 47.746, 
+        "sw_longitude": 11.735, 
+        "fullname": "Hof, Bavaria, Landkreis Miesbach, Germany", 
+        "sw_latitude": 47.736
+      }, 
+      "id": 29346243
+    }
+  ]
+}

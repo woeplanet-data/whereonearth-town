@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.006, 
+              45.780
+            ], 
+            [
+              3.006, 
+              45.798
+            ], 
+            [
+              3.032, 
+              45.798
+            ], 
+            [
+              3.032, 
+              45.780
+            ], 
+            [
+              3.006, 
+              45.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332668, 
+        "name": "Le Gressigny", 
+        "adjacent_woeid": [
+          621015, 
+          628242, 
+          29332669
+        ], 
+        "ne_latitude": 45.798, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.032, 
+        "longitude": 3.019, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12643933, 
+        "latitude": 45.789, 
+        "sw_longitude": 3.006, 
+        "fullname": "Le Gressigny, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.780
+      }, 
+      "id": 29332668
+    }
+  ]
+}

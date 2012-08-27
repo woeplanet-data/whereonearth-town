@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.772, 
+              50.941
+            ], 
+            [
+              9.772, 
+              50.970
+            ], 
+            [
+              9.800, 
+              50.970
+            ], 
+            [
+              9.800, 
+              50.941
+            ], 
+            [
+              9.772, 
+              50.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641015, 
+        "name": "Breitenbach", 
+        "adjacent_woeid": [
+          639378, 
+          672186, 
+          672914, 
+          705037
+        ], 
+        "ne_latitude": 50.970, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.800, 
+        "longitude": 9.783, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12632760, 
+        "latitude": 50.957, 
+        "sw_longitude": 9.772, 
+        "fullname": "Breitenbach, Hesse, Hersfeld-Rotenburg, Germany", 
+        "sw_latitude": 50.941
+      }, 
+      "id": 641015
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.214, 
+              48.023
+            ], 
+            [
+              15.214, 
+              48.041
+            ], 
+            [
+              15.241, 
+              48.041
+            ], 
+            [
+              15.241, 
+              48.023
+            ], 
+            [
+              15.214, 
+              48.023
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995745, 
+        "name": "Schulweg", 
+        "adjacent_woeid": [
+          542835, 
+          20094812, 
+          20095132, 
+          28995739, 
+          28995740, 
+          28995741
+        ], 
+        "ne_latitude": 48.041, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.241, 
+        "longitude": 15.227, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12674159, 
+        "latitude": 48.032, 
+        "sw_longitude": 15.214, 
+        "fullname": "Schulweg, Lower Austria, Scheibbs, Austria", 
+        "sw_latitude": 48.023
+      }, 
+      "id": 28995745
+    }
+  ]
+}

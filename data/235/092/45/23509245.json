@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.326, 
+              40.369
+            ], 
+            [
+              -77.326, 
+              40.387
+            ], 
+            [
+              -77.302, 
+              40.387
+            ], 
+            [
+              -77.302, 
+              40.369
+            ], 
+            [
+              -77.326, 
+              40.369
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23509245, 
+        "name": "Green Park", 
+        "adjacent_woeid": [
+          2400102, 
+          2405928, 
+          2440205, 
+          28745372, 
+          28745562
+        ], 
+        "ne_latitude": 40.387, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Greenpark"
+        ], 
+        "ne_longitude": -77.302, 
+        "longitude": -77.314, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:54Z", 
+        "parent_woeid": 12589777, 
+        "latitude": 40.378, 
+        "sw_longitude": -77.326, 
+        "fullname": "Green Park, Pennsylvania, Perry, United States", 
+        "sw_latitude": 40.369
+      }, 
+      "id": 23509245
+    }
+  ]
+}

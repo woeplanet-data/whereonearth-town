@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.225, 
+              46.108
+            ], 
+            [
+              0.225, 
+              46.126
+            ], 
+            [
+              0.239, 
+              46.126
+            ], 
+            [
+              0.239, 
+              46.108
+            ], 
+            [
+              0.225, 
+              46.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625377, 
+        "name": "St.-Macoux", 
+        "adjacent_woeid": [
+          612256, 
+          632669, 
+          20200596, 
+          29331391, 
+          29331392
+        ], 
+        "ne_latitude": 46.126, 
+        "ne_longitude": 0.239, 
+        "longitude": 0.232, 
+        "parent_woeid": 12670797, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Macoux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.117, 
+        "sw_longitude": 0.225, 
+        "fullname": "St.-Macoux, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.108
+      }, 
+      "id": 625377
+    }
+  ]
+}

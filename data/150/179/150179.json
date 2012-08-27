@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.360, 
+              20.035
+            ], 
+            [
+              -99.360, 
+              20.083
+            ], 
+            [
+              -99.310, 
+              20.083
+            ], 
+            [
+              -99.310, 
+              20.035
+            ], 
+            [
+              -99.360, 
+              20.035
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.083, 
+        "name": "Tula de Allende", 
+        "adjacent_woeid": [
+          141432, 
+          142599, 
+          144324, 
+          150178
+        ], 
+        "woeid": 150179, 
+        "alias_SPA_V": [
+          "El Tule"
+        ], 
+        "ne_longitude": -99.310, 
+        "longitude": -99.341, 
+        "parent_woeid": 12600184, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.055, 
+        "sw_longitude": -99.360, 
+        "fullname": "Tula de Allende, Hidalgo, Tula de Allende, Mexico", 
+        "sw_latitude": 20.035
+      }, 
+      "id": 150179
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.339, 
+              49.990
+            ], 
+            [
+              10.339, 
+              50.008
+            ], 
+            [
+              10.385, 
+              50.008
+            ], 
+            [
+              10.385, 
+              49.990
+            ], 
+            [
+              10.339, 
+              49.990
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 681158, 
+        "name": "Obereuerheim", 
+        "adjacent_woeid": [
+          646055, 
+          662281, 
+          686270, 
+          700929, 
+          701620
+        ], 
+        "ne_latitude": 50.008, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.385, 
+        "longitude": 10.365, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:07Z", 
+        "parent_woeid": 12635422, 
+        "latitude": 50.000, 
+        "sw_longitude": 10.339, 
+        "fullname": "Obereuerheim, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.990
+      }, 
+      "id": 681158
+    }
+  ]
+}

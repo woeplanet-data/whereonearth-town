@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.395, 
+              26.274
+            ], 
+            [
+              -108.395, 
+              26.292
+            ], 
+            [
+              -108.375, 
+              26.292
+            ], 
+            [
+              -108.375, 
+              26.274
+            ], 
+            [
+              -108.395, 
+              26.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.292, 
+        "name": "El Potrero", 
+        "adjacent_woeid": [
+          121542, 
+          121658, 
+          131275, 
+          144078, 
+          145610, 
+          149137
+        ], 
+        "woeid": 121655, 
+        "alias_SPA_V": [
+          "Potrero"
+        ], 
+        "ne_longitude": -108.375, 
+        "longitude": -108.385, 
+        "parent_woeid": 12601534, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.283, 
+        "sw_longitude": -108.395, 
+        "fullname": "El Potrero, Sinaloa, El Fuerte, Mexico", 
+        "sw_latitude": 26.274
+      }, 
+      "id": 121655
+    }
+  ]
+}

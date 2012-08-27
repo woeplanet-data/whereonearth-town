@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.269, 
+              45.236
+            ], 
+            [
+              1.269, 
+              45.270
+            ], 
+            [
+              1.311, 
+              45.270
+            ], 
+            [
+              1.311, 
+              45.236
+            ], 
+            [
+              1.269, 
+              45.236
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626749, 
+        "name": "St.-Robert", 
+        "adjacent_woeid": [
+          587179, 
+          608741, 
+          621583, 
+          29332502
+        ], 
+        "ne_latitude": 45.270, 
+        "ne_longitude": 1.311, 
+        "longitude": 1.291, 
+        "parent_woeid": 12671177, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Robert"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.255, 
+        "sw_longitude": 1.269, 
+        "fullname": "St.-Robert, Limousin, Correze, France", 
+        "sw_latitude": 45.236
+      }, 
+      "id": 626749
+    }
+  ]
+}

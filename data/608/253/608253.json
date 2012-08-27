@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.489, 
+              43.253
+            ], 
+            [
+              1.489, 
+              43.288
+            ], 
+            [
+              1.541, 
+              43.288
+            ], 
+            [
+              1.541, 
+              43.253
+            ], 
+            [
+              1.489, 
+              43.253
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608253, 
+        "name": "Lissac", 
+        "adjacent_woeid": [
+          592318, 
+          600583, 
+          626669
+        ], 
+        "ne_latitude": 43.288, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.541, 
+        "longitude": 1.511, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12665717, 
+        "latitude": 43.270, 
+        "sw_longitude": 1.489, 
+        "fullname": "Lissac, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.253
+      }, 
+      "id": 608253
+    }
+  ]
+}

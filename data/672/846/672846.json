@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              53.721
+            ], 
+            [
+              12.345, 
+              53.754
+            ], 
+            [
+              12.383, 
+              53.754
+            ], 
+            [
+              12.383, 
+              53.721
+            ], 
+            [
+              12.345, 
+              53.721
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 672846, 
+        "name": "L\u00fcbsee", 
+        "adjacent_woeid": [
+          636810, 
+          680083, 
+          693968, 
+          702349, 
+          702508, 
+          20165627
+        ], 
+        "alias_GER_S": [
+          "Luebsee"
+        ], 
+        "ne_latitude": 53.754, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.383, 
+        "longitude": 12.370, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:27Z", 
+        "parent_woeid": 24547339, 
+        "latitude": 53.733, 
+        "sw_longitude": 12.345, 
+        "fullname": "L\u00fcbsee, Mecklenburg-Vorpommern, Landkreis G\u00fcstrow, Germany", 
+        "sw_latitude": 53.721
+      }, 
+      "id": 672846
+    }
+  ]
+}

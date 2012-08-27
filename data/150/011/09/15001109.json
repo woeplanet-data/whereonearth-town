@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.139, 
+              46.823
+            ], 
+            [
+              8.139, 
+              46.841
+            ], 
+            [
+              8.166, 
+              46.841
+            ], 
+            [
+              8.166, 
+              46.823
+            ], 
+            [
+              8.139, 
+              46.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 15001109, 
+        "name": "Kleinteil", 
+        "adjacent_woeid": [
+          782877, 
+          783345, 
+          783352, 
+          20101480, 
+          20101985
+        ], 
+        "ne_latitude": 46.841, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.166, 
+        "longitude": 8.153, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12682711, 
+        "latitude": 46.832, 
+        "sw_longitude": 8.139, 
+        "fullname": "Kleinteil, Canton of Obwalden, Obwalden, Switzerland", 
+        "sw_latitude": 46.823
+      }, 
+      "id": 15001109
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.453, 
+              48.393
+            ], 
+            [
+              1.453, 
+              48.423
+            ], 
+            [
+              1.488, 
+              48.423
+            ], 
+            [
+              1.488, 
+              48.393
+            ], 
+            [
+              1.453, 
+              48.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578191, 
+        "name": "Barjouville", 
+        "adjacent_woeid": [
+          591483, 
+          600300, 
+          613182, 
+          628509
+        ], 
+        "ne_latitude": 48.423, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.488, 
+        "longitude": 1.476, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:29Z", 
+        "parent_woeid": 12638127, 
+        "latitude": 48.412, 
+        "sw_longitude": 1.453, 
+        "fullname": "Barjouville, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.393
+      }, 
+      "id": 578191
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.204, 
+              46.239
+            ], 
+            [
+              6.204, 
+              46.258
+            ], 
+            [
+              6.230, 
+              46.258
+            ], 
+            [
+              6.230, 
+              46.239
+            ], 
+            [
+              6.204, 
+              46.239
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20102520, 
+        "name": "La Pallanterie", 
+        "adjacent_woeid": [
+          20100862, 
+          20101647, 
+          20103973, 
+          55869065
+        ], 
+        "ne_latitude": 46.258, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.230, 
+        "longitude": 6.215, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12683214, 
+        "latitude": 46.248, 
+        "sw_longitude": 6.204, 
+        "fullname": "La Pallanterie, Canton of Geneva, Geneva, Switzerland", 
+        "sw_latitude": 46.239
+      }, 
+      "id": 20102520
+    }
+  ]
+}

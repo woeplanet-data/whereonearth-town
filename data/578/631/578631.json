@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.079, 
+              43.440
+            ], 
+            [
+              1.079, 
+              43.478
+            ], 
+            [
+              1.134, 
+              43.478
+            ], 
+            [
+              1.134, 
+              43.440
+            ], 
+            [
+              1.079, 
+              43.440
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578631, 
+        "name": "Beaufort", 
+        "adjacent_woeid": [
+          612683, 
+          620557, 
+          627536
+        ], 
+        "ne_latitude": 43.478, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.134, 
+        "longitude": 1.112, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12656469, 
+        "latitude": 43.459, 
+        "sw_longitude": 1.079, 
+        "fullname": "Beaufort, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.440
+      }, 
+      "id": 578631
+    }
+  ]
+}

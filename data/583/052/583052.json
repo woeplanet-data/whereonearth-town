@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.342, 
+              44.663
+            ], 
+            [
+              -0.342, 
+              44.699
+            ], 
+            [
+              -0.300, 
+              44.699
+            ], 
+            [
+              -0.300, 
+              44.663
+            ], 
+            [
+              -0.342, 
+              44.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583052, 
+        "name": "Cardan", 
+        "adjacent_woeid": [
+          583003, 
+          619519, 
+          622580, 
+          631801
+        ], 
+        "ne_latitude": 44.699, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.300, 
+        "longitude": -0.319, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12640417, 
+        "latitude": 44.678, 
+        "sw_longitude": -0.342, 
+        "fullname": "Cardan, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.663
+      }, 
+      "id": 583052
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.777, 
+              26.068
+            ], 
+            [
+              -108.777, 
+              26.090
+            ], 
+            [
+              -108.749, 
+              26.090
+            ], 
+            [
+              -108.749, 
+              26.068
+            ], 
+            [
+              -108.777, 
+              26.068
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.090, 
+        "name": "San Blas", 
+        "adjacent_woeid": [
+          113693, 
+          115702, 
+          118988, 
+          147651, 
+          150592
+        ], 
+        "woeid": 142029, 
+        "alias_SPA_V": [
+          "S Blas"
+        ], 
+        "ne_longitude": -108.749, 
+        "longitude": -108.762, 
+        "parent_woeid": 12601534, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.081, 
+        "sw_longitude": -108.777, 
+        "fullname": "San Blas, Sinaloa, El Fuerte, Mexico", 
+        "sw_latitude": 26.068
+      }, 
+      "id": 142029
+    }
+  ]
+}

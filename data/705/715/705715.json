@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.616, 
+              52.503
+            ], 
+            [
+              10.616, 
+              52.516
+            ], 
+            [
+              10.637, 
+              52.516
+            ], 
+            [
+              10.637, 
+              52.503
+            ], 
+            [
+              10.616, 
+              52.503
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705715, 
+        "name": "Westerbeck", 
+        "adjacent_woeid": [
+          643737, 
+          655634, 
+          678033, 
+          20166178
+        ], 
+        "ne_latitude": 52.516, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.637, 
+        "longitude": 10.630, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12630304, 
+        "latitude": 52.511, 
+        "sw_longitude": 10.616, 
+        "fullname": "Westerbeck, Lower Saxony, Landkreis Gifhorn, Germany", 
+        "sw_latitude": 52.503
+      }, 
+      "id": 705715
+    }
+  ]
+}

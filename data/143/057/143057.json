@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.057, 
+              24.106
+            ], 
+            [
+              -105.057, 
+              24.124
+            ], 
+            [
+              -105.038, 
+              24.124
+            ], 
+            [
+              -105.038, 
+              24.106
+            ], 
+            [
+              -105.057, 
+              24.106
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.124, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          128141, 
+          129046, 
+          129789, 
+          134404, 
+          135406
+        ], 
+        "woeid": 143057, 
+        "alias_SPA_V": [
+          "S Javier"
+        ], 
+        "ne_longitude": -105.038, 
+        "longitude": -105.048, 
+        "parent_woeid": 12599954, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.115, 
+        "sw_longitude": -105.057, 
+        "fullname": "San Javier, Durango, Durango, Mexico", 
+        "sw_latitude": 24.106
+      }, 
+      "id": 143057
+    }
+  ]
+}

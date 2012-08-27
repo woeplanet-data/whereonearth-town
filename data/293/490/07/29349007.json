@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.692, 
+              49.229
+            ], 
+            [
+              6.692, 
+              49.247
+            ], 
+            [
+              6.720, 
+              49.247
+            ], 
+            [
+              6.720, 
+              49.229
+            ], 
+            [
+              6.692, 
+              49.229
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349007, 
+        "name": "Wohnstadt", 
+        "adjacent_woeid": [
+          650855, 
+          672107, 
+          673821
+        ], 
+        "ne_latitude": 49.247, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.720, 
+        "longitude": 6.706, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:39Z", 
+        "parent_woeid": 12627116, 
+        "latitude": 49.238, 
+        "sw_longitude": 6.692, 
+        "fullname": "Wohnstadt, Saarland, Landkreis Saarlouis, Germany", 
+        "sw_latitude": 49.229
+      }, 
+      "id": 29349007
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.197, 
+              44.874
+            ], 
+            [
+              3.197, 
+              44.900
+            ], 
+            [
+              3.220, 
+              44.900
+            ], 
+            [
+              3.220, 
+              44.874
+            ], 
+            [
+              3.197, 
+              44.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625036, 
+        "name": "St.-Just", 
+        "adjacent_woeid": [
+          575650, 
+          576468, 
+          586175, 
+          598392, 
+          601953, 
+          625417, 
+          29332759
+        ], 
+        "ne_latitude": 44.900, 
+        "ne_longitude": 3.220, 
+        "longitude": 3.210, 
+        "parent_woeid": 12641787, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Just"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.891, 
+        "sw_longitude": 3.197, 
+        "fullname": "St.-Just, Auvergne, Cantal, France", 
+        "sw_latitude": 44.874
+      }, 
+      "id": 625036
+    }
+  ]
+}

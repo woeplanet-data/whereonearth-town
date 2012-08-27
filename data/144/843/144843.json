@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.926, 
+              21.141
+            ], 
+            [
+              -100.926, 
+              21.159
+            ], 
+            [
+              -100.907, 
+              21.159
+            ], 
+            [
+              -100.907, 
+              21.141
+            ], 
+            [
+              -100.926, 
+              21.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.159, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          116544, 
+          120714, 
+          122087, 
+          127236, 
+          141831, 
+          149035, 
+          149283, 
+          55921035
+        ], 
+        "woeid": 144843, 
+        "alias_SPA_V": [
+          "Trojes de S. Pablo"
+        ], 
+        "ne_longitude": -100.907, 
+        "longitude": -100.918, 
+        "parent_woeid": 12600002, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.145, 
+        "sw_longitude": -100.926, 
+        "fullname": "San Pablo, Guanajuato, Dolores Hidalgo, Mexico", 
+        "sw_latitude": 21.141
+      }, 
+      "id": 144843
+    }
+  ]
+}

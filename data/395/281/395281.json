@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.945, 
+              7.988
+            ], 
+            [
+              -72.945, 
+              10.020
+            ], 
+            [
+              -70.887, 
+              10.020
+            ], 
+            [
+              -70.887, 
+              7.988
+            ], 
+            [
+              -72.945, 
+              7.988
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.020, 
+        "name": "San Carlos del Zulia", 
+        "adjacent_woeid": [
+          389925, 
+          391776, 
+          393740, 
+          394107, 
+          394468, 
+          395296, 
+          395344, 
+          395401, 
+          395602, 
+          395666, 
+          468178, 
+          468392, 
+          468420, 
+          468552, 
+          468583
+        ], 
+        "woeid": 395281, 
+        "alias_SPA_V": [
+          "S. Carlos"
+        ], 
+        "ne_longitude": -70.887, 
+        "longitude": -71.916, 
+        "parent_woeid": 26805054, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.004, 
+        "sw_longitude": -72.945, 
+        "fullname": "San Carlos del Zulia, Zulia, Colon, Venezuela", 
+        "sw_latitude": 7.988
+      }, 
+      "id": 395281
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.693, 
+              24.258
+            ], 
+            [
+              -99.693, 
+              24.276
+            ], 
+            [
+              -99.673, 
+              24.276
+            ], 
+            [
+              -99.673, 
+              24.258
+            ], 
+            [
+              -99.693, 
+              24.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.276, 
+        "name": "El Charco", 
+        "adjacent_woeid": [
+          113569, 
+          119780, 
+          125329, 
+          126570, 
+          129927
+        ], 
+        "woeid": 119725, 
+        "alias_SPA_V": [
+          "Charcas"
+        ], 
+        "ne_longitude": -99.673, 
+        "longitude": -99.683, 
+        "parent_woeid": 12600611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.267, 
+        "sw_longitude": -99.693, 
+        "fullname": "El Charco, Nuevo Leon, Aramberri, Mexico", 
+        "sw_latitude": 24.258
+      }, 
+      "id": 119725
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.975, 
+              43.450
+            ], 
+            [
+              0.975, 
+              43.482
+            ], 
+            [
+              1.010, 
+              43.482
+            ], 
+            [
+              1.010, 
+              43.450
+            ], 
+            [
+              0.975, 
+              43.450
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611842, 
+        "name": "Monblanc", 
+        "adjacent_woeid": [
+          614352, 
+          615881, 
+          621341, 
+          621396, 
+          625296
+        ], 
+        "ne_latitude": 43.482, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.010, 
+        "longitude": 0.990, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12666797, 
+        "latitude": 43.464, 
+        "sw_longitude": 0.975, 
+        "fullname": "Monblanc, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.450
+      }, 
+      "id": 611842
+    }
+  ]
+}

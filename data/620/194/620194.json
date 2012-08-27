@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.901, 
+              43.060
+            ], 
+            [
+              1.901, 
+              43.091
+            ], 
+            [
+              1.939, 
+              43.091
+            ], 
+            [
+              1.939, 
+              43.060
+            ], 
+            [
+              1.901, 
+              43.060
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620194, 
+        "name": "Roumengoux", 
+        "adjacent_woeid": [
+          583490, 
+          596777, 
+          600828, 
+          613462
+        ], 
+        "ne_latitude": 43.091, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.939, 
+        "longitude": 1.935, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12669192, 
+        "latitude": 43.072, 
+        "sw_longitude": 1.901, 
+        "fullname": "Roumengoux, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.060
+      }, 
+      "id": 620194
+    }
+  ]
+}

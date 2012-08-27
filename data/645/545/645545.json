@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.994, 
+              50.272
+            ], 
+            [
+              11.994, 
+              50.297
+            ], 
+            [
+              12.015, 
+              50.297
+            ], 
+            [
+              12.015, 
+              50.272
+            ], 
+            [
+              11.994, 
+              50.272
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645545, 
+        "name": "Draisendorf", 
+        "adjacent_woeid": [
+          665283, 
+          669434, 
+          683481, 
+          704847
+        ], 
+        "ne_latitude": 50.297, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.015, 
+        "longitude": 12.010, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12635315, 
+        "latitude": 50.283, 
+        "sw_longitude": 11.994, 
+        "fullname": "Draisendorf, Bavaria, Landkreis Hof, Germany", 
+        "sw_latitude": 50.272
+      }, 
+      "id": 645545
+    }
+  ]
+}

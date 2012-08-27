@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.891, 
+              50.840
+            ], 
+            [
+              8.891, 
+              50.871
+            ], 
+            [
+              8.939, 
+              50.871
+            ], 
+            [
+              8.939, 
+              50.840
+            ], 
+            [
+              8.891, 
+              50.840
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660031, 
+        "name": "Himmelsberg", 
+        "adjacent_woeid": [
+          635283, 
+          642594, 
+          695146, 
+          696430
+        ], 
+        "ne_latitude": 50.871, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.939, 
+        "longitude": 8.913, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12632707, 
+        "latitude": 50.860, 
+        "sw_longitude": 8.891, 
+        "fullname": "Himmelsberg, Hesse, Marburg-Biedenkopf, Germany", 
+        "sw_latitude": 50.840
+      }, 
+      "id": 660031
+    }
+  ]
+}

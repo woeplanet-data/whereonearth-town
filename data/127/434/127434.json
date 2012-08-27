@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.843, 
+              26.591
+            ], 
+            [
+              -105.843, 
+              26.609
+            ], 
+            [
+              -105.823, 
+              26.609
+            ], 
+            [
+              -105.823, 
+              26.591
+            ], 
+            [
+              -105.843, 
+              26.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.609, 
+        "name": "La Flor", 
+        "adjacent_woeid": [
+          115275, 
+          127352, 
+          128396, 
+          141273, 
+          150904
+        ], 
+        "woeid": 127434, 
+        "alias_SPA_V": [
+          "Flor"
+        ], 
+        "ne_longitude": -105.823, 
+        "longitude": -105.833, 
+        "parent_woeid": 12599968, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.600, 
+        "sw_longitude": -105.843, 
+        "fullname": "La Flor, Durango, Ocampo, Mexico", 
+        "sw_latitude": 26.591
+      }, 
+      "id": 127434
+    }
+  ]
+}

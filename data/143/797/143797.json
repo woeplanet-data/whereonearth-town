@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.343, 
+              14.741
+            ], 
+            [
+              -92.343, 
+              14.759
+            ], 
+            [
+              -92.324, 
+              14.759
+            ], 
+            [
+              -92.324, 
+              14.741
+            ], 
+            [
+              -92.343, 
+              14.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.759, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          118481, 
+          121994, 
+          122197, 
+          133224, 
+          142583, 
+          143642, 
+          146723
+        ], 
+        "woeid": 143797, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -92.324, 
+        "longitude": -92.333, 
+        "parent_woeid": 12599798, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.750, 
+        "sw_longitude": -92.343, 
+        "fullname": "San Juan, Chiapas, Tapachula, Mexico", 
+        "sw_latitude": 14.741
+      }, 
+      "id": 143797
+    }
+  ]
+}

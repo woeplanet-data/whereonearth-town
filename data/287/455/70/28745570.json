@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.269, 
+              40.532
+            ], 
+            [
+              -77.269, 
+              40.646
+            ], 
+            [
+              -77.163, 
+              40.646
+            ], 
+            [
+              -77.163, 
+              40.532
+            ], 
+            [
+              -77.269, 
+              40.532
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745570, 
+        "name": "Delaware", 
+        "adjacent_woeid": [
+          2392882, 
+          2396129, 
+          2440980, 
+          2447421, 
+          2502843, 
+          2511210, 
+          28340051, 
+          28340056, 
+          28745376, 
+          28745402
+        ], 
+        "ne_latitude": 40.646, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Delaware Township"
+        ], 
+        "ne_longitude": -77.163, 
+        "longitude": -77.213, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589761, 
+        "latitude": 40.611, 
+        "sw_longitude": -77.269, 
+        "fullname": "Delaware, Pennsylvania, Juniata, United States", 
+        "sw_latitude": 40.532
+      }, 
+      "id": 28745570
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.570, 
+              45.279
+            ], 
+            [
+              -73.570, 
+              45.351
+            ], 
+            [
+              -73.481, 
+              45.351
+            ], 
+            [
+              -73.481, 
+              45.279
+            ], 
+            [
+              -73.570, 
+              45.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394593, 
+        "name": "St.-Mathieu", 
+        "adjacent_woeid": [
+          3561, 
+          23396559, 
+          23396561, 
+          23396582, 
+          23396698, 
+          29374376, 
+          29374692
+        ], 
+        "ne_latitude": 45.351, 
+        "ne_longitude": -73.481, 
+        "longitude": -73.519, 
+        "parent_woeid": 29375054, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Mathieu"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.312, 
+        "sw_longitude": -73.570, 
+        "fullname": "St.-Mathieu, Quebec, Roussillon, Canada", 
+        "sw_latitude": 45.279
+      }, 
+      "id": 23394593
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.130, 
+              47.483
+            ], 
+            [
+              8.130, 
+              47.501
+            ], 
+            [
+              8.157, 
+              47.501
+            ], 
+            [
+              8.157, 
+              47.483
+            ], 
+            [
+              8.130, 
+              47.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101550, 
+        "name": "Egenwil", 
+        "adjacent_woeid": [
+          20100708, 
+          20102383, 
+          20104572
+        ], 
+        "ne_latitude": 47.501, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.157, 
+        "longitude": 8.144, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12685285, 
+        "latitude": 47.492, 
+        "sw_longitude": 8.130, 
+        "fullname": "Egenwil, Canton of Aargau, Brugg, Switzerland", 
+        "sw_latitude": 47.483
+      }, 
+      "id": 20101550
+    }
+  ]
+}

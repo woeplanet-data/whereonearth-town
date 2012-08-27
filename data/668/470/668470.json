@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.653, 
+              50.004
+            ], 
+            [
+              11.653, 
+              50.024
+            ], 
+            [
+              11.672, 
+              50.024
+            ], 
+            [
+              11.672, 
+              50.004
+            ], 
+            [
+              11.653, 
+              50.004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 668470, 
+        "name": "Kottersreuth", 
+        "adjacent_woeid": [
+          645694, 
+          665200, 
+          671073, 
+          678000
+        ], 
+        "ne_latitude": 50.024, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.672, 
+        "longitude": 11.659, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:06Z", 
+        "parent_woeid": 12635261, 
+        "latitude": 50.012, 
+        "sw_longitude": 11.653, 
+        "fullname": "Kottersreuth, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 50.004
+      }, 
+      "id": 668470
+    }
+  ]
+}

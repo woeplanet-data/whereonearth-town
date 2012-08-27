@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.406, 
+              45.722
+            ], 
+            [
+              0.406, 
+              45.744
+            ], 
+            [
+              0.444, 
+              45.744
+            ], 
+            [
+              0.444, 
+              45.722
+            ], 
+            [
+              0.406, 
+              45.722
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610053, 
+        "name": "Marillac-le-Franc", 
+        "adjacent_woeid": [
+          591134, 
+          618806, 
+          627008, 
+          628053, 
+          633081
+        ], 
+        "ne_latitude": 45.744, 
+        "ne_longitude": 0.444, 
+        "longitude": 0.429, 
+        "parent_woeid": 12664091, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Marillac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.735, 
+        "sw_longitude": 0.406, 
+        "fullname": "Marillac-le-Franc, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.722
+      }, 
+      "id": 610053
+    }
+  ]
+}

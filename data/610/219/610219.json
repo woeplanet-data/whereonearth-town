@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.309, 
+              45.009
+            ], 
+            [
+              4.309, 
+              45.034
+            ], 
+            [
+              4.332, 
+              45.034
+            ], 
+            [
+              4.332, 
+              45.009
+            ], 
+            [
+              4.309, 
+              45.009
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610219, 
+        "name": "Mars", 
+        "adjacent_woeid": [
+          595222, 
+          15002918, 
+          20206650
+        ], 
+        "ne_latitude": 45.034, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.332, 
+        "longitude": 4.323, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "parent_woeid": 22756437, 
+        "latitude": 45.022, 
+        "sw_longitude": 4.309, 
+        "fullname": "Mars, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 45.009
+      }, 
+      "id": 610219
+    }
+  ]
+}

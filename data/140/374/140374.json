@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.410, 
+              29.124
+            ], 
+            [
+              -110.410, 
+              29.142
+            ], 
+            [
+              -110.390, 
+              29.142
+            ], 
+            [
+              -110.390, 
+              29.124
+            ], 
+            [
+              -110.410, 
+              29.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.142, 
+        "name": "Rancho Viejo", 
+        "adjacent_woeid": [
+          111766, 
+          124171, 
+          127351, 
+          130109, 
+          131963, 
+          146894
+        ], 
+        "woeid": 140374, 
+        "alias_SPA_V": [
+          "Viejo"
+        ], 
+        "ne_longitude": -110.390, 
+        "longitude": -110.400, 
+        "parent_woeid": 12601611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.133, 
+        "sw_longitude": -110.410, 
+        "fullname": "Rancho Viejo, Sonora, Ures, Mexico", 
+        "sw_latitude": 29.124
+      }, 
+      "id": 140374
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.316, 
+              46.482
+            ], 
+            [
+              1.316, 
+              46.491
+            ], 
+            [
+              1.329, 
+              46.491
+            ], 
+            [
+              1.329, 
+              46.482
+            ], 
+            [
+              1.316, 
+              46.482
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20185513, 
+        "name": "La Plaine", 
+        "adjacent_woeid": [
+          589279, 
+          620569, 
+          632659, 
+          20185516, 
+          29332474
+        ], 
+        "ne_latitude": 46.491, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.329, 
+        "longitude": 1.323, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12647260, 
+        "latitude": 46.487, 
+        "sw_longitude": 1.316, 
+        "fullname": "La Plaine, Centre, Indre, France", 
+        "sw_latitude": 46.482
+      }, 
+      "id": 20185513
+    }
+  ]
+}

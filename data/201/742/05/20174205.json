@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.517, 
+              54.294
+            ], 
+            [
+              10.517, 
+              54.321
+            ], 
+            [
+              10.551, 
+              54.321
+            ], 
+            [
+              10.551, 
+              54.294
+            ], 
+            [
+              10.517, 
+              54.294
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20174205, 
+        "name": "Fresendorf", 
+        "adjacent_woeid": [
+          643796, 
+          653565, 
+          666153, 
+          689501, 
+          20165469, 
+          20174203, 
+          29350742, 
+          29350745, 
+          29350746
+        ], 
+        "ne_latitude": 54.321, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.551, 
+        "longitude": 10.532, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12632386, 
+        "latitude": 54.301, 
+        "sw_longitude": 10.517, 
+        "fullname": "Fresendorf, Schleswig-Holstein, Plon, Germany", 
+        "sw_latitude": 54.294
+      }, 
+      "id": 20174205
+    }
+  ]
+}

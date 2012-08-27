@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.876, 
+              14.458
+            ], 
+            [
+              -60.876, 
+              14.476
+            ], 
+            [
+              -60.857, 
+              14.476
+            ], 
+            [
+              -60.857, 
+              14.458
+            ], 
+            [
+              -60.876, 
+              14.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 110561, 
+        "name": "Le Marin", 
+        "adjacent_woeid": [
+          110572, 
+          110584, 
+          110781, 
+          110787
+        ], 
+        "ne_latitude": 14.476, 
+        "ne_longitude": -60.857, 
+        "longitude": -60.867, 
+        "parent_woeid": 24551341, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Marin"
+        ], 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.467, 
+        "sw_longitude": -60.876, 
+        "fullname": "Le Marin, Marin, Le Marin, Martinique", 
+        "sw_latitude": 14.458
+      }, 
+      "id": 110561
+    }
+  ]
+}

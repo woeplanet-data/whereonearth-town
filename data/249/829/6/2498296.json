@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.257, 
+              38.734
+            ], 
+            [
+              -77.257, 
+              38.812
+            ], 
+            [
+              -77.141, 
+              38.812
+            ], 
+            [
+              -77.141, 
+              38.734
+            ], 
+            [
+              -77.257, 
+              38.734
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2498296, 
+        "name": "Springfield", 
+        "adjacent_woeid": [
+          2353019, 
+          2354866, 
+          2354868, 
+          2357850, 
+          2369382, 
+          2371985, 
+          2378096, 
+          2401366, 
+          2403815, 
+          2406866, 
+          2426979, 
+          2431048, 
+          2441998, 
+          2442030, 
+          2443320, 
+          2459472, 
+          2474523, 
+          2478883, 
+          2517769, 
+          26342990
+        ], 
+        "ne_latitude": 38.812, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.141, 
+        "longitude": -77.192, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:35:34Z", 
+        "parent_woeid": 12590343, 
+        "latitude": 38.779, 
+        "sw_longitude": -77.257, 
+        "fullname": "Springfield, Virginia, Fairfax, United States", 
+        "sw_latitude": 38.734
+      }, 
+      "id": 2498296
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.370, 
+              53.648
+            ], 
+            [
+              11.370, 
+              53.682
+            ], 
+            [
+              11.395, 
+              53.682
+            ], 
+            [
+              11.395, 
+              53.648
+            ], 
+            [
+              11.370, 
+              53.648
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666500, 
+        "name": "Klein Medewege", 
+        "adjacent_woeid": [
+          637002, 
+          704007, 
+          29352073
+        ], 
+        "ne_latitude": 53.682, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.395, 
+        "longitude": 11.383, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12630466, 
+        "latitude": 53.667, 
+        "sw_longitude": 11.370, 
+        "fullname": "Klein Medewege, Mecklenburg-Vorpommern, Stadtkreis Schwerin, Germany", 
+        "sw_latitude": 53.648
+      }, 
+      "id": 666500
+    }
+  ]
+}

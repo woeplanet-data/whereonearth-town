@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.212, 
+              47.831
+            ], 
+            [
+              4.212, 
+              47.850
+            ], 
+            [
+              4.240, 
+              47.850
+            ], 
+            [
+              4.240, 
+              47.831
+            ], 
+            [
+              4.212, 
+              47.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332180, 
+        "name": "Paissons", 
+        "adjacent_woeid": [
+          592842, 
+          592992, 
+          614276, 
+          616644, 
+          621764
+        ], 
+        "ne_latitude": 47.850, 
+        "ne_longitude": 4.240, 
+        "longitude": 4.226, 
+        "parent_woeid": 12642643, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Paisson"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.840, 
+        "sw_longitude": 4.212, 
+        "fullname": "Paissons, Burgundy, Yonne, France", 
+        "sw_latitude": 47.831
+      }, 
+      "id": 29332180
+    }
+  ]
+}

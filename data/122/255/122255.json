@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.726, 
+              20.074
+            ], 
+            [
+              -101.726, 
+              20.092
+            ], 
+            [
+              -101.707, 
+              20.092
+            ], 
+            [
+              -101.707, 
+              20.074
+            ], 
+            [
+              -101.726, 
+              20.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.092, 
+        "name": "El Sabino", 
+        "adjacent_woeid": [
+          118039, 
+          122181, 
+          135917, 
+          137985, 
+          150916
+        ], 
+        "woeid": 122255, 
+        "alias_SPA_V": [
+          "Sabino"
+        ], 
+        "ne_longitude": -101.707, 
+        "longitude": -101.717, 
+        "parent_woeid": 12600443, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.083, 
+        "sw_longitude": -101.726, 
+        "fullname": "El Sabino, Michoacan de Ocampo, Angamacutiro, Mexico", 
+        "sw_latitude": 20.074
+      }, 
+      "id": 122255
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.961, 
+              48.914
+            ], 
+            [
+              -0.961, 
+              48.942
+            ], 
+            [
+              -0.937, 
+              48.942
+            ], 
+            [
+              -0.937, 
+              48.914
+            ], 
+            [
+              -0.961, 
+              48.914
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625683, 
+        "name": "St.-Martin-Don", 
+        "adjacent_woeid": [
+          576198, 
+          578704, 
+          582833, 
+          609555, 
+          617328, 
+          627670
+        ], 
+        "ne_latitude": 48.942, 
+        "ne_longitude": -0.937, 
+        "longitude": -0.944, 
+        "parent_woeid": 12652927, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Martin-Don"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.928, 
+        "sw_longitude": -0.961, 
+        "fullname": "St.-Martin-Don, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 48.914
+      }, 
+      "id": 625683
+    }
+  ]
+}

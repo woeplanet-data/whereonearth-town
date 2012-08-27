@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.993, 
+              20.541
+            ], 
+            [
+              -98.993, 
+              20.559
+            ], 
+            [
+              -98.974, 
+              20.559
+            ], 
+            [
+              -98.974, 
+              20.541
+            ], 
+            [
+              -98.993, 
+              20.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.559, 
+        "name": "La Florida", 
+        "adjacent_woeid": [
+          124060, 
+          128246, 
+          133464, 
+          137411, 
+          144003, 
+          147435
+        ], 
+        "woeid": 127457, 
+        "alias_SPA_V": [
+          "Florida"
+        ], 
+        "ne_longitude": -98.974, 
+        "longitude": -98.983, 
+        "parent_woeid": 12600123, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.550, 
+        "sw_longitude": -98.993, 
+        "fullname": "La Florida, Hidalgo, Cardonal, Mexico", 
+        "sw_latitude": 20.541
+      }, 
+      "id": 127457
+    }
+  ]
+}

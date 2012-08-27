@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.870, 
+              16.575
+            ], 
+            [
+              -93.870, 
+              16.593
+            ], 
+            [
+              -93.851, 
+              16.593
+            ], 
+            [
+              -93.851, 
+              16.575
+            ], 
+            [
+              -93.870, 
+              16.575
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.593, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          113852, 
+          121335, 
+          129495, 
+          131041, 
+          131468, 
+          147199
+        ], 
+        "woeid": 145283, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -93.851, 
+        "longitude": -93.860, 
+        "parent_woeid": 12599733, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.584, 
+        "sw_longitude": -93.870, 
+        "fullname": "San Rafael, Chiapas, Cintalapa, Mexico", 
+        "sw_latitude": 16.575
+      }, 
+      "id": 145283
+    }
+  ]
+}

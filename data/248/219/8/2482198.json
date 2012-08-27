@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.464, 
+              45.080
+            ], 
+            [
+              -123.464, 
+              45.098
+            ], 
+            [
+              -123.439, 
+              45.098
+            ], 
+            [
+              -123.439, 
+              45.080
+            ], 
+            [
+              -123.464, 
+              45.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2482198, 
+        "name": "Riverside", 
+        "adjacent_woeid": [
+          2365149, 
+          2371333, 
+          2455785
+        ], 
+        "ne_latitude": 45.098, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.439, 
+        "longitude": -123.451, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:30:50Z", 
+        "parent_woeid": 12589727, 
+        "latitude": 45.089, 
+        "sw_longitude": -123.464, 
+        "fullname": "Riverside, Oregon, Yamhill, United States", 
+        "sw_latitude": 45.080
+      }, 
+      "id": 2482198
+    }
+  ]
+}

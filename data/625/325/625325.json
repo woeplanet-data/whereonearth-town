@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.190, 
+              49.435
+            ], 
+            [
+              4.190, 
+              49.484
+            ], 
+            [
+              4.248, 
+              49.484
+            ], 
+            [
+              4.248, 
+              49.435
+            ], 
+            [
+              4.190, 
+              49.435
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625325, 
+        "name": "St.-Loup-en-Champagne", 
+        "adjacent_woeid": [
+          575582, 
+          577542, 
+          579359, 
+          580178, 
+          596451, 
+          619800, 
+          627932
+        ], 
+        "ne_latitude": 49.484, 
+        "ne_longitude": 4.248, 
+        "longitude": 4.223, 
+        "parent_woeid": 12652801, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Loup-Champagne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.457, 
+        "sw_longitude": 4.190, 
+        "fullname": "St.-Loup-en-Champagne, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.435
+      }, 
+      "id": 625325
+    }
+  ]
+}

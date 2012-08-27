@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.247, 
+              50.423
+            ], 
+            [
+              3.247, 
+              50.441
+            ], 
+            [
+              3.275, 
+              50.441
+            ], 
+            [
+              3.275, 
+              50.423
+            ], 
+            [
+              3.247, 
+              50.423
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333022, 
+        "name": "Sec-Marais", 
+        "adjacent_woeid": [
+          579753, 
+          581443, 
+          621100, 
+          20217402
+        ], 
+        "ne_latitude": 50.441, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.275, 
+        "longitude": 3.261, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "parent_woeid": 12666185, 
+        "latitude": 50.432, 
+        "sw_longitude": 3.247, 
+        "fullname": "Sec-Marais, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.423
+      }, 
+      "id": 29333022
+    }
+  ]
+}

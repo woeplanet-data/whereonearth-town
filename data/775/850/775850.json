@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.500, 
+              41.509
+            ], 
+            [
+              0.500, 
+              41.562
+            ], 
+            [
+              0.551, 
+              41.562
+            ], 
+            [
+              0.551, 
+              41.509
+            ], 
+            [
+              0.500, 
+              41.509
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.562, 
+        "name": "Torres de Segre", 
+        "adjacent_woeid": [
+          751794, 
+          753372, 
+          760851, 
+          765112, 
+          774209, 
+          774864, 
+          774994, 
+          775016, 
+          20221024
+        ], 
+        "woeid": 775850, 
+        "alias_SPA_V": [
+          "Torres del Segre"
+        ], 
+        "ne_longitude": 0.551, 
+        "longitude": 0.514, 
+        "parent_woeid": 12694116, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.534, 
+        "sw_longitude": 0.500, 
+        "fullname": "Torres de Segre, Catalonia, Lleida, Spain", 
+        "sw_latitude": 41.509
+      }, 
+      "id": 775850
+    }
+  ]
+}

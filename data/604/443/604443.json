@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.409, 
+              44.855
+            ], 
+            [
+              1.409, 
+              44.882
+            ], 
+            [
+              1.465, 
+              44.882
+            ], 
+            [
+              1.465, 
+              44.855
+            ], 
+            [
+              1.409, 
+              44.855
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604443, 
+        "name": "Le Roc", 
+        "adjacent_woeid": [
+          583524, 
+          601408, 
+          613786, 
+          20195925
+        ], 
+        "ne_latitude": 44.882, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.465, 
+        "longitude": 1.442, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12665101, 
+        "latitude": 44.869, 
+        "sw_longitude": 1.409, 
+        "fullname": "Le Roc, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.855
+      }, 
+      "id": 604443
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.122, 
+              50.665
+            ], 
+            [
+              -1.122, 
+              50.705
+            ], 
+            [
+              -1.069, 
+              50.705
+            ], 
+            [
+              -1.069, 
+              50.665
+            ], 
+            [
+              -1.122, 
+              50.665
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 12345, 
+        "name": "Bembridge", 
+        "adjacent_woeid": [
+          33830, 
+          34008, 
+          35654, 
+          40233, 
+          20089592
+        ], 
+        "ne_latitude": 50.705, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "BBP"
+        ], 
+        "ne_longitude": -1.069, 
+        "longitude": -1.082, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:06Z", 
+        "parent_woeid": 12696149, 
+        "latitude": 50.688, 
+        "sw_longitude": -1.122, 
+        "fullname": "Bembridge, England, Isle of Wight, United Kingdom", 
+        "sw_latitude": 50.665
+      }, 
+      "id": 12345
+    }
+  ]
+}

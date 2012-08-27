@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.159, 
+              46.343
+            ], 
+            [
+              -65.159, 
+              46.361
+            ], 
+            [
+              -65.133, 
+              46.361
+            ], 
+            [
+              -65.133, 
+              46.343
+            ], 
+            [
+              -65.159, 
+              46.343
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23393008, 
+        "name": "Coal Branch", 
+        "adjacent_woeid": [
+          23392559, 
+          23392621, 
+          23393142, 
+          29374423
+        ], 
+        "ne_latitude": 46.361, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -65.133, 
+        "longitude": -65.146, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:09Z", 
+        "parent_woeid": 29375151, 
+        "latitude": 46.352, 
+        "sw_longitude": -65.159, 
+        "fullname": "Coal Branch, New Brunswick, Kent, Canada", 
+        "sw_latitude": 46.343
+      }, 
+      "id": 23393008
+    }
+  ]
+}

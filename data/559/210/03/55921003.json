@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.037, 
+              29.112
+            ], 
+            [
+              -111.037, 
+              29.130
+            ], 
+            [
+              -111.016, 
+              29.130
+            ], 
+            [
+              -111.016, 
+              29.112
+            ], 
+            [
+              -111.037, 
+              29.112
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 55921003, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          128187, 
+          133921
+        ], 
+        "ne_latitude": 29.130, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -111.016, 
+        "longitude": -111.026, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "parent_woeid": 12601574, 
+        "latitude": 29.121, 
+        "sw_longitude": -111.037, 
+        "fullname": "San Francisco, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 29.112
+      }, 
+      "id": 55921003
+    }
+  ]
+}

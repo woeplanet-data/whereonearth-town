@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.421, 
+              45.589
+            ], 
+            [
+              -72.421, 
+              45.704
+            ], 
+            [
+              -72.238, 
+              45.704
+            ], 
+            [
+              -72.238, 
+              45.589
+            ], 
+            [
+              -72.421, 
+              45.589
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394360, 
+        "name": "Durham-Sud", 
+        "adjacent_woeid": [
+          3524, 
+          23394411, 
+          23394415, 
+          23394628, 
+          23394663, 
+          23396090, 
+          23396515
+        ], 
+        "ne_latitude": 45.704, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "South Durham"
+        ], 
+        "ne_longitude": -72.238, 
+        "longitude": -72.341, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375204, 
+        "latitude": 45.661, 
+        "sw_longitude": -72.421, 
+        "fullname": "Durham-Sud, Quebec, Drummond, Canada", 
+        "sw_latitude": 45.589
+      }, 
+      "id": 23394360
+    }
+  ]
+}

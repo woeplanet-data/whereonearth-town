@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.420, 
+              47.524
+            ], 
+            [
+              7.420, 
+              47.562
+            ], 
+            [
+              7.465, 
+              47.562
+            ], 
+            [
+              7.465, 
+              47.524
+            ], 
+            [
+              7.420, 
+              47.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591252, 
+        "name": "Folgensbourg", 
+        "adjacent_woeid": [
+          579702, 
+          594188, 
+          594189, 
+          608194, 
+          611462, 
+          613658, 
+          632886
+        ], 
+        "ne_latitude": 47.562, 
+        "ne_longitude": 7.465, 
+        "longitude": 7.447, 
+        "parent_woeid": 12643891, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Folgensburg"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.551, 
+        "sw_longitude": 7.420, 
+        "fullname": "Folgensbourg, Alsace, Haut-Rhin, France", 
+        "sw_latitude": 47.524
+      }, 
+      "id": 591252
+    }
+  ]
+}

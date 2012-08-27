@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.676, 
+              54.114
+            ], 
+            [
+              10.676, 
+              54.123
+            ], 
+            [
+              10.692, 
+              54.123
+            ], 
+            [
+              10.692, 
+              54.114
+            ], 
+            [
+              10.676, 
+              54.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23412275, 
+        "name": "Zarnekauer Siedlung", 
+        "adjacent_woeid": [
+          642336, 
+          687282, 
+          688959, 
+          702427, 
+          708496
+        ], 
+        "ne_latitude": 54.123, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.692, 
+        "longitude": 10.684, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12632320, 
+        "latitude": 54.119, 
+        "sw_longitude": 10.676, 
+        "fullname": "Zarnekauer Siedlung, Schleswig-Holstein, Ostholstein, Germany", 
+        "sw_latitude": 54.114
+      }, 
+      "id": 23412275
+    }
+  ]
+}

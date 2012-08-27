@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.002, 
+              50.126
+            ], 
+            [
+              11.002, 
+              50.135
+            ], 
+            [
+              11.016, 
+              50.135
+            ], 
+            [
+              11.016, 
+              50.126
+            ], 
+            [
+              11.002, 
+              50.126
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658010, 
+        "name": "Hausen", 
+        "adjacent_woeid": [
+          677871, 
+          688171, 
+          692913, 
+          704808
+        ], 
+        "ne_latitude": 50.135, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.016, 
+        "longitude": 11.009, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12635369, 
+        "latitude": 50.131, 
+        "sw_longitude": 11.002, 
+        "fullname": "Hausen, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.126
+      }, 
+      "id": 658010
+    }
+  ]
+}

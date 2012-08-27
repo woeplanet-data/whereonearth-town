@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.054, 
+              45.725
+            ], 
+            [
+              -73.054, 
+              45.861
+            ], 
+            [
+              -72.932, 
+              45.861
+            ], 
+            [
+              -72.932, 
+              45.725
+            ], 
+            [
+              -73.054, 
+              45.725
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3519, 
+        "name": "St.-Jude", 
+        "adjacent_woeid": [
+          23394484, 
+          23394488, 
+          23394493, 
+          23394570, 
+          23394591, 
+          23396474, 
+          23396575
+        ], 
+        "ne_latitude": 45.861, 
+        "ne_longitude": -72.932, 
+        "longitude": -72.988, 
+        "parent_woeid": 29375183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jude"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.774, 
+        "sw_longitude": -73.054, 
+        "fullname": "St.-Jude, Quebec, Les Maskoutains, Canada", 
+        "sw_latitude": 45.725
+      }, 
+      "id": 3519
+    }
+  ]
+}

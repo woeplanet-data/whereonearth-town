@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.213, 
+              48.226
+            ], 
+            [
+              10.213, 
+              48.245
+            ], 
+            [
+              10.240, 
+              48.245
+            ], 
+            [
+              10.240, 
+              48.226
+            ], 
+            [
+              10.213, 
+              48.226
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20157543, 
+        "name": "Friesenhofen", 
+        "adjacent_woeid": [
+          643147, 
+          656792, 
+          663549
+        ], 
+        "ne_latitude": 48.245, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.240, 
+        "longitude": 10.227, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:04Z", 
+        "parent_woeid": 12634855, 
+        "latitude": 48.235, 
+        "sw_longitude": 10.213, 
+        "fullname": "Friesenhofen, Bavaria, Landkreis Neu-Ulm, Germany", 
+        "sw_latitude": 48.226
+      }, 
+      "id": 20157543
+    }
+  ]
+}

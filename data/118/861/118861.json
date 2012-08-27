@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.560, 
+              25.858
+            ], 
+            [
+              -105.560, 
+              25.876
+            ], 
+            [
+              -105.540, 
+              25.876
+            ], 
+            [
+              -105.540, 
+              25.858
+            ], 
+            [
+              -105.560, 
+              25.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.876, 
+        "name": "El Agostadero", 
+        "adjacent_woeid": [
+          116753, 
+          123031, 
+          127591, 
+          129527, 
+          135015, 
+          143052, 
+          145915
+        ], 
+        "woeid": 118861, 
+        "alias_SPA_V": [
+          "Agostadero"
+        ], 
+        "ne_longitude": -105.540, 
+        "longitude": -105.550, 
+        "parent_woeid": 12599959, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.867, 
+        "sw_longitude": -105.560, 
+        "fullname": "El Agostadero, Durango, Guanacevi, Mexico", 
+        "sw_latitude": 25.858
+      }, 
+      "id": 118861
+    }
+  ]
+}

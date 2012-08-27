@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.706, 
+              13.946
+            ], 
+            [
+              -87.706, 
+              13.964
+            ], 
+            [
+              -87.687, 
+              13.964
+            ], 
+            [
+              -87.687, 
+              13.946
+            ], 
+            [
+              -87.706, 
+              13.946
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.964, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          97996, 
+          101995, 
+          105190, 
+          106683
+        ], 
+        "woeid": 106961, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -87.687, 
+        "longitude": -87.697, 
+        "parent_woeid": 26813796, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.955, 
+        "sw_longitude": -87.706, 
+        "fullname": "San Juan, La Paz, San Juan, Honduras", 
+        "sw_latitude": 13.946
+      }, 
+      "id": 106961
+    }
+  ]
+}

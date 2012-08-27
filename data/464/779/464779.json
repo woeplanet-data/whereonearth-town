@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.707, 
+              -34.782
+            ], 
+            [
+              -65.707, 
+              -34.764
+            ], 
+            [
+              -65.685, 
+              -34.764
+            ], 
+            [
+              -65.685, 
+              -34.782
+            ], 
+            [
+              -65.707, 
+              -34.782
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -34.764, 
+        "name": "Batavia", 
+        "adjacent_woeid": [
+          330245, 
+          332780, 
+          464721, 
+          465409, 
+          467843, 
+          468701
+        ], 
+        "woeid": 464779, 
+        "alias_SPA_V": [
+          "Balavia"
+        ], 
+        "ne_longitude": -65.685, 
+        "longitude": -65.696, 
+        "parent_woeid": 20070741, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -34.773, 
+        "sw_longitude": -65.707, 
+        "fullname": "Batavia, San Luis, Gob Dupuy, Argentina", 
+        "sw_latitude": -34.782
+      }, 
+      "id": 464779
+    }
+  ]
+}

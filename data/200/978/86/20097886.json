@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.445, 
+              47.121
+            ], 
+            [
+              10.445, 
+              47.139
+            ], 
+            [
+              10.471, 
+              47.139
+            ], 
+            [
+              10.471, 
+              47.121
+            ], 
+            [
+              10.445, 
+              47.121
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20097886, 
+        "name": "Unterweg", 
+        "adjacent_woeid": [
+          20097866, 
+          20097914
+        ], 
+        "ne_latitude": 47.139, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.471, 
+        "longitude": 10.458, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:10Z", 
+        "parent_woeid": 12675339, 
+        "latitude": 47.130, 
+        "sw_longitude": 10.445, 
+        "fullname": "Unterweg, Tyrol, Landeck, Austria", 
+        "sw_latitude": 47.121
+      }, 
+      "id": 20097886
+    }
+  ]
+}

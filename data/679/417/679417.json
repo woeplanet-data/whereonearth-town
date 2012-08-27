@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.244, 
+              47.439
+            ], 
+            [
+              10.244, 
+              47.449
+            ], 
+            [
+              10.258, 
+              47.449
+            ], 
+            [
+              10.258, 
+              47.439
+            ], 
+            [
+              10.244, 
+              47.439
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679417, 
+        "name": "Niederdorf", 
+        "adjacent_woeid": [
+          670288, 
+          673345, 
+          681713, 
+          688486
+        ], 
+        "ne_latitude": 47.449, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.258, 
+        "longitude": 10.251, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12635045, 
+        "latitude": 47.444, 
+        "sw_longitude": 10.244, 
+        "fullname": "Niederdorf, Bavaria, Oberallg\u00e4u, Germany", 
+        "sw_latitude": 47.439
+      }, 
+      "id": 679417
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.269, 
+              20.636
+            ], 
+            [
+              -103.269, 
+              20.654
+            ], 
+            [
+              -103.250, 
+              20.654
+            ], 
+            [
+              -103.250, 
+              20.636
+            ], 
+            [
+              -103.269, 
+              20.636
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.654, 
+        "name": "El Rosario", 
+        "adjacent_woeid": [
+          116790, 
+          117590, 
+          118880, 
+          141155, 
+          146027, 
+          149801
+        ], 
+        "woeid": 122178, 
+        "alias_SPA_V": [
+          "Rosario"
+        ], 
+        "ne_longitude": -103.250, 
+        "longitude": -103.259, 
+        "parent_woeid": 12600295, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.645, 
+        "sw_longitude": -103.269, 
+        "fullname": "El Rosario, Jalisco, Tonala, Mexico", 
+        "sw_latitude": 20.636
+      }, 
+      "id": 122178
+    }
+  ]
+}

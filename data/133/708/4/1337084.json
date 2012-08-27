@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -10.761, 
+              10.910
+            ], 
+            [
+              -10.761, 
+              10.926
+            ], 
+            [
+              -10.745, 
+              10.926
+            ], 
+            [
+              -10.745, 
+              10.910
+            ], 
+            [
+              -10.761, 
+              10.910
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1337084, 
+        "name": "Kouroukoro", 
+        "adjacent_woeid": [
+          1334757, 
+          1336795, 
+          1337276, 
+          1339286
+        ], 
+        "ne_latitude": 10.926, 
+        "ne_longitude": -10.745, 
+        "longitude": -10.753, 
+        "parent_woeid": 56061044, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Kouroukoto"
+        ], 
+        "iso": "GN", 
+        "date_indexed": "2010-12-02T16:11:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.918, 
+        "sw_longitude": -10.761, 
+        "fullname": "Kouroukoro, Kankan, Kouroussa, Guinea", 
+        "sw_latitude": 10.910
+      }, 
+      "id": 1337084
+    }
+  ]
+}

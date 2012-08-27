@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.344, 
+              28.791
+            ], 
+            [
+              -106.344, 
+              28.809
+            ], 
+            [
+              -106.323, 
+              28.809
+            ], 
+            [
+              -106.323, 
+              28.791
+            ], 
+            [
+              -106.344, 
+              28.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.809, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          113337, 
+          123716, 
+          129250, 
+          140841, 
+          141089
+        ], 
+        "woeid": 144305, 
+        "alias_SPA_V": [
+          "S. Marcos"
+        ], 
+        "ne_longitude": -106.323, 
+        "longitude": -106.333, 
+        "parent_woeid": 12599832, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.800, 
+        "sw_longitude": -106.344, 
+        "fullname": "San Marcos, Chihuahua, Chihuahua, Mexico", 
+        "sw_latitude": 28.791
+      }, 
+      "id": 144305
+    }
+  ]
+}

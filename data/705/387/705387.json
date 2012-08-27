@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.347, 
+              52.346
+            ], 
+            [
+              10.347, 
+              52.377
+            ], 
+            [
+              10.383, 
+              52.377
+            ], 
+            [
+              10.383, 
+              52.346
+            ], 
+            [
+              10.347, 
+              52.346
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705387, 
+        "name": "Wense", 
+        "adjacent_woeid": [
+          657550, 
+          690436, 
+          20166328, 
+          20174330
+        ], 
+        "ne_latitude": 52.377, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.383, 
+        "longitude": 10.370, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12630426, 
+        "latitude": 52.361, 
+        "sw_longitude": 10.347, 
+        "fullname": "Wense, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.346
+      }, 
+      "id": 705387
+    }
+  ]
+}

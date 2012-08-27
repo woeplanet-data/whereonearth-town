@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.558, 
+              55.028
+            ], 
+            [
+              -1.558, 
+              55.101
+            ], 
+            [
+              -1.426, 
+              55.101
+            ], 
+            [
+              -1.426, 
+              55.028
+            ], 
+            [
+              -1.558, 
+              55.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 40315, 
+        "name": "Whitley Bay", 
+        "adjacent_woeid": [
+          13098, 
+          17184, 
+          17618, 
+          18862, 
+          19003, 
+          23783, 
+          29219, 
+          29581, 
+          29585, 
+          30079, 
+          30554, 
+          34303, 
+          34306, 
+          34675, 
+          35338, 
+          38464, 
+          39443, 
+          39683
+        ], 
+        "ne_latitude": 55.101, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Whitleybay"
+        ], 
+        "ne_longitude": -1.426, 
+        "longitude": -1.449, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:33Z", 
+        "parent_woeid": 12695860, 
+        "latitude": 55.049, 
+        "sw_longitude": -1.558, 
+        "fullname": "Whitley Bay, England, Tyne and Wear, United Kingdom", 
+        "sw_latitude": 55.028
+      }, 
+      "id": 40315
+    }
+  ]
+}

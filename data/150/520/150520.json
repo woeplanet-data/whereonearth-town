@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.777, 
+              32.508
+            ], 
+            [
+              -116.777, 
+              32.526
+            ], 
+            [
+              -116.756, 
+              32.526
+            ], 
+            [
+              -116.756, 
+              32.508
+            ], 
+            [
+              -116.777, 
+              32.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 32.526, 
+        "name": "Valle Redondo", 
+        "adjacent_woeid": [
+          113705, 
+          118155, 
+          124299, 
+          137464, 
+          139699, 
+          146012, 
+          55888033, 
+          55888284, 
+          55896574, 
+          56068602, 
+          56068626, 
+          56068698, 
+          56125713
+        ], 
+        "woeid": 150520, 
+        "alias_SPA_V": [
+          "Redondo"
+        ], 
+        "ne_longitude": -116.756, 
+        "longitude": -116.767, 
+        "parent_woeid": 12599694, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 32.517, 
+        "sw_longitude": -116.777, 
+        "fullname": "Valle Redondo, Baja California, Tijuana, Mexico", 
+        "sw_latitude": 32.508
+      }, 
+      "id": 150520
+    }
+  ]
+}

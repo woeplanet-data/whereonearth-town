@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.231, 
+              49.368
+            ], 
+            [
+              10.231, 
+              49.397
+            ], 
+            [
+              10.262, 
+              49.397
+            ], 
+            [
+              10.262, 
+              49.368
+            ], 
+            [
+              10.231, 
+              49.368
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703100, 
+        "name": "Wachsenberg", 
+        "adjacent_woeid": [
+          662207, 
+          671916, 
+          693859, 
+          695277
+        ], 
+        "ne_latitude": 49.397, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.262, 
+        "longitude": 10.244, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12634416, 
+        "latitude": 49.381, 
+        "sw_longitude": 10.231, 
+        "fullname": "Wachsenberg, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.368
+      }, 
+      "id": 703100
+    }
+  ]
+}

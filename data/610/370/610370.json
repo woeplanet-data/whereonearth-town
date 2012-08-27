@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.010, 
+              49.006
+            ], 
+            [
+              3.010, 
+              49.022
+            ], 
+            [
+              3.050, 
+              49.022
+            ], 
+            [
+              3.050, 
+              49.006
+            ], 
+            [
+              3.010, 
+              49.006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610370, 
+        "name": "Mary-sur-Marne", 
+        "adjacent_woeid": [
+          586797, 
+          595266, 
+          628029, 
+          29329745
+        ], 
+        "ne_latitude": 49.022, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.050, 
+        "longitude": 3.025, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12648881, 
+        "latitude": 49.014, 
+        "sw_longitude": 3.010, 
+        "fullname": "Mary-sur-Marne, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 49.006
+      }, 
+      "id": 610370
+    }
+  ]
+}

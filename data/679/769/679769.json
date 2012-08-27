@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.050, 
+              50.743
+            ], 
+            [
+              10.050, 
+              50.752
+            ], 
+            [
+              10.064, 
+              50.752
+            ], 
+            [
+              10.064, 
+              50.743
+            ], 
+            [
+              10.050, 
+              50.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679769, 
+        "name": "Niederoechsen", 
+        "adjacent_woeid": [
+          682869, 
+          684003, 
+          707567, 
+          29353384
+        ], 
+        "ne_latitude": 50.752, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.064, 
+        "longitude": 10.057, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12624800, 
+        "latitude": 50.747, 
+        "sw_longitude": 10.050, 
+        "fullname": "Niederoechsen, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.743
+      }, 
+      "id": 679769
+    }
+  ]
+}

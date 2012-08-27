@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.393, 
+              24.941
+            ], 
+            [
+              -99.393, 
+              24.959
+            ], 
+            [
+              -99.373, 
+              24.959
+            ], 
+            [
+              -99.373, 
+              24.941
+            ], 
+            [
+              -99.393, 
+              24.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.959, 
+        "name": "Cerrito Prieto", 
+        "adjacent_woeid": [
+          114867, 
+          119482, 
+          121564, 
+          121723, 
+          123943, 
+          142907
+        ], 
+        "woeid": 115341, 
+        "alias_SPA_V": [
+          "Cerro Prieto"
+        ], 
+        "ne_longitude": -99.373, 
+        "longitude": -99.383, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.950, 
+        "sw_longitude": -99.393, 
+        "fullname": "Cerrito Prieto, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.941
+      }, 
+      "id": 115341
+    }
+  ]
+}

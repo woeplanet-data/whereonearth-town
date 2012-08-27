@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.109, 
+              51.643
+            ], 
+            [
+              10.109, 
+              51.661
+            ], 
+            [
+              10.139, 
+              51.661
+            ], 
+            [
+              10.139, 
+              51.643
+            ], 
+            [
+              10.109, 
+              51.643
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349564, 
+        "name": "Lindau", 
+        "adjacent_woeid": [
+          638956, 
+          652588, 
+          703084, 
+          29349669, 
+          29349973
+        ], 
+        "ne_latitude": 51.661, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.139, 
+        "longitude": 10.124, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:45Z", 
+        "parent_woeid": 12630397, 
+        "latitude": 51.652, 
+        "sw_longitude": 10.109, 
+        "fullname": "Lindau, Lower Saxony, Landkreis Northeim, Germany", 
+        "sw_latitude": 51.643
+      }, 
+      "id": 29349564
+    }
+  ]
+}

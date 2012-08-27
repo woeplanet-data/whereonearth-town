@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.352, 
+              43.831
+            ], 
+            [
+              3.352, 
+              43.876
+            ], 
+            [
+              3.411, 
+              43.876
+            ], 
+            [
+              3.411, 
+              43.831
+            ], 
+            [
+              3.352, 
+              43.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625963, 
+        "name": "St.-Michel", 
+        "adjacent_woeid": [
+          602798, 
+          29331472
+        ], 
+        "ne_latitude": 43.876, 
+        "ne_longitude": 3.411, 
+        "longitude": 3.386, 
+        "parent_woeid": 12670972, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Michel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.855, 
+        "sw_longitude": 3.352, 
+        "fullname": "St.-Michel, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.831
+      }, 
+      "id": 625963
+    }
+  ]
+}

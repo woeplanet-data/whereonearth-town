@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.163, 
+              49.610
+            ], 
+            [
+              2.163, 
+              49.641
+            ], 
+            [
+              2.203, 
+              49.641
+            ], 
+            [
+              2.203, 
+              49.610
+            ], 
+            [
+              2.163, 
+              49.610
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602781, 
+        "name": "Le Crocq", 
+        "adjacent_woeid": [
+          587006, 
+          588885, 
+          594315, 
+          615381
+        ], 
+        "ne_latitude": 49.641, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.203, 
+        "longitude": 2.180, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 22756606, 
+        "latitude": 49.625, 
+        "sw_longitude": 2.163, 
+        "fullname": "Le Crocq, Picardie, Oise, France", 
+        "sw_latitude": 49.610
+      }, 
+      "id": 602781
+    }
+  ]
+}

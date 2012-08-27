@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.076, 
+              18.574
+            ], 
+            [
+              -99.076, 
+              18.592
+            ], 
+            [
+              -99.057, 
+              18.592
+            ], 
+            [
+              -99.057, 
+              18.574
+            ], 
+            [
+              -99.076, 
+              18.574
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.592, 
+        "name": "San Pablo Hidalgo", 
+        "adjacent_woeid": [
+          116060, 
+          131832, 
+          135906, 
+          138069, 
+          145312, 
+          149612, 
+          149656
+        ], 
+        "woeid": 144884, 
+        "alias_SPA_V": [
+          "S. Pablo Hidalgo"
+        ], 
+        "ne_longitude": -99.057, 
+        "longitude": -99.067, 
+        "parent_woeid": 12600577, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.583, 
+        "sw_longitude": -99.076, 
+        "fullname": "San Pablo Hidalgo, Morelos, Tlaltizapan, Mexico", 
+        "sw_latitude": 18.574
+      }, 
+      "id": 144884
+    }
+  ]
+}

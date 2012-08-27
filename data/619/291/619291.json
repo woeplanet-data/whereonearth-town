@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.900, 
+              45.004
+            ], 
+            [
+              1.900, 
+              45.028
+            ], 
+            [
+              1.924, 
+              45.028
+            ], 
+            [
+              1.924, 
+              45.004
+            ], 
+            [
+              1.900, 
+              45.004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619291, 
+        "name": "Reygade", 
+        "adjacent_woeid": [
+          575842, 
+          578366, 
+          597536, 
+          611865
+        ], 
+        "ne_latitude": 45.028, 
+        "ne_longitude": 1.924, 
+        "longitude": 1.909, 
+        "parent_woeid": 12664291, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Reygades"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.015, 
+        "sw_longitude": 1.900, 
+        "fullname": "Reygade, Limousin, Correze, France", 
+        "sw_latitude": 45.004
+      }, 
+      "id": 619291
+    }
+  ]
+}

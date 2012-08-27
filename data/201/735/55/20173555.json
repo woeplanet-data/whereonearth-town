@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              52.646
+            ], 
+            [
+              12.345, 
+              52.675
+            ], 
+            [
+              12.371, 
+              52.675
+            ], 
+            [
+              12.371, 
+              52.646
+            ], 
+            [
+              12.345, 
+              52.646
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20173555, 
+        "name": "L\u00f6tze", 
+        "adjacent_woeid": [
+          661268, 
+          694505, 
+          704133, 
+          20161185, 
+          20161186
+        ], 
+        "alias_GER_S": [
+          "Loetze"
+        ], 
+        "ne_latitude": 52.675, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.371, 
+        "longitude": 12.356, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:27Z", 
+        "parent_woeid": 24547249, 
+        "latitude": 52.659, 
+        "sw_longitude": 12.345, 
+        "fullname": "L\u00f6tze, Brandenburg, Havelland, Germany", 
+        "sw_latitude": 52.646
+      }, 
+      "id": 20173555
+    }
+  ]
+}

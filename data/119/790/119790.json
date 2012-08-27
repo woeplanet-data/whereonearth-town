@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.356, 
+              20.395
+            ], 
+            [
+              -97.356, 
+              20.416
+            ], 
+            [
+              -97.328, 
+              20.416
+            ], 
+            [
+              -97.328, 
+              20.395
+            ], 
+            [
+              -97.356, 
+              20.395
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.416, 
+        "name": "El Chote", 
+        "adjacent_woeid": [
+          113372, 
+          116657, 
+          132904, 
+          137338, 
+          147764, 
+          148028
+        ], 
+        "woeid": 119790, 
+        "alias_SPA_V": [
+          "Chote"
+        ], 
+        "ne_longitude": -97.328, 
+        "longitude": -97.338, 
+        "parent_woeid": 12601847, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.407, 
+        "sw_longitude": -97.356, 
+        "fullname": "El Chote, Veracruz-Llave, Papantla, Mexico", 
+        "sw_latitude": 20.395
+      }, 
+      "id": 119790
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.670, 
+              45.031
+            ], 
+            [
+              -70.670, 
+              45.125
+            ], 
+            [
+              -70.521, 
+              45.125
+            ], 
+            [
+              -70.521, 
+              45.031
+            ], 
+            [
+              -70.670, 
+              45.031
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745107, 
+        "name": "Lang", 
+        "adjacent_woeid": [
+          28338931, 
+          28745081, 
+          28745083, 
+          28745100, 
+          28745108
+        ], 
+        "ne_latitude": 45.125, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lang Twp"
+        ], 
+        "ne_longitude": -70.521, 
+        "longitude": -70.539, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12588663, 
+        "latitude": 45.080, 
+        "sw_longitude": -70.670, 
+        "fullname": "Lang, Maine, Franklin, United States", 
+        "sw_latitude": 45.031
+      }, 
+      "id": 28745107
+    }
+  ]
+}

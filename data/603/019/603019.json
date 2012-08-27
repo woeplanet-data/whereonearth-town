@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.463, 
+              48.228
+            ], 
+            [
+              1.463, 
+              48.257
+            ], 
+            [
+              1.497, 
+              48.257
+            ], 
+            [
+              1.497, 
+              48.228
+            ], 
+            [
+              1.463, 
+              48.228
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603019, 
+        "name": "Le Gault-St.-Denis", 
+        "adjacent_woeid": [
+          575505, 
+          576059, 
+          582086, 
+          610836, 
+          611221, 
+          613244, 
+          616819
+        ], 
+        "ne_latitude": 48.257, 
+        "ne_longitude": 1.497, 
+        "longitude": 1.485, 
+        "parent_woeid": 12640013, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Gault-St-Denis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.244, 
+        "sw_longitude": 1.463, 
+        "fullname": "Le Gault-St.-Denis, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.228
+      }, 
+      "id": 603019
+    }
+  ]
+}

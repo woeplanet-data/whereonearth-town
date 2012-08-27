@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.915, 
+              42.195
+            ], 
+            [
+              1.915, 
+              42.278
+            ], 
+            [
+              2.030, 
+              42.278
+            ], 
+            [
+              2.030, 
+              42.195
+            ], 
+            [
+              1.915, 
+              42.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.278, 
+        "name": "La Pobla de Lillet", 
+        "adjacent_woeid": [
+          756759, 
+          757716, 
+          761660, 
+          761917, 
+          764748, 
+          769300, 
+          772397, 
+          772887, 
+          772974, 
+          775909, 
+          779226, 
+          20221214, 
+          20223183
+        ], 
+        "woeid": 763873, 
+        "alias_SPA_V": [
+          "La Pobla"
+        ], 
+        "ne_longitude": 2.030, 
+        "longitude": 1.975, 
+        "parent_woeid": 12693545, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.244, 
+        "sw_longitude": 1.915, 
+        "fullname": "La Pobla de Lillet, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 42.195
+      }, 
+      "id": 763873
+    }
+  ]
+}

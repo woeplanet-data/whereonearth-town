@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.017, 
+              45.968
+            ], 
+            [
+              3.017, 
+              45.977
+            ], 
+            [
+              3.030, 
+              45.977
+            ], 
+            [
+              3.030, 
+              45.968
+            ], 
+            [
+              3.017, 
+              45.968
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20207033, 
+        "name": "La Brousse", 
+        "adjacent_woeid": [
+          584607, 
+          628169, 
+          20207032
+        ], 
+        "ne_latitude": 45.977, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.030, 
+        "longitude": 3.024, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12641110, 
+        "latitude": 45.973, 
+        "sw_longitude": 3.017, 
+        "fullname": "La Brousse, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.968
+      }, 
+      "id": 20207033
+    }
+  ]
+}

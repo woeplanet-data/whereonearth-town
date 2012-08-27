@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.076, 
+              45.125
+            ], 
+            [
+              2.076, 
+              45.156
+            ], 
+            [
+              2.121, 
+              45.156
+            ], 
+            [
+              2.121, 
+              45.125
+            ], 
+            [
+              2.076, 
+              45.125
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626602, 
+        "name": "St.-Privat", 
+        "adjacent_woeid": [
+          576551, 
+          588506, 
+          601534, 
+          609849, 
+          610616, 
+          611065, 
+          616859, 
+          622002, 
+          622636, 
+          623515, 
+          624133, 
+          624936
+        ], 
+        "ne_latitude": 45.156, 
+        "ne_longitude": 2.121, 
+        "longitude": 2.100, 
+        "parent_woeid": 12662659, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Privat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.138, 
+        "sw_longitude": 2.076, 
+        "fullname": "St.-Privat, Limousin, Correze, France", 
+        "sw_latitude": 45.125
+      }, 
+      "id": 626602
+    }
+  ]
+}

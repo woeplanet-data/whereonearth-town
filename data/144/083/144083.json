@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.027, 
+              30.608
+            ], 
+            [
+              -111.027, 
+              30.626
+            ], 
+            [
+              -111.006, 
+              30.626
+            ], 
+            [
+              -111.006, 
+              30.608
+            ], 
+            [
+              -111.027, 
+              30.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.626, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          118636, 
+          126355, 
+          126790, 
+          128313, 
+          132666, 
+          145593, 
+          149060
+        ], 
+        "woeid": 144083, 
+        "alias_SPA_V": [
+          "S. Lorenzo"
+        ], 
+        "ne_longitude": -111.006, 
+        "longitude": -111.017, 
+        "parent_woeid": 12601581, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.617, 
+        "sw_longitude": -111.027, 
+        "fullname": "San Lorenzo, Sonora, Magdalena, Mexico", 
+        "sw_latitude": 30.608
+      }, 
+      "id": 144083
+    }
+  ]
+}

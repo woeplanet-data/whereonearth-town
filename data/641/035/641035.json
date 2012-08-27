@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.977, 
+              50.001
+            ], 
+            [
+              11.977, 
+              50.030
+            ], 
+            [
+              12.003, 
+              50.030
+            ], 
+            [
+              12.003, 
+              50.001
+            ], 
+            [
+              11.977, 
+              50.001
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641035, 
+        "name": "Breitenbrunn", 
+        "adjacent_woeid": [
+          651227, 
+          689109, 
+          692914
+        ], 
+        "ne_latitude": 50.030, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.003, 
+        "longitude": 11.988, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12635380, 
+        "latitude": 50.023, 
+        "sw_longitude": 11.977, 
+        "fullname": "Breitenbrunn, Bavaria, Wunsiedel im Fichtelgebirge, Germany", 
+        "sw_latitude": 50.001
+      }, 
+      "id": 641035
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.583, 
+              44.462
+            ], 
+            [
+              0.583, 
+              44.503
+            ], 
+            [
+              0.621, 
+              44.503
+            ], 
+            [
+              0.621, 
+              44.462
+            ], 
+            [
+              0.583, 
+              44.462
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626241, 
+        "name": "St.-Pastour", 
+        "adjacent_woeid": [
+          578645, 
+          615503, 
+          626416, 
+          20197700
+        ], 
+        "ne_latitude": 44.503, 
+        "ne_longitude": 0.621, 
+        "longitude": 0.602, 
+        "parent_woeid": 12641355, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pastour"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.489, 
+        "sw_longitude": 0.583, 
+        "fullname": "St.-Pastour, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.462
+      }, 
+      "id": 626241
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.333, 
+              48.090
+            ], 
+            [
+              12.333, 
+              48.099
+            ], 
+            [
+              12.347, 
+              48.099
+            ], 
+            [
+              12.347, 
+              48.090
+            ], 
+            [
+              12.333, 
+              48.090
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 672557, 
+        "name": "Loibersdorf", 
+        "adjacent_woeid": [
+          669911, 
+          696075, 
+          22662055, 
+          22662103
+        ], 
+        "ne_latitude": 48.099, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.347, 
+        "longitude": 12.339, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:27Z", 
+        "parent_woeid": 12622760, 
+        "latitude": 48.095, 
+        "sw_longitude": 12.333, 
+        "fullname": "Loibersdorf, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 48.090
+      }, 
+      "id": 672557
+    }
+  ]
+}

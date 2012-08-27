@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.833, 
+              44.065
+            ], 
+            [
+              0.833, 
+              44.102
+            ], 
+            [
+              0.871, 
+              44.102
+            ], 
+            [
+              0.871, 
+              44.065
+            ], 
+            [
+              0.833, 
+              44.065
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625322, 
+        "name": "St.-Loup", 
+        "adjacent_woeid": [
+          589018, 
+          590039, 
+          593087, 
+          623517
+        ], 
+        "ne_latitude": 44.102, 
+        "ne_longitude": 0.871, 
+        "longitude": 0.859, 
+        "parent_woeid": 12670792, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Loup"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.087, 
+        "sw_longitude": 0.833, 
+        "fullname": "St.-Loup, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 44.065
+      }, 
+      "id": 625322
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.502, 
+              50.224
+            ], 
+            [
+              4.502, 
+              50.242
+            ], 
+            [
+              4.531, 
+              50.242
+            ], 
+            [
+              4.531, 
+              50.224
+            ], 
+            [
+              4.502, 
+              50.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977231, 
+        "name": "St.-Lambert", 
+        "adjacent_woeid": [
+          979075
+        ], 
+        "ne_latitude": 50.242, 
+        "ne_longitude": 4.531, 
+        "longitude": 4.517, 
+        "parent_woeid": 12602351, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Lambert"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:31:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.233, 
+        "sw_longitude": 4.502, 
+        "fullname": "St.-Lambert, Namur, Philippeville, Belgium", 
+        "sw_latitude": 50.224
+      }, 
+      "id": 977231
+    }
+  ]
+}

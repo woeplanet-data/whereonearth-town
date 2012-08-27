@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.381, 
+              50.711
+            ], 
+            [
+              10.381, 
+              50.738
+            ], 
+            [
+              10.417, 
+              50.738
+            ], 
+            [
+              10.417, 
+              50.711
+            ], 
+            [
+              10.381, 
+              50.711
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675546, 
+        "name": "Mittelschmalkalden", 
+        "adjacent_woeid": [
+          649314, 
+          675720, 
+          679863, 
+          702632
+        ], 
+        "ne_latitude": 50.738, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.417, 
+        "longitude": 10.395, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:41Z", 
+        "parent_woeid": 12624958, 
+        "latitude": 50.719, 
+        "sw_longitude": 10.381, 
+        "fullname": "Mittelschmalkalden, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.711
+      }, 
+      "id": 675546
+    }
+  ]
+}

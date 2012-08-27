@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.657, 
+              46.529
+            ], 
+            [
+              5.657, 
+              46.540
+            ], 
+            [
+              5.671, 
+              46.540
+            ], 
+            [
+              5.671, 
+              46.529
+            ], 
+            [
+              5.657, 
+              46.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20211936, 
+        "name": "St.-Christophe", 
+        "adjacent_woeid": [
+          578165, 
+          600142, 
+          601500, 
+          616789, 
+          20211935, 
+          20211937
+        ], 
+        "ne_latitude": 46.540, 
+        "ne_longitude": 5.671, 
+        "longitude": 5.664, 
+        "parent_woeid": 12646670, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Christophe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.535, 
+        "sw_longitude": 5.657, 
+        "fullname": "St.-Christophe, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.529
+      }, 
+      "id": 20211936
+    }
+  ]
+}

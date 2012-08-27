@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.502, 
+              45.431
+            ], 
+            [
+              1.502, 
+              45.459
+            ], 
+            [
+              1.538, 
+              45.459
+            ], 
+            [
+              1.538, 
+              45.431
+            ], 
+            [
+              1.502, 
+              45.431
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627325, 
+        "name": "St.-Ybard", 
+        "adjacent_woeid": [
+          579259, 
+          586737, 
+          620811, 
+          625762, 
+          20188764
+        ], 
+        "ne_latitude": 45.459, 
+        "ne_longitude": 1.538, 
+        "longitude": 1.523, 
+        "parent_woeid": 12664762, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ybard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.449, 
+        "sw_longitude": 1.502, 
+        "fullname": "St.-Ybard, Limousin, Correze, France", 
+        "sw_latitude": 45.431
+      }, 
+      "id": 627325
+    }
+  ]
+}

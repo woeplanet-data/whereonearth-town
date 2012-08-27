@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.127, 
+              23.374
+            ], 
+            [
+              -99.127, 
+              23.392
+            ], 
+            [
+              -99.107, 
+              23.392
+            ], 
+            [
+              -99.107, 
+              23.374
+            ], 
+            [
+              -99.127, 
+              23.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.392, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          119489, 
+          126015, 
+          127262, 
+          141620, 
+          143568, 
+          145494
+        ], 
+        "woeid": 142926, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -99.107, 
+        "longitude": -99.117, 
+        "parent_woeid": 12601651, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.383, 
+        "sw_longitude": -99.127, 
+        "fullname": "San Isidro, Tamaulipas, Llera, Mexico", 
+        "sw_latitude": 23.374
+      }, 
+      "id": 142926
+    }
+  ]
+}

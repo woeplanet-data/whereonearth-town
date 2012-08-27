@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.326, 
+              20.741
+            ], 
+            [
+              -102.326, 
+              20.759
+            ], 
+            [
+              -102.307, 
+              20.759
+            ], 
+            [
+              -102.307, 
+              20.741
+            ], 
+            [
+              -102.326, 
+              20.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.759, 
+        "name": "El Tecolote", 
+        "adjacent_woeid": [
+          112317, 
+          115397, 
+          121118, 
+          126634, 
+          126906
+        ], 
+        "woeid": 122632, 
+        "alias_SPA_V": [
+          "Tecolote"
+        ], 
+        "ne_longitude": -102.307, 
+        "longitude": -102.317, 
+        "parent_woeid": 12600201, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.750, 
+        "sw_longitude": -102.326, 
+        "fullname": "El Tecolote, Jalisco, Arandas, Mexico", 
+        "sw_latitude": 20.741
+      }, 
+      "id": 122632
+    }
+  ]
+}

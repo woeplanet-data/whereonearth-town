@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.019, 
+              48.243
+            ], 
+            [
+              -3.019, 
+              48.268
+            ], 
+            [
+              -2.991, 
+              48.268
+            ], 
+            [
+              -2.991, 
+              48.243
+            ], 
+            [
+              -3.019, 
+              48.243
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625891, 
+        "name": "St.-Mayeux", 
+        "adjacent_woeid": [
+          583419, 
+          617063, 
+          624094, 
+          624442, 
+          625679
+        ], 
+        "ne_latitude": 48.268, 
+        "ne_longitude": -2.991, 
+        "longitude": -3.006, 
+        "parent_woeid": 12651358, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mayeux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.256, 
+        "sw_longitude": -3.019, 
+        "fullname": "St.-Mayeux, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.243
+      }, 
+      "id": 625891
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.200, 
+              52.360
+            ], 
+            [
+              10.200, 
+              52.396
+            ], 
+            [
+              10.226, 
+              52.396
+            ], 
+            [
+              10.226, 
+              52.360
+            ], 
+            [
+              10.200, 
+              52.360
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666529, 
+        "name": "Klein Oedesse", 
+        "adjacent_woeid": [
+          633196, 
+          666335, 
+          682879, 
+          682897
+        ], 
+        "ne_latitude": 52.396, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.226, 
+        "longitude": 10.218, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630419, 
+        "latitude": 52.386, 
+        "sw_longitude": 10.200, 
+        "fullname": "Klein Oedesse, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.360
+      }, 
+      "id": 666529
+    }
+  ]
+}

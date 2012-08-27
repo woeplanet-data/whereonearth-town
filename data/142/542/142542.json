@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.610, 
+              19.824
+            ], 
+            [
+              -102.610, 
+              19.842
+            ], 
+            [
+              -102.590, 
+              19.842
+            ], 
+            [
+              -102.590, 
+              19.824
+            ], 
+            [
+              -102.610, 
+              19.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.842, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          112295, 
+          122478, 
+          125772, 
+          127317, 
+          131906, 
+          144029
+        ], 
+        "woeid": 142542, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -102.590, 
+        "longitude": -102.600, 
+        "parent_woeid": 12600535, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.833, 
+        "sw_longitude": -102.610, 
+        "fullname": "San Francisco, Michoacan de Ocampo, Tocumbo, Mexico", 
+        "sw_latitude": 19.824
+      }, 
+      "id": 142542
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.090, 
+              47.523
+            ], 
+            [
+              8.090, 
+              47.532
+            ], 
+            [
+              8.103, 
+              47.532
+            ], 
+            [
+              8.103, 
+              47.523
+            ], 
+            [
+              8.090, 
+              47.523
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20103492, 
+        "name": "Obersulz", 
+        "adjacent_woeid": [
+          20100715, 
+          20101819, 
+          20104354
+        ], 
+        "ne_latitude": 47.532, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.103, 
+        "longitude": 8.097, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12684471, 
+        "latitude": 47.528, 
+        "sw_longitude": 8.090, 
+        "fullname": "Obersulz, Canton of Aargau, Laufenburg, Switzerland", 
+        "sw_latitude": 47.523
+      }, 
+      "id": 20103492
+    }
+  ]
+}

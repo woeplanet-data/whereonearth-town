@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.397, 
+              24.298
+            ], 
+            [
+              -100.397, 
+              24.316
+            ], 
+            [
+              -100.378, 
+              24.316
+            ], 
+            [
+              -100.378, 
+              24.298
+            ], 
+            [
+              -100.397, 
+              24.298
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.316, 
+        "name": "El Canelo", 
+        "adjacent_woeid": [
+          122220, 
+          122565, 
+          126011, 
+          146726, 
+          146877
+        ], 
+        "woeid": 119392, 
+        "alias_SPA_V": [
+          "Canelo"
+        ], 
+        "ne_longitude": -100.378, 
+        "longitude": -100.387, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.307, 
+        "sw_longitude": -100.397, 
+        "fullname": "El Canelo, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 24.298
+      }, 
+      "id": 119392
+    }
+  ]
+}

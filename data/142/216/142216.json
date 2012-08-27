@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.725, 
+              20.462
+            ], 
+            [
+              -97.725, 
+              20.480
+            ], 
+            [
+              -97.705, 
+              20.480
+            ], 
+            [
+              -97.705, 
+              20.462
+            ], 
+            [
+              -97.725, 
+              20.462
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.480, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          111361, 
+          112076, 
+          112233, 
+          115444, 
+          115940, 
+          125265, 
+          26797906, 
+          55889496, 
+          55894944
+        ], 
+        "woeid": 142216, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -97.705, 
+        "longitude": -97.715, 
+        "parent_woeid": 12601420, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.471, 
+        "sw_longitude": -97.725, 
+        "fullname": "San Diego, Puebla, Venustiano Carranza, Mexico", 
+        "sw_latitude": 20.462
+      }, 
+      "id": 142216
+    }
+  ]
+}

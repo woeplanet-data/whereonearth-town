@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.500, 
+              50.093
+            ], 
+            [
+              1.500, 
+              50.102
+            ], 
+            [
+              1.514, 
+              50.102
+            ], 
+            [
+              1.514, 
+              50.093
+            ], 
+            [
+              1.500, 
+              50.093
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610285, 
+        "name": "Martaigneville", 
+        "adjacent_woeid": [
+          575756, 
+          581327, 
+          629523, 
+          632980
+        ], 
+        "ne_latitude": 50.102, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.514, 
+        "longitude": 1.507, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "parent_woeid": 12656734, 
+        "latitude": 50.098, 
+        "sw_longitude": 1.500, 
+        "fullname": "Martaigneville, Picardie, Somme, France", 
+        "sw_latitude": 50.093
+      }, 
+      "id": 610285
+    }
+  ]
+}

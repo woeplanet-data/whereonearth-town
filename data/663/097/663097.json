@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.699, 
+              48.719
+            ], 
+            [
+              10.699, 
+              48.732
+            ], 
+            [
+              10.722, 
+              48.732
+            ], 
+            [
+              10.722, 
+              48.719
+            ], 
+            [
+              10.699, 
+              48.719
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 663097, 
+        "name": "Huttenbach", 
+        "adjacent_woeid": [
+          640616, 
+          648488, 
+          683342, 
+          688592, 
+          708005
+        ], 
+        "ne_latitude": 48.732, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.722, 
+        "longitude": 10.716, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:40Z", 
+        "parent_woeid": 12634989, 
+        "latitude": 48.724, 
+        "sw_longitude": 10.699, 
+        "fullname": "Huttenbach, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.719
+      }, 
+      "id": 663097
+    }
+  ]
+}

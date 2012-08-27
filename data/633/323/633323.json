@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.351, 
+              47.606
+            ], 
+            [
+              10.351, 
+              47.615
+            ], 
+            [
+              10.365, 
+              47.615
+            ], 
+            [
+              10.365, 
+              47.606
+            ], 
+            [
+              10.351, 
+              47.606
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633323, 
+        "name": "Acker", 
+        "adjacent_woeid": [
+          639029, 
+          641504, 
+          654873, 
+          665383, 
+          676181, 
+          688535
+        ], 
+        "ne_latitude": 47.615, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.365, 
+        "longitude": 10.359, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12635024, 
+        "latitude": 47.611, 
+        "sw_longitude": 10.351, 
+        "fullname": "Acker, Bavaria, Oberallg\u00e4u, Germany", 
+        "sw_latitude": 47.606
+      }, 
+      "id": 633323
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.284, 
+              43.036
+            ], 
+            [
+              -8.284, 
+              43.046
+            ], 
+            [
+              -8.271, 
+              43.046
+            ], 
+            [
+              -8.271, 
+              43.036
+            ], 
+            [
+              -8.284, 
+              43.036
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.046, 
+        "name": "San Mauro", 
+        "adjacent_woeid": [
+          764447, 
+          767302, 
+          20228261, 
+          29371558, 
+          29372559
+        ], 
+        "woeid": 20225846, 
+        "alias_SPA_V": [
+          "S Mauro"
+        ], 
+        "ne_longitude": -8.271, 
+        "longitude": -8.278, 
+        "parent_woeid": 12694740, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.041, 
+        "sw_longitude": -8.284, 
+        "fullname": "San Mauro, Galicia, Corunna, Spain", 
+        "sw_latitude": 43.036
+      }, 
+      "id": 20225846
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.543, 
+              20.091
+            ], 
+            [
+              -97.543, 
+              20.109
+            ], 
+            [
+              -97.524, 
+              20.109
+            ], 
+            [
+              -97.524, 
+              20.091
+            ], 
+            [
+              -97.543, 
+              20.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.109, 
+        "name": "Reyes de Vallarta", 
+        "adjacent_woeid": [
+          136178, 
+          149151, 
+          150312, 
+          151280, 
+          151817, 
+          151818
+        ], 
+        "woeid": 140641, 
+        "alias_SPA_V": [
+          "Vallarta"
+        ], 
+        "ne_longitude": -97.524, 
+        "longitude": -97.533, 
+        "parent_woeid": 12601418, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.100, 
+        "sw_longitude": -97.543, 
+        "fullname": "Reyes de Vallarta, Puebla, Tuzamapan de Galeana, Mexico", 
+        "sw_latitude": 20.091
+      }, 
+      "id": 140641
+    }
+  ]
+}

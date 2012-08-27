@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.380, 
+              49.609
+            ], 
+            [
+              10.380, 
+              49.642
+            ], 
+            [
+              10.418, 
+              49.642
+            ], 
+            [
+              10.418, 
+              49.609
+            ], 
+            [
+              10.380, 
+              49.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678825, 
+        "name": "Neundorf", 
+        "adjacent_woeid": [
+          649145, 
+          649835, 
+          663544, 
+          668661, 
+          690252
+        ], 
+        "ne_latitude": 49.642, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.418, 
+        "longitude": 10.406, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12634527, 
+        "latitude": 49.622, 
+        "sw_longitude": 10.380, 
+        "fullname": "Neundorf, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.609
+      }, 
+      "id": 678825
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.130, 
+              20.908
+            ], 
+            [
+              -103.130, 
+              20.926
+            ], 
+            [
+              -103.107, 
+              20.926
+            ], 
+            [
+              -103.107, 
+              20.908
+            ], 
+            [
+              -103.130, 
+              20.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.926, 
+        "name": "San Juan del Monte", 
+        "adjacent_woeid": [
+          117710, 
+          118878, 
+          134959, 
+          138022, 
+          141823, 
+          144792, 
+          147976
+        ], 
+        "woeid": 143918, 
+        "alias_SPA_V": [
+          "S Juan del Monte"
+        ], 
+        "ne_longitude": -103.107, 
+        "longitude": -103.126, 
+        "parent_woeid": 12600226, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.917, 
+        "sw_longitude": -103.130, 
+        "fullname": "San Juan del Monte, Jalisco, Cuquio, Mexico", 
+        "sw_latitude": 20.908
+      }, 
+      "id": 143918
+    }
+  ]
+}

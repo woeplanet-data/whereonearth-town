@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.961, 
+              22.268
+            ], 
+            [
+              -101.961, 
+              22.286
+            ], 
+            [
+              -101.941, 
+              22.286
+            ], 
+            [
+              -101.941, 
+              22.268
+            ], 
+            [
+              -101.961, 
+              22.268
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.286, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          113425, 
+          120744, 
+          126984, 
+          131416, 
+          132956, 
+          134641, 
+          146190, 
+          150865
+        ], 
+        "woeid": 144317, 
+        "alias_SPA_V": [
+          "S Marcos"
+        ], 
+        "ne_longitude": -101.941, 
+        "longitude": -101.951, 
+        "parent_woeid": 12602055, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.277, 
+        "sw_longitude": -101.961, 
+        "fullname": "San Marcos, Zacatecas, Loreto, Mexico", 
+        "sw_latitude": 22.268
+      }, 
+      "id": 144317
+    }
+  ]
+}

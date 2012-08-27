@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.915, 
+              39.723
+            ], 
+            [
+              -78.915, 
+              39.823
+            ], 
+            [
+              -78.763, 
+              39.823
+            ], 
+            [
+              -78.763, 
+              39.723
+            ], 
+            [
+              -78.915, 
+              39.723
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744673, 
+        "name": "Southampton", 
+        "adjacent_woeid": [
+          2373363, 
+          28744594, 
+          28744812, 
+          28744898
+        ], 
+        "ne_latitude": 39.823, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Southampton Township"
+        ], 
+        "ne_longitude": -78.763, 
+        "longitude": -78.834, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589783, 
+        "latitude": 39.758, 
+        "sw_longitude": -78.915, 
+        "fullname": "Southampton, Pennsylvania, Somerset, United States", 
+        "sw_latitude": 39.723
+      }, 
+      "id": 28744673
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.600, 
+              49.276
+            ], 
+            [
+              3.600, 
+              49.309
+            ], 
+            [
+              3.631, 
+              49.309
+            ], 
+            [
+              3.631, 
+              49.276
+            ], 
+            [
+              3.600, 
+              49.276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627118, 
+        "name": "St.-Thibaut", 
+        "adjacent_woeid": [
+          578537, 
+          612156, 
+          631574, 
+          15003235
+        ], 
+        "ne_latitude": 49.309, 
+        "ne_longitude": 3.631, 
+        "longitude": 3.618, 
+        "parent_woeid": 22757815, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Thibaut"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.300, 
+        "sw_longitude": 3.600, 
+        "fullname": "St.-Thibaut, Picardie, Aisne, France", 
+        "sw_latitude": 49.276
+      }, 
+      "id": 627118
+    }
+  ]
+}

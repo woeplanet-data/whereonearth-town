@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.732, 
+              48.429
+            ], 
+            [
+              -71.732, 
+              48.520
+            ], 
+            [
+              -71.556, 
+              48.520
+            ], 
+            [
+              -71.556, 
+              48.429
+            ], 
+            [
+              -71.732, 
+              48.429
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394496, 
+        "name": "St.-Bruno", 
+        "adjacent_woeid": [
+          1494, 
+          23394654, 
+          29374151
+        ], 
+        "ne_latitude": 48.520, 
+        "ne_longitude": -71.556, 
+        "longitude": -71.676, 
+        "parent_woeid": 29375107, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Bruno"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.472, 
+        "sw_longitude": -71.732, 
+        "fullname": "St.-Bruno, Quebec, Lac-St-Jean-Est, Canada", 
+        "sw_latitude": 48.429
+      }, 
+      "id": 23394496
+    }
+  ]
+}

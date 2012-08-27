@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.416, 
+              49.292
+            ], 
+            [
+              12.416, 
+              49.310
+            ], 
+            [
+              12.444, 
+              49.310
+            ], 
+            [
+              12.444, 
+              49.292
+            ], 
+            [
+              12.416, 
+              49.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639803, 
+        "name": "Boden", 
+        "adjacent_woeid": [
+          657708, 
+          666130, 
+          674557, 
+          674653, 
+          20158357
+        ], 
+        "ne_latitude": 49.310, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.444, 
+        "longitude": 12.430, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12634308, 
+        "latitude": 49.301, 
+        "sw_longitude": 12.416, 
+        "fullname": "Boden, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.292
+      }, 
+      "id": 639803
+    }
+  ]
+}

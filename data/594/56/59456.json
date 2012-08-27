@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.532, 
+              9.866
+            ], 
+            [
+              -84.532, 
+              9.884
+            ], 
+            [
+              -84.513, 
+              9.884
+            ], 
+            [
+              -84.513, 
+              9.866
+            ], 
+            [
+              -84.532, 
+              9.866
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.884, 
+        "name": "San Juan de Mata", 
+        "adjacent_woeid": [
+          57971, 
+          57976, 
+          58204, 
+          58894, 
+          59055, 
+          59112, 
+          59532
+        ], 
+        "woeid": 59456, 
+        "alias_SPA_V": [
+          "S Juan de Mata"
+        ], 
+        "ne_longitude": -84.513, 
+        "longitude": -84.523, 
+        "parent_woeid": 26809201, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.875, 
+        "sw_longitude": -84.532, 
+        "fullname": "San Juan de Mata, San Jose, Turrubares, Costa Rica", 
+        "sw_latitude": 9.866
+      }, 
+      "id": 59456
+    }
+  ]
+}

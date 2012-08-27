@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.343, 
+              24.974
+            ], 
+            [
+              -100.343, 
+              24.992
+            ], 
+            [
+              -100.323, 
+              24.992
+            ], 
+            [
+              -100.323, 
+              24.974
+            ], 
+            [
+              -100.343, 
+              24.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.992, 
+        "name": "San Francisco Javier", 
+        "adjacent_woeid": [
+          116335, 
+          121638, 
+          129425, 
+          132136, 
+          146509
+        ], 
+        "woeid": 142650, 
+        "alias_SPA_V": [
+          "S Francisco Javier"
+        ], 
+        "ne_longitude": -100.323, 
+        "longitude": -100.333, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.983, 
+        "sw_longitude": -100.343, 
+        "fullname": "San Francisco Javier, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.974
+      }, 
+      "id": 142650
+    }
+  ]
+}

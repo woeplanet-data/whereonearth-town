@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.239, 
+              49.761
+            ], 
+            [
+              8.239, 
+              49.779
+            ], 
+            [
+              8.267, 
+              49.779
+            ], 
+            [
+              8.267, 
+              49.761
+            ], 
+            [
+              8.239, 
+              49.761
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349165, 
+        "name": "Bahnhof", 
+        "adjacent_woeid": [
+          645067, 
+          650567, 
+          20163604
+        ], 
+        "ne_latitude": 49.779, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.267, 
+        "longitude": 8.253, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:39Z", 
+        "parent_woeid": 12627646, 
+        "latitude": 49.770, 
+        "sw_longitude": 8.239, 
+        "fullname": "Bahnhof, Rhineland-Palatinate, Mainz-Bingen, Germany", 
+        "sw_latitude": 49.761
+      }, 
+      "id": 29349165
+    }
+  ]
+}

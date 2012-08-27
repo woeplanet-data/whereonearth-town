@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.827, 
+              45.230
+            ], 
+            [
+              4.827, 
+              45.265
+            ], 
+            [
+              4.866, 
+              45.265
+            ], 
+            [
+              4.866, 
+              45.230
+            ], 
+            [
+              4.827, 
+              45.230
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575686, 
+        "name": "Albon", 
+        "adjacent_woeid": [
+          576039, 
+          576216, 
+          578005, 
+          580802, 
+          602776, 
+          625681
+        ], 
+        "ne_latitude": 45.265, 
+        "ne_longitude": 4.866, 
+        "longitude": 4.844, 
+        "parent_woeid": 12655054, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Tour d'Albon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.244, 
+        "sw_longitude": 4.827, 
+        "fullname": "Albon, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 45.230
+      }, 
+      "id": 575686
+    }
+  ]
+}

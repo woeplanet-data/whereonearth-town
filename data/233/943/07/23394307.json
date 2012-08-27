@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.721, 
+              45.151
+            ], 
+            [
+              -72.721, 
+              45.303
+            ], 
+            [
+              -72.508, 
+              45.303
+            ], 
+            [
+              -72.508, 
+              45.151
+            ], 
+            [
+              -72.721, 
+              45.151
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394307, 
+        "name": "Lac-Brome", 
+        "adjacent_woeid": [
+          3565, 
+          3572, 
+          23394648
+        ], 
+        "ne_latitude": 45.303, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lake Brome"
+        ], 
+        "ne_longitude": -72.508, 
+        "longitude": -72.539, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375053, 
+        "latitude": 45.212, 
+        "sw_longitude": -72.721, 
+        "fullname": "Lac-Brome, Quebec, Brome-Missisquoi, Canada", 
+        "sw_latitude": 45.151
+      }, 
+      "id": 23394307
+    }
+  ]
+}

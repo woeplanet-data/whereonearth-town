@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.932, 
+              45.281
+            ], 
+            [
+              4.932, 
+              45.305
+            ], 
+            [
+              4.969, 
+              45.305
+            ], 
+            [
+              4.969, 
+              45.281
+            ], 
+            [
+              4.932, 
+              45.281
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627003, 
+        "name": "St.-Sorlin-en-Valloire", 
+        "adjacent_woeid": [
+          576216, 
+          578832, 
+          584974, 
+          589805, 
+          594507, 
+          609718, 
+          609731, 
+          613193, 
+          620239, 
+          626673
+        ], 
+        "ne_latitude": 45.305, 
+        "alias_ENG_V": [
+          "Saint-Sorlin"
+        ], 
+        "ne_longitude": 4.969, 
+        "longitude": 4.951, 
+        "parent_woeid": 12665365, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Sorlin-en-Valloire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.289, 
+        "sw_longitude": 4.932, 
+        "fullname": "St.-Sorlin-en-Valloire, St-Sorlin, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 45.281
+      }, 
+      "id": 627003
+    }
+  ]
+}

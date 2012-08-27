@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.163, 
+              17.854
+            ], 
+            [
+              -92.163, 
+              17.872
+            ], 
+            [
+              -92.144, 
+              17.872
+            ], 
+            [
+              -92.144, 
+              17.854
+            ], 
+            [
+              -92.163, 
+              17.854
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.872, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          112297, 
+          115180, 
+          132807, 
+          141355, 
+          143124, 
+          146713
+        ], 
+        "woeid": 142591, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -92.144, 
+        "longitude": -92.153, 
+        "parent_woeid": 12601625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.863, 
+        "sw_longitude": -92.163, 
+        "fullname": "San Francisco, Tabasco, Jonuta, Mexico", 
+        "sw_latitude": 17.854
+      }, 
+      "id": 142591
+    }
+  ]
+}

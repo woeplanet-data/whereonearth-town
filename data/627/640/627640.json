@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.610, 
+              42.963
+            ], 
+            [
+              0.610, 
+              42.981
+            ], 
+            [
+              0.635, 
+              42.981
+            ], 
+            [
+              0.635, 
+              42.963
+            ], 
+            [
+              0.610, 
+              42.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627640, 
+        "name": "Ste.-Marie", 
+        "adjacent_woeid": [
+          577805, 
+          615070, 
+          620701, 
+          622217
+        ], 
+        "ne_latitude": 42.981, 
+        "ne_longitude": 0.635, 
+        "longitude": 0.622, 
+        "parent_woeid": 12671432, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Marie"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.972, 
+        "sw_longitude": 0.610, 
+        "fullname": "Ste.-Marie, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 42.963
+      }, 
+      "id": 627640
+    }
+  ]
+}

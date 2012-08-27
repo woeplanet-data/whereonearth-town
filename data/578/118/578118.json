@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.677, 
+              48.633
+            ], 
+            [
+              3.677, 
+              48.671
+            ], 
+            [
+              3.722, 
+              48.671
+            ], 
+            [
+              3.722, 
+              48.633
+            ], 
+            [
+              3.677, 
+              48.633
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578118, 
+        "name": "Barbonne-Fayel", 
+        "adjacent_woeid": [
+          591338, 
+          598230, 
+          603521, 
+          618571, 
+          621151, 
+          626655, 
+          632168
+        ], 
+        "ne_latitude": 48.671, 
+        "ne_longitude": 3.722, 
+        "longitude": 3.693, 
+        "parent_woeid": 12638089, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Barbonne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.656, 
+        "sw_longitude": 3.677, 
+        "fullname": "Barbonne-Fayel, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.633
+      }, 
+      "id": 578118
+    }
+  ]
+}

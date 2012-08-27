@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.346, 
+              44.886
+            ], 
+            [
+              -0.346, 
+              44.904
+            ], 
+            [
+              -0.320, 
+              44.904
+            ], 
+            [
+              -0.320, 
+              44.886
+            ], 
+            [
+              -0.346, 
+              44.886
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331702, 
+        "name": "Le Coin", 
+        "adjacent_woeid": [
+          595350, 
+          624322, 
+          626211, 
+          627051
+        ], 
+        "ne_latitude": 44.904, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.320, 
+        "longitude": -0.333, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12649984, 
+        "latitude": 44.895, 
+        "sw_longitude": -0.346, 
+        "fullname": "Le Coin, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.886
+      }, 
+      "id": 29331702
+    }
+  ]
+}

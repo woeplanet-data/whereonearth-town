@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.731, 
+              50.293
+            ], 
+            [
+              3.731, 
+              50.319
+            ], 
+            [
+              3.764, 
+              50.319
+            ], 
+            [
+              3.764, 
+              50.293
+            ], 
+            [
+              3.731, 
+              50.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627318, 
+        "name": "St.-Waast", 
+        "adjacent_woeid": [
+          575960, 
+          579172, 
+          579385, 
+          579707, 
+          594957, 
+          598187, 
+          618059, 
+          20217361
+        ], 
+        "ne_latitude": 50.319, 
+        "ne_longitude": 3.764, 
+        "longitude": 3.750, 
+        "parent_woeid": 12665020, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Waast"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.304, 
+        "sw_longitude": 3.731, 
+        "fullname": "St.-Waast, Nord-Pas-de-Calais, Nord, France", 
+        "alias_FRE_S": [
+          "Saint-Waast-la-Vallee"
+        ], 
+        "sw_latitude": 50.293
+      }, 
+      "id": 627318
+    }
+  ]
+}

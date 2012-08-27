@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              48.421
+            ], 
+            [
+              12.123, 
+              48.440
+            ], 
+            [
+              12.136, 
+              48.440
+            ], 
+            [
+              12.136, 
+              48.421
+            ], 
+            [
+              12.123, 
+              48.421
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687551, 
+        "name": "Reichersdorf", 
+        "adjacent_woeid": [
+          634368, 
+          650489, 
+          655835, 
+          670285, 
+          687854, 
+          20152626, 
+          20154536, 
+          29347812
+        ], 
+        "ne_latitude": 48.440, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.136, 
+        "longitude": 12.131, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12622923, 
+        "latitude": 48.429, 
+        "sw_longitude": 12.123, 
+        "fullname": "Reichersdorf, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.421
+      }, 
+      "id": 687551
+    }
+  ]
+}

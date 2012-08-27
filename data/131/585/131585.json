@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.860, 
+              25.358
+            ], 
+            [
+              -105.860, 
+              25.376
+            ], 
+            [
+              -105.840, 
+              25.376
+            ], 
+            [
+              -105.840, 
+              25.358
+            ], 
+            [
+              -105.860, 
+              25.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.376, 
+        "name": "Los Bagres", 
+        "adjacent_woeid": [
+          112426, 
+          116362, 
+          116370, 
+          119945, 
+          128996, 
+          142826
+        ], 
+        "woeid": 131585, 
+        "alias_SPA_V": [
+          "Bagres"
+        ], 
+        "ne_longitude": -105.840, 
+        "longitude": -105.850, 
+        "parent_woeid": 12599985, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.367, 
+        "sw_longitude": -105.860, 
+        "fullname": "Los Bagres, Durango, Tepehuanes, Mexico", 
+        "sw_latitude": 25.358
+      }, 
+      "id": 131585
+    }
+  ]
+}

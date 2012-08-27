@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.731, 
+              52.233
+            ], 
+            [
+              10.731, 
+              52.275
+            ], 
+            [
+              10.775, 
+              52.275
+            ], 
+            [
+              10.775, 
+              52.233
+            ], 
+            [
+              10.731, 
+              52.233
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640370, 
+        "name": "Bornum", 
+        "adjacent_woeid": [
+          633194, 
+          644256, 
+          691710, 
+          20166259, 
+          20166336, 
+          29349685
+        ], 
+        "ne_latitude": 52.275, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.775, 
+        "longitude": 10.753, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12630377, 
+        "latitude": 52.260, 
+        "sw_longitude": 10.731, 
+        "fullname": "Bornum, Lower Saxony, Landkreis Helmstedt, Germany", 
+        "alias_GER_V": [
+          "Bornum am Elm"
+        ], 
+        "sw_latitude": 52.233
+      }, 
+      "id": 640370
+    }
+  ]
+}

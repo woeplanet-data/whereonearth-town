@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.507, 
+              50.345
+            ], 
+            [
+              8.507, 
+              50.369
+            ], 
+            [
+              8.556, 
+              50.369
+            ], 
+            [
+              8.556, 
+              50.345
+            ], 
+            [
+              8.507, 
+              50.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648645, 
+        "name": "Eschbach", 
+        "adjacent_woeid": [
+          662937, 
+          675149, 
+          701894, 
+          705498, 
+          706594
+        ], 
+        "ne_latitude": 50.369, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.556, 
+        "longitude": 8.537, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12632510, 
+        "latitude": 50.355, 
+        "sw_longitude": 8.507, 
+        "fullname": "Eschbach, Hesse, Hochtaunuskreis, Germany", 
+        "sw_latitude": 50.345
+      }, 
+      "id": 648645
+    }
+  ]
+}

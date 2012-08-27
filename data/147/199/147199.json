@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.893, 
+              16.624
+            ], 
+            [
+              -93.893, 
+              16.642
+            ], 
+            [
+              -93.874, 
+              16.642
+            ], 
+            [
+              -93.874, 
+              16.624
+            ], 
+            [
+              -93.893, 
+              16.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.642, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          121335, 
+          124288, 
+          131041, 
+          142574, 
+          145283
+        ], 
+        "woeid": 147199, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -93.874, 
+        "longitude": -93.883, 
+        "parent_woeid": 12599733, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.633, 
+        "sw_longitude": -93.893, 
+        "fullname": "Santo Domingo, Chiapas, Cintalapa, Mexico", 
+        "sw_latitude": 16.624
+      }, 
+      "id": 147199
+    }
+  ]
+}

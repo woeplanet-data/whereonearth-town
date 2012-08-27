@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.726, 
+              17.674
+            ], 
+            [
+              -94.726, 
+              17.692
+            ], 
+            [
+              -94.707, 
+              17.692
+            ], 
+            [
+              -94.707, 
+              17.674
+            ], 
+            [
+              -94.726, 
+              17.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.692, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          111644, 
+          111875, 
+          114064, 
+          115565, 
+          149299
+        ], 
+        "woeid": 142082, 
+        "alias_SPA_V": [
+          "S Carlos"
+        ], 
+        "ne_longitude": -94.707, 
+        "longitude": -94.717, 
+        "parent_woeid": 12601788, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.683, 
+        "sw_longitude": -94.726, 
+        "fullname": "San Carlos, Veracruz-Llave, Hidalgotitlan, Mexico", 
+        "sw_latitude": 17.674
+      }, 
+      "id": 142082
+    }
+  ]
+}

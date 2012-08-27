@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.560, 
+              23.508
+            ], 
+            [
+              -100.560, 
+              23.526
+            ], 
+            [
+              -100.540, 
+              23.526
+            ], 
+            [
+              -100.540, 
+              23.508
+            ], 
+            [
+              -100.560, 
+              23.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.526, 
+        "name": "La Presita", 
+        "adjacent_woeid": [
+          113582, 
+          113756, 
+          119488, 
+          130153, 
+          136256, 
+          136635, 
+          137841, 
+          143496
+        ], 
+        "woeid": 128895, 
+        "alias_SPA_V": [
+          "Presita"
+        ], 
+        "ne_longitude": -100.540, 
+        "longitude": -100.550, 
+        "parent_woeid": 12601489, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.517, 
+        "sw_longitude": -100.560, 
+        "fullname": "La Presita, San Luis Potosi, Matehuala, Mexico", 
+        "sw_latitude": 23.508
+      }, 
+      "id": 128895
+    }
+  ]
+}

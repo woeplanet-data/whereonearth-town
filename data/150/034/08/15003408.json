@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.802, 
+              39.003
+            ], 
+            [
+              -5.802, 
+              39.053
+            ], 
+            [
+              -5.760, 
+              39.053
+            ], 
+            [
+              -5.760, 
+              39.003
+            ], 
+            [
+              -5.802, 
+              39.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.053, 
+        "name": "Castillo de la Encomienda", 
+        "adjacent_woeid": [
+          779212, 
+          20222330, 
+          20225711, 
+          20227591, 
+          20228865
+        ], 
+        "woeid": 15003408, 
+        "alias_SPA_V": [
+          "La Encomienda"
+        ], 
+        "ne_longitude": -5.760, 
+        "longitude": -5.774, 
+        "parent_woeid": 12694473, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.025, 
+        "sw_longitude": -5.802, 
+        "fullname": "Castillo de la Encomienda, Extremadura, Badajoz, Spain", 
+        "sw_latitude": 39.003
+      }, 
+      "id": 15003408
+    }
+  ]
+}

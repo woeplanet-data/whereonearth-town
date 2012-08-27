@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.732, 
+              -37.266
+            ], 
+            [
+              -72.732, 
+              -37.252
+            ], 
+            [
+              -72.714, 
+              -37.252
+            ], 
+            [
+              -72.714, 
+              -37.266
+            ], 
+            [
+              -72.732, 
+              -37.266
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -37.252, 
+        "name": "San Rosendo", 
+        "adjacent_woeid": [
+          347271, 
+          347847, 
+          348051, 
+          349748, 
+          349841, 
+          350373, 
+          419929
+        ], 
+        "woeid": 350138, 
+        "alias_SPA_V": [
+          "S Rosendo"
+        ], 
+        "ne_longitude": -72.714, 
+        "longitude": -72.720, 
+        "parent_woeid": 26794110, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -37.257, 
+        "sw_longitude": -72.732, 
+        "fullname": "San Rosendo, Biobio Region, Concepcion Province, Chile", 
+        "sw_latitude": -37.266
+      }, 
+      "id": 350138
+    }
+  ]
+}

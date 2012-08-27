@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.109, 
+              45.576
+            ], 
+            [
+              -73.109, 
+              45.612
+            ], 
+            [
+              -73.080, 
+              45.612
+            ], 
+            [
+              -73.080, 
+              45.576
+            ], 
+            [
+              -73.109, 
+              45.576
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394684, 
+        "name": "Ste.-Madeleine", 
+        "adjacent_woeid": [
+          23394681, 
+          23395668, 
+          23396474
+        ], 
+        "ne_latitude": 45.612, 
+        "ne_longitude": -73.080, 
+        "longitude": -73.092, 
+        "parent_woeid": 29375183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ste-Madeleine"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.594, 
+        "sw_longitude": -73.109, 
+        "fullname": "Ste.-Madeleine, Quebec, Les Maskoutains, Canada", 
+        "sw_latitude": 45.576
+      }, 
+      "id": 23394684
+    }
+  ]
+}

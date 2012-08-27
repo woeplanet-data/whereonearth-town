@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.919, 
+              49.110
+            ], 
+            [
+              4.919, 
+              49.175
+            ], 
+            [
+              4.979, 
+              49.175
+            ], 
+            [
+              4.979, 
+              49.110
+            ], 
+            [
+              4.919, 
+              49.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591200, 
+        "name": "Florent-en-Argonne", 
+        "adjacent_woeid": [
+          585162, 
+          598586, 
+          599425, 
+          600702, 
+          602643, 
+          603814, 
+          611720
+        ], 
+        "ne_latitude": 49.175, 
+        "ne_longitude": 4.979, 
+        "longitude": 4.953, 
+        "parent_woeid": 12643872, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Florent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.135, 
+        "sw_longitude": 4.919, 
+        "fullname": "Florent-en-Argonne, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.110
+      }, 
+      "id": 591200
+    }
+  ]
+}

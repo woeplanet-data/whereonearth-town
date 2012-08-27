@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.976, 
+              44.071
+            ], 
+            [
+              1.976, 
+              44.089
+            ], 
+            [
+              2.001, 
+              44.089
+            ], 
+            [
+              2.001, 
+              44.071
+            ], 
+            [
+              1.976, 
+              44.071
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "adjacent_woeid": [
+          581290, 
+          582837, 
+          600680, 
+          601419, 
+          604543, 
+          620776, 
+          625440
+        ], 
+        "name": "Pointe-\u00c0-Pitre", 
+        "supercededby_woeid": 12658270, 
+        "woeid": 29331466, 
+        "provider": "geoplanet 7.5.1", 
+        "ne_longitude": 2.001, 
+        "longitude": 1.988, 
+        "parent_woeid": 12658270, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pointe-\u00e0-Pitre"
+        ], 
+        "iso": "FR", 
+        "sw_latitude": 44.071, 
+        "ne_latitude": 44.089, 
+        "latitude": 44.080, 
+        "sw_longitude": 1.976, 
+        "fullname": "Pointe-\u00c0-Pitre, Midi-Pyrenees, Tarn, France", 
+        "alias_FRE_S": [
+          "Pointe-a-Pitre"
+        ], 
+        "date_indexed": "2010-06-06T11:56:23Z"
+      }, 
+      "id": 29331466
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.710, 
+              55.720
+            ], 
+            [
+              8.710, 
+              55.746
+            ], 
+            [
+              8.757, 
+              55.746
+            ], 
+            [
+              8.757, 
+              55.720
+            ], 
+            [
+              8.710, 
+              55.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555360, 
+        "name": "Lund", 
+        "adjacent_woeid": [
+          551925, 
+          552919, 
+          553953, 
+          554594, 
+          555040, 
+          557136
+        ], 
+        "ne_latitude": 55.746, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.757, 
+        "longitude": 8.733, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:30Z", 
+        "parent_woeid": 12582745, 
+        "latitude": 55.733, 
+        "sw_longitude": 8.710, 
+        "fullname": "Lund, Syddanmark, Varde, Denmark", 
+        "sw_latitude": 55.720
+      }, 
+      "id": 555360
+    }
+  ]
+}

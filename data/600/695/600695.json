@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.811, 
+              45.625
+            ], 
+            [
+              1.811, 
+              45.650
+            ], 
+            [
+              1.840, 
+              45.650
+            ], 
+            [
+              1.840, 
+              45.625
+            ], 
+            [
+              1.811, 
+              45.625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600695, 
+        "name": "Lacelle", 
+        "adjacent_woeid": [
+          596476, 
+          619134, 
+          624587, 
+          628076, 
+          631081
+        ], 
+        "ne_latitude": 45.650, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.840, 
+        "longitude": 1.825, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12664210, 
+        "latitude": 45.642, 
+        "sw_longitude": 1.811, 
+        "fullname": "Lacelle, Limousin, Correze, France", 
+        "sw_latitude": 45.625
+      }, 
+      "id": 600695
+    }
+  ]
+}

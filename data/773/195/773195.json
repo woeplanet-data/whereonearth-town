@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.227, 
+              43.247
+            ], 
+            [
+              -3.227, 
+              43.256
+            ], 
+            [
+              -3.214, 
+              43.256
+            ], 
+            [
+              -3.214, 
+              43.247
+            ], 
+            [
+              -3.227, 
+              43.247
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.256, 
+        "name": "San Miguel de Linares", 
+        "adjacent_woeid": [
+          754056, 
+          764099, 
+          764544, 
+          773656, 
+          775995, 
+          20226471
+        ], 
+        "woeid": 773195, 
+        "alias_SPA_V": [
+          "S Miguel de Linares"
+        ], 
+        "ne_longitude": -3.214, 
+        "longitude": -3.220, 
+        "parent_woeid": 12695164, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.251, 
+        "sw_longitude": -3.227, 
+        "fullname": "San Miguel de Linares, Basque Country, Biscay, Spain", 
+        "sw_latitude": 43.247
+      }, 
+      "id": 773195
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.043, 
+              21.708
+            ], 
+            [
+              -99.043, 
+              21.726
+            ], 
+            [
+              -99.024, 
+              21.726
+            ], 
+            [
+              -99.024, 
+              21.708
+            ], 
+            [
+              -99.043, 
+              21.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.726, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          135457, 
+          145058, 
+          148121, 
+          148144, 
+          148163, 
+          148251
+        ], 
+        "woeid": 145953, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -99.024, 
+        "longitude": -99.033, 
+        "parent_woeid": 12601471, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.717, 
+        "sw_longitude": -99.043, 
+        "fullname": "Santa Cruz, San Luis Potosi, Aquismon, Mexico", 
+        "sw_latitude": 21.708
+      }, 
+      "id": 145953
+    }
+  ]
+}

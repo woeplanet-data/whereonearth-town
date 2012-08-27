@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.236, 
+              43.506
+            ], 
+            [
+              0.236, 
+              43.558
+            ], 
+            [
+              0.287, 
+              43.558
+            ], 
+            [
+              0.287, 
+              43.506
+            ], 
+            [
+              0.236, 
+              43.506
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623447, 
+        "name": "St.-Christaud", 
+        "adjacent_woeid": [
+          578262, 
+          578378, 
+          601870, 
+          611997, 
+          615554, 
+          617773
+        ], 
+        "ne_latitude": 43.558, 
+        "ne_longitude": 0.287, 
+        "longitude": 0.264, 
+        "parent_woeid": 12670252, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Christaud"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.530, 
+        "sw_longitude": 0.236, 
+        "fullname": "St.-Christaud, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.506
+      }, 
+      "id": 623447
+    }
+  ]
+}

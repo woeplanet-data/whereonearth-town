@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.123, 
+              45.466
+            ], 
+            [
+              10.123, 
+              45.512
+            ], 
+            [
+              10.160, 
+              45.512
+            ], 
+            [
+              10.160, 
+              45.466
+            ], 
+            [
+              10.123, 
+              45.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 713243, 
+        "name": "Castel Mella", 
+        "adjacent_woeid": [
+          715688, 
+          719541, 
+          724991, 
+          20125053, 
+          20137631, 
+          20140816, 
+          29334242
+        ], 
+        "ne_latitude": 45.512, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.160, 
+        "longitude": 10.144, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:26:20Z", 
+        "parent_woeid": 12678190, 
+        "latitude": 45.496, 
+        "sw_longitude": 10.123, 
+        "fullname": "Castel Mella, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.466
+      }, 
+      "id": 713243
+    }
+  ]
+}

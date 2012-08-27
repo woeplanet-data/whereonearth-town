@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.009, 
+              9.891
+            ], 
+            [
+              -84.009, 
+              9.909
+            ], 
+            [
+              -83.991, 
+              9.909
+            ], 
+            [
+              -83.991, 
+              9.891
+            ], 
+            [
+              -84.009, 
+              9.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.909, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          58243, 
+          59172, 
+          59181, 
+          59446
+        ], 
+        "woeid": 59354, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -83.991, 
+        "longitude": -84.000, 
+        "parent_woeid": 26809168, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.900, 
+        "sw_longitude": -84.009, 
+        "fullname": "San Diego, Cartago, La Uni\u00f3n, Costa Rica", 
+        "sw_latitude": 9.891
+      }, 
+      "id": 59354
+    }
+  ]
+}

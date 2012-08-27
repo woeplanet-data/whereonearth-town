@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.127, 
+              47.379
+            ], 
+            [
+              5.127, 
+              47.418
+            ], 
+            [
+              5.156, 
+              47.418
+            ], 
+            [
+              5.156, 
+              47.379
+            ], 
+            [
+              5.127, 
+              47.379
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624923, 
+        "name": "St.-Julien", 
+        "adjacent_woeid": [
+          576427, 
+          576429, 
+          581821, 
+          582065, 
+          586209, 
+          591017, 
+          591665, 
+          615093, 
+          622704
+        ], 
+        "ne_latitude": 47.418, 
+        "ne_longitude": 5.156, 
+        "longitude": 5.143, 
+        "parent_woeid": 12652722, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Julien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.401, 
+        "sw_longitude": 5.127, 
+        "fullname": "St.-Julien, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.379
+      }, 
+      "id": 624923
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.910, 
+              25.858
+            ], 
+            [
+              -100.910, 
+              25.876
+            ], 
+            [
+              -100.890, 
+              25.876
+            ], 
+            [
+              -100.890, 
+              25.858
+            ], 
+            [
+              -100.910, 
+              25.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.876, 
+        "name": "El Ranchito", 
+        "adjacent_woeid": [
+          112178, 
+          125337, 
+          141553, 
+          145195, 
+          56068579
+        ], 
+        "woeid": 121803, 
+        "alias_SPA_V": [
+          "Ranchito"
+        ], 
+        "ne_longitude": -100.890, 
+        "longitude": -100.900, 
+        "parent_woeid": 12599912, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.867, 
+        "sw_longitude": -100.910, 
+        "fullname": "El Ranchito, Coahuila de Zaragoza, Ramos Arizpe, Mexico", 
+        "sw_latitude": 25.858
+      }, 
+      "id": 121803
+    }
+  ]
+}

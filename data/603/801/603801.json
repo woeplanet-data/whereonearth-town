@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.837, 
+              44.399
+            ], 
+            [
+              -0.837, 
+              44.428
+            ], 
+            [
+              -0.801, 
+              44.428
+            ], 
+            [
+              -0.801, 
+              44.399
+            ], 
+            [
+              -0.837, 
+              44.399
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603801, 
+        "name": "Le Muret", 
+        "adjacent_woeid": [
+          608226, 
+          608960, 
+          613564, 
+          621161, 
+          633025
+        ], 
+        "ne_latitude": 44.428, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.801, 
+        "longitude": -0.825, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12640515, 
+        "latitude": 44.408, 
+        "sw_longitude": -0.837, 
+        "fullname": "Le Muret, Aquitaine, Landes, France", 
+        "sw_latitude": 44.399
+      }, 
+      "id": 603801
+    }
+  ]
+}

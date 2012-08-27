@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.773, 
+              49.791
+            ], 
+            [
+              8.773, 
+              49.813
+            ], 
+            [
+              8.805, 
+              49.813
+            ], 
+            [
+              8.805, 
+              49.791
+            ], 
+            [
+              8.773, 
+              49.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705209, 
+        "name": "Wembach", 
+        "adjacent_woeid": [
+          656492, 
+          689043, 
+          689286, 
+          708618
+        ], 
+        "ne_latitude": 49.813, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.805, 
+        "longitude": 8.785, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12632491, 
+        "latitude": 49.807, 
+        "sw_longitude": 8.773, 
+        "fullname": "Wembach, Hesse, Darmstadt-Dieburg, Germany", 
+        "sw_latitude": 49.791
+      }, 
+      "id": 705209
+    }
+  ]
+}

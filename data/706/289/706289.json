@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.285, 
+              51.785
+            ], 
+            [
+              13.285, 
+              51.835
+            ], 
+            [
+              13.323, 
+              51.835
+            ], 
+            [
+              13.323, 
+              51.785
+            ], 
+            [
+              13.285, 
+              51.785
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706289, 
+        "name": "Wiepersdorf", 
+        "adjacent_woeid": [
+          650617, 
+          667611, 
+          688838, 
+          706496
+        ], 
+        "ne_latitude": 51.835, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.323, 
+        "longitude": 13.303, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 24547242, 
+        "latitude": 51.807, 
+        "sw_longitude": 13.285, 
+        "fullname": "Wiepersdorf, Brandenburg, Elbe-Elster, Germany", 
+        "sw_latitude": 51.785
+      }, 
+      "id": 706289
+    }
+  ]
+}

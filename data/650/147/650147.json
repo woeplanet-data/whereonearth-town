@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.486, 
+              49.427
+            ], 
+            [
+              12.486, 
+              49.447
+            ], 
+            [
+              12.500, 
+              49.447
+            ], 
+            [
+              12.500, 
+              49.427
+            ], 
+            [
+              12.486, 
+              49.427
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650147, 
+        "name": "Forsthof", 
+        "adjacent_woeid": [
+          692622, 
+          20158529, 
+          20158539, 
+          20173131
+        ], 
+        "ne_latitude": 49.447, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.500, 
+        "longitude": 12.494, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12634329, 
+        "latitude": 49.438, 
+        "sw_longitude": 12.486, 
+        "fullname": "Forsthof, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.427
+      }, 
+      "id": 650147
+    }
+  ]
+}

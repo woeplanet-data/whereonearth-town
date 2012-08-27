@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.923, 
+              49.619
+            ], 
+            [
+              9.923, 
+              49.643
+            ], 
+            [
+              9.967, 
+              49.643
+            ], 
+            [
+              9.967, 
+              49.619
+            ], 
+            [
+              9.923, 
+              49.619
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659208, 
+        "name": "Herchsheim", 
+        "adjacent_woeid": [
+          633999, 
+          649002, 
+          698308, 
+          707782
+        ], 
+        "ne_latitude": 49.643, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.967, 
+        "longitude": 9.947, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12635488, 
+        "latitude": 49.631, 
+        "sw_longitude": 9.923, 
+        "fullname": "Herchsheim, Bavaria, Wurzburg, Germany", 
+        "sw_latitude": 49.619
+      }, 
+      "id": 659208
+    }
+  ]
+}

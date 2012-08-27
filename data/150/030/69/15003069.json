@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.075, 
+              48.952
+            ], 
+            [
+              1.075, 
+              48.987
+            ], 
+            [
+              1.111, 
+              48.987
+            ], 
+            [
+              1.111, 
+              48.952
+            ], 
+            [
+              1.075, 
+              48.952
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003069, 
+        "name": "Les Baux-Ste.-Croix", 
+        "adjacent_woeid": [
+          576675, 
+          604150, 
+          607622, 
+          15003055, 
+          20187545, 
+          20187550
+        ], 
+        "ne_latitude": 48.987, 
+        "ne_longitude": 1.111, 
+        "longitude": 1.096, 
+        "parent_woeid": 12673060, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Les Baux-Sainte-Croix"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.969, 
+        "sw_longitude": 1.075, 
+        "fullname": "Les Baux-Ste.-Croix, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.952
+      }, 
+      "id": 15003069
+    }
+  ]
+}

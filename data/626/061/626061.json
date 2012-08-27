@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.321, 
+              48.185
+            ], 
+            [
+              -4.321, 
+              48.232
+            ], 
+            [
+              -4.240, 
+              48.232
+            ], 
+            [
+              -4.240, 
+              48.185
+            ], 
+            [
+              -4.321, 
+              48.185
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626061, 
+        "name": "St.-Nic", 
+        "adjacent_woeid": [
+          576592, 
+          588780, 
+          629158, 
+          29330635, 
+          29330854, 
+          29330855
+        ], 
+        "ne_latitude": 48.232, 
+        "ne_longitude": -4.240, 
+        "longitude": -4.283, 
+        "parent_woeid": 12650484, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Nic"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.202, 
+        "sw_longitude": -4.321, 
+        "fullname": "St.-Nic, Brittany, Finistere, France", 
+        "sw_latitude": 48.185
+      }, 
+      "id": 626061
+    }
+  ]
+}

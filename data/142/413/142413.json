@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -115.235, 
+              29.976
+            ], 
+            [
+              -115.235, 
+              29.994
+            ], 
+            [
+              -115.214, 
+              29.994
+            ], 
+            [
+              -115.214, 
+              29.976
+            ], 
+            [
+              -115.235, 
+              29.976
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.994, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          119098, 
+          133804, 
+          137392, 
+          138154, 
+          145819
+        ], 
+        "woeid": 142413, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -115.214, 
+        "longitude": -115.224, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.985, 
+        "sw_longitude": -115.235, 
+        "fullname": "San Fernando, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 29.976
+      }, 
+      "id": 142413
+    }
+  ]
+}

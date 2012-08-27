@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.111, 
+              30.958
+            ], 
+            [
+              -116.111, 
+              30.976
+            ], 
+            [
+              -116.089, 
+              30.976
+            ], 
+            [
+              -116.089, 
+              30.958
+            ], 
+            [
+              -116.111, 
+              30.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.976, 
+        "name": "San Telmo", 
+        "adjacent_woeid": [
+          113854, 
+          116798, 
+          116850
+        ], 
+        "woeid": 145468, 
+        "alias_SPA_V": [
+          "S Telmo"
+        ], 
+        "ne_longitude": -116.089, 
+        "longitude": -116.100, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.967, 
+        "sw_longitude": -116.111, 
+        "fullname": "San Telmo, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 30.958
+      }, 
+      "id": 145468
+    }
+  ]
+}

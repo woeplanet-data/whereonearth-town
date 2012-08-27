@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.206, 
+              54.212
+            ], 
+            [
+              10.206, 
+              54.249
+            ], 
+            [
+              10.241, 
+              54.249
+            ], 
+            [
+              10.241, 
+              54.212
+            ], 
+            [
+              10.206, 
+              54.212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 694980, 
+        "name": "Sieversdorf", 
+        "adjacent_woeid": [
+          662100, 
+          685485, 
+          685765, 
+          29350821
+        ], 
+        "ne_latitude": 54.249, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.241, 
+        "longitude": 10.224, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:15Z", 
+        "parent_woeid": 12632422, 
+        "latitude": 54.228, 
+        "sw_longitude": 10.206, 
+        "fullname": "Sieversdorf, Schleswig-Holstein, Plon, Germany", 
+        "sw_latitude": 54.212
+      }, 
+      "id": 694980
+    }
+  ]
+}

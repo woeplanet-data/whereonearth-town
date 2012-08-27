@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.714, 
+              47.898
+            ], 
+            [
+              0.714, 
+              47.933
+            ], 
+            [
+              0.763, 
+              47.933
+            ], 
+            [
+              0.763, 
+              47.898
+            ], 
+            [
+              0.714, 
+              47.898
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623371, 
+        "name": "St.-Calais", 
+        "adjacent_woeid": [
+          579601, 
+          581117, 
+          586785, 
+          588852, 
+          597617, 
+          603148, 
+          610178, 
+          611931, 
+          612243, 
+          618731, 
+          621433, 
+          624408, 
+          627425, 
+          631098, 
+          29332362
+        ], 
+        "ne_latitude": 47.933, 
+        "ne_longitude": 0.763, 
+        "longitude": 0.742, 
+        "parent_woeid": 12670234, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Calais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.920, 
+        "sw_longitude": 0.714, 
+        "fullname": "St.-Calais, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 47.898
+      }, 
+      "id": 623371
+    }
+  ]
+}

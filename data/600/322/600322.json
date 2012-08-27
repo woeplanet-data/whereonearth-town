@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.501, 
+              47.603
+            ], 
+            [
+              6.501, 
+              47.625
+            ], 
+            [
+              6.534, 
+              47.625
+            ], 
+            [
+              6.534, 
+              47.603
+            ], 
+            [
+              6.501, 
+              47.603
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600322, 
+        "name": "La Vergenne", 
+        "adjacent_woeid": [
+          576960, 
+          593210, 
+          611696, 
+          632658
+        ], 
+        "ne_latitude": 47.625, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.534, 
+        "longitude": 6.524, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 12646712, 
+        "latitude": 47.611, 
+        "sw_longitude": 6.501, 
+        "fullname": "La Vergenne, Franche-Comte, Haute-Saone, France", 
+        "sw_latitude": 47.603
+      }, 
+      "id": 600322
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.674, 
+              46.195
+            ], 
+            [
+              -70.674, 
+              46.350
+            ], 
+            [
+              -70.506, 
+              46.350
+            ], 
+            [
+              -70.506, 
+              46.195
+            ], 
+            [
+              -70.674, 
+              46.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394489, 
+        "name": "St.-Benjamin", 
+        "adjacent_woeid": [
+          1458, 
+          1601, 
+          3488, 
+          23394547, 
+          23395584, 
+          23396668
+        ], 
+        "ne_latitude": 46.350, 
+        "ne_longitude": -70.506, 
+        "longitude": -70.603, 
+        "parent_woeid": 29375064, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Benjamin"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.278, 
+        "sw_longitude": -70.674, 
+        "fullname": "St.-Benjamin, Quebec, Les Etchemins, Canada", 
+        "sw_latitude": 46.195
+      }, 
+      "id": 23394489
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.231, 
+              50.799
+            ], 
+            [
+              12.231, 
+              50.808
+            ], 
+            [
+              12.245, 
+              50.808
+            ], 
+            [
+              12.245, 
+              50.799
+            ], 
+            [
+              12.231, 
+              50.799
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702486, 
+        "name": "Vogelgesang", 
+        "adjacent_woeid": [
+          639375, 
+          640811, 
+          643176, 
+          655153, 
+          657588, 
+          671858, 
+          690198, 
+          694196
+        ], 
+        "ne_latitude": 50.808, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.245, 
+        "longitude": 12.238, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12625478, 
+        "latitude": 50.803, 
+        "sw_longitude": 12.231, 
+        "fullname": "Vogelgesang, Thuringia, Landkreis Greiz, Germany", 
+        "alias_GER_V": [
+          "Vogelsang"
+        ], 
+        "sw_latitude": 50.799
+      }, 
+      "id": 702486
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.223, 
+              45.176
+            ], 
+            [
+              0.223, 
+              45.201
+            ], 
+            [
+              0.253, 
+              45.201
+            ], 
+            [
+              0.253, 
+              45.176
+            ], 
+            [
+              0.223, 
+              45.176
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617446, 
+        "name": "Ponteyraud", 
+        "adjacent_woeid": [
+          590894, 
+          598802, 
+          627284, 
+          630039
+        ], 
+        "ne_latitude": 45.201, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.253, 
+        "longitude": 0.241, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12650845, 
+        "latitude": 45.194, 
+        "sw_longitude": 0.223, 
+        "fullname": "Ponteyraud, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.176
+      }, 
+      "id": 617446
+    }
+  ]
+}

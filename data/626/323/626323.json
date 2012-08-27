@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.130, 
+              48.057
+            ], 
+            [
+              1.130, 
+              48.082
+            ], 
+            [
+              1.157, 
+              48.082
+            ], 
+            [
+              1.157, 
+              48.057
+            ], 
+            [
+              1.130, 
+              48.057
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626323, 
+        "name": "St.-Pellerin", 
+        "adjacent_woeid": [
+          580439, 
+          585091, 
+          587556, 
+          601233, 
+          601312, 
+          604200
+        ], 
+        "ne_latitude": 48.082, 
+        "ne_longitude": 1.157, 
+        "longitude": 1.143, 
+        "parent_woeid": 12653058, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pellerin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.072, 
+        "sw_longitude": 1.130, 
+        "fullname": "St.-Pellerin, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.057
+      }, 
+      "id": 626323
+    }
+  ]
+}

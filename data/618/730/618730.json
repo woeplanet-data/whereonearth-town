@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.050, 
+              47.855
+            ], 
+            [
+              1.050, 
+              47.885
+            ], 
+            [
+              1.090, 
+              47.885
+            ], 
+            [
+              1.090, 
+              47.855
+            ], 
+            [
+              1.050, 
+              47.855
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 618730, 
+        "name": "Rahart", 
+        "adjacent_woeid": [
+          577722, 
+          588501, 
+          600430, 
+          608239, 
+          626132, 
+          20186613, 
+          20186616
+        ], 
+        "ne_latitude": 47.885, 
+        "ne_longitude": 1.090, 
+        "longitude": 1.067, 
+        "parent_woeid": 12651117, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Rahar"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.870, 
+        "sw_longitude": 1.050, 
+        "fullname": "Rahart, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.855
+      }, 
+      "id": 618730
+    }
+  ]
+}

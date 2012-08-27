@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.311, 
+              49.662
+            ], 
+            [
+              1.311, 
+              49.704
+            ], 
+            [
+              1.361, 
+              49.704
+            ], 
+            [
+              1.361, 
+              49.662
+            ], 
+            [
+              1.311, 
+              49.662
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610532, 
+        "name": "Maucomble", 
+        "adjacent_woeid": [
+          580852, 
+          582355, 
+          606553
+        ], 
+        "ne_latitude": 49.704, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.361, 
+        "longitude": 1.335, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12648913, 
+        "latitude": 49.682, 
+        "sw_longitude": 1.311, 
+        "fullname": "Maucomble, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.662
+      }, 
+      "id": 610532
+    }
+  ]
+}

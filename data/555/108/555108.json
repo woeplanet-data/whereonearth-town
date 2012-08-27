@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.587, 
+              54.992
+            ], 
+            [
+              10.587, 
+              55.005
+            ], 
+            [
+              10.610, 
+              55.005
+            ], 
+            [
+              10.610, 
+              54.992
+            ], 
+            [
+              10.587, 
+              54.992
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555108, 
+        "name": "Landet", 
+        "adjacent_woeid": [
+          552349, 
+          553510, 
+          553975, 
+          554878, 
+          555371, 
+          557412, 
+          557730
+        ], 
+        "ne_latitude": 55.005, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.610, 
+        "longitude": 10.598, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:11Z", 
+        "parent_woeid": 12582674, 
+        "latitude": 54.999, 
+        "sw_longitude": 10.587, 
+        "fullname": "Landet, Syddanmark, Svendborg, Denmark", 
+        "alias_DAN_V": [
+          "Landed Kirke"
+        ], 
+        "sw_latitude": 54.992
+      }, 
+      "id": 555108
+    }
+  ]
+}

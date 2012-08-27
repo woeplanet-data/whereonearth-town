@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.810, 
+              21.908
+            ], 
+            [
+              -98.810, 
+              21.926
+            ], 
+            [
+              -98.790, 
+              21.926
+            ], 
+            [
+              -98.790, 
+              21.908
+            ], 
+            [
+              -98.810, 
+              21.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.926, 
+        "name": "Los Sabinos", 
+        "adjacent_woeid": [
+          111990, 
+          125994, 
+          132785, 
+          142333, 
+          143613, 
+          148128
+        ], 
+        "woeid": 132404, 
+        "alias_SPA_V": [
+          "Sabino"
+        ], 
+        "ne_longitude": -98.790, 
+        "longitude": -98.800, 
+        "parent_woeid": 12601510, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.917, 
+        "sw_longitude": -98.810, 
+        "fullname": "Los Sabinos, San Luis Potosi, Tamuin, Mexico", 
+        "sw_latitude": 21.908
+      }, 
+      "id": 132404
+    }
+  ]
+}

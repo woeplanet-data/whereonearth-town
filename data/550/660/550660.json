@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.501, 
+              47.308
+            ], 
+            [
+              10.501, 
+              47.326
+            ], 
+            [
+              10.528, 
+              47.326
+            ], 
+            [
+              10.528, 
+              47.308
+            ], 
+            [
+              10.501, 
+              47.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550660, 
+        "name": "Gutschau", 
+        "adjacent_woeid": [
+          550511, 
+          550629
+        ], 
+        "ne_latitude": 47.326, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.528, 
+        "longitude": 10.515, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675476, 
+        "latitude": 47.317, 
+        "sw_longitude": 10.501, 
+        "fullname": "Gutschau, Tyrol, Reutte, Austria", 
+        "sw_latitude": 47.308
+      }, 
+      "id": 550660
+    }
+  ]
+}

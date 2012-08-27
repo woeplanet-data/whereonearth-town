@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.393, 
+              24.074
+            ], 
+            [
+              -100.393, 
+              24.092
+            ], 
+            [
+              -100.373, 
+              24.092
+            ], 
+            [
+              -100.373, 
+              24.074
+            ], 
+            [
+              -100.393, 
+              24.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.092, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          121424, 
+          122638, 
+          133263, 
+          146726, 
+          146877
+        ], 
+        "woeid": 145626, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -100.373, 
+        "longitude": -100.383, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.083, 
+        "sw_longitude": -100.393, 
+        "fullname": "Santa Ana, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 24.074
+      }, 
+      "id": 145626
+    }
+  ]
+}

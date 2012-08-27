@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.710, 
+              21.341
+            ], 
+            [
+              -104.710, 
+              21.359
+            ], 
+            [
+              -104.690, 
+              21.359
+            ], 
+            [
+              -104.690, 
+              21.341
+            ], 
+            [
+              -104.710, 
+              21.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.359, 
+        "name": "San Leonel", 
+        "adjacent_woeid": [
+          120211, 
+          120659, 
+          127518, 
+          127872, 
+          133855
+        ], 
+        "woeid": 144082, 
+        "alias_SPA_V": [
+          "S. Leonel"
+        ], 
+        "ne_longitude": -104.690, 
+        "longitude": -104.700, 
+        "parent_woeid": 12600600, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.350, 
+        "sw_longitude": -104.710, 
+        "fullname": "San Leonel, Nayarit, Santa Maria del Oro, Mexico", 
+        "sw_latitude": 21.341
+      }, 
+      "id": 144082
+    }
+  ]
+}

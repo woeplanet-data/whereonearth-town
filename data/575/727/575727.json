@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.913, 
+              49.944
+            ], 
+            [
+              2.913, 
+              49.984
+            ], 
+            [
+              2.970, 
+              49.984
+            ], 
+            [
+              2.970, 
+              49.944
+            ], 
+            [
+              2.913, 
+              49.944
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575727, 
+        "name": "Allaines", 
+        "adjacent_woeid": [
+          575618, 
+          580937, 
+          582479, 
+          586260, 
+          611728
+        ], 
+        "ne_latitude": 49.984, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.970, 
+        "longitude": 2.949, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 12655078, 
+        "latitude": 49.960, 
+        "sw_longitude": 2.913, 
+        "fullname": "Allaines, Picardie, Somme, France", 
+        "sw_latitude": 49.944
+      }, 
+      "id": 575727
+    }
+  ]
+}

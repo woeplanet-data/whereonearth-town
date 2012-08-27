@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.525, 
+              48.553
+            ], 
+            [
+              12.525, 
+              48.571
+            ], 
+            [
+              12.553, 
+              48.571
+            ], 
+            [
+              12.553, 
+              48.553
+            ], 
+            [
+              12.525, 
+              48.553
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29347917, 
+        "name": "Weinberg", 
+        "adjacent_woeid": [
+          633701, 
+          685813, 
+          29347858
+        ], 
+        "ne_latitude": 48.571, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.553, 
+        "longitude": 12.539, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:32Z", 
+        "parent_woeid": 12623055, 
+        "latitude": 48.562, 
+        "sw_longitude": 12.525, 
+        "fullname": "Weinberg, Bavaria, Dingolfing-Landau, Germany", 
+        "sw_latitude": 48.553
+      }, 
+      "id": 29347917
+    }
+  ]
+}

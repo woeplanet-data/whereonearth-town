@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.980, 
+              45.110
+            ], 
+            [
+              -122.980, 
+              45.129
+            ], 
+            [
+              -122.955, 
+              45.129
+            ], 
+            [
+              -122.955, 
+              45.110
+            ], 
+            [
+              -122.980, 
+              45.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2486980, 
+        "name": "St. Louis", 
+        "adjacent_woeid": [
+          2383941, 
+          2401399, 
+          2517948, 
+          2518873
+        ], 
+        "ne_latitude": 45.129, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St Louis"
+        ], 
+        "ne_longitude": -122.955, 
+        "longitude": -122.968, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:31:14Z", 
+        "parent_woeid": 12589715, 
+        "latitude": 45.119, 
+        "sw_longitude": -122.980, 
+        "fullname": "St. Louis, Oregon, Marion, United States", 
+        "sw_latitude": 45.110
+      }, 
+      "id": 2486980
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.453, 
+              48.191
+            ], 
+            [
+              14.453, 
+              48.210
+            ], 
+            [
+              14.480, 
+              48.210
+            ], 
+            [
+              14.480, 
+              48.191
+            ], 
+            [
+              14.453, 
+              48.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20095047, 
+        "name": "Erlengraben", 
+        "adjacent_woeid": [
+          544570, 
+          545059, 
+          545695, 
+          546471
+        ], 
+        "ne_latitude": 48.210, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.480, 
+        "longitude": 14.467, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12673955, 
+        "latitude": 48.200, 
+        "sw_longitude": 14.453, 
+        "fullname": "Erlengraben, Upper Austria, Linz-Land, Austria", 
+        "sw_latitude": 48.191
+      }, 
+      "id": 20095047
+    }
+  ]
+}

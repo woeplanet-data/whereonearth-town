@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.012, 
+              45.134
+            ], 
+            [
+              -123.012, 
+              45.143
+            ], 
+            [
+              -123.000, 
+              45.143
+            ], 
+            [
+              -123.000, 
+              45.134
+            ], 
+            [
+              -123.012, 
+              45.134
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2401399, 
+        "name": "Fairfield", 
+        "adjacent_woeid": [
+          2486980, 
+          2509971, 
+          2518404, 
+          2518873
+        ], 
+        "ne_latitude": 45.143, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.000, 
+        "longitude": -123.005, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:25:05Z", 
+        "parent_woeid": 12589715, 
+        "latitude": 45.140, 
+        "sw_longitude": -123.012, 
+        "fullname": "Fairfield, Oregon, Marion, United States", 
+        "sw_latitude": 45.134
+      }, 
+      "id": 2401399
+    }
+  ]
+}

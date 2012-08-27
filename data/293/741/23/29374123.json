@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.903, 
+              46.912
+            ], 
+            [
+              -70.903, 
+              46.930
+            ], 
+            [
+              -70.876, 
+              46.930
+            ], 
+            [
+              -70.876, 
+              46.912
+            ], 
+            [
+              -70.903, 
+              46.912
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29374123, 
+        "name": "St-Jean", 
+        "adjacent_woeid": [
+          1451, 
+          1488, 
+          23394581
+        ], 
+        "ne_latitude": 46.930, 
+        "ne_longitude": -70.876, 
+        "longitude": -70.890, 
+        "parent_woeid": 29375079, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jean-de-l'Ile-d'Orleans"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.921, 
+        "sw_longitude": -70.903, 
+        "fullname": "St-Jean, Quebec, L'\u00eele-D'orl\u00e9ans, Canada", 
+        "sw_latitude": 46.912
+      }, 
+      "id": 29374123
+    }
+  ]
+}

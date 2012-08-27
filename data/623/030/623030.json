@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.806, 
+              49.621
+            ], 
+            [
+              1.806, 
+              49.647
+            ], 
+            [
+              1.839, 
+              49.647
+            ], 
+            [
+              1.839, 
+              49.621
+            ], 
+            [
+              1.806, 
+              49.621
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623030, 
+        "name": "St.-Arnoult", 
+        "adjacent_woeid": [
+          582089, 
+          589747, 
+          611768, 
+          611863, 
+          613715
+        ], 
+        "ne_latitude": 49.647, 
+        "ne_longitude": 1.839, 
+        "longitude": 1.820, 
+        "parent_woeid": 22757292, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Arnoult"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.631, 
+        "sw_longitude": 1.806, 
+        "fullname": "St.-Arnoult, Picardie, Oise, France", 
+        "sw_latitude": 49.621
+      }, 
+      "id": 623030
+    }
+  ]
+}

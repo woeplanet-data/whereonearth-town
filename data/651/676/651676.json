@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.030, 
+              49.837
+            ], 
+            [
+              8.030, 
+              49.862
+            ], 
+            [
+              8.070, 
+              49.862
+            ], 
+            [
+              8.070, 
+              49.837
+            ], 
+            [
+              8.030, 
+              49.837
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651676, 
+        "name": "Gau-Weinheim", 
+        "adjacent_woeid": [
+          696046, 
+          702161, 
+          707708
+        ], 
+        "ne_latitude": 49.862, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.070, 
+        "longitude": 8.049, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12627173, 
+        "latitude": 49.846, 
+        "sw_longitude": 8.030, 
+        "fullname": "Gau-Weinheim, Rhineland-Palatinate, Alzey-Worms, Germany", 
+        "sw_latitude": 49.837
+      }, 
+      "id": 651676
+    }
+  ]
+}

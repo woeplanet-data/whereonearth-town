@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.278, 
+              25.631
+            ], 
+            [
+              -103.278, 
+              25.649
+            ], 
+            [
+              -103.258, 
+              25.649
+            ], 
+            [
+              -103.258, 
+              25.631
+            ], 
+            [
+              -103.278, 
+              25.631
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.649, 
+        "name": "Granada", 
+        "adjacent_woeid": [
+          112567, 
+          121241, 
+          128663, 
+          147743, 
+          147745
+        ], 
+        "woeid": 124079, 
+        "alias_SPA_V": [
+          "Gordonices"
+        ], 
+        "ne_longitude": -103.258, 
+        "longitude": -103.268, 
+        "parent_woeid": 12599902, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.640, 
+        "sw_longitude": -103.278, 
+        "fullname": "Granada, Coahuila de Zaragoza, Matamoros, Mexico", 
+        "sw_latitude": 25.631
+      }, 
+      "id": 124079
+    }
+  ]
+}

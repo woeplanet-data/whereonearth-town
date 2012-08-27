@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.110, 
+              25.724
+            ], 
+            [
+              -103.110, 
+              25.742
+            ], 
+            [
+              -103.090, 
+              25.742
+            ], 
+            [
+              -103.090, 
+              25.724
+            ], 
+            [
+              -103.110, 
+              25.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.742, 
+        "name": "San Ignacio Viejo", 
+        "adjacent_woeid": [
+          117201, 
+          131048, 
+          137525, 
+          144092, 
+          144214, 
+          144823, 
+          146618
+        ], 
+        "woeid": 142830, 
+        "alias_SPA_V": [
+          "S. Ignacio Viejo"
+        ], 
+        "ne_longitude": -103.090, 
+        "longitude": -103.100, 
+        "parent_woeid": 12599918, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.733, 
+        "sw_longitude": -103.110, 
+        "fullname": "San Ignacio Viejo, Coahuila de Zaragoza, San Pedro, Mexico", 
+        "sw_latitude": 25.724
+      }, 
+      "id": 142830
+    }
+  ]
+}

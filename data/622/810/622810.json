@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.621, 
+              44.822
+            ], 
+            [
+              0.621, 
+              44.850
+            ], 
+            [
+              0.649, 
+              44.850
+            ], 
+            [
+              0.649, 
+              44.822
+            ], 
+            [
+              0.621, 
+              44.822
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622810, 
+        "name": "St.-Agne", 
+        "adjacent_woeid": [
+          601338, 
+          623386, 
+          629519, 
+          630087, 
+          15002880, 
+          29331652
+        ], 
+        "ne_latitude": 44.850, 
+        "ne_longitude": 0.649, 
+        "longitude": 0.635, 
+        "parent_woeid": 12652148, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Aigne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.836, 
+        "sw_longitude": 0.621, 
+        "fullname": "St.-Agne, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.822
+      }, 
+      "id": 622810
+    }
+  ]
+}

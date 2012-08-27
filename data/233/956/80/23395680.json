@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.393, 
+              45.808
+            ], 
+            [
+              -72.393, 
+              45.950
+            ], 
+            [
+              -72.203, 
+              45.950
+            ], 
+            [
+              -72.203, 
+              45.808
+            ], 
+            [
+              -72.393, 
+              45.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23395680, 
+        "name": "St.-Lucien", 
+        "adjacent_woeid": [
+          241, 
+          23394411, 
+          23394523, 
+          23395611, 
+          23396435, 
+          23396539
+        ], 
+        "ne_latitude": 45.950, 
+        "ne_longitude": -72.203, 
+        "longitude": -72.269, 
+        "parent_woeid": 29375204, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Lucien"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.875, 
+        "sw_longitude": -72.393, 
+        "fullname": "St.-Lucien, Quebec, Drummond, Canada", 
+        "sw_latitude": 45.808
+      }, 
+      "id": 23395680
+    }
+  ]
+}

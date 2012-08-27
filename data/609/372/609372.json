@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.131, 
+              48.545
+            ], 
+            [
+              3.131, 
+              48.571
+            ], 
+            [
+              3.168, 
+              48.571
+            ], 
+            [
+              3.168, 
+              48.545
+            ], 
+            [
+              3.131, 
+              48.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609372, 
+        "name": "Maison-Rouge", 
+        "adjacent_woeid": [
+          584944, 
+          588139, 
+          597556, 
+          601171, 
+          607819, 
+          630038, 
+          631263
+        ], 
+        "ne_latitude": 48.571, 
+        "ne_longitude": 3.168, 
+        "longitude": 3.153, 
+        "parent_woeid": 20075310, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Maison-Rouge-en-Brie"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.559, 
+        "sw_longitude": 3.131, 
+        "fullname": "Maison-Rouge, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.545
+      }, 
+      "id": 609372
+    }
+  ]
+}

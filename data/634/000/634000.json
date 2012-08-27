@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.262, 
+              48.265
+            ], 
+            [
+              12.262, 
+              48.275
+            ], 
+            [
+              12.275, 
+              48.275
+            ], 
+            [
+              12.275, 
+              48.265
+            ], 
+            [
+              12.262, 
+              48.265
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 634000, 
+        "name": "Allersheim", 
+        "adjacent_woeid": [
+          682411, 
+          688751, 
+          708028
+        ], 
+        "ne_latitude": 48.275, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.275, 
+        "longitude": 12.269, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:24Z", 
+        "parent_woeid": 12622754, 
+        "latitude": 48.270, 
+        "sw_longitude": 12.262, 
+        "fullname": "Allersheim, Bavaria, Landkreis M\u00fchldorf am Inn, Germany", 
+        "sw_latitude": 48.265
+      }, 
+      "id": 634000
+    }
+  ]
+}

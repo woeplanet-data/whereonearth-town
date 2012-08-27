@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.693, 
+              41.446
+            ], 
+            [
+              0.693, 
+              41.542
+            ], 
+            [
+              0.825, 
+              41.542
+            ], 
+            [
+              0.825, 
+              41.446
+            ], 
+            [
+              0.693, 
+              41.446
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.542, 
+        "name": "Castelldans", 
+        "adjacent_woeid": [
+          751649, 
+          753181, 
+          753237, 
+          757381, 
+          757797, 
+          762905, 
+          771018
+        ], 
+        "woeid": 756787, 
+        "alias_SPA_V": [
+          "Castelld\u00e1ns"
+        ], 
+        "ne_longitude": 0.825, 
+        "longitude": 0.766, 
+        "parent_woeid": 12693966, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.498, 
+        "sw_longitude": 0.693, 
+        "fullname": "Castelldans, Catalonia, Lleida, Spain", 
+        "sw_latitude": 41.446
+      }, 
+      "id": 756787
+    }
+  ]
+}

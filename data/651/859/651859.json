@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.784, 
+              49.290
+            ], 
+            [
+              10.784, 
+              49.305
+            ], 
+            [
+              10.806, 
+              49.305
+            ], 
+            [
+              10.806, 
+              49.290
+            ], 
+            [
+              10.784, 
+              49.290
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651859, 
+        "name": "Geichsenhof", 
+        "adjacent_woeid": [
+          633629, 
+          634391, 
+          656085, 
+          674340
+        ], 
+        "ne_latitude": 49.305, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.806, 
+        "longitude": 10.795, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12634415, 
+        "latitude": 49.303, 
+        "sw_longitude": 10.784, 
+        "fullname": "Geichsenhof, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.290
+      }, 
+      "id": 651859
+    }
+  ]
+}

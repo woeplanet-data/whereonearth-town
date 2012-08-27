@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.126, 
+              44.393
+            ], 
+            [
+              0.126, 
+              44.445
+            ], 
+            [
+              0.170, 
+              44.445
+            ], 
+            [
+              0.170, 
+              44.393
+            ], 
+            [
+              0.126, 
+              44.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627675, 
+        "name": "Ste.-Marthe", 
+        "adjacent_woeid": [
+          581009, 
+          583409, 
+          591791, 
+          593767, 
+          620840, 
+          20219443, 
+          29331451
+        ], 
+        "ne_latitude": 44.445, 
+        "ne_longitude": 0.170, 
+        "longitude": 0.149, 
+        "parent_woeid": 12653415, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Marthe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.416, 
+        "sw_longitude": 0.126, 
+        "fullname": "Ste.-Marthe, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.393
+      }, 
+      "id": 627675
+    }
+  ]
+}

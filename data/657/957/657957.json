@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.842, 
+              49.184
+            ], 
+            [
+              12.842, 
+              49.202
+            ], 
+            [
+              12.869, 
+              49.202
+            ], 
+            [
+              12.869, 
+              49.184
+            ], 
+            [
+              12.842, 
+              49.184
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657957, 
+        "name": "Haus", 
+        "adjacent_woeid": [
+          649611, 
+          651852, 
+          686814, 
+          695761, 
+          708722
+        ], 
+        "ne_latitude": 49.202, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.869, 
+        "longitude": 12.856, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12623075, 
+        "latitude": 49.193, 
+        "sw_longitude": 12.842, 
+        "fullname": "Haus, Bavaria, Landkreis Cham, Germany", 
+        "sw_latitude": 49.184
+      }, 
+      "id": 657957
+    }
+  ]
+}

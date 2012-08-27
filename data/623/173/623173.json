@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.150, 
+              49.366
+            ], 
+            [
+              3.150, 
+              49.388
+            ], 
+            [
+              3.215, 
+              49.388
+            ], 
+            [
+              3.215, 
+              49.366
+            ], 
+            [
+              3.150, 
+              49.366
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623173, 
+        "name": "St.-Bandry", 
+        "adjacent_woeid": [
+          575904, 
+          601886, 
+          612781, 
+          29333399
+        ], 
+        "ne_latitude": 49.388, 
+        "ne_longitude": 3.215, 
+        "longitude": 3.171, 
+        "parent_woeid": 22757649, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bandry"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.372, 
+        "sw_longitude": 3.150, 
+        "fullname": "St.-Bandry, Picardie, Aisne, France", 
+        "sw_latitude": 49.366
+      }, 
+      "id": 623173
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.791, 
+              47.881
+            ], 
+            [
+              11.791, 
+              47.901
+            ], 
+            [
+              11.812, 
+              47.901
+            ], 
+            [
+              11.812, 
+              47.881
+            ], 
+            [
+              11.791, 
+              47.881
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20172782, 
+        "name": "Mittenkirchen", 
+        "adjacent_woeid": [
+          649562, 
+          695461, 
+          696315, 
+          29346187
+        ], 
+        "ne_latitude": 47.901, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.812, 
+        "longitude": 11.803, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12635197, 
+        "latitude": 47.889, 
+        "sw_longitude": 11.791, 
+        "fullname": "Mittenkirchen, Bavaria, Landkreis Miesbach, Germany", 
+        "sw_latitude": 47.881
+      }, 
+      "id": 20172782
+    }
+  ]
+}

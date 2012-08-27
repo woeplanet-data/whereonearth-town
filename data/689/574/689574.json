@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.608, 
+              53.515
+            ], 
+            [
+              10.608, 
+              53.550
+            ], 
+            [
+              10.637, 
+              53.550
+            ], 
+            [
+              10.637, 
+              53.515
+            ], 
+            [
+              10.608, 
+              53.515
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689574, 
+        "name": "Roseburg", 
+        "adjacent_woeid": [
+          654638, 
+          662345, 
+          694724, 
+          699777, 
+          708052, 
+          20164856, 
+          29350691, 
+          29350771, 
+          29350777
+        ], 
+        "ne_latitude": 53.550, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.637, 
+        "longitude": 10.625, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12632124, 
+        "latitude": 53.532, 
+        "sw_longitude": 10.608, 
+        "fullname": "Roseburg, Schleswig-Holstein, Herzogtum Lauenburg, Germany", 
+        "sw_latitude": 53.515
+      }, 
+      "id": 689574
+    }
+  ]
+}

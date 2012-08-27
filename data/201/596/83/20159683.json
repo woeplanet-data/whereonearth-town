@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.007, 
+              48.451
+            ], 
+            [
+              10.007, 
+              48.466
+            ], 
+            [
+              10.026, 
+              48.466
+            ], 
+            [
+              10.026, 
+              48.451
+            ], 
+            [
+              10.007, 
+              48.451
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20159683, 
+        "name": "St. Moritz", 
+        "adjacent_woeid": [
+          656359, 
+          662499, 
+          664300, 
+          665570, 
+          681327, 
+          699030, 
+          708899
+        ], 
+        "ne_latitude": 48.466, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.026, 
+        "longitude": 10.014, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:27Z", 
+        "parent_woeid": 12623679, 
+        "latitude": 48.460, 
+        "sw_longitude": 10.007, 
+        "fullname": "St. Moritz, Baden-Wurttemberg, Stadtkreis Ulm, Germany", 
+        "alias_GER_V": [
+          "St Moritz"
+        ], 
+        "sw_latitude": 48.451
+      }, 
+      "id": 20159683
+    }
+  ]
+}

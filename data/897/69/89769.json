@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.043, 
+              18.196
+            ], 
+            [
+              -74.043, 
+              18.212
+            ], 
+            [
+              -74.026, 
+              18.212
+            ], 
+            [
+              -74.026, 
+              18.196
+            ], 
+            [
+              -74.043, 
+              18.196
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 89769, 
+        "name": "Coteaux", 
+        "adjacent_woeid": [
+          90705, 
+          88898, 
+          89922, 
+          96489
+        ], 
+        "ne_latitude": 18.212, 
+        "ne_longitude": -74.026, 
+        "longitude": -74.035, 
+        "parent_woeid": 2345621, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Les Coteaux"
+        ], 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.204, 
+        "sw_longitude": -74.043, 
+        "fullname": "Coteaux, Sud, Haiti", 
+        "sw_latitude": 18.196
+      }, 
+      "id": 89769
+    }
+  ]
+}

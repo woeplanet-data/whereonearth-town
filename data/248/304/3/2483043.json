@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.123, 
+              33.445
+            ], 
+            [
+              -87.123, 
+              33.512
+            ], 
+            [
+              -87.050, 
+              33.512
+            ], 
+            [
+              -87.050, 
+              33.445
+            ], 
+            [
+              -87.123, 
+              33.445
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2483043, 
+        "name": "Rock Creek", 
+        "adjacent_woeid": [
+          2383944, 
+          2401134, 
+          2425324, 
+          2493136, 
+          2503359, 
+          2506751, 
+          2512487
+        ], 
+        "ne_latitude": 33.512, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Rock Crk"
+        ], 
+        "ne_longitude": -87.050, 
+        "longitude": -87.081, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:30:57Z", 
+        "parent_woeid": 12587523, 
+        "latitude": 33.478, 
+        "sw_longitude": -87.123, 
+        "fullname": "Rock Creek, Alabama, Jefferson, United States", 
+        "sw_latitude": 33.445
+      }, 
+      "id": 2483043
+    }
+  ]
+}

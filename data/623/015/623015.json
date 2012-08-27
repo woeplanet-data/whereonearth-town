@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.244, 
+              45.161
+            ], 
+            [
+              5.244, 
+              45.198
+            ], 
+            [
+              5.277, 
+              45.198
+            ], 
+            [
+              5.277, 
+              45.161
+            ], 
+            [
+              5.244, 
+              45.161
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623015, 
+        "name": "St.-Appolinard", 
+        "adjacent_woeid": [
+          579622, 
+          585144, 
+          585735, 
+          588790, 
+          622987
+        ], 
+        "ne_latitude": 45.198, 
+        "ne_longitude": 5.277, 
+        "longitude": 5.263, 
+        "parent_woeid": 12670136, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Appolinard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.189, 
+        "sw_longitude": 5.244, 
+        "fullname": "St.-Appolinard, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.161
+      }, 
+      "id": 623015
+    }
+  ]
+}

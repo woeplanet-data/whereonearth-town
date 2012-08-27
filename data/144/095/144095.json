@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.310, 
+              25.491
+            ], 
+            [
+              -102.310, 
+              25.509
+            ], 
+            [
+              -102.290, 
+              25.509
+            ], 
+            [
+              -102.290, 
+              25.491
+            ], 
+            [
+              -102.310, 
+              25.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.509, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          114057, 
+          119431, 
+          136076, 
+          136077, 
+          142892, 
+          144144
+        ], 
+        "woeid": 144095, 
+        "alias_SPA_V": [
+          "S. Lorenzo"
+        ], 
+        "ne_longitude": -102.290, 
+        "longitude": -102.300, 
+        "parent_woeid": 12599909, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.500, 
+        "sw_longitude": -102.310, 
+        "fullname": "San Lorenzo, Coahuila de Zaragoza, Parras, Mexico", 
+        "sw_latitude": 25.491
+      }, 
+      "id": 144095
+    }
+  ]
+}

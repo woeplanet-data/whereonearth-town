@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.984, 
+              53.955
+            ], 
+            [
+              10.984, 
+              53.994
+            ], 
+            [
+              11.022, 
+              53.994
+            ], 
+            [
+              11.022, 
+              53.955
+            ], 
+            [
+              10.984, 
+              53.955
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666600, 
+        "name": "Klein Schwansee", 
+        "adjacent_woeid": [
+          654695, 
+          657318, 
+          664547, 
+          678191, 
+          20165906
+        ], 
+        "ne_latitude": 53.994, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.022, 
+        "longitude": 11.005, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12631042, 
+        "latitude": 53.977, 
+        "sw_longitude": 10.984, 
+        "fullname": "Klein Schwansee, Mecklenburg-Vorpommern, Nordwestmecklenburg, Germany", 
+        "sw_latitude": 53.955
+      }, 
+      "id": 666600
+    }
+  ]
+}

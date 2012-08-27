@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.576, 
+              13.969
+            ], 
+            [
+              -89.576, 
+              14.011
+            ], 
+            [
+              -89.532, 
+              14.011
+            ], 
+            [
+              -89.532, 
+              13.969
+            ], 
+            [
+              -89.576, 
+              13.969
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.011, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          76983, 
+          77030, 
+          77074, 
+          77435, 
+          77781, 
+          78247, 
+          79127, 
+          79145, 
+          79775, 
+          79840, 
+          80083, 
+          26809346, 
+          26809347, 
+          26809376, 
+          26809470
+        ], 
+        "woeid": 79847, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -89.532, 
+        "longitude": -89.554, 
+        "parent_woeid": 26808720, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.990, 
+        "sw_longitude": -89.576, 
+        "fullname": "Santa Ana, El Salvador", 
+        "sw_latitude": 13.969
+      }, 
+      "id": 79847
+    }
+  ]
+}

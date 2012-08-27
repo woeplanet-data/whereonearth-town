@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.133, 
+              45.786
+            ], 
+            [
+              6.133, 
+              45.803
+            ], 
+            [
+              6.156, 
+              45.803
+            ], 
+            [
+              6.156, 
+              45.786
+            ], 
+            [
+              6.133, 
+              45.786
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623958, 
+        "name": "St.-Eustache", 
+        "adjacent_woeid": [
+          589716, 
+          597545, 
+          607696, 
+          632508, 
+          20210887, 
+          20211385
+        ], 
+        "ne_latitude": 45.803, 
+        "ne_longitude": 6.156, 
+        "longitude": 6.148, 
+        "parent_woeid": 12663786, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Eustache"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.796, 
+        "sw_longitude": 6.133, 
+        "fullname": "St.-Eustache, Rhone-Alpes, Haute-Savoie, France", 
+        "sw_latitude": 45.786
+      }, 
+      "id": 623958
+    }
+  ]
+}

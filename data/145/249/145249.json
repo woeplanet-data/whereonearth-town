@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.043, 
+              21.241
+            ], 
+            [
+              -99.043, 
+              21.259
+            ], 
+            [
+              -99.024, 
+              21.259
+            ], 
+            [
+              -99.024, 
+              21.241
+            ], 
+            [
+              -99.043, 
+              21.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.259, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          111461, 
+          111629, 
+          119548, 
+          127705, 
+          130740, 
+          134430
+        ], 
+        "woeid": 145249, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -99.024, 
+        "longitude": -99.033, 
+        "parent_woeid": 12600157, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.250, 
+        "sw_longitude": -99.043, 
+        "fullname": "San Rafael, Hidalgo, Pisaflores, Mexico", 
+        "sw_latitude": 21.241
+      }, 
+      "id": 145249
+    }
+  ]
+}

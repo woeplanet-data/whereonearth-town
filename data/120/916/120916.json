@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.116, 
+              29.220
+            ], 
+            [
+              -105.116, 
+              29.238
+            ], 
+            [
+              -105.095, 
+              29.238
+            ], 
+            [
+              -105.095, 
+              29.220
+            ], 
+            [
+              -105.116, 
+              29.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.238, 
+        "name": "El Mimbre", 
+        "adjacent_woeid": [
+          121372, 
+          121734, 
+          130995, 
+          137013, 
+          137623
+        ], 
+        "woeid": 120916, 
+        "alias_SPA_V": [
+          "Mimbres"
+        ], 
+        "ne_longitude": -105.095, 
+        "longitude": -105.106, 
+        "parent_woeid": 12599835, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.229, 
+        "sw_longitude": -105.116, 
+        "fullname": "El Mimbre, Chihuahua, Coyame, Mexico", 
+        "sw_latitude": 29.220
+      }, 
+      "id": 120916
+    }
+  ]
+}

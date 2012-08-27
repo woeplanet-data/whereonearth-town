@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.233, 
+              51.548
+            ], 
+            [
+              12.233, 
+              51.571
+            ], 
+            [
+              12.259, 
+              51.571
+            ], 
+            [
+              12.259, 
+              51.548
+            ], 
+            [
+              12.233, 
+              51.548
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20162009, 
+        "name": "Serbitz", 
+        "adjacent_woeid": [
+          669682, 
+          685489, 
+          708405, 
+          709215
+        ], 
+        "ne_latitude": 51.571, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.259, 
+        "longitude": 12.246, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12625674, 
+        "latitude": 51.555, 
+        "sw_longitude": 12.233, 
+        "fullname": "Serbitz, Saxony, Landkreis Delitzsch, Germany", 
+        "sw_latitude": 51.548
+      }, 
+      "id": 20162009
+    }
+  ]
+}

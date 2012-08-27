@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.950, 
+              50.010
+            ], 
+            [
+              10.950, 
+              50.030
+            ], 
+            [
+              10.977, 
+              50.030
+            ], 
+            [
+              10.977, 
+              50.010
+            ], 
+            [
+              10.950, 
+              50.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688253, 
+        "name": "Reuthlos", 
+        "adjacent_woeid": [
+          666023, 
+          670585, 
+          681653, 
+          681946, 
+          684737, 
+          689850, 
+          701196
+        ], 
+        "ne_latitude": 50.030, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.977, 
+        "longitude": 10.967, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12635255, 
+        "latitude": 50.021, 
+        "sw_longitude": 10.950, 
+        "fullname": "Reuthlos, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 50.010
+      }, 
+      "id": 688253
+    }
+  ]
+}

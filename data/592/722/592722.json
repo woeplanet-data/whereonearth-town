@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.021, 
+              47.073
+            ], 
+            [
+              3.021, 
+              47.103
+            ], 
+            [
+              3.048, 
+              47.103
+            ], 
+            [
+              3.048, 
+              47.073
+            ], 
+            [
+              3.021, 
+              47.073
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592722, 
+        "name": "Germigny-sur-Loire", 
+        "adjacent_woeid": [
+          578968, 
+          587539, 
+          592973, 
+          610266, 
+          629456, 
+          20184848, 
+          29332750, 
+          29332770
+        ], 
+        "ne_latitude": 47.103, 
+        "ne_longitude": 3.048, 
+        "longitude": 3.038, 
+        "parent_woeid": 12641778, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Germigny"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.081, 
+        "sw_longitude": 3.021, 
+        "fullname": "Germigny-sur-Loire, Burgundy, Nievre, France", 
+        "sw_latitude": 47.073
+      }, 
+      "id": 592722
+    }
+  ]
+}

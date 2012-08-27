@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.764, 
+              48.740
+            ], 
+            [
+              12.764, 
+              48.766
+            ], 
+            [
+              12.793, 
+              48.766
+            ], 
+            [
+              12.793, 
+              48.740
+            ], 
+            [
+              12.764, 
+              48.740
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657911, 
+        "name": "Haunersdorf", 
+        "adjacent_woeid": [
+          635464, 
+          669838, 
+          676137, 
+          707584
+        ], 
+        "ne_latitude": 48.766, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.793, 
+        "longitude": 12.782, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12622847, 
+        "latitude": 48.752, 
+        "sw_longitude": 12.764, 
+        "fullname": "Haunersdorf, Bavaria, Landkreis Deggendorf, Germany", 
+        "sw_latitude": 48.740
+      }, 
+      "id": 657911
+    }
+  ]
+}

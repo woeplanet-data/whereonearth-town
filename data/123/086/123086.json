@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.372, 
+              22.410
+            ], 
+            [
+              -105.372, 
+              22.428
+            ], 
+            [
+              -105.352, 
+              22.428
+            ], 
+            [
+              -105.352, 
+              22.410
+            ], 
+            [
+              -105.372, 
+              22.410
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.428, 
+        "name": "El Zapote", 
+        "adjacent_woeid": [
+          112005, 
+          122039, 
+          124483, 
+          131185, 
+          136628, 
+          142584
+        ], 
+        "woeid": 123086, 
+        "alias_SPA_V": [
+          "Zapote"
+        ], 
+        "ne_longitude": -105.352, 
+        "longitude": -105.362, 
+        "parent_woeid": 12600586, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.419, 
+        "sw_longitude": -105.372, 
+        "fullname": "El Zapote, Nayarit, Acaponeta, Mexico", 
+        "sw_latitude": 22.410
+      }, 
+      "id": 123086
+    }
+  ]
+}

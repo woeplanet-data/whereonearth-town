@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.644, 
+              27.124
+            ], 
+            [
+              -108.644, 
+              27.142
+            ], 
+            [
+              -108.623, 
+              27.142
+            ], 
+            [
+              -108.623, 
+              27.124
+            ], 
+            [
+              -108.644, 
+              27.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.142, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          111859, 
+          112842, 
+          116677, 
+          133616, 
+          144926
+        ], 
+        "woeid": 141529, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -108.623, 
+        "longitude": -108.633, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.133, 
+        "sw_longitude": -108.644, 
+        "fullname": "San Antonio, Sonora, Alamos, Mexico", 
+        "sw_latitude": 27.124
+      }, 
+      "id": 141529
+    }
+  ]
+}

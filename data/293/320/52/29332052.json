@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.015, 
+              45.599
+            ], 
+            [
+              1.015, 
+              45.617
+            ], 
+            [
+              1.041, 
+              45.617
+            ], 
+            [
+              1.041, 
+              45.599
+            ], 
+            [
+              1.015, 
+              45.599
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332052, 
+        "name": "La Gare", 
+        "adjacent_woeid": [
+          582463, 
+          589122, 
+          590996, 
+          626070, 
+          626430, 
+          29332855
+        ], 
+        "ne_latitude": 45.617, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.041, 
+        "longitude": 1.028, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 20074932, 
+        "latitude": 45.608, 
+        "sw_longitude": 1.015, 
+        "fullname": "La Gare, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.599
+      }, 
+      "id": 29332052
+    }
+  ]
+}

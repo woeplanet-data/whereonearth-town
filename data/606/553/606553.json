@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.347, 
+              49.688
+            ], 
+            [
+              1.347, 
+              49.716
+            ], 
+            [
+              1.385, 
+              49.716
+            ], 
+            [
+              1.385, 
+              49.688
+            ], 
+            [
+              1.347, 
+              49.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 606553, 
+        "name": "Les Hayons", 
+        "adjacent_woeid": [
+          580852, 
+          582355, 
+          589973, 
+          610484, 
+          610532
+        ], 
+        "ne_latitude": 49.716, 
+        "ne_longitude": 1.385, 
+        "longitude": 1.367, 
+        "parent_woeid": 12643421, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Hayons"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.700, 
+        "sw_longitude": 1.347, 
+        "fullname": "Les Hayons, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.688
+      }, 
+      "id": 606553
+    }
+  ]
+}

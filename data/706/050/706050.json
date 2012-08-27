@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.208, 
+              50.350
+            ], 
+            [
+              8.208, 
+              50.379
+            ], 
+            [
+              8.245, 
+              50.379
+            ], 
+            [
+              8.245, 
+              50.350
+            ], 
+            [
+              8.208, 
+              50.350
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706050, 
+        "name": "Weyer", 
+        "adjacent_woeid": [
+          636139, 
+          676852, 
+          680930, 
+          694177
+        ], 
+        "ne_latitude": 50.379, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.245, 
+        "longitude": 8.224, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12632693, 
+        "latitude": 50.366, 
+        "sw_longitude": 8.208, 
+        "fullname": "Weyer, Hesse, Limburg-Weilburg, Germany", 
+        "sw_latitude": 50.350
+      }, 
+      "id": 706050
+    }
+  ]
+}

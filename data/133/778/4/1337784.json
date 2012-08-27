@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -10.567, 
+              9.922
+            ], 
+            [
+              -10.567, 
+              9.938
+            ], 
+            [
+              -10.551, 
+              9.938
+            ], 
+            [
+              -10.551, 
+              9.922
+            ], 
+            [
+              -10.567, 
+              9.922
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1337784, 
+        "name": "Nialia", 
+        "adjacent_woeid": [
+          1334268, 
+          1335222, 
+          1335727, 
+          1337176, 
+          1339185, 
+          1486918
+        ], 
+        "ne_latitude": 9.938, 
+        "ne_longitude": -10.551, 
+        "longitude": -10.559, 
+        "parent_woeid": 56060948, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Niala"
+        ], 
+        "iso": "GN", 
+        "date_indexed": "2010-12-02T16:11:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.930, 
+        "sw_longitude": -10.567, 
+        "fullname": "Nialia, Faranah, Faranah, Guinea", 
+        "sw_latitude": 9.922
+      }, 
+      "id": 1337784
+    }
+  ]
+}

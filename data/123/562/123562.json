@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.875, 
+              20.522
+            ], 
+            [
+              -100.875, 
+              20.540
+            ], 
+            [
+              -100.856, 
+              20.540
+            ], 
+            [
+              -100.856, 
+              20.522
+            ], 
+            [
+              -100.875, 
+              20.522
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123562, 
+        "name": "Estrada", 
+        "adjacent_woeid": [
+          119216, 
+          123116, 
+          133329, 
+          150918, 
+          151465, 
+          55883083, 
+          55883357, 
+          55883503, 
+          55887486, 
+          55889213, 
+          55891242, 
+          55893229
+        ], 
+        "ne_latitude": 20.540, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -100.856, 
+        "longitude": -100.866, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "parent_woeid": 12599995, 
+        "latitude": 20.531, 
+        "sw_longitude": -100.875, 
+        "fullname": "Estrada, Guanajuato, Celaya, Mexico", 
+        "sw_latitude": 20.522
+      }, 
+      "id": 123562
+    }
+  ]
+}

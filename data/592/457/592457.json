@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.983, 
+              43.782
+            ], 
+            [
+              3.983, 
+              43.818
+            ], 
+            [
+              4.033, 
+              43.818
+            ], 
+            [
+              4.033, 
+              43.782
+            ], 
+            [
+              3.983, 
+              43.782
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592457, 
+        "name": "Garrigues", 
+        "adjacent_woeid": [
+          576898, 
+          582814, 
+          583097, 
+          592346
+        ], 
+        "ne_latitude": 43.818, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.033, 
+        "longitude": 4.014, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12661948, 
+        "latitude": 43.795, 
+        "sw_longitude": 3.983, 
+        "fullname": "Garrigues, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.782
+      }, 
+      "id": 592457
+    }
+  ]
+}

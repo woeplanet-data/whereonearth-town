@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.284, 
+              32.654
+            ], 
+            [
+              -116.284, 
+              32.673
+            ], 
+            [
+              -116.262, 
+              32.673
+            ], 
+            [
+              -116.262, 
+              32.654
+            ], 
+            [
+              -116.284, 
+              32.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2367264, 
+        "name": "Boulevard", 
+        "adjacent_woeid": [
+          2358965, 
+          2367032, 
+          2374087, 
+          2428427, 
+          2430214, 
+          2455076, 
+          2467679, 
+          2506723
+        ], 
+        "ne_latitude": 32.673, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -116.262, 
+        "longitude": -116.273, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:34:39Z", 
+        "parent_woeid": 12587706, 
+        "latitude": 32.664, 
+        "sw_longitude": -116.284, 
+        "fullname": "Boulevard, California, San Diego, United States", 
+        "sw_latitude": 32.654
+      }, 
+      "id": 2367264
+    }
+  ]
+}

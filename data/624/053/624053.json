@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.720, 
+              45.472
+            ], 
+            [
+              5.720, 
+              45.513
+            ], 
+            [
+              5.764, 
+              45.513
+            ], 
+            [
+              5.764, 
+              45.472
+            ], 
+            [
+              5.720, 
+              45.472
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624053, 
+        "name": "St.-Franc", 
+        "adjacent_woeid": [
+          596812, 
+          611638, 
+          626432, 
+          632583
+        ], 
+        "ne_latitude": 45.513, 
+        "ne_longitude": 5.764, 
+        "longitude": 5.748, 
+        "parent_woeid": 12670421, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Franc"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.494, 
+        "sw_longitude": 5.720, 
+        "fullname": "St.-Franc, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.472
+      }, 
+      "id": 624053
+    }
+  ]
+}

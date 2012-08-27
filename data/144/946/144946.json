@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.127, 
+              25.358
+            ], 
+            [
+              -100.127, 
+              25.376
+            ], 
+            [
+              -100.107, 
+              25.376
+            ], 
+            [
+              -100.107, 
+              25.358
+            ], 
+            [
+              -100.127, 
+              25.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.376, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          116396, 
+          119184, 
+          137276, 
+          150850
+        ], 
+        "woeid": 144946, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -100.107, 
+        "longitude": -100.118, 
+        "parent_woeid": 12600654, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.368, 
+        "sw_longitude": -100.127, 
+        "fullname": "San Pedro, Nuevo Leon, Santiago, Mexico", 
+        "sw_latitude": 25.358
+      }, 
+      "id": 144946
+    }
+  ]
+}

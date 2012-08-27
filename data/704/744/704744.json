@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.485, 
+              48.070
+            ], 
+            [
+              8.485, 
+              48.100
+            ], 
+            [
+              8.526, 
+              48.100
+            ], 
+            [
+              8.526, 
+              48.070
+            ], 
+            [
+              8.485, 
+              48.070
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704744, 
+        "name": "Weilersbach", 
+        "adjacent_woeid": [
+          664834, 
+          680442, 
+          681148
+        ], 
+        "ne_latitude": 48.100, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.526, 
+        "longitude": 8.501, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12623475, 
+        "latitude": 48.096, 
+        "sw_longitude": 8.485, 
+        "fullname": "Weilersbach, Baden-Wurttemberg, Schwarzwald-Baar-Kreis, Germany", 
+        "sw_latitude": 48.070
+      }, 
+      "id": 704744
+    }
+  ]
+}

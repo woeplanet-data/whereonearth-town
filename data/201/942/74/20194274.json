@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.399, 
+              43.512
+            ], 
+            [
+              2.399, 
+              43.522
+            ], 
+            [
+              2.411, 
+              43.522
+            ], 
+            [
+              2.411, 
+              43.512
+            ], 
+            [
+              2.399, 
+              43.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20194274, 
+        "name": "St.-Baudille", 
+        "adjacent_woeid": [
+          604997, 
+          20194264, 
+          20194271, 
+          20194273
+        ], 
+        "ne_latitude": 43.522, 
+        "ne_longitude": 2.411, 
+        "longitude": 2.405, 
+        "parent_woeid": 12668391, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Baudille"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.518, 
+        "sw_longitude": 2.399, 
+        "fullname": "St.-Baudille, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.512
+      }, 
+      "id": 20194274
+    }
+  ]
+}

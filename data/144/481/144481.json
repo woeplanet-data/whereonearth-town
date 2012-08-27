@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.544, 
+              27.358
+            ], 
+            [
+              -108.544, 
+              27.376
+            ], 
+            [
+              -108.523, 
+              27.376
+            ], 
+            [
+              -108.523, 
+              27.358
+            ], 
+            [
+              -108.544, 
+              27.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.376, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          111859, 
+          113275, 
+          116071, 
+          129626, 
+          130171
+        ], 
+        "woeid": 144481, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -108.523, 
+        "longitude": -108.533, 
+        "parent_woeid": 12599833, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.367, 
+        "sw_longitude": -108.544, 
+        "fullname": "San Miguel, Chihuahua, Chinipas, Mexico", 
+        "sw_latitude": 27.358
+      }, 
+      "id": 144481
+    }
+  ]
+}

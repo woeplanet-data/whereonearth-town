@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.727, 
+              23.141
+            ], 
+            [
+              -109.727, 
+              23.159
+            ], 
+            [
+              -109.707, 
+              23.159
+            ], 
+            [
+              -109.707, 
+              23.141
+            ], 
+            [
+              -109.727, 
+              23.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.159, 
+        "name": "Santa Anita", 
+        "adjacent_woeid": [
+          121341, 
+          122329, 
+          128602, 
+          145802, 
+          55897383, 
+          55897384
+        ], 
+        "woeid": 145721, 
+        "alias_SPA_V": [
+          "Sta. Anita"
+        ], 
+        "ne_longitude": -109.707, 
+        "longitude": -109.717, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.150, 
+        "sw_longitude": -109.727, 
+        "fullname": "Santa Anita, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 23.141
+      }, 
+      "id": 145721
+    }
+  ]
+}

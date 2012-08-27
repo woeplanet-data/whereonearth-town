@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.277, 
+              29.991
+            ], 
+            [
+              -110.277, 
+              30.009
+            ], 
+            [
+              -110.256, 
+              30.009
+            ], 
+            [
+              -110.256, 
+              29.991
+            ], 
+            [
+              -110.277, 
+              29.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.009, 
+        "name": "Las Delicias", 
+        "adjacent_woeid": [
+          113030, 
+          135297, 
+          140878, 
+          146358, 
+          147619
+        ], 
+        "woeid": 130295, 
+        "alias_SPA_V": [
+          "Delicias"
+        ], 
+        "ne_longitude": -110.256, 
+        "longitude": -110.267, 
+        "parent_woeid": 12601557, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.000, 
+        "sw_longitude": -110.277, 
+        "fullname": "Las Delicias, Sonora, Banamichi, Mexico", 
+        "sw_latitude": 29.991
+      }, 
+      "id": 130295
+    }
+  ]
+}

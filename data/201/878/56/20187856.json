@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.262, 
+              49.299
+            ], 
+            [
+              1.262, 
+              49.308
+            ], 
+            [
+              1.278, 
+              49.308
+            ], 
+            [
+              1.278, 
+              49.299
+            ], 
+            [
+              1.262, 
+              49.299
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20187856, 
+        "name": "Le Plessis", 
+        "adjacent_woeid": [
+          575958, 
+          591179, 
+          621759
+        ], 
+        "ne_latitude": 49.308, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.278, 
+        "longitude": 1.269, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12637023, 
+        "latitude": 49.304, 
+        "sw_longitude": 1.262, 
+        "fullname": "Le Plessis, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.299
+      }, 
+      "id": 20187856
+    }
+  ]
+}

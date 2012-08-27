@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.054, 
+              18.663
+            ], 
+            [
+              -97.054, 
+              18.681
+            ], 
+            [
+              -97.035, 
+              18.681
+            ], 
+            [
+              -97.035, 
+              18.663
+            ], 
+            [
+              -97.054, 
+              18.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.681, 
+        "name": "Los Reyes", 
+        "adjacent_woeid": [
+          112632, 
+          112637, 
+          132662, 
+          149030, 
+          149203, 
+          151781
+        ], 
+        "woeid": 132375, 
+        "alias_SPA_V": [
+          "Reyes"
+        ], 
+        "ne_longitude": -97.035, 
+        "longitude": -97.044, 
+        "parent_woeid": 12601820, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.672, 
+        "sw_longitude": -97.054, 
+        "fullname": "Los Reyes, Veracruz-Llave, Los Reyes, Mexico", 
+        "sw_latitude": 18.663
+      }, 
+      "id": 132375
+    }
+  ]
+}

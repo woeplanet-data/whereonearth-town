@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.059, 
+              15.641
+            ], 
+            [
+              -92.059, 
+              15.659
+            ], 
+            [
+              -92.041, 
+              15.659
+            ], 
+            [
+              -92.041, 
+              15.641
+            ], 
+            [
+              -92.059, 
+              15.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.659, 
+        "name": "Monte Redondo", 
+        "adjacent_woeid": [
+          121566, 
+          124360, 
+          125287, 
+          134939, 
+          136192, 
+          146722
+        ], 
+        "woeid": 134010, 
+        "alias_SPA_V": [
+          "Mte Redondo"
+        ], 
+        "ne_longitude": -92.041, 
+        "longitude": -92.051, 
+        "parent_woeid": 12599741, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.651, 
+        "sw_longitude": -92.059, 
+        "fullname": "Monte Redondo, Chiapas, Frontera Comalapa, Mexico", 
+        "sw_latitude": 15.641
+      }, 
+      "id": 134010
+    }
+  ]
+}

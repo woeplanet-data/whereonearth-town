@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.090, 
+              49.905
+            ], 
+            [
+              10.090, 
+              49.942
+            ], 
+            [
+              10.130, 
+              49.942
+            ], 
+            [
+              10.130, 
+              49.905
+            ], 
+            [
+              10.090, 
+              49.905
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658567, 
+        "name": "Heiligenthal", 
+        "adjacent_woeid": [
+          644792, 
+          648845, 
+          683302
+        ], 
+        "ne_latitude": 49.942, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.130, 
+        "longitude": 10.117, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12635430, 
+        "latitude": 49.917, 
+        "sw_longitude": 10.090, 
+        "fullname": "Heiligenthal, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.905
+      }, 
+      "id": 658567
+    }
+  ]
+}

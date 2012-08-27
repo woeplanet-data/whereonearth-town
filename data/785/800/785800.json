@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.629, 
+              49.271
+            ], 
+            [
+              16.629, 
+              49.318
+            ], 
+            [
+              16.699, 
+              49.318
+            ], 
+            [
+              16.699, 
+              49.271
+            ], 
+            [
+              16.629, 
+              49.271
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "CZE", 
+        "woeid": 785800, 
+        "name": "Adamov", 
+        "adjacent_woeid": [
+          785900, 
+          786225, 
+          786869, 
+          789150, 
+          792169, 
+          795430, 
+          801157
+        ], 
+        "ne_latitude": 49.318, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.699, 
+        "longitude": 16.662, 
+        "placetype": "Town", 
+        "alias_CZE_V": [
+          "Adamsthal"
+        ], 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:55:34Z", 
+        "parent_woeid": 12605124, 
+        "latitude": 49.296, 
+        "sw_longitude": 16.629, 
+        "fullname": "Adamov, Jihomoravsk\u00fd, Blansko, Czech Republic", 
+        "sw_latitude": 49.271
+      }, 
+      "id": 785800
+    }
+  ]
+}

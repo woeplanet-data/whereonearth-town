@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.012, 
+              43.845
+            ], 
+            [
+              2.012, 
+              43.881
+            ], 
+            [
+              2.064, 
+              43.881
+            ], 
+            [
+              2.064, 
+              43.845
+            ], 
+            [
+              2.012, 
+              43.845
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003184, 
+        "name": "Aussac", 
+        "adjacent_woeid": [
+          582598, 
+          590798, 
+          591203, 
+          620120
+        ], 
+        "ne_latitude": 43.881, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.064, 
+        "longitude": 2.041, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12673148, 
+        "latitude": 43.865, 
+        "sw_longitude": 2.012, 
+        "fullname": "Aussac, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.845
+      }, 
+      "id": 15003184
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.447, 
+              52.332
+            ], 
+            [
+              0.447, 
+              52.373
+            ], 
+            [
+              0.474, 
+              52.373
+            ], 
+            [
+              0.474, 
+              52.332
+            ], 
+            [
+              0.447, 
+              52.332
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 39785, 
+        "name": "West Row", 
+        "adjacent_woeid": [
+          12183, 
+          24572, 
+          28951, 
+          32853, 
+          39786, 
+          41131
+        ], 
+        "ne_latitude": 52.373, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.474, 
+        "longitude": 0.463, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:20Z", 
+        "parent_woeid": 12696081, 
+        "latitude": 52.352, 
+        "sw_longitude": 0.447, 
+        "fullname": "West Row, England, Suffolk, United Kingdom", 
+        "sw_latitude": 52.332
+      }, 
+      "id": 39785
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.070, 
+              48.535
+            ], 
+            [
+              0.070, 
+              48.583
+            ], 
+            [
+              0.118, 
+              48.583
+            ], 
+            [
+              0.118, 
+              48.535
+            ], 
+            [
+              0.070, 
+              48.535
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602175, 
+        "name": "Le Bouillon", 
+        "adjacent_woeid": [
+          591451, 
+          597517, 
+          598141, 
+          618717, 
+          624410, 
+          626088, 
+          628046, 
+          632355, 
+          20184097
+        ], 
+        "ne_latitude": 48.583, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.118, 
+        "longitude": 0.102, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12647201, 
+        "latitude": 48.562, 
+        "sw_longitude": 0.070, 
+        "fullname": "Le Bouillon, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.535
+      }, 
+      "id": 602175
+    }
+  ]
+}

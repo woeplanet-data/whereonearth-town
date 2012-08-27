@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.100, 
+              39.720
+            ], 
+            [
+              -77.100, 
+              39.804
+            ], 
+            [
+              -76.999, 
+              39.804
+            ], 
+            [
+              -76.999, 
+              39.720
+            ], 
+            [
+              -77.100, 
+              39.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745552, 
+        "name": "Union", 
+        "adjacent_woeid": [
+          2370814, 
+          2379162, 
+          2390326, 
+          2470334, 
+          2517373, 
+          28745176, 
+          55864870
+        ], 
+        "ne_latitude": 39.804, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Union Township"
+        ], 
+        "ne_longitude": -76.999, 
+        "longitude": -77.035, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589728, 
+        "latitude": 39.757, 
+        "sw_longitude": -77.100, 
+        "fullname": "Union, Pennsylvania, Adams, United States", 
+        "sw_latitude": 39.720
+      }, 
+      "id": 28745552
+    }
+  ]
+}

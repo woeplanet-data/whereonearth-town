@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.073, 
+              47.515
+            ], 
+            [
+              12.073, 
+              47.534
+            ], 
+            [
+              12.100, 
+              47.534
+            ], 
+            [
+              12.100, 
+              47.515
+            ], 
+            [
+              12.073, 
+              47.515
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551004, 
+        "name": "Oberlangkampfen", 
+        "adjacent_woeid": [
+          550430, 
+          550488, 
+          550888, 
+          550963
+        ], 
+        "ne_latitude": 47.534, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.100, 
+        "longitude": 12.087, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675522, 
+        "latitude": 47.524, 
+        "sw_longitude": 12.073, 
+        "fullname": "Oberlangkampfen, Tyrol, Kufstein, Austria", 
+        "sw_latitude": 47.515
+      }, 
+      "id": 551004
+    }
+  ]
+}

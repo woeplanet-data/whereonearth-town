@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.543, 
+              25.424
+            ], 
+            [
+              -99.543, 
+              25.442
+            ], 
+            [
+              -99.523, 
+              25.442
+            ], 
+            [
+              -99.523, 
+              25.424
+            ], 
+            [
+              -99.543, 
+              25.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.442, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          119578, 
+          120002, 
+          120183, 
+          121936, 
+          123249, 
+          146120
+        ], 
+        "woeid": 144943, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -99.523, 
+        "longitude": -99.533, 
+        "parent_woeid": 12600625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.433, 
+        "sw_longitude": -99.543, 
+        "fullname": "San Pedro, Nuevo Leon, General Teran, Mexico", 
+        "sw_latitude": 25.424
+      }, 
+      "id": 144943
+    }
+  ]
+}

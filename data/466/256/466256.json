@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -55.175, 
+              -26.990
+            ], 
+            [
+              -55.175, 
+              -26.976
+            ], 
+            [
+              -55.159, 
+              -26.976
+            ], 
+            [
+              -55.159, 
+              -26.990
+            ], 
+            [
+              -55.175, 
+              -26.990
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -26.976, 
+        "name": "Puerto Leoni", 
+        "adjacent_woeid": [
+          465274, 
+          465281, 
+          466260, 
+          466277, 
+          466416, 
+          467276
+        ], 
+        "woeid": 466256, 
+        "alias_SPA_V": [
+          "Pto Leoni"
+        ], 
+        "ne_longitude": -55.159, 
+        "longitude": -55.162, 
+        "parent_woeid": 20070723, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -26.985, 
+        "sw_longitude": -55.175, 
+        "fullname": "Puerto Leoni, Misiones, Lib Gral San Martin, Argentina", 
+        "sw_latitude": -26.990
+      }, 
+      "id": 466256
+    }
+  ]
+}

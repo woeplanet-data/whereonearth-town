@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.104, 
+              46.721
+            ], 
+            [
+              8.104, 
+              46.739
+            ], 
+            [
+              8.131, 
+              46.739
+            ], 
+            [
+              8.131, 
+              46.721
+            ], 
+            [
+              8.104, 
+              46.721
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28997133, 
+        "name": "Zaun", 
+        "adjacent_woeid": [
+          781953, 
+          782642, 
+          782905, 
+          782941, 
+          783588, 
+          20100785, 
+          20104153, 
+          20104544
+        ], 
+        "ne_latitude": 46.739, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.131, 
+        "longitude": 8.118, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:52Z", 
+        "parent_woeid": 12683061, 
+        "latitude": 46.730, 
+        "sw_longitude": 8.104, 
+        "fullname": "Zaun, Canton of Berne, Oberhasli, Switzerland", 
+        "sw_latitude": 46.721
+      }, 
+      "id": 28997133
+    }
+  ]
+}

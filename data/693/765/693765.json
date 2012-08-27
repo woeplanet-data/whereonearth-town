@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.082, 
+              51.182
+            ], 
+            [
+              10.082, 
+              51.216
+            ], 
+            [
+              10.119, 
+              51.216
+            ], 
+            [
+              10.119, 
+              51.182
+            ], 
+            [
+              10.082, 
+              51.182
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693765, 
+        "name": "Schwebda", 
+        "adjacent_woeid": [
+          650646, 
+          665373, 
+          679428
+        ], 
+        "ne_latitude": 51.216, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.119, 
+        "longitude": 10.102, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12632860, 
+        "latitude": 51.195, 
+        "sw_longitude": 10.082, 
+        "fullname": "Schwebda, Hesse, Werra-Mei\u00dfner-Kreis, Germany", 
+        "sw_latitude": 51.182
+      }, 
+      "id": 693765
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.531, 
+              53.789
+            ], 
+            [
+              10.531, 
+              53.799
+            ], 
+            [
+              10.547, 
+              53.799
+            ], 
+            [
+              10.547, 
+              53.789
+            ], 
+            [
+              10.531, 
+              53.789
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20164669, 
+        "name": "Scharberg", 
+        "adjacent_woeid": [
+          654681, 
+          666589, 
+          20164556, 
+          20164616
+        ], 
+        "ne_latitude": 53.799, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.547, 
+        "longitude": 10.539, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:52Z", 
+        "parent_woeid": 12631894, 
+        "latitude": 53.794, 
+        "sw_longitude": 10.531, 
+        "fullname": "Scharberg, Schleswig-Holstein, Stormarn, Germany", 
+        "sw_latitude": 53.789
+      }, 
+      "id": 20164669
+    }
+  ]
+}

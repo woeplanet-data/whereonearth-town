@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.699, 
+              47.359
+            ], 
+            [
+              15.699, 
+              47.378
+            ], 
+            [
+              15.726, 
+              47.378
+            ], 
+            [
+              15.726, 
+              47.359
+            ], 
+            [
+              15.699, 
+              47.359
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23406073, 
+        "name": "Gremschlag", 
+        "adjacent_woeid": [
+          548112, 
+          548625, 
+          23406002, 
+          23406065
+        ], 
+        "ne_latitude": 47.378, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.726, 
+        "longitude": 15.713, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12674910, 
+        "latitude": 47.369, 
+        "sw_longitude": 15.699, 
+        "fullname": "Gremschlag, Styria, Weiz, Austria", 
+        "sw_latitude": 47.359
+      }, 
+      "id": 23406073
+    }
+  ]
+}

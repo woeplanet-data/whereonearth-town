@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.194, 
+              29.758
+            ], 
+            [
+              -110.194, 
+              29.776
+            ], 
+            [
+              -110.173, 
+              29.776
+            ], 
+            [
+              -110.173, 
+              29.758
+            ], 
+            [
+              -110.194, 
+              29.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.776, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          113283, 
+          126385, 
+          126736, 
+          127350, 
+          127500, 
+          137751
+        ], 
+        "woeid": 144815, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -110.173, 
+        "longitude": -110.183, 
+        "parent_woeid": 12601545, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.767, 
+        "sw_longitude": -110.194, 
+        "fullname": "San Pablo, Sonora, Aconchi, Mexico", 
+        "sw_latitude": 29.758
+      }, 
+      "id": 144815
+    }
+  ]
+}

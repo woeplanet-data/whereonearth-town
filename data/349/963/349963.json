@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.122, 
+              -36.843
+            ], 
+            [
+              -73.122, 
+              -36.824
+            ], 
+            [
+              -73.098, 
+              -36.824
+            ], 
+            [
+              -73.098, 
+              -36.843
+            ], 
+            [
+              -73.122, 
+              -36.843
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -36.824, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          347846, 
+          349860, 
+          349879, 
+          350001, 
+          350095, 
+          350401, 
+          28358234
+        ], 
+        "woeid": 349963, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -73.098, 
+        "longitude": -73.110, 
+        "parent_woeid": 26794109, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -36.834, 
+        "sw_longitude": -73.122, 
+        "fullname": "San Pedro, Biobio Region, Concepcion Province, Chile", 
+        "sw_latitude": -36.843
+      }, 
+      "id": 349963
+    }
+  ]
+}

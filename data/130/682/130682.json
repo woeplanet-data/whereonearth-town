@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.351, 
+              26.405
+            ], 
+            [
+              -105.351, 
+              26.419
+            ], 
+            [
+              -105.335, 
+              26.419
+            ], 
+            [
+              -105.335, 
+              26.405
+            ], 
+            [
+              -105.351, 
+              26.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.419, 
+        "name": "Las Nieves", 
+        "adjacent_woeid": [
+          114707, 
+          126867, 
+          140907, 
+          143813, 
+          150836, 
+          150878, 
+          55920296
+        ], 
+        "woeid": 130682, 
+        "alias_SPA_V": [
+          "Nieves"
+        ], 
+        "ne_longitude": -105.335, 
+        "longitude": -105.343, 
+        "parent_woeid": 12599968, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.412, 
+        "sw_longitude": -105.351, 
+        "fullname": "Las Nieves, Durango, Ocampo, Mexico", 
+        "sw_latitude": 26.405
+      }, 
+      "id": 130682
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.962, 
+              42.172
+            ], 
+            [
+              -1.962, 
+              42.266
+            ], 
+            [
+              -1.862, 
+              42.266
+            ], 
+            [
+              -1.862, 
+              42.172
+            ], 
+            [
+              -1.962, 
+              42.172
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.266, 
+        "name": "Aldeanueva de Ebro", 
+        "adjacent_woeid": [
+          752040, 
+          753312, 
+          753384, 
+          755451, 
+          771878
+        ], 
+        "woeid": 751937, 
+        "alias_SPA_V": [
+          "Aldenueva de Ebro"
+        ], 
+        "ne_longitude": -1.862, 
+        "longitude": -1.880, 
+        "parent_woeid": 12687779, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:08:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.228, 
+        "sw_longitude": -1.962, 
+        "fullname": "Aldeanueva de Ebro, La Rioja, Rioja, Spain", 
+        "sw_latitude": 42.172
+      }, 
+      "id": 751937
+    }
+  ]
+}

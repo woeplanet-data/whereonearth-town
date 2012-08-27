@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.117, 
+              32.512
+            ], 
+            [
+              -92.117, 
+              32.530
+            ], 
+            [
+              -92.095, 
+              32.530
+            ], 
+            [
+              -92.095, 
+              32.512
+            ], 
+            [
+              -92.117, 
+              32.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28338831, 
+        "name": "Northeast", 
+        "adjacent_woeid": [
+          2389986, 
+          2405324, 
+          2444093, 
+          2481006
+        ], 
+        "ne_latitude": 32.530, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -92.095, 
+        "longitude": -92.106, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:34:08Z", 
+        "parent_woeid": 12588632, 
+        "latitude": 32.521, 
+        "sw_longitude": -92.117, 
+        "fullname": "Northeast, Louisiana, Ouachita Parish, United States", 
+        "sw_latitude": 32.512
+      }, 
+      "id": 28338831
+    }
+  ]
+}

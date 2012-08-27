@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.243, 
+              17.258
+            ], 
+            [
+              -98.243, 
+              17.276
+            ], 
+            [
+              -98.224, 
+              17.276
+            ], 
+            [
+              -98.224, 
+              17.258
+            ], 
+            [
+              -98.243, 
+              17.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.276, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          144392, 
+          144666, 
+          146455, 
+          147039, 
+          149370, 
+          149638
+        ], 
+        "woeid": 145998, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -98.224, 
+        "longitude": -98.233, 
+        "parent_woeid": 12600676, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.267, 
+        "sw_longitude": -98.243, 
+        "fullname": "Santa Cruz, Oaxaca, Coicoyan de Las Flores, Mexico", 
+        "sw_latitude": 17.258
+      }, 
+      "id": 145998
+    }
+  ]
+}

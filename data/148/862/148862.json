@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.103, 
+              20.235
+            ], 
+            [
+              -99.103, 
+              20.259
+            ], 
+            [
+              -99.080, 
+              20.259
+            ], 
+            [
+              -99.080, 
+              20.235
+            ], 
+            [
+              -99.103, 
+              20.235
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.259, 
+        "name": "Tepatepec", 
+        "adjacent_woeid": [
+          120861, 
+          129864, 
+          145381, 
+          151218, 
+          151428
+        ], 
+        "woeid": 148862, 
+        "alias_SPA_V": [
+          "Tepactepec"
+        ], 
+        "ne_longitude": -99.080, 
+        "longitude": -99.092, 
+        "parent_woeid": 12600132, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.247, 
+        "sw_longitude": -99.103, 
+        "fullname": "Tepatepec, Hidalgo, Francisco I. Madero, Mexico", 
+        "sw_latitude": 20.235
+      }, 
+      "id": 148862
+    }
+  ]
+}

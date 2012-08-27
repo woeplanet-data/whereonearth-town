@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.586, 
+              50.535
+            ], 
+            [
+              10.586, 
+              50.579
+            ], 
+            [
+              10.620, 
+              50.579
+            ], 
+            [
+              10.620, 
+              50.535
+            ], 
+            [
+              10.586, 
+              50.535
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682320, 
+        "name": "Oberstadt", 
+        "adjacent_woeid": [
+          644703, 
+          655360, 
+          659049, 
+          673947, 
+          692400, 
+          698474
+        ], 
+        "ne_latitude": 50.579, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.620, 
+        "longitude": 10.598, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12625118, 
+        "latitude": 50.555, 
+        "sw_longitude": 10.586, 
+        "fullname": "Oberstadt, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.535
+      }, 
+      "id": 682320
+    }
+  ]
+}

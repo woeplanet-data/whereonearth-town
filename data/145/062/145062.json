@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.876, 
+              19.891
+            ], 
+            [
+              -99.876, 
+              19.909
+            ], 
+            [
+              -99.857, 
+              19.909
+            ], 
+            [
+              -99.857, 
+              19.891
+            ], 
+            [
+              -99.876, 
+              19.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.909, 
+        "name": "San Pedro de los Metates", 
+        "adjacent_woeid": [
+          110963, 
+          112677, 
+          118334, 
+          136265, 
+          137641, 
+          141472, 
+          145078, 
+          147234
+        ], 
+        "woeid": 145062, 
+        "alias_SPA_V": [
+          "S Pedro de los Metates"
+        ], 
+        "ne_longitude": -99.857, 
+        "longitude": -99.867, 
+        "parent_woeid": 12600318, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.900, 
+        "sw_longitude": -99.876, 
+        "fullname": "San Pedro de los Metates, Mexico, Acambay, Mexico", 
+        "sw_latitude": 19.891
+      }, 
+      "id": 145062
+    }
+  ]
+}

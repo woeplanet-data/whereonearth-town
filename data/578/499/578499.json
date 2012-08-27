@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.040, 
+              45.219
+            ], 
+            [
+              0.040, 
+              45.242
+            ], 
+            [
+              0.065, 
+              45.242
+            ], 
+            [
+              0.065, 
+              45.219
+            ], 
+            [
+              0.040, 
+              45.219
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578499, 
+        "name": "Bazac", 
+        "adjacent_woeid": [
+          585504, 
+          610811, 
+          615649, 
+          623148, 
+          626642
+        ], 
+        "ne_latitude": 45.242, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.065, 
+        "longitude": 0.050, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12638288, 
+        "latitude": 45.232, 
+        "sw_longitude": 0.040, 
+        "fullname": "Bazac, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.219
+      }, 
+      "id": 578499
+    }
+  ]
+}

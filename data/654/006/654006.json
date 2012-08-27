@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.363, 
+              52.624
+            ], 
+            [
+              10.363, 
+              52.666
+            ], 
+            [
+              10.402, 
+              52.666
+            ], 
+            [
+              10.402, 
+              52.624
+            ], 
+            [
+              10.363, 
+              52.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 654006, 
+        "name": "Grebshorn", 
+        "adjacent_woeid": [
+          685555, 
+          695706, 
+          707473, 
+          708441, 
+          20166607, 
+          20174306, 
+          29351932
+        ], 
+        "ne_latitude": 52.666, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.402, 
+        "longitude": 10.378, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:57Z", 
+        "parent_woeid": 12629602, 
+        "latitude": 52.654, 
+        "sw_longitude": 10.363, 
+        "fullname": "Grebshorn, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.624
+      }, 
+      "id": 654006
+    }
+  ]
+}

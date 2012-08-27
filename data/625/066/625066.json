@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.592, 
+              46.784
+            ], 
+            [
+              5.592, 
+              46.807
+            ], 
+            [
+              5.612, 
+              46.807
+            ], 
+            [
+              5.612, 
+              46.784
+            ], 
+            [
+              5.592, 
+              46.784
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625066, 
+        "name": "St.-Lamain", 
+        "adjacent_woeid": [
+          581766, 
+          588507, 
+          592212, 
+          615773, 
+          625295, 
+          20212043
+        ], 
+        "ne_latitude": 46.807, 
+        "ne_longitude": 5.612, 
+        "longitude": 5.604, 
+        "parent_woeid": 12652729, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lamain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.796, 
+        "sw_longitude": 5.592, 
+        "fullname": "St.-Lamain, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.784
+      }, 
+      "id": 625066
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.742, 
+              19.614
+            ], 
+            [
+              -96.742, 
+              19.632
+            ], 
+            [
+              -96.723, 
+              19.632
+            ], 
+            [
+              -96.723, 
+              19.614
+            ], 
+            [
+              -96.742, 
+              19.614
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.632, 
+        "name": "Alto Lucero", 
+        "adjacent_woeid": [
+          111888, 
+          111954, 
+          113439, 
+          115313, 
+          116882, 
+          150005
+        ], 
+        "woeid": 111960, 
+        "alias_SPA_V": [
+          "Alto del Lucero"
+        ], 
+        "ne_longitude": -96.723, 
+        "longitude": -96.733, 
+        "parent_woeid": 12601727, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.623, 
+        "sw_longitude": -96.742, 
+        "fullname": "Alto Lucero, Veracruz-Llave, Alto Lucero de Gutierrez Barrios, Mexico", 
+        "sw_latitude": 19.614
+      }, 
+      "id": 111960
+    }
+  ]
+}

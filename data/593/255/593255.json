@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.816, 
+              47.701
+            ], 
+            [
+              5.816, 
+              47.743
+            ], 
+            [
+              5.881, 
+              47.743
+            ], 
+            [
+              5.881, 
+              47.701
+            ], 
+            [
+              5.816, 
+              47.701
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593255, 
+        "name": "Gourgeon", 
+        "adjacent_woeid": [
+          587067, 
+          601901, 
+          610880, 
+          621687
+        ], 
+        "ne_latitude": 47.743, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.881, 
+        "longitude": 5.845, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12644645, 
+        "latitude": 47.721, 
+        "sw_longitude": 5.816, 
+        "fullname": "Gourgeon, Franche-Comte, Haute-Saone, France", 
+        "sw_latitude": 47.701
+      }, 
+      "id": 593255
+    }
+  ]
+}

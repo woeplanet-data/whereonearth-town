@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.621, 
+              48.357
+            ], 
+            [
+              11.621, 
+              48.376
+            ], 
+            [
+              11.651, 
+              48.376
+            ], 
+            [
+              11.651, 
+              48.357
+            ], 
+            [
+              11.621, 
+              48.357
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20152841, 
+        "name": "Schaidenhausen", 
+        "adjacent_woeid": [
+          652401, 
+          652526, 
+          654071, 
+          20152800
+        ], 
+        "ne_latitude": 48.376, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.651, 
+        "longitude": 11.635, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:29Z", 
+        "parent_woeid": 12636081, 
+        "latitude": 48.366, 
+        "sw_longitude": 11.621, 
+        "fullname": "Schaidenhausen, Bavaria, Landkreis Freising, Germany", 
+        "sw_latitude": 48.357
+      }, 
+      "id": 20152841
+    }
+  ]
+}

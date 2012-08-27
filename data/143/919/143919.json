@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.727, 
+              25.058
+            ], 
+            [
+              -100.727, 
+              25.076
+            ], 
+            [
+              -100.707, 
+              25.076
+            ], 
+            [
+              -100.707, 
+              25.058
+            ], 
+            [
+              -100.727, 
+              25.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.076, 
+        "name": "San Juan del Prado", 
+        "adjacent_woeid": [
+          124773, 
+          125876, 
+          126773, 
+          128916, 
+          130455, 
+          134410
+        ], 
+        "woeid": 143919, 
+        "alias_SPA_V": [
+          "S Juan del Prado"
+        ], 
+        "ne_longitude": -100.707, 
+        "longitude": -100.717, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.067, 
+        "sw_longitude": -100.727, 
+        "fullname": "San Juan del Prado, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 25.058
+      }, 
+      "id": 143919
+    }
+  ]
+}

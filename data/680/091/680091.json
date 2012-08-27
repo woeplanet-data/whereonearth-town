@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.142, 
+              51.925
+            ], 
+            [
+              11.142, 
+              51.975
+            ], 
+            [
+              11.184, 
+              51.975
+            ], 
+            [
+              11.184, 
+              51.925
+            ], 
+            [
+              11.142, 
+              51.925
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680091, 
+        "name": "Nienhagen", 
+        "adjacent_woeid": [
+          647829, 
+          667453, 
+          669133, 
+          693573
+        ], 
+        "ne_latitude": 51.975, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.184, 
+        "longitude": 11.166, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12626582, 
+        "latitude": 51.950, 
+        "sw_longitude": 11.142, 
+        "fullname": "Nienhagen, Saxony-Anhalt, Landkreis Halberstadt, Germany", 
+        "sw_latitude": 51.925
+      }, 
+      "id": 680091
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.212, 
+              45.538
+            ], 
+            [
+              5.212, 
+              45.555
+            ], 
+            [
+              5.238, 
+              45.555
+            ], 
+            [
+              5.238, 
+              45.538
+            ], 
+            [
+              5.212, 
+              45.538
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587724, 
+        "name": "Crachier", 
+        "adjacent_woeid": [
+          576781, 
+          585806, 
+          610519, 
+          622791
+        ], 
+        "ne_latitude": 45.555, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.238, 
+        "longitude": 5.224, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "parent_woeid": 12660091, 
+        "latitude": 45.548, 
+        "sw_longitude": 5.212, 
+        "fullname": "Crachier, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.538
+      }, 
+      "id": 587724
+    }
+  ]
+}

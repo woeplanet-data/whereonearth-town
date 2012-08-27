@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.077, 
+              23.741
+            ], 
+            [
+              -99.077, 
+              23.759
+            ], 
+            [
+              -99.057, 
+              23.759
+            ], 
+            [
+              -99.057, 
+              23.741
+            ], 
+            [
+              -99.077, 
+              23.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.759, 
+        "name": "El Encino", 
+        "adjacent_woeid": [
+          121201, 
+          128680, 
+          144011, 
+          146304, 
+          148799
+        ], 
+        "woeid": 120203, 
+        "alias_SPA_V": [
+          "Encino"
+        ], 
+        "ne_longitude": -99.057, 
+        "longitude": -99.067, 
+        "parent_woeid": 12601672, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.750, 
+        "sw_longitude": -99.077, 
+        "fullname": "El Encino, Tamaulipas, Victoria, Mexico", 
+        "sw_latitude": 23.741
+      }, 
+      "id": 120203
+    }
+  ]
+}

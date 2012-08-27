@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.261, 
+              40.391
+            ], 
+            [
+              -5.261, 
+              40.400
+            ], 
+            [
+              -5.249, 
+              40.400
+            ], 
+            [
+              -5.249, 
+              40.391
+            ], 
+            [
+              -5.261, 
+              40.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.400, 
+        "name": "La Herguijuela", 
+        "adjacent_woeid": [
+          756510, 
+          762373, 
+          768187, 
+          768229, 
+          768957, 
+          772683
+        ], 
+        "woeid": 763488, 
+        "alias_SPA_V": [
+          "Herguijuela"
+        ], 
+        "ne_longitude": -5.249, 
+        "longitude": -5.255, 
+        "parent_woeid": 12691315, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.395, 
+        "sw_longitude": -5.261, 
+        "fullname": "La Herguijuela, Castille and Leon, Avila, Spain", 
+        "sw_latitude": 40.391
+      }, 
+      "id": 763488
+    }
+  ]
+}

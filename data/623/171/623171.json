@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.288, 
+              45.583
+            ], 
+            [
+              3.288, 
+              45.603
+            ], 
+            [
+              3.308, 
+              45.603
+            ], 
+            [
+              3.308, 
+              45.583
+            ], 
+            [
+              3.288, 
+              45.583
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623171, 
+        "name": "St.-Babel", 
+        "adjacent_woeid": [
+          591058, 
+          609667, 
+          616624, 
+          620764, 
+          633057, 
+          20207375, 
+          20207379, 
+          29332644
+        ], 
+        "ne_latitude": 45.603, 
+        "ne_longitude": 3.308, 
+        "longitude": 3.299, 
+        "parent_woeid": 12646573, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Babel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.598, 
+        "sw_longitude": 3.288, 
+        "fullname": "St.-Babel, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.583
+      }, 
+      "id": 623171
+    }
+  ]
+}

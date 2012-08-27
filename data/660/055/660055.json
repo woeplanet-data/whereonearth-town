@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.912, 
+              52.735
+            ], 
+            [
+              11.912, 
+              52.772
+            ], 
+            [
+              11.943, 
+              52.772
+            ], 
+            [
+              11.943, 
+              52.735
+            ], 
+            [
+              11.912, 
+              52.735
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660055, 
+        "name": "Hindenburg", 
+        "adjacent_woeid": [
+          638428, 
+          652424, 
+          661090, 
+          666414
+        ], 
+        "ne_latitude": 52.772, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.943, 
+        "longitude": 11.930, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12626835, 
+        "latitude": 52.754, 
+        "sw_longitude": 11.912, 
+        "fullname": "Hindenburg, Saxony-Anhalt, Landkreis Stendal, Germany", 
+        "sw_latitude": 52.735
+      }, 
+      "id": 660055
+    }
+  ]
+}

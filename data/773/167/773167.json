@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.112, 
+              43.302
+            ], 
+            [
+              -4.112, 
+              43.311
+            ], 
+            [
+              -4.100, 
+              43.311
+            ], 
+            [
+              -4.100, 
+              43.302
+            ], 
+            [
+              -4.112, 
+              43.302
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.311, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          758077, 
+          762156, 
+          767086, 
+          774535
+        ], 
+        "woeid": 773167, 
+        "alias_SPA_V": [
+          "S Miguel"
+        ], 
+        "ne_longitude": -4.100, 
+        "longitude": -4.106, 
+        "parent_woeid": 12688539, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.306, 
+        "sw_longitude": -4.112, 
+        "fullname": "San Miguel, Cantabria, Cantabria, Spain", 
+        "sw_latitude": 43.302
+      }, 
+      "id": 773167
+    }
+  ]
+}

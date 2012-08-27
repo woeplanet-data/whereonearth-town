@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.683, 
+              48.853
+            ], 
+            [
+              2.683, 
+              48.870
+            ], 
+            [
+              2.705, 
+              48.870
+            ], 
+            [
+              2.705, 
+              48.853
+            ], 
+            [
+              2.683, 
+              48.853
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593310, 
+        "name": "Gouvernes", 
+        "adjacent_woeid": [
+          582500, 
+          586698, 
+          593971, 
+          627116
+        ], 
+        "ne_latitude": 48.870, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.705, 
+        "longitude": 2.694, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12640209, 
+        "latitude": 48.861, 
+        "sw_longitude": 2.683, 
+        "fullname": "Gouvernes, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.853
+      }, 
+      "id": 593310
+    }
+  ]
+}

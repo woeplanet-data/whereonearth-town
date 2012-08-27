@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.309, 
+              9.708
+            ], 
+            [
+              -63.309, 
+              9.722
+            ], 
+            [
+              -63.295, 
+              9.722
+            ], 
+            [
+              -63.295, 
+              9.708
+            ], 
+            [
+              -63.309, 
+              9.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.722, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          381528, 
+          384199, 
+          389117, 
+          468229, 
+          468533
+        ], 
+        "woeid": 468356, 
+        "alias_SPA_V": [
+          "S Vicente"
+        ], 
+        "ne_longitude": -63.295, 
+        "longitude": -63.302, 
+        "parent_woeid": 26805157, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.715, 
+        "sw_longitude": -63.309, 
+        "fullname": "San Vicente, Monagas, Maturin, Venezuela", 
+        "sw_latitude": 9.708
+      }, 
+      "id": 468356
+    }
+  ]
+}

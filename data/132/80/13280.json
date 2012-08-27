@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.293, 
+              51.280
+            ], 
+            [
+              0.293, 
+              51.303
+            ], 
+            [
+              0.320, 
+              51.303
+            ], 
+            [
+              0.320, 
+              51.280
+            ], 
+            [
+              0.293, 
+              51.280
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 13280, 
+        "name": "Borough Green", 
+        "adjacent_woeid": [
+          12047, 
+          17489, 
+          24326, 
+          32141, 
+          41234
+        ], 
+        "ne_latitude": 51.303, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.320, 
+        "longitude": 0.313, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:13Z", 
+        "parent_woeid": 12695995, 
+        "latitude": 51.292, 
+        "sw_longitude": 0.293, 
+        "fullname": "Borough Green, England, Kent, United Kingdom", 
+        "sw_latitude": 51.280
+      }, 
+      "id": 13280
+    }
+  ]
+}

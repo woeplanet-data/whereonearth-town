@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.465, 
+              59.866
+            ], 
+            [
+              10.465, 
+              59.884
+            ], 
+            [
+              10.501, 
+              59.884
+            ], 
+            [
+              10.501, 
+              59.866
+            ], 
+            [
+              10.465, 
+              59.866
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "NOR", 
+        "woeid": 15000609, 
+        "name": "Billingstad", 
+        "adjacent_woeid": [
+          856817, 
+          860194, 
+          862156, 
+          15000602, 
+          15000603, 
+          15000611, 
+          20100300
+        ], 
+        "ne_latitude": 59.884, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.501, 
+        "longitude": 10.496, 
+        "placetype": "Town", 
+        "iso": "NO", 
+        "date_indexed": "2010-12-02T10:20:15Z", 
+        "parent_woeid": 12592864, 
+        "latitude": 59.876, 
+        "sw_longitude": 10.465, 
+        "fullname": "Billingstad, Akershus Fylke, Asker Kommune, Norway", 
+        "alias_NOR_V": [
+          "Billingstads"
+        ], 
+        "sw_latitude": 59.866
+      }, 
+      "id": 15000609
+    }
+  ]
+}

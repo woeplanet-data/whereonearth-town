@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.061, 
+              42.113
+            ], 
+            [
+              3.061, 
+              42.147
+            ], 
+            [
+              3.089, 
+              42.147
+            ], 
+            [
+              3.089, 
+              42.113
+            ], 
+            [
+              3.061, 
+              42.113
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.147, 
+        "name": "Viladamat", 
+        "adjacent_woeid": [
+          751733, 
+          752402, 
+          752979, 
+          761450, 
+          763319, 
+          764083, 
+          777173, 
+          778780
+        ], 
+        "woeid": 777373, 
+        "alias_SPA_V": [
+          "Vilademat"
+        ], 
+        "ne_longitude": 3.089, 
+        "longitude": 3.075, 
+        "parent_woeid": 12693893, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.134, 
+        "sw_longitude": 3.061, 
+        "fullname": "Viladamat, Catalonia, Gerona, Spain", 
+        "sw_latitude": 42.113
+      }, 
+      "id": 777373
+    }
+  ]
+}

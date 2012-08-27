@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.189, 
+              55.405
+            ], 
+            [
+              11.189, 
+              55.423
+            ], 
+            [
+              11.221, 
+              55.423
+            ], 
+            [
+              11.221, 
+              55.405
+            ], 
+            [
+              11.189, 
+              55.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 29306211, 
+        "name": "Kelstrup Strand", 
+        "adjacent_woeid": [
+          554730, 
+          20099042, 
+          20099230
+        ], 
+        "ne_latitude": 55.423, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.221, 
+        "longitude": 11.205, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:10Z", 
+        "parent_woeid": 12582861, 
+        "latitude": 55.414, 
+        "sw_longitude": 11.189, 
+        "fullname": "Kelstrup Strand, Sjaelland, Slagelse, Denmark", 
+        "sw_latitude": 55.405
+      }, 
+      "id": 29306211
+    }
+  ]
+}

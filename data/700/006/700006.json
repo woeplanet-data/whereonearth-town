@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.283, 
+              50.464
+            ], 
+            [
+              12.283, 
+              50.489
+            ], 
+            [
+              12.306, 
+              50.489
+            ], 
+            [
+              12.306, 
+              50.464
+            ], 
+            [
+              12.283, 
+              50.464
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700006, 
+        "name": "Trieb", 
+        "adjacent_woeid": [
+          679030, 
+          681636, 
+          692797, 
+          694732, 
+          696951, 
+          709230
+        ], 
+        "ne_latitude": 50.489, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.306, 
+        "longitude": 12.290, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:35Z", 
+        "parent_woeid": 12636511, 
+        "latitude": 50.478, 
+        "sw_longitude": 12.283, 
+        "fullname": "Trieb, Saxony, Vogtlandkreis, Germany", 
+        "alias_GER_V": [
+          "Trieb/vogtl."
+        ], 
+        "sw_latitude": 50.464
+      }, 
+      "id": 700006
+    }
+  ]
+}

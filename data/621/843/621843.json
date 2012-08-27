@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.428, 
+              50.688
+            ], 
+            [
+              2.428, 
+              50.728
+            ], 
+            [
+              2.472, 
+              50.728
+            ], 
+            [
+              2.472, 
+              50.688
+            ], 
+            [
+              2.428, 
+              50.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621843, 
+        "name": "Sercus", 
+        "adjacent_woeid": [
+          580182, 
+          609123, 
+          613195, 
+          632799
+        ], 
+        "ne_latitude": 50.728, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.472, 
+        "longitude": 2.456, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "parent_woeid": 12669703, 
+        "latitude": 50.707, 
+        "sw_longitude": 2.428, 
+        "fullname": "Sercus, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.688
+      }, 
+      "id": 621843
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.754, 
+              10.658
+            ], 
+            [
+              -71.754, 
+              10.676
+            ], 
+            [
+              -71.735, 
+              10.676
+            ], 
+            [
+              -71.735, 
+              10.658
+            ], 
+            [
+              -71.754, 
+              10.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.676, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          393498, 
+          395300, 
+          395638, 
+          468289
+        ], 
+        "woeid": 395764, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -71.735, 
+        "longitude": -71.744, 
+        "parent_woeid": 26805630, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.667, 
+        "sw_longitude": -71.754, 
+        "fullname": "San Isidro, Zulia, Maracaibo, Venezuela", 
+        "sw_latitude": 10.658
+      }, 
+      "id": 395764
+    }
+  ]
+}

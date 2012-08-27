@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.543, 
+              49.198
+            ], 
+            [
+              0.543, 
+              49.221
+            ], 
+            [
+              0.580, 
+              49.221
+            ], 
+            [
+              0.580, 
+              49.198
+            ], 
+            [
+              0.543, 
+              49.198
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624209, 
+        "name": "St.-Georges-du-Mesnil", 
+        "adjacent_woeid": [
+          589833, 
+          592960, 
+          624757, 
+          627221
+        ], 
+        "ne_latitude": 49.221, 
+        "ne_longitude": 0.580, 
+        "longitude": 0.557, 
+        "parent_woeid": 12652493, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Georges-du-Mesnil"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.213, 
+        "sw_longitude": 0.543, 
+        "fullname": "St.-Georges-du-Mesnil, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.198
+      }, 
+      "id": 624209
+    }
+  ]
+}

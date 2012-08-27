@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.288, 
+              46.892
+            ], 
+            [
+              3.288, 
+              46.901
+            ], 
+            [
+              3.305, 
+              46.901
+            ], 
+            [
+              3.305, 
+              46.892
+            ], 
+            [
+              3.288, 
+              46.892
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604259, 
+        "name": "Le Port des Bois", 
+        "adjacent_woeid": [
+          606128, 
+          609067, 
+          626134, 
+          20213905
+        ], 
+        "ne_latitude": 46.901, 
+        "ne_longitude": 3.305, 
+        "longitude": 3.295, 
+        "parent_woeid": 12647602, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Port-les-Bois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.897, 
+        "sw_longitude": 3.288, 
+        "fullname": "Le Port des Bois, Burgundy, Nievre, France", 
+        "sw_latitude": 46.892
+      }, 
+      "id": 604259
+    }
+  ]
+}

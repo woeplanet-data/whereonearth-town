@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.927, 
+              23.691
+            ], 
+            [
+              -100.927, 
+              23.709
+            ], 
+            [
+              -100.907, 
+              23.709
+            ], 
+            [
+              -100.907, 
+              23.691
+            ], 
+            [
+              -100.927, 
+              23.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.709, 
+        "name": "Los Catorce", 
+        "adjacent_woeid": [
+          115185, 
+          117356, 
+          135632, 
+          142137
+        ], 
+        "woeid": 131672, 
+        "alias_SPA_V": [
+          "Catorce"
+        ], 
+        "ne_longitude": -100.907, 
+        "longitude": -100.917, 
+        "parent_woeid": 12601475, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.700, 
+        "sw_longitude": -100.927, 
+        "fullname": "Los Catorce, San Luis Potosi, Catorce, Mexico", 
+        "sw_latitude": 23.691
+      }, 
+      "id": 131672
+    }
+  ]
+}

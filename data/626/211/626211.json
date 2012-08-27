@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.338, 
+              44.900
+            ], 
+            [
+              -0.338, 
+              44.925
+            ], 
+            [
+              -0.299, 
+              44.925
+            ], 
+            [
+              -0.299, 
+              44.900
+            ], 
+            [
+              -0.338, 
+              44.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626211, 
+        "name": "St.-Pardon", 
+        "adjacent_woeid": [
+          595350, 
+          625984, 
+          20196776, 
+          29331702
+        ], 
+        "ne_latitude": 44.925, 
+        "ne_longitude": -0.299, 
+        "longitude": -0.320, 
+        "parent_woeid": 12649984, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pardon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.909, 
+        "sw_longitude": -0.338, 
+        "fullname": "St.-Pardon, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.900
+      }, 
+      "id": 626211
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.396, 
+              45.339
+            ], 
+            [
+              -74.396, 
+              45.443
+            ], 
+            [
+              -74.230, 
+              45.443
+            ], 
+            [
+              -74.230, 
+              45.339
+            ], 
+            [
+              -74.396, 
+              45.339
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394539, 
+        "name": "Ste.-Marthe", 
+        "adjacent_woeid": [
+          692, 
+          23394503, 
+          23394609, 
+          23395449, 
+          23395665, 
+          23396620
+        ], 
+        "ne_latitude": 45.443, 
+        "ne_longitude": -74.230, 
+        "longitude": -74.304, 
+        "parent_woeid": 29375109, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ste-Marthe"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.408, 
+        "sw_longitude": -74.396, 
+        "fullname": "Ste.-Marthe, Quebec, Vaudreuil-Soulanges, Canada", 
+        "sw_latitude": 45.339
+      }, 
+      "id": 23394539
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.793, 
+              21.774
+            ], 
+            [
+              -100.793, 
+              21.792
+            ], 
+            [
+              -100.774, 
+              21.792
+            ], 
+            [
+              -100.774, 
+              21.774
+            ], 
+            [
+              -100.793, 
+              21.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.792, 
+        "name": "El Soyate", 
+        "adjacent_woeid": [
+          122658, 
+          124028, 
+          126742, 
+          133280, 
+          135040, 
+          146507, 
+          147661
+        ], 
+        "woeid": 122529, 
+        "alias_SPA_V": [
+          "Soyate"
+        ], 
+        "ne_longitude": -100.774, 
+        "longitude": -100.783, 
+        "parent_woeid": 12601503, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.783, 
+        "sw_longitude": -100.793, 
+        "fullname": "El Soyate, San Luis Potosi, Santa Maria del Rio, Mexico", 
+        "sw_latitude": 21.774
+      }, 
+      "id": 122529
+    }
+  ]
+}

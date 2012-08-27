@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.805, 
+              49.876
+            ], 
+            [
+              3.805, 
+              49.911
+            ], 
+            [
+              3.850, 
+              49.911
+            ], 
+            [
+              3.850, 
+              49.876
+            ], 
+            [
+              3.805, 
+              49.876
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622832, 
+        "name": "St.-Algis", 
+        "adjacent_woeid": [
+          577431, 
+          589655, 
+          589892, 
+          594529, 
+          610106, 
+          20218057
+        ], 
+        "ne_latitude": 49.911, 
+        "ne_longitude": 3.850, 
+        "longitude": 3.824, 
+        "parent_woeid": 22757635, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Algis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.898, 
+        "sw_longitude": 3.805, 
+        "fullname": "St.-Algis, Picardie, Aisne, France", 
+        "sw_latitude": 49.876
+      }, 
+      "id": 622832
+    }
+  ]
+}

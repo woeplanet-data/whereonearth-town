@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.060, 
+              21.758
+            ], 
+            [
+              -99.060, 
+              21.776
+            ], 
+            [
+              -99.040, 
+              21.776
+            ], 
+            [
+              -99.040, 
+              21.758
+            ], 
+            [
+              -99.060, 
+              21.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.776, 
+        "name": "San Pedro de las Anomas", 
+        "adjacent_woeid": [
+          111990, 
+          128340, 
+          135457, 
+          142521, 
+          145953, 
+          148163
+        ], 
+        "woeid": 145058, 
+        "alias_SPA_V": [
+          "S Pedro de las Anomas"
+        ], 
+        "ne_longitude": -99.040, 
+        "longitude": -99.050, 
+        "parent_woeid": 12601471, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.767, 
+        "sw_longitude": -99.060, 
+        "fullname": "San Pedro de las Anomas, San Luis Potosi, Aquismon, Mexico", 
+        "sw_latitude": 21.758
+      }, 
+      "id": 145058
+    }
+  ]
+}

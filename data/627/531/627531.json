@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.354, 
+              43.913
+            ], 
+            [
+              -0.354, 
+              43.957
+            ], 
+            [
+              -0.298, 
+              43.957
+            ], 
+            [
+              -0.298, 
+              43.913
+            ], 
+            [
+              -0.354, 
+              43.913
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627531, 
+        "name": "Ste.-Foy", 
+        "adjacent_woeid": [
+          592326, 
+          600751, 
+          617771, 
+          623627
+        ], 
+        "ne_latitude": 43.957, 
+        "ne_longitude": -0.298, 
+        "longitude": -0.333, 
+        "parent_woeid": 12653379, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Foy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.937, 
+        "sw_longitude": -0.354, 
+        "fullname": "Ste.-Foy, Aquitaine, Landes, France", 
+        "sw_latitude": 43.913
+      }, 
+      "id": 627531
+    }
+  ]
+}

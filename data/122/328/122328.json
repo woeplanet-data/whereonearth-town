@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.391, 
+              23.376
+            ], 
+            [
+              -105.391, 
+              23.391
+            ], 
+            [
+              -105.375, 
+              23.391
+            ], 
+            [
+              -105.375, 
+              23.376
+            ], 
+            [
+              -105.391, 
+              23.376
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.391, 
+        "name": "El Salto", 
+        "adjacent_woeid": [
+          111255, 
+          115564, 
+          117198, 
+          117459, 
+          118385, 
+          125953, 
+          128952, 
+          132190, 
+          134576, 
+          137012, 
+          140963, 
+          141128, 
+          146498, 
+          147077, 
+          148549
+        ], 
+        "woeid": 122328, 
+        "alias_SPA_V": [
+          "Pueblo Nuevo"
+        ], 
+        "ne_longitude": -105.375, 
+        "longitude": -105.383, 
+        "parent_woeid": 12599973, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.383, 
+        "sw_longitude": -105.391, 
+        "fullname": "El Salto, Durango, Pueblo Nuevo, Mexico", 
+        "sw_latitude": 23.376
+      }, 
+      "id": 122328
+    }
+  ]
+}

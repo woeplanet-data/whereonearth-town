@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.377, 
+              28.308
+            ], 
+            [
+              -106.377, 
+              28.326
+            ], 
+            [
+              -106.356, 
+              28.326
+            ], 
+            [
+              -106.356, 
+              28.308
+            ], 
+            [
+              -106.377, 
+              28.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.326, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          123995, 
+          145599, 
+          146746
+        ], 
+        "woeid": 145598, 
+        "alias_SPA_V": [
+          "Sta. Ana de Abajo"
+        ], 
+        "ne_longitude": -106.356, 
+        "longitude": -106.367, 
+        "parent_woeid": 12599842, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.317, 
+        "sw_longitude": -106.377, 
+        "fullname": "Santa Ana, Chihuahua, Santa Isabel, Mexico", 
+        "sw_latitude": 28.308
+      }, 
+      "id": 145598
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.327, 
+              28.508
+            ], 
+            [
+              -110.327, 
+              28.526
+            ], 
+            [
+              -110.306, 
+              28.526
+            ], 
+            [
+              -110.306, 
+              28.508
+            ], 
+            [
+              -110.327, 
+              28.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.526, 
+        "name": "San Marcial", 
+        "adjacent_woeid": [
+          111270, 
+          135809, 
+          136779, 
+          140093, 
+          143553, 
+          147855, 
+          148537
+        ], 
+        "woeid": 144300, 
+        "alias_SPA_V": [
+          "S Marcial"
+        ], 
+        "ne_longitude": -110.306, 
+        "longitude": -110.317, 
+        "parent_woeid": 12601573, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.517, 
+        "sw_longitude": -110.327, 
+        "fullname": "San Marcial, Sonora, Guaymas, Mexico", 
+        "sw_latitude": 28.508
+      }, 
+      "id": 144300
+    }
+  ]
+}

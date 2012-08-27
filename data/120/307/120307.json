@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.110, 
+              23.824
+            ], 
+            [
+              -103.110, 
+              23.842
+            ], 
+            [
+              -103.090, 
+              23.842
+            ], 
+            [
+              -103.090, 
+              23.824
+            ], 
+            [
+              -103.110, 
+              23.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.842, 
+        "name": "El Fuerte", 
+        "adjacent_woeid": [
+          123398, 
+          123714, 
+          127448, 
+          130343, 
+          140805, 
+          142329
+        ], 
+        "woeid": 120307, 
+        "alias_SPA_V": [
+          "El Fuerte y Gamboa"
+        ], 
+        "ne_longitude": -103.090, 
+        "longitude": -103.100, 
+        "parent_woeid": 12602070, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.833, 
+        "sw_longitude": -103.110, 
+        "fullname": "El Fuerte, Zacatecas, Rio Grande, Mexico", 
+        "sw_latitude": 23.824
+      }, 
+      "id": 120307
+    }
+  ]
+}

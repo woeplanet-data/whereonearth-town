@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.345, 
+              13.966
+            ], 
+            [
+              -89.345, 
+              13.980
+            ], 
+            [
+              -89.331, 
+              13.980
+            ], 
+            [
+              -89.331, 
+              13.966
+            ], 
+            [
+              -89.345, 
+              13.966
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.980, 
+        "name": "San Pablo Tacachico", 
+        "adjacent_woeid": [
+          77074, 
+          77687, 
+          79145, 
+          79352, 
+          79698, 
+          79748, 
+          79847, 
+          26809367, 
+          26809368, 
+          26809376
+        ], 
+        "woeid": 79775, 
+        "alias_SPA_V": [
+          "S Pablo Tacachico"
+        ], 
+        "ne_longitude": -89.331, 
+        "longitude": -89.338, 
+        "parent_woeid": 26808607, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.973, 
+        "sw_longitude": -89.345, 
+        "fullname": "San Pablo Tacachico, La Libertad, San Pablo Tacachico, El Salvador", 
+        "sw_latitude": 13.966
+      }, 
+      "id": 79775
+    }
+  ]
+}

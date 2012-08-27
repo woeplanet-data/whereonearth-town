@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.943, 
+              18.691
+            ], 
+            [
+              -99.943, 
+              18.709
+            ], 
+            [
+              -99.924, 
+              18.709
+            ], 
+            [
+              -99.924, 
+              18.691
+            ], 
+            [
+              -99.943, 
+              18.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.709, 
+        "name": "Metlatepec", 
+        "adjacent_woeid": [
+          117772, 
+          125486, 
+          137698, 
+          144693, 
+          144711, 
+          145980, 
+          148796
+        ], 
+        "woeid": 133460, 
+        "alias_SPA_V": [
+          "Metlapetec"
+        ], 
+        "ne_longitude": -99.924, 
+        "longitude": -99.933, 
+        "parent_woeid": 12600399, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.700, 
+        "sw_longitude": -99.943, 
+        "fullname": "Metlatepec, Mexico, Sultepec, Mexico", 
+        "sw_latitude": 18.691
+      }, 
+      "id": 133460
+    }
+  ]
+}

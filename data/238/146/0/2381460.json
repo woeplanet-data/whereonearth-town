@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.482, 
+              43.292
+            ], 
+            [
+              -123.482, 
+              43.301
+            ], 
+            [
+              -123.470, 
+              43.301
+            ], 
+            [
+              -123.470, 
+              43.292
+            ], 
+            [
+              -123.482, 
+              43.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2381460, 
+        "name": "Cleveland", 
+        "adjacent_woeid": [
+          2373330, 
+          2398233, 
+          2449205, 
+          2451685, 
+          2506622, 
+          2522169
+        ], 
+        "ne_latitude": 43.301, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.470, 
+        "longitude": -123.476, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:23:51Z", 
+        "parent_woeid": 12589701, 
+        "latitude": 43.297, 
+        "sw_longitude": -123.482, 
+        "fullname": "Cleveland, Oregon, Douglas, United States", 
+        "sw_latitude": 43.292
+      }, 
+      "id": 2381460
+    }
+  ]
+}

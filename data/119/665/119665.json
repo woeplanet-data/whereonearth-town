@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.193, 
+              25.508
+            ], 
+            [
+              -100.193, 
+              25.526
+            ], 
+            [
+              -100.173, 
+              25.526
+            ], 
+            [
+              -100.173, 
+              25.508
+            ], 
+            [
+              -100.193, 
+              25.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.526, 
+        "name": "El Cerrito", 
+        "adjacent_woeid": [
+          121810, 
+          126870, 
+          131783, 
+          132388, 
+          139143, 
+          145678
+        ], 
+        "woeid": 119665, 
+        "alias_SPA_V": [
+          "Cerritos"
+        ], 
+        "ne_longitude": -100.173, 
+        "longitude": -100.183, 
+        "parent_woeid": 12600654, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.517, 
+        "sw_longitude": -100.193, 
+        "fullname": "El Cerrito, Nuevo Leon, Santiago, Mexico", 
+        "sw_latitude": 25.508
+      }, 
+      "id": 119665
+    }
+  ]
+}

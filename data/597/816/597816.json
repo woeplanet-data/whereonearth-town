@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.459, 
+              45.375
+            ], 
+            [
+              5.459, 
+              45.411
+            ], 
+            [
+              5.482, 
+              45.411
+            ], 
+            [
+              5.482, 
+              45.375
+            ], 
+            [
+              5.459, 
+              45.375
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597816, 
+        "name": "La Contamine", 
+        "adjacent_woeid": [
+          576347, 
+          586515, 
+          604442, 
+          615434, 
+          615790
+        ], 
+        "ne_latitude": 45.411, 
+        "ne_longitude": 5.482, 
+        "longitude": 5.467, 
+        "parent_woeid": 12659667, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Contamine"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.400, 
+        "sw_longitude": 5.459, 
+        "fullname": "La Contamine, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.375
+      }, 
+      "id": 597816
+    }
+  ]
+}

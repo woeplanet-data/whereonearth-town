@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.788, 
+              49.391
+            ], 
+            [
+              0.788, 
+              49.427
+            ], 
+            [
+              0.819, 
+              49.427
+            ], 
+            [
+              0.819, 
+              49.391
+            ], 
+            [
+              0.788, 
+              49.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603302, 
+        "name": "Le Landin", 
+        "adjacent_woeid": [
+          578213, 
+          594543, 
+          594811, 
+          594926, 
+          595753
+        ], 
+        "ne_latitude": 49.427, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.819, 
+        "longitude": 0.797, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12646438, 
+        "latitude": 49.403, 
+        "sw_longitude": 0.788, 
+        "fullname": "Le Landin, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.391
+      }, 
+      "id": 603302
+    }
+  ]
+}

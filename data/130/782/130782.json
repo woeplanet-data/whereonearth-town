@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.110, 
+              23.724
+            ], 
+            [
+              -103.110, 
+              23.742
+            ], 
+            [
+              -103.090, 
+              23.742
+            ], 
+            [
+              -103.090, 
+              23.724
+            ], 
+            [
+              -103.110, 
+              23.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.742, 
+        "name": "Las Piedras", 
+        "adjacent_woeid": [
+          113133, 
+          123714, 
+          130783, 
+          136238
+        ], 
+        "woeid": 130782, 
+        "alias_SPA_V": [
+          "Piedras"
+        ], 
+        "ne_longitude": -103.090, 
+        "longitude": -103.100, 
+        "parent_woeid": 12602070, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.733, 
+        "sw_longitude": -103.110, 
+        "fullname": "Las Piedras, Zacatecas, Rio Grande, Mexico", 
+        "sw_latitude": 23.724
+      }, 
+      "id": 130782
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.344, 
+              52.295
+            ], 
+            [
+              -1.344, 
+              52.304
+            ], 
+            [
+              -1.329, 
+              52.304
+            ], 
+            [
+              -1.329, 
+              52.295
+            ], 
+            [
+              -1.344, 
+              52.295
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23442, 
+        "name": "Hill", 
+        "adjacent_woeid": [
+          12697, 
+          14045, 
+          18447, 
+          25623, 
+          25971
+        ], 
+        "ne_latitude": 52.304, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.329, 
+        "longitude": -1.333, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:28Z", 
+        "parent_woeid": 12696100, 
+        "latitude": 52.299, 
+        "sw_longitude": -1.344, 
+        "fullname": "Hill, England, Warwickshire, United Kingdom", 
+        "sw_latitude": 52.295
+      }, 
+      "id": 23442
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.537, 
+              45.500
+            ], 
+            [
+              5.537, 
+              45.527
+            ], 
+            [
+              5.557, 
+              45.527
+            ], 
+            [
+              5.557, 
+              45.500
+            ], 
+            [
+              5.537, 
+              45.500
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626119, 
+        "name": "St.-Ondras", 
+        "adjacent_woeid": [
+          581754, 
+          584583, 
+          622959, 
+          629848
+        ], 
+        "ne_latitude": 45.527, 
+        "ne_longitude": 5.557, 
+        "longitude": 5.550, 
+        "parent_woeid": 12671003, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ondras"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.518, 
+        "sw_longitude": 5.537, 
+        "fullname": "St.-Ondras, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.500
+      }, 
+      "id": 626119
+    }
+  ]
+}

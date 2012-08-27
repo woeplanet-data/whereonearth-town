@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.043, 
+              21.358
+            ], 
+            [
+              -98.043, 
+              21.376
+            ], 
+            [
+              -98.024, 
+              21.376
+            ], 
+            [
+              -98.024, 
+              21.358
+            ], 
+            [
+              -98.043, 
+              21.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.376, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          115982, 
+          116192, 
+          119777, 
+          136305, 
+          139788, 
+          140724
+        ], 
+        "woeid": 142946, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -98.024, 
+        "longitude": -98.033, 
+        "parent_woeid": 12601761, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.367, 
+        "sw_longitude": -98.043, 
+        "fullname": "San Isidro, Veracruz-Llave, Chontla, Mexico", 
+        "sw_latitude": 21.358
+      }, 
+      "id": 142946
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.106, 
+              48.108
+            ], 
+            [
+              15.106, 
+              48.126
+            ], 
+            [
+              15.134, 
+              48.126
+            ], 
+            [
+              15.134, 
+              48.108
+            ], 
+            [
+              15.106, 
+              48.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 541245, 
+        "name": "Bodensdorf", 
+        "adjacent_woeid": [
+          541213, 
+          541977, 
+          542734, 
+          544318
+        ], 
+        "ne_latitude": 48.126, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.134, 
+        "longitude": 15.120, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:25Z", 
+        "parent_woeid": 12673810, 
+        "latitude": 48.117, 
+        "sw_longitude": 15.106, 
+        "fullname": "Bodensdorf, Lower Austria, Scheibbs, Austria", 
+        "sw_latitude": 48.108
+      }, 
+      "id": 541245
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.303, 
+              50.858
+            ], 
+            [
+              10.303, 
+              50.876
+            ], 
+            [
+              10.331, 
+              50.876
+            ], 
+            [
+              10.331, 
+              50.858
+            ], 
+            [
+              10.303, 
+              50.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29353342, 
+        "name": "Kissel", 
+        "adjacent_woeid": [
+          648916, 
+          652899, 
+          693821, 
+          703447
+        ], 
+        "ne_latitude": 50.876, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.331, 
+        "longitude": 10.317, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:50:24Z", 
+        "parent_woeid": 12636518, 
+        "latitude": 50.867, 
+        "sw_longitude": 10.303, 
+        "fullname": "Kissel, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.858
+      }, 
+      "id": 29353342
+    }
+  ]
+}

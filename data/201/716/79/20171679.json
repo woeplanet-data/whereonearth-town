@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.432, 
+              52.402
+            ], 
+            [
+              8.432, 
+              52.417
+            ], 
+            [
+              8.455, 
+              52.417
+            ], 
+            [
+              8.455, 
+              52.402
+            ], 
+            [
+              8.432, 
+              52.402
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20171679, 
+        "name": "Wegen", 
+        "adjacent_woeid": [
+          654889, 
+          662741, 
+          674970, 
+          676301, 
+          702756, 
+          705933, 
+          20171866, 
+          20175310
+        ], 
+        "ne_latitude": 52.417, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.455, 
+        "longitude": 8.447, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:20Z", 
+        "parent_woeid": 12624557, 
+        "latitude": 52.405, 
+        "sw_longitude": 8.432, 
+        "fullname": "Wegen, North Rhine-Westphalia, Minden, Germany", 
+        "sw_latitude": 52.402
+      }, 
+      "id": 20171679
+    }
+  ]
+}

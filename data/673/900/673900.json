@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.324, 
+              53.299
+            ], 
+            [
+              12.324, 
+              53.342
+            ], 
+            [
+              12.355, 
+              53.342
+            ], 
+            [
+              12.355, 
+              53.299
+            ], 
+            [
+              12.324, 
+              53.299
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673900, 
+        "name": "Marienhof", 
+        "adjacent_woeid": [
+          643677, 
+          663855, 
+          699640
+        ], 
+        "ne_latitude": 53.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.355, 
+        "longitude": 12.343, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:34Z", 
+        "parent_woeid": 12630899, 
+        "latitude": 53.322, 
+        "sw_longitude": 12.324, 
+        "fullname": "Marienhof, Mecklenburg-Vorpommern, M\u00fcritz, Germany", 
+        "sw_latitude": 53.299
+      }, 
+      "id": 673900
+    }
+  ]
+}

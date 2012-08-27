@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.251, 
+              45.256
+            ], 
+            [
+              1.251, 
+              45.286
+            ], 
+            [
+              1.287, 
+              45.286
+            ], 
+            [
+              1.287, 
+              45.256
+            ], 
+            [
+              1.251, 
+              45.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621583, 
+        "name": "Segonzac", 
+        "adjacent_woeid": [
+          587179, 
+          620029, 
+          626749, 
+          627754, 
+          628185
+        ], 
+        "ne_latitude": 45.286, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.287, 
+        "longitude": 1.277, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12664679, 
+        "latitude": 45.277, 
+        "sw_longitude": 1.251, 
+        "fullname": "Segonzac, Limousin, Correze, France", 
+        "sw_latitude": 45.256
+      }, 
+      "id": 621583
+    }
+  ]
+}

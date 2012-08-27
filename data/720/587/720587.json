@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              44.206
+            ], 
+            [
+              12.345, 
+              44.253
+            ], 
+            [
+              12.383, 
+              44.253
+            ], 
+            [
+              12.383, 
+              44.206
+            ], 
+            [
+              12.345, 
+              44.206
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 720587, 
+        "name": "Pinarella", 
+        "adjacent_woeid": [
+          29343330
+        ], 
+        "ne_latitude": 44.253, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.383, 
+        "longitude": 12.366, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:26:56Z", 
+        "parent_woeid": 12675934, 
+        "latitude": 44.243, 
+        "sw_longitude": 12.345, 
+        "fullname": "Pinarella, Emilia Romagna, Ravenna, Italy", 
+        "sw_latitude": 44.206
+      }, 
+      "id": 720587
+    }
+  ]
+}

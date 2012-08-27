@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.947, 
+              49.886
+            ], 
+            [
+              0.947, 
+              49.925
+            ], 
+            [
+              1.016, 
+              49.925
+            ], 
+            [
+              1.016, 
+              49.886
+            ], 
+            [
+              0.947, 
+              49.886
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630064, 
+        "name": "Varengeville-sur-Mer", 
+        "adjacent_woeid": [
+          594536, 
+          608563, 
+          614843, 
+          615416, 
+          617750, 
+          627610, 
+          629004
+        ], 
+        "ne_latitude": 49.925, 
+        "ne_longitude": 1.016, 
+        "longitude": 0.982, 
+        "parent_woeid": 12647592, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Varengeville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.909, 
+        "sw_longitude": 0.947, 
+        "fullname": "Varengeville-sur-Mer, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.886
+      }, 
+      "id": 630064
+    }
+  ]
+}

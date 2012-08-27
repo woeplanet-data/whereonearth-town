@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.060, 
+              44.003
+            ], 
+            [
+              1.060, 
+              44.037
+            ], 
+            [
+              1.092, 
+              44.037
+            ], 
+            [
+              1.092, 
+              44.003
+            ], 
+            [
+              1.060, 
+              44.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622801, 
+        "name": "St.-Aignan", 
+        "adjacent_woeid": [
+          583252, 
+          15003187
+        ], 
+        "ne_latitude": 44.037, 
+        "ne_longitude": 1.092, 
+        "longitude": 1.075, 
+        "parent_woeid": 12670059, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aignan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.017, 
+        "sw_longitude": 1.060, 
+        "fullname": "St.-Aignan, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 44.003
+      }, 
+      "id": 622801
+    }
+  ]
+}

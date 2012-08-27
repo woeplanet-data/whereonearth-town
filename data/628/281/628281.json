@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.104, 
+              46.281
+            ], 
+            [
+              1.104, 
+              46.311
+            ], 
+            [
+              1.135, 
+              46.311
+            ], 
+            [
+              1.135, 
+              46.281
+            ], 
+            [
+              1.104, 
+              46.281
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628281, 
+        "name": "Tersannes", 
+        "adjacent_woeid": [
+          588786, 
+          596825, 
+          630801, 
+          20190131
+        ], 
+        "ne_latitude": 46.311, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.135, 
+        "longitude": 1.121, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12671585, 
+        "latitude": 46.298, 
+        "sw_longitude": 1.104, 
+        "fullname": "Tersannes, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 46.281
+      }, 
+      "id": 628281
+    }
+  ]
+}

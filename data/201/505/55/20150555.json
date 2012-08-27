@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.752, 
+              45.081
+            ], 
+            [
+              7.752, 
+              45.099
+            ], 
+            [
+              7.777, 
+              45.099
+            ], 
+            [
+              7.777, 
+              45.081
+            ], 
+            [
+              7.752, 
+              45.081
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20150555, 
+        "name": "Piloni Bassi", 
+        "adjacent_woeid": [
+          722892, 
+          724640, 
+          20139659, 
+          20150554
+        ], 
+        "ne_latitude": 45.099, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.777, 
+        "longitude": 7.765, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:25:14Z", 
+        "parent_woeid": 12681711, 
+        "latitude": 45.090, 
+        "sw_longitude": 7.752, 
+        "fullname": "Piloni Bassi, Piedmont, Turin, Italy", 
+        "sw_latitude": 45.081
+      }, 
+      "id": 20150555
+    }
+  ]
+}

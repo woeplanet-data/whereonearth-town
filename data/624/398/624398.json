@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.024, 
+              46.884
+            ], 
+            [
+              -2.024, 
+              46.919
+            ], 
+            [
+              -1.975, 
+              46.919
+            ], 
+            [
+              -1.975, 
+              46.884
+            ], 
+            [
+              -2.024, 
+              46.884
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624398, 
+        "name": "St.-Gervais", 
+        "adjacent_woeid": [
+          580400, 
+          581054, 
+          584960, 
+          596509, 
+          620771, 
+          627161
+        ], 
+        "ne_latitude": 46.919, 
+        "ne_longitude": -1.975, 
+        "longitude": -2.000, 
+        "parent_woeid": 12670518, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gervais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.903, 
+        "sw_longitude": -2.024, 
+        "fullname": "St.-Gervais, Pays de la Loire, Vendee, France", 
+        "sw_latitude": 46.884
+      }, 
+      "id": 624398
+    }
+  ]
+}

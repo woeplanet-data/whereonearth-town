@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.565, 
+              45.061
+            ], 
+            [
+              0.565, 
+              45.098
+            ], 
+            [
+              0.602, 
+              45.098
+            ], 
+            [
+              0.602, 
+              45.061
+            ], 
+            [
+              0.565, 
+              45.061
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609739, 
+        "name": "Manzac-sur-Vern", 
+        "adjacent_woeid": [
+          581317, 
+          587541, 
+          593787, 
+          593898, 
+          595481, 
+          613033, 
+          626278
+        ], 
+        "ne_latitude": 45.098, 
+        "ne_longitude": 0.602, 
+        "longitude": 0.585, 
+        "parent_woeid": 12642311, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Manzac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.085, 
+        "sw_longitude": 0.565, 
+        "fullname": "Manzac-sur-Vern, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.061
+      }, 
+      "id": 609739
+    }
+  ]
+}

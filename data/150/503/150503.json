@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.217, 
+              20.365
+            ], 
+            [
+              -101.217, 
+              20.415
+            ], 
+            [
+              -101.169, 
+              20.415
+            ], 
+            [
+              -101.169, 
+              20.365
+            ], 
+            [
+              -101.217, 
+              20.365
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.415, 
+        "name": "Valle de Santiago", 
+        "adjacent_woeid": [
+          119100, 
+          120043, 
+          120789, 
+          143127, 
+          143176, 
+          149044, 
+          55890256, 
+          55892219, 
+          55895893
+        ], 
+        "woeid": 150503, 
+        "alias_SPA_V": [
+          "Ciudad Valle de Santiago"
+        ], 
+        "ne_longitude": -101.169, 
+        "longitude": -101.194, 
+        "parent_woeid": 12600030, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.390, 
+        "sw_longitude": -101.217, 
+        "fullname": "Valle de Santiago, Guanajuato, Valle de Santiago, Mexico", 
+        "sw_latitude": 20.365
+      }, 
+      "id": 150503
+    }
+  ]
+}

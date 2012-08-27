@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.844, 
+              31.308
+            ], 
+            [
+              -110.844, 
+              31.326
+            ], 
+            [
+              -110.823, 
+              31.326
+            ], 
+            [
+              -110.823, 
+              31.308
+            ], 
+            [
+              -110.844, 
+              31.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.326, 
+        "name": "Buena Vista", 
+        "adjacent_woeid": [
+          116319, 
+          134659, 
+          138255, 
+          144077, 
+          146010
+        ], 
+        "woeid": 113682, 
+        "alias_SPA_V": [
+          "Rancho Buena Vista"
+        ], 
+        "ne_longitude": -110.823, 
+        "longitude": -110.833, 
+        "parent_woeid": 12601588, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.317, 
+        "sw_longitude": -110.844, 
+        "fullname": "Buena Vista, Sonora, Nogales, Mexico", 
+        "sw_latitude": 31.308
+      }, 
+      "id": 113682
+    }
+  ]
+}

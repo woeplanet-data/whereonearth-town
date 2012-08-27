@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.255, 
+              47.794
+            ], 
+            [
+              2.255, 
+              47.826
+            ], 
+            [
+              2.287, 
+              47.826
+            ], 
+            [
+              2.287, 
+              47.794
+            ], 
+            [
+              2.255, 
+              47.794
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 594065, 
+        "name": "Guilly", 
+        "adjacent_woeid": [
+          592724, 
+          603530, 
+          614236, 
+          622127, 
+          631310
+        ], 
+        "ne_latitude": 47.826, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.287, 
+        "longitude": 2.274, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12639674, 
+        "latitude": 47.804, 
+        "sw_longitude": 2.255, 
+        "fullname": "Guilly, Centre, Loiret, France", 
+        "sw_latitude": 47.794
+      }, 
+      "id": 594065
+    }
+  ]
+}

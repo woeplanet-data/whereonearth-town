@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.360, 
+              25.691
+            ], 
+            [
+              -103.360, 
+              25.709
+            ], 
+            [
+              -103.340, 
+              25.709
+            ], 
+            [
+              -103.340, 
+              25.691
+            ], 
+            [
+              -103.360, 
+              25.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.709, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          111993, 
+          120062, 
+          121784, 
+          124945, 
+          127427, 
+          140515, 
+          140747, 
+          55913134, 
+          56075041
+        ], 
+        "woeid": 145919, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -103.340, 
+        "longitude": -103.350, 
+        "parent_woeid": 12599902, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.700, 
+        "sw_longitude": -103.360, 
+        "fullname": "Santa Cruz, Coahuila de Zaragoza, Matamoros, Mexico", 
+        "sw_latitude": 25.691
+      }, 
+      "id": 145919
+    }
+  ]
+}

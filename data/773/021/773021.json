@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.507, 
+              40.348
+            ], 
+            [
+              -5.507, 
+              40.388
+            ], 
+            [
+              -5.469, 
+              40.388
+            ], 
+            [
+              -5.469, 
+              40.348
+            ], 
+            [
+              -5.507, 
+              40.348
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.388, 
+        "name": "San Lorenzo de Tormes", 
+        "adjacent_woeid": [
+          757837, 
+          759356, 
+          762133, 
+          765716, 
+          776805
+        ], 
+        "woeid": 773021, 
+        "alias_SPA_V": [
+          "S. Lorenzo de Tormes"
+        ], 
+        "ne_longitude": -5.469, 
+        "longitude": -5.488, 
+        "parent_woeid": 12691320, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.370, 
+        "sw_longitude": -5.507, 
+        "fullname": "San Lorenzo de Tormes, Castille and Leon, Avila, Spain", 
+        "sw_latitude": 40.348
+      }, 
+      "id": 773021
+    }
+  ]
+}

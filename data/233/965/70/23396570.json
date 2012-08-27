@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.630, 
+              45.963
+            ], 
+            [
+              -71.630, 
+              46.073
+            ], 
+            [
+              -71.415, 
+              46.073
+            ], 
+            [
+              -71.415, 
+              45.963
+            ], 
+            [
+              -71.630, 
+              45.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396570, 
+        "name": "St.-Julien", 
+        "adjacent_woeid": [
+          3499, 
+          23394384, 
+          23394474, 
+          23394561, 
+          23394577, 
+          23396275, 
+          23396458, 
+          23396560
+        ], 
+        "ne_latitude": 46.073, 
+        "ne_longitude": -71.415, 
+        "longitude": -71.531, 
+        "parent_woeid": 29375172, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Julien"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.000, 
+        "sw_longitude": -71.630, 
+        "fullname": "St.-Julien, Quebec, l'Amiante, Canada", 
+        "sw_latitude": 45.963
+      }, 
+      "id": 23396570
+    }
+  ]
+}

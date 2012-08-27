@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.276, 
+              20.158
+            ], 
+            [
+              -98.276, 
+              20.176
+            ], 
+            [
+              -98.257, 
+              20.176
+            ], 
+            [
+              -98.257, 
+              20.158
+            ], 
+            [
+              -98.276, 
+              20.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.176, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          117800, 
+          144415, 
+          144800, 
+          145687, 
+          146969, 
+          148914
+        ], 
+        "woeid": 144988, 
+        "alias_SPA_V": [
+          "S. Pedro Tlachichilco"
+        ], 
+        "ne_longitude": -98.257, 
+        "longitude": -98.267, 
+        "parent_woeid": 12600111, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.167, 
+        "sw_longitude": -98.276, 
+        "fullname": "San Pedro, Hidalgo, Acaxochitlan, Mexico", 
+        "sw_latitude": 20.158
+      }, 
+      "id": 144988
+    }
+  ]
+}

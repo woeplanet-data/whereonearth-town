@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.260, 
+              20.974
+            ], 
+            [
+              -103.260, 
+              20.992
+            ], 
+            [
+              -103.240, 
+              20.992
+            ], 
+            [
+              -103.240, 
+              20.974
+            ], 
+            [
+              -103.260, 
+              20.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.992, 
+        "name": "Los Puentes", 
+        "adjacent_woeid": [
+          124250, 
+          125572, 
+          125857, 
+          137009, 
+          138022, 
+          144792
+        ], 
+        "woeid": 132327, 
+        "alias_SPA_V": [
+          "Puentes"
+        ], 
+        "ne_longitude": -103.240, 
+        "longitude": -103.250, 
+        "parent_woeid": 12600241, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.983, 
+        "sw_longitude": -103.260, 
+        "fullname": "Los Puentes, Jalisco, Ixtlahuacan del Rio, Mexico", 
+        "sw_latitude": 20.974
+      }, 
+      "id": 132327
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.040, 
+              40.916
+            ], 
+            [
+              -0.040, 
+              41.024
+            ], 
+            [
+              0.075, 
+              41.024
+            ], 
+            [
+              0.075, 
+              40.916
+            ], 
+            [
+              -0.040, 
+              40.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.024, 
+        "name": "Valjunquera", 
+        "adjacent_woeid": [
+          760822, 
+          763212, 
+          763412, 
+          766891, 
+          775743, 
+          776480, 
+          776567
+        ], 
+        "woeid": 776732, 
+        "alias_SPA_V": [
+          "Valljunquera"
+        ], 
+        "ne_longitude": 0.075, 
+        "longitude": 0.025, 
+        "parent_woeid": 12689817, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.956, 
+        "sw_longitude": -0.040, 
+        "fullname": "Valjunquera, Aragon, Teruel, Spain", 
+        "sw_latitude": 40.916
+      }, 
+      "id": 776732
+    }
+  ]
+}

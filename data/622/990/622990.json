@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.314, 
+              44.732
+            ], 
+            [
+              2.314, 
+              44.771
+            ], 
+            [
+              2.360, 
+              44.771
+            ], 
+            [
+              2.360, 
+              44.732
+            ], 
+            [
+              2.314, 
+              44.732
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622990, 
+        "name": "St.-Antoine", 
+        "adjacent_woeid": [
+          582729, 
+          607891, 
+          609888, 
+          613518
+        ], 
+        "ne_latitude": 44.771, 
+        "ne_longitude": 2.360, 
+        "longitude": 2.338, 
+        "parent_woeid": 12652183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Antoine"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.752, 
+        "sw_longitude": 2.314, 
+        "fullname": "St.-Antoine, Auvergne, Cantal, France", 
+        "sw_latitude": 44.732
+      }, 
+      "id": 622990
+    }
+  ]
+}

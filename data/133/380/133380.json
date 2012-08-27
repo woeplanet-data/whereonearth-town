@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.376, 
+              21.508
+            ], 
+            [
+              -98.376, 
+              21.526
+            ], 
+            [
+              -98.357, 
+              21.526
+            ], 
+            [
+              -98.357, 
+              21.508
+            ], 
+            [
+              -98.376, 
+              21.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.526, 
+        "name": "Mesa de Santiago", 
+        "adjacent_woeid": [
+          113111, 
+          119493, 
+          120461, 
+          142696, 
+          148104, 
+          148699, 
+          148700
+        ], 
+        "woeid": 133380, 
+        "alias_SPA_V": [
+          "Mesa Santiago"
+        ], 
+        "ne_longitude": -98.357, 
+        "longitude": -98.367, 
+        "parent_woeid": 12601880, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.517, 
+        "sw_longitude": -98.376, 
+        "fullname": "Mesa de Santiago, Veracruz-Llave, Tempoal, Mexico", 
+        "sw_latitude": 21.508
+      }, 
+      "id": 133380
+    }
+  ]
+}

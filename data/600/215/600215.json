@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.973, 
+              47.495
+            ], 
+            [
+              3.973, 
+              47.505
+            ], 
+            [
+              3.987, 
+              47.505
+            ], 
+            [
+              3.987, 
+              47.495
+            ], 
+            [
+              3.973, 
+              47.495
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600215, 
+        "name": "La Tuilerie", 
+        "adjacent_woeid": [
+          579889, 
+          584601, 
+          609240, 
+          612822
+        ], 
+        "ne_latitude": 47.505, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.987, 
+        "longitude": 3.980, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12641109, 
+        "latitude": 47.500, 
+        "sw_longitude": 3.973, 
+        "fullname": "La Tuilerie, Burgundy, Yonne, France", 
+        "sw_latitude": 47.495
+      }, 
+      "id": 600215
+    }
+  ]
+}

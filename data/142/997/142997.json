@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.909, 
+              16.191
+            ], 
+            [
+              -93.909, 
+              16.209
+            ], 
+            [
+              -93.891, 
+              16.209
+            ], 
+            [
+              -93.891, 
+              16.191
+            ], 
+            [
+              -93.909, 
+              16.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.209, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          112410, 
+          122719, 
+          123164, 
+          126621, 
+          144881, 
+          150852
+        ], 
+        "woeid": 142997, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -93.891, 
+        "longitude": -93.900, 
+        "parent_woeid": 12599716, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.200, 
+        "sw_longitude": -93.909, 
+        "fullname": "San Isidro, Chiapas, Arriaga, Mexico", 
+        "sw_latitude": 16.191
+      }, 
+      "id": 142997
+    }
+  ]
+}

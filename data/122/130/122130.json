@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.215, 
+              23.236
+            ], 
+            [
+              -106.215, 
+              23.255
+            ], 
+            [
+              -106.196, 
+              23.255
+            ], 
+            [
+              -106.196, 
+              23.236
+            ], 
+            [
+              -106.215, 
+              23.236
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.255, 
+        "name": "El Roble", 
+        "adjacent_woeid": [
+          119145, 
+          119607, 
+          121708, 
+          132802, 
+          150910
+        ], 
+        "woeid": 122130, 
+        "alias_SPA_V": [
+          "Roble"
+        ], 
+        "ne_longitude": -106.196, 
+        "longitude": -106.205, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.245, 
+        "sw_longitude": -106.215, 
+        "fullname": "El Roble, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.236
+      }, 
+      "id": 122130
+    }
+  ]
+}

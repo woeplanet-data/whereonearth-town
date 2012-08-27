@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.967, 
+              45.604
+            ], 
+            [
+              -71.967, 
+              45.755
+            ], 
+            [
+              -71.758, 
+              45.755
+            ], 
+            [
+              -71.758, 
+              45.604
+            ], 
+            [
+              -71.967, 
+              45.604
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394566, 
+        "name": "St.-Georges-de-Windsor", 
+        "adjacent_woeid": [
+          23394501, 
+          23394640, 
+          23396463
+        ], 
+        "ne_latitude": 45.755, 
+        "ne_longitude": -71.758, 
+        "longitude": -71.847, 
+        "parent_woeid": 29375047, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Georges-de-Windsor"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.700, 
+        "sw_longitude": -71.967, 
+        "fullname": "St.-Georges-de-Windsor, Quebec, Asbestos, Canada", 
+        "sw_latitude": 45.604
+      }, 
+      "id": 23394566
+    }
+  ]
+}

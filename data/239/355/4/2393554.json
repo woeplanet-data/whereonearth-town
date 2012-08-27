@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.323, 
+              43.654
+            ], 
+            [
+              -123.323, 
+              43.674
+            ], 
+            [
+              -123.304, 
+              43.674
+            ], 
+            [
+              -123.304, 
+              43.654
+            ], 
+            [
+              -123.323, 
+              43.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2393554, 
+        "name": "Drain", 
+        "adjacent_woeid": [
+          2354833, 
+          2385500, 
+          2398552, 
+          2438394, 
+          2441927, 
+          2498707, 
+          2511591, 
+          2513999, 
+          2524806
+        ], 
+        "ne_latitude": 43.674, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.304, 
+        "longitude": -123.315, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:47Z", 
+        "parent_woeid": 12589701, 
+        "latitude": 43.663, 
+        "sw_longitude": -123.323, 
+        "fullname": "Drain, Oregon, Douglas, United States", 
+        "sw_latitude": 43.654
+      }, 
+      "id": 2393554
+    }
+  ]
+}

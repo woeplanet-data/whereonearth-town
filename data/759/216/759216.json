@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.445, 
+              36.492
+            ], 
+            [
+              -5.445, 
+              36.590
+            ], 
+            [
+              -5.352, 
+              36.590
+            ], 
+            [
+              -5.352, 
+              36.492
+            ], 
+            [
+              -5.445, 
+              36.492
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 36.590, 
+        "name": "El Comenar", 
+        "adjacent_woeid": [
+          754188, 
+          773231, 
+          20227846
+        ], 
+        "woeid": 759216, 
+        "alias_SPA_V": [
+          "El Colmenar"
+        ], 
+        "ne_longitude": -5.352, 
+        "longitude": -5.388, 
+        "parent_woeid": 12689235, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.540, 
+        "sw_longitude": -5.445, 
+        "fullname": "El Comenar, Andalusia, Malaga, Spain", 
+        "sw_latitude": 36.492
+      }, 
+      "id": 759216
+    }
+  ]
+}

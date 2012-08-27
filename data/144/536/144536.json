@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.260, 
+              22.591
+            ], 
+            [
+              -102.260, 
+              22.609
+            ], 
+            [
+              -102.240, 
+              22.609
+            ], 
+            [
+              -102.240, 
+              22.591
+            ], 
+            [
+              -102.260, 
+              22.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.609, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          124428, 
+          125765, 
+          135041, 
+          135648, 
+          142139, 
+          149549, 
+          150158, 
+          55884278
+        ], 
+        "woeid": 144536, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -102.240, 
+        "longitude": -102.250, 
+        "parent_woeid": 12602067, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.600, 
+        "sw_longitude": -102.260, 
+        "fullname": "San Miguel, Zacatecas, Ojocaliente, Mexico", 
+        "sw_latitude": 22.591
+      }, 
+      "id": 144536
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.168, 
+              47.994
+            ], 
+            [
+              12.168, 
+              48.012
+            ], 
+            [
+              12.195, 
+              48.012
+            ], 
+            [
+              12.195, 
+              47.994
+            ], 
+            [
+              12.168, 
+              47.994
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346552, 
+        "name": "Klosterfeld", 
+        "adjacent_woeid": [
+          665612, 
+          669850, 
+          20153358, 
+          23410920
+        ], 
+        "ne_latitude": 48.012, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.195, 
+        "longitude": 12.182, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:26Z", 
+        "parent_woeid": 12622773, 
+        "latitude": 48.004, 
+        "sw_longitude": 12.168, 
+        "fullname": "Klosterfeld, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.994
+      }, 
+      "id": 29346552
+    }
+  ]
+}

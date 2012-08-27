@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.613, 
+              41.624
+            ], 
+            [
+              -79.613, 
+              41.706
+            ], 
+            [
+              -79.494, 
+              41.706
+            ], 
+            [
+              -79.494, 
+              41.624
+            ], 
+            [
+              -79.613, 
+              41.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744785, 
+        "name": "Southwest", 
+        "adjacent_woeid": [
+          2508082, 
+          28744598, 
+          28744635, 
+          28744715, 
+          28744830
+        ], 
+        "ne_latitude": 41.706, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "SW Township"
+        ], 
+        "ne_longitude": -79.494, 
+        "longitude": -79.546, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589789, 
+        "latitude": 41.676, 
+        "sw_longitude": -79.613, 
+        "fullname": "Southwest, Pennsylvania, Warren, United States", 
+        "sw_latitude": 41.624
+      }, 
+      "id": 28744785
+    }
+  ]
+}

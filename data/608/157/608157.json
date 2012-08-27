@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.098, 
+              44.656
+            ], 
+            [
+              2.098, 
+              44.680
+            ], 
+            [
+              2.126, 
+              44.680
+            ], 
+            [
+              2.126, 
+              44.656
+            ], 
+            [
+              2.098, 
+              44.656
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608157, 
+        "name": "Linac", 
+        "adjacent_woeid": [
+          617996, 
+          15003175, 
+          20193691, 
+          29331831
+        ], 
+        "ne_latitude": 44.680, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.126, 
+        "longitude": 2.112, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12658434, 
+        "latitude": 44.667, 
+        "sw_longitude": 2.098, 
+        "fullname": "Linac, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.656
+      }, 
+      "id": 608157
+    }
+  ]
+}

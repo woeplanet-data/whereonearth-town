@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.511, 
+              45.354
+            ], 
+            [
+              3.511, 
+              45.390
+            ], 
+            [
+              3.546, 
+              45.390
+            ], 
+            [
+              3.546, 
+              45.354
+            ], 
+            [
+              3.511, 
+              45.354
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627208, 
+        "name": "St.-Vert", 
+        "adjacent_woeid": [
+          584149, 
+          589029, 
+          590721, 
+          601800, 
+          20206252
+        ], 
+        "ne_latitude": 45.390, 
+        "ne_longitude": 3.546, 
+        "longitude": 3.532, 
+        "parent_woeid": 22754894, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vert"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.371, 
+        "sw_longitude": 3.511, 
+        "fullname": "St.-Vert, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.354
+      }, 
+      "id": 627208
+    }
+  ]
+}

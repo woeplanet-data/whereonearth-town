@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.699, 
+              43.552
+            ], 
+            [
+              0.699, 
+              43.592
+            ], 
+            [
+              0.743, 
+              43.592
+            ], 
+            [
+              0.743, 
+              43.552
+            ], 
+            [
+              0.699, 
+              43.552
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583257, 
+        "name": "Castelnau-Barbarens", 
+        "adjacent_woeid": [
+          578952, 
+          581074, 
+          594390, 
+          601567, 
+          609051, 
+          616191, 
+          623381
+        ], 
+        "ne_latitude": 43.592, 
+        "ne_longitude": 0.743, 
+        "longitude": 0.725, 
+        "parent_woeid": 12658465, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Castelnau"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.576, 
+        "sw_longitude": 0.699, 
+        "fullname": "Castelnau-Barbarens, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.552
+      }, 
+      "id": 583257
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.087, 
+              45.017
+            ], 
+            [
+              -123.087, 
+              45.026
+            ], 
+            [
+              -123.074, 
+              45.026
+            ], 
+            [
+              -123.074, 
+              45.017
+            ], 
+            [
+              -123.087, 
+              45.017
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2439461, 
+        "name": "Lincoln", 
+        "adjacent_woeid": [
+          2363495, 
+          2395028, 
+          2435283, 
+          2525250
+        ], 
+        "ne_latitude": 45.026, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.074, 
+        "longitude": -123.080, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:28:12Z", 
+        "parent_woeid": 12589718, 
+        "latitude": 45.022, 
+        "sw_longitude": -123.087, 
+        "fullname": "Lincoln, Oregon, Polk, United States", 
+        "sw_latitude": 45.017
+      }, 
+      "id": 2439461
+    }
+  ]
+}

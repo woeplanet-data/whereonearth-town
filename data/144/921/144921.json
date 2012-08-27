@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.360, 
+              29.424
+            ], 
+            [
+              -110.360, 
+              29.442
+            ], 
+            [
+              -110.340, 
+              29.442
+            ], 
+            [
+              -110.340, 
+              29.424
+            ], 
+            [
+              -110.360, 
+              29.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.442, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          127351, 
+          131963, 
+          137751, 
+          138215, 
+          150394
+        ], 
+        "woeid": 144921, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -110.340, 
+        "longitude": -110.350, 
+        "parent_woeid": 12601611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.433, 
+        "sw_longitude": -110.360, 
+        "fullname": "San Pedro, Sonora, Ures, Mexico", 
+        "sw_latitude": 29.424
+      }, 
+      "id": 144921
+    }
+  ]
+}

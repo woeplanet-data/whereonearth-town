@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.106, 
+              44.872
+            ], 
+            [
+              0.106, 
+              44.928
+            ], 
+            [
+              0.155, 
+              44.928
+            ], 
+            [
+              0.155, 
+              44.872
+            ], 
+            [
+              0.106, 
+              44.872
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612340, 
+        "name": "Montazeau", 
+        "adjacent_woeid": [
+          583140, 
+          612985, 
+          613911, 
+          627306
+        ], 
+        "ne_latitude": 44.928, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.155, 
+        "longitude": 0.131, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12649418, 
+        "latitude": 44.894, 
+        "sw_longitude": 0.106, 
+        "fullname": "Montazeau, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.872
+      }, 
+      "id": 612340
+    }
+  ]
+}

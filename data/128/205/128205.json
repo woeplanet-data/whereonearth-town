@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.860, 
+              23.508
+            ], 
+            [
+              -100.860, 
+              23.526
+            ], 
+            [
+              -100.840, 
+              23.526
+            ], 
+            [
+              -100.840, 
+              23.508
+            ], 
+            [
+              -100.860, 
+              23.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.526, 
+        "name": "La Maroma", 
+        "adjacent_woeid": [
+          115185, 
+          117356, 
+          124329, 
+          131134, 
+          132688, 
+          148200
+        ], 
+        "woeid": 128205, 
+        "alias_SPA_V": [
+          "Maroma"
+        ], 
+        "ne_longitude": -100.840, 
+        "longitude": -100.850, 
+        "parent_woeid": 12601475, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.517, 
+        "sw_longitude": -100.860, 
+        "fullname": "La Maroma, San Luis Potosi, Catorce, Mexico", 
+        "sw_latitude": 23.508
+      }, 
+      "id": 128205
+    }
+  ]
+}

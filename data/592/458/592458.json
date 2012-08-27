@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.702, 
+              43.675
+            ], 
+            [
+              1.702, 
+              43.706
+            ], 
+            [
+              1.726, 
+              43.706
+            ], 
+            [
+              1.726, 
+              43.675
+            ], 
+            [
+              1.702, 
+              43.675
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592458, 
+        "name": "Garrigues", 
+        "adjacent_woeid": [
+          577709, 
+          608947, 
+          612999, 
+          622779
+        ], 
+        "ne_latitude": 43.706, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.726, 
+        "longitude": 1.716, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12661949, 
+        "latitude": 43.695, 
+        "sw_longitude": 1.702, 
+        "fullname": "Garrigues, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.675
+      }, 
+      "id": 592458
+    }
+  ]
+}

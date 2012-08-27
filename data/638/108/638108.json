@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.381, 
+              48.962
+            ], 
+            [
+              10.381, 
+              48.997
+            ], 
+            [
+              10.405, 
+              48.997
+            ], 
+            [
+              10.405, 
+              48.962
+            ], 
+            [
+              10.381, 
+              48.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638108, 
+        "name": "Bergheim", 
+        "adjacent_woeid": [
+          647662, 
+          687136, 
+          701940, 
+          20158748
+        ], 
+        "ne_latitude": 48.997, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.405, 
+        "longitude": 10.396, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12624236, 
+        "latitude": 48.982, 
+        "sw_longitude": 10.381, 
+        "fullname": "Bergheim, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.962
+      }, 
+      "id": 638108
+    }
+  ]
+}

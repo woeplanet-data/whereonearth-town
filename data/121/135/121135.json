@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.576, 
+              21.891
+            ], 
+            [
+              -105.576, 
+              21.909
+            ], 
+            [
+              -105.557, 
+              21.909
+            ], 
+            [
+              -105.557, 
+              21.891
+            ], 
+            [
+              -105.576, 
+              21.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.909, 
+        "name": "El Nuevo", 
+        "adjacent_woeid": [
+          127693, 
+          130524, 
+          133211, 
+          136525
+        ], 
+        "woeid": 121135, 
+        "alias_SPA_V": [
+          "Rancho Nuevo"
+        ], 
+        "ne_longitude": -105.557, 
+        "longitude": -105.567, 
+        "parent_woeid": 12600601, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.900, 
+        "sw_longitude": -105.576, 
+        "fullname": "El Nuevo, Nayarit, Santiago Ixcuintla, Mexico", 
+        "sw_latitude": 21.891
+      }, 
+      "id": 121135
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.260, 
+              20.258
+            ], 
+            [
+              -98.260, 
+              20.276
+            ], 
+            [
+              -98.240, 
+              20.276
+            ], 
+            [
+              -98.240, 
+              20.258
+            ], 
+            [
+              -98.260, 
+              20.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.276, 
+        "name": "La Magdalena", 
+        "adjacent_woeid": [
+          123642, 
+          127104, 
+          133453, 
+          144415, 
+          148735, 
+          151472
+        ], 
+        "woeid": 128151, 
+        "alias_SPA_V": [
+          "Magdalena"
+        ], 
+        "ne_longitude": -98.240, 
+        "longitude": -98.250, 
+        "parent_woeid": 12601269, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.267, 
+        "sw_longitude": -98.260, 
+        "fullname": "La Magdalena, Puebla, Honey, Mexico", 
+        "sw_latitude": 20.258
+      }, 
+      "id": 128151
+    }
+  ]
+}

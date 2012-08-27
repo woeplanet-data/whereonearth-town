@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.209, 
+              14.774
+            ], 
+            [
+              -92.209, 
+              14.792
+            ], 
+            [
+              -92.191, 
+              14.792
+            ], 
+            [
+              -92.191, 
+              14.774
+            ], 
+            [
+              -92.209, 
+              14.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.792, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          123792, 
+          125368, 
+          127822, 
+          133441, 
+          142583, 
+          149193
+        ], 
+        "woeid": 119521, 
+        "alias_SPA_V": [
+          "Carmen"
+        ], 
+        "ne_longitude": -92.191, 
+        "longitude": -92.200, 
+        "parent_woeid": 12599742, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.783, 
+        "sw_longitude": -92.209, 
+        "fullname": "El Carmen, Chiapas, Frontera Hidalgo, Mexico", 
+        "sw_latitude": 14.774
+      }, 
+      "id": 119521
+    }
+  ]
+}

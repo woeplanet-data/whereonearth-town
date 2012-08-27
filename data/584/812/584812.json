@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.235, 
+              45.237
+            ], 
+            [
+              0.235, 
+              45.275
+            ], 
+            [
+              0.271, 
+              45.275
+            ], 
+            [
+              0.271, 
+              45.237
+            ], 
+            [
+              0.235, 
+              45.237
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584812, 
+        "name": "Chassaignes", 
+        "adjacent_woeid": [
+          581202, 
+          590894, 
+          616287, 
+          630039
+        ], 
+        "ne_latitude": 45.275, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.271, 
+        "longitude": 0.252, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12641212, 
+        "latitude": 45.255, 
+        "sw_longitude": 0.235, 
+        "fullname": "Chassaignes, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.237
+      }, 
+      "id": 584812
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.682, 
+              48.880
+            ], 
+            [
+              10.682, 
+              48.906
+            ], 
+            [
+              10.722, 
+              48.906
+            ], 
+            [
+              10.722, 
+              48.880
+            ], 
+            [
+              10.682, 
+              48.880
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635002, 
+        "name": "Amerbach", 
+        "adjacent_woeid": [
+          635003, 
+          649029, 
+          669057, 
+          676982, 
+          696779, 
+          20157843
+        ], 
+        "ne_latitude": 48.906, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.722, 
+        "longitude": 10.698, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:25Z", 
+        "parent_woeid": 12635021, 
+        "latitude": 48.890, 
+        "sw_longitude": 10.682, 
+        "fullname": "Amerbach, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.880
+      }, 
+      "id": 635002
+    }
+  ]
+}

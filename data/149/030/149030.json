@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.082, 
+              18.720
+            ], 
+            [
+              -97.082, 
+              18.742
+            ], 
+            [
+              -97.057, 
+              18.742
+            ], 
+            [
+              -97.057, 
+              18.720
+            ], 
+            [
+              -97.082, 
+              18.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.742, 
+        "name": "Tequila", 
+        "adjacent_woeid": [
+          112632, 
+          112710, 
+          132375, 
+          132662, 
+          141467, 
+          149810
+        ], 
+        "woeid": 149030, 
+        "alias_SPA_V": [
+          "S. Pedro Tequila"
+        ], 
+        "ne_longitude": -97.057, 
+        "longitude": -97.072, 
+        "parent_woeid": 12601887, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.729, 
+        "sw_longitude": -97.082, 
+        "fullname": "Tequila, Veracruz-Llave, Tequila, Mexico", 
+        "sw_latitude": 18.720
+      }, 
+      "id": 149030
+    }
+  ]
+}

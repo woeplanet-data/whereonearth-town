@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.107, 
+              22.134
+            ], 
+            [
+              -105.107, 
+              22.152
+            ], 
+            [
+              -105.087, 
+              22.152
+            ], 
+            [
+              -105.087, 
+              22.134
+            ], 
+            [
+              -105.107, 
+              22.134
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.152, 
+        "name": "San Juan Bautista", 
+        "adjacent_woeid": [
+          122211, 
+          130823, 
+          131567, 
+          133883, 
+          136015, 
+          148972
+        ], 
+        "woeid": 143819, 
+        "alias_SPA_V": [
+          "S Juan Bautista"
+        ], 
+        "ne_longitude": -105.087, 
+        "longitude": -105.097, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.143, 
+        "sw_longitude": -105.107, 
+        "fullname": "San Juan Bautista, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 22.134
+      }, 
+      "id": 143819
+    }
+  ]
+}

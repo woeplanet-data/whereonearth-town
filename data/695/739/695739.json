@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.247, 
+              49.322
+            ], 
+            [
+              10.247, 
+              49.345
+            ], 
+            [
+              10.269, 
+              49.345
+            ], 
+            [
+              10.269, 
+              49.322
+            ], 
+            [
+              10.247, 
+              49.322
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 695739, 
+        "name": "Speierhof", 
+        "adjacent_woeid": [
+          679137, 
+          680935, 
+          685314, 
+          692892, 
+          706516
+        ], 
+        "ne_latitude": 49.345, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.269, 
+        "longitude": 10.259, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:49Z", 
+        "parent_woeid": 12634402, 
+        "latitude": 49.331, 
+        "sw_longitude": 10.247, 
+        "fullname": "Speierhof, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.322
+      }, 
+      "id": 695739
+    }
+  ]
+}

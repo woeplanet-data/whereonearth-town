@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.506, 
+              51.456
+            ], 
+            [
+              10.506, 
+              51.495
+            ], 
+            [
+              10.542, 
+              51.495
+            ], 
+            [
+              10.542, 
+              51.456
+            ], 
+            [
+              10.506, 
+              51.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666769, 
+        "name": "Kleinbodungen", 
+        "adjacent_woeid": [
+          654839, 
+          668586, 
+          672173, 
+          703735
+        ], 
+        "ne_latitude": 51.495, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.542, 
+        "longitude": 10.529, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12624744, 
+        "latitude": 51.471, 
+        "sw_longitude": 10.506, 
+        "fullname": "Kleinbodungen, Thuringia, Landkreis Nordhausen, Germany", 
+        "sw_latitude": 51.456
+      }, 
+      "id": 666769
+    }
+  ]
+}

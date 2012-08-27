@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.882, 
+              41.684
+            ], 
+            [
+              -0.882, 
+              41.727
+            ], 
+            [
+              -0.842, 
+              41.727
+            ], 
+            [
+              -0.842, 
+              41.684
+            ], 
+            [
+              -0.882, 
+              41.684
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.727, 
+        "name": "San Gregorio", 
+        "adjacent_woeid": [
+          762920, 
+          767513, 
+          772943
+        ], 
+        "woeid": 20225805, 
+        "alias_SPA_V": [
+          "S. Gregorio"
+        ], 
+        "ne_longitude": -0.842, 
+        "longitude": -0.863, 
+        "parent_woeid": 12690123, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.691, 
+        "sw_longitude": -0.882, 
+        "fullname": "San Gregorio, Aragon, Zaragoza, Spain", 
+        "sw_latitude": 41.684
+      }, 
+      "id": 20225805
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.070, 
+              -1.220
+            ], 
+            [
+              -80.070, 
+              -1.201
+            ], 
+            [
+              -80.052, 
+              -1.201
+            ], 
+            [
+              -80.052, 
+              -1.220
+            ], 
+            [
+              -80.070, 
+              -1.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -1.201, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          371679, 
+          373024, 
+          376094, 
+          376095
+        ], 
+        "woeid": 376256, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -80.052, 
+        "longitude": -80.061, 
+        "parent_woeid": 26810467, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.210, 
+        "sw_longitude": -80.070, 
+        "fullname": "San Pablo, Manabi, Santa Ana, Ecuador", 
+        "sw_latitude": -1.220
+      }, 
+      "id": 376256
+    }
+  ]
+}

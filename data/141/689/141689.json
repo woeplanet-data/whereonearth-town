@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.893, 
+              19.774
+            ], 
+            [
+              -103.893, 
+              19.792
+            ], 
+            [
+              -103.874, 
+              19.792
+            ], 
+            [
+              -103.874, 
+              19.774
+            ], 
+            [
+              -103.893, 
+              19.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.792, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          119676, 
+          125932, 
+          136167, 
+          143608, 
+          148726, 
+          150263, 
+          151384
+        ], 
+        "woeid": 141689, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -103.874, 
+        "longitude": -103.883, 
+        "parent_woeid": 12600220, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.783, 
+        "sw_longitude": -103.893, 
+        "fullname": "San Antonio, Jalisco, San Gabriel, Mexico", 
+        "sw_latitude": 19.774
+      }, 
+      "id": 141689
+    }
+  ]
+}

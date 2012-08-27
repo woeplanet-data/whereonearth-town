@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.707, 
+              49.923
+            ], 
+            [
+              1.707, 
+              49.960
+            ], 
+            [
+              1.748, 
+              49.960
+            ], 
+            [
+              1.748, 
+              49.923
+            ], 
+            [
+              1.707, 
+              49.923
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631970, 
+        "name": "Villeroy", 
+        "adjacent_woeid": [
+          583645, 
+          591662, 
+          613417, 
+          618768, 
+          618769
+        ], 
+        "ne_latitude": 49.960, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.748, 
+        "longitude": 1.726, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "parent_woeid": 12672536, 
+        "latitude": 49.940, 
+        "sw_longitude": 1.707, 
+        "fullname": "Villeroy, Picardie, Somme, France", 
+        "sw_latitude": 49.923
+      }, 
+      "id": 631970
+    }
+  ]
+}

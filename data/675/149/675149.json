@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.501, 
+              50.356
+            ], 
+            [
+              8.501, 
+              50.404
+            ], 
+            [
+              8.555, 
+              50.404
+            ], 
+            [
+              8.555, 
+              50.356
+            ], 
+            [
+              8.501, 
+              50.356
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675149, 
+        "name": "Michelbach", 
+        "adjacent_woeid": [
+          639822, 
+          648645, 
+          662937, 
+          673433, 
+          705498
+        ], 
+        "ne_latitude": 50.404, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.555, 
+        "longitude": 8.533, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12632510, 
+        "latitude": 50.373, 
+        "sw_longitude": 8.501, 
+        "fullname": "Michelbach, Hesse, Hochtaunuskreis, Germany", 
+        "sw_latitude": 50.356
+      }, 
+      "id": 675149
+    }
+  ]
+}

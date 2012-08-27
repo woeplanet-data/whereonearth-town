@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.693, 
+              15.124
+            ], 
+            [
+              -92.693, 
+              15.142
+            ], 
+            [
+              -92.674, 
+              15.142
+            ], 
+            [
+              -92.674, 
+              15.124
+            ], 
+            [
+              -92.693, 
+              15.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.142, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          119093, 
+          124825, 
+          130095, 
+          140761, 
+          150311
+        ], 
+        "woeid": 147204, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -92.674, 
+        "longitude": -92.683, 
+        "parent_woeid": 12599814, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.133, 
+        "sw_longitude": -92.693, 
+        "fullname": "Santo Domingo, Chiapas, Villa Comaltitlan, Mexico", 
+        "sw_latitude": 15.124
+      }, 
+      "id": 147204
+    }
+  ]
+}

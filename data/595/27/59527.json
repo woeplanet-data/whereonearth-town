@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.138, 
+              10.029
+            ], 
+            [
+              -84.138, 
+              10.038
+            ], 
+            [
+              -84.129, 
+              10.038
+            ], 
+            [
+              -84.129, 
+              10.029
+            ], 
+            [
+              -84.138, 
+              10.029
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.038, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          57796, 
+          57802, 
+          57832, 
+          59430, 
+          59451
+        ], 
+        "woeid": 59527, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -84.129, 
+        "longitude": -84.133, 
+        "parent_woeid": 26809221, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.033, 
+        "sw_longitude": -84.138, 
+        "fullname": "San Pedro, Heredia, Barva, Costa Rica", 
+        "sw_latitude": 10.029
+      }, 
+      "id": 59527
+    }
+  ]
+}

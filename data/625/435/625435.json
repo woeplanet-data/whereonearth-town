@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.440, 
+              47.788
+            ], 
+            [
+              -2.440, 
+              47.818
+            ], 
+            [
+              -2.401, 
+              47.818
+            ], 
+            [
+              -2.401, 
+              47.788
+            ], 
+            [
+              -2.440, 
+              47.788
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625435, 
+        "name": "St.-Marcel", 
+        "adjacent_woeid": [
+          580332, 
+          583112, 
+          597378, 
+          611654, 
+          616910, 
+          622762
+        ], 
+        "ne_latitude": 47.818, 
+        "ne_longitude": -2.401, 
+        "longitude": -2.419, 
+        "parent_woeid": 12652832, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marcel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.804, 
+        "sw_longitude": -2.440, 
+        "fullname": "St.-Marcel, Brittany, Morbihan, France", 
+        "sw_latitude": 47.788
+      }, 
+      "id": 625435
+    }
+  ]
+}

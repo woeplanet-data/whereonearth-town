@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.378, 
+              46.012
+            ], 
+            [
+              -60.378, 
+              46.030
+            ], 
+            [
+              -60.351, 
+              46.030
+            ], 
+            [
+              -60.351, 
+              46.012
+            ], 
+            [
+              -60.378, 
+              46.012
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23390822, 
+        "name": "East Bay", 
+        "adjacent_woeid": [
+          23390518, 
+          23390652, 
+          23390664, 
+          23390914, 
+          23391199, 
+          23391379
+        ], 
+        "ne_latitude": 46.030, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Bay"
+        ], 
+        "ne_longitude": -60.351, 
+        "longitude": -60.365, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "parent_woeid": 29375130, 
+        "latitude": 46.021, 
+        "sw_longitude": -60.378, 
+        "fullname": "East Bay, Nova Scotia, Cape Breton, Canada", 
+        "sw_latitude": 46.012
+      }, 
+      "id": 23390822
+    }
+  ]
+}

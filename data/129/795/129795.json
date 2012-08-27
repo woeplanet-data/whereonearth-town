@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.010, 
+              27.824
+            ], 
+            [
+              -104.010, 
+              27.842
+            ], 
+            [
+              -103.990, 
+              27.842
+            ], 
+            [
+              -103.990, 
+              27.824
+            ], 
+            [
+              -104.010, 
+              27.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.842, 
+        "name": "Laguna de Jaco", 
+        "adjacent_woeid": [
+          118250, 
+          124939, 
+          130694, 
+          131458, 
+          142875, 
+          143047, 
+          147563
+        ], 
+        "woeid": 129795, 
+        "alias_SPA_V": [
+          "Jaco"
+        ], 
+        "ne_longitude": -103.990, 
+        "longitude": -104.000, 
+        "parent_woeid": 12599829, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.833, 
+        "sw_longitude": -104.010, 
+        "fullname": "Laguna de Jaco, Chihuahua, Camargo, Mexico", 
+        "sw_latitude": 27.824
+      }, 
+      "id": 129795
+    }
+  ]
+}

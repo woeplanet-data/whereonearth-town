@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.020, 
+              50.107
+            ], 
+            [
+              11.020, 
+              50.123
+            ], 
+            [
+              11.043, 
+              50.123
+            ], 
+            [
+              11.043, 
+              50.107
+            ], 
+            [
+              11.020, 
+              50.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707684, 
+        "name": "Wolfsdorf", 
+        "adjacent_woeid": [
+          655502, 
+          689448, 
+          692913, 
+          702340
+        ], 
+        "ne_latitude": 50.123, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.043, 
+        "longitude": 11.031, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12635369, 
+        "latitude": 50.115, 
+        "sw_longitude": 11.020, 
+        "fullname": "Wolfsdorf, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.107
+      }, 
+      "id": 707684
+    }
+  ]
+}

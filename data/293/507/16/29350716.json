@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.318, 
+              53.482
+            ], 
+            [
+              10.318, 
+              53.501
+            ], 
+            [
+              10.349, 
+              53.501
+            ], 
+            [
+              10.349, 
+              53.482
+            ], 
+            [
+              10.318, 
+              53.482
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29350716, 
+        "name": "Bornberg", 
+        "adjacent_woeid": [
+          643831, 
+          649192, 
+          677606
+        ], 
+        "ne_latitude": 53.501, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.349, 
+        "longitude": 10.334, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:52Z", 
+        "parent_woeid": 12632092, 
+        "latitude": 53.491, 
+        "sw_longitude": 10.318, 
+        "fullname": "Bornberg, Schleswig-Holstein, Herzogtum Lauenburg, Germany", 
+        "sw_latitude": 53.482
+      }, 
+      "id": 29350716
+    }
+  ]
+}

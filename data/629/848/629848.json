@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.524, 
+              45.479
+            ], 
+            [
+              5.524, 
+              45.509
+            ], 
+            [
+              5.557, 
+              45.509
+            ], 
+            [
+              5.557, 
+              45.479
+            ], 
+            [
+              5.524, 
+              45.479
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629848, 
+        "name": "Valencogne", 
+        "adjacent_woeid": [
+          581754, 
+          584583, 
+          584849, 
+          615522, 
+          626119, 
+          626370
+        ], 
+        "ne_latitude": 45.509, 
+        "ne_longitude": 5.557, 
+        "longitude": 5.538, 
+        "parent_woeid": 12657790, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vallencogne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.498, 
+        "sw_longitude": 5.524, 
+        "fullname": "Valencogne, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.479
+      }, 
+      "id": 629848
+    }
+  ]
+}

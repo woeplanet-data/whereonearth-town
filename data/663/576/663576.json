@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.273, 
+              47.709
+            ], 
+            [
+              12.273, 
+              47.718
+            ], 
+            [
+              12.287, 
+              47.718
+            ], 
+            [
+              12.287, 
+              47.709
+            ], 
+            [
+              12.273, 
+              47.709
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 663576, 
+        "name": "Innerwald", 
+        "adjacent_woeid": [
+          653952, 
+          662660, 
+          690668, 
+          696582
+        ], 
+        "ne_latitude": 47.718, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.287, 
+        "longitude": 12.281, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:47Z", 
+        "parent_woeid": 12635762, 
+        "latitude": 47.714, 
+        "sw_longitude": 12.273, 
+        "fullname": "Innerwald, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.709
+      }, 
+      "id": 663576
+    }
+  ]
+}

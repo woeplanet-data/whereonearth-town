@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.293, 
+              46.101
+            ], 
+            [
+              3.293, 
+              46.125
+            ], 
+            [
+              3.330, 
+              46.125
+            ], 
+            [
+              3.330, 
+              46.101
+            ], 
+            [
+              3.293, 
+              46.101
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 586395, 
+        "name": "Cognat-Lyonne", 
+        "adjacent_woeid": [
+          580004, 
+          590084, 
+          621839, 
+          20205323, 
+          20205355
+        ], 
+        "ne_latitude": 46.125, 
+        "ne_longitude": 3.330, 
+        "longitude": 3.310, 
+        "parent_woeid": 22755027, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cognat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.108, 
+        "sw_longitude": 3.293, 
+        "fullname": "Cognat-Lyonne, Auvergne, Allier, France", 
+        "sw_latitude": 46.101
+      }, 
+      "id": 586395
+    }
+  ]
+}

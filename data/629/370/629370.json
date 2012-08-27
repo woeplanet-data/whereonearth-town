@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.256, 
+              49.205
+            ], 
+            [
+              -1.256, 
+              49.230
+            ], 
+            [
+              -1.228, 
+              49.230
+            ], 
+            [
+              -1.228, 
+              49.205
+            ], 
+            [
+              -1.256, 
+              49.205
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629370, 
+        "name": "Tribehou", 
+        "adjacent_woeid": [
+          603272, 
+          603578, 
+          605802, 
+          609829, 
+          619117, 
+          622917
+        ], 
+        "ne_latitude": 49.230, 
+        "ne_longitude": -1.228, 
+        "longitude": -1.243, 
+        "parent_woeid": 12653853, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Tribeahou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.215, 
+        "sw_longitude": -1.256, 
+        "fullname": "Tribehou, Basse-Normandie, Manche, France", 
+        "sw_latitude": 49.205
+      }, 
+      "id": 629370
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.855, 
+              43.208
+            ], 
+            [
+              1.855, 
+              43.255
+            ], 
+            [
+              1.912, 
+              43.255
+            ], 
+            [
+              1.912, 
+              43.208
+            ], 
+            [
+              1.855, 
+              43.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622859, 
+        "name": "St.-Amans", 
+        "adjacent_woeid": [
+          591527, 
+          592337, 
+          592604, 
+          610703, 
+          615857
+        ], 
+        "ne_latitude": 43.255, 
+        "ne_longitude": 1.912, 
+        "longitude": 1.886, 
+        "parent_woeid": 12670083, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Amans"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.229, 
+        "sw_longitude": 1.855, 
+        "fullname": "St.-Amans, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 43.208
+      }, 
+      "id": 622859
+    }
+  ]
+}

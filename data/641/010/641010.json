@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.206, 
+              49.026
+            ], 
+            [
+              10.206, 
+              49.044
+            ], 
+            [
+              10.234, 
+              49.044
+            ], 
+            [
+              10.234, 
+              49.026
+            ], 
+            [
+              10.206, 
+              49.026
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641010, 
+        "name": "Breitenbach", 
+        "adjacent_woeid": [
+          637264, 
+          643722, 
+          646989, 
+          674258, 
+          692895, 
+          697390, 
+          700837, 
+          29352826, 
+          29352997
+        ], 
+        "ne_latitude": 49.044, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.234, 
+        "longitude": 10.220, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12624208, 
+        "latitude": 49.035, 
+        "sw_longitude": 10.206, 
+        "fullname": "Breitenbach, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 49.026
+      }, 
+      "id": 641010
+    }
+  ]
+}

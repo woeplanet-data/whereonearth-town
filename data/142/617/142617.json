@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.343, 
+              27.579
+            ], 
+            [
+              -105.343, 
+              27.597
+            ], 
+            [
+              -105.323, 
+              27.597
+            ], 
+            [
+              -105.323, 
+              27.579
+            ], 
+            [
+              -105.343, 
+              27.579
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.597, 
+        "name": "San Francisco de Conchos", 
+        "adjacent_woeid": [
+          126543, 
+          127909, 
+          128176, 
+          134284, 
+          137483
+        ], 
+        "woeid": 142617, 
+        "alias_SPA_V": [
+          "S. Francisco de Conchos"
+        ], 
+        "ne_longitude": -105.323, 
+        "longitude": -105.333, 
+        "parent_woeid": 12599877, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.588, 
+        "sw_longitude": -105.343, 
+        "fullname": "San Francisco de Conchos, Chihuahua, San Francisco de Conchos, Mexico", 
+        "sw_latitude": 27.579
+      }, 
+      "id": 142617
+    }
+  ]
+}

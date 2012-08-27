@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.395, 
+              43.060
+            ], 
+            [
+              1.395, 
+              43.098
+            ], 
+            [
+              1.428, 
+              43.098
+            ], 
+            [
+              1.428, 
+              43.060
+            ], 
+            [
+              1.395, 
+              43.060
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592291, 
+        "name": "Gabre", 
+        "adjacent_woeid": [
+          575526, 
+          612505, 
+          615491, 
+          620544
+        ], 
+        "ne_latitude": 43.098, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.428, 
+        "longitude": 1.416, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12661888, 
+        "latitude": 43.075, 
+        "sw_longitude": 1.395, 
+        "fullname": "Gabre, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.060
+      }, 
+      "id": 592291
+    }
+  ]
+}

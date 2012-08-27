@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.029, 
+              19.607
+            ], 
+            [
+              -72.029, 
+              19.625
+            ], 
+            [
+              -72.010, 
+              19.625
+            ], 
+            [
+              -72.010, 
+              19.607
+            ], 
+            [
+              -72.029, 
+              19.607
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 97510, 
+        "name": "Trou du Nord", 
+        "adjacent_woeid": [
+          88982, 
+          90800, 
+          91672, 
+          91845, 
+          93470, 
+          97165
+        ], 
+        "ne_latitude": 19.625, 
+        "ne_longitude": -72.010, 
+        "longitude": -72.019, 
+        "parent_woeid": 2345619, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Trou"
+        ], 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.616, 
+        "sw_longitude": -72.029, 
+        "fullname": "Trou du Nord, Nord-Est, Haiti", 
+        "sw_latitude": 19.607
+      }, 
+      "id": 97510
+    }
+  ]
+}

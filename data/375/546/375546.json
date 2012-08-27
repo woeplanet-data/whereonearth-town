@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.435, 
+              0.811
+            ], 
+            [
+              -79.435, 
+              1.261
+            ], 
+            [
+              -78.985, 
+              1.261
+            ], 
+            [
+              -78.985, 
+              0.811
+            ], 
+            [
+              -79.435, 
+              0.811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 1.261, 
+        "name": "Valdez", 
+        "adjacent_woeid": [
+          375137, 
+          375777, 
+          375819, 
+          376092, 
+          376123
+        ], 
+        "woeid": 375546, 
+        "alias_SPA_V": [
+          "Vald\u00e9s"
+        ], 
+        "ne_longitude": -78.985, 
+        "longitude": -78.989, 
+        "parent_woeid": 26810614, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Valdes"
+        ], 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 1.256, 
+        "sw_longitude": -79.435, 
+        "fullname": "Valdez, Esmeraldas, Eloy Alfaro, Ecuador", 
+        "sw_latitude": 0.811
+      }, 
+      "id": 375546
+    }
+  ]
+}

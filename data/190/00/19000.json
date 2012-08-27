@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.147, 
+              50.908
+            ], 
+            [
+              0.147, 
+              50.949
+            ], 
+            [
+              0.185, 
+              50.949
+            ], 
+            [
+              0.185, 
+              50.908
+            ], 
+            [
+              0.147, 
+              50.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 19000, 
+        "name": "East Hoathly", 
+        "adjacent_woeid": [
+          12842, 
+          15880, 
+          20575, 
+          22008, 
+          22187, 
+          25881, 
+          26346, 
+          34718, 
+          38977, 
+          40278
+        ], 
+        "ne_latitude": 50.949, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.185, 
+        "longitude": 0.163, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:06Z", 
+        "parent_woeid": 12695939, 
+        "latitude": 50.925, 
+        "sw_longitude": 0.147, 
+        "fullname": "East Hoathly, England, East Sussex, United Kingdom", 
+        "sw_latitude": 50.908
+      }, 
+      "id": 19000
+    }
+  ]
+}

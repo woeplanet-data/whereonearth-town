@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.093, 
+              21.391
+            ], 
+            [
+              -103.093, 
+              21.409
+            ], 
+            [
+              -103.074, 
+              21.409
+            ], 
+            [
+              -103.074, 
+              21.391
+            ], 
+            [
+              -103.093, 
+              21.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.409, 
+        "name": "El Ranchito", 
+        "adjacent_woeid": [
+          112275, 
+          117265, 
+          126169, 
+          130025
+        ], 
+        "woeid": 121827, 
+        "alias_SPA_V": [
+          "Ranchito"
+        ], 
+        "ne_longitude": -103.074, 
+        "longitude": -103.083, 
+        "parent_woeid": 12602054, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.400, 
+        "sw_longitude": -103.093, 
+        "fullname": "El Ranchito, Zacatecas, Juchipila, Mexico", 
+        "sw_latitude": 21.391
+      }, 
+      "id": 121827
+    }
+  ]
+}

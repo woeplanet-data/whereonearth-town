@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.812, 
+              48.225
+            ], 
+            [
+              13.812, 
+              48.245
+            ], 
+            [
+              13.850, 
+              48.245
+            ], 
+            [
+              13.850, 
+              48.225
+            ], 
+            [
+              13.812, 
+              48.225
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 545213, 
+        "name": "Grieskirchen", 
+        "adjacent_woeid": [
+          544605, 
+          544754, 
+          545122, 
+          545131, 
+          545408, 
+          545456, 
+          545600, 
+          545880, 
+          545889, 
+          545945, 
+          546317, 
+          546320, 
+          546647, 
+          546667, 
+          546724, 
+          546935, 
+          546962, 
+          20095930, 
+          20096121, 
+          20096820, 
+          20097156, 
+          20097858
+        ], 
+        "ne_latitude": 48.245, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.850, 
+        "longitude": 13.825, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:59Z", 
+        "parent_woeid": 12674551, 
+        "latitude": 48.236, 
+        "sw_longitude": 13.812, 
+        "fullname": "Grieskirchen, Upper Austria, Grieskirchen, Austria", 
+        "sw_latitude": 48.225
+      }, 
+      "id": 545213
+    }
+  ]
+}

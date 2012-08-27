@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.110, 
+              25.241
+            ], 
+            [
+              -104.110, 
+              25.259
+            ], 
+            [
+              -104.090, 
+              25.259
+            ], 
+            [
+              -104.090, 
+              25.241
+            ], 
+            [
+              -104.110, 
+              25.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.259, 
+        "name": "La Flor", 
+        "adjacent_woeid": [
+          111107, 
+          111604, 
+          124832, 
+          128734, 
+          134426, 
+          143879, 
+          145751
+        ], 
+        "woeid": 127428, 
+        "alias_SPA_V": [
+          "Flor"
+        ], 
+        "ne_longitude": -104.090, 
+        "longitude": -104.100, 
+        "parent_woeid": 12599965, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.250, 
+        "sw_longitude": -104.110, 
+        "fullname": "La Flor, Durango, Nazas, Mexico", 
+        "sw_latitude": 25.241
+      }, 
+      "id": 127428
+    }
+  ]
+}

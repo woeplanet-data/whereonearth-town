@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.845, 
+              41.652
+            ], 
+            [
+              -77.845, 
+              41.729
+            ], 
+            [
+              -77.602, 
+              41.729
+            ], 
+            [
+              -77.602, 
+              41.652
+            ], 
+            [
+              -77.845, 
+              41.652
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744852, 
+        "name": "West Branch", 
+        "adjacent_woeid": [
+          2351507, 
+          2503017, 
+          2517566, 
+          23511276, 
+          28340138, 
+          28744676
+        ], 
+        "ne_latitude": 41.729, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "W Br"
+        ], 
+        "ne_longitude": -77.602, 
+        "longitude": -77.707, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589780, 
+        "latitude": 41.712, 
+        "sw_longitude": -77.845, 
+        "fullname": "West Branch, Pennsylvania, Potter, United States", 
+        "sw_latitude": 41.652
+      }, 
+      "id": 28744852
+    }
+  ]
+}

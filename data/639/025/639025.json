@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.615, 
+              48.543
+            ], 
+            [
+              10.615, 
+              48.582
+            ], 
+            [
+              10.658, 
+              48.582
+            ], 
+            [
+              10.658, 
+              48.543
+            ], 
+            [
+              10.615, 
+              48.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639025, 
+        "name": "Binswangen", 
+        "adjacent_woeid": [
+          665656, 
+          688215, 
+          689199, 
+          709301
+        ], 
+        "ne_latitude": 48.582, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.658, 
+        "longitude": 10.639, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:45Z", 
+        "parent_woeid": 12634798, 
+        "latitude": 48.557, 
+        "sw_longitude": 10.615, 
+        "fullname": "Binswangen, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.543
+      }, 
+      "id": 639025
+    }
+  ]
+}

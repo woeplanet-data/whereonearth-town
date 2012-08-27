@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.777, 
+              49.246
+            ], 
+            [
+              10.777, 
+              49.274
+            ], 
+            [
+              10.797, 
+              49.274
+            ], 
+            [
+              10.797, 
+              49.246
+            ], 
+            [
+              10.777, 
+              49.246
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637326, 
+        "name": "Bechhofen", 
+        "adjacent_woeid": [
+          666086, 
+          691156, 
+          20158718, 
+          20173123
+        ], 
+        "ne_latitude": 49.274, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.797, 
+        "longitude": 10.790, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12634415, 
+        "latitude": 49.262, 
+        "sw_longitude": 10.777, 
+        "fullname": "Bechhofen, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.246
+      }, 
+      "id": 637326
+    }
+  ]
+}

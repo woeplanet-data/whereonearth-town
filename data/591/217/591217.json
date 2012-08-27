@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.543, 
+              43.574
+            ], 
+            [
+              1.543, 
+              43.614
+            ], 
+            [
+              1.577, 
+              43.614
+            ], 
+            [
+              1.577, 
+              43.574
+            ], 
+            [
+              1.543, 
+              43.574
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591217, 
+        "name": "Flourens", 
+        "adjacent_woeid": [
+          575511, 
+          612039, 
+          616652, 
+          618669
+        ], 
+        "ne_latitude": 43.614, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.577, 
+        "longitude": 1.562, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12661486, 
+        "latitude": 43.595, 
+        "sw_longitude": 1.543, 
+        "fullname": "Flourens, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.574
+      }, 
+      "id": 591217
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.247, 
+              47.068
+            ], 
+            [
+              -70.247, 
+              47.228
+            ], 
+            [
+              -70.085, 
+              47.228
+            ], 
+            [
+              -70.085, 
+              47.068
+            ], 
+            [
+              -70.247, 
+              47.068
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394486, 
+        "name": "St.-Aubert", 
+        "adjacent_woeid": [
+          1008, 
+          1530, 
+          3433, 
+          23394299, 
+          23396425, 
+          23396426, 
+          23396542, 
+          29374496
+        ], 
+        "ne_latitude": 47.228, 
+        "ne_longitude": -70.085, 
+        "longitude": -70.189, 
+        "parent_woeid": 29375037, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Aubert"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.173, 
+        "sw_longitude": -70.247, 
+        "fullname": "St.-Aubert, Quebec, l'Islet, Canada", 
+        "sw_latitude": 47.068
+      }, 
+      "id": 23394486
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.888, 
+              48.381
+            ], 
+            [
+              -2.888, 
+              48.403
+            ], 
+            [
+              -2.852, 
+              48.403
+            ], 
+            [
+              -2.852, 
+              48.381
+            ], 
+            [
+              -2.888, 
+              48.381
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623332, 
+        "name": "St.-Brandan", 
+        "adjacent_woeid": [
+          596581, 
+          602931, 
+          616772, 
+          15002964, 
+          20175628, 
+          22657015, 
+          29331177
+        ], 
+        "ne_latitude": 48.403, 
+        "ne_longitude": -2.852, 
+        "longitude": -2.870, 
+        "parent_woeid": 12652266, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Brandan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.390, 
+        "sw_longitude": -2.888, 
+        "fullname": "St.-Brandan, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.381
+      }, 
+      "id": 623332
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.336, 
+              48.253
+            ], 
+            [
+              -0.336, 
+              48.284
+            ], 
+            [
+              -0.293, 
+              48.284
+            ], 
+            [
+              -0.293, 
+              48.253
+            ], 
+            [
+              -0.336, 
+              48.253
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629075, 
+        "name": "Trans", 
+        "adjacent_woeid": [
+          584255, 
+          587448, 
+          595336, 
+          627128
+        ], 
+        "ne_latitude": 48.284, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.293, 
+        "longitude": -0.308, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12671805, 
+        "latitude": 48.274, 
+        "sw_longitude": -0.336, 
+        "fullname": "Trans, Pays de la Loire, Mayenne, France", 
+        "sw_latitude": 48.253
+      }, 
+      "id": 629075
+    }
+  ]
+}

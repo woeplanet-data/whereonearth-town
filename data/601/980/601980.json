@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.336, 
+              45.865
+            ], 
+            [
+              3.336, 
+              45.903
+            ], 
+            [
+              3.371, 
+              45.903
+            ], 
+            [
+              3.371, 
+              45.865
+            ], 
+            [
+              3.336, 
+              45.865
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601980, 
+        "name": "Le Bassinet", 
+        "adjacent_woeid": [
+          582343, 
+          587901, 
+          588201, 
+          595685
+        ], 
+        "ne_latitude": 45.903, 
+        "ne_longitude": 3.371, 
+        "longitude": 3.350, 
+        "parent_woeid": 12638211, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bassinet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.883, 
+        "sw_longitude": 3.336, 
+        "fullname": "Le Bassinet, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.865
+      }, 
+      "id": 601980
+    }
+  ]
+}

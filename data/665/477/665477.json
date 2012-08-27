@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.422, 
+              50.079
+            ], 
+            [
+              9.422, 
+              50.145
+            ], 
+            [
+              9.460, 
+              50.145
+            ], 
+            [
+              9.460, 
+              50.079
+            ], 
+            [
+              9.422, 
+              50.079
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665477, 
+        "name": "Kempfenbrunn", 
+        "adjacent_woeid": [
+          672545, 
+          676291, 
+          690465
+        ], 
+        "ne_latitude": 50.145, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.460, 
+        "longitude": 9.440, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12632520, 
+        "latitude": 50.111, 
+        "sw_longitude": 9.422, 
+        "fullname": "Kempfenbrunn, Hesse, Main-Kinzig-Kreis, Germany", 
+        "sw_latitude": 50.079
+      }, 
+      "id": 665477
+    }
+  ]
+}

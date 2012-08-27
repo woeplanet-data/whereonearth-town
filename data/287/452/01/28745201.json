@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.695, 
+              39.915
+            ], 
+            [
+              -75.695, 
+              40.008
+            ], 
+            [
+              -75.599, 
+              40.008
+            ], 
+            [
+              -75.599, 
+              39.915
+            ], 
+            [
+              -75.695, 
+              39.915
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745201, 
+        "name": "East Bradford", 
+        "adjacent_woeid": [
+          2364555, 
+          2484233, 
+          23417973, 
+          28339937, 
+          28745187, 
+          28745200
+        ], 
+        "ne_latitude": 40.008, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Bradford Township"
+        ], 
+        "ne_longitude": -75.599, 
+        "longitude": -75.635, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589742, 
+        "latitude": 39.960, 
+        "sw_longitude": -75.695, 
+        "fullname": "East Bradford, Pennsylvania, Chester, United States", 
+        "sw_latitude": 39.915
+      }, 
+      "id": 28745201
+    }
+  ]
+}

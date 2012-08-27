@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.955, 
+              49.969
+            ], 
+            [
+              10.955, 
+              49.995
+            ], 
+            [
+              10.981, 
+              49.995
+            ], 
+            [
+              10.981, 
+              49.969
+            ], 
+            [
+              10.955, 
+              49.969
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671022, 
+        "name": "Leimershof", 
+        "adjacent_woeid": [
+          661190, 
+          696354, 
+          706929, 
+          20156150
+        ], 
+        "ne_latitude": 49.995, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.981, 
+        "longitude": 10.965, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:41Z", 
+        "parent_woeid": 12635226, 
+        "latitude": 49.986, 
+        "sw_longitude": 10.955, 
+        "fullname": "Leimershof, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.969
+      }, 
+      "id": 671022
+    }
+  ]
+}

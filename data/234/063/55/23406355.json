@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.660, 
+              47.255
+            ], 
+            [
+              15.660, 
+              47.273
+            ], 
+            [
+              15.686, 
+              47.273
+            ], 
+            [
+              15.686, 
+              47.255
+            ], 
+            [
+              15.660, 
+              47.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23406355, 
+        "name": "Torbauern", 
+        "adjacent_woeid": [
+          548646, 
+          550101, 
+          550107, 
+          23406082
+        ], 
+        "ne_latitude": 47.273, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.686, 
+        "longitude": 15.673, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12674849, 
+        "latitude": 47.264, 
+        "sw_longitude": 15.660, 
+        "fullname": "Torbauern, Styria, Weiz, Austria", 
+        "sw_latitude": 47.255
+      }, 
+      "id": 23406355
+    }
+  ]
+}

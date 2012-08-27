@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.009, 
+              52.450
+            ], 
+            [
+              10.009, 
+              52.477
+            ], 
+            [
+              10.039, 
+              52.477
+            ], 
+            [
+              10.039, 
+              52.450
+            ], 
+            [
+              10.009, 
+              52.450
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 695601, 
+        "name": "Sorgensen", 
+        "adjacent_woeid": [
+          643455, 
+          662795, 
+          684005, 
+          704303
+        ], 
+        "ne_latitude": 52.477, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.039, 
+        "longitude": 10.028, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:15Z", 
+        "parent_woeid": 12629455, 
+        "latitude": 52.461, 
+        "sw_longitude": 10.009, 
+        "fullname": "Sorgensen, Lower Saxony, Hanover, Germany", 
+        "sw_latitude": 52.450
+      }, 
+      "id": 695601
+    }
+  ]
+}

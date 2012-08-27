@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.100, 
+              48.508
+            ], 
+            [
+              10.100, 
+              48.536
+            ], 
+            [
+              10.139, 
+              48.536
+            ], 
+            [
+              10.139, 
+              48.508
+            ], 
+            [
+              10.100, 
+              48.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705996, 
+        "name": "Wettingen", 
+        "adjacent_woeid": [
+          677492, 
+          683248, 
+          694616
+        ], 
+        "ne_latitude": 48.536, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.139, 
+        "longitude": 10.119, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12623711, 
+        "latitude": 48.520, 
+        "sw_longitude": 10.100, 
+        "fullname": "Wettingen, Baden-Wurttemberg, Alb-Donau-Kreis, Germany", 
+        "sw_latitude": 48.508
+      }, 
+      "id": 705996
+    }
+  ]
+}

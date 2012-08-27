@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.271, 
+              48.958
+            ], 
+            [
+              2.271, 
+              48.977
+            ], 
+            [
+              2.298, 
+              48.977
+            ], 
+            [
+              2.298, 
+              48.958
+            ], 
+            [
+              2.271, 
+              48.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863581, 
+        "name": "St.-Gratien", 
+        "adjacent_woeid": [
+          589653, 
+          589794, 
+          622285, 
+          55863416, 
+          55863468, 
+          55863470, 
+          55863567
+        ], 
+        "ne_latitude": 48.977, 
+        "ne_longitude": 2.298, 
+        "longitude": 2.283, 
+        "parent_woeid": 12652597, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Gratien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.970, 
+        "sw_longitude": 2.271, 
+        "fullname": "St.-Gratien, Ile-de-France, Val-d'Oise, France", 
+        "sw_latitude": 48.958
+      }, 
+      "id": 55863581
+    }
+  ]
+}

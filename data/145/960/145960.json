@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.643, 
+              21.058
+            ], 
+            [
+              -87.643, 
+              21.076
+            ], 
+            [
+              -87.624, 
+              21.076
+            ], 
+            [
+              -87.624, 
+              21.058
+            ], 
+            [
+              -87.643, 
+              21.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.076, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          115608, 
+          116116, 
+          117013, 
+          120070, 
+          137100, 
+          151028, 
+          55890331
+        ], 
+        "woeid": 145960, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -87.624, 
+        "longitude": -87.633, 
+        "parent_woeid": 12602021, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.067, 
+        "sw_longitude": -87.643, 
+        "fullname": "Santa Cruz, Yucatan, Tizimin, Mexico", 
+        "sw_latitude": 21.058
+      }, 
+      "id": 145960
+    }
+  ]
+}

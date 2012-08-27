@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.126, 
+              19.624
+            ], 
+            [
+              -97.126, 
+              19.642
+            ], 
+            [
+              -97.107, 
+              19.642
+            ], 
+            [
+              -97.107, 
+              19.624
+            ], 
+            [
+              -97.126, 
+              19.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.642, 
+        "name": "El Manzanillo", 
+        "adjacent_woeid": [
+          117657, 
+          130993, 
+          133991, 
+          147559, 
+          148370
+        ], 
+        "woeid": 120805, 
+        "alias_SPA_V": [
+          "Manzanillo"
+        ], 
+        "ne_longitude": -97.107, 
+        "longitude": -97.117, 
+        "parent_woeid": 12601818, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.633, 
+        "sw_longitude": -97.126, 
+        "fullname": "El Manzanillo, Veracruz-Llave, Las Vigas de Ramirez, Mexico", 
+        "sw_latitude": 19.624
+      }, 
+      "id": 120805
+    }
+  ]
+}

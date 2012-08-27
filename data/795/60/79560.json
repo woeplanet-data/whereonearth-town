@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.567, 
+              13.693
+            ], 
+            [
+              -88.567, 
+              13.712
+            ], 
+            [
+              -88.548, 
+              13.712
+            ], 
+            [
+              -88.548, 
+              13.693
+            ], 
+            [
+              -88.567, 
+              13.693
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.712, 
+        "name": "San Ildefonso", 
+        "adjacent_woeid": [
+          76866, 
+          77210, 
+          78033, 
+          79148, 
+          79156, 
+          79600, 
+          79843, 
+          79869, 
+          79970, 
+          26809418, 
+          26809422, 
+          26809423, 
+          26809431, 
+          56125459, 
+          56125460
+        ], 
+        "woeid": 79560, 
+        "alias_SPA_V": [
+          "S Ildefonso"
+        ], 
+        "ne_longitude": -88.548, 
+        "longitude": -88.558, 
+        "parent_woeid": 26808737, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.702, 
+        "sw_longitude": -88.567, 
+        "fullname": "San Ildefonso, San Vicente, San Ildefonso, El Salvador", 
+        "sw_latitude": 13.693
+      }, 
+      "id": 79560
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.343, 
+              24.358
+            ], 
+            [
+              -99.343, 
+              24.376
+            ], 
+            [
+              -99.323, 
+              24.376
+            ], 
+            [
+              -99.323, 
+              24.358
+            ], 
+            [
+              -99.343, 
+              24.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.376, 
+        "name": "San Nicolas", 
+        "adjacent_woeid": [
+          115007, 
+          121726, 
+          123933, 
+          144463, 
+          145940, 
+          150875, 
+          55913410
+        ], 
+        "woeid": 144728, 
+        "alias_SPA_V": [
+          "S Nicolas"
+        ], 
+        "ne_longitude": -99.323, 
+        "longitude": -99.333, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.367, 
+        "sw_longitude": -99.343, 
+        "fullname": "San Nicolas, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.358
+      }, 
+      "id": 144728
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.581, 
+              48.401
+            ], 
+            [
+              -123.581, 
+              48.508
+            ], 
+            [
+              -123.475, 
+              48.508
+            ], 
+            [
+              -123.475, 
+              48.401
+            ], 
+            [
+              -123.581, 
+              48.401
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23405823, 
+        "name": "Langford", 
+        "adjacent_woeid": [
+          9084, 
+          9178, 
+          9847, 
+          9851, 
+          23404884, 
+          23404886, 
+          29372941, 
+          29372943
+        ], 
+        "ne_latitude": 48.508, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.475, 
+        "longitude": -123.514, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:54Z", 
+        "parent_woeid": 29375156, 
+        "latitude": 48.449, 
+        "sw_longitude": -123.581, 
+        "fullname": "Langford, British Columbia, Capital, Canada", 
+        "sw_latitude": 48.401
+      }, 
+      "id": 23405823
+    }
+  ]
+}

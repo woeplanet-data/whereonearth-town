@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.613, 
+              45.138
+            ], 
+            [
+              -0.613, 
+              45.168
+            ], 
+            [
+              -0.583, 
+              45.168
+            ], 
+            [
+              -0.583, 
+              45.138
+            ], 
+            [
+              -0.613, 
+              45.138
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626260, 
+        "name": "St.-Paul", 
+        "adjacent_woeid": [
+          579477, 
+          582880, 
+          583138, 
+          583145, 
+          610775, 
+          624452, 
+          625732, 
+          626955, 
+          20196336, 
+          20196337
+        ], 
+        "ne_latitude": 45.168, 
+        "ne_longitude": -0.583, 
+        "longitude": -0.602, 
+        "parent_woeid": 12653055, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Paul"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.148, 
+        "sw_longitude": -0.613, 
+        "fullname": "St.-Paul, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.138
+      }, 
+      "id": 626260
+    }
+  ]
+}

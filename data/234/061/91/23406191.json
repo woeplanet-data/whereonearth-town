@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.126, 
+              48.340
+            ], 
+            [
+              15.126, 
+              48.358
+            ], 
+            [
+              15.153, 
+              48.358
+            ], 
+            [
+              15.153, 
+              48.340
+            ], 
+            [
+              15.126, 
+              48.340
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23406191, 
+        "name": "Loitzenreith", 
+        "adjacent_woeid": [
+          543324, 
+          544096, 
+          544313, 
+          20097717
+        ], 
+        "ne_latitude": 48.358, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.153, 
+        "longitude": 15.139, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12674119, 
+        "latitude": 48.349, 
+        "sw_longitude": 15.126, 
+        "fullname": "Loitzenreith, Lower Austria, Zwettl, Austria", 
+        "sw_latitude": 48.340
+      }, 
+      "id": 23406191
+    }
+  ]
+}

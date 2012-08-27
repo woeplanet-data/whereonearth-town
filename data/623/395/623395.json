@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.872, 
+              45.505
+            ], 
+            [
+              5.872, 
+              45.548
+            ], 
+            [
+              5.904, 
+              45.548
+            ], 
+            [
+              5.904, 
+              45.505
+            ], 
+            [
+              5.872, 
+              45.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623395, 
+        "name": "St.-Cassin", 
+        "adjacent_woeid": [
+          576354, 
+          606056, 
+          612203, 
+          627111, 
+          632310, 
+          29330039
+        ], 
+        "ne_latitude": 45.548, 
+        "ne_longitude": 5.904, 
+        "longitude": 5.893, 
+        "parent_woeid": 12663548, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cassin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.535, 
+        "sw_longitude": 5.872, 
+        "fullname": "St.-Cassin, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.505
+      }, 
+      "id": 623395
+    }
+  ]
+}

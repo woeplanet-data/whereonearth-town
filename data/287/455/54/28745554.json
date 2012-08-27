@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.296, 
+              39.720
+            ], 
+            [
+              -77.296, 
+              39.890
+            ], 
+            [
+              -77.205, 
+              39.890
+            ], 
+            [
+              -77.205, 
+              39.720
+            ], 
+            [
+              -77.296, 
+              39.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745554, 
+        "name": "Cumberland", 
+        "adjacent_woeid": [
+          2401648, 
+          2425744, 
+          28745309, 
+          28745615, 
+          28745616, 
+          28745618, 
+          28745627, 
+          55864869
+        ], 
+        "ne_latitude": 39.890, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Cumberland Township"
+        ], 
+        "ne_longitude": -77.205, 
+        "longitude": -77.271, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589728, 
+        "latitude": 39.767, 
+        "sw_longitude": -77.296, 
+        "fullname": "Cumberland, Pennsylvania, Adams, United States", 
+        "sw_latitude": 39.720
+      }, 
+      "id": 28745554
+    }
+  ]
+}

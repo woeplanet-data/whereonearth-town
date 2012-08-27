@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.043, 
+              42.889
+            ], 
+            [
+              1.043, 
+              42.899
+            ], 
+            [
+              1.055, 
+              42.899
+            ], 
+            [
+              1.055, 
+              42.889
+            ], 
+            [
+              1.043, 
+              42.889
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20191369, 
+        "name": "Aret", 
+        "adjacent_woeid": [
+          576738, 
+          579663, 
+          605572, 
+          20191367, 
+          20191368, 
+          20191385
+        ], 
+        "ne_latitude": 42.899, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.055, 
+        "longitude": 1.048, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12655557, 
+        "latitude": 42.895, 
+        "sw_longitude": 1.043, 
+        "fullname": "Aret, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 42.889
+      }, 
+      "id": 20191369
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.157, 
+              45.816
+            ], 
+            [
+              -73.157, 
+              45.953
+            ], 
+            [
+              -73.067, 
+              45.953
+            ], 
+            [
+              -73.067, 
+              45.816
+            ], 
+            [
+              -73.157, 
+              45.816
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1582, 
+        "name": "St.-Ours", 
+        "adjacent_woeid": [
+          321, 
+          1608, 
+          23394493, 
+          23394508
+        ], 
+        "ne_latitude": 45.953, 
+        "ne_longitude": -73.067, 
+        "longitude": -73.151, 
+        "parent_woeid": 29375092, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Ours"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.886, 
+        "sw_longitude": -73.157, 
+        "fullname": "St.-Ours, Quebec, Le Bas-Richelieu, Canada", 
+        "sw_latitude": 45.816
+      }, 
+      "id": 1582
+    }
+  ]
+}

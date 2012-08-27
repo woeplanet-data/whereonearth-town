@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.909, 
+              16.858
+            ], 
+            [
+              -99.909, 
+              16.876
+            ], 
+            [
+              -99.891, 
+              16.876
+            ], 
+            [
+              -99.891, 
+              16.858
+            ], 
+            [
+              -99.909, 
+              16.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.876, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          112983, 
+          129548, 
+          136606, 
+          148100
+        ], 
+        "woeid": 145999, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -99.891, 
+        "longitude": -99.900, 
+        "parent_woeid": 12600035, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.867, 
+        "sw_longitude": -99.909, 
+        "fullname": "Santa Cruz, Guerrero, Acapulco de Juarez, Mexico", 
+        "sw_latitude": 16.858
+      }, 
+      "id": 145999
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.205, 
+              49.313
+            ], 
+            [
+              5.205, 
+              49.350
+            ], 
+            [
+              5.255, 
+              49.350
+            ], 
+            [
+              5.255, 
+              49.313
+            ], 
+            [
+              5.205, 
+              49.313
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 632299, 
+        "name": "Vilosnes-Haraumont", 
+        "adjacent_woeid": [
+          581965, 
+          588497, 
+          594293, 
+          608203, 
+          622249
+        ], 
+        "ne_latitude": 49.350, 
+        "ne_longitude": 5.255, 
+        "longitude": 5.234, 
+        "parent_woeid": 20075204, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vilosnes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.329, 
+        "sw_longitude": 5.205, 
+        "fullname": "Vilosnes-Haraumont, Lorraine, Meuse, France", 
+        "sw_latitude": 49.313
+      }, 
+      "id": 632299
+    }
+  ]
+}

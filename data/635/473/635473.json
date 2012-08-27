@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.967, 
+              48.498
+            ], 
+            [
+              10.967, 
+              48.516
+            ], 
+            [
+              10.994, 
+              48.516
+            ], 
+            [
+              10.994, 
+              48.498
+            ], 
+            [
+              10.967, 
+              48.498
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635473, 
+        "name": "Arnhofen", 
+        "adjacent_woeid": [
+          635361, 
+          638999, 
+          658025, 
+          697625
+        ], 
+        "ne_latitude": 48.516, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.994, 
+        "longitude": 10.980, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12634730, 
+        "latitude": 48.507, 
+        "sw_longitude": 10.967, 
+        "fullname": "Arnhofen, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.498
+      }, 
+      "id": 635473
+    }
+  ]
+}

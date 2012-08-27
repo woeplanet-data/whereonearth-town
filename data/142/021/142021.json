@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.160, 
+              23.858
+            ], 
+            [
+              -110.160, 
+              23.876
+            ], 
+            [
+              -110.140, 
+              23.876
+            ], 
+            [
+              -110.140, 
+              23.858
+            ], 
+            [
+              -110.160, 
+              23.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.876, 
+        "name": "San Blas", 
+        "adjacent_woeid": [
+          122345, 
+          122834, 
+          132294, 
+          141766, 
+          145022
+        ], 
+        "woeid": 142021, 
+        "alias_SPA_V": [
+          "S Blas"
+        ], 
+        "ne_longitude": -110.140, 
+        "longitude": -110.150, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.867, 
+        "sw_longitude": -110.160, 
+        "fullname": "San Blas, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 23.858
+      }, 
+      "id": 142021
+    }
+  ]
+}

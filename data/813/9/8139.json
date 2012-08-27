@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -113.522, 
+              51.487
+            ], 
+            [
+              -113.522, 
+              51.502
+            ], 
+            [
+              -113.498, 
+              51.502
+            ], 
+            [
+              -113.498, 
+              51.487
+            ], 
+            [
+              -113.522, 
+              51.487
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 8139, 
+        "name": "Acme", 
+        "adjacent_woeid": [
+          8759, 
+          8762, 
+          29373971
+        ], 
+        "ne_latitude": 51.502, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -113.498, 
+        "longitude": -113.508, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375228, 
+        "latitude": 51.495, 
+        "sw_longitude": -113.522, 
+        "fullname": "Acme, Alberta, Alberta, Canada", 
+        "sw_latitude": 51.487
+      }, 
+      "id": 8139
+    }
+  ]
+}

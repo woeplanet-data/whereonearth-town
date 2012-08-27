@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.845, 
+              51.526
+            ], 
+            [
+              10.845, 
+              51.546
+            ], 
+            [
+              10.874, 
+              51.546
+            ], 
+            [
+              10.874, 
+              51.526
+            ], 
+            [
+              10.845, 
+              51.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 642122, 
+        "name": "Buchholz", 
+        "adjacent_woeid": [
+          659453, 
+          679025, 
+          684634, 
+          696551
+        ], 
+        "ne_latitude": 51.546, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.874, 
+        "longitude": 10.865, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12624730, 
+        "latitude": 51.541, 
+        "sw_longitude": 10.845, 
+        "fullname": "Buchholz, Thuringia, Landkreis Nordhausen, Germany", 
+        "sw_latitude": 51.526
+      }, 
+      "id": 642122
+    }
+  ]
+}

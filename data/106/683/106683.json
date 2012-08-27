@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.712, 
+              13.873
+            ], 
+            [
+              -87.712, 
+              13.891
+            ], 
+            [
+              -87.694, 
+              13.891
+            ], 
+            [
+              -87.694, 
+              13.873
+            ], 
+            [
+              -87.712, 
+              13.873
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.891, 
+        "name": "San Antonio del Norte", 
+        "adjacent_woeid": [
+          97996, 
+          98634, 
+          104329, 
+          105190, 
+          106961
+        ], 
+        "woeid": 106683, 
+        "alias_SPA_V": [
+          "S Antonio del Norte"
+        ], 
+        "ne_longitude": -87.694, 
+        "longitude": -87.703, 
+        "parent_woeid": 26813766, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.882, 
+        "sw_longitude": -87.712, 
+        "fullname": "San Antonio del Norte, La Paz, San Antonio del Norte, Honduras", 
+        "sw_latitude": 13.873
+      }, 
+      "id": 106683
+    }
+  ]
+}

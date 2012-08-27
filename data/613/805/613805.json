@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.513, 
+              48.647
+            ], 
+            [
+              5.513, 
+              48.692
+            ], 
+            [
+              5.589, 
+              48.692
+            ], 
+            [
+              5.589, 
+              48.647
+            ], 
+            [
+              5.513, 
+              48.647
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613805, 
+        "name": "Naives-en-Blois", 
+        "adjacent_woeid": [
+          581503, 
+          582133, 
+          610878, 
+          610994, 
+          621342, 
+          632556
+        ], 
+        "ne_latitude": 48.692, 
+        "ne_longitude": 5.589, 
+        "longitude": 5.547, 
+        "parent_woeid": 12667446, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Naives"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.661, 
+        "sw_longitude": 5.513, 
+        "fullname": "Naives-en-Blois, Lorraine, Meuse, France", 
+        "sw_latitude": 48.647
+      }, 
+      "id": 613805
+    }
+  ]
+}

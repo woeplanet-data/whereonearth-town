@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.293, 
+              21.908
+            ], 
+            [
+              -100.293, 
+              21.926
+            ], 
+            [
+              -100.273, 
+              21.926
+            ], 
+            [
+              -100.273, 
+              21.908
+            ], 
+            [
+              -100.293, 
+              21.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.926, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          116404, 
+          123871, 
+          128089, 
+          129713, 
+          133651, 
+          133877, 
+          147712, 
+          148190
+        ], 
+        "woeid": 142939, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -100.273, 
+        "longitude": -100.283, 
+        "parent_woeid": 12601494, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.917, 
+        "sw_longitude": -100.293, 
+        "fullname": "San Isidro, San Luis Potosi, Rioverde, Mexico", 
+        "sw_latitude": 21.908
+      }, 
+      "id": 142939
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.455, 
+              48.955
+            ], 
+            [
+              12.455, 
+              48.978
+            ], 
+            [
+              12.479, 
+              48.978
+            ], 
+            [
+              12.479, 
+              48.955
+            ], 
+            [
+              12.455, 
+              48.955
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679290, 
+        "name": "Niederachdorf", 
+        "adjacent_woeid": [
+          663667, 
+          685093, 
+          685611, 
+          696200
+        ], 
+        "ne_latitude": 48.978, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.479, 
+        "longitude": 12.468, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12623024, 
+        "latitude": 48.969, 
+        "sw_longitude": 12.455, 
+        "fullname": "Niederachdorf, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 48.955
+      }, 
+      "id": 679290
+    }
+  ]
+}

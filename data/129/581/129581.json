@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.876, 
+              21.008
+            ], 
+            [
+              -99.876, 
+              21.026
+            ], 
+            [
+              -99.857, 
+              21.026
+            ], 
+            [
+              -99.857, 
+              21.008
+            ], 
+            [
+              -99.876, 
+              21.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.026, 
+        "name": "La Vereda", 
+        "adjacent_woeid": [
+          115111, 
+          122393, 
+          124872, 
+          144662
+        ], 
+        "woeid": 129581, 
+        "alias_SPA_V": [
+          "Vereda"
+        ], 
+        "ne_longitude": -99.857, 
+        "longitude": -99.867, 
+        "parent_woeid": 12601461, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.017, 
+        "sw_longitude": -99.876, 
+        "fullname": "La Vereda, Queretaro de Arteaga, Toliman, Mexico", 
+        "sw_latitude": 21.008
+      }, 
+      "id": 129581
+    }
+  ]
+}

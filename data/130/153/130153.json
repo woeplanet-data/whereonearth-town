@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.393, 
+              23.391
+            ], 
+            [
+              -100.393, 
+              23.409
+            ], 
+            [
+              -100.373, 
+              23.409
+            ], 
+            [
+              -100.373, 
+              23.391
+            ], 
+            [
+              -100.393, 
+              23.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.409, 
+        "name": "Las Catorce", 
+        "adjacent_woeid": [
+          113582, 
+          126983, 
+          128337, 
+          128895, 
+          137841
+        ], 
+        "woeid": 130153, 
+        "alias_SPA_V": [
+          "Los Catorce"
+        ], 
+        "ne_longitude": -100.373, 
+        "longitude": -100.383, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.400, 
+        "sw_longitude": -100.393, 
+        "fullname": "Las Catorce, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.391
+      }, 
+      "id": 130153
+    }
+  ]
+}

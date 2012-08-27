@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.811, 
+              50.025
+            ], 
+            [
+              10.811, 
+              50.043
+            ], 
+            [
+              10.839, 
+              50.043
+            ], 
+            [
+              10.839, 
+              50.025
+            ], 
+            [
+              10.811, 
+              50.025
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 669840, 
+        "name": "Laimbach", 
+        "adjacent_woeid": [
+          652158, 
+          653764, 
+          681715, 
+          694517, 
+          701233
+        ], 
+        "ne_latitude": 50.043, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.839, 
+        "longitude": 10.825, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12635247, 
+        "latitude": 50.034, 
+        "sw_longitude": 10.811, 
+        "fullname": "Laimbach, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 50.025
+      }, 
+      "id": 669840
+    }
+  ]
+}

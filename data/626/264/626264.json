@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.864, 
+              48.312
+            ], 
+            [
+              5.864, 
+              48.348
+            ], 
+            [
+              5.912, 
+              48.348
+            ], 
+            [
+              5.912, 
+              48.312
+            ], 
+            [
+              5.864, 
+              48.312
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626264, 
+        "name": "St.-Paul", 
+        "adjacent_woeid": [
+          577971, 
+          588934, 
+          613215, 
+          618750, 
+          632371
+        ], 
+        "ne_latitude": 48.348, 
+        "ne_longitude": 5.912, 
+        "longitude": 5.891, 
+        "parent_woeid": 12671053, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Paul"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.329, 
+        "sw_longitude": 5.864, 
+        "fullname": "St.-Paul, Lorraine, Vosges, France", 
+        "sw_latitude": 48.312
+      }, 
+      "id": 626264
+    }
+  ]
+}

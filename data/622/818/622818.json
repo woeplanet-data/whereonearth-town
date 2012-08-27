@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.394, 
+              43.671
+            ], 
+            [
+              1.394, 
+              43.715
+            ], 
+            [
+              1.433, 
+              43.715
+            ], 
+            [
+              1.433, 
+              43.671
+            ], 
+            [
+              1.394, 
+              43.671
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622818, 
+        "name": "St.-Alban", 
+        "adjacent_woeid": [
+          582187, 
+          591270, 
+          607744
+        ], 
+        "ne_latitude": 43.715, 
+        "ne_longitude": 1.433, 
+        "longitude": 1.413, 
+        "parent_woeid": 12670068, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Alban"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.693, 
+        "sw_longitude": 1.394, 
+        "fullname": "St.-Alban, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.671
+      }, 
+      "id": 622818
+    }
+  ]
+}

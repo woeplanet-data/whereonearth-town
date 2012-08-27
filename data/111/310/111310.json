@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.577, 
+              28.191
+            ], 
+            [
+              -100.577, 
+              28.209
+            ], 
+            [
+              -100.556, 
+              28.209
+            ], 
+            [
+              -100.556, 
+              28.191
+            ], 
+            [
+              -100.577, 
+              28.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.209, 
+        "name": "Agua Dulce", 
+        "adjacent_woeid": [
+          118599, 
+          124178, 
+          129219, 
+          146629
+        ], 
+        "woeid": 111310, 
+        "alias_SPA_V": [
+          "Rancho Agua Dulce"
+        ], 
+        "ne_longitude": -100.556, 
+        "longitude": -100.567, 
+        "parent_woeid": 12599897, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.200, 
+        "sw_longitude": -100.577, 
+        "fullname": "Agua Dulce, Coahuila de Zaragoza, Guerrero, Mexico", 
+        "sw_latitude": 28.191
+      }, 
+      "id": 111310
+    }
+  ]
+}

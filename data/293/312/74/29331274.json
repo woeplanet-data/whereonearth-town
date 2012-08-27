@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.127, 
+              45.384
+            ], 
+            [
+              0.127, 
+              45.402
+            ], 
+            [
+              0.153, 
+              45.402
+            ], 
+            [
+              0.153, 
+              45.384
+            ], 
+            [
+              0.127, 
+              45.384
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331274, 
+        "name": "Saint-amant Gare", 
+        "adjacent_woeid": [
+          595701, 
+          622867, 
+          625113
+        ], 
+        "ne_latitude": 45.402, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.153, 
+        "longitude": 0.140, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12670079, 
+        "latitude": 45.393, 
+        "sw_longitude": 0.127, 
+        "fullname": "Saint-amant Gare, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.384
+      }, 
+      "id": 29331274
+    }
+  ]
+}

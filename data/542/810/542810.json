@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.786, 
+              48.688
+            ], 
+            [
+              15.786, 
+              48.706
+            ], 
+            [
+              15.814, 
+              48.706
+            ], 
+            [
+              15.814, 
+              48.688
+            ], 
+            [
+              15.786, 
+              48.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 542810, 
+        "name": "Missingdorf", 
+        "adjacent_woeid": [
+          542318, 
+          542707, 
+          543226, 
+          543420, 
+          543560
+        ], 
+        "ne_latitude": 48.706, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.814, 
+        "longitude": 15.800, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:33Z", 
+        "parent_woeid": 12673857, 
+        "latitude": 48.697, 
+        "sw_longitude": 15.786, 
+        "fullname": "Missingdorf, Lower Austria, Horn, Austria", 
+        "sw_latitude": 48.688
+      }, 
+      "id": 542810
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.259, 
+              27.412
+            ], 
+            [
+              -106.259, 
+              27.430
+            ], 
+            [
+              -106.238, 
+              27.430
+            ], 
+            [
+              -106.238, 
+              27.412
+            ], 
+            [
+              -106.259, 
+              27.412
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.430, 
+        "name": "La Joya", 
+        "adjacent_woeid": [
+          118903, 
+          122848, 
+          127339, 
+          131699, 
+          143612, 
+          144791
+        ], 
+        "woeid": 127823, 
+        "alias_SPA_V": [
+          "S. Nicolas"
+        ], 
+        "ne_longitude": -106.238, 
+        "longitude": -106.248, 
+        "parent_woeid": 12599880, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.421, 
+        "sw_longitude": -106.259, 
+        "fullname": "La Joya, Chihuahua, Satevo, Mexico", 
+        "sw_latitude": 27.412
+      }, 
+      "id": 127823
+    }
+  ]
+}

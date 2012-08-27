@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.652, 
+              19.842
+            ], 
+            [
+              -71.652, 
+              19.854
+            ], 
+            [
+              -71.640, 
+              19.854
+            ], 
+            [
+              -71.640, 
+              19.842
+            ], 
+            [
+              -71.652, 
+              19.842
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.854, 
+        "name": "San Fernando de Monte Cristi", 
+        "adjacent_woeid": [
+          70305, 
+          75159, 
+          75715, 
+          76279, 
+          76321, 
+          76687
+        ], 
+        "woeid": 76322, 
+        "alias_SPA_V": [
+          "Mte-Christi"
+        ], 
+        "ne_longitude": -71.640, 
+        "longitude": -71.646, 
+        "parent_woeid": 2345184, 
+        "placetype": "Town", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.848, 
+        "sw_longitude": -71.652, 
+        "fullname": "San Fernando de Monte Cristi, Monte Cristri, Dominican Republic", 
+        "sw_latitude": 19.842
+      }, 
+      "id": 76322
+    }
+  ]
+}

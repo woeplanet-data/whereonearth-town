@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.990, 
+              40.875
+            ], 
+            [
+              -77.990, 
+              41.011
+            ], 
+            [
+              -77.813, 
+              41.011
+            ], 
+            [
+              -77.813, 
+              40.875
+            ], 
+            [
+              -77.990, 
+              40.875
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745479, 
+        "name": "Union", 
+        "adjacent_woeid": [
+          2510010, 
+          28745270, 
+          28745302, 
+          28745599
+        ], 
+        "ne_latitude": 41.011, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Union Township"
+        ], 
+        "ne_longitude": -77.813, 
+        "longitude": -77.917, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589741, 
+        "latitude": 40.931, 
+        "sw_longitude": -77.990, 
+        "fullname": "Union, Pennsylvania, Centre, United States", 
+        "sw_latitude": 40.875
+      }, 
+      "id": 28745479
+    }
+  ]
+}

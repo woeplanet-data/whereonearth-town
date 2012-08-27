@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.904, 
+              48.139
+            ], 
+            [
+              -3.904, 
+              48.181
+            ], 
+            [
+              -3.870, 
+              48.181
+            ], 
+            [
+              -3.870, 
+              48.139
+            ], 
+            [
+              -3.904, 
+              48.139
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627123, 
+        "name": "St.-Thois", 
+        "adjacent_woeid": [
+          589521, 
+          593205, 
+          601941, 
+          605146
+        ], 
+        "ne_latitude": 48.181, 
+        "ne_longitude": -3.870, 
+        "longitude": -3.885, 
+        "parent_woeid": 12653264, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Thois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.165, 
+        "sw_longitude": -3.904, 
+        "fullname": "St.-Thois, Brittany, Finistere, France", 
+        "sw_latitude": 48.139
+      }, 
+      "id": 627123
+    }
+  ]
+}

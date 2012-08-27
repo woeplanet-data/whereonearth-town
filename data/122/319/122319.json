@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.677, 
+              26.124
+            ], 
+            [
+              -105.677, 
+              26.143
+            ], 
+            [
+              -105.656, 
+              26.143
+            ], 
+            [
+              -105.656, 
+              26.124
+            ], 
+            [
+              -105.677, 
+              26.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.143, 
+        "name": "El Salto", 
+        "adjacent_woeid": [
+          115714, 
+          119575, 
+          119870, 
+          143878, 
+          145447, 
+          147539
+        ], 
+        "woeid": 122319, 
+        "alias_SPA_V": [
+          "Salto"
+        ], 
+        "ne_longitude": -105.656, 
+        "longitude": -105.667, 
+        "parent_woeid": 12599975, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.133, 
+        "sw_longitude": -105.677, 
+        "fullname": "El Salto, Durango, San Bernardo, Mexico", 
+        "sw_latitude": 26.124
+      }, 
+      "id": 122319
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.727, 
+              23.058
+            ], 
+            [
+              -105.727, 
+              23.076
+            ], 
+            [
+              -105.707, 
+              23.076
+            ], 
+            [
+              -105.707, 
+              23.058
+            ], 
+            [
+              -105.727, 
+              23.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.076, 
+        "name": "El Potrero", 
+        "adjacent_woeid": [
+          114015, 
+          115804, 
+          117297, 
+          132190, 
+          133159, 
+          137012
+        ], 
+        "woeid": 121674, 
+        "alias_SPA_V": [
+          "Potrero"
+        ], 
+        "ne_longitude": -105.707, 
+        "longitude": -105.717, 
+        "parent_woeid": 12601541, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.067, 
+        "sw_longitude": -105.727, 
+        "fullname": "El Potrero, Sinaloa, Rosario, Mexico", 
+        "sw_latitude": 23.058
+      }, 
+      "id": 121674
+    }
+  ]
+}

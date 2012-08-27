@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.317, 
+              21.017
+            ], 
+            [
+              -104.317, 
+              21.035
+            ], 
+            [
+              -104.297, 
+              21.035
+            ], 
+            [
+              -104.297, 
+              21.017
+            ], 
+            [
+              -104.317, 
+              21.017
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.035, 
+        "name": "San Clemente", 
+        "adjacent_woeid": [
+          111331, 
+          112058, 
+          122712, 
+          129649, 
+          141657, 
+          143482
+        ], 
+        "woeid": 142129, 
+        "alias_SPA_V": [
+          "S. Clemente"
+        ], 
+        "ne_longitude": -104.297, 
+        "longitude": -104.307, 
+        "parent_woeid": 12600593, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.026, 
+        "sw_longitude": -104.317, 
+        "fullname": "San Clemente, Nayarit, Ixtlan del Rio, Mexico", 
+        "sw_latitude": 21.017
+      }, 
+      "id": 142129
+    }
+  ]
+}

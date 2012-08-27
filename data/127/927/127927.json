@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.506, 
+              23.528
+            ], 
+            [
+              -109.506, 
+              23.546
+            ], 
+            [
+              -109.486, 
+              23.546
+            ], 
+            [
+              -109.486, 
+              23.528
+            ], 
+            [
+              -109.506, 
+              23.528
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.546, 
+        "name": "La Laguna", 
+        "adjacent_woeid": [
+          115380, 
+          129127, 
+          130280, 
+          132482
+        ], 
+        "woeid": 127927, 
+        "alias_SPA_V": [
+          "Las Lagunas"
+        ], 
+        "ne_longitude": -109.486, 
+        "longitude": -109.496, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.537, 
+        "sw_longitude": -109.506, 
+        "fullname": "La Laguna, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 23.528
+      }, 
+      "id": 127927
+    }
+  ]
+}

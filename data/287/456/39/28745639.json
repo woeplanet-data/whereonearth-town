@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.356, 
+              40.862
+            ], 
+            [
+              -75.356, 
+              41.007
+            ], 
+            [
+              -75.217, 
+              41.007
+            ], 
+            [
+              -75.217, 
+              40.862
+            ], 
+            [
+              -75.356, 
+              40.862
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745639, 
+        "name": "Hamilton", 
+        "adjacent_woeid": [
+          2428162, 
+          28745341, 
+          28745477, 
+          28745486, 
+          28745574, 
+          28745637
+        ], 
+        "ne_latitude": 41.007, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Hamilton Township"
+        ], 
+        "ne_longitude": -75.217, 
+        "longitude": -75.299, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589772, 
+        "latitude": 40.951, 
+        "sw_longitude": -75.356, 
+        "fullname": "Hamilton, Pennsylvania, Monroe, United States", 
+        "sw_latitude": 40.862
+      }, 
+      "id": 28745639
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.623, 
+              17.093
+            ], 
+            [
+              -97.623, 
+              17.111
+            ], 
+            [
+              -97.604, 
+              17.111
+            ], 
+            [
+              -97.604, 
+              17.093
+            ], 
+            [
+              -97.623, 
+              17.093
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.111, 
+        "name": "San Miguel el Grande", 
+        "adjacent_woeid": [
+          115559, 
+          115560, 
+          145110, 
+          145846, 
+          145853
+        ], 
+        "woeid": 144649, 
+        "alias_SPA_V": [
+          "S. Miguel el Grande"
+        ], 
+        "ne_longitude": -97.604, 
+        "longitude": -97.614, 
+        "parent_woeid": 12600929, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.102, 
+        "sw_longitude": -97.623, 
+        "fullname": "San Miguel el Grande, Oaxaca, San Miguel el Grande, Mexico", 
+        "sw_latitude": 17.093
+      }, 
+      "id": 144649
+    }
+  ]
+}

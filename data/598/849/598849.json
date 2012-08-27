@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.195, 
+              48.417
+            ], 
+            [
+              -2.195, 
+              48.445
+            ], 
+            [
+              -2.172, 
+              48.445
+            ], 
+            [
+              -2.172, 
+              48.417
+            ], 
+            [
+              -2.195, 
+              48.417
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598849, 
+        "name": "La Landec", 
+        "adjacent_woeid": [
+          601264, 
+          625800, 
+          629109, 
+          631375
+        ], 
+        "ne_latitude": 48.445, 
+        "ne_longitude": -2.172, 
+        "longitude": -2.179, 
+        "parent_woeid": 12646394, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Landec"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:40Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.435, 
+        "sw_longitude": -2.195, 
+        "fullname": "La Landec, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.417
+      }, 
+      "id": 598849
+    }
+  ]
+}

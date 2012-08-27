@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.461, 
+              49.669
+            ], 
+            [
+              5.461, 
+              49.687
+            ], 
+            [
+              5.489, 
+              49.687
+            ], 
+            [
+              5.489, 
+              49.669
+            ], 
+            [
+              5.461, 
+              49.669
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977309, 
+        "name": "St.-Vincent", 
+        "adjacent_woeid": [
+          967091, 
+          967895, 
+          969821, 
+          972823, 
+          975917, 
+          978067, 
+          978332
+        ], 
+        "ne_latitude": 49.687, 
+        "ne_longitude": 5.489, 
+        "longitude": 5.475, 
+        "parent_woeid": 12602611, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Vincent"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.678, 
+        "sw_longitude": 5.461, 
+        "fullname": "St.-Vincent, Luxemburg, Virton, Belgium", 
+        "sw_latitude": 49.669
+      }, 
+      "id": 977309
+    }
+  ]
+}

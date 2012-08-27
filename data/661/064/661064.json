@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.441, 
+              49.383
+            ], 
+            [
+              10.441, 
+              49.403
+            ], 
+            [
+              10.468, 
+              49.403
+            ], 
+            [
+              10.468, 
+              49.383
+            ], 
+            [
+              10.441, 
+              49.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661064, 
+        "name": "Hohenau", 
+        "adjacent_woeid": [
+          653740, 
+          675453, 
+          675711, 
+          689584, 
+          701596
+        ], 
+        "ne_latitude": 49.403, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.468, 
+        "longitude": 10.454, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12634417, 
+        "latitude": 49.393, 
+        "sw_longitude": 10.441, 
+        "fullname": "Hohenau, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.383
+      }, 
+      "id": 661064
+    }
+  ]
+}

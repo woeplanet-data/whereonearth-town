@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.769, 
+              43.423
+            ], 
+            [
+              1.769, 
+              43.451
+            ], 
+            [
+              1.801, 
+              43.451
+            ], 
+            [
+              1.801, 
+              43.423
+            ], 
+            [
+              1.769, 
+              43.423
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609080, 
+        "name": "Lux", 
+        "adjacent_woeid": [
+          577608, 
+          578887, 
+          591249, 
+          595822, 
+          613531, 
+          619421, 
+          627260, 
+          629910
+        ], 
+        "ne_latitude": 43.451, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.801, 
+        "longitude": 1.783, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12665963, 
+        "latitude": 43.437, 
+        "sw_longitude": 1.769, 
+        "fullname": "Lux, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.423
+      }, 
+      "id": 609080
+    }
+  ]
+}

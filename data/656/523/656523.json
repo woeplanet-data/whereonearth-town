@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.373, 
+              52.529
+            ], 
+            [
+              10.373, 
+              52.577
+            ], 
+            [
+              10.453, 
+              52.577
+            ], 
+            [
+              10.453, 
+              52.529
+            ], 
+            [
+              10.373, 
+              52.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656523, 
+        "name": "Hahnenhorn", 
+        "adjacent_woeid": [
+          639992, 
+          652578, 
+          680094, 
+          706776
+        ], 
+        "ne_latitude": 52.577, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.453, 
+        "longitude": 10.404, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12630297, 
+        "latitude": 52.551, 
+        "sw_longitude": 10.373, 
+        "fullname": "Hahnenhorn, Lower Saxony, Landkreis Gifhorn, Germany", 
+        "sw_latitude": 52.529
+      }, 
+      "id": 656523
+    }
+  ]
+}

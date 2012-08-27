@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.637, 
+              45.943
+            ], 
+            [
+              1.637, 
+              45.953
+            ], 
+            [
+              1.650, 
+              45.953
+            ], 
+            [
+              1.650, 
+              45.943
+            ], 
+            [
+              1.637, 
+              45.943
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20189768, 
+        "name": "Sargnat", 
+        "adjacent_woeid": [
+          598250, 
+          622850, 
+          626394, 
+          20189755
+        ], 
+        "ne_latitude": 45.953, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.650, 
+        "longitude": 1.643, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12663650, 
+        "latitude": 45.948, 
+        "sw_longitude": 1.637, 
+        "fullname": "Sargnat, Limousin, Creuse, France", 
+        "sw_latitude": 45.943
+      }, 
+      "id": 20189768
+    }
+  ]
+}

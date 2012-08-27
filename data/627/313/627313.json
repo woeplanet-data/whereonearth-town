@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.314, 
+              48.528
+            ], 
+            [
+              2.314, 
+              48.559
+            ], 
+            [
+              2.350, 
+              48.559
+            ], 
+            [
+              2.350, 
+              48.528
+            ], 
+            [
+              2.314, 
+              48.528
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627313, 
+        "name": "St.-Vrain", 
+        "adjacent_woeid": [
+          581139, 
+          585582, 
+          595314, 
+          601489, 
+          607818, 
+          610174, 
+          630932, 
+          20219213, 
+          20219214
+        ], 
+        "ne_latitude": 48.559, 
+        "ne_longitude": 2.350, 
+        "longitude": 2.335, 
+        "parent_woeid": 12647550, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vrain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.542, 
+        "sw_longitude": 2.314, 
+        "fullname": "St.-Vrain, Ile-de-France, Essonne, France", 
+        "sw_latitude": 48.528
+      }, 
+      "id": 627313
+    }
+  ]
+}

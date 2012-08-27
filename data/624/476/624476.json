@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.380, 
+              49.940
+            ], 
+            [
+              2.380, 
+              49.995
+            ], 
+            [
+              2.425, 
+              49.995
+            ], 
+            [
+              2.425, 
+              49.940
+            ], 
+            [
+              2.380, 
+              49.940
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624476, 
+        "name": "St.-Gratien", 
+        "adjacent_woeid": [
+          575807, 
+          583060, 
+          591947, 
+          611803, 
+          612801, 
+          618748
+        ], 
+        "ne_latitude": 49.995, 
+        "ne_longitude": 2.425, 
+        "longitude": 2.409, 
+        "parent_woeid": 12670531, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gratien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.969, 
+        "sw_longitude": 2.380, 
+        "fullname": "St.-Gratien, Picardie, Somme, France", 
+        "sw_latitude": 49.940
+      }, 
+      "id": 624476
+    }
+  ]
+}

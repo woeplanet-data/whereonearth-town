@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.678, 
+              50.025
+            ], 
+            [
+              11.678, 
+              50.034
+            ], 
+            [
+              11.692, 
+              50.034
+            ], 
+            [
+              11.692, 
+              50.025
+            ], 
+            [
+              11.678, 
+              50.025
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650233, 
+        "name": "Frankenhammer", 
+        "adjacent_woeid": [
+          637019, 
+          653162, 
+          671073, 
+          20156166
+        ], 
+        "ne_latitude": 50.034, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.692, 
+        "longitude": 11.685, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12636089, 
+        "latitude": 50.029, 
+        "sw_longitude": 11.678, 
+        "fullname": "Frankenhammer, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 50.025
+      }, 
+      "id": 650233
+    }
+  ]
+}

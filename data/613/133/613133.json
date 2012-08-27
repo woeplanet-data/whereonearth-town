@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.031, 
+              47.199
+            ], 
+            [
+              0.031, 
+              47.231
+            ], 
+            [
+              0.077, 
+              47.231
+            ], 
+            [
+              0.077, 
+              47.199
+            ], 
+            [
+              0.031, 
+              47.199
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613133, 
+        "name": "Montsoreau", 
+        "adjacent_woeid": [
+          582911, 
+          585961, 
+          629536, 
+          29331022
+        ], 
+        "ne_latitude": 47.231, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.077, 
+        "longitude": 0.056, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "parent_woeid": 12658731, 
+        "latitude": 47.216, 
+        "sw_longitude": 0.031, 
+        "fullname": "Montsoreau, Pays de la Loire, Maine-et-Loire, France", 
+        "sw_latitude": 47.199
+      }, 
+      "id": 613133
+    }
+  ]
+}

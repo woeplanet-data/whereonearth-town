@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.498, 
+              51.487
+            ], 
+            [
+              10.498, 
+              51.527
+            ], 
+            [
+              10.532, 
+              51.527
+            ], 
+            [
+              10.532, 
+              51.487
+            ], 
+            [
+              10.498, 
+              51.487
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648267, 
+        "name": "Epschenrode", 
+        "adjacent_woeid": [
+          671836, 
+          697018, 
+          697406, 
+          699889
+        ], 
+        "ne_latitude": 51.527, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.532, 
+        "longitude": 10.514, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12624712, 
+        "latitude": 51.511, 
+        "sw_longitude": 10.498, 
+        "fullname": "Epschenrode, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.487
+      }, 
+      "id": 648267
+    }
+  ]
+}

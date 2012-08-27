@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.055, 
+              0.649
+            ], 
+            [
+              -80.055, 
+              0.659
+            ], 
+            [
+              -80.045, 
+              0.659
+            ], 
+            [
+              -80.045, 
+              0.649
+            ], 
+            [
+              -80.055, 
+              0.649
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.659, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          375875, 
+          376048, 
+          376202, 
+          376308
+        ], 
+        "woeid": 374712, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -80.045, 
+        "longitude": -80.050, 
+        "parent_woeid": 26810413, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.654, 
+        "sw_longitude": -80.055, 
+        "fullname": "San Francisco, Esmeraldas, Muisne, Ecuador", 
+        "sw_latitude": 0.649
+      }, 
+      "id": 374712
+    }
+  ]
+}

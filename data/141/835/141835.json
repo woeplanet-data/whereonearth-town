@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.760, 
+              27.024
+            ], 
+            [
+              -105.760, 
+              27.042
+            ], 
+            [
+              -105.740, 
+              27.042
+            ], 
+            [
+              -105.740, 
+              27.024
+            ], 
+            [
+              -105.760, 
+              27.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.042, 
+        "name": "San Antonio del Potrero", 
+        "adjacent_woeid": [
+          121177, 
+          129252, 
+          142642, 
+          144721, 
+          149894
+        ], 
+        "woeid": 141835, 
+        "alias_SPA_V": [
+          "S. Antonio del Potrero"
+        ], 
+        "ne_longitude": -105.740, 
+        "longitude": -105.750, 
+        "parent_woeid": 12599850, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.033, 
+        "sw_longitude": -105.760, 
+        "fullname": "San Antonio del Potrero, Chihuahua, Hidalgo del Parral, Mexico", 
+        "sw_latitude": 27.024
+      }, 
+      "id": 141835
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.050, 
+              44.373
+            ], 
+            [
+              1.050, 
+              44.410
+            ], 
+            [
+              1.102, 
+              44.410
+            ], 
+            [
+              1.102, 
+              44.373
+            ], 
+            [
+              1.050, 
+              44.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621344, 
+        "name": "Saux", 
+        "adjacent_woeid": [
+          587323, 
+          587374, 
+          610435, 
+          621873, 
+          625795
+        ], 
+        "ne_latitude": 44.410, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.102, 
+        "longitude": 1.085, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12669555, 
+        "latitude": 44.391, 
+        "sw_longitude": 1.050, 
+        "fullname": "Saux, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.373
+      }, 
+      "id": 621344
+    }
+  ]
+}

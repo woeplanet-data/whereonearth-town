@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.177, 
+              52.167
+            ], 
+            [
+              10.177, 
+              52.200
+            ], 
+            [
+              10.201, 
+              52.200
+            ], 
+            [
+              10.201, 
+              52.167
+            ], 
+            [
+              10.177, 
+              52.167
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666413, 
+        "name": "Klein Himstedt", 
+        "adjacent_woeid": [
+          637830, 
+          638541, 
+          654524, 
+          661146, 
+          677570, 
+          680303
+        ], 
+        "ne_latitude": 52.200, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.201, 
+        "longitude": 10.191, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12629505, 
+        "latitude": 52.182, 
+        "sw_longitude": 10.177, 
+        "fullname": "Klein Himstedt, Lower Saxony, Landkreis Hildesheim, Germany", 
+        "alias_GER_V": [
+          "Klein-Himstedt"
+        ], 
+        "sw_latitude": 52.167
+      }, 
+      "id": 666413
+    }
+  ]
+}

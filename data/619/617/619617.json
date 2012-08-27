@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.592, 
+              44.784
+            ], 
+            [
+              1.592, 
+              44.820
+            ], 
+            [
+              1.635, 
+              44.820
+            ], 
+            [
+              1.635, 
+              44.784
+            ], 
+            [
+              1.592, 
+              44.784
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619617, 
+        "name": "Rocamadour", 
+        "adjacent_woeid": [
+          582695, 
+          587709, 
+          600693, 
+          29331440
+        ], 
+        "ne_latitude": 44.820, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.635, 
+        "longitude": 1.620, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12657147, 
+        "latitude": 44.802, 
+        "sw_longitude": 1.592, 
+        "fullname": "Rocamadour, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.784
+      }, 
+      "id": 619617
+    }
+  ]
+}

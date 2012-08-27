@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.213, 
+              46.019
+            ], 
+            [
+              0.213, 
+              46.045
+            ], 
+            [
+              0.241, 
+              46.045
+            ], 
+            [
+              0.241, 
+              46.019
+            ], 
+            [
+              0.213, 
+              46.019
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 586721, 
+        "name": "Condac", 
+        "adjacent_woeid": [
+          578253, 
+          580003, 
+          627967, 
+          20198527
+        ], 
+        "ne_latitude": 46.045, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.241, 
+        "longitude": 0.226, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12659750, 
+        "latitude": 46.025, 
+        "sw_longitude": 0.213, 
+        "fullname": "Condac, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 46.019
+      }, 
+      "id": 586721
+    }
+  ]
+}

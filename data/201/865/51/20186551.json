@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.339, 
+              47.815
+            ], 
+            [
+              1.339, 
+              47.825
+            ], 
+            [
+              1.352, 
+              47.825
+            ], 
+            [
+              1.352, 
+              47.815
+            ], 
+            [
+              1.339, 
+              47.815
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20186551, 
+        "name": "Sigogne", 
+        "adjacent_woeid": [
+          625273, 
+          631300, 
+          20186715, 
+          29332243
+        ], 
+        "ne_latitude": 47.825, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.352, 
+        "longitude": 1.345, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12652779, 
+        "latitude": 47.820, 
+        "sw_longitude": 1.339, 
+        "fullname": "Sigogne, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.815
+      }, 
+      "id": 20186551
+    }
+  ]
+}

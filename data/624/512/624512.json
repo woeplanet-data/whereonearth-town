@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.112, 
+              47.392
+            ], 
+            [
+              -1.112, 
+              47.422
+            ], 
+            [
+              -1.079, 
+              47.422
+            ], 
+            [
+              -1.079, 
+              47.392
+            ], 
+            [
+              -1.112, 
+              47.392
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624512, 
+        "name": "St.-Herblon", 
+        "adjacent_woeid": [
+          576094, 
+          596567, 
+          599745, 
+          599881, 
+          22657111
+        ], 
+        "ne_latitude": 47.422, 
+        "ne_longitude": -1.079, 
+        "longitude": -1.096, 
+        "parent_woeid": 12670541, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Herblon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.408, 
+        "sw_longitude": -1.112, 
+        "fullname": "St.-Herblon, Pays de la Loire, Loire-Atlantique, France", 
+        "sw_latitude": 47.392
+      }, 
+      "id": 624512
+    }
+  ]
+}

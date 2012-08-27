@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.566, 
+              46.246
+            ], 
+            [
+              4.566, 
+              46.262
+            ], 
+            [
+              4.593, 
+              46.262
+            ], 
+            [
+              4.593, 
+              46.246
+            ], 
+            [
+              4.566, 
+              46.246
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625401, 
+        "name": "St.-Mamert", 
+        "adjacent_woeid": [
+          615375, 
+          623459, 
+          624670, 
+          629040, 
+          20210083
+        ], 
+        "ne_latitude": 46.262, 
+        "ne_longitude": 4.593, 
+        "longitude": 4.583, 
+        "parent_woeid": 22757676, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mamert"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.250, 
+        "sw_longitude": 4.566, 
+        "fullname": "St.-Mamert, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 46.246
+      }, 
+      "id": 625401
+    }
+  ]
+}

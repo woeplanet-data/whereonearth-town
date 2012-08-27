@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.760, 
+              20.258
+            ], 
+            [
+              -103.760, 
+              20.276
+            ], 
+            [
+              -103.740, 
+              20.276
+            ], 
+            [
+              -103.740, 
+              20.258
+            ], 
+            [
+              -103.760, 
+              20.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.276, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          113119, 
+          113794, 
+          127633, 
+          129879, 
+          131446, 
+          149286
+        ], 
+        "woeid": 146967, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -103.740, 
+        "longitude": -103.750, 
+        "parent_woeid": 12600307, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.267, 
+        "sw_longitude": -103.760, 
+        "fullname": "Santa Teresa, Jalisco, Villa Corona, Mexico", 
+        "sw_latitude": 20.258
+      }, 
+      "id": 146967
+    }
+  ]
+}

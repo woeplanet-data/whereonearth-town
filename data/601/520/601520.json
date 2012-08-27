@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.314, 
+              45.327
+            ], 
+            [
+              3.314, 
+              45.336
+            ], 
+            [
+              3.327, 
+              45.336
+            ], 
+            [
+              3.327, 
+              45.327
+            ], 
+            [
+              3.314, 
+              45.327
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601520, 
+        "name": "Laroche", 
+        "adjacent_woeid": [
+          578139, 
+          578733, 
+          581301, 
+          581302, 
+          624395, 
+          20206192, 
+          29332590
+        ], 
+        "ne_latitude": 45.336, 
+        "ne_longitude": 3.327, 
+        "longitude": 3.320, 
+        "parent_woeid": 22754820, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Roche"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.331, 
+        "sw_longitude": 3.314, 
+        "fullname": "Laroche, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.327
+      }, 
+      "id": 601520
+    }
+  ]
+}

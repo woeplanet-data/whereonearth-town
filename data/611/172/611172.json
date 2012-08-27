@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.874, 
+              46.643
+            ], 
+            [
+              1.874, 
+              46.669
+            ], 
+            [
+              1.899, 
+              46.669
+            ], 
+            [
+              1.899, 
+              46.643
+            ], 
+            [
+              1.874, 
+              46.643
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611172, 
+        "name": "Mers-sur-Indre", 
+        "adjacent_woeid": [
+          595524, 
+          603379, 
+          612814, 
+          621126, 
+          623010, 
+          629078
+        ], 
+        "ne_latitude": 46.669, 
+        "ne_longitude": 1.899, 
+        "longitude": 1.882, 
+        "parent_woeid": 12649087, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mers"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.658, 
+        "sw_longitude": 1.874, 
+        "fullname": "Mers-sur-Indre, Centre, Indre, France", 
+        "sw_latitude": 46.643
+      }, 
+      "id": 611172
+    }
+  ]
+}

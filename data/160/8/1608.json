@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.205, 
+              45.826
+            ], 
+            [
+              -73.205, 
+              45.965
+            ], 
+            [
+              -73.140, 
+              45.965
+            ], 
+            [
+              -73.140, 
+              45.826
+            ], 
+            [
+              -73.205, 
+              45.826
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1608, 
+        "name": "St.-Roch-de-Richelieu", 
+        "adjacent_woeid": [
+          1582
+        ], 
+        "ne_latitude": 45.965, 
+        "ne_longitude": -73.140, 
+        "longitude": -73.157, 
+        "parent_woeid": 29375092, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Roch-de-Richelieu"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.886, 
+        "sw_longitude": -73.205, 
+        "fullname": "St.-Roch-de-Richelieu, Quebec, Le Bas-Richelieu, Canada", 
+        "sw_latitude": 45.826
+      }, 
+      "id": 1608
+    }
+  ]
+}

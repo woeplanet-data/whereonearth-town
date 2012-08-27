@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.080, 
+              29.804
+            ], 
+            [
+              -107.080, 
+              29.822
+            ], 
+            [
+              -107.059, 
+              29.822
+            ], 
+            [
+              -107.059, 
+              29.804
+            ], 
+            [
+              -107.080, 
+              29.804
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.822, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          113191, 
+          113709, 
+          135222, 
+          136377, 
+          140651, 
+          145864, 
+          55885383
+        ], 
+        "woeid": 144143, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -107.059, 
+        "longitude": -107.070, 
+        "parent_woeid": 12599828, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.813, 
+        "sw_longitude": -107.080, 
+        "fullname": "San Lorenzo, Chihuahua, Buenaventura, Mexico", 
+        "sw_latitude": 29.804
+      }, 
+      "id": 144143
+    }
+  ]
+}

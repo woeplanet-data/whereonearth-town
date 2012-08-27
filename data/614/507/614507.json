@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.040, 
+              47.385
+            ], 
+            [
+              5.040, 
+              47.429
+            ], 
+            [
+              5.098, 
+              47.429
+            ], 
+            [
+              5.098, 
+              47.385
+            ], 
+            [
+              5.040, 
+              47.385
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614507, 
+        "name": "Norges-la-Ville", 
+        "adjacent_woeid": [
+          576884, 
+          579093, 
+          581821, 
+          586209, 
+          610251, 
+          621423, 
+          20213751
+        ], 
+        "ne_latitude": 47.429, 
+        "ne_longitude": 5.098, 
+        "longitude": 5.076, 
+        "parent_woeid": 12650044, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Norges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.407, 
+        "sw_longitude": 5.040, 
+        "fullname": "Norges-la-Ville, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.385
+      }, 
+      "id": 614507
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.610, 
+              20.841
+            ], 
+            [
+              -100.610, 
+              20.859
+            ], 
+            [
+              -100.590, 
+              20.859
+            ], 
+            [
+              -100.590, 
+              20.841
+            ], 
+            [
+              -100.610, 
+              20.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.859, 
+        "name": "Fajardo de Bocas", 
+        "adjacent_woeid": [
+          113510, 
+          115350, 
+          121381, 
+          121447, 
+          128326, 
+          128876, 
+          143507
+        ], 
+        "woeid": 123600, 
+        "alias_SPA_V": [
+          "Fajardo"
+        ], 
+        "ne_longitude": -100.590, 
+        "longitude": -100.600, 
+        "parent_woeid": 12599991, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.850, 
+        "sw_longitude": -100.610, 
+        "fullname": "Fajardo de Bocas, Guanajuato, Allende, Mexico", 
+        "sw_latitude": 20.841
+      }, 
+      "id": 123600
+    }
+  ]
+}

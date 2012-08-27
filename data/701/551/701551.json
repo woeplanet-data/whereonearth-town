@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.243, 
+              49.940
+            ], 
+            [
+              10.243, 
+              49.981
+            ], 
+            [
+              10.282, 
+              49.981
+            ], 
+            [
+              10.282, 
+              49.940
+            ], 
+            [
+              10.243, 
+              49.940
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 701551, 
+        "name": "Unterspiesheim", 
+        "adjacent_woeid": [
+          652287, 
+          658439, 
+          660370, 
+          682311
+        ], 
+        "ne_latitude": 49.981, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.282, 
+        "longitude": 10.263, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12635423, 
+        "latitude": 49.953, 
+        "sw_longitude": 10.243, 
+        "fullname": "Unterspiesheim, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.940
+      }, 
+      "id": 701551
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.004, 
+              30.702
+            ], 
+            [
+              -116.004, 
+              30.742
+            ], 
+            [
+              -115.978, 
+              30.742
+            ], 
+            [
+              -115.978, 
+              30.702
+            ], 
+            [
+              -116.004, 
+              30.702
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.742, 
+        "name": "Colonia Vicente Guerrero", 
+        "adjacent_woeid": [
+          116850, 
+          133803, 
+          133905, 
+          55900241, 
+          55913676, 
+          56068563, 
+          56068598, 
+          56068673
+        ], 
+        "woeid": 117009, 
+        "alias_SPA_V": [
+          "Vicente Guerrero"
+        ], 
+        "ne_longitude": -115.978, 
+        "longitude": -115.992, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.725, 
+        "sw_longitude": -116.004, 
+        "fullname": "Colonia Vicente Guerrero, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 30.702
+      }, 
+      "id": 117009
+    }
+  ]
+}

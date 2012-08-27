@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.172, 
+              30.327
+            ], 
+            [
+              -110.172, 
+              30.339
+            ], 
+            [
+              -110.158, 
+              30.339
+            ], 
+            [
+              -110.158, 
+              30.327
+            ], 
+            [
+              -110.172, 
+              30.327
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.339, 
+        "name": "Arizpe", 
+        "adjacent_woeid": [
+          111372, 
+          112864, 
+          113025, 
+          113684, 
+          126598, 
+          147619
+        ], 
+        "woeid": 112386, 
+        "alias_SPA_V": [
+          "Ciudad Arizpe"
+        ], 
+        "ne_longitude": -110.158, 
+        "longitude": -110.168, 
+        "parent_woeid": 12601550, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.339, 
+        "sw_longitude": -110.172, 
+        "fullname": "Arizpe, Sonora, Arizpe, Mexico", 
+        "sw_latitude": 30.327
+      }, 
+      "id": 112386
+    }
+  ]
+}

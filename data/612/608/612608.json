@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.580, 
+              45.471
+            ], 
+            [
+              5.580, 
+              45.501
+            ], 
+            [
+              5.604, 
+              45.501
+            ], 
+            [
+              5.604, 
+              45.471
+            ], 
+            [
+              5.580, 
+              45.471
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612608, 
+        "name": "Montferrat", 
+        "adjacent_woeid": [
+          596804, 
+          597613, 
+          615522, 
+          626370, 
+          627049, 
+          20209435, 
+          20209439, 
+          22657561
+        ], 
+        "ne_latitude": 45.501, 
+        "ne_longitude": 5.604, 
+        "longitude": 5.591, 
+        "parent_woeid": 12663029, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Montferra"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.486, 
+        "sw_longitude": 5.580, 
+        "fullname": "Montferrat, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.471
+      }, 
+      "id": 612608
+    }
+  ]
+}

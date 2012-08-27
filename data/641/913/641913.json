@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.668, 
+              48.339
+            ], 
+            [
+              10.668, 
+              48.359
+            ], 
+            [
+              10.698, 
+              48.359
+            ], 
+            [
+              10.698, 
+              48.339
+            ], 
+            [
+              10.668, 
+              48.339
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641913, 
+        "name": "Buch", 
+        "adjacent_woeid": [
+          633477, 
+          673501, 
+          675744, 
+          691688
+        ], 
+        "ne_latitude": 48.359, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.698, 
+        "longitude": 10.687, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12634776, 
+        "latitude": 48.350, 
+        "sw_longitude": 10.668, 
+        "fullname": "Buch, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.339
+      }, 
+      "id": 641913
+    }
+  ]
+}

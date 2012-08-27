@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.751, 
+              40.722
+            ], 
+            [
+              -77.751, 
+              40.883
+            ], 
+            [
+              -77.552, 
+              40.883
+            ], 
+            [
+              -77.552, 
+              40.722
+            ], 
+            [
+              -77.751, 
+              40.722
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745527, 
+        "name": "Potter", 
+        "adjacent_woeid": [
+          2359508, 
+          2473679, 
+          2484590, 
+          2493451, 
+          28745522, 
+          28745600, 
+          28745602
+        ], 
+        "ne_latitude": 40.883, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Potter Township"
+        ], 
+        "ne_longitude": -77.552, 
+        "longitude": -77.665, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589741, 
+        "latitude": 40.797, 
+        "sw_longitude": -77.751, 
+        "fullname": "Potter, Pennsylvania, Centre, United States", 
+        "sw_latitude": 40.722
+      }, 
+      "id": 28745527
+    }
+  ]
+}

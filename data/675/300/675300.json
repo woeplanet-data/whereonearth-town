@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.921, 
+              53.703
+            ], 
+            [
+              13.921, 
+              53.753
+            ], 
+            [
+              13.987, 
+              53.753
+            ], 
+            [
+              13.987, 
+              53.703
+            ], 
+            [
+              13.921, 
+              53.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675300, 
+        "name": "Millnitz", 
+        "adjacent_woeid": [
+          635227, 
+          675970, 
+          695938
+        ], 
+        "ne_latitude": 53.753, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.987, 
+        "longitude": 13.953, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12631358, 
+        "latitude": 53.725, 
+        "sw_longitude": 13.921, 
+        "fullname": "Millnitz, Mecklenburg-Vorpommern, Uecker-Randow, Germany", 
+        "sw_latitude": 53.703
+      }, 
+      "id": 675300
+    }
+  ]
+}

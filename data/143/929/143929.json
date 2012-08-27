@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.825, 
+              20.373
+            ], 
+            [
+              -99.825, 
+              20.391
+            ], 
+            [
+              -99.805, 
+              20.391
+            ], 
+            [
+              -99.805, 
+              20.373
+            ], 
+            [
+              -99.825, 
+              20.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.391, 
+        "name": "San Juan del Rio", 
+        "adjacent_woeid": [
+          119628, 
+          127103, 
+          142532, 
+          148002, 
+          151037, 
+          55887613
+        ], 
+        "woeid": 143929, 
+        "alias_SPA_V": [
+          "S Juan del Rio"
+        ], 
+        "ne_longitude": -99.805, 
+        "longitude": -99.815, 
+        "parent_woeid": 12600138, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.382, 
+        "sw_longitude": -99.825, 
+        "fullname": "San Juan del Rio, Hidalgo, Huichapan, Mexico", 
+        "sw_latitude": 20.373
+      }, 
+      "id": 143929
+    }
+  ]
+}

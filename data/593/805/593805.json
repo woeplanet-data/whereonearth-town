@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.961, 
+              47.633
+            ], 
+            [
+              3.961, 
+              47.675
+            ], 
+            [
+              3.998, 
+              47.675
+            ], 
+            [
+              3.998, 
+              47.633
+            ], 
+            [
+              3.961, 
+              47.633
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593805, 
+        "name": "Grimault", 
+        "adjacent_woeid": [
+          595607, 
+          618301, 
+          621099, 
+          628806, 
+          632213
+        ], 
+        "ne_latitude": 47.675, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.998, 
+        "longitude": 3.986, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12642392, 
+        "latitude": 47.651, 
+        "sw_longitude": 3.961, 
+        "fullname": "Grimault, Burgundy, Yonne, France", 
+        "sw_latitude": 47.633
+      }, 
+      "id": 593805
+    }
+  ]
+}

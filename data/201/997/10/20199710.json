@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.980, 
+              46.179
+            ], 
+            [
+              -0.980, 
+              46.188
+            ], 
+            [
+              -0.967, 
+              46.188
+            ], 
+            [
+              -0.967, 
+              46.179
+            ], 
+            [
+              -0.980, 
+              46.179
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20199710, 
+        "name": "St.-Coux", 
+        "adjacent_woeid": [
+          625908, 
+          630732, 
+          20199545, 
+          20199702, 
+          20199708
+        ], 
+        "ne_latitude": 46.188, 
+        "ne_longitude": -0.967, 
+        "longitude": -0.974, 
+        "parent_woeid": 12671453, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Coux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.183, 
+        "sw_longitude": -0.980, 
+        "fullname": "St.-Coux, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 46.179
+      }, 
+      "id": 20199710
+    }
+  ]
+}

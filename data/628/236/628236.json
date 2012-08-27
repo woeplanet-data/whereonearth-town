@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.798, 
+              45.260
+            ], 
+            [
+              6.798, 
+              45.288
+            ], 
+            [
+              6.845, 
+              45.288
+            ], 
+            [
+              6.845, 
+              45.260
+            ], 
+            [
+              6.798, 
+              45.260
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628236, 
+        "name": "Termignon", 
+        "adjacent_woeid": [
+          577367, 
+          579581, 
+          584187, 
+          601360, 
+          622321, 
+          622322, 
+          20210435
+        ], 
+        "ne_latitude": 45.288, 
+        "ne_longitude": 6.845, 
+        "longitude": 6.815, 
+        "parent_woeid": 12671572, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Thermignon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.277, 
+        "sw_longitude": 6.798, 
+        "fullname": "Termignon, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.260
+      }, 
+      "id": 628236
+    }
+  ]
+}

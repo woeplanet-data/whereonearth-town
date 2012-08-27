@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.969, 
+              21.125
+            ], 
+            [
+              -100.969, 
+              21.191
+            ], 
+            [
+              -100.885, 
+              21.191
+            ], 
+            [
+              -100.885, 
+              21.125
+            ], 
+            [
+              -100.969, 
+              21.125
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.191, 
+        "name": "Ciudad de Dolores Hidalgo", 
+        "adjacent_woeid": [
+          122087, 
+          132334, 
+          144843, 
+          149283, 
+          55901442, 
+          55921039
+        ], 
+        "woeid": 116544, 
+        "alias_SPA_V": [
+          "Dolores Hidalgo"
+        ], 
+        "ne_longitude": -100.885, 
+        "longitude": -100.919, 
+        "parent_woeid": 12600002, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.148, 
+        "sw_longitude": -100.969, 
+        "fullname": "Ciudad de Dolores Hidalgo, Guanajuato, Dolores Hidalgo, Mexico", 
+        "sw_latitude": 21.125
+      }, 
+      "id": 116544
+    }
+  ]
+}

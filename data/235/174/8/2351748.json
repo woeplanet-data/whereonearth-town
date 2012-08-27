@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.065, 
+              38.970
+            ], 
+            [
+              -86.065, 
+              38.979
+            ], 
+            [
+              -86.053, 
+              38.979
+            ], 
+            [
+              -86.053, 
+              38.970
+            ], 
+            [
+              -86.065, 
+              38.970
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2351748, 
+        "name": "Acme", 
+        "adjacent_woeid": [
+          2492700, 
+          2497754, 
+          2502670
+        ], 
+        "ne_latitude": 38.979, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -86.053, 
+        "longitude": -86.059, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:22:00Z", 
+        "parent_woeid": 12588215, 
+        "latitude": 38.978, 
+        "sw_longitude": -86.065, 
+        "fullname": "Acme, Indiana, Jackson, United States", 
+        "sw_latitude": 38.970
+      }, 
+      "id": 2351748
+    }
+  ]
+}

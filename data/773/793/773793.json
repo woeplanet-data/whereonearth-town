@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.096, 
+              39.671
+            ], 
+            [
+              3.096, 
+              39.720
+            ], 
+            [
+              3.152, 
+              39.720
+            ], 
+            [
+              3.152, 
+              39.671
+            ], 
+            [
+              3.096, 
+              39.671
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.720, 
+        "name": "Santa Margarita", 
+        "adjacent_woeid": [
+          752918, 
+          753150, 
+          766581, 
+          768073, 
+          770047, 
+          773794, 
+          15003428
+        ], 
+        "woeid": 773793, 
+        "alias_SPA_V": [
+          "Sta. Margarita"
+        ], 
+        "ne_longitude": 3.152, 
+        "longitude": 3.113, 
+        "parent_woeid": 12687762, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.696, 
+        "sw_longitude": 3.096, 
+        "fullname": "Santa Margarita, Balearic Islands, Baleares, Spain", 
+        "sw_latitude": 39.671
+      }, 
+      "id": 773793
+    }
+  ]
+}

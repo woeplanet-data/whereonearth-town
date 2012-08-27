@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.647, 
+              45.271
+            ], 
+            [
+              1.647, 
+              45.305
+            ], 
+            [
+              1.671, 
+              45.305
+            ], 
+            [
+              1.671, 
+              45.271
+            ], 
+            [
+              1.647, 
+              45.271
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625948, 
+        "name": "St.-Mexant", 
+        "adjacent_woeid": [
+          584102, 
+          584456, 
+          590650, 
+          617138, 
+          623555
+        ], 
+        "ne_latitude": 45.305, 
+        "ne_longitude": 1.671, 
+        "longitude": 1.658, 
+        "parent_woeid": 20074887, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mexant"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:04:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.284, 
+        "sw_longitude": 1.647, 
+        "fullname": "St.-Mexant, Limousin, Correze, France", 
+        "sw_latitude": 45.271
+      }, 
+      "id": 625948
+    }
+  ]
+}

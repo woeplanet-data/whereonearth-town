@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.395, 
+              43.411
+            ], 
+            [
+              0.395, 
+              43.455
+            ], 
+            [
+              0.442, 
+              43.455
+            ], 
+            [
+              0.442, 
+              43.411
+            ], 
+            [
+              0.395, 
+              43.411
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626018, 
+        "name": "St.-Michel", 
+        "adjacent_woeid": [
+          578552, 
+          579175, 
+          579332, 
+          611848, 
+          612327, 
+          617277, 
+          621323, 
+          623822, 
+          627492
+        ], 
+        "ne_latitude": 43.455, 
+        "ne_longitude": 0.442, 
+        "longitude": 0.415, 
+        "parent_woeid": 12670952, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Michel-Saint-Jaymes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.430, 
+        "sw_longitude": 0.395, 
+        "fullname": "St.-Michel, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.411
+      }, 
+      "id": 626018
+    }
+  ]
+}

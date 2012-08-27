@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.326, 
+              53.331
+            ], 
+            [
+              10.326, 
+              53.370
+            ], 
+            [
+              10.366, 
+              53.370
+            ], 
+            [
+              10.366, 
+              53.331
+            ], 
+            [
+              10.326, 
+              53.331
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657110, 
+        "name": "Handorf", 
+        "adjacent_woeid": [
+          636856, 
+          649199, 
+          683199, 
+          690125, 
+          707071, 
+          707372, 
+          15002706, 
+          20166761, 
+          20166774, 
+          29350088
+        ], 
+        "ne_latitude": 53.370, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.366, 
+        "longitude": 10.343, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12629692, 
+        "latitude": 53.348, 
+        "sw_longitude": 10.326, 
+        "fullname": "Handorf, Lower Saxony, Luneburg, Germany", 
+        "sw_latitude": 53.331
+      }, 
+      "id": 657110
+    }
+  ]
+}

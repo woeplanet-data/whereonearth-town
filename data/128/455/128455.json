@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.510, 
+              24.341
+            ], 
+            [
+              -99.510, 
+              24.359
+            ], 
+            [
+              -99.490, 
+              24.359
+            ], 
+            [
+              -99.490, 
+              24.341
+            ], 
+            [
+              -99.510, 
+              24.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.359, 
+        "name": "La Noria", 
+        "adjacent_woeid": [
+          113881, 
+          129447, 
+          133038, 
+          134146, 
+          141603, 
+          144463
+        ], 
+        "woeid": 128455, 
+        "alias_SPA_V": [
+          "Noria"
+        ], 
+        "ne_longitude": -99.490, 
+        "longitude": -99.500, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.350, 
+        "sw_longitude": -99.510, 
+        "fullname": "La Noria, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.341
+      }, 
+      "id": 128455
+    }
+  ]
+}

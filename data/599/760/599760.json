@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.206, 
+              45.704
+            ], 
+            [
+              3.206, 
+              45.732
+            ], 
+            [
+              3.240, 
+              45.732
+            ], 
+            [
+              3.240, 
+              45.704
+            ], 
+            [
+              3.206, 
+              45.704
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599760, 
+        "name": "La Roche-Noire", 
+        "adjacent_woeid": [
+          611621, 
+          616063, 
+          624225
+        ], 
+        "ne_latitude": 45.732, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.240, 
+        "longitude": 3.229, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12646596, 
+        "latitude": 45.712, 
+        "sw_longitude": 3.206, 
+        "fullname": "La Roche-Noire, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.704
+      }, 
+      "id": 599760
+    }
+  ]
+}

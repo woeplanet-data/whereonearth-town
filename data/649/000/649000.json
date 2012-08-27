@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.006, 
+              50.130
+            ], 
+            [
+              10.006, 
+              50.173
+            ], 
+            [
+              10.045, 
+              50.173
+            ], 
+            [
+              10.045, 
+              50.130
+            ], 
+            [
+              10.006, 
+              50.130
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649000, 
+        "name": "Euerdorf", 
+        "adjacent_woeid": [
+          636153, 
+          636444, 
+          647511, 
+          648046, 
+          648999, 
+          651538, 
+          682432, 
+          683379, 
+          685664, 
+          686819, 
+          698339, 
+          700045, 
+          704125, 
+          707206
+        ], 
+        "ne_latitude": 50.173, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.045, 
+        "longitude": 10.023, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12635496, 
+        "latitude": 50.149, 
+        "sw_longitude": 10.006, 
+        "fullname": "Euerdorf, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.130
+      }, 
+      "id": 649000
+    }
+  ]
+}

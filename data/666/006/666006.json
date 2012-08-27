@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.601, 
+              48.806
+            ], 
+            [
+              12.601, 
+              48.827
+            ], 
+            [
+              12.627, 
+              48.827
+            ], 
+            [
+              12.627, 
+              48.806
+            ], 
+            [
+              12.601, 
+              48.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666006, 
+        "name": "Kirchmatting", 
+        "adjacent_woeid": [
+          646769, 
+          652047, 
+          674248, 
+          674604, 
+          679519, 
+          685026, 
+          688589, 
+          690783, 
+          707571
+        ], 
+        "ne_latitude": 48.827, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.627, 
+        "longitude": 12.611, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12623041, 
+        "latitude": 48.813, 
+        "sw_longitude": 12.601, 
+        "fullname": "Kirchmatting, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 48.806
+      }, 
+      "id": 666006
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.293, 
+              18.341
+            ], 
+            [
+              -100.293, 
+              18.359
+            ], 
+            [
+              -100.274, 
+              18.359
+            ], 
+            [
+              -100.274, 
+              18.341
+            ], 
+            [
+              -100.293, 
+              18.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.359, 
+        "name": "Palos Altos", 
+        "adjacent_woeid": [
+          112340, 
+          121361, 
+          133568, 
+          141704, 
+          144712, 
+          150187
+        ], 
+        "woeid": 135852, 
+        "alias_SPA_V": [
+          "Palo Alto"
+        ], 
+        "ne_longitude": -100.274, 
+        "longitude": -100.283, 
+        "parent_woeid": 12600041, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.350, 
+        "sw_longitude": -100.293, 
+        "fullname": "Palos Altos, Guerrero, Arcelia, Mexico", 
+        "sw_latitude": 18.341
+      }, 
+      "id": 135852
+    }
+  ]
+}

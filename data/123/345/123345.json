@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.554, 
+              25.878
+            ], 
+            [
+              -97.554, 
+              25.896
+            ], 
+            [
+              -97.533, 
+              25.896
+            ], 
+            [
+              -97.533, 
+              25.878
+            ], 
+            [
+              -97.554, 
+              25.878
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123345, 
+        "name": "Esperanza", 
+        "adjacent_woeid": [
+          118677, 
+          126561, 
+          128121, 
+          129476
+        ], 
+        "ne_latitude": 25.896, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -97.533, 
+        "longitude": -97.544, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "parent_woeid": 12601653, 
+        "latitude": 25.887, 
+        "sw_longitude": -97.554, 
+        "fullname": "Esperanza, Tamaulipas, Matamoros, Mexico", 
+        "sw_latitude": 25.878
+      }, 
+      "id": 123345
+    }
+  ]
+}

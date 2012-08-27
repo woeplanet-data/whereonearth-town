@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              48.557
+            ], 
+            [
+              12.345, 
+              48.566
+            ], 
+            [
+              12.359, 
+              48.566
+            ], 
+            [
+              12.359, 
+              48.557
+            ], 
+            [
+              12.345, 
+              48.557
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20154420, 
+        "name": "G\u00f6tzberg", 
+        "alias_GER_S": [
+          "Goetzberg"
+        ], 
+        "ne_latitude": 48.566, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.359, 
+        "longitude": 12.352, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:35Z", 
+        "parent_woeid": 12622912, 
+        "latitude": 48.562, 
+        "sw_longitude": 12.345, 
+        "fullname": "G\u00f6tzberg, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.557
+      }, 
+      "id": 20154420
+    }
+  ]
+}

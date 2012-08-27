@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.505, 
+              28.154
+            ], 
+            [
+              -105.505, 
+              28.219
+            ], 
+            [
+              -105.428, 
+              28.219
+            ], 
+            [
+              -105.428, 
+              28.154
+            ], 
+            [
+              -105.505, 
+              28.154
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.219, 
+        "name": "Ciudad Delicias", 
+        "adjacent_woeid": [
+          120948, 
+          130969, 
+          131345, 
+          140943, 
+          146033, 
+          147399, 
+          149057
+        ], 
+        "woeid": 118131, 
+        "alias_SPA_V": [
+          "Las Delicias"
+        ], 
+        "ne_longitude": -105.428, 
+        "longitude": -105.462, 
+        "parent_woeid": 12599838, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.183, 
+        "sw_longitude": -105.505, 
+        "fullname": "Ciudad Delicias, Chihuahua, Delicias, Mexico", 
+        "sw_latitude": 28.154
+      }, 
+      "id": 118131
+    }
+  ]
+}

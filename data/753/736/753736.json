@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.234, 
+              41.619
+            ], 
+            [
+              -1.234, 
+              41.710
+            ], 
+            [
+              -1.145, 
+              41.710
+            ], 
+            [
+              -1.145, 
+              41.619
+            ], 
+            [
+              -1.234, 
+              41.619
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 753736, 
+        "name": "Bardallur", 
+        "adjacent_woeid": [
+          770325, 
+          770357, 
+          29369631, 
+          29370114
+        ], 
+        "ne_latitude": 41.710, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.145, 
+        "longitude": -1.213, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:03Z", 
+        "parent_woeid": 12689877, 
+        "latitude": 41.684, 
+        "sw_longitude": -1.234, 
+        "fullname": "Bardallur, Aragon, Zaragoza, Spain", 
+        "sw_latitude": 41.619
+      }, 
+      "id": 753736
+    }
+  ]
+}

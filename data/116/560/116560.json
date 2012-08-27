@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.969, 
+              20.715
+            ], 
+            [
+              -101.969, 
+              20.749
+            ], 
+            [
+              -101.930, 
+              20.749
+            ], 
+            [
+              -101.930, 
+              20.715
+            ], 
+            [
+              -101.969, 
+              20.715
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.749, 
+        "name": "Ciudad Manuel Doblado", 
+        "adjacent_woeid": [
+          112760, 
+          123776, 
+          127893, 
+          132961, 
+          146697
+        ], 
+        "woeid": 116560, 
+        "alias_SPA_V": [
+          "Manuel Doblado"
+        ], 
+        "ne_longitude": -101.930, 
+        "longitude": -101.937, 
+        "parent_woeid": 2346274, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.728, 
+        "sw_longitude": -101.969, 
+        "fullname": "Ciudad Manuel Doblado, Guanajuato, Manuel Doblado, Mexico", 
+        "sw_latitude": 20.715
+      }, 
+      "id": 116560
+    }
+  ]
+}

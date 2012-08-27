@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.643, 
+              20.858
+            ], 
+            [
+              -100.643, 
+              20.876
+            ], 
+            [
+              -100.624, 
+              20.876
+            ], 
+            [
+              -100.624, 
+              20.858
+            ], 
+            [
+              -100.643, 
+              20.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.876, 
+        "name": "Bocas", 
+        "adjacent_woeid": [
+          111805, 
+          115350, 
+          123600, 
+          125705, 
+          128876, 
+          137690
+        ], 
+        "woeid": 113510, 
+        "alias_SPA_V": [
+          "Boca"
+        ], 
+        "ne_longitude": -100.624, 
+        "longitude": -100.633, 
+        "parent_woeid": 12599991, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.867, 
+        "sw_longitude": -100.643, 
+        "fullname": "Bocas, Guanajuato, Allende, Mexico", 
+        "sw_latitude": 20.858
+      }, 
+      "id": 113510
+    }
+  ]
+}

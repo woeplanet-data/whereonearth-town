@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.209, 
+              48.125
+            ], 
+            [
+              11.209, 
+              48.166
+            ], 
+            [
+              11.230, 
+              48.166
+            ], 
+            [
+              11.230, 
+              48.125
+            ], 
+            [
+              11.209, 
+              48.125
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20156899, 
+        "name": "Zellhof", 
+        "adjacent_woeid": [
+          661927, 
+          690077, 
+          20172973
+        ], 
+        "ne_latitude": 48.166, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.230, 
+        "longitude": 11.217, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:04Z", 
+        "parent_woeid": 12635105, 
+        "latitude": 48.143, 
+        "sw_longitude": 11.209, 
+        "fullname": "Zellhof, Bavaria, Landkreis F\u00fcrstenfeldbruck, Germany", 
+        "sw_latitude": 48.125
+      }, 
+      "id": 20156899
+    }
+  ]
+}

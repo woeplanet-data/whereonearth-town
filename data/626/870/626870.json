@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.432, 
+              46.803
+            ], 
+            [
+              -0.432, 
+              46.850
+            ], 
+            [
+              -0.399, 
+              46.850
+            ], 
+            [
+              -0.399, 
+              46.803
+            ], 
+            [
+              -0.432, 
+              46.803
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626870, 
+        "name": "St.-Sauveur", 
+        "adjacent_woeid": [
+          580446, 
+          590712, 
+          592547, 
+          614442, 
+          626565, 
+          628285
+        ], 
+        "ne_latitude": 46.850, 
+        "ne_longitude": -0.399, 
+        "longitude": -0.417, 
+        "parent_woeid": 12656487, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sauveur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.824, 
+        "sw_longitude": -0.432, 
+        "fullname": "St.-Sauveur, Poitou-Charentes, Deux-Sevres, France", 
+        "sw_latitude": 46.803
+      }, 
+      "id": 626870
+    }
+  ]
+}

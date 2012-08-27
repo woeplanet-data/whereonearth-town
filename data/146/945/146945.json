@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.777, 
+              24.424
+            ], 
+            [
+              -104.777, 
+              24.442
+            ], 
+            [
+              -104.757, 
+              24.442
+            ], 
+            [
+              -104.757, 
+              24.424
+            ], 
+            [
+              -104.777, 
+              24.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.442, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          121717, 
+          134475, 
+          134542, 
+          143304, 
+          143481
+        ], 
+        "woeid": 146945, 
+        "alias_SPA_V": [
+          "Sta. Teresa"
+        ], 
+        "ne_longitude": -104.757, 
+        "longitude": -104.767, 
+        "parent_woeid": 12599950, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.433, 
+        "sw_longitude": -104.777, 
+        "fullname": "Santa Teresa, Durango, Canatlan, Mexico", 
+        "sw_latitude": 24.424
+      }, 
+      "id": 146945
+    }
+  ]
+}

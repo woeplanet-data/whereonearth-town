@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.110, 
+              20.308
+            ], 
+            [
+              -90.110, 
+              20.326
+            ], 
+            [
+              -90.090, 
+              20.326
+            ], 
+            [
+              -90.090, 
+              20.308
+            ], 
+            [
+              -90.110, 
+              20.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.326, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          112851, 
+          118432, 
+          134882, 
+          137028, 
+          141883, 
+          148832
+        ], 
+        "woeid": 145971, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -90.090, 
+        "longitude": -90.100, 
+        "parent_woeid": 12599699, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.317, 
+        "sw_longitude": -90.110, 
+        "fullname": "Santa Cruz, Campeche, Calkini, Mexico", 
+        "sw_latitude": 20.308
+      }, 
+      "id": 145971
+    }
+  ]
+}

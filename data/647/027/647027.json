@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.325, 
+              53.366
+            ], 
+            [
+              10.325, 
+              53.408
+            ], 
+            [
+              10.378, 
+              53.408
+            ], 
+            [
+              10.378, 
+              53.366
+            ], 
+            [
+              10.325, 
+              53.366
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647027, 
+        "name": "Eichholz", 
+        "adjacent_woeid": [
+          662878, 
+          669236, 
+          679683, 
+          683199, 
+          689510
+        ], 
+        "ne_latitude": 53.408, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.378, 
+        "longitude": 10.350, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12629632, 
+        "latitude": 53.391, 
+        "sw_longitude": 10.325, 
+        "fullname": "Eichholz, Lower Saxony, Harburg, Germany", 
+        "sw_latitude": 53.366
+      }, 
+      "id": 647027
+    }
+  ]
+}

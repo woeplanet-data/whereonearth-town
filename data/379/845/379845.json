@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -51.802, 
+              3.941
+            ], 
+            [
+              -51.802, 
+              3.957
+            ], 
+            [
+              -51.786, 
+              3.957
+            ], 
+            [
+              -51.786, 
+              3.941
+            ], 
+            [
+              -51.802, 
+              3.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 379845, 
+        "name": "St. Georges", 
+        "adjacent_woeid": [
+          379792, 
+          379835, 
+          379841, 
+          379844, 
+          379872
+        ], 
+        "ne_latitude": 3.957, 
+        "ne_longitude": -51.786, 
+        "longitude": -51.794, 
+        "parent_woeid": 55998436, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St Georges"
+        ], 
+        "iso": "GF", 
+        "date_indexed": "2010-12-02T08:59:14Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 3.949, 
+        "sw_longitude": -51.802, 
+        "fullname": "St. Georges, Cayenne, Saint-Georges, French Guiana", 
+        "sw_latitude": 3.941
+      }, 
+      "id": 379845
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.303, 
+              41.565
+            ], 
+            [
+              2.303, 
+              41.612
+            ], 
+            [
+              2.343, 
+              41.612
+            ], 
+            [
+              2.343, 
+              41.565
+            ], 
+            [
+              2.303, 
+              41.565
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.612, 
+        "name": "La Roca", 
+        "adjacent_woeid": [
+          752877, 
+          756177, 
+          761807, 
+          768949, 
+          779218, 
+          20225890, 
+          20226015, 
+          20226542, 
+          20226944, 
+          29369753, 
+          29369812
+        ], 
+        "woeid": 764000, 
+        "alias_SPA_V": [
+          "Laroca"
+        ], 
+        "ne_longitude": 2.343, 
+        "longitude": 2.325, 
+        "parent_woeid": 12693561, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "La Roca Del Valles"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.585, 
+        "sw_longitude": 2.303, 
+        "fullname": "La Roca, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.565
+      }, 
+      "id": 764000
+    }
+  ]
+}

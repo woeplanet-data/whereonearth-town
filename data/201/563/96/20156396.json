@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.332, 
+              50.123
+            ], 
+            [
+              11.332, 
+              50.139
+            ], 
+            [
+              11.352, 
+              50.139
+            ], 
+            [
+              11.352, 
+              50.123
+            ], 
+            [
+              11.332, 
+              50.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20156396, 
+        "name": "Eichberg", 
+        "adjacent_woeid": [
+          643729, 
+          646165, 
+          649356, 
+          673507, 
+          690010, 
+          692401, 
+          705542, 
+          706526
+        ], 
+        "ne_latitude": 50.139, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.352, 
+        "longitude": 11.345, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12636098, 
+        "latitude": 50.131, 
+        "sw_longitude": 11.332, 
+        "fullname": "Eichberg, Bavaria, Landkreis Kulmbach, Germany", 
+        "sw_latitude": 50.123
+      }, 
+      "id": 20156396
+    }
+  ]
+}

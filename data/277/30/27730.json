@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.234, 
+              50.877
+            ], 
+            [
+              0.234, 
+              50.886
+            ], 
+            [
+              0.248, 
+              50.886
+            ], 
+            [
+              0.248, 
+              50.877
+            ], 
+            [
+              0.234, 
+              50.877
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 27730, 
+        "name": "Lower Horsebridge", 
+        "adjacent_woeid": [
+          22008, 
+          22949, 
+          23929, 
+          27681, 
+          38647
+        ], 
+        "ne_latitude": 50.886, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.248, 
+        "longitude": 0.240, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:34Z", 
+        "parent_woeid": 12695939, 
+        "latitude": 50.881, 
+        "sw_longitude": 0.234, 
+        "fullname": "Lower Horsebridge, England, East Sussex, United Kingdom", 
+        "sw_latitude": 50.877
+      }, 
+      "id": 27730
+    }
+  ]
+}

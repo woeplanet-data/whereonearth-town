@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.675, 
+              46.037
+            ], 
+            [
+              -74.675, 
+              46.314
+            ], 
+            [
+              -74.504, 
+              46.314
+            ], 
+            [
+              -74.504, 
+              46.037
+            ], 
+            [
+              -74.675, 
+              46.037
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1022, 
+        "name": "Mont-Tremblant", 
+        "adjacent_woeid": [
+          1542, 
+          23394383, 
+          23394400, 
+          23394642, 
+          23396118, 
+          23396469
+        ], 
+        "ne_latitude": 46.314, 
+        "ne_longitude": -74.504, 
+        "longitude": -74.602, 
+        "parent_woeid": 29375134, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lac Mercier"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.118, 
+        "sw_longitude": -74.675, 
+        "fullname": "Mont-Tremblant, Quebec, Les Laurentides, Canada", 
+        "sw_latitude": 46.037
+      }, 
+      "id": 1022
+    }
+  ]
+}

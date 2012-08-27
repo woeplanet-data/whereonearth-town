@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.779, 
+              45.454
+            ], 
+            [
+              3.779, 
+              45.483
+            ], 
+            [
+              3.798, 
+              45.483
+            ], 
+            [
+              3.798, 
+              45.454
+            ], 
+            [
+              3.779, 
+              45.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625034, 
+        "name": "St.-Just", 
+        "adjacent_woeid": [
+          577793, 
+          579730, 
+          583818, 
+          589544, 
+          593573, 
+          610809, 
+          625676, 
+          632513, 
+          15002919
+        ], 
+        "ne_latitude": 45.483, 
+        "ne_longitude": 3.798, 
+        "longitude": 3.789, 
+        "parent_woeid": 12641211, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Just"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.468, 
+        "sw_longitude": 3.779, 
+        "fullname": "St.-Just, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.454
+      }, 
+      "id": 625034
+    }
+  ]
+}

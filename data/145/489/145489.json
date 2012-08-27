@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.688, 
+              24.344
+            ], 
+            [
+              -105.688, 
+              24.362
+            ], 
+            [
+              -105.668, 
+              24.362
+            ], 
+            [
+              -105.668, 
+              24.344
+            ], 
+            [
+              -105.688, 
+              24.344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.362, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          111187, 
+          119601, 
+          123964, 
+          129428, 
+          133791, 
+          146676
+        ], 
+        "woeid": 145489, 
+        "alias_SPA_V": [
+          "S Vicente"
+        ], 
+        "ne_longitude": -105.668, 
+        "longitude": -105.678, 
+        "parent_woeid": 12599976, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.353, 
+        "sw_longitude": -105.688, 
+        "fullname": "San Vicente, Durango, San Dimas, Mexico", 
+        "sw_latitude": 24.344
+      }, 
+      "id": 145489
+    }
+  ]
+}

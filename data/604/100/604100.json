@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.398, 
+              49.078
+            ], 
+            [
+              0.398, 
+              49.109
+            ], 
+            [
+              0.453, 
+              49.109
+            ], 
+            [
+              0.453, 
+              49.078
+            ], 
+            [
+              0.398, 
+              49.078
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604100, 
+        "name": "Le Planquay", 
+        "adjacent_woeid": [
+          587609, 
+          589234, 
+          597482, 
+          625480, 
+          627280
+        ], 
+        "ne_latitude": 49.109, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.453, 
+        "longitude": 0.433, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12647563, 
+        "latitude": 49.098, 
+        "sw_longitude": 0.398, 
+        "fullname": "Le Planquay, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.078
+      }, 
+      "id": 604100
+    }
+  ]
+}

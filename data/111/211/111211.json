@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.861, 
+              30.941
+            ], 
+            [
+              -110.861, 
+              30.959
+            ], 
+            [
+              -110.839, 
+              30.959
+            ], 
+            [
+              -110.839, 
+              30.941
+            ], 
+            [
+              -110.861, 
+              30.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.959, 
+        "name": "Agua Caliente", 
+        "adjacent_woeid": [
+          118008, 
+          126775, 
+          126859, 
+          144077
+        ], 
+        "woeid": 111211, 
+        "alias_SPA_V": [
+          "Rancho Agua Caliente"
+        ], 
+        "ne_longitude": -110.839, 
+        "longitude": -110.850, 
+        "parent_woeid": 12601579, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.950, 
+        "sw_longitude": -110.861, 
+        "fullname": "Agua Caliente, Sonora, Imuris, Mexico", 
+        "sw_latitude": 30.941
+      }, 
+      "id": 111211
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.655, 
+              46.541
+            ], 
+            [
+              7.655, 
+              46.550
+            ], 
+            [
+              7.669, 
+              46.550
+            ], 
+            [
+              7.669, 
+              46.541
+            ], 
+            [
+              7.655, 
+              46.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101120, 
+        "name": "Bunderbach", 
+        "adjacent_woeid": [
+          782323, 
+          782638, 
+          20103749, 
+          20103764
+        ], 
+        "ne_latitude": 46.550, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.669, 
+        "longitude": 7.662, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12682993, 
+        "latitude": 46.545, 
+        "sw_longitude": 7.655, 
+        "fullname": "Bunderbach, Canton of Berne, Frutigen, Switzerland", 
+        "sw_latitude": 46.541
+      }, 
+      "id": 20101120
+    }
+  ]
+}

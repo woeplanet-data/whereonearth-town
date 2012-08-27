@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.945, 
+              49.099
+            ], 
+            [
+              3.945, 
+              49.132
+            ], 
+            [
+              3.995, 
+              49.132
+            ], 
+            [
+              3.995, 
+              49.099
+            ], 
+            [
+              3.945, 
+              49.099
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624650, 
+        "name": "St.-Imoges", 
+        "adjacent_woeid": [
+          584290, 
+          592707, 
+          594540, 
+          613761, 
+          613865, 
+          621911, 
+          20216856, 
+          20217069
+        ], 
+        "ne_latitude": 49.132, 
+        "ne_longitude": 3.995, 
+        "longitude": 3.975, 
+        "parent_woeid": 12652641, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Imoges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.111, 
+        "sw_longitude": 3.945, 
+        "fullname": "St.-Imoges, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.099
+      }, 
+      "id": 624650
+    }
+  ]
+}

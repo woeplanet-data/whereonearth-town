@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.360, 
+              49.290
+            ], 
+            [
+              -0.360, 
+              49.315
+            ], 
+            [
+              -0.309, 
+              49.315
+            ], 
+            [
+              -0.309, 
+              49.290
+            ], 
+            [
+              -0.360, 
+              49.290
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608211, 
+        "name": "Lion-sur-Mer", 
+        "adjacent_woeid": [
+          586477, 
+          587868, 
+          589139, 
+          594716, 
+          608884
+        ], 
+        "ne_latitude": 49.315, 
+        "ne_longitude": -0.309, 
+        "longitude": -0.320, 
+        "parent_woeid": 12648274, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lion"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.303, 
+        "sw_longitude": -0.360, 
+        "fullname": "Lion-sur-Mer, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.290
+      }, 
+      "id": 608211
+    }
+  ]
+}

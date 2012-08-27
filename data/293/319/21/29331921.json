@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.013, 
+              43.541
+            ], 
+            [
+              -1.013, 
+              43.560
+            ], 
+            [
+              -0.987, 
+              43.560
+            ], 
+            [
+              -0.987, 
+              43.541
+            ], 
+            [
+              -1.013, 
+              43.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331921, 
+        "name": "Quartier Neuf", 
+        "adjacent_woeid": [
+          583413, 
+          600581, 
+          600899, 
+          622425, 
+          623626
+        ], 
+        "ne_latitude": 43.560, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.987, 
+        "longitude": -1.002, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12646783, 
+        "latitude": 43.550, 
+        "sw_longitude": -1.013, 
+        "fullname": "Quartier Neuf, Aquitaine, Landes, France", 
+        "sw_latitude": 43.541
+      }, 
+      "id": 29331921
+    }
+  ]
+}

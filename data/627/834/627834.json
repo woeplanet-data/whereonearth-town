@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.564, 
+              48.953
+            ], 
+            [
+              6.564, 
+              48.984
+            ], 
+            [
+              6.600, 
+              48.984
+            ], 
+            [
+              6.600, 
+              48.953
+            ], 
+            [
+              6.564, 
+              48.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627834, 
+        "name": "Suisse", 
+        "adjacent_woeid": [
+          582194, 
+          588655, 
+          589564, 
+          601190, 
+          628559
+        ], 
+        "ne_latitude": 48.984, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.600, 
+        "longitude": 6.582, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "parent_woeid": 12671467, 
+        "latitude": 48.966, 
+        "sw_longitude": 6.564, 
+        "fullname": "Suisse, Lorraine, Moselle, France", 
+        "sw_latitude": 48.953
+      }, 
+      "id": 627834
+    }
+  ]
+}

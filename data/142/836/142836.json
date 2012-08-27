@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.143, 
+              19.341
+            ], 
+            [
+              -100.143, 
+              19.359
+            ], 
+            [
+              -100.124, 
+              19.359
+            ], 
+            [
+              -100.124, 
+              19.341
+            ], 
+            [
+              -100.143, 
+              19.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.359, 
+        "name": "San Ildefonso", 
+        "adjacent_woeid": [
+          131606, 
+          143142, 
+          145461, 
+          150826
+        ], 
+        "woeid": 142836, 
+        "alias_SPA_V": [
+          "S Ildefonso"
+        ], 
+        "ne_longitude": -100.124, 
+        "longitude": -100.133, 
+        "parent_woeid": 12600430, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.350, 
+        "sw_longitude": -100.143, 
+        "fullname": "San Ildefonso, Mexico, Villa de Allende, Mexico", 
+        "sw_latitude": 19.341
+      }, 
+      "id": 142836
+    }
+  ]
+}

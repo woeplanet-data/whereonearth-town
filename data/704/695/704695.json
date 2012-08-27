@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.107, 
+              49.400
+            ], 
+            [
+              10.107, 
+              49.412
+            ], 
+            [
+              10.135, 
+              49.412
+            ], 
+            [
+              10.135, 
+              49.400
+            ], 
+            [
+              10.107, 
+              49.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704695, 
+        "name": "Weiler", 
+        "adjacent_woeid": [
+          639626, 
+          688264, 
+          693693, 
+          694421, 
+          707675
+        ], 
+        "ne_latitude": 49.412, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.135, 
+        "longitude": 10.120, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12624176, 
+        "latitude": 49.408, 
+        "sw_longitude": 10.107, 
+        "fullname": "Weiler, Baden-Wurttemberg, Main-Tauber-Kreis, Germany", 
+        "sw_latitude": 49.400
+      }, 
+      "id": 704695
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -7.021, 
+              37.752
+            ], 
+            [
+              -7.021, 
+              37.837
+            ], 
+            [
+              -6.934, 
+              37.837
+            ], 
+            [
+              -6.934, 
+              37.752
+            ], 
+            [
+              -7.021, 
+              37.752
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.837, 
+        "name": "San Telmo", 
+        "adjacent_woeid": [
+          765486, 
+          767632, 
+          776559
+        ], 
+        "woeid": 773428, 
+        "alias_SPA_V": [
+          "S. Telmo"
+        ], 
+        "ne_longitude": -6.934, 
+        "longitude": -6.966, 
+        "parent_woeid": 12689040, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.796, 
+        "sw_longitude": -7.021, 
+        "fullname": "San Telmo, Andalusia, Huelva, Spain", 
+        "sw_latitude": 37.752
+      }, 
+      "id": 773428
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.118, 
+              49.024
+            ], 
+            [
+              0.118, 
+              49.069
+            ], 
+            [
+              0.183, 
+              49.069
+            ], 
+            [
+              0.183, 
+              49.024
+            ], 
+            [
+              0.118, 
+              49.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603593, 
+        "name": "Le Mesnil-Durand", 
+        "adjacent_woeid": [
+          587336, 
+          603602, 
+          607762, 
+          624287, 
+          625696, 
+          627626
+        ], 
+        "ne_latitude": 49.069, 
+        "ne_longitude": 0.183, 
+        "longitude": 0.140, 
+        "parent_woeid": 12647458, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Mesnill-durand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.044, 
+        "sw_longitude": 0.118, 
+        "fullname": "Le Mesnil-Durand, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.024
+      }, 
+      "id": 603593
+    }
+  ]
+}

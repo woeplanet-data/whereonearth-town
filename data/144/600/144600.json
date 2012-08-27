@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.210, 
+              19.224
+            ], 
+            [
+              -99.210, 
+              19.242
+            ], 
+            [
+              -99.190, 
+              19.242
+            ], 
+            [
+              -99.190, 
+              19.224
+            ], 
+            [
+              -99.210, 
+              19.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.242, 
+        "name": "San Miguel Ajusco", 
+        "adjacent_woeid": [
+          111693, 
+          136545, 
+          141437, 
+          143132, 
+          149826
+        ], 
+        "woeid": 144600, 
+        "alias_SPA_V": [
+          "S. Miguel Ajusco"
+        ], 
+        "ne_longitude": -99.190, 
+        "longitude": -99.197, 
+        "parent_woeid": 12599947, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.228, 
+        "sw_longitude": -99.210, 
+        "fullname": "San Miguel Ajusco, Distrito Federal, Tlalpan, Mexico", 
+        "sw_latitude": 19.224
+      }, 
+      "id": 144600
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.076, 
+              45.621
+            ], 
+            [
+              3.076, 
+              45.657
+            ], 
+            [
+              3.135, 
+              45.657
+            ], 
+            [
+              3.135, 
+              45.621
+            ], 
+            [
+              3.076, 
+              45.621
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626832, 
+        "name": "St.-Sandoux", 
+        "adjacent_woeid": [
+          585398, 
+          608936, 
+          614933, 
+          616855, 
+          626843, 
+          627995
+        ], 
+        "ne_latitude": 45.657, 
+        "ne_longitude": 3.135, 
+        "longitude": 3.108, 
+        "parent_woeid": 12653189, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sandoux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.640, 
+        "sw_longitude": 3.076, 
+        "fullname": "St.-Sandoux, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.621
+      }, 
+      "id": 626832
+    }
+  ]
+}

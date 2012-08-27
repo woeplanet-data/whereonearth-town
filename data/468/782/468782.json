@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.787, 
+              -28.273
+            ], 
+            [
+              -65.787, 
+              -28.051
+            ], 
+            [
+              -65.534, 
+              -28.051
+            ], 
+            [
+              -65.534, 
+              -28.273
+            ], 
+            [
+              -65.787, 
+              -28.273
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -28.051, 
+        "name": "La Merced", 
+        "adjacent_woeid": [
+          331035, 
+          331935, 
+          332590, 
+          419857, 
+          464584, 
+          464752, 
+          465627, 
+          465877, 
+          466520, 
+          467012, 
+          468871, 
+          468984, 
+          22528606, 
+          26795678, 
+          26795679
+        ], 
+        "woeid": 468782, 
+        "alias_SPA_V": [
+          "Merced"
+        ], 
+        "ne_longitude": -65.534, 
+        "longitude": -65.657, 
+        "parent_woeid": 20070641, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -28.152, 
+        "sw_longitude": -65.787, 
+        "fullname": "La Merced, Catamarca, Paclin, Argentina", 
+        "sw_latitude": -28.273
+      }, 
+      "id": 468782
+    }
+  ]
+}

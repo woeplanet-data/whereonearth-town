@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.269, 
+              45.975
+            ], 
+            [
+              -74.269, 
+              46.086
+            ], 
+            [
+              -74.150, 
+              46.086
+            ], 
+            [
+              -74.150, 
+              45.975
+            ], 
+            [
+              -74.269, 
+              45.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1850, 
+        "name": "Val-David", 
+        "adjacent_woeid": [
+          23394511, 
+          23394532, 
+          23394634, 
+          29374502
+        ], 
+        "ne_latitude": 46.086, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -74.150, 
+        "longitude": -74.205, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "parent_woeid": 29375134, 
+        "latitude": 46.032, 
+        "sw_longitude": -74.269, 
+        "fullname": "Val-David, Quebec, Les Laurentides, Canada", 
+        "sw_latitude": 45.975
+      }, 
+      "id": 1850
+    }
+  ]
+}

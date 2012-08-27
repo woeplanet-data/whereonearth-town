@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.635, 
+              50.493
+            ], 
+            [
+              4.635, 
+              50.511
+            ], 
+            [
+              4.663, 
+              50.511
+            ], 
+            [
+              4.663, 
+              50.493
+            ], 
+            [
+              4.635, 
+              50.493
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977266, 
+        "name": "St.-Martin", 
+        "adjacent_woeid": [
+          966824, 
+          967490, 
+          967734, 
+          974070, 
+          975106, 
+          977852
+        ], 
+        "ne_latitude": 50.511, 
+        "ne_longitude": 4.663, 
+        "longitude": 4.649, 
+        "parent_woeid": 12602493, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Martin"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.502, 
+        "sw_longitude": 4.635, 
+        "fullname": "St.-Martin, Namur, Namur, Belgium", 
+        "sw_latitude": 50.493
+      }, 
+      "id": 977266
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.841, 
+              17.226
+            ], 
+            [
+              -90.841, 
+              17.240
+            ], 
+            [
+              -90.826, 
+              17.240
+            ], 
+            [
+              -90.826, 
+              17.226
+            ], 
+            [
+              -90.841, 
+              17.226
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.240, 
+        "name": "El Naranjo", 
+        "adjacent_woeid": [
+          81383, 
+          82725, 
+          83566, 
+          83621, 
+          83725, 
+          83828, 
+          84910, 
+          85437
+        ], 
+        "woeid": 82596, 
+        "alias_SPA_V": [
+          "Naranjo"
+        ], 
+        "ne_longitude": -90.826, 
+        "longitude": -90.833, 
+        "parent_woeid": 26807065, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.233, 
+        "sw_longitude": -90.841, 
+        "fullname": "El Naranjo, Peten, La Libertad, Guatemala", 
+        "sw_latitude": 17.226
+      }, 
+      "id": 82596
+    }
+  ]
+}

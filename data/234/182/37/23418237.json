@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.936, 
+              46.154
+            ], 
+            [
+              -122.936, 
+              46.204
+            ], 
+            [
+              -122.896, 
+              46.204
+            ], 
+            [
+              -122.896, 
+              46.154
+            ], 
+            [
+              -122.936, 
+              46.154
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23418237, 
+        "name": "West Side Highway", 
+        "adjacent_woeid": [
+          2360579, 
+          2383613, 
+          2438828, 
+          23418238
+        ], 
+        "ne_latitude": 46.204, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "W Side Hwy"
+        ], 
+        "ne_longitude": -122.896, 
+        "longitude": -122.916, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:46Z", 
+        "parent_woeid": 12590447, 
+        "latitude": 46.186, 
+        "sw_longitude": -122.936, 
+        "fullname": "West Side Highway, Washington, Cowlitz, United States", 
+        "sw_latitude": 46.154
+      }, 
+      "id": 23418237
+    }
+  ]
+}

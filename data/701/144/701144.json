@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.047, 
+              49.013
+            ], 
+            [
+              10.047, 
+              49.031
+            ], 
+            [
+              10.073, 
+              49.031
+            ], 
+            [
+              10.073, 
+              49.013
+            ], 
+            [
+              10.047, 
+              49.013
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 701144, 
+        "name": "Unterknausen", 
+        "adjacent_woeid": [
+          655473, 
+          661076, 
+          20160423, 
+          20160430
+        ], 
+        "ne_latitude": 49.031, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.073, 
+        "longitude": 10.057, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12624229, 
+        "latitude": 49.020, 
+        "sw_longitude": 10.047, 
+        "fullname": "Unterknausen, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 49.013
+      }, 
+      "id": 701144
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.691, 
+              50.611
+            ], 
+            [
+              3.691, 
+              50.629
+            ], 
+            [
+              3.720, 
+              50.629
+            ], 
+            [
+              3.720, 
+              50.611
+            ], 
+            [
+              3.691, 
+              50.611
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 973556, 
+        "name": "Ligne", 
+        "adjacent_woeid": [
+          967412, 
+          968252, 
+          971533, 
+          973851, 
+          974623, 
+          978347
+        ], 
+        "ne_latitude": 50.629, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.720, 
+        "longitude": 3.705, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:11Z", 
+        "parent_woeid": 12602306, 
+        "latitude": 50.620, 
+        "sw_longitude": 3.691, 
+        "fullname": "Ligne, Hainault, Ath, Belgium", 
+        "sw_latitude": 50.611
+      }, 
+      "id": 973556
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.877, 
+              22.941
+            ], 
+            [
+              -99.877, 
+              22.959
+            ], 
+            [
+              -99.857, 
+              22.959
+            ], 
+            [
+              -99.857, 
+              22.941
+            ], 
+            [
+              -99.877, 
+              22.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.959, 
+        "name": "El Salitrillo", 
+        "adjacent_woeid": [
+          122295, 
+          123173, 
+          129330, 
+          131706, 
+          133608, 
+          137437
+        ], 
+        "woeid": 122312, 
+        "alias_SPA_V": [
+          "Salitrillo"
+        ], 
+        "ne_longitude": -99.857, 
+        "longitude": -99.867, 
+        "parent_woeid": 12601670, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.950, 
+        "sw_longitude": -99.877, 
+        "fullname": "El Salitrillo, Tamaulipas, Tula, Mexico", 
+        "sw_latitude": 22.941
+      }, 
+      "id": 122312
+    }
+  ]
+}

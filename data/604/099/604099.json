@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.320, 
+              46.780
+            ], 
+            [
+              5.320, 
+              46.803
+            ], 
+            [
+              5.338, 
+              46.803
+            ], 
+            [
+              5.338, 
+              46.780
+            ], 
+            [
+              5.320, 
+              46.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604099, 
+        "name": "Le Planois", 
+        "adjacent_woeid": [
+          580866, 
+          581017, 
+          584556, 
+          612827
+        ], 
+        "ne_latitude": 46.803, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.338, 
+        "longitude": 5.329, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12647562, 
+        "latitude": 46.789, 
+        "sw_longitude": 5.320, 
+        "fullname": "Le Planois, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.780
+      }, 
+      "id": 604099
+    }
+  ]
+}

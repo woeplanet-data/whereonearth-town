@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.877, 
+              30.991
+            ], 
+            [
+              -110.877, 
+              31.009
+            ], 
+            [
+              -110.856, 
+              31.009
+            ], 
+            [
+              -110.856, 
+              30.991
+            ], 
+            [
+              -110.877, 
+              30.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.009, 
+        "name": "La Casita", 
+        "adjacent_woeid": [
+          111211, 
+          116319, 
+          118008, 
+          118636, 
+          126372, 
+          144077
+        ], 
+        "woeid": 126775, 
+        "alias_SPA_V": [
+          "Casita"
+        ], 
+        "ne_longitude": -110.856, 
+        "longitude": -110.867, 
+        "parent_woeid": 12601579, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.000, 
+        "sw_longitude": -110.877, 
+        "fullname": "La Casita, Sonora, Imuris, Mexico", 
+        "sw_latitude": 30.991
+      }, 
+      "id": 126775
+    }
+  ]
+}

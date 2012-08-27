@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.799, 
+              46.720
+            ], 
+            [
+              3.799, 
+              46.756
+            ], 
+            [
+              3.841, 
+              46.756
+            ], 
+            [
+              3.841, 
+              46.720
+            ], 
+            [
+              3.799, 
+              46.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626927, 
+        "name": "St.-Seine", 
+        "adjacent_woeid": [
+          587875, 
+          588019, 
+          599259, 
+          609583, 
+          628240
+        ], 
+        "ne_latitude": 46.756, 
+        "ne_longitude": 3.841, 
+        "longitude": 3.824, 
+        "parent_woeid": 12653211, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Seine"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.732, 
+        "sw_longitude": 3.799, 
+        "fullname": "St.-Seine, Burgundy, Nievre, France", 
+        "sw_latitude": 46.720
+      }, 
+      "id": 626927
+    }
+  ]
+}

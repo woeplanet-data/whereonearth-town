@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.598, 
+              42.222
+            ], 
+            [
+              -3.598, 
+              42.231
+            ], 
+            [
+              -3.585, 
+              42.231
+            ], 
+            [
+              -3.585, 
+              42.222
+            ], 
+            [
+              -3.598, 
+              42.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.231, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          758435, 
+          767315, 
+          771202, 
+          771718
+        ], 
+        "woeid": 772917, 
+        "alias_SPA_V": [
+          "S Juan"
+        ], 
+        "ne_longitude": -3.585, 
+        "longitude": -3.592, 
+        "parent_woeid": 12691399, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.226, 
+        "sw_longitude": -3.598, 
+        "fullname": "San Juan, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.222
+      }, 
+      "id": 772917
+    }
+  ]
+}

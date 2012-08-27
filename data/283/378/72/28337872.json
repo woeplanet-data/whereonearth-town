@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.321, 
+              38.581
+            ], 
+            [
+              -123.321, 
+              38.599
+            ], 
+            [
+              -123.298, 
+              38.599
+            ], 
+            [
+              -123.298, 
+              38.581
+            ], 
+            [
+              -123.321, 
+              38.581
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28337872, 
+        "name": "Plantation", 
+        "adjacent_woeid": [
+          2405933, 
+          2411590, 
+          2436685, 
+          2499845, 
+          2513940, 
+          23510664
+        ], 
+        "ne_latitude": 38.599, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.298, 
+        "longitude": -123.309, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:34:01Z", 
+        "parent_woeid": 12587718, 
+        "latitude": 38.590, 
+        "sw_longitude": -123.321, 
+        "fullname": "Plantation, California, Sonoma, United States", 
+        "sw_latitude": 38.581
+      }, 
+      "id": 28337872
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.358, 
+              43.333
+            ], 
+            [
+              -8.358, 
+              43.355
+            ], 
+            [
+              -8.336, 
+              43.355
+            ], 
+            [
+              -8.336, 
+              43.333
+            ], 
+            [
+              -8.358, 
+              43.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.355, 
+        "name": "Porto de Santa Cruz", 
+        "adjacent_woeid": [
+          773666, 
+          779283, 
+          29371543, 
+          29371553, 
+          29372548
+        ], 
+        "woeid": 779284, 
+        "alias_SPA_V": [
+          "Porto de Sta. Cruz"
+        ], 
+        "ne_longitude": -8.336, 
+        "longitude": -8.346, 
+        "parent_woeid": 12694760, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.346, 
+        "sw_longitude": -8.358, 
+        "fullname": "Porto de Santa Cruz, Galicia, Corunna, Spain", 
+        "sw_latitude": 43.333
+      }, 
+      "id": 779284
+    }
+  ]
+}

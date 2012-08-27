@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.230, 
+              48.478
+            ], 
+            [
+              6.230, 
+              48.514
+            ], 
+            [
+              6.287, 
+              48.514
+            ], 
+            [
+              6.287, 
+              48.478
+            ], 
+            [
+              6.230, 
+              48.478
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622097, 
+        "name": "St.-Remimont", 
+        "adjacent_woeid": [
+          579285, 
+          587749, 
+          587902, 
+          601206, 
+          614212, 
+          615160, 
+          625471
+        ], 
+        "ne_latitude": 48.514, 
+        "ne_longitude": 6.287, 
+        "longitude": 6.250, 
+        "parent_woeid": 12669776, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Remimont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.499, 
+        "sw_longitude": 6.230, 
+        "fullname": "St.-Remimont, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.478
+      }, 
+      "id": 622097
+    }
+  ]
+}

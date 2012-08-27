@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.235, 
+              39.102
+            ], 
+            [
+              -123.235, 
+              39.226
+            ], 
+            [
+              -123.151, 
+              39.226
+            ], 
+            [
+              -123.151, 
+              39.102
+            ], 
+            [
+              -123.235, 
+              39.102
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2509496, 
+        "name": "Ukiah", 
+        "adjacent_woeid": [
+          2366904, 
+          2373394, 
+          2384610, 
+          2397972, 
+          2424366, 
+          2435381, 
+          2466402, 
+          2474548, 
+          2474862, 
+          2475962, 
+          2479725, 
+          2489060, 
+          2495517, 
+          2503789, 
+          2510291, 
+          2522547
+        ], 
+        "ne_latitude": 39.226, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "UKI"
+        ], 
+        "ne_longitude": -123.151, 
+        "longitude": -123.208, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:37Z", 
+        "parent_woeid": 12587692, 
+        "latitude": 39.151, 
+        "sw_longitude": -123.235, 
+        "fullname": "Ukiah, California, Mendocino, United States", 
+        "sw_latitude": 39.102
+      }, 
+      "id": 2509496
+    }
+  ]
+}

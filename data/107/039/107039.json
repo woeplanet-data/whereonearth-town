@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.932, 
+              15.322
+            ], 
+            [
+              -87.932, 
+              15.340
+            ], 
+            [
+              -87.913, 
+              15.340
+            ], 
+            [
+              -87.913, 
+              15.322
+            ], 
+            [
+              -87.932, 
+              15.322
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.340, 
+        "name": "San Manuel", 
+        "adjacent_woeid": [
+          101172, 
+          103182, 
+          104357, 
+          105844, 
+          107143, 
+          108053
+        ], 
+        "woeid": 107039, 
+        "alias_SPA_V": [
+          "S Manuel"
+        ], 
+        "ne_longitude": -87.913, 
+        "longitude": -87.922, 
+        "parent_woeid": 26813803, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.331, 
+        "sw_longitude": -87.932, 
+        "fullname": "San Manuel, Cort\u00e9s, San Manuel, Honduras", 
+        "sw_latitude": 15.322
+      }, 
+      "id": 107039
+    }
+  ]
+}

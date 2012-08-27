@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.208, 
+              -27.057
+            ], 
+            [
+              -65.208, 
+              -27.043
+            ], 
+            [
+              -65.192, 
+              -27.043
+            ], 
+            [
+              -65.192, 
+              -27.057
+            ], 
+            [
+              -65.208, 
+              -27.057
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -27.043, 
+        "name": "Esquina", 
+        "adjacent_woeid": [
+          330335, 
+          330369, 
+          330901, 
+          466010
+        ], 
+        "woeid": 465360, 
+        "alias_SPA_V": [
+          "La Esquina"
+        ], 
+        "ne_longitude": -65.192, 
+        "longitude": -65.200, 
+        "parent_woeid": 20070862, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -27.050, 
+        "sw_longitude": -65.208, 
+        "fullname": "Esquina, Tucuman, Leales, Argentina", 
+        "sw_latitude": -27.057
+      }, 
+      "id": 465360
+    }
+  ]
+}

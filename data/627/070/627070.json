@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.359, 
+              45.975
+            ], 
+            [
+              1.359, 
+              46.008
+            ], 
+            [
+              1.387, 
+              46.008
+            ], 
+            [
+              1.387, 
+              45.975
+            ], 
+            [
+              1.359, 
+              45.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627070, 
+        "name": "St.-Sylvestre", 
+        "adjacent_woeid": [
+          609991, 
+          630518, 
+          20190444, 
+          20190555, 
+          29332833
+        ], 
+        "ne_latitude": 46.008, 
+        "ne_longitude": 1.387, 
+        "longitude": 1.378, 
+        "parent_woeid": 12657987, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sylvestre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.995, 
+        "sw_longitude": 1.359, 
+        "fullname": "St.-Sylvestre, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.975
+      }, 
+      "id": 627070
+    }
+  ]
+}

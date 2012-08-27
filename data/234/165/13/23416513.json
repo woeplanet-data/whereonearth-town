@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -15.411, 
+              28.005
+            ], 
+            [
+              -15.411, 
+              28.014
+            ], 
+            [
+              -15.396, 
+              28.014
+            ], 
+            [
+              -15.396, 
+              28.005
+            ], 
+            [
+              -15.411, 
+              28.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.014, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          20224290, 
+          29372674, 
+          29372855, 
+          29372859, 
+          29372860, 
+          29372867, 
+          56074159
+        ], 
+        "woeid": 23416513, 
+        "alias_SPA_V": [
+          "S Antonio"
+        ], 
+        "ne_longitude": -15.396, 
+        "longitude": -15.406, 
+        "parent_woeid": 12690150, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.009, 
+        "sw_longitude": -15.411, 
+        "fullname": "San Antonio, Canary Islands, Palmas, Spain", 
+        "sw_latitude": 28.005
+      }, 
+      "id": 23416513
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.929, 
+              41.406
+            ], 
+            [
+              1.929, 
+              41.415
+            ], 
+            [
+              1.943, 
+              41.415
+            ], 
+            [
+              1.943, 
+              41.406
+            ], 
+            [
+              1.929, 
+              41.406
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.415, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          15003468, 
+          20221205, 
+          29369769, 
+          29369770, 
+          29369785
+        ], 
+        "woeid": 20228596, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": 1.943, 
+        "longitude": 1.937, 
+        "parent_woeid": 12693447, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.411, 
+        "sw_longitude": 1.929, 
+        "fullname": "Santa Rosa, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.406
+      }, 
+      "id": 20228596
+    }
+  ]
+}

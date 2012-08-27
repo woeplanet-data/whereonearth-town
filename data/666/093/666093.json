@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.222, 
+              50.455
+            ], 
+            [
+              8.222, 
+              50.482
+            ], 
+            [
+              8.256, 
+              50.482
+            ], 
+            [
+              8.256, 
+              50.455
+            ], 
+            [
+              8.222, 
+              50.455
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666093, 
+        "name": "Kirschhofen", 
+        "adjacent_woeid": [
+          651684, 
+          653986, 
+          657740, 
+          682835, 
+          707191
+        ], 
+        "ne_latitude": 50.482, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.256, 
+        "longitude": 8.243, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12632694, 
+        "latitude": 50.473, 
+        "sw_longitude": 8.222, 
+        "fullname": "Kirschhofen, Hesse, Limburg-Weilburg, Germany", 
+        "sw_latitude": 50.455
+      }, 
+      "id": 666093
+    }
+  ]
+}

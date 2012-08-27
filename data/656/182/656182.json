@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.230, 
+              49.455
+            ], 
+            [
+              10.230, 
+              49.482
+            ], 
+            [
+              10.265, 
+              49.482
+            ], 
+            [
+              10.265, 
+              49.455
+            ], 
+            [
+              10.230, 
+              49.455
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656182, 
+        "name": "Habelsee", 
+        "adjacent_woeid": [
+          647956, 
+          655768, 
+          659974, 
+          660235, 
+          676213, 
+          682175, 
+          696611, 
+          20158737
+        ], 
+        "ne_latitude": 49.482, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.265, 
+        "longitude": 10.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12634418, 
+        "latitude": 49.467, 
+        "sw_longitude": 10.230, 
+        "fullname": "Habelsee, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.455
+      }, 
+      "id": 656182
+    }
+  ]
+}

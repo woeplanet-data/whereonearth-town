@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.693, 
+              16.008
+            ], 
+            [
+              -61.693, 
+              16.026
+            ], 
+            [
+              -61.674, 
+              16.026
+            ], 
+            [
+              -61.674, 
+              16.008
+            ], 
+            [
+              -61.693, 
+              16.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 80882, 
+        "name": "St.-Claude", 
+        "adjacent_woeid": [
+          80494, 
+          80502, 
+          80565, 
+          80569, 
+          80645, 
+          80650, 
+          80664, 
+          80692, 
+          80707, 
+          80750, 
+          80806, 
+          80905, 
+          80921
+        ], 
+        "ne_latitude": 16.026, 
+        "ne_longitude": -61.674, 
+        "longitude": -61.683, 
+        "parent_woeid": 24551314, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Claude"
+        ], 
+        "iso": "GP", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.017, 
+        "sw_longitude": -61.693, 
+        "fullname": "St.-Claude, Basse-Terre, St Claude, Guadeloupe", 
+        "sw_latitude": 16.008
+      }, 
+      "id": 80882
+    }
+  ]
+}

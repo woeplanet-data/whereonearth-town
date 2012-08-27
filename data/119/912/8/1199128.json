@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              123.403, 
+              8.625
+            ], 
+            [
+              123.403, 
+              8.680
+            ], 
+            [
+              123.459, 
+              8.680
+            ], 
+            [
+              123.459, 
+              8.625
+            ], 
+            [
+              123.403, 
+              8.625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1199128, 
+        "name": "Dapitan City", 
+        "adjacent_woeid": [
+          1189398, 
+          1193424, 
+          1199147
+        ], 
+        "ne_latitude": 8.680, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 123.459, 
+        "longitude": 123.431, 
+        "placetype": "Town", 
+        "iso": "PH", 
+        "date_indexed": "2010-12-02T09:56:47Z", 
+        "parent_woeid": 2346718, 
+        "latitude": 8.652, 
+        "sw_longitude": 123.403, 
+        "fullname": "Dapitan City, Zamboanga Peninsula, Zamboanga del Norte, Philippines", 
+        "sw_latitude": 8.625
+      }, 
+      "id": 1199128
+    }
+  ]
+}

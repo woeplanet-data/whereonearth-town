@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.282, 
+              47.654
+            ], 
+            [
+              5.282, 
+              47.693
+            ], 
+            [
+              5.334, 
+              47.693
+            ], 
+            [
+              5.334, 
+              47.654
+            ], 
+            [
+              5.282, 
+              47.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613121, 
+        "name": "Montsaugeon", 
+        "adjacent_woeid": [
+          585915, 
+          588512, 
+          588915, 
+          595272, 
+          630380
+        ], 
+        "ne_latitude": 47.693, 
+        "ne_longitude": 5.334, 
+        "longitude": 5.308, 
+        "parent_woeid": 12649341, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Monsaugeon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.666, 
+        "sw_longitude": 5.282, 
+        "fullname": "Montsaugeon, Champagne-Ardenne, Haute-Marne, France", 
+        "sw_latitude": 47.654
+      }, 
+      "id": 613121
+    }
+  ]
+}

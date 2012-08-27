@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.905, 
+              43.666
+            ], 
+            [
+              5.905, 
+              43.713
+            ], 
+            [
+              5.928, 
+              43.713
+            ], 
+            [
+              5.928, 
+              43.666
+            ], 
+            [
+              5.905, 
+              43.666
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20202875, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          590048, 
+          592880, 
+          600319, 
+          618665, 
+          624931, 
+          625599
+        ], 
+        "ne_latitude": 43.713, 
+        "ne_longitude": 5.928, 
+        "longitude": 5.915, 
+        "parent_woeid": 12668879, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.694, 
+        "sw_longitude": 5.905, 
+        "fullname": "St.-Pierre, Provence-Alpes-Cote d'Azur, Var, France", 
+        "sw_latitude": 43.666
+      }, 
+      "id": 20202875
+    }
+  ]
+}

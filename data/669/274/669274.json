@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              53.670
+            ], 
+            [
+              12.345, 
+              53.701
+            ], 
+            [
+              12.376, 
+              53.701
+            ], 
+            [
+              12.376, 
+              53.670
+            ], 
+            [
+              12.345, 
+              53.670
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 669274, 
+        "name": "Kuchelmi\u00df", 
+        "adjacent_woeid": [
+          633611, 
+          660301, 
+          694588, 
+          706783, 
+          20165659
+        ], 
+        "alias_GER_S": [
+          "Kuchelmiss"
+        ], 
+        "ne_latitude": 53.701, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.376, 
+        "longitude": 12.365, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12630695, 
+        "latitude": 53.682, 
+        "sw_longitude": 12.345, 
+        "fullname": "Kuchelmi\u00df, Mecklenburg-Vorpommern, Landkreis G\u00fcstrow, Germany", 
+        "sw_latitude": 53.670
+      }, 
+      "id": 669274
+    }
+  ]
+}

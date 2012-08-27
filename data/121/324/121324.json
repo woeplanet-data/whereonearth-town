@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.543, 
+              17.908
+            ], 
+            [
+              -100.543, 
+              17.926
+            ], 
+            [
+              -100.524, 
+              17.926
+            ], 
+            [
+              -100.524, 
+              17.908
+            ], 
+            [
+              -100.543, 
+              17.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.926, 
+        "name": "El Papayo", 
+        "adjacent_woeid": [
+          114967, 
+          125152, 
+          126553, 
+          130759, 
+          142407
+        ], 
+        "woeid": 121324, 
+        "alias_SPA_V": [
+          "Papayo"
+        ], 
+        "ne_longitude": -100.524, 
+        "longitude": -100.533, 
+        "parent_woeid": 12600037, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.917, 
+        "sw_longitude": -100.543, 
+        "fullname": "El Papayo, Guerrero, Ajuchitlan del Progreso, Mexico", 
+        "sw_latitude": 17.908
+      }, 
+      "id": 121324
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.243, 
+              25.441
+            ], 
+            [
+              -103.243, 
+              25.459
+            ], 
+            [
+              -103.223, 
+              25.459
+            ], 
+            [
+              -103.223, 
+              25.441
+            ], 
+            [
+              -103.243, 
+              25.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.459, 
+        "name": "San Felipe", 
+        "adjacent_woeid": [
+          123667, 
+          124010, 
+          127293, 
+          133140, 
+          133591, 
+          138266, 
+          144060
+        ], 
+        "woeid": 142312, 
+        "alias_SPA_V": [
+          "S Felipe"
+        ], 
+        "ne_longitude": -103.223, 
+        "longitude": -103.233, 
+        "parent_woeid": 12599902, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.450, 
+        "sw_longitude": -103.243, 
+        "fullname": "San Felipe, Coahuila de Zaragoza, Matamoros, Mexico", 
+        "sw_latitude": 25.441
+      }, 
+      "id": 142312
+    }
+  ]
+}

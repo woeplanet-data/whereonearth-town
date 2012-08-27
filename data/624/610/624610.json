@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.090, 
+              47.042
+            ], 
+            [
+              1.090, 
+              47.068
+            ], 
+            [
+              1.110, 
+              47.068
+            ], 
+            [
+              1.110, 
+              47.042
+            ], 
+            [
+              1.090, 
+              47.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624610, 
+        "name": "St.-Hippolyte", 
+        "adjacent_woeid": [
+          581933, 
+          591099, 
+          608338, 
+          621758, 
+          623679, 
+          624258, 
+          630806, 
+          29332311
+        ], 
+        "ne_latitude": 47.068, 
+        "ne_longitude": 1.110, 
+        "longitude": 1.099, 
+        "parent_woeid": 12651289, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hippolyte"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.062, 
+        "sw_longitude": 1.090, 
+        "fullname": "St.-Hippolyte, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.042
+      }, 
+      "id": 624610
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.486, 
+              48.743
+            ], 
+            [
+              10.486, 
+              48.771
+            ], 
+            [
+              10.530, 
+              48.771
+            ], 
+            [
+              10.530, 
+              48.743
+            ], 
+            [
+              10.486, 
+              48.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640077, 
+        "name": "Bollstadt", 
+        "adjacent_woeid": [
+          636044, 
+          660511, 
+          664919, 
+          679305, 
+          682107
+        ], 
+        "ne_latitude": 48.771, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.530, 
+        "longitude": 10.505, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12634983, 
+        "latitude": 48.754, 
+        "sw_longitude": 10.486, 
+        "fullname": "Bollstadt, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.743
+      }, 
+      "id": 640077
+    }
+  ]
+}

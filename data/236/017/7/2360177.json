@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.902, 
+              45.509
+            ], 
+            [
+              -123.902, 
+              45.533
+            ], 
+            [
+              -123.868, 
+              45.533
+            ], 
+            [
+              -123.868, 
+              45.509
+            ], 
+            [
+              -123.902, 
+              45.509
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2360177, 
+        "name": "Bay City", 
+        "adjacent_woeid": [
+          2408957, 
+          2422691, 
+          2426454, 
+          2483265, 
+          2506354, 
+          55960145
+        ], 
+        "ne_latitude": 45.533, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Bay Cty"
+        ], 
+        "ne_longitude": -123.868, 
+        "longitude": -123.888, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:11Z", 
+        "parent_woeid": 12589720, 
+        "latitude": 45.521, 
+        "sw_longitude": -123.902, 
+        "fullname": "Bay City, Oregon, Tillamook, United States", 
+        "sw_latitude": 45.509
+      }, 
+      "id": 2360177
+    }
+  ]
+}

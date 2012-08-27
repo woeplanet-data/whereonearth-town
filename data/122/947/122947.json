@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.960, 
+              25.474
+            ], 
+            [
+              -101.960, 
+              25.492
+            ], 
+            [
+              -101.940, 
+              25.492
+            ], 
+            [
+              -101.940, 
+              25.474
+            ], 
+            [
+              -101.960, 
+              25.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.492, 
+        "name": "El Venado", 
+        "adjacent_woeid": [
+          116334, 
+          117031, 
+          117699, 
+          131969, 
+          150100
+        ], 
+        "woeid": 122947, 
+        "alias_SPA_V": [
+          "Valera"
+        ], 
+        "ne_longitude": -101.940, 
+        "longitude": -101.950, 
+        "parent_woeid": 12599909, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.483, 
+        "sw_longitude": -101.960, 
+        "fullname": "El Venado, Coahuila de Zaragoza, Parras, Mexico", 
+        "sw_latitude": 25.474
+      }, 
+      "id": 122947
+    }
+  ]
+}

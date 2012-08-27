@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.917, 
+              50.783
+            ], 
+            [
+              10.917, 
+              50.827
+            ], 
+            [
+              10.955, 
+              50.827
+            ], 
+            [
+              10.955, 
+              50.783
+            ], 
+            [
+              10.917, 
+              50.783
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 694849, 
+        "name": "Siegelbach", 
+        "adjacent_woeid": [
+          643747, 
+          645470, 
+          666776, 
+          20160869
+        ], 
+        "ne_latitude": 50.827, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.955, 
+        "longitude": 10.932, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:15Z", 
+        "parent_woeid": 12636386, 
+        "latitude": 50.803, 
+        "sw_longitude": 10.917, 
+        "fullname": "Siegelbach, Thuringia, Ilm-Kreis, Germany", 
+        "sw_latitude": 50.783
+      }, 
+      "id": 694849
+    }
+  ]
+}

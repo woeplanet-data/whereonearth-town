@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.476, 
+              20.308
+            ], 
+            [
+              -101.476, 
+              20.326
+            ], 
+            [
+              -101.457, 
+              20.326
+            ], 
+            [
+              -101.457, 
+              20.308
+            ], 
+            [
+              -101.476, 
+              20.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.326, 
+        "name": "San Antonio Carano", 
+        "adjacent_woeid": [
+          125021, 
+          125059, 
+          130065, 
+          130869, 
+          132098, 
+          136243, 
+          55889606, 
+          55890111, 
+          55890136, 
+          55890396, 
+          55891752, 
+          55896451, 
+          55919041, 
+          55919042, 
+          55919172
+        ], 
+        "woeid": 141779, 
+        "alias_SPA_V": [
+          "S Antonio Carano"
+        ], 
+        "ne_longitude": -101.457, 
+        "longitude": -101.467, 
+        "parent_woeid": 12600485, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.317, 
+        "sw_longitude": -101.476, 
+        "fullname": "San Antonio Carano, Michoacan de Ocampo, Jose Sixto Verduzco, Mexico", 
+        "sw_latitude": 20.308
+      }, 
+      "id": 141779
+    }
+  ]
+}

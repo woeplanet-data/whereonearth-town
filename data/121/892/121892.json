@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.236, 
+              23.380
+            ], 
+            [
+              -106.236, 
+              23.398
+            ], 
+            [
+              -106.216, 
+              23.398
+            ], 
+            [
+              -106.216, 
+              23.380
+            ], 
+            [
+              -106.236, 
+              23.380
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.398, 
+        "name": "El Recodo", 
+        "adjacent_woeid": [
+          121743, 
+          127013, 
+          128457, 
+          144315, 
+          147622
+        ], 
+        "woeid": 121892, 
+        "alias_SPA_V": [
+          "Recodo"
+        ], 
+        "ne_longitude": -106.216, 
+        "longitude": -106.226, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.389, 
+        "sw_longitude": -106.236, 
+        "fullname": "El Recodo, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.380
+      }, 
+      "id": 121892
+    }
+  ]
+}

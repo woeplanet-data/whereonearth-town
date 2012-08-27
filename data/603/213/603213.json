@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.547, 
+              49.871
+            ], 
+            [
+              2.547, 
+              49.919
+            ], 
+            [
+              2.605, 
+              49.919
+            ], 
+            [
+              2.605, 
+              49.871
+            ], 
+            [
+              2.547, 
+              49.871
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603213, 
+        "name": "Le Hamel", 
+        "adjacent_woeid": [
+          583646, 
+          601079, 
+          620640, 
+          629761, 
+          20218798
+        ], 
+        "ne_latitude": 49.919, 
+        "ne_longitude": 2.605, 
+        "longitude": 2.573, 
+        "parent_woeid": 12664874, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Hamel-Bouzencourt"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.900, 
+        "sw_longitude": 2.547, 
+        "fullname": "Le Hamel, Picardie, Somme, France", 
+        "sw_latitude": 49.871
+      }, 
+      "id": 603213
+    }
+  ]
+}

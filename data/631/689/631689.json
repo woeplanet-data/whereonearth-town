@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.116, 
+              47.926
+            ], 
+            [
+              3.116, 
+              47.969
+            ], 
+            [
+              3.142, 
+              47.969
+            ], 
+            [
+              3.142, 
+              47.926
+            ], 
+            [
+              3.116, 
+              47.926
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631689, 
+        "name": "Villefranche", 
+        "adjacent_woeid": [
+          585709, 
+          588146, 
+          588712, 
+          612461, 
+          617960, 
+          618207, 
+          621797, 
+          625326
+        ], 
+        "ne_latitude": 47.969, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.142, 
+        "longitude": 3.128, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12647931, 
+        "latitude": 47.939, 
+        "sw_longitude": 3.116, 
+        "fullname": "Villefranche, Burgundy, Yonne, France", 
+        "alias_FRE_S": [
+          "Villefranche-St-Phal"
+        ], 
+        "sw_latitude": 47.926
+      }, 
+      "id": 631689
+    }
+  ]
+}

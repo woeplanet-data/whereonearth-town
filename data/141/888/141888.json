@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.443, 
+              18.391
+            ], 
+            [
+              -97.443, 
+              18.409
+            ], 
+            [
+              -97.424, 
+              18.409
+            ], 
+            [
+              -97.424, 
+              18.391
+            ], 
+            [
+              -97.443, 
+              18.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.409, 
+        "name": "San Antonio Texcala", 
+        "adjacent_woeid": [
+          111949, 
+          116618, 
+          132669, 
+          142220, 
+          143809, 
+          145695, 
+          151172
+        ], 
+        "woeid": 141888, 
+        "alias_SPA_V": [
+          "S Antonio Texcala"
+        ], 
+        "ne_longitude": -97.424, 
+        "longitude": -97.433, 
+        "parent_woeid": 12601435, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.400, 
+        "sw_longitude": -97.443, 
+        "fullname": "San Antonio Texcala, Puebla, Zapotitlan, Mexico", 
+        "sw_latitude": 18.391
+      }, 
+      "id": 141888
+    }
+  ]
+}

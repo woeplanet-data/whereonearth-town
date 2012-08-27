@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.193, 
+              48.663
+            ], 
+            [
+              -1.193, 
+              48.705
+            ], 
+            [
+              -1.170, 
+              48.705
+            ], 
+            [
+              -1.170, 
+              48.663
+            ], 
+            [
+              -1.193, 
+              48.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603142, 
+        "name": "Le Grand-Celland", 
+        "adjacent_woeid": [
+          597046, 
+          597575, 
+          598985, 
+          603980, 
+          612680, 
+          619015, 
+          29330954
+        ], 
+        "ne_latitude": 48.705, 
+        "ne_longitude": -1.170, 
+        "longitude": -1.185, 
+        "parent_woeid": 12640618, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Celland le Grand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.681, 
+        "sw_longitude": -1.193, 
+        "fullname": "Le Grand-Celland, Basse-Normandie, Manche, France", 
+        "sw_latitude": 48.663
+      }, 
+      "id": 603142
+    }
+  ]
+}

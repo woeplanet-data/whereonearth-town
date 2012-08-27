@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.707, 
+              41.477
+            ], 
+            [
+              1.707, 
+              41.510
+            ], 
+            [
+              1.744, 
+              41.510
+            ], 
+            [
+              1.744, 
+              41.477
+            ], 
+            [
+              1.707, 
+              41.477
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "UNK", 
+        "woeid": 20222425, 
+        "name": "El Badorc", 
+        "adjacent_woeid": [
+          20221172, 
+          20221199, 
+          20227303, 
+          23413702
+        ], 
+        "ne_latitude": 41.510, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.744, 
+        "longitude": 1.722, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:42Z", 
+        "parent_woeid": 12693541, 
+        "latitude": 41.497, 
+        "sw_longitude": 1.707, 
+        "fullname": "El Badorc, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.477
+      }, 
+      "id": 20222425
+    }
+  ]
+}

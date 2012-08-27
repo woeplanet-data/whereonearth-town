@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.664, 
+              55.391
+            ], 
+            [
+              10.664, 
+              55.400
+            ], 
+            [
+              10.680, 
+              55.400
+            ], 
+            [
+              10.680, 
+              55.391
+            ], 
+            [
+              10.664, 
+              55.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555648, 
+        "name": "Mullerup", 
+        "adjacent_woeid": [
+          553246, 
+          553838, 
+          555139, 
+          556591
+        ], 
+        "ne_latitude": 55.400, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.680, 
+        "longitude": 10.672, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:02Z", 
+        "parent_woeid": 12582684, 
+        "latitude": 55.396, 
+        "sw_longitude": 10.664, 
+        "fullname": "Mullerup, Syddanmark, Nyborg, Denmark", 
+        "sw_latitude": 55.391
+      }, 
+      "id": 555648
+    }
+  ]
+}

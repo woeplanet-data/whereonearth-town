@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.293, 
+              17.958
+            ], 
+            [
+              -94.293, 
+              17.976
+            ], 
+            [
+              -94.274, 
+              17.976
+            ], 
+            [
+              -94.274, 
+              17.958
+            ], 
+            [
+              -94.293, 
+              17.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.976, 
+        "name": "Arenal", 
+        "adjacent_woeid": [
+          115262, 
+          115668, 
+          117955, 
+          133937, 
+          149993
+        ], 
+        "woeid": 112358, 
+        "alias_SPA_V": [
+          "El Arenal"
+        ], 
+        "ne_longitude": -94.274, 
+        "longitude": -94.283, 
+        "parent_woeid": 12601833, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.967, 
+        "sw_longitude": -94.293, 
+        "fullname": "Arenal, Veracruz-Llave, Moloacan, Mexico", 
+        "sw_latitude": 17.958
+      }, 
+      "id": 112358
+    }
+  ]
+}

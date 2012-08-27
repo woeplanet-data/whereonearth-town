@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.686, 
+              45.332
+            ], 
+            [
+              2.686, 
+              45.362
+            ], 
+            [
+              2.715, 
+              45.362
+            ], 
+            [
+              2.715, 
+              45.332
+            ], 
+            [
+              2.686, 
+              45.332
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622858, 
+        "name": "St.-Amandin", 
+        "adjacent_woeid": [
+          608949, 
+          609815, 
+          612380, 
+          617276, 
+          623887, 
+          629264
+        ], 
+        "ne_latitude": 45.362, 
+        "ne_longitude": 2.715, 
+        "longitude": 2.696, 
+        "parent_woeid": 12637939, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Amandin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.344, 
+        "sw_longitude": 2.686, 
+        "fullname": "St.-Amandin, Auvergne, Cantal, France", 
+        "sw_latitude": 45.332
+      }, 
+      "id": 622858
+    }
+  ]
+}

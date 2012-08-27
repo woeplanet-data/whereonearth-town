@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.564, 
+              24.843
+            ], 
+            [
+              -99.564, 
+              24.861
+            ], 
+            [
+              -99.544, 
+              24.861
+            ], 
+            [
+              -99.544, 
+              24.843
+            ], 
+            [
+              -99.564, 
+              24.843
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.861, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          121428
+        ], 
+        "woeid": 141589, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -99.544, 
+        "longitude": -99.554, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.852, 
+        "sw_longitude": -99.564, 
+        "fullname": "San Antonio, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.843
+      }, 
+      "id": 141589
+    }
+  ]
+}

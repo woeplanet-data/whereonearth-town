@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.531, 
+              18.331
+            ], 
+            [
+              -93.531, 
+              18.349
+            ], 
+            [
+              -93.512, 
+              18.349
+            ], 
+            [
+              -93.512, 
+              18.331
+            ], 
+            [
+              -93.531, 
+              18.331
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.349, 
+        "name": "El Golpe", 
+        "adjacent_woeid": [
+          112808, 
+          115938, 
+          118947, 
+          144998
+        ], 
+        "woeid": 120359, 
+        "alias_SPA_V": [
+          "Golpe"
+        ], 
+        "ne_longitude": -93.512, 
+        "longitude": -93.521, 
+        "parent_woeid": 12601616, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.340, 
+        "sw_longitude": -93.531, 
+        "fullname": "El Golpe, Tabasco, Cardenas, Mexico", 
+        "sw_latitude": 18.331
+      }, 
+      "id": 120359
+    }
+  ]
+}

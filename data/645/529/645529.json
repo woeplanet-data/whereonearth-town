@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.251, 
+              53.391
+            ], 
+            [
+              10.251, 
+              53.430
+            ], 
+            [
+              10.335, 
+              53.430
+            ], 
+            [
+              10.335, 
+              53.391
+            ], 
+            [
+              10.251, 
+              53.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645529, 
+        "name": "Drage", 
+        "adjacent_woeid": [
+          645675, 
+          647487, 
+          657880, 
+          662878, 
+          669236, 
+          703036
+        ], 
+        "ne_latitude": 53.430, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.335, 
+        "longitude": 10.261, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12629616, 
+        "latitude": 53.409, 
+        "sw_longitude": 10.251, 
+        "fullname": "Drage, Lower Saxony, Harburg, Germany", 
+        "sw_latitude": 53.391
+      }, 
+      "id": 645529
+    }
+  ]
+}

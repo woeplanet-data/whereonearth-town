@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.097, 
+              55.241
+            ], 
+            [
+              12.097, 
+              55.270
+            ], 
+            [
+              12.137, 
+              55.270
+            ], 
+            [
+              12.137, 
+              55.241
+            ], 
+            [
+              12.097, 
+              55.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 553103, 
+        "name": "Fakse", 
+        "adjacent_woeid": [
+          552126, 
+          552913, 
+          553104, 
+          553337, 
+          553883, 
+          554577, 
+          554652, 
+          554789, 
+          555212, 
+          556669, 
+          556706, 
+          557105, 
+          557672, 
+          557909, 
+          558296, 
+          558337, 
+          558447, 
+          558453, 
+          20099459
+        ], 
+        "ne_latitude": 55.270, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.137, 
+        "longitude": 12.120, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:11Z", 
+        "parent_woeid": 28583797, 
+        "latitude": 55.257, 
+        "sw_longitude": 12.097, 
+        "fullname": "Fakse, Sjaelland, Faxe, Denmark", 
+        "alias_DAN_V": [
+          "Faxe"
+        ], 
+        "sw_latitude": 55.241
+      }, 
+      "id": 553103
+    }
+  ]
+}

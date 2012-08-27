@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.113, 
+              48.103
+            ], 
+            [
+              12.113, 
+              48.121
+            ], 
+            [
+              12.140, 
+              48.121
+            ], 
+            [
+              12.140, 
+              48.103
+            ], 
+            [
+              12.113, 
+              48.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346346, 
+        "name": "Berg", 
+        "adjacent_woeid": [
+          633752, 
+          691237, 
+          20153409, 
+          23411861, 
+          23412067, 
+          23416300, 
+          29346383, 
+          29346670, 
+          29347766
+        ], 
+        "ne_latitude": 48.121, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.140, 
+        "longitude": 12.126, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:25Z", 
+        "parent_woeid": 24550669, 
+        "latitude": 48.112, 
+        "sw_longitude": 12.113, 
+        "fullname": "Berg, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 48.103
+      }, 
+      "id": 29346346
+    }
+  ]
+}

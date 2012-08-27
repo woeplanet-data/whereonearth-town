@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.593, 
+              22.358
+            ], 
+            [
+              -100.593, 
+              22.376
+            ], 
+            [
+              -100.573, 
+              22.376
+            ], 
+            [
+              -100.573, 
+              22.358
+            ], 
+            [
+              -100.593, 
+              22.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.376, 
+        "name": "La Concordia", 
+        "adjacent_woeid": [
+          122937, 
+          129872, 
+          136460, 
+          137372, 
+          142257, 
+          147586, 
+          148212
+        ], 
+        "woeid": 127022, 
+        "alias_SPA_V": [
+          "Concordia"
+        ], 
+        "ne_longitude": -100.573, 
+        "longitude": -100.583, 
+        "parent_woeid": 12601472, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.367, 
+        "sw_longitude": -100.593, 
+        "fullname": "La Concordia, San Luis Potosi, Armadillo de Los Infante, Mexico", 
+        "sw_latitude": 22.358
+      }, 
+      "id": 127022
+    }
+  ]
+}

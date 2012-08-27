@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.618, 
+              49.081
+            ], 
+            [
+              10.618, 
+              49.099
+            ], 
+            [
+              10.643, 
+              49.099
+            ], 
+            [
+              10.643, 
+              49.081
+            ], 
+            [
+              10.618, 
+              49.081
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682247, 
+        "name": "Oberschwaningen", 
+        "adjacent_woeid": [
+          643370, 
+          644158, 
+          649134, 
+          29348237
+        ], 
+        "ne_latitude": 49.099, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.643, 
+        "longitude": 10.627, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12634428, 
+        "latitude": 49.093, 
+        "sw_longitude": 10.618, 
+        "fullname": "Oberschwaningen, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.081
+      }, 
+      "id": 682247
+    }
+  ]
+}

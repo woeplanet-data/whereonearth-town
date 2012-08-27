@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.469, 
+              56.509
+            ], 
+            [
+              10.469, 
+              56.525
+            ], 
+            [
+              10.498, 
+              56.525
+            ], 
+            [
+              10.498, 
+              56.509
+            ], 
+            [
+              10.469, 
+              56.509
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555591, 
+        "name": "Mogenstrup", 
+        "adjacent_woeid": [
+          555449, 
+          555784, 
+          558299, 
+          29306332
+        ], 
+        "ne_latitude": 56.525, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.498, 
+        "longitude": 10.483, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:30Z", 
+        "parent_woeid": 28583810, 
+        "latitude": 56.517, 
+        "sw_longitude": 10.469, 
+        "fullname": "Mogenstrup, Midtjylland, Norddjurs, Denmark", 
+        "sw_latitude": 56.509
+      }, 
+      "id": 555591
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.011, 
+              48.123
+            ], 
+            [
+              1.011, 
+              48.167
+            ], 
+            [
+              1.079, 
+              48.167
+            ], 
+            [
+              1.079, 
+              48.123
+            ], 
+            [
+              1.011, 
+              48.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584554, 
+        "name": "Chapelle-Royale", 
+        "adjacent_woeid": [
+          632164, 
+          29332406, 
+          29332409
+        ], 
+        "ne_latitude": 48.167, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.079, 
+        "longitude": 1.049, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12641089, 
+        "latitude": 48.144, 
+        "sw_longitude": 1.011, 
+        "fullname": "Chapelle-Royale, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.123
+      }, 
+      "id": 584554
+    }
+  ]
+}

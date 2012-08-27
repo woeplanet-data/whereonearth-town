@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.006, 
+              46.982
+            ], 
+            [
+              2.006, 
+              47.021
+            ], 
+            [
+              2.042, 
+              47.021
+            ], 
+            [
+              2.042, 
+              46.982
+            ], 
+            [
+              2.006, 
+              46.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627600, 
+        "name": "Ste.-Lizaigne", 
+        "adjacent_woeid": [
+          588794, 
+          605557, 
+          611500, 
+          617257, 
+          624226, 
+          632190
+        ], 
+        "ne_latitude": 47.021, 
+        "ne_longitude": 2.042, 
+        "longitude": 2.023, 
+        "parent_woeid": 12648060, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Lizaigne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:53Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.008, 
+        "sw_longitude": 2.006, 
+        "fullname": "Ste.-Lizaigne, Centre, Indre, France", 
+        "sw_latitude": 46.982
+      }, 
+      "id": 627600
+    }
+  ]
+}

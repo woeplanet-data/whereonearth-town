@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.286, 
+              50.195
+            ], 
+            [
+              11.286, 
+              50.204
+            ], 
+            [
+              11.300, 
+              50.204
+            ], 
+            [
+              11.300, 
+              50.195
+            ], 
+            [
+              11.286, 
+              50.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635863, 
+        "name": "Au", 
+        "adjacent_woeid": [
+          646971, 
+          662858, 
+          664197, 
+          678969, 
+          699446
+        ], 
+        "ne_latitude": 50.204, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.300, 
+        "longitude": 11.293, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12635330, 
+        "latitude": 50.199, 
+        "sw_longitude": 11.286, 
+        "fullname": "Au, Bavaria, Landkreis Kronach, Germany", 
+        "sw_latitude": 50.195
+      }, 
+      "id": 635863
+    }
+  ]
+}

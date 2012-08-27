@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.115, 
+              8.273
+            ], 
+            [
+              -70.115, 
+              8.291
+            ], 
+            [
+              -70.097, 
+              8.291
+            ], 
+            [
+              -70.097, 
+              8.273
+            ], 
+            [
+              -70.115, 
+              8.273
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.291, 
+        "name": "San Silvestre", 
+        "adjacent_woeid": [
+          391905, 
+          393999, 
+          395391, 
+          395559, 
+          395786, 
+          468364
+        ], 
+        "woeid": 468665, 
+        "alias_SPA_V": [
+          "S Silvestre"
+        ], 
+        "ne_longitude": -70.097, 
+        "longitude": -70.106, 
+        "parent_woeid": 26805609, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.282, 
+        "sw_longitude": -70.115, 
+        "fullname": "San Silvestre, Barinas, Barinas, Venezuela", 
+        "sw_latitude": 8.273
+      }, 
+      "id": 468665
+    }
+  ]
+}

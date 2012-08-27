@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -57.676, 
+              -38.031
+            ], 
+            [
+              -57.676, 
+              -37.808
+            ], 
+            [
+              -57.394, 
+              -37.808
+            ], 
+            [
+              -57.394, 
+              -38.031
+            ], 
+            [
+              -57.676, 
+              -38.031
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -37.808, 
+        "name": "Mar del Plata", 
+        "adjacent_woeid": [
+          330006, 
+          330176, 
+          464880, 
+          465027, 
+          466898, 
+          466942, 
+          466971, 
+          467008, 
+          467980, 
+          56040109
+        ], 
+        "woeid": 466863, 
+        "alias_UNK_Q": [
+          "MDQ"
+        ], 
+        "alias_SPA_V": [
+          "Mardelplata"
+        ], 
+        "ne_longitude": -57.394, 
+        "longitude": -57.535, 
+        "parent_woeid": 20070978, 
+        "placetype": "Town", 
+        "alias_CHI_Q": [
+          "\u9a6c\u5fb7\u666e\u62c9\u5854"
+        ], 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:03Z", 
+        "alias_KOR_Q": [
+          "\ub9c8\ub974\ub378\ud50c\ub77c\ud0c0"
+        ], 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -37.919, 
+        "sw_longitude": -57.676, 
+        "fullname": "Mar del Plata, Buenos Aires, Gral Pueyrredon, Argentina", 
+        "alias_JPN_Q": [
+          "\u30de\u30eb\u30c7\u30eb\u30d7\u30e9\u30bf"
+        ], 
+        "sw_latitude": -38.031
+      }, 
+      "id": 466863
+    }
+  ]
+}

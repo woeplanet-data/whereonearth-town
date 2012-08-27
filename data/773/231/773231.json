@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.476, 
+              36.454
+            ], 
+            [
+              -5.476, 
+              36.518
+            ], 
+            [
+              -5.351, 
+              36.518
+            ], 
+            [
+              -5.351, 
+              36.454
+            ], 
+            [
+              -5.476, 
+              36.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 36.518, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          759216, 
+          20227846, 
+          20228035
+        ], 
+        "woeid": 773231, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -5.351, 
+        "longitude": -5.409, 
+        "parent_woeid": 12688748, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.467, 
+        "sw_longitude": -5.476, 
+        "fullname": "San Pablo, Andalusia, Cadiz, Spain", 
+        "sw_latitude": 36.454
+      }, 
+      "id": 773231
+    }
+  ]
+}

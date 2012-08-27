@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.460, 
+              43.330
+            ], 
+            [
+              0.460, 
+              43.370
+            ], 
+            [
+              0.501, 
+              43.370
+            ], 
+            [
+              0.501, 
+              43.330
+            ], 
+            [
+              0.460, 
+              43.330
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617278, 
+        "name": "Ponsan-Soubiran", 
+        "adjacent_woeid": [
+          577219, 
+          588149, 
+          594119, 
+          601562, 
+          611994, 
+          626126
+        ], 
+        "ne_latitude": 43.370, 
+        "ne_longitude": 0.501, 
+        "longitude": 0.483, 
+        "parent_woeid": 12668366, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ponsan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.351, 
+        "sw_longitude": 0.460, 
+        "fullname": "Ponsan-Soubiran, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.330
+      }, 
+      "id": 617278
+    }
+  ]
+}

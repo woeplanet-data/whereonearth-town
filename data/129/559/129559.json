@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.277, 
+              22.991
+            ], 
+            [
+              -100.277, 
+              23.009
+            ], 
+            [
+              -100.257, 
+              23.009
+            ], 
+            [
+              -100.257, 
+              22.991
+            ], 
+            [
+              -100.277, 
+              22.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.009, 
+        "name": "La Ventana", 
+        "adjacent_woeid": [
+          128820, 
+          129330, 
+          137437, 
+          142074, 
+          142799
+        ], 
+        "woeid": 129559, 
+        "alias_SPA_V": [
+          "Ventana"
+        ], 
+        "ne_longitude": -100.257, 
+        "longitude": -100.267, 
+        "parent_woeid": 12601486, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.000, 
+        "sw_longitude": -100.277, 
+        "fullname": "La Ventana, San Luis Potosi, Guadalcazar, Mexico", 
+        "sw_latitude": 22.991
+      }, 
+      "id": 129559
+    }
+  ]
+}

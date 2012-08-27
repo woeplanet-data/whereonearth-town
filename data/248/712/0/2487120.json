@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.990, 
+              45.202
+            ], 
+            [
+              -122.990, 
+              45.220
+            ], 
+            [
+              -122.964, 
+              45.220
+            ], 
+            [
+              -122.964, 
+              45.202
+            ], 
+            [
+              -122.990, 
+              45.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2487120, 
+        "name": "St. Paul", 
+        "adjacent_woeid": [
+          2357460, 
+          2369488, 
+          2377972, 
+          2389881, 
+          2392815, 
+          2394386, 
+          2401399, 
+          2402848, 
+          2425163, 
+          2459306, 
+          2459424, 
+          2486980, 
+          2487384, 
+          2517948, 
+          2518404, 
+          2522930
+        ], 
+        "ne_latitude": 45.220, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Stpaul"
+        ], 
+        "ne_longitude": -122.964, 
+        "longitude": -122.977, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:21Z", 
+        "parent_woeid": 12589715, 
+        "latitude": 45.211, 
+        "sw_longitude": -122.990, 
+        "fullname": "St. Paul, Oregon, Marion, United States", 
+        "sw_latitude": 45.202
+      }, 
+      "id": 2487120
+    }
+  ]
+}

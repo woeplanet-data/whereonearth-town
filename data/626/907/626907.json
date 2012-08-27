@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.312, 
+              46.368
+            ], 
+            [
+              2.312, 
+              46.397
+            ], 
+            [
+              2.341, 
+              46.397
+            ], 
+            [
+              2.341, 
+              46.368
+            ], 
+            [
+              2.312, 
+              46.368
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626907, 
+        "name": "St.-Sauvier", 
+        "adjacent_woeid": [
+          576451, 
+          584002, 
+          607895, 
+          611272, 
+          626189, 
+          626505, 
+          629192, 
+          29332550
+        ], 
+        "ne_latitude": 46.397, 
+        "ne_longitude": 2.341, 
+        "longitude": 2.330, 
+        "parent_woeid": 12645848, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sauvier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.388, 
+        "sw_longitude": 2.312, 
+        "fullname": "St.-Sauvier, Auvergne, Allier, France", 
+        "sw_latitude": 46.368
+      }, 
+      "id": 626907
+    }
+  ]
+}

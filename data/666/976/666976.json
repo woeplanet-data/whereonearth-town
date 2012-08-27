@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.470, 
+              51.302
+            ], 
+            [
+              10.470, 
+              51.330
+            ], 
+            [
+              10.517, 
+              51.330
+            ], 
+            [
+              10.517, 
+              51.302
+            ], 
+            [
+              10.470, 
+              51.302
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666976, 
+        "name": "Kleinkeula", 
+        "adjacent_woeid": [
+          665640, 
+          695378, 
+          23410723
+        ], 
+        "ne_latitude": 51.330, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.517, 
+        "longitude": 10.490, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12636150, 
+        "latitude": 51.318, 
+        "sw_longitude": 10.470, 
+        "fullname": "Kleinkeula, Thuringia, Unstrut-Hainich-Kreis, Germany", 
+        "sw_latitude": 51.302
+      }, 
+      "id": 666976
+    }
+  ]
+}

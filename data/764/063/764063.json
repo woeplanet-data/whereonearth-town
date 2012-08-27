@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.510, 
+              43.250
+            ], 
+            [
+              -5.510, 
+              43.259
+            ], 
+            [
+              -5.497, 
+              43.259
+            ], 
+            [
+              -5.497, 
+              43.250
+            ], 
+            [
+              -5.510, 
+              43.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.259, 
+        "name": "La Sierra", 
+        "adjacent_woeid": [
+          765609, 
+          771967
+        ], 
+        "woeid": 764063, 
+        "alias_SPA_V": [
+          "Sierra"
+        ], 
+        "ne_longitude": -5.497, 
+        "longitude": -5.504, 
+        "parent_woeid": 12688475, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.254, 
+        "sw_longitude": -5.510, 
+        "fullname": "La Sierra, Asturias, Asturias, Spain", 
+        "sw_latitude": 43.250
+      }, 
+      "id": 764063
+    }
+  ]
+}

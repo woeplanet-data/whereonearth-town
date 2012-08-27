@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.577, 
+              30.924
+            ], 
+            [
+              -107.577, 
+              30.942
+            ], 
+            [
+              -107.556, 
+              30.942
+            ], 
+            [
+              -107.556, 
+              30.924
+            ], 
+            [
+              -107.577, 
+              30.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.942, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          115050, 
+          120280, 
+          145045
+        ], 
+        "woeid": 145667, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -107.556, 
+        "longitude": -107.567, 
+        "parent_woeid": 12599823, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.933, 
+        "sw_longitude": -107.577, 
+        "fullname": "Santa Ana, Chihuahua, Ascension, Mexico", 
+        "sw_latitude": 30.924
+      }, 
+      "id": 145667
+    }
+  ]
+}

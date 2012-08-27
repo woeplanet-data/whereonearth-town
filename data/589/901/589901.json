@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.789, 
+              49.570
+            ], 
+            [
+              1.789, 
+              49.606
+            ], 
+            [
+              1.822, 
+              49.606
+            ], 
+            [
+              1.822, 
+              49.570
+            ], 
+            [
+              1.789, 
+              49.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 589901, 
+        "name": "Ernemont-Boutavent", 
+        "adjacent_woeid": [
+          582834, 
+          589940, 
+          591487, 
+          594698, 
+          608733, 
+          613715, 
+          627837
+        ], 
+        "ne_latitude": 49.606, 
+        "ne_longitude": 1.822, 
+        "longitude": 1.807, 
+        "parent_woeid": 22756110, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ernemont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.589, 
+        "sw_longitude": 1.789, 
+        "fullname": "Ernemont-Boutavent, Picardie, Oise, France", 
+        "sw_latitude": 49.570
+      }, 
+      "id": 589901
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.656, 
+              43.373
+            ], 
+            [
+              0.656, 
+              43.405
+            ], 
+            [
+              0.687, 
+              43.405
+            ], 
+            [
+              0.687, 
+              43.373
+            ], 
+            [
+              0.656, 
+              43.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612732, 
+        "name": "Monties", 
+        "adjacent_woeid": [
+          577371, 
+          592511, 
+          610839, 
+          611838, 
+          621020, 
+          621846
+        ], 
+        "ne_latitude": 43.405, 
+        "ne_longitude": 0.687, 
+        "longitude": 0.675, 
+        "parent_woeid": 12667121, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Monties-Aussos"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.390, 
+        "sw_longitude": 0.656, 
+        "fullname": "Monties, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.373
+      }, 
+      "id": 612732
+    }
+  ]
+}

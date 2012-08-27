@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.110, 
+              18.874
+            ], 
+            [
+              -97.110, 
+              18.892
+            ], 
+            [
+              -97.090, 
+              18.892
+            ], 
+            [
+              -97.090, 
+              18.874
+            ], 
+            [
+              -97.110, 
+              18.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.892, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          112703, 
+          115913, 
+          123280, 
+          125512, 
+          132999, 
+          55891397, 
+          55902768
+        ], 
+        "woeid": 142970, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -97.090, 
+        "longitude": -97.100, 
+        "parent_woeid": 12601739, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.883, 
+        "sw_longitude": -97.110, 
+        "fullname": "San Isidro, Veracruz-Llave, Atzacan, Mexico", 
+        "sw_latitude": 18.874
+      }, 
+      "id": 142970
+    }
+  ]
+}

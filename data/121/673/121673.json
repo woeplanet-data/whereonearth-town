@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.860, 
+              23.708
+            ], 
+            [
+              -100.860, 
+              23.726
+            ], 
+            [
+              -100.840, 
+              23.726
+            ], 
+            [
+              -100.840, 
+              23.708
+            ], 
+            [
+              -100.860, 
+              23.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.726, 
+        "name": "El Potrero", 
+        "adjacent_woeid": [
+          115185, 
+          131134, 
+          132192, 
+          135632, 
+          142922, 
+          150557
+        ], 
+        "woeid": 121673, 
+        "alias_SPA_V": [
+          "Potrero"
+        ], 
+        "ne_longitude": -100.840, 
+        "longitude": -100.850, 
+        "parent_woeid": 12601475, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.717, 
+        "sw_longitude": -100.860, 
+        "fullname": "El Potrero, San Luis Potosi, Catorce, Mexico", 
+        "sw_latitude": 23.708
+      }, 
+      "id": 121673
+    }
+  ]
+}

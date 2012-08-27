@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.137, 
+              49.289
+            ], 
+            [
+              11.137, 
+              49.331
+            ], 
+            [
+              11.180, 
+              49.331
+            ], 
+            [
+              11.180, 
+              49.289
+            ], 
+            [
+              11.137, 
+              49.289
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651208, 
+        "name": "Furth", 
+        "adjacent_woeid": [
+          657409, 
+          670812, 
+          674421, 
+          687067, 
+          695758
+        ], 
+        "ne_latitude": 49.331, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.180, 
+        "longitude": 11.156, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12634541, 
+        "latitude": 49.309, 
+        "sw_longitude": 11.137, 
+        "fullname": "Furth, Bavaria, Landkreis Roth, Germany", 
+        "sw_latitude": 49.289
+      }, 
+      "id": 651208
+    }
+  ]
+}

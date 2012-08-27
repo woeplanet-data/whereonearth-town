@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.417, 
+              47.805
+            ], 
+            [
+              3.417, 
+              47.818
+            ], 
+            [
+              3.430, 
+              47.818
+            ], 
+            [
+              3.430, 
+              47.805
+            ], 
+            [
+              3.417, 
+              47.805
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603421, 
+        "name": "Le Marais", 
+        "adjacent_woeid": [
+          589534, 
+          606588, 
+          608177, 
+          20216300, 
+          20216302, 
+          29332162, 
+          29332166
+        ], 
+        "ne_latitude": 47.818, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.430, 
+        "longitude": 3.423, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12641469, 
+        "latitude": 47.811, 
+        "sw_longitude": 3.417, 
+        "fullname": "Le Marais, Burgundy, Yonne, France", 
+        "sw_latitude": 47.805
+      }, 
+      "id": 603421
+    }
+  ]
+}

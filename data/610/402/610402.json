@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.477, 
+              43.864
+            ], 
+            [
+              0.477, 
+              43.918
+            ], 
+            [
+              0.514, 
+              43.918
+            ], 
+            [
+              0.514, 
+              43.864
+            ], 
+            [
+              0.477, 
+              43.864
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610402, 
+        "name": "Mas-d'Auvignon", 
+        "adjacent_woeid": [
+          580201, 
+          599974, 
+          601072, 
+          619969, 
+          626125, 
+          626628, 
+          628262
+        ], 
+        "ne_latitude": 43.918, 
+        "ne_longitude": 0.514, 
+        "longitude": 0.501, 
+        "parent_woeid": 12664919, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Mas-d'Auvignon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.892, 
+        "sw_longitude": 0.477, 
+        "fullname": "Mas-d'Auvignon, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.864
+      }, 
+      "id": 610402
+    }
+  ]
+}

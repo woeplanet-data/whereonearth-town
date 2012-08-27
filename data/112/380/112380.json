@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.858, 
+              22.635
+            ], 
+            [
+              -100.858, 
+              22.651
+            ], 
+            [
+              -100.842, 
+              22.651
+            ], 
+            [
+              -100.842, 
+              22.635
+            ], 
+            [
+              -100.858, 
+              22.635
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.651, 
+        "name": "Arista", 
+        "adjacent_woeid": [
+          118147, 
+          119999, 
+          125641, 
+          129712, 
+          141235, 
+          142800
+        ], 
+        "woeid": 112380, 
+        "alias_SPA_V": [
+          "Villa de Arista"
+        ], 
+        "ne_longitude": -100.842, 
+        "longitude": -100.853, 
+        "parent_woeid": 12601517, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.645, 
+        "sw_longitude": -100.858, 
+        "fullname": "Arista, San Luis Potosi, Villa de Arista, Mexico", 
+        "sw_latitude": 22.635
+      }, 
+      "id": 112380
+    }
+  ]
+}

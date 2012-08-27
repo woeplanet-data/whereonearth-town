@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.488, 
+              49.867
+            ], 
+            [
+              12.488, 
+              49.933
+            ], 
+            [
+              12.523, 
+              49.933
+            ], 
+            [
+              12.523, 
+              49.867
+            ], 
+            [
+              12.488, 
+              49.867
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20173264, 
+        "name": "Ebersberg", 
+        "adjacent_woeid": [
+          654178, 
+          699959, 
+          20158561, 
+          29348516
+        ], 
+        "ne_latitude": 49.933, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.523, 
+        "longitude": 12.507, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:27Z", 
+        "parent_woeid": 12634343, 
+        "latitude": 49.899, 
+        "sw_longitude": 12.488, 
+        "fullname": "Ebersberg, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 49.867
+      }, 
+      "id": 20173264
+    }
+  ]
+}

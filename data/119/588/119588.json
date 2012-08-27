@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.427, 
+              22.941
+            ], 
+            [
+              -99.427, 
+              22.959
+            ], 
+            [
+              -99.407, 
+              22.959
+            ], 
+            [
+              -99.407, 
+              22.941
+            ], 
+            [
+              -99.427, 
+              22.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.959, 
+        "name": "El Carrizo", 
+        "adjacent_woeid": [
+          114678, 
+          122742, 
+          144110, 
+          146491, 
+          147437
+        ], 
+        "woeid": 119588, 
+        "alias_SPA_V": [
+          "Carrizo"
+        ], 
+        "ne_longitude": -99.407, 
+        "longitude": -99.417, 
+        "parent_woeid": 12601660, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.950, 
+        "sw_longitude": -99.427, 
+        "fullname": "El Carrizo, Tamaulipas, Ocampo, Mexico", 
+        "sw_latitude": 22.941
+      }, 
+      "id": 119588
+    }
+  ]
+}

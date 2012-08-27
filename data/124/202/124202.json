@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.627, 
+              25.991
+            ], 
+            [
+              -99.627, 
+              26.009
+            ], 
+            [
+              -99.607, 
+              26.009
+            ], 
+            [
+              -99.607, 
+              25.991
+            ], 
+            [
+              -99.627, 
+              25.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.009, 
+        "name": "Guadalupe", 
+        "adjacent_woeid": [
+          115310, 
+          124813, 
+          133070, 
+          150364
+        ], 
+        "woeid": 124202, 
+        "alias_SPA_V": [
+          "Guadalupe Victoria"
+        ], 
+        "ne_longitude": -99.607, 
+        "longitude": -99.617, 
+        "parent_woeid": 12600615, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.000, 
+        "sw_longitude": -99.627, 
+        "fullname": "Guadalupe, Nuevo Leon, Cerralvo, Mexico", 
+        "sw_latitude": 25.991
+      }, 
+      "id": 124202
+    }
+  ]
+}

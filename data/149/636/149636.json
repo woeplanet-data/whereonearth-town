@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.585, 
+              17.539
+            ], 
+            [
+              -98.585, 
+              17.558
+            ], 
+            [
+              -98.565, 
+              17.558
+            ], 
+            [
+              -98.565, 
+              17.539
+            ], 
+            [
+              -98.585, 
+              17.539
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.558, 
+        "name": "Tlapa", 
+        "adjacent_woeid": [
+          111645, 
+          112746, 
+          125491, 
+          149637, 
+          149658
+        ], 
+        "woeid": 149636, 
+        "alias_SPA_V": [
+          "Tlapa de Comonfort Centro"
+        ], 
+        "ne_longitude": -98.565, 
+        "longitude": -98.582, 
+        "parent_woeid": 12600102, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.547, 
+        "sw_longitude": -98.585, 
+        "fullname": "Tlapa, Guerrero, Tlapa de Comonfort, Mexico", 
+        "sw_latitude": 17.539
+      }, 
+      "id": 149636
+    }
+  ]
+}

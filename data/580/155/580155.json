@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.610, 
+              49.921
+            ], 
+            [
+              1.610, 
+              49.945
+            ], 
+            [
+              1.638, 
+              49.945
+            ], 
+            [
+              1.638, 
+              49.921
+            ], 
+            [
+              1.610, 
+              49.921
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580155, 
+        "name": "Blangy-sur-Bresle", 
+        "adjacent_woeid": [
+          577267, 
+          578580, 
+          581429, 
+          588476, 
+          590349, 
+          592363, 
+          608482, 
+          611875, 
+          614030, 
+          614033, 
+          614038, 
+          614058, 
+          614884, 
+          616536, 
+          619429, 
+          626745, 
+          20218638
+        ], 
+        "ne_latitude": 49.945, 
+        "ne_longitude": 1.638, 
+        "longitude": 1.629, 
+        "parent_woeid": 12639055, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Blangy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.933, 
+        "sw_longitude": 1.610, 
+        "fullname": "Blangy-sur-Bresle, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.921
+      }, 
+      "id": 580155
+    }
+  ]
+}

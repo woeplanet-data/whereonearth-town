@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.956, 
+              46.932
+            ], 
+            [
+              5.956, 
+              46.974
+            ], 
+            [
+              6.005, 
+              46.974
+            ], 
+            [
+              6.005, 
+              46.932
+            ], 
+            [
+              5.956, 
+              46.932
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627375, 
+        "name": "Ste.-Anne", 
+        "adjacent_woeid": [
+          576417, 
+          583654, 
+          588070, 
+          589123, 
+          592678, 
+          613847, 
+          631841
+        ], 
+        "ne_latitude": 46.974, 
+        "ne_longitude": 6.005, 
+        "longitude": 5.986, 
+        "parent_woeid": 12653336, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Anne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.954, 
+        "sw_longitude": 5.956, 
+        "fullname": "Ste.-Anne, Franche-Comte, Doubs, France", 
+        "sw_latitude": 46.932
+      }, 
+      "id": 627375
+    }
+  ]
+}

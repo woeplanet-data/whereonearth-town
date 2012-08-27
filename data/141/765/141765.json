@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.159, 
+              26.857
+            ], 
+            [
+              -109.159, 
+              26.875
+            ], 
+            [
+              -109.138, 
+              26.875
+            ], 
+            [
+              -109.138, 
+              26.857
+            ], 
+            [
+              -109.159, 
+              26.857
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.875, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          112850, 
+          130639, 
+          131660, 
+          133833, 
+          138197, 
+          140094, 
+          144722, 
+          148407, 
+          149737
+        ], 
+        "woeid": 141765, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -109.138, 
+        "longitude": -109.149, 
+        "parent_woeid": 12601587, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.866, 
+        "sw_longitude": -109.159, 
+        "fullname": "San Antonio, Sonora, Navojoa, Mexico", 
+        "sw_latitude": 26.857
+      }, 
+      "id": 141765
+    }
+  ]
+}

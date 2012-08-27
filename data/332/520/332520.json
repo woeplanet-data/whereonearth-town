@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.930, 
+              -25.181
+            ], 
+            [
+              -65.930, 
+              -23.253
+            ], 
+            [
+              -63.815, 
+              -23.253
+            ], 
+            [
+              -63.815, 
+              -25.181
+            ], 
+            [
+              -65.930, 
+              -25.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -23.253, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          331783, 
+          331991, 
+          332540, 
+          332602, 
+          332674, 
+          465577, 
+          467021, 
+          468745, 
+          26795822
+        ], 
+        "woeid": 332520, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -63.815, 
+        "longitude": -64.861, 
+        "parent_woeid": 20070785, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -24.237, 
+        "sw_longitude": -65.930, 
+        "fullname": "San Pedro, Jujuy, San Pedro, Argentina", 
+        "sw_latitude": -25.181
+      }, 
+      "id": 332520
+    }
+  ]
+}

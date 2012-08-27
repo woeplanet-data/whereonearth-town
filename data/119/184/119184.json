@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.093, 
+              25.341
+            ], 
+            [
+              -100.093, 
+              25.359
+            ], 
+            [
+              -100.073, 
+              25.359
+            ], 
+            [
+              -100.073, 
+              25.341
+            ], 
+            [
+              -100.093, 
+              25.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.359, 
+        "name": "El Barrial", 
+        "adjacent_woeid": [
+          116396, 
+          119666, 
+          126481, 
+          132389, 
+          137276, 
+          141576, 
+          144946
+        ], 
+        "woeid": 119184, 
+        "alias_SPA_V": [
+          "Barreal"
+        ], 
+        "ne_longitude": -100.073, 
+        "longitude": -100.083, 
+        "parent_woeid": 12600654, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.350, 
+        "sw_longitude": -100.093, 
+        "fullname": "El Barrial, Nuevo Leon, Santiago, Mexico", 
+        "sw_latitude": 25.341
+      }, 
+      "id": 119184
+    }
+  ]
+}

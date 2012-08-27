@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.164, 
+              43.879
+            ], 
+            [
+              1.164, 
+              43.919
+            ], 
+            [
+              1.214, 
+              43.919
+            ], 
+            [
+              1.214, 
+              43.879
+            ], 
+            [
+              1.164, 
+              43.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610411, 
+        "name": "Mas-Grenier", 
+        "adjacent_woeid": [
+          581314, 
+          590985, 
+          611841, 
+          626836
+        ], 
+        "ne_latitude": 43.919, 
+        "ne_longitude": 1.214, 
+        "longitude": 1.195, 
+        "parent_woeid": 12664921, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Mas-Grenier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.890, 
+        "sw_longitude": 1.164, 
+        "fullname": "Mas-Grenier, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.879
+      }, 
+      "id": 610411
+    }
+  ]
+}

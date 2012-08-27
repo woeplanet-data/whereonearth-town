@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.843, 
+              24.963
+            ], 
+            [
+              -99.843, 
+              24.981
+            ], 
+            [
+              -99.823, 
+              24.981
+            ], 
+            [
+              -99.823, 
+              24.963
+            ], 
+            [
+              -99.843, 
+              24.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.981, 
+        "name": "El Toro", 
+        "adjacent_woeid": [
+          119267, 
+          122703, 
+          125157, 
+          127298, 
+          131312, 
+          134555
+        ], 
+        "woeid": 122798, 
+        "alias_SPA_V": [
+          "Toros"
+        ], 
+        "ne_longitude": -99.823, 
+        "longitude": -99.833, 
+        "parent_woeid": 12600644, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.972, 
+        "sw_longitude": -99.843, 
+        "fullname": "El Toro, Nuevo Leon, Montemorelos, Mexico", 
+        "sw_latitude": 24.963
+      }, 
+      "id": 122798
+    }
+  ]
+}

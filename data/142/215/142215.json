@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.691, 
+              19.483
+            ], 
+            [
+              -99.691, 
+              19.501
+            ], 
+            [
+              -99.671, 
+              19.501
+            ], 
+            [
+              -99.671, 
+              19.483
+            ], 
+            [
+              -99.691, 
+              19.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.501, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          129017, 
+          134168, 
+          144161, 
+          146060, 
+          146279, 
+          147948
+        ], 
+        "woeid": 142215, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -99.671, 
+        "longitude": -99.681, 
+        "parent_woeid": 12600406, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.492, 
+        "sw_longitude": -99.691, 
+        "fullname": "San Diego, Mexico, Temoaya, Mexico", 
+        "sw_latitude": 19.483
+      }, 
+      "id": 142215
+    }
+  ]
+}

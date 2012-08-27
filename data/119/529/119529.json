@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.717, 
+              26.833
+            ], 
+            [
+              -109.717, 
+              26.851
+            ], 
+            [
+              -109.697, 
+              26.851
+            ], 
+            [
+              -109.697, 
+              26.833
+            ], 
+            [
+              -109.717, 
+              26.833
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.851, 
+        "name": "El Caro", 
+        "adjacent_woeid": [
+          112846, 
+          125058, 
+          126212, 
+          130763, 
+          137376, 
+          145910
+        ], 
+        "woeid": 119529, 
+        "alias_SPA_V": [
+          "Caro"
+        ], 
+        "ne_longitude": -109.697, 
+        "longitude": -109.707, 
+        "parent_woeid": 12601577, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.842, 
+        "sw_longitude": -109.717, 
+        "fullname": "El Caro, Sonora, Huatabampo, Mexico", 
+        "sw_latitude": 26.833
+      }, 
+      "id": 119529
+    }
+  ]
+}

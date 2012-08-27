@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.477, 
+              54.181
+            ], 
+            [
+              10.477, 
+              54.200
+            ], 
+            [
+              10.508, 
+              54.200
+            ], 
+            [
+              10.508, 
+              54.181
+            ], 
+            [
+              10.477, 
+              54.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29350775, 
+        "name": "Schierensee", 
+        "adjacent_woeid": [
+          653380, 
+          668377, 
+          679194, 
+          686997, 
+          699510, 
+          29350705, 
+          29350963
+        ], 
+        "ne_latitude": 54.200, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.508, 
+        "longitude": 10.492, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:52Z", 
+        "parent_woeid": 12632387, 
+        "latitude": 54.191, 
+        "sw_longitude": 10.477, 
+        "fullname": "Schierensee, Schleswig-Holstein, Plon, Germany", 
+        "sw_latitude": 54.181
+      }, 
+      "id": 29350775
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.868, 
+              -2.241
+            ], 
+            [
+              -80.868, 
+              -2.215
+            ], 
+            [
+              -80.843, 
+              -2.215
+            ], 
+            [
+              -80.843, 
+              -2.241
+            ], 
+            [
+              -80.868, 
+              -2.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -2.215, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          369824, 
+          375751, 
+          375768, 
+          375842, 
+          376255
+        ], 
+        "woeid": 375761, 
+        "alias_SPA_V": [
+          "Sta Elena"
+        ], 
+        "ne_longitude": -80.843, 
+        "longitude": -80.855, 
+        "parent_woeid": 26810495, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -2.228, 
+        "sw_longitude": -80.868, 
+        "fullname": "Santa Elena, Guayas, Santa Helena, Ecuador", 
+        "sw_latitude": -2.241
+      }, 
+      "id": 375761
+    }
+  ]
+}

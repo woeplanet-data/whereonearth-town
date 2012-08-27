@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.709, 
+              50.111
+            ], 
+            [
+              1.709, 
+              50.132
+            ], 
+            [
+              1.737, 
+              50.132
+            ], 
+            [
+              1.737, 
+              50.111
+            ], 
+            [
+              1.709, 
+              50.111
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 582643, 
+        "name": "Cahon", 
+        "adjacent_woeid": [
+          582773, 
+          601023, 
+          616262, 
+          618552, 
+          620611
+        ], 
+        "ne_latitude": 50.132, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.737, 
+        "longitude": 1.723, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "parent_woeid": 12658160, 
+        "latitude": 50.120, 
+        "sw_longitude": 1.709, 
+        "fullname": "Cahon, Picardie, Somme, France", 
+        "sw_latitude": 50.111
+      }, 
+      "id": 582643
+    }
+  ]
+}

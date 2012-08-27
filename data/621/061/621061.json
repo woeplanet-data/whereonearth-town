@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.918, 
+              45.393
+            ], 
+            [
+              1.918, 
+              45.426
+            ], 
+            [
+              1.953, 
+              45.426
+            ], 
+            [
+              1.953, 
+              45.393
+            ], 
+            [
+              1.918, 
+              45.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621061, 
+        "name": "Sarran", 
+        "adjacent_woeid": [
+          585217, 
+          611392, 
+          620028, 
+          627332, 
+          632464
+        ], 
+        "ne_latitude": 45.426, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.953, 
+        "longitude": 1.938, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12657952, 
+        "latitude": 45.410, 
+        "sw_longitude": 1.918, 
+        "fullname": "Sarran, Limousin, Correze, France", 
+        "sw_latitude": 45.393
+      }, 
+      "id": 621061
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.689, 
+              45.493
+            ], 
+            [
+              1.689, 
+              45.517
+            ], 
+            [
+              1.713, 
+              45.517
+            ], 
+            [
+              1.713, 
+              45.493
+            ], 
+            [
+              1.689, 
+              45.493
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 616406, 
+        "name": "Peyrissac", 
+        "adjacent_woeid": [
+          575429, 
+          590417, 
+          619473, 
+          622498
+        ], 
+        "ne_latitude": 45.517, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.713, 
+        "longitude": 1.701, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12668177, 
+        "latitude": 45.503, 
+        "sw_longitude": 1.689, 
+        "fullname": "Peyrissac, Limousin, Correze, France", 
+        "sw_latitude": 45.493
+      }, 
+      "id": 616406
+    }
+  ]
+}

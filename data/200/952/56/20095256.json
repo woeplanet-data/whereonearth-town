@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.286, 
+              46.950
+            ], 
+            [
+              15.286, 
+              46.968
+            ], 
+            [
+              15.313, 
+              46.968
+            ], 
+            [
+              15.313, 
+              46.950
+            ], 
+            [
+              15.286, 
+              46.950
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20095256, 
+        "name": "Giessenberg", 
+        "adjacent_woeid": [
+          548170, 
+          548764, 
+          20098021, 
+          28996374
+        ], 
+        "ne_latitude": 46.968, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.313, 
+        "longitude": 15.300, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:27Z", 
+        "parent_woeid": 12674926, 
+        "latitude": 46.959, 
+        "sw_longitude": 15.286, 
+        "fullname": "Giessenberg, Styria, Voitsberg, Austria", 
+        "sw_latitude": 46.950
+      }, 
+      "id": 20095256
+    }
+  ]
+}

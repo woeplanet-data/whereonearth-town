@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.101, 
+              50.468
+            ], 
+            [
+              10.101, 
+              50.502
+            ], 
+            [
+              10.130, 
+              50.502
+            ], 
+            [
+              10.130, 
+              50.468
+            ], 
+            [
+              10.101, 
+              50.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689848, 
+        "name": "Roth", 
+        "adjacent_woeid": [
+          652633, 
+          658008, 
+          688901, 
+          697193, 
+          701872, 
+          20162458
+        ], 
+        "ne_latitude": 50.502, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.130, 
+        "longitude": 10.118, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12635519, 
+        "latitude": 50.489, 
+        "sw_longitude": 10.101, 
+        "fullname": "Roth, Bavaria, Rh\u00f6n-Grabfeld, Germany", 
+        "sw_latitude": 50.468
+      }, 
+      "id": 689848
+    }
+  ]
+}

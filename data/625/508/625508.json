@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.389, 
+              43.965
+            ], 
+            [
+              1.389, 
+              44.009
+            ], 
+            [
+              1.429, 
+              44.009
+            ], 
+            [
+              1.429, 
+              43.965
+            ], 
+            [
+              1.389, 
+              43.965
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625508, 
+        "name": "St.-Martial", 
+        "adjacent_woeid": [
+          605166, 
+          626044, 
+          20195084
+        ], 
+        "ne_latitude": 44.009, 
+        "ne_longitude": 1.429, 
+        "longitude": 1.417, 
+        "parent_woeid": 12666957, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Martial"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.983, 
+        "sw_longitude": 1.389, 
+        "fullname": "St.-Martial, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.965
+      }, 
+      "id": 625508
+    }
+  ]
+}

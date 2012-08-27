@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.755, 
+              8.983
+            ], 
+            [
+              -65.755, 
+              9.000
+            ], 
+            [
+              -65.737, 
+              9.000
+            ], 
+            [
+              -65.737, 
+              8.983
+            ], 
+            [
+              -65.755, 
+              8.983
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.000, 
+        "name": "El Socorro", 
+        "adjacent_woeid": [
+          390429, 
+          395284, 
+          395316, 
+          395371, 
+          395450, 
+          395457, 
+          395487, 
+          395794, 
+          468190
+        ], 
+        "woeid": 395294, 
+        "alias_SPA_V": [
+          "Socorro"
+        ], 
+        "ne_longitude": -65.737, 
+        "longitude": -65.746, 
+        "parent_woeid": 26805420, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.991, 
+        "sw_longitude": -65.755, 
+        "fullname": "El Socorro, Guarico, El Socorro, Venezuela", 
+        "sw_latitude": 8.983
+      }, 
+      "id": 395294
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.978, 
+              49.231
+            ], 
+            [
+              10.978, 
+              49.257
+            ], 
+            [
+              11.002, 
+              49.257
+            ], 
+            [
+              11.002, 
+              49.231
+            ], 
+            [
+              10.978, 
+              49.231
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666705, 
+        "name": "Kleinabenberg", 
+        "adjacent_woeid": [
+          635581, 
+          636158, 
+          637325, 
+          651681, 
+          653648
+        ], 
+        "ne_latitude": 49.257, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.002, 
+        "longitude": 10.986, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12634532, 
+        "latitude": 49.246, 
+        "sw_longitude": 10.978, 
+        "fullname": "Kleinabenberg, Bavaria, Landkreis Roth, Germany", 
+        "sw_latitude": 49.231
+      }, 
+      "id": 666705
+    }
+  ]
+}

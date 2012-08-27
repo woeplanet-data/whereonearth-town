@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.066, 
+              43.008
+            ], 
+            [
+              -0.066, 
+              43.030
+            ], 
+            [
+              -0.040, 
+              43.030
+            ], 
+            [
+              -0.040, 
+              43.008
+            ], 
+            [
+              -0.066, 
+              43.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626242, 
+        "name": "St.-Pastous", 
+        "adjacent_woeid": [
+          577700, 
+          579313, 
+          580752, 
+          592542, 
+          592772, 
+          631209, 
+          20193970, 
+          20193985
+        ], 
+        "ne_latitude": 43.030, 
+        "ne_longitude": -0.040, 
+        "longitude": -0.058, 
+        "parent_woeid": 12671031, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pastous"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.017, 
+        "sw_longitude": -0.066, 
+        "fullname": "St.-Pastous, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.008
+      }, 
+      "id": 626242
+    }
+  ]
+}

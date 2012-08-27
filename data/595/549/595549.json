@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.113, 
+              48.432
+            ], 
+            [
+              5.113, 
+              48.452
+            ], 
+            [
+              5.160, 
+              48.452
+            ], 
+            [
+              5.160, 
+              48.432
+            ], 
+            [
+              5.113, 
+              48.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595549, 
+        "name": "Joinville", 
+        "adjacent_woeid": [
+          585710, 
+          589088, 
+          589093, 
+          592200, 
+          592221, 
+          600813, 
+          612731, 
+          614472, 
+          617145, 
+          620501, 
+          622363, 
+          627162, 
+          627905, 
+          628552, 
+          630445, 
+          632855, 
+          15003006
+        ], 
+        "ne_latitude": 48.452, 
+        "ne_longitude": 5.160, 
+        "longitude": 5.142, 
+        "parent_woeid": 12645496, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Joinville-en-Vallage"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.442, 
+        "sw_longitude": 5.113, 
+        "fullname": "Joinville, Champagne-Ardenne, Haute-Marne, France", 
+        "sw_latitude": 48.432
+      }, 
+      "id": 595549
+    }
+  ]
+}

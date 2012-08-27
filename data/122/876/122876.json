@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.301, 
+              27.060
+            ], 
+            [
+              -106.301, 
+              27.078
+            ], 
+            [
+              -106.280, 
+              27.078
+            ], 
+            [
+              -106.280, 
+              27.060
+            ], 
+            [
+              -106.301, 
+              27.060
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.078, 
+        "name": "El Tule", 
+        "adjacent_woeid": [
+          113008, 
+          125115, 
+          126106, 
+          135060, 
+          144422
+        ], 
+        "woeid": 122876, 
+        "alias_SPA_V": [
+          "S. Antonio del Tule"
+        ], 
+        "ne_longitude": -106.280, 
+        "longitude": -106.290, 
+        "parent_woeid": 12599840, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.069, 
+        "sw_longitude": -106.301, 
+        "fullname": "El Tule, Chihuahua, El Tule, Mexico", 
+        "sw_latitude": 27.060
+      }, 
+      "id": 122876
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.231, 
+              52.945
+            ], 
+            [
+              12.231, 
+              52.972
+            ], 
+            [
+              12.272, 
+              52.972
+            ], 
+            [
+              12.272, 
+              52.945
+            ], 
+            [
+              12.231, 
+              52.945
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 653900, 
+        "name": "Granzow", 
+        "adjacent_woeid": [
+          636891, 
+          638252, 
+          644121, 
+          655793, 
+          666594
+        ], 
+        "ne_latitude": 52.972, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.272, 
+        "longitude": 12.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:57Z", 
+        "parent_woeid": 24547298, 
+        "latitude": 52.959, 
+        "sw_longitude": 12.231, 
+        "fullname": "Granzow, Brandenburg, Prignitz, Germany", 
+        "sw_latitude": 52.945
+      }, 
+      "id": 653900
+    }
+  ]
+}

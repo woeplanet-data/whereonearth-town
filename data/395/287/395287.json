@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.227, 
+              7.686
+            ], 
+            [
+              -63.227, 
+              9.719
+            ], 
+            [
+              -61.170, 
+              9.719
+            ], 
+            [
+              -61.170, 
+              7.686
+            ], 
+            [
+              -63.227, 
+              7.686
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.719, 
+        "name": "Barrancas", 
+        "adjacent_woeid": [
+          395605, 
+          26806900, 
+          468180, 
+          395706, 
+          468645
+        ], 
+        "woeid": 395287, 
+        "alias_SPA_V": [
+          "S. Rafael de Barrancas"
+        ], 
+        "ne_longitude": -61.170, 
+        "longitude": -62.198, 
+        "parent_woeid": 26805140, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.703, 
+        "sw_longitude": -63.227, 
+        "fullname": "Barrancas, Monagas, Sotillo, Venezuela", 
+        "sw_latitude": 7.686
+      }, 
+      "id": 395287
+    }
+  ]
+}

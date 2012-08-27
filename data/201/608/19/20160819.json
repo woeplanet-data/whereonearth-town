@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.512, 
+              50.743
+            ], 
+            [
+              10.512, 
+              50.807
+            ], 
+            [
+              10.585, 
+              50.807
+            ], 
+            [
+              10.585, 
+              50.743
+            ], 
+            [
+              10.512, 
+              50.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160819, 
+        "name": "Nesselhof", 
+        "adjacent_woeid": [
+          684216, 
+          697955, 
+          20160820
+        ], 
+        "ne_latitude": 50.807, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.585, 
+        "longitude": 10.546, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12636410, 
+        "latitude": 50.774, 
+        "sw_longitude": 10.512, 
+        "fullname": "Nesselhof, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.743
+      }, 
+      "id": 20160819
+    }
+  ]
+}

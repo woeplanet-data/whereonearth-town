@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.426, 
+              10.208
+            ], 
+            [
+              -67.426, 
+              10.226
+            ], 
+            [
+              -67.407, 
+              10.226
+            ], 
+            [
+              -67.407, 
+              10.208
+            ], 
+            [
+              -67.426, 
+              10.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.226, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          385607, 
+          389400, 
+          395264, 
+          395274, 
+          395277, 
+          395610, 
+          395751, 
+          468723
+        ], 
+        "woeid": 393789, 
+        "alias_SPA_V": [
+          "S Mateo"
+        ], 
+        "ne_longitude": -67.407, 
+        "longitude": -67.417, 
+        "parent_woeid": 26805671, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.217, 
+        "sw_longitude": -67.426, 
+        "fullname": "San Mateo, Aragua, Bolivar, Venezuela", 
+        "sw_latitude": 10.208
+      }, 
+      "id": 393789
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.478, 
+              48.949
+            ], 
+            [
+              4.478, 
+              49.025
+            ], 
+            [
+              4.562, 
+              49.025
+            ], 
+            [
+              4.562, 
+              48.949
+            ], 
+            [
+              4.478, 
+              48.949
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587601, 
+        "name": "Courtisols", 
+        "adjacent_woeid": [
+          582493, 
+          583959, 
+          585583, 
+          592976, 
+          596499, 
+          597720, 
+          610277, 
+          611870, 
+          613519, 
+          617094, 
+          617152, 
+          621098, 
+          622351, 
+          625774, 
+          625932, 
+          626732, 
+          627683, 
+          627832
+        ], 
+        "ne_latitude": 49.025, 
+        "ne_longitude": 4.562, 
+        "longitude": 4.516, 
+        "parent_woeid": 12642427, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Courtisole"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:40Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.986, 
+        "sw_longitude": 4.478, 
+        "fullname": "Courtisols, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.949
+      }, 
+      "id": 587601
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.921, 
+              44.456
+            ], 
+            [
+              0.921, 
+              44.482
+            ], 
+            [
+              0.948, 
+              44.482
+            ], 
+            [
+              0.948, 
+              44.456
+            ], 
+            [
+              0.921, 
+              44.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627302, 
+        "name": "St.-Vite", 
+        "adjacent_woeid": [
+          612055, 
+          624165, 
+          20219453, 
+          20219455, 
+          29331530, 
+          29331533, 
+          29332031
+        ], 
+        "ne_latitude": 44.482, 
+        "ne_longitude": 0.948, 
+        "longitude": 0.939, 
+        "parent_woeid": 12653315, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vite"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.473, 
+        "sw_longitude": 0.921, 
+        "fullname": "St.-Vite, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.456
+      }, 
+      "id": 627302
+    }
+  ]
+}

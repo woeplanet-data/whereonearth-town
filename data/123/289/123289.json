@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.674, 
+              25.352
+            ], 
+            [
+              -100.674, 
+              25.371
+            ], 
+            [
+              -100.654, 
+              25.371
+            ], 
+            [
+              -100.654, 
+              25.352
+            ], 
+            [
+              -100.674, 
+              25.352
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123289, 
+        "name": "Escobedo", 
+        "adjacent_woeid": [
+          119117, 
+          126470, 
+          132041, 
+          150230
+        ], 
+        "ne_latitude": 25.371, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -100.654, 
+        "longitude": -100.664, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "parent_woeid": 12599889, 
+        "latitude": 25.362, 
+        "sw_longitude": -100.674, 
+        "fullname": "Escobedo, Coahuila de Zaragoza, Arteaga, Mexico", 
+        "sw_latitude": 25.352
+      }, 
+      "id": 123289
+    }
+  ]
+}

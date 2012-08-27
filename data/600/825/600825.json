@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.538, 
+              43.952
+            ], 
+            [
+              0.538, 
+              43.989
+            ], 
+            [
+              0.587, 
+              43.989
+            ], 
+            [
+              0.587, 
+              43.952
+            ], 
+            [
+              0.538, 
+              43.952
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600825, 
+        "name": "Lagarde", 
+        "adjacent_woeid": [
+          610275, 
+          29331981
+        ], 
+        "ne_latitude": 43.989, 
+        "ne_longitude": 0.587, 
+        "longitude": 0.556, 
+        "parent_woeid": 12664269, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lagarde Fimarcon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.964, 
+        "sw_longitude": 0.538, 
+        "fullname": "Lagarde, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.952
+      }, 
+      "id": 600825
+    }
+  ]
+}

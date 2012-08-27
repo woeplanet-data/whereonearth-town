@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.327, 
+              46.110
+            ], 
+            [
+              -123.327, 
+              46.119
+            ], 
+            [
+              -123.314, 
+              46.119
+            ], 
+            [
+              -123.314, 
+              46.110
+            ], 
+            [
+              -123.327, 
+              46.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2446186, 
+        "name": "Marshland", 
+        "adjacent_woeid": [
+          2380931, 
+          2427214, 
+          2477863, 
+          2523714
+        ], 
+        "ne_latitude": 46.119, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.314, 
+        "longitude": -123.321, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:28:32Z", 
+        "parent_woeid": 12589696, 
+        "latitude": 46.114, 
+        "sw_longitude": -123.327, 
+        "fullname": "Marshland, Oregon, Columbia, United States", 
+        "sw_latitude": 46.110
+      }, 
+      "id": 2446186
+    }
+  ]
+}

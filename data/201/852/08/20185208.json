@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.531, 
+              48.875
+            ], 
+            [
+              1.531, 
+              48.884
+            ], 
+            [
+              1.546, 
+              48.884
+            ], 
+            [
+              1.546, 
+              48.875
+            ], 
+            [
+              1.531, 
+              48.875
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20185208, 
+        "name": "Le Haut-Arbre", 
+        "adjacent_woeid": [
+          603626, 
+          606312, 
+          606897, 
+          609820, 
+          615356, 
+          628702
+        ], 
+        "ne_latitude": 48.884, 
+        "ne_longitude": 1.546, 
+        "longitude": 1.538, 
+        "parent_woeid": 12647357, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Haut Arbre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.880, 
+        "sw_longitude": 1.531, 
+        "fullname": "Le Haut-Arbre, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.875
+      }, 
+      "id": 20185208
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.331, 
+              44.404
+            ], 
+            [
+              -74.331, 
+              44.560
+            ], 
+            [
+              -74.142, 
+              44.560
+            ], 
+            [
+              -74.142, 
+              44.404
+            ], 
+            [
+              -74.331, 
+              44.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745017, 
+        "name": "Brighton", 
+        "adjacent_woeid": [
+          2393937, 
+          2441882, 
+          2488832, 
+          2510336, 
+          28745012
+        ], 
+        "ne_latitude": 44.560, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Brighton, Town Of"
+        ], 
+        "ne_longitude": -74.142, 
+        "longitude": -74.250, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589328, 
+        "latitude": 44.439, 
+        "sw_longitude": -74.331, 
+        "fullname": "Brighton, New York, Franklin, United States", 
+        "sw_latitude": 44.404
+      }, 
+      "id": 28745017
+    }
+  ]
+}

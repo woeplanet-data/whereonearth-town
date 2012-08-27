@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.327, 
+              28.341
+            ], 
+            [
+              -106.327, 
+              28.359
+            ], 
+            [
+              -106.306, 
+              28.359
+            ], 
+            [
+              -106.306, 
+              28.341
+            ], 
+            [
+              -106.327, 
+              28.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.359, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          119722, 
+          123769, 
+          123995, 
+          130967, 
+          145598, 
+          145599, 
+          147806, 
+          149098
+        ], 
+        "woeid": 146746, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -106.306, 
+        "longitude": -106.317, 
+        "parent_woeid": 12599842, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.350, 
+        "sw_longitude": -106.327, 
+        "fullname": "Santa Rosa, Chihuahua, Santa Isabel, Mexico", 
+        "sw_latitude": 28.341
+      }, 
+      "id": 146746
+    }
+  ]
+}

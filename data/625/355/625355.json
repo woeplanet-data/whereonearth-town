@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.610, 
+              48.638
+            ], 
+            [
+              1.610, 
+              48.658
+            ], 
+            [
+              1.641, 
+              48.658
+            ], 
+            [
+              1.641, 
+              48.638
+            ], 
+            [
+              1.610, 
+              48.638
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625355, 
+        "name": "St.-Lucien", 
+        "adjacent_woeid": [
+          585544, 
+          588475, 
+          594722, 
+          598910, 
+          600454, 
+          611668, 
+          618757, 
+          20219187
+        ], 
+        "ne_latitude": 48.658, 
+        "ne_longitude": 1.641, 
+        "longitude": 1.625, 
+        "parent_woeid": 20074803, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lucien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.649, 
+        "sw_longitude": 1.610, 
+        "fullname": "St.-Lucien, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.638
+      }, 
+      "id": 625355
+    }
+  ]
+}

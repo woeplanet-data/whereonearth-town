@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.409, 
+              44.335
+            ], 
+            [
+              0.409, 
+              44.365
+            ], 
+            [
+              0.455, 
+              44.365
+            ], 
+            [
+              0.455, 
+              44.335
+            ], 
+            [
+              0.409, 
+              44.335
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600810, 
+        "name": "Lafitte-sur-Lot", 
+        "adjacent_woeid": [
+          581309, 
+          593629, 
+          600697, 
+          601418, 
+          626837, 
+          20197474, 
+          20197562
+        ], 
+        "ne_latitude": 44.365, 
+        "ne_longitude": 0.455, 
+        "longitude": 0.431, 
+        "parent_woeid": 12646838, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Laffitte-sur-Lot"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.352, 
+        "sw_longitude": 0.409, 
+        "fullname": "Lafitte-sur-Lot, Lafitte, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.335
+      }, 
+      "id": 600810
+    }
+  ]
+}

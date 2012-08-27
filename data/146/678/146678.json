@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.910, 
+              23.941
+            ], 
+            [
+              -102.910, 
+              23.959
+            ], 
+            [
+              -102.890, 
+              23.959
+            ], 
+            [
+              -102.890, 
+              23.941
+            ], 
+            [
+              -102.910, 
+              23.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.959, 
+        "name": "Santa Rita", 
+        "adjacent_woeid": [
+          124318, 
+          124738, 
+          131414, 
+          135471, 
+          147522, 
+          148172, 
+          149157
+        ], 
+        "woeid": 146678, 
+        "alias_SPA_V": [
+          "Sta Rita"
+        ], 
+        "ne_longitude": -102.890, 
+        "longitude": -102.900, 
+        "parent_woeid": 12602042, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.950, 
+        "sw_longitude": -102.910, 
+        "fullname": "Santa Rita, Zacatecas, General Francisco R. Murguia, Mexico", 
+        "sw_latitude": 23.941
+      }, 
+      "id": 146678
+    }
+  ]
+}

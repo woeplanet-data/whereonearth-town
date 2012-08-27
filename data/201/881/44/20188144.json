@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.974, 
+              49.654
+            ], 
+            [
+              0.974, 
+              49.663
+            ], 
+            [
+              0.988, 
+              49.663
+            ], 
+            [
+              0.988, 
+              49.654
+            ], 
+            [
+              0.974, 
+              49.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20188144, 
+        "name": "St.-Victor", 
+        "adjacent_woeid": [
+          576026, 
+          579534, 
+          593997, 
+          595039, 
+          15003089
+        ], 
+        "ne_latitude": 49.663, 
+        "ne_longitude": 0.988, 
+        "longitude": 0.981, 
+        "parent_woeid": 12637056, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Victor"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.659, 
+        "sw_longitude": 0.974, 
+        "fullname": "St.-Victor, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.654
+      }, 
+      "id": 20188144
+    }
+  ]
+}

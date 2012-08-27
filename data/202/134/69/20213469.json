@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.886, 
+              48.340
+            ], 
+            [
+              6.886, 
+              48.351
+            ], 
+            [
+              6.900, 
+              48.351
+            ], 
+            [
+              6.900, 
+              48.340
+            ], 
+            [
+              6.886, 
+              48.340
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20213469, 
+        "name": "La Hollande", 
+        "adjacent_woeid": [
+          595078, 
+          600504, 
+          614476, 
+          29333479
+        ], 
+        "ne_latitude": 48.351, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.900, 
+        "longitude": 6.893, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12664125, 
+        "latitude": 48.345, 
+        "sw_longitude": 6.886, 
+        "fullname": "La Hollande, Lorraine, Vosges, France", 
+        "sw_latitude": 48.340
+      }, 
+      "id": 20213469
+    }
+  ]
+}

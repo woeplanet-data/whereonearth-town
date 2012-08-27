@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.211, 
+              51.676
+            ], 
+            [
+              13.211, 
+              51.706
+            ], 
+            [
+              13.262, 
+              51.706
+            ], 
+            [
+              13.262, 
+              51.676
+            ], 
+            [
+              13.211, 
+              51.676
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659540, 
+        "name": "Herzberg", 
+        "adjacent_woeid": [
+          634719, 
+          640280, 
+          643530, 
+          649256, 
+          650350, 
+          650699, 
+          653749, 
+          654308, 
+          661833, 
+          664117, 
+          664326, 
+          665290, 
+          673384, 
+          678812, 
+          686648, 
+          687287, 
+          692198, 
+          700400, 
+          20163277
+        ], 
+        "ne_latitude": 51.706, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.262, 
+        "longitude": 13.231, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 24547150, 
+        "latitude": 51.693, 
+        "sw_longitude": 13.211, 
+        "fullname": "Herzberg, Brandenburg, Elbe-Elster, Germany", 
+        "alias_GER_V": [
+          "Herzberg (elster)"
+        ], 
+        "sw_latitude": 51.676
+      }, 
+      "id": 659540
+    }
+  ]
+}

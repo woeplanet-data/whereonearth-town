@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.408, 
+              -29.407
+            ], 
+            [
+              -65.408, 
+              -29.393
+            ], 
+            [
+              -65.392, 
+              -29.393
+            ], 
+            [
+              -65.392, 
+              -29.407
+            ], 
+            [
+              -65.408, 
+              -29.407
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -29.393, 
+        "name": "El Cerrito", 
+        "adjacent_woeid": [
+          330440, 
+          332012, 
+          466147, 
+          468849, 
+          468905, 
+          26795676
+        ], 
+        "woeid": 468850, 
+        "alias_SPA_V": [
+          "Cerrito"
+        ], 
+        "ne_longitude": -65.392, 
+        "longitude": -65.400, 
+        "parent_woeid": 20070640, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -29.400, 
+        "sw_longitude": -65.408, 
+        "fullname": "El Cerrito, Catamarca, La Paz, Argentina", 
+        "sw_latitude": -29.407
+      }, 
+      "id": 468850
+    }
+  ]
+}

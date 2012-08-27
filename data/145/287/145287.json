@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.095, 
+              23.283
+            ], 
+            [
+              -110.095, 
+              23.301
+            ], 
+            [
+              -110.075, 
+              23.301
+            ], 
+            [
+              -110.075, 
+              23.283
+            ], 
+            [
+              -110.095, 
+              23.283
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.301, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          121272, 
+          142073, 
+          143035, 
+          145057
+        ], 
+        "woeid": 145287, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -110.075, 
+        "longitude": -110.085, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.292, 
+        "sw_longitude": -110.095, 
+        "fullname": "San Rafael, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 23.283
+      }, 
+      "id": 145287
+    }
+  ]
+}

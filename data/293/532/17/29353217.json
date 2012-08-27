@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.221, 
+              50.592
+            ], 
+            [
+              12.221, 
+              50.610
+            ], 
+            [
+              12.250, 
+              50.610
+            ], 
+            [
+              12.250, 
+              50.592
+            ], 
+            [
+              12.221, 
+              50.592
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29353217, 
+        "name": "Ziegelei", 
+        "adjacent_woeid": [
+          641360, 
+          645927, 
+          671806, 
+          687649
+        ], 
+        "ne_latitude": 50.610, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.250, 
+        "longitude": 12.235, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:50:24Z", 
+        "parent_woeid": 12636515, 
+        "latitude": 50.601, 
+        "sw_longitude": 12.221, 
+        "fullname": "Ziegelei, Saxony, Vogtlandkreis, Germany", 
+        "sw_latitude": 50.592
+      }, 
+      "id": 29353217
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.227, 
+              24.808
+            ], 
+            [
+              -99.227, 
+              24.826
+            ], 
+            [
+              -99.207, 
+              24.826
+            ], 
+            [
+              -99.207, 
+              24.808
+            ], 
+            [
+              -99.227, 
+              24.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.826, 
+        "name": "La Soledad", 
+        "adjacent_woeid": [
+          121723, 
+          122939, 
+          124307, 
+          137974, 
+          143298, 
+          146296
+        ], 
+        "woeid": 129265, 
+        "alias_SPA_V": [
+          "Soledad"
+        ], 
+        "ne_longitude": -99.207, 
+        "longitude": -99.217, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.817, 
+        "sw_longitude": -99.227, 
+        "fullname": "La Soledad, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.808
+      }, 
+      "id": 129265
+    }
+  ]
+}

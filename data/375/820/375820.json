@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.907, 
+              -1.073
+            ], 
+            [
+              -80.907, 
+              -1.054
+            ], 
+            [
+              -80.888, 
+              -1.054
+            ], 
+            [
+              -80.888, 
+              -1.073
+            ], 
+            [
+              -80.907, 
+              -1.073
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -1.054, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          375086, 
+          375741, 
+          376015, 
+          376285
+        ], 
+        "woeid": 375820, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -80.888, 
+        "longitude": -80.897, 
+        "parent_woeid": 26810449, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.064, 
+        "sw_longitude": -80.907, 
+        "fullname": "San Lorenzo, Manabi, Manta, Ecuador", 
+        "sw_latitude": -1.073
+      }, 
+      "id": 375820
+    }
+  ]
+}

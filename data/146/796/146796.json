@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.610, 
+              23.191
+            ], 
+            [
+              -100.610, 
+              23.209
+            ], 
+            [
+              -100.590, 
+              23.209
+            ], 
+            [
+              -100.590, 
+              23.191
+            ], 
+            [
+              -100.610, 
+              23.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.209, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          125768, 
+          129381, 
+          132305, 
+          133617, 
+          141619, 
+          142501, 
+          144532, 
+          146007, 
+          150544
+        ], 
+        "woeid": 146796, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -100.590, 
+        "longitude": -100.600, 
+        "parent_woeid": 12601519, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.200, 
+        "sw_longitude": -100.610, 
+        "fullname": "Santa Rosa, San Luis Potosi, Villa de Guadalupe, Mexico", 
+        "sw_latitude": 23.191
+      }, 
+      "id": 146796
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.735, 
+              48.811
+            ], 
+            [
+              6.735, 
+              48.827
+            ], 
+            [
+              6.778, 
+              48.827
+            ], 
+            [
+              6.778, 
+              48.811
+            ], 
+            [
+              6.735, 
+              48.811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608174, 
+        "name": "Lindre-Haute", 
+        "adjacent_woeid": [
+          579855, 
+          608173, 
+          630690, 
+          633124
+        ], 
+        "ne_latitude": 48.827, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.778, 
+        "longitude": 6.747, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 12665696, 
+        "latitude": 48.814, 
+        "sw_longitude": 6.735, 
+        "fullname": "Lindre-Haute, Lorraine, Moselle, France", 
+        "sw_latitude": 48.811
+      }, 
+      "id": 608174
+    }
+  ]
+}

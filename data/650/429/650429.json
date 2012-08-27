@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.887, 
+              50.098
+            ], 
+            [
+              10.887, 
+              50.107
+            ], 
+            [
+              10.901, 
+              50.107
+            ], 
+            [
+              10.901, 
+              50.098
+            ], 
+            [
+              10.887, 
+              50.098
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650429, 
+        "name": "Freiberg", 
+        "adjacent_woeid": [
+          645542, 
+          646656, 
+          648478, 
+          652826, 
+          669806, 
+          674866
+        ], 
+        "ne_latitude": 50.107, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.901, 
+        "longitude": 10.894, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12635365, 
+        "latitude": 50.103, 
+        "sw_longitude": 10.887, 
+        "fullname": "Freiberg, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.098
+      }, 
+      "id": 650429
+    }
+  ]
+}

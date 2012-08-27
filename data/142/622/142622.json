@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.217, 
+              25.866
+            ], 
+            [
+              -103.217, 
+              25.884
+            ], 
+            [
+              -103.195, 
+              25.884
+            ], 
+            [
+              -103.195, 
+              25.866
+            ], 
+            [
+              -103.217, 
+              25.866
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.884, 
+        "name": "San Francisco de la Fe", 
+        "adjacent_woeid": [
+          113341, 
+          119401, 
+          128781, 
+          129592, 
+          134840, 
+          143506, 
+          146312
+        ], 
+        "woeid": 142622, 
+        "alias_SPA_V": [
+          "S Francisco de la Fe"
+        ], 
+        "ne_longitude": -103.195, 
+        "longitude": -103.215, 
+        "parent_woeid": 12599918, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.871, 
+        "sw_longitude": -103.217, 
+        "fullname": "San Francisco de la Fe, Coahuila de Zaragoza, San Pedro, Mexico", 
+        "sw_latitude": 25.866
+      }, 
+      "id": 142622
+    }
+  ]
+}

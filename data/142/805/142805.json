@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.543, 
+              20.741
+            ], 
+            [
+              -102.543, 
+              20.759
+            ], 
+            [
+              -102.523, 
+              20.759
+            ], 
+            [
+              -102.523, 
+              20.741
+            ], 
+            [
+              -102.543, 
+              20.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.759, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          115396, 
+          121737, 
+          125744, 
+          142823, 
+          143483
+        ], 
+        "woeid": 142805, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -102.523, 
+        "longitude": -102.533, 
+        "parent_woeid": 12600201, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.750, 
+        "sw_longitude": -102.543, 
+        "fullname": "San Ignacio, Jalisco, Arandas, Mexico", 
+        "sw_latitude": 20.741
+      }, 
+      "id": 142805
+    }
+  ]
+}

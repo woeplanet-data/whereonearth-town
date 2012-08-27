@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.161, 
+              39.903
+            ], 
+            [
+              -80.161, 
+              40.010
+            ], 
+            [
+              -80.039, 
+              40.010
+            ], 
+            [
+              -80.039, 
+              39.903
+            ], 
+            [
+              -80.161, 
+              39.903
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744705, 
+        "name": "Morgan", 
+        "adjacent_woeid": [
+          2401318, 
+          28744511, 
+          28744519, 
+          28744669, 
+          28744790, 
+          28744928
+        ], 
+        "ne_latitude": 40.010, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Morgan Township"
+        ], 
+        "ne_longitude": -80.039, 
+        "longitude": -80.095, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589757, 
+        "latitude": 39.955, 
+        "sw_longitude": -80.161, 
+        "fullname": "Morgan, Pennsylvania, Greene, United States", 
+        "sw_latitude": 39.903
+      }, 
+      "id": 28744705
+    }
+  ]
+}

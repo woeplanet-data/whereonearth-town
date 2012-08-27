@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.900, 
+              19.367
+            ], 
+            [
+              -99.900, 
+              19.385
+            ], 
+            [
+              -99.881, 
+              19.385
+            ], 
+            [
+              -99.881, 
+              19.367
+            ], 
+            [
+              -99.900, 
+              19.367
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.385, 
+        "name": "Santiago del Monte", 
+        "adjacent_woeid": [
+          127540, 
+          140688, 
+          144993, 
+          146501
+        ], 
+        "woeid": 147070, 
+        "alias_SPA_V": [
+          "Santiaguito"
+        ], 
+        "ne_longitude": -99.881, 
+        "longitude": -99.890, 
+        "parent_woeid": 12600322, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.376, 
+        "sw_longitude": -99.900, 
+        "fullname": "Santiago del Monte, Mexico, Almoloya de Juarez, Mexico", 
+        "sw_latitude": 19.367
+      }, 
+      "id": 147070
+    }
+  ]
+}

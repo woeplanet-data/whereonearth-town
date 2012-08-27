@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.064, 
+              36.856
+            ], 
+            [
+              -3.064, 
+              36.904
+            ], 
+            [
+              -3.023, 
+              36.904
+            ], 
+            [
+              -3.023, 
+              36.856
+            ], 
+            [
+              -3.064, 
+              36.856
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 36.904, 
+        "name": "La Rambla", 
+        "adjacent_woeid": [
+          754282, 
+          762229, 
+          763830, 
+          773394
+        ], 
+        "woeid": 763939, 
+        "alias_SPA_V": [
+          "Barriada la Rambla"
+        ], 
+        "ne_longitude": -3.023, 
+        "longitude": -3.033, 
+        "parent_woeid": 12688651, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.883, 
+        "sw_longitude": -3.064, 
+        "fullname": "La Rambla, Andalusia, Almeria, Spain", 
+        "sw_latitude": 36.856
+      }, 
+      "id": 763939
+    }
+  ]
+}

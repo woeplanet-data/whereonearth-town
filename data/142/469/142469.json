@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.385, 
+              25.330
+            ], 
+            [
+              -97.385, 
+              25.348
+            ], 
+            [
+              -97.365, 
+              25.348
+            ], 
+            [
+              -97.365, 
+              25.330
+            ], 
+            [
+              -97.385, 
+              25.330
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.348, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          130365, 
+          142902, 
+          143414
+        ], 
+        "woeid": 142469, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -97.365, 
+        "longitude": -97.375, 
+        "parent_woeid": 12601653, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.339, 
+        "sw_longitude": -97.385, 
+        "fullname": "San Francisco, Tamaulipas, Matamoros, Mexico", 
+        "sw_latitude": 25.330
+      }, 
+      "id": 142469
+    }
+  ]
+}

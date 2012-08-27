@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.060, 
+              24.558
+            ], 
+            [
+              -102.060, 
+              24.576
+            ], 
+            [
+              -102.040, 
+              24.576
+            ], 
+            [
+              -102.040, 
+              24.558
+            ], 
+            [
+              -102.060, 
+              24.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.576, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          114643, 
+          115254, 
+          116622, 
+          119461, 
+          120577, 
+          129339, 
+          142375
+        ], 
+        "woeid": 145218, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -102.040, 
+        "longitude": -102.050, 
+        "parent_woeid": 12602057, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.567, 
+        "sw_longitude": -102.060, 
+        "fullname": "San Rafael, Zacatecas, Mazapil, Mexico", 
+        "sw_latitude": 24.558
+      }, 
+      "id": 145218
+    }
+  ]
+}

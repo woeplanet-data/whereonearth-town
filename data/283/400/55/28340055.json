@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.270, 
+              40.675
+            ], 
+            [
+              -77.270, 
+              40.748
+            ], 
+            [
+              -77.033, 
+              40.748
+            ], 
+            [
+              -77.033, 
+              40.675
+            ], 
+            [
+              -77.270, 
+              40.675
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28340055, 
+        "name": "West Perry", 
+        "adjacent_woeid": [
+          2353175, 
+          2384585, 
+          28340056, 
+          28745565, 
+          28745634
+        ], 
+        "ne_latitude": 40.748, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "West Perry Twp"
+        ], 
+        "ne_longitude": -77.033, 
+        "longitude": -77.076, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589782, 
+        "latitude": 40.704, 
+        "sw_longitude": -77.270, 
+        "fullname": "West Perry, Pennsylvania, Snyder, United States", 
+        "sw_latitude": 40.675
+      }, 
+      "id": 28340055
+    }
+  ]
+}

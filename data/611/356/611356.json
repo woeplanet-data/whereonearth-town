@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.546, 
+              47.988
+            ], 
+            [
+              5.546, 
+              47.997
+            ], 
+            [
+              5.560, 
+              47.997
+            ], 
+            [
+              5.560, 
+              47.988
+            ], 
+            [
+              5.546, 
+              47.988
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611356, 
+        "name": "Meuse", 
+        "adjacent_woeid": [
+          577645, 
+          588418, 
+          605049, 
+          610542, 
+          618156
+        ], 
+        "ne_latitude": 47.997, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.560, 
+        "longitude": 5.553, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "parent_woeid": 12637877, 
+        "latitude": 47.993, 
+        "sw_longitude": 5.546, 
+        "fullname": "Meuse, Champagne-Ardenne, Haute-Marne, France", 
+        "sw_latitude": 47.988
+      }, 
+      "id": 611356
+    }
+  ]
+}

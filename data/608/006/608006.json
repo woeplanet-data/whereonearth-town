@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.329, 
+              50.243
+            ], 
+            [
+              3.329, 
+              50.288
+            ], 
+            [
+              3.368, 
+              50.288
+            ], 
+            [
+              3.368, 
+              50.243
+            ], 
+            [
+              3.329, 
+              50.243
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608006, 
+        "name": "Lieu-St.-Amand", 
+        "adjacent_woeid": [
+          594933, 
+          614692, 
+          20217487
+        ], 
+        "ne_latitude": 50.288, 
+        "ne_longitude": 3.368, 
+        "longitude": 3.346, 
+        "parent_woeid": 12665642, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lieu-Saint-Amand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.273, 
+        "sw_longitude": 3.329, 
+        "fullname": "Lieu-St.-Amand, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.243
+      }, 
+      "id": 608006
+    }
+  ]
+}

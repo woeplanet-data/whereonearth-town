@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.543, 
+              47.525
+            ], 
+            [
+              3.543, 
+              47.555
+            ], 
+            [
+              3.567, 
+              47.555
+            ], 
+            [
+              3.567, 
+              47.525
+            ], 
+            [
+              3.543, 
+              47.525
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587726, 
+        "name": "Crain", 
+        "adjacent_woeid": [
+          587267, 
+          590897, 
+          608933, 
+          609312, 
+          29332181, 
+          29332182
+        ], 
+        "ne_latitude": 47.555, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.567, 
+        "longitude": 3.553, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12642479, 
+        "latitude": 47.530, 
+        "sw_longitude": 3.543, 
+        "fullname": "Crain, Burgundy, Yonne, France", 
+        "sw_latitude": 47.525
+      }, 
+      "id": 587726
+    }
+  ]
+}

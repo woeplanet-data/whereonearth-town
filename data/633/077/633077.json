@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.860, 
+              49.382
+            ], 
+            [
+              0.860, 
+              49.429
+            ], 
+            [
+              0.909, 
+              49.429
+            ], 
+            [
+              0.909, 
+              49.382
+            ], 
+            [
+              0.860, 
+              49.382
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 633077, 
+        "name": "Yville-sur-Seine", 
+        "adjacent_woeid": [
+          576215, 
+          578152, 
+          578213, 
+          603628, 
+          610569
+        ], 
+        "ne_latitude": 49.429, 
+        "ne_longitude": 0.909, 
+        "longitude": 0.880, 
+        "parent_woeid": 12654803, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Yville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.399, 
+        "sw_longitude": 0.860, 
+        "fullname": "Yville-sur-Seine, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.382
+      }, 
+      "id": 633077
+    }
+  ]
+}

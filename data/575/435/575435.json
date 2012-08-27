@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.857, 
+              43.358
+            ], 
+            [
+              0.857, 
+              43.390
+            ], 
+            [
+              0.920, 
+              43.390
+            ], 
+            [
+              0.920, 
+              43.358
+            ], 
+            [
+              0.857, 
+              43.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575435, 
+        "name": "Agassac", 
+        "adjacent_woeid": [
+          583238, 
+          587234, 
+          610343, 
+          610654
+        ], 
+        "ne_latitude": 43.390, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.920, 
+        "longitude": 0.889, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:49Z", 
+        "parent_woeid": 12654890, 
+        "latitude": 43.371, 
+        "sw_longitude": 0.857, 
+        "fullname": "Agassac, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.358
+      }, 
+      "id": 575435
+    }
+  ]
+}

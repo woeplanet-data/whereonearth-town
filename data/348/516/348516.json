@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.209, 
+              -32.743
+            ], 
+            [
+              -71.209, 
+              -32.730
+            ], 
+            [
+              -71.194, 
+              -32.730
+            ], 
+            [
+              -71.194, 
+              -32.743
+            ], 
+            [
+              -71.209, 
+              -32.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -32.730, 
+        "name": "Los Nogales", 
+        "adjacent_woeid": [
+          347065, 
+          347823, 
+          347831, 
+          347987, 
+          348634, 
+          349047, 
+          349850, 
+          349892, 
+          349915, 
+          349916, 
+          419934
+        ], 
+        "woeid": 348516, 
+        "alias_SPA_V": [
+          "Nogales"
+        ], 
+        "ne_longitude": -71.194, 
+        "longitude": -71.201, 
+        "parent_woeid": 26794338, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -32.737, 
+        "sw_longitude": -71.209, 
+        "fullname": "Los Nogales, Valparaiso Region, Quillota Province, Chile", 
+        "sw_latitude": -32.743
+      }, 
+      "id": 348516
+    }
+  ]
+}

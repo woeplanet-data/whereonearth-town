@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.494, 
+              50.793
+            ], 
+            [
+              20.494, 
+              50.921
+            ], 
+            [
+              20.721, 
+              50.921
+            ], 
+            [
+              20.721, 
+              50.793
+            ], 
+            [
+              20.494, 
+              50.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "POL", 
+        "woeid": 499162, 
+        "name": "Kielce", 
+        "adjacent_woeid": [
+          486442, 
+          490922, 
+          491183, 
+          492026, 
+          492471, 
+          494411, 
+          496797, 
+          497324, 
+          501550, 
+          501708, 
+          506817, 
+          507242, 
+          508177, 
+          509187, 
+          512260, 
+          518109, 
+          521712, 
+          525723, 
+          527359, 
+          528786, 
+          24939059, 
+          29397455
+        ], 
+        "ne_latitude": 50.921, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 20.721, 
+        "longitude": 20.624, 
+        "placetype": "Town", 
+        "iso": "PL", 
+        "date_indexed": "2010-12-02T12:11:24Z", 
+        "parent_woeid": 12617184, 
+        "latitude": 50.877, 
+        "sw_longitude": 20.494, 
+        "fullname": "Kielce, Swietokrzyskie, Kielce City, Poland", 
+        "sw_latitude": 50.793
+      }, 
+      "id": 499162
+    }
+  ]
+}

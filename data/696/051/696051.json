@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.356, 
+              48.055
+            ], 
+            [
+              10.356, 
+              48.080
+            ], 
+            [
+              10.382, 
+              48.080
+            ], 
+            [
+              10.382, 
+              48.055
+            ], 
+            [
+              10.356, 
+              48.055
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696051, 
+        "name": "St. Johann", 
+        "adjacent_woeid": [
+          635441, 
+          648462, 
+          661294, 
+          695863, 
+          701123
+        ], 
+        "ne_latitude": 48.080, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.382, 
+        "longitude": 10.368, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12634961, 
+        "latitude": 48.066, 
+        "sw_longitude": 10.356, 
+        "fullname": "St. Johann, Bavaria, Unterallg\u00e4u, Germany", 
+        "alias_GER_V": [
+          "St Johann"
+        ], 
+        "sw_latitude": 48.055
+      }, 
+      "id": 696051
+    }
+  ]
+}

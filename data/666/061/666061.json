@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.303, 
+              48.508
+            ], 
+            [
+              12.303, 
+              48.526
+            ], 
+            [
+              12.330, 
+              48.526
+            ], 
+            [
+              12.330, 
+              48.508
+            ], 
+            [
+              12.303, 
+              48.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666061, 
+        "name": "Kirmbach", 
+        "adjacent_woeid": [
+          655937, 
+          658928, 
+          681799, 
+          687585, 
+          20154307, 
+          20154308, 
+          20154388
+        ], 
+        "ne_latitude": 48.526, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.330, 
+        "longitude": 12.317, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12622899, 
+        "latitude": 48.517, 
+        "sw_longitude": 12.303, 
+        "fullname": "Kirmbach, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.508
+      }, 
+      "id": 666061
+    }
+  ]
+}

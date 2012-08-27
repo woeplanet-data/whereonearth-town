@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.444, 
+              43.273
+            ], 
+            [
+              3.444, 
+              43.304
+            ], 
+            [
+              3.484, 
+              43.304
+            ], 
+            [
+              3.484, 
+              43.273
+            ], 
+            [
+              3.444, 
+              43.273
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603155, 
+        "name": "Le Grau-d'Agde", 
+        "adjacent_woeid": [
+          602423, 
+          20203628
+        ], 
+        "ne_latitude": 43.304, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.484, 
+        "longitude": 3.452, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12654892, 
+        "latitude": 43.285, 
+        "sw_longitude": 3.444, 
+        "fullname": "Le Grau-d'Agde, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.273
+      }, 
+      "id": 603155
+    }
+  ]
+}

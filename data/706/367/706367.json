@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.885, 
+              49.689
+            ], 
+            [
+              10.885, 
+              49.711
+            ], 
+            [
+              10.919, 
+              49.711
+            ], 
+            [
+              10.919, 
+              49.689
+            ], 
+            [
+              10.885, 
+              49.689
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706367, 
+        "name": "Wiesendorf", 
+        "adjacent_woeid": [
+          659143, 
+          678454, 
+          708563
+        ], 
+        "ne_latitude": 49.711, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.919, 
+        "longitude": 10.901, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12634441, 
+        "latitude": 49.702, 
+        "sw_longitude": 10.885, 
+        "fullname": "Wiesendorf, Bavaria, Erlangen-H\u00f6chstadt, Germany", 
+        "sw_latitude": 49.689
+      }, 
+      "id": 706367
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.543, 
+              16.524
+            ], 
+            [
+              -93.543, 
+              16.542
+            ], 
+            [
+              -93.524, 
+              16.542
+            ], 
+            [
+              -93.524, 
+              16.524
+            ], 
+            [
+              -93.543, 
+              16.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.542, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          117617, 
+          121336, 
+          136940, 
+          140675, 
+          141744, 
+          150385
+        ], 
+        "woeid": 143791, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -93.524, 
+        "longitude": -93.533, 
+        "parent_woeid": 12599751, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.533, 
+        "sw_longitude": -93.543, 
+        "fullname": "San Juan, Chiapas, Jiquipilas, Mexico", 
+        "sw_latitude": 16.524
+      }, 
+      "id": 143791
+    }
+  ]
+}

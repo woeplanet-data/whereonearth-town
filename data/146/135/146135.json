@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.027, 
+              25.274
+            ], 
+            [
+              -107.027, 
+              25.292
+            ], 
+            [
+              -107.007, 
+              25.292
+            ], 
+            [
+              -107.007, 
+              25.274
+            ], 
+            [
+              -107.027, 
+              25.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.292, 
+        "name": "Santa Fe", 
+        "adjacent_woeid": [
+          120136, 
+          121294, 
+          128560, 
+          130219, 
+          137117, 
+          140583
+        ], 
+        "woeid": 146135, 
+        "alias_SPA_V": [
+          "Sta. Fe"
+        ], 
+        "ne_longitude": -107.007, 
+        "longitude": -107.017, 
+        "parent_woeid": 12599984, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.283, 
+        "sw_longitude": -107.027, 
+        "fullname": "Santa Fe, Durango, Tamazula, Mexico", 
+        "sw_latitude": 25.274
+      }, 
+      "id": 146135
+    }
+  ]
+}

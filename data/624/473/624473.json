@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.561, 
+              46.028
+            ], 
+            [
+              1.561, 
+              46.051
+            ], 
+            [
+              1.589, 
+              46.051
+            ], 
+            [
+              1.589, 
+              46.028
+            ], 
+            [
+              1.561, 
+              46.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624473, 
+        "name": "St.-Goussaud", 
+        "adjacent_woeid": [
+          576729, 
+          595357, 
+          601744, 
+          605481
+        ], 
+        "ne_latitude": 46.051, 
+        "ne_longitude": 1.589, 
+        "longitude": 1.577, 
+        "parent_woeid": 12663513, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Goussaud"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.040, 
+        "sw_longitude": 1.561, 
+        "fullname": "St.-Goussaud, Limousin, Creuse, France", 
+        "sw_latitude": 46.028
+      }, 
+      "id": 624473
+    }
+  ]
+}

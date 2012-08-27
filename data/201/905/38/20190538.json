@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.104, 
+              45.824
+            ], 
+            [
+              1.104, 
+              45.833
+            ], 
+            [
+              1.117, 
+              45.833
+            ], 
+            [
+              1.117, 
+              45.824
+            ], 
+            [
+              1.104, 
+              45.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20190538, 
+        "name": "Chez-Roger", 
+        "adjacent_woeid": [
+          626598, 
+          627334, 
+          29332230
+        ], 
+        "ne_latitude": 45.833, 
+        "ne_longitude": 1.117, 
+        "longitude": 1.111, 
+        "parent_woeid": 12665137, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chez Roger"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.829, 
+        "sw_longitude": 1.104, 
+        "fullname": "Chez-Roger, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.824
+      }, 
+      "id": 20190538
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.526, 
+              21.374
+            ], 
+            [
+              -98.526, 
+              21.392
+            ], 
+            [
+              -98.507, 
+              21.392
+            ], 
+            [
+              -98.507, 
+              21.374
+            ], 
+            [
+              -98.526, 
+              21.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.392, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          119462, 
+          130789, 
+          134462, 
+          144116
+        ], 
+        "woeid": 144968, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -98.507, 
+        "longitude": -98.517, 
+        "parent_woeid": 12601499, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.383, 
+        "sw_longitude": -98.526, 
+        "fullname": "San Pedro, San Luis Potosi, San Martin Chalchicuautla, Mexico", 
+        "sw_latitude": 21.374
+      }, 
+      "id": 144968
+    }
+  ]
+}

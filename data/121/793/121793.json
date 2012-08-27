@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.760, 
+              27.941
+            ], 
+            [
+              -107.760, 
+              27.959
+            ], 
+            [
+              -107.740, 
+              27.959
+            ], 
+            [
+              -107.740, 
+              27.941
+            ], 
+            [
+              -107.760, 
+              27.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.959, 
+        "name": "El Ranchito", 
+        "adjacent_woeid": [
+          113223, 
+          116164, 
+          127906, 
+          130110, 
+          146644
+        ], 
+        "woeid": 121793, 
+        "alias_SPA_V": [
+          "Rancho El Ranchito"
+        ], 
+        "ne_longitude": -107.740, 
+        "longitude": -107.750, 
+        "parent_woeid": 12599827, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.950, 
+        "sw_longitude": -107.760, 
+        "fullname": "El Ranchito, Chihuahua, Bocoyna, Mexico", 
+        "sw_latitude": 27.941
+      }, 
+      "id": 121793
+    }
+  ]
+}

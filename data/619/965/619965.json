@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.569, 
+              43.693
+            ], 
+            [
+              0.569, 
+              43.730
+            ], 
+            [
+              0.600, 
+              43.730
+            ], 
+            [
+              0.600, 
+              43.693
+            ], 
+            [
+              0.569, 
+              43.693
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619965, 
+        "name": "Roquelaure", 
+        "adjacent_woeid": [
+          583332, 
+          616428, 
+          619957, 
+          627426
+        ], 
+        "ne_latitude": 43.730, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.600, 
+        "longitude": 0.577, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12655413, 
+        "latitude": 43.720, 
+        "sw_longitude": 0.569, 
+        "fullname": "Roquelaure, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.693
+      }, 
+      "id": 619965
+    }
+  ]
+}

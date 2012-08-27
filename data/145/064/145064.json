@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.193, 
+              19.383
+            ], 
+            [
+              -99.193, 
+              19.401
+            ], 
+            [
+              -99.173, 
+              19.401
+            ], 
+            [
+              -99.173, 
+              19.383
+            ], 
+            [
+              -99.193, 
+              19.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.401, 
+        "name": "San Pedro de Los Pinos", 
+        "adjacent_woeid": [
+          123474, 
+          126024, 
+          129984, 
+          133321, 
+          133926, 
+          133927, 
+          135252
+        ], 
+        "woeid": 145064, 
+        "alias_SPA_V": [
+          "S Pedro de Los Pinos"
+        ], 
+        "ne_longitude": -99.173, 
+        "longitude": -99.183, 
+        "parent_woeid": 12599936, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.392, 
+        "sw_longitude": -99.193, 
+        "fullname": "San Pedro de Los Pinos, Distrito Federal, Benito Juarez, Mexico", 
+        "sw_latitude": 19.383
+      }, 
+      "id": 145064
+    }
+  ]
+}

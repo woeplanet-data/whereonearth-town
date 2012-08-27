@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.443, 
+              17.124
+            ], 
+            [
+              -100.443, 
+              17.142
+            ], 
+            [
+              -100.424, 
+              17.142
+            ], 
+            [
+              -100.424, 
+              17.124
+            ], 
+            [
+              -100.443, 
+              17.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.142, 
+        "name": "El Tomatal", 
+        "adjacent_woeid": [
+          111803, 
+          114030, 
+          143123, 
+          151532
+        ], 
+        "woeid": 122774, 
+        "alias_SPA_V": [
+          "Tomatal"
+        ], 
+        "ne_longitude": -100.424, 
+        "longitude": -100.433, 
+        "parent_woeid": 12600048, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.133, 
+        "sw_longitude": -100.443, 
+        "fullname": "El Tomatal, Guerrero, Benito Juarez, Mexico", 
+        "sw_latitude": 17.124
+      }, 
+      "id": 122774
+    }
+  ]
+}

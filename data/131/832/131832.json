@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.126, 
+              18.508
+            ], 
+            [
+              -99.126, 
+              18.526
+            ], 
+            [
+              -99.107, 
+              18.526
+            ], 
+            [
+              -99.107, 
+              18.508
+            ], 
+            [
+              -99.126, 
+              18.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.526, 
+        "name": "Los Elotes", 
+        "adjacent_woeid": [
+          116032, 
+          116128, 
+          135906, 
+          138069, 
+          144884, 
+          149388, 
+          149659
+        ], 
+        "woeid": 131832, 
+        "alias_SPA_V": [
+          "Ejotes"
+        ], 
+        "ne_longitude": -99.107, 
+        "longitude": -99.117, 
+        "parent_woeid": 12600578, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.517, 
+        "sw_longitude": -99.126, 
+        "fullname": "Los Elotes, Morelos, Tlaquiltenango, Mexico", 
+        "sw_latitude": 18.508
+      }, 
+      "id": 131832
+    }
+  ]
+}

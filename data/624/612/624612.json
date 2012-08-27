@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.908, 
+              45.908
+            ], 
+            [
+              -0.908, 
+              45.933
+            ], 
+            [
+              -0.879, 
+              45.933
+            ], 
+            [
+              -0.879, 
+              45.908
+            ], 
+            [
+              -0.908, 
+              45.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624612, 
+        "name": "St.-Hippolyte", 
+        "adjacent_woeid": [
+          582570, 
+          589411, 
+          600282, 
+          629411, 
+          20199461, 
+          20199466
+        ], 
+        "ne_latitude": 45.933, 
+        "ne_longitude": -0.879, 
+        "longitude": -0.894, 
+        "parent_woeid": 12670567, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hippolyte"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.919, 
+        "sw_longitude": -0.908, 
+        "fullname": "St.-Hippolyte, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.908
+      }, 
+      "id": 624612
+    }
+  ]
+}

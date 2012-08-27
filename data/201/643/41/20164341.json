@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.377, 
+              53.963
+            ], 
+            [
+              10.377, 
+              53.982
+            ], 
+            [
+              10.395, 
+              53.982
+            ], 
+            [
+              10.395, 
+              53.963
+            ], 
+            [
+              10.377, 
+              53.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20164341, 
+        "name": "Wardersee", 
+        "adjacent_woeid": [
+          673810, 
+          703957, 
+          20164400, 
+          29349466
+        ], 
+        "ne_latitude": 53.982, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.395, 
+        "longitude": 10.386, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:52Z", 
+        "parent_woeid": 12631719, 
+        "latitude": 53.973, 
+        "sw_longitude": 10.377, 
+        "fullname": "Wardersee, Schleswig-Holstein, Segeberg, Germany", 
+        "sw_latitude": 53.963
+      }, 
+      "id": 20164341
+    }
+  ]
+}

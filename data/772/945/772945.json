@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.442, 
+              42.371
+            ], 
+            [
+              -3.442, 
+              42.380
+            ], 
+            [
+              -3.430, 
+              42.380
+            ], 
+            [
+              -3.430, 
+              42.371
+            ], 
+            [
+              -3.442, 
+              42.371
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.380, 
+        "name": "San Juan de Ortega", 
+        "adjacent_woeid": [
+          753049, 
+          761265, 
+          762209, 
+          771244, 
+          774124, 
+          777994
+        ], 
+        "woeid": 772945, 
+        "alias_SPA_V": [
+          "S Juan de Ortega"
+        ], 
+        "ne_longitude": -3.430, 
+        "longitude": -3.436, 
+        "parent_woeid": 12691410, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.376, 
+        "sw_longitude": -3.442, 
+        "fullname": "San Juan de Ortega, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.371
+      }, 
+      "id": 772945
+    }
+  ]
+}

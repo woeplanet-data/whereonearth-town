@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.507, 
+              45.126
+            ], 
+            [
+              0.507, 
+              45.166
+            ], 
+            [
+              0.546, 
+              45.166
+            ], 
+            [
+              0.546, 
+              45.126
+            ], 
+            [
+              0.507, 
+              45.126
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623040, 
+        "name": "St.-Astier", 
+        "adjacent_woeid": [
+          584498, 
+          593670, 
+          593787, 
+          605092, 
+          610228, 
+          612269, 
+          613033, 
+          614147, 
+          619354, 
+          623017, 
+          624324, 
+          625258, 
+          628742, 
+          630722, 
+          631418
+        ], 
+        "ne_latitude": 45.166, 
+        "ne_longitude": 0.546, 
+        "longitude": 0.530, 
+        "parent_woeid": 12642583, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Astier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.146, 
+        "sw_longitude": 0.507, 
+        "fullname": "St.-Astier, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.126
+      }, 
+      "id": 623040
+    }
+  ]
+}

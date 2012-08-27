@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.013, 
+              50.453
+            ], 
+            [
+              8.013, 
+              50.489
+            ], 
+            [
+              8.050, 
+              50.489
+            ], 
+            [
+              8.050, 
+              50.453
+            ], 
+            [
+              8.013, 
+              50.453
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680013, 
+        "name": "Niederzeuzheim", 
+        "adjacent_woeid": [
+          638448, 
+          659756, 
+          675884, 
+          682691
+        ], 
+        "ne_latitude": 50.489, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.050, 
+        "longitude": 8.037, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12632686, 
+        "latitude": 50.470, 
+        "sw_longitude": 8.013, 
+        "fullname": "Niederzeuzheim, Hesse, Limburg-Weilburg, Germany", 
+        "sw_latitude": 50.453
+      }, 
+      "id": 680013
+    }
+  ]
+}

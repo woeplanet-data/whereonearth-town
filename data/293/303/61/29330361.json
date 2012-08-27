@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.678, 
+              45.815
+            ], 
+            [
+              5.678, 
+              45.834
+            ], 
+            [
+              5.704, 
+              45.834
+            ], 
+            [
+              5.704, 
+              45.815
+            ], 
+            [
+              5.678, 
+              45.815
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330361, 
+        "name": "Mornieu", 
+        "adjacent_woeid": [
+          588337, 
+          632594, 
+          20207828, 
+          29330360
+        ], 
+        "ne_latitude": 45.834, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.704, 
+        "longitude": 5.691, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 12658759, 
+        "latitude": 45.824, 
+        "sw_longitude": 5.678, 
+        "fullname": "Mornieu, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 45.815
+      }, 
+      "id": 29330361
+    }
+  ]
+}

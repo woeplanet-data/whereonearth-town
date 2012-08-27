@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.111, 
+              48.338
+            ], 
+            [
+              11.111, 
+              48.360
+            ], 
+            [
+              11.136, 
+              48.360
+            ], 
+            [
+              11.136, 
+              48.338
+            ], 
+            [
+              11.111, 
+              48.338
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 642509, 
+        "name": "Burgadelzhausen", 
+        "adjacent_woeid": [
+          641679, 
+          650462, 
+          659246, 
+          699924, 
+          20173057
+        ], 
+        "ne_latitude": 48.360, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.136, 
+        "longitude": 11.122, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12634726, 
+        "latitude": 48.347, 
+        "sw_longitude": 11.111, 
+        "fullname": "Burgadelzhausen, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.338
+      }, 
+      "id": 642509
+    }
+  ]
+}

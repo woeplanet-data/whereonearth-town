@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.309, 
+              24.371
+            ], 
+            [
+              -107.309, 
+              24.389
+            ], 
+            [
+              -107.289, 
+              24.389
+            ], 
+            [
+              -107.289, 
+              24.371
+            ], 
+            [
+              -107.309, 
+              24.371
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.389, 
+        "name": "El Camalote", 
+        "adjacent_woeid": [
+          117131, 
+          120833, 
+          127093, 
+          128084, 
+          142188, 
+          56074914
+        ], 
+        "woeid": 119365, 
+        "alias_SPA_V": [
+          "Camalote"
+        ], 
+        "ne_longitude": -107.289, 
+        "longitude": -107.299, 
+        "parent_woeid": 12601533, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.380, 
+        "sw_longitude": -107.309, 
+        "fullname": "El Camalote, Sinaloa, Culiacan, Mexico", 
+        "sw_latitude": 24.371
+      }, 
+      "id": 119365
+    }
+  ]
+}

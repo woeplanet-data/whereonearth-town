@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.454, 
+              48.792
+            ], 
+            [
+              -1.454, 
+              48.810
+            ], 
+            [
+              -1.427, 
+              48.810
+            ], 
+            [
+              -1.427, 
+              48.792
+            ], 
+            [
+              -1.454, 
+              48.792
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627166, 
+        "name": "St.-Ursin", 
+        "adjacent_woeid": [
+          596898, 
+          598920, 
+          603592, 
+          624801, 
+          625196
+        ], 
+        "ne_latitude": 48.810, 
+        "ne_longitude": -1.427, 
+        "longitude": -1.440, 
+        "parent_woeid": 12652673, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ursin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.801, 
+        "sw_longitude": -1.454, 
+        "fullname": "St.-Ursin, Basse-Normandie, Manche, France", 
+        "sw_latitude": 48.792
+      }, 
+      "id": 627166
+    }
+  ]
+}

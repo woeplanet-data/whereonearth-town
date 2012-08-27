@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.029, 
+              47.931
+            ], 
+            [
+              0.029, 
+              47.979
+            ], 
+            [
+              0.068, 
+              47.979
+            ], 
+            [
+              0.068, 
+              47.931
+            ], 
+            [
+              0.029, 
+              47.931
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608764, 
+        "name": "Louplande", 
+        "adjacent_woeid": [
+          585496, 
+          590283, 
+          619751, 
+          622581, 
+          632586
+        ], 
+        "ne_latitude": 47.979, 
+        "ne_longitude": 0.068, 
+        "longitude": 0.046, 
+        "parent_woeid": 12665857, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Louplandes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.944, 
+        "sw_longitude": 0.029, 
+        "fullname": "Louplande, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 47.931
+      }, 
+      "id": 608764
+    }
+  ]
+}

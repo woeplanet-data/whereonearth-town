@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.501, 
+              50.123
+            ], 
+            [
+              1.501, 
+              50.152
+            ], 
+            [
+              1.536, 
+              50.152
+            ], 
+            [
+              1.536, 
+              50.123
+            ], 
+            [
+              1.501, 
+              50.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 582225, 
+        "name": "Brutelles", 
+        "adjacent_woeid": [
+          581327, 
+          594487, 
+          595086, 
+          601106, 
+          630250
+        ], 
+        "ne_latitude": 50.152, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.536, 
+        "longitude": 1.524, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12657982, 
+        "latitude": 50.141, 
+        "sw_longitude": 1.501, 
+        "fullname": "Brutelles, Picardie, Somme, France", 
+        "sw_latitude": 50.123
+      }, 
+      "id": 582225
+    }
+  ]
+}

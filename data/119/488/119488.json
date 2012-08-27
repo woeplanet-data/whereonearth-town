@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.577, 
+              23.341
+            ], 
+            [
+              -100.577, 
+              23.359
+            ], 
+            [
+              -100.557, 
+              23.359
+            ], 
+            [
+              -100.557, 
+              23.341
+            ], 
+            [
+              -100.577, 
+              23.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.359, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          128895, 
+          132305, 
+          136256, 
+          137841, 
+          141619, 
+          144532, 
+          146007
+        ], 
+        "woeid": 119488, 
+        "alias_SPA_V": [
+          "Carmen"
+        ], 
+        "ne_longitude": -100.557, 
+        "longitude": -100.567, 
+        "parent_woeid": 12601489, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.350, 
+        "sw_longitude": -100.577, 
+        "fullname": "El Carmen, San Luis Potosi, Matehuala, Mexico", 
+        "sw_latitude": 23.341
+      }, 
+      "id": 119488
+    }
+  ]
+}

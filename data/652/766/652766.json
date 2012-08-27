@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.195, 
+              49.565
+            ], 
+            [
+              12.195, 
+              49.582
+            ], 
+            [
+              12.215, 
+              49.582
+            ], 
+            [
+              12.215, 
+              49.565
+            ], 
+            [
+              12.195, 
+              49.565
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652766, 
+        "name": "Glaubendorf", 
+        "adjacent_woeid": [
+          668439, 
+          687026, 
+          693641, 
+          707951
+        ], 
+        "ne_latitude": 49.582, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.215, 
+        "longitude": 12.205, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12634312, 
+        "latitude": 49.575, 
+        "sw_longitude": 12.195, 
+        "fullname": "Glaubendorf, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.565
+      }, 
+      "id": 652766
+    }
+  ]
+}

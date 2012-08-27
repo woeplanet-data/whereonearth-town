@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.990, 
+              48.572
+            ], 
+            [
+              10.990, 
+              48.600
+            ], 
+            [
+              11.024, 
+              48.600
+            ], 
+            [
+              11.024, 
+              48.572
+            ], 
+            [
+              10.990, 
+              48.572
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706358, 
+        "name": "Wiesenbach", 
+        "adjacent_woeid": [
+          646184, 
+          646346, 
+          669410, 
+          670772, 
+          697984
+        ], 
+        "ne_latitude": 48.600, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.024, 
+        "longitude": 11.006, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12634742, 
+        "latitude": 48.586, 
+        "sw_longitude": 10.990, 
+        "fullname": "Wiesenbach, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.572
+      }, 
+      "id": 706358
+    }
+  ]
+}

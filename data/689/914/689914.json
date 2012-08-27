@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.801, 
+              50.170
+            ], 
+            [
+              10.801, 
+              50.203
+            ], 
+            [
+              10.828, 
+              50.203
+            ], 
+            [
+              10.828, 
+              50.170
+            ], 
+            [
+              10.801, 
+              50.170
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689914, 
+        "name": "Rothenberg", 
+        "adjacent_woeid": [
+          639258, 
+          657834, 
+          658512, 
+          681098, 
+          700892
+        ], 
+        "ne_latitude": 50.203, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.828, 
+        "longitude": 10.813, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12635296, 
+        "latitude": 50.184, 
+        "sw_longitude": 10.801, 
+        "fullname": "Rothenberg, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.170
+      }, 
+      "id": 689914
+    }
+  ]
+}

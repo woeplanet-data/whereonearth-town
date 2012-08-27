@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.603, 
+              49.848
+            ], 
+            [
+              11.603, 
+              49.868
+            ], 
+            [
+              11.620, 
+              49.868
+            ], 
+            [
+              11.620, 
+              49.848
+            ], 
+            [
+              11.603, 
+              49.848
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639801, 
+        "name": "Boden", 
+        "adjacent_woeid": [
+          653620, 
+          667227, 
+          670397, 
+          695582
+        ], 
+        "ne_latitude": 49.868, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.620, 
+        "longitude": 11.614, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12635285, 
+        "latitude": 49.858, 
+        "sw_longitude": 11.603, 
+        "fullname": "Boden, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 49.848
+      }, 
+      "id": 639801
+    }
+  ]
+}

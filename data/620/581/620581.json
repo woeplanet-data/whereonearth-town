@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.326, 
+              43.383
+            ], 
+            [
+              0.326, 
+              43.411
+            ], 
+            [
+              0.371, 
+              43.411
+            ], 
+            [
+              0.371, 
+              43.383
+            ], 
+            [
+              0.326, 
+              43.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620581, 
+        "name": "Sadeillan", 
+        "adjacent_woeid": [
+          583312, 
+          612113, 
+          621058, 
+          627492
+        ], 
+        "ne_latitude": 43.411, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.371, 
+        "longitude": 0.345, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12669310, 
+        "latitude": 43.393, 
+        "sw_longitude": 0.326, 
+        "fullname": "Sadeillan, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.383
+      }, 
+      "id": 620581
+    }
+  ]
+}

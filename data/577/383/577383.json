@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.800, 
+              48.828
+            ], 
+            [
+              1.800, 
+              48.853
+            ], 
+            [
+              1.836, 
+              48.853
+            ], 
+            [
+              1.836, 
+              48.828
+            ], 
+            [
+              1.800, 
+              48.828
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 577383, 
+        "name": "Auteuil", 
+        "adjacent_woeid": [
+          577420, 
+          580533, 
+          609906, 
+          621217, 
+          631126, 
+          20219183
+        ], 
+        "ne_latitude": 48.853, 
+        "ne_longitude": 1.836, 
+        "longitude": 1.819, 
+        "parent_woeid": 12637745, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Auteuil-le-Roi"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.841, 
+        "sw_longitude": 1.800, 
+        "fullname": "Auteuil, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.828
+      }, 
+      "id": 577383
+    }
+  ]
+}

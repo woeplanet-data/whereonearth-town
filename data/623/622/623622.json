@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.032, 
+              49.080
+            ], 
+            [
+              0.032, 
+              49.099
+            ], 
+            [
+              0.060, 
+              49.099
+            ], 
+            [
+              0.060, 
+              49.080
+            ], 
+            [
+              0.032, 
+              49.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623622, 
+        "name": "St.-Crespin", 
+        "adjacent_woeid": [
+          593535, 
+          603612, 
+          605035, 
+          605327, 
+          612510, 
+          627643
+        ], 
+        "ne_latitude": 49.099, 
+        "ne_longitude": 0.060, 
+        "longitude": 0.046, 
+        "parent_woeid": 12643163, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Crespin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.090, 
+        "sw_longitude": 0.032, 
+        "fullname": "St.-Crespin, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.080
+      }, 
+      "id": 623622
+    }
+  ]
+}

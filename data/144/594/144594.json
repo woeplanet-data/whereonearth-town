@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -113.959, 
+              28.575
+            ], 
+            [
+              -113.959, 
+              28.593
+            ], 
+            [
+              -113.938, 
+              28.593
+            ], 
+            [
+              -113.938, 
+              28.575
+            ], 
+            [
+              -113.959, 
+              28.575
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.593, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          112923, 
+          117121, 
+          130750, 
+          140971, 
+          141442, 
+          147210
+        ], 
+        "woeid": 144594, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -113.938, 
+        "longitude": -113.949, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.584, 
+        "sw_longitude": -113.959, 
+        "fullname": "San Miguel, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 28.575
+      }, 
+      "id": 144594
+    }
+  ]
+}

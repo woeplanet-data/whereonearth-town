@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.343, 
+              51.366
+            ], 
+            [
+              10.343, 
+              51.404
+            ], 
+            [
+              10.375, 
+              51.404
+            ], 
+            [
+              10.375, 
+              51.366
+            ], 
+            [
+              10.343, 
+              51.366
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641072, 
+        "name": "Breitenholz", 
+        "adjacent_woeid": [
+          640997, 
+          652293, 
+          658041, 
+          666053
+        ], 
+        "ne_latitude": 51.404, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.375, 
+        "longitude": 10.358, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 28350213, 
+        "latitude": 51.385, 
+        "sw_longitude": 10.343, 
+        "fullname": "Breitenholz, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.366
+      }, 
+      "id": 641072
+    }
+  ]
+}

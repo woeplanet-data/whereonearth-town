@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.142, 
+              55.334
+            ], 
+            [
+              10.142, 
+              55.354
+            ], 
+            [
+              10.177, 
+              55.354
+            ], 
+            [
+              10.177, 
+              55.334
+            ], 
+            [
+              10.142, 
+              55.334
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555258, 
+        "name": "Lilleskov", 
+        "adjacent_woeid": [
+          556976, 
+          557154, 
+          558105, 
+          29306251
+        ], 
+        "ne_latitude": 55.354, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.177, 
+        "longitude": 10.159, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:02Z", 
+        "parent_woeid": 12582667, 
+        "latitude": 55.344, 
+        "sw_longitude": 10.142, 
+        "fullname": "Lilleskov, Syddanmark, Assens, Denmark", 
+        "sw_latitude": 55.334
+      }, 
+      "id": 555258
+    }
+  ]
+}

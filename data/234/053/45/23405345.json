@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.628, 
+              48.645
+            ], 
+            [
+              -123.628, 
+              48.663
+            ], 
+            [
+              -123.601, 
+              48.663
+            ], 
+            [
+              -123.601, 
+              48.645
+            ], 
+            [
+              -123.628, 
+              48.645
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23405345, 
+        "name": "Shawnigan Lake", 
+        "adjacent_woeid": [
+          9178, 
+          9842, 
+          9847, 
+          9849, 
+          23405104, 
+          29373085, 
+          29373953, 
+          56121027
+        ], 
+        "ne_latitude": 48.663, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.601, 
+        "longitude": -123.615, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "parent_woeid": 29375119, 
+        "latitude": 48.654, 
+        "sw_longitude": -123.628, 
+        "fullname": "Shawnigan Lake, British Columbia, Cowichan Valley, Canada", 
+        "sw_latitude": 48.645
+      }, 
+      "id": 23405345
+    }
+  ]
+}

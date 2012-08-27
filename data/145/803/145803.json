@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.477, 
+              22.058
+            ], 
+            [
+              -100.477, 
+              22.076
+            ], 
+            [
+              -100.457, 
+              22.076
+            ], 
+            [
+              -100.457, 
+              22.058
+            ], 
+            [
+              -100.477, 
+              22.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.076, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          111977, 
+          113771, 
+          129808, 
+          135082, 
+          144375, 
+          146074
+        ], 
+        "woeid": 145803, 
+        "alias_SPA_V": [
+          "Sta. Catarina"
+        ], 
+        "ne_longitude": -100.457, 
+        "longitude": -100.467, 
+        "parent_woeid": 12601500, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.067, 
+        "sw_longitude": -100.477, 
+        "fullname": "Santa Catarina, San Luis Potosi, San Nicolas Tolentino, Mexico", 
+        "sw_latitude": 22.058
+      }, 
+      "id": 145803
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.396, 
+              52.755
+            ], 
+            [
+              13.396, 
+              52.773
+            ], 
+            [
+              13.426, 
+              52.773
+            ], 
+            [
+              13.426, 
+              52.755
+            ], 
+            [
+              13.396, 
+              52.755
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29352394, 
+        "name": "Siedlung West", 
+        "adjacent_woeid": [
+          697544, 
+          705390, 
+          708584, 
+          22527834, 
+          29352328
+        ], 
+        "ne_latitude": 52.773, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.426, 
+        "longitude": 13.411, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:59Z", 
+        "parent_woeid": 12632921, 
+        "latitude": 52.764, 
+        "sw_longitude": 13.396, 
+        "fullname": "Siedlung West, Brandenburg, Barnim, Germany", 
+        "sw_latitude": 52.755
+      }, 
+      "id": 29352394
+    }
+  ]
+}

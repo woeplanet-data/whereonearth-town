@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.687, 
+              45.296
+            ], 
+            [
+              -73.687, 
+              45.305
+            ], 
+            [
+              -73.674, 
+              45.305
+            ], 
+            [
+              -73.674, 
+              45.296
+            ], 
+            [
+              -73.687, 
+              45.296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396559, 
+        "name": "St.-Isidore", 
+        "adjacent_woeid": [
+          3561, 
+          23394593, 
+          29374868
+        ], 
+        "ne_latitude": 45.305, 
+        "ne_longitude": -73.674, 
+        "longitude": -73.681, 
+        "parent_woeid": 29375054, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Isidore"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.300, 
+        "sw_longitude": -73.687, 
+        "fullname": "St.-Isidore, Quebec, Roussillon, Canada", 
+        "sw_latitude": 45.296
+      }, 
+      "id": 23396559
+    }
+  ]
+}

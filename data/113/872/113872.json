@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.744, 
+              28.191
+            ], 
+            [
+              -106.744, 
+              28.209
+            ], 
+            [
+              -106.723, 
+              28.209
+            ], 
+            [
+              -106.723, 
+              28.191
+            ], 
+            [
+              -106.744, 
+              28.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.209, 
+        "name": "Buenos Aires", 
+        "adjacent_woeid": [
+          121584, 
+          127835, 
+          140476, 
+          150472
+        ], 
+        "woeid": 113872, 
+        "alias_SPA_V": [
+          "Rancho Buenos Aires"
+        ], 
+        "ne_longitude": -106.723, 
+        "longitude": -106.733, 
+        "parent_woeid": 12599837, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.200, 
+        "sw_longitude": -106.744, 
+        "fullname": "Buenos Aires, Chihuahua, Cusihuiriachi, Mexico", 
+        "sw_latitude": 28.191
+      }, 
+      "id": 113872
+    }
+  ]
+}

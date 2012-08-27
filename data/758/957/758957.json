@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.881, 
+              41.402
+            ], 
+            [
+              1.881, 
+              41.425
+            ], 
+            [
+              1.914, 
+              41.425
+            ], 
+            [
+              1.914, 
+              41.402
+            ], 
+            [
+              1.881, 
+              41.402
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.425, 
+        "name": "El Amunt", 
+        "adjacent_woeid": [
+          20221977, 
+          23414185, 
+          29369769, 
+          29370255
+        ], 
+        "woeid": 758957, 
+        "alias_SPA_V": [
+          "L'amunt"
+        ], 
+        "ne_longitude": 1.914, 
+        "longitude": 1.905, 
+        "parent_woeid": 12693451, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Caserio El Amunt"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.416, 
+        "sw_longitude": 1.881, 
+        "fullname": "El Amunt, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.402
+      }, 
+      "id": 758957
+    }
+  ]
+}

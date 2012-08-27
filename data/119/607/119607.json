@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.343, 
+              23.174
+            ], 
+            [
+              -106.343, 
+              23.192
+            ], 
+            [
+              -106.323, 
+              23.192
+            ], 
+            [
+              -106.323, 
+              23.174
+            ], 
+            [
+              -106.343, 
+              23.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.192, 
+        "name": "El Castillo", 
+        "adjacent_woeid": [
+          113202, 
+          119145, 
+          121708, 
+          121743, 
+          122130, 
+          122936, 
+          56075156
+        ], 
+        "woeid": 119607, 
+        "alias_SPA_V": [
+          "Castillo"
+        ], 
+        "ne_longitude": -106.323, 
+        "longitude": -106.333, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.183, 
+        "sw_longitude": -106.343, 
+        "fullname": "El Castillo, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.174
+      }, 
+      "id": 119607
+    }
+  ]
+}

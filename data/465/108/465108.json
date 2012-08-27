@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.668, 
+              -35.012
+            ], 
+            [
+              -67.668, 
+              -34.994
+            ], 
+            [
+              -67.646, 
+              -34.994
+            ], 
+            [
+              -67.646, 
+              -35.012
+            ], 
+            [
+              -67.668, 
+              -35.012
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -34.994, 
+        "name": "Colonia Alvear", 
+        "adjacent_woeid": [
+          330904, 
+          330984, 
+          465474, 
+          467422, 
+          467725, 
+          26795939
+        ], 
+        "woeid": 465108, 
+        "alias_SPA_V": [
+          "Colonia Alvear Oeste"
+        ], 
+        "ne_longitude": -67.646, 
+        "longitude": -67.657, 
+        "parent_woeid": 20071014, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -35.003, 
+        "sw_longitude": -67.668, 
+        "fullname": "Colonia Alvear, Mendoza, General Alvear, Argentina", 
+        "sw_latitude": -35.012
+      }, 
+      "id": 465108
+    }
+  ]
+}

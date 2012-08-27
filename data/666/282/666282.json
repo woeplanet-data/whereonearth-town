@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.640, 
+              52.088
+            ], 
+            [
+              10.640, 
+              52.122
+            ], 
+            [
+              10.673, 
+              52.122
+            ], 
+            [
+              10.673, 
+              52.088
+            ], 
+            [
+              10.640, 
+              52.088
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666282, 
+        "name": "Klein Biewende", 
+        "adjacent_woeid": [
+          654411, 
+          664588, 
+          699521
+        ], 
+        "ne_latitude": 52.122, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.673, 
+        "longitude": 10.657, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630450, 
+        "latitude": 52.103, 
+        "sw_longitude": 10.640, 
+        "fullname": "Klein Biewende, Lower Saxony, Landkreis Wolfenb\u00fcttel, Germany", 
+        "sw_latitude": 52.088
+      }, 
+      "id": 666282
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.686, 
+              49.519
+            ], 
+            [
+              2.686, 
+              49.528
+            ], 
+            [
+              2.700, 
+              49.528
+            ], 
+            [
+              2.700, 
+              49.519
+            ], 
+            [
+              2.686, 
+              49.519
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218557, 
+        "name": "St.-Maur", 
+        "adjacent_woeid": [
+          588326, 
+          593272, 
+          601639
+        ], 
+        "ne_latitude": 49.528, 
+        "ne_longitude": 2.700, 
+        "longitude": 2.693, 
+        "parent_woeid": 22756368, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.523, 
+        "sw_longitude": 2.686, 
+        "fullname": "St.-Maur, Picardie, Oise, France", 
+        "sw_latitude": 49.519
+      }, 
+      "id": 20218557
+    }
+  ]
+}

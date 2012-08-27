@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.053, 
+              44.525
+            ], 
+            [
+              1.053, 
+              44.562
+            ], 
+            [
+              1.090, 
+              44.562
+            ], 
+            [
+              1.090, 
+              44.525
+            ], 
+            [
+              1.053, 
+              44.525
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612405, 
+        "name": "Montcabrier", 
+        "adjacent_woeid": [
+          583187, 
+          589294, 
+          608693, 
+          621321, 
+          625746
+        ], 
+        "ne_latitude": 44.562, 
+        "ne_longitude": 1.090, 
+        "longitude": 1.075, 
+        "parent_woeid": 12658113, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Moncabrier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.541, 
+        "sw_longitude": 1.053, 
+        "fullname": "Montcabrier, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.525
+      }, 
+      "id": 612405
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.354, 
+              41.903
+            ], 
+            [
+              -77.354, 
+              41.963
+            ], 
+            [
+              -77.181, 
+              41.963
+            ], 
+            [
+              -77.181, 
+              41.903
+            ], 
+            [
+              -77.354, 
+              41.903
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744880, 
+        "name": "Farmington", 
+        "adjacent_woeid": [
+          2387449, 
+          2440258, 
+          2493159, 
+          28340180, 
+          28744564, 
+          28744868
+        ], 
+        "ne_latitude": 41.963, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Farmington Township"
+        ], 
+        "ne_longitude": -77.181, 
+        "longitude": -77.321, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589786, 
+        "latitude": 41.930, 
+        "sw_longitude": -77.354, 
+        "fullname": "Farmington, Pennsylvania, Tioga, United States", 
+        "sw_latitude": 41.903
+      }, 
+      "id": 28744880
+    }
+  ]
+}

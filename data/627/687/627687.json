@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.321, 
+              44.833
+            ], 
+            [
+              1.321, 
+              44.853
+            ], 
+            [
+              1.357, 
+              44.853
+            ], 
+            [
+              1.357, 
+              44.833
+            ], 
+            [
+              1.321, 
+              44.833
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627687, 
+        "name": "Ste.-Mondane", 
+        "adjacent_woeid": [
+          582724, 
+          590503, 
+          610421, 
+          611509, 
+          624962, 
+          631028
+        ], 
+        "ne_latitude": 44.853, 
+        "ne_longitude": 1.357, 
+        "longitude": 1.338, 
+        "parent_woeid": 20074974, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Mondane"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.846, 
+        "sw_longitude": 1.321, 
+        "fullname": "Ste.-Mondane, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.833
+      }, 
+      "id": 627687
+    }
+  ]
+}

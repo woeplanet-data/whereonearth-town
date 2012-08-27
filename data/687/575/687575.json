@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.880, 
+              48.794
+            ], 
+            [
+              10.880, 
+              48.827
+            ], 
+            [
+              10.902, 
+              48.827
+            ], 
+            [
+              10.902, 
+              48.794
+            ], 
+            [
+              10.880, 
+              48.794
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687575, 
+        "name": "Reichertswies", 
+        "adjacent_woeid": [
+          643557, 
+          660532, 
+          667852, 
+          677186
+        ], 
+        "ne_latitude": 48.827, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.902, 
+        "longitude": 10.893, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12634987, 
+        "latitude": 48.808, 
+        "sw_longitude": 10.880, 
+        "fullname": "Reichertswies, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.794
+      }, 
+      "id": 687575
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.476, 
+              15.008
+            ], 
+            [
+              -92.476, 
+              15.026
+            ], 
+            [
+              -92.457, 
+              15.026
+            ], 
+            [
+              -92.457, 
+              15.008
+            ], 
+            [
+              -92.476, 
+              15.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.026, 
+        "name": "Nueva Victoria", 
+        "adjacent_woeid": [
+          115605, 
+          119094, 
+          128055, 
+          129496, 
+          130325, 
+          136903
+        ], 
+        "woeid": 134760, 
+        "alias_SPA_V": [
+          "La Victoria"
+        ], 
+        "ne_longitude": -92.457, 
+        "longitude": -92.467, 
+        "parent_woeid": 12599743, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.017, 
+        "sw_longitude": -92.476, 
+        "fullname": "Nueva Victoria, Chiapas, Huehuetan, Mexico", 
+        "sw_latitude": 15.008
+      }, 
+      "id": 134760
+    }
+  ]
+}

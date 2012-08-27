@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.235, 
+              52.084
+            ], 
+            [
+              -3.235, 
+              52.141
+            ], 
+            [
+              -3.194, 
+              52.141
+            ], 
+            [
+              -3.194, 
+              52.084
+            ], 
+            [
+              -3.235, 
+              52.084
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 31337, 
+        "name": "Painscastle", 
+        "adjacent_woeid": [
+          14337, 
+          16417, 
+          20140, 
+          26833, 
+          27170, 
+          33195, 
+          33238
+        ], 
+        "ne_latitude": 52.141, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Castell-paen"
+        ], 
+        "ne_longitude": -3.194, 
+        "longitude": -3.217, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:19:09Z", 
+        "parent_woeid": 12696134, 
+        "latitude": 52.109, 
+        "sw_longitude": -3.235, 
+        "fullname": "Painscastle, Wales, Powys County, United Kingdom", 
+        "sw_latitude": 52.084
+      }, 
+      "id": 31337
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.200, 
+              42.876
+            ], 
+            [
+              2.200, 
+              42.916
+            ], 
+            [
+              2.248, 
+              42.916
+            ], 
+            [
+              2.248, 
+              42.876
+            ], 
+            [
+              2.200, 
+              42.876
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624006, 
+        "name": "St.-Ferriol", 
+        "adjacent_woeid": [
+          582821, 
+          593601, 
+          624917, 
+          20203281
+        ], 
+        "ne_latitude": 42.916, 
+        "ne_longitude": 2.248, 
+        "longitude": 2.224, 
+        "parent_woeid": 12670405, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ferriol"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.893, 
+        "sw_longitude": 2.200, 
+        "fullname": "St.-Ferriol, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 42.876
+      }, 
+      "id": 624006
+    }
+  ]
+}

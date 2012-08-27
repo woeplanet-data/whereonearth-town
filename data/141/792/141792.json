@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.711, 
+              30.124
+            ], 
+            [
+              -104.711, 
+              30.142
+            ], 
+            [
+              -104.689, 
+              30.142
+            ], 
+            [
+              -104.689, 
+              30.124
+            ], 
+            [
+              -104.711, 
+              30.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.142, 
+        "name": "San Antonio de Bravo", 
+        "adjacent_woeid": [
+          119903, 
+          120053, 
+          126026, 
+          141849
+        ], 
+        "woeid": 141792, 
+        "alias_SPA_V": [
+          "S Antonio de Bravo"
+        ], 
+        "ne_longitude": -104.689, 
+        "longitude": -104.700, 
+        "parent_woeid": 12599871, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.133, 
+        "sw_longitude": -104.711, 
+        "fullname": "San Antonio de Bravo, Chihuahua, Ojinaga, Mexico", 
+        "sw_latitude": 30.124
+      }, 
+      "id": 141792
+    }
+  ]
+}

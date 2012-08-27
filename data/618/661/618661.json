@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.693, 
+              45.408
+            ], 
+            [
+              0.693, 
+              45.444
+            ], 
+            [
+              0.720, 
+              45.444
+            ], 
+            [
+              0.720, 
+              45.408
+            ], 
+            [
+              0.693, 
+              45.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 618661, 
+        "name": "Quinsac", 
+        "adjacent_woeid": [
+          597505, 
+          621469, 
+          626198, 
+          631498, 
+          20195248
+        ], 
+        "ne_latitude": 45.444, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.720, 
+        "longitude": 0.705, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12641441, 
+        "latitude": 45.428, 
+        "sw_longitude": 0.693, 
+        "fullname": "Quinsac, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.408
+      }, 
+      "id": 618661
+    }
+  ]
+}

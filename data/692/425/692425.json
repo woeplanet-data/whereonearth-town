@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.424, 
+              50.880
+            ], 
+            [
+              10.424, 
+              50.918
+            ], 
+            [
+              10.463, 
+              50.918
+            ], 
+            [
+              10.463, 
+              50.880
+            ], 
+            [
+              10.424, 
+              50.880
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 692425, 
+        "name": "Schmerbach", 
+        "adjacent_woeid": [
+          693741, 
+          695481, 
+          698972, 
+          707132
+        ], 
+        "ne_latitude": 50.918, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.463, 
+        "longitude": 10.451, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12636369, 
+        "latitude": 50.901, 
+        "sw_longitude": 10.424, 
+        "fullname": "Schmerbach, Thuringia, Landkreis Gotha, Germany", 
+        "sw_latitude": 50.880
+      }, 
+      "id": 692425
+    }
+  ]
+}

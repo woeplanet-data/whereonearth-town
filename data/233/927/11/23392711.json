@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.316, 
+              46.015
+            ], 
+            [
+              -65.316, 
+              46.033
+            ], 
+            [
+              -65.290, 
+              46.033
+            ], 
+            [
+              -65.290, 
+              46.015
+            ], 
+            [
+              -65.316, 
+              46.015
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23392711, 
+        "name": "Hicksville", 
+        "adjacent_woeid": [
+          653, 
+          23392701, 
+          23392903, 
+          29374757
+        ], 
+        "ne_latitude": 46.033, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -65.290, 
+        "longitude": -65.303, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:09Z", 
+        "parent_woeid": 29375181, 
+        "latitude": 46.024, 
+        "sw_longitude": -65.316, 
+        "fullname": "Hicksville, New Brunswick, Westmorland, Canada", 
+        "sw_latitude": 46.015
+      }, 
+      "id": 23392711
+    }
+  ]
+}

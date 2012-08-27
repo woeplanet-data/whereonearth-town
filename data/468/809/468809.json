@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.733, 
+              9.483
+            ], 
+            [
+              -70.733, 
+              9.502
+            ], 
+            [
+              -70.714, 
+              9.502
+            ], 
+            [
+              -70.714, 
+              9.483
+            ], 
+            [
+              -70.733, 
+              9.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.502, 
+        "name": "El Dividive", 
+        "adjacent_woeid": [
+          384616, 
+          395317, 
+          468221, 
+          468450, 
+          468546, 
+          468552
+        ], 
+        "woeid": 468809, 
+        "alias_SPA_V": [
+          "Dividive"
+        ], 
+        "ne_longitude": -70.714, 
+        "longitude": -70.724, 
+        "parent_woeid": 26804900, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.493, 
+        "sw_longitude": -70.733, 
+        "fullname": "El Dividive, Trujillo, Miranda, Venezuela", 
+        "sw_latitude": 9.483
+      }, 
+      "id": 468809
+    }
+  ]
+}

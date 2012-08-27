@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.600, 
+              45.542
+            ], 
+            [
+              0.600, 
+              45.570
+            ], 
+            [
+              0.625, 
+              45.570
+            ], 
+            [
+              0.625, 
+              45.542
+            ], 
+            [
+              0.600, 
+              45.542
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625745, 
+        "name": "St.-Martin-le-Pin", 
+        "adjacent_woeid": [
+          595490, 
+          602211, 
+          625514, 
+          20195174
+        ], 
+        "ne_latitude": 45.570, 
+        "alias_ENG_V": [
+          "Saint-Martin"
+        ], 
+        "ne_longitude": 0.625, 
+        "longitude": 0.611, 
+        "parent_woeid": 12652859, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Martin-le-Pin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.556, 
+        "sw_longitude": 0.600, 
+        "fullname": "St.-Martin-le-Pin, St-Martin, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.542
+      }, 
+      "id": 625745
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.381, 
+              45.373
+            ], 
+            [
+              2.381, 
+              45.397
+            ], 
+            [
+              2.397, 
+              45.397
+            ], 
+            [
+              2.397, 
+              45.373
+            ], 
+            [
+              2.381, 
+              45.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626371, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          608037, 
+          619641, 
+          621829, 
+          625010, 
+          627669
+        ], 
+        "ne_latitude": 45.397, 
+        "ne_longitude": 2.397, 
+        "longitude": 2.390, 
+        "parent_woeid": 12641488, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.387, 
+        "sw_longitude": 2.381, 
+        "fullname": "St.-Pierre, Auvergne, Cantal, France", 
+        "sw_latitude": 45.373
+      }, 
+      "id": 626371
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.432, 
+              47.320
+            ], 
+            [
+              6.432, 
+              47.329
+            ], 
+            [
+              6.445, 
+              47.329
+            ], 
+            [
+              6.445, 
+              47.320
+            ], 
+            [
+              6.432, 
+              47.320
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20211641, 
+        "name": "Val-de-Cusance", 
+        "adjacent_woeid": [
+          588039, 
+          588278, 
+          601093, 
+          608473, 
+          612820, 
+          622014
+        ], 
+        "ne_latitude": 47.329, 
+        "ne_longitude": 6.445, 
+        "longitude": 6.438, 
+        "parent_woeid": 12642705, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Val de Cusance"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.324, 
+        "sw_longitude": 6.432, 
+        "fullname": "Val-de-Cusance, Franche-Comte, Doubs, France", 
+        "sw_latitude": 47.320
+      }, 
+      "id": 20211641
+    }
+  ]
+}

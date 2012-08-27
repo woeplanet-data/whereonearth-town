@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.430, 
+              49.456
+            ], 
+            [
+              1.430, 
+              49.481
+            ], 
+            [
+              1.461, 
+              49.481
+            ], 
+            [
+              1.461, 
+              49.456
+            ], 
+            [
+              1.430, 
+              49.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598725, 
+        "name": "La Haye", 
+        "adjacent_woeid": [
+          598173, 
+          604776, 
+          613358, 
+          15003083
+        ], 
+        "ne_latitude": 49.481, 
+        "ne_longitude": 1.461, 
+        "longitude": 1.441, 
+        "parent_woeid": 12645099, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Hayen-en Lyons"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.466, 
+        "sw_longitude": 1.430, 
+        "fullname": "La Haye, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.456
+      }, 
+      "id": 598725
+    }
+  ]
+}

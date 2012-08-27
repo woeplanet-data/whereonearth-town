@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.393, 
+              26.491
+            ], 
+            [
+              -100.393, 
+              26.509
+            ], 
+            [
+              -100.373, 
+              26.509
+            ], 
+            [
+              -100.373, 
+              26.491
+            ], 
+            [
+              -100.393, 
+              26.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.509, 
+        "name": "Santa Fe", 
+        "adjacent_woeid": [
+          111752, 
+          124736, 
+          130407, 
+          135730, 
+          143257
+        ], 
+        "woeid": 146130, 
+        "alias_SPA_V": [
+          "Sta. Fe"
+        ], 
+        "ne_longitude": -100.373, 
+        "longitude": -100.383, 
+        "parent_woeid": 12600656, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.500, 
+        "sw_longitude": -100.393, 
+        "fullname": "Santa Fe, Nuevo Leon, Villaldama, Mexico", 
+        "sw_latitude": 26.491
+      }, 
+      "id": 146130
+    }
+  ]
+}

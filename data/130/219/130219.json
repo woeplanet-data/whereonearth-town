@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.827, 
+              25.174
+            ], 
+            [
+              -106.827, 
+              25.192
+            ], 
+            [
+              -106.807, 
+              25.192
+            ], 
+            [
+              -106.807, 
+              25.174
+            ], 
+            [
+              -106.827, 
+              25.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.192, 
+        "name": "Las Cruces", 
+        "adjacent_woeid": [
+          120091, 
+          121294, 
+          122079, 
+          127494, 
+          131256, 
+          140583, 
+          146135, 
+          147546
+        ], 
+        "woeid": 130219, 
+        "alias_SPA_V": [
+          "Los Cruces"
+        ], 
+        "ne_longitude": -106.807, 
+        "longitude": -106.817, 
+        "parent_woeid": 12599987, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.183, 
+        "sw_longitude": -106.827, 
+        "fullname": "Las Cruces, Durango, Topia, Mexico", 
+        "sw_latitude": 25.174
+      }, 
+      "id": 130219
+    }
+  ]
+}

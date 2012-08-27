@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.077, 
+              41.081
+            ], 
+            [
+              -75.077, 
+              41.212
+            ], 
+            [
+              -74.882, 
+              41.212
+            ], 
+            [
+              -74.882, 
+              41.081
+            ], 
+            [
+              -75.077, 
+              41.081
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745350, 
+        "name": "Lehman", 
+        "adjacent_woeid": [
+          2390772, 
+          23511193, 
+          28745000, 
+          28745172, 
+          28745337, 
+          28745583
+        ], 
+        "ne_latitude": 41.212, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lehman Township"
+        ], 
+        "ne_longitude": -74.882, 
+        "longitude": -75.021, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589779, 
+        "latitude": 41.158, 
+        "sw_longitude": -75.077, 
+        "fullname": "Lehman, Pennsylvania, Pike, United States", 
+        "sw_latitude": 41.081
+      }, 
+      "id": 28745350
+    }
+  ]
+}

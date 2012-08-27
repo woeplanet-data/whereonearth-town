@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.818, 
+              20.275
+            ], 
+            [
+              -100.818, 
+              20.293
+            ], 
+            [
+              -100.792, 
+              20.293
+            ], 
+            [
+              -100.792, 
+              20.275
+            ], 
+            [
+              -100.818, 
+              20.275
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.293, 
+        "name": "La Moncada", 
+        "adjacent_woeid": [
+          111037, 
+          113793, 
+          135147, 
+          135156, 
+          143586, 
+          148335
+        ], 
+        "woeid": 128324, 
+        "alias_SPA_V": [
+          "Moncada"
+        ], 
+        "ne_longitude": -100.792, 
+        "longitude": -100.806, 
+        "parent_woeid": 12600027, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.284, 
+        "sw_longitude": -100.818, 
+        "fullname": "La Moncada, Guanajuato, Tarimoro, Mexico", 
+        "sw_latitude": 20.275
+      }, 
+      "id": 128324
+    }
+  ]
+}

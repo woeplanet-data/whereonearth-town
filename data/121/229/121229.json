@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.145, 
+              19.787
+            ], 
+            [
+              -100.145, 
+              19.813
+            ], 
+            [
+              -100.120, 
+              19.813
+            ], 
+            [
+              -100.120, 
+              19.787
+            ], 
+            [
+              -100.145, 
+              19.787
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.813, 
+        "name": "El Oro de Hidalgo", 
+        "adjacent_woeid": [
+          121227, 
+          147101, 
+          148270, 
+          149542, 
+          28358258
+        ], 
+        "woeid": 121229, 
+        "alias_SPA_V": [
+          "Oro de Hidalgo"
+        ], 
+        "ne_longitude": -100.120, 
+        "longitude": -100.135, 
+        "parent_woeid": 12600353, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.800, 
+        "sw_longitude": -100.145, 
+        "fullname": "El Oro de Hidalgo, Mexico, El Oro, Mexico", 
+        "sw_latitude": 19.787
+      }, 
+      "id": 121229
+    }
+  ]
+}

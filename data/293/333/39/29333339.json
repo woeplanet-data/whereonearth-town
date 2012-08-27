@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.950, 
+              49.221
+            ], 
+            [
+              1.950, 
+              49.239
+            ], 
+            [
+              1.978, 
+              49.239
+            ], 
+            [
+              1.978, 
+              49.221
+            ], 
+            [
+              1.950, 
+              49.221
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333339, 
+        "name": "Neuvilette", 
+        "adjacent_woeid": [
+          590694, 
+          591142, 
+          612013, 
+          628916
+        ], 
+        "ne_latitude": 49.239, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.978, 
+        "longitude": 1.964, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 22756232, 
+        "latitude": 49.230, 
+        "sw_longitude": 1.950, 
+        "fullname": "Neuvilette, Picardie, Oise, France", 
+        "sw_latitude": 49.221
+      }, 
+      "id": 29333339
+    }
+  ]
+}

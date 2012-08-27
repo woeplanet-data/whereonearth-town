@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.610, 
+              22.308
+            ], 
+            [
+              -100.610, 
+              22.326
+            ], 
+            [
+              -100.590, 
+              22.326
+            ], 
+            [
+              -100.590, 
+              22.308
+            ], 
+            [
+              -100.610, 
+              22.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.326, 
+        "name": "Pozo del Carmen", 
+        "adjacent_woeid": [
+          112388, 
+          127022, 
+          142257, 
+          144808, 
+          148212
+        ], 
+        "woeid": 137372, 
+        "alias_SPA_V": [
+          "Pozo Carmen"
+        ], 
+        "ne_longitude": -100.590, 
+        "longitude": -100.600, 
+        "parent_woeid": 12601472, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.317, 
+        "sw_longitude": -100.610, 
+        "fullname": "Pozo del Carmen, San Luis Potosi, Armadillo de Los Infante, Mexico", 
+        "sw_latitude": 22.308
+      }, 
+      "id": 137372
+    }
+  ]
+}

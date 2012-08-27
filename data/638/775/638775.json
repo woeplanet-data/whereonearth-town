@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.325, 
+              51.000
+            ], 
+            [
+              13.325, 
+              51.025
+            ], 
+            [
+              13.349, 
+              51.025
+            ], 
+            [
+              13.349, 
+              51.000
+            ], 
+            [
+              13.325, 
+              51.000
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638775, 
+        "name": "Bieberstein", 
+        "adjacent_woeid": [
+          642703, 
+          645594, 
+          660373, 
+          667216, 
+          681272
+        ], 
+        "ne_latitude": 51.025, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.349, 
+        "longitude": 13.338, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:44Z", 
+        "parent_woeid": 12625598, 
+        "latitude": 51.008, 
+        "sw_longitude": 13.325, 
+        "fullname": "Bieberstein, Saxony, Landkreis Freiberg, Germany", 
+        "sw_latitude": 51.000
+      }, 
+      "id": 638775
+    }
+  ]
+}

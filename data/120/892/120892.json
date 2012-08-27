@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.027, 
+              22.408
+            ], 
+            [
+              -98.027, 
+              22.426
+            ], 
+            [
+              -98.007, 
+              22.426
+            ], 
+            [
+              -98.007, 
+              22.408
+            ], 
+            [
+              -98.027, 
+              22.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.426, 
+        "name": "El Mezquite", 
+        "adjacent_woeid": [
+          111293, 
+          111932, 
+          117791, 
+          119948, 
+          133052
+        ], 
+        "woeid": 120892, 
+        "alias_SPA_V": [
+          "Mezquite"
+        ], 
+        "ne_longitude": -98.007, 
+        "longitude": -98.017, 
+        "parent_woeid": 12601634, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.417, 
+        "sw_longitude": -98.027, 
+        "fullname": "El Mezquite, Tamaulipas, Altamira, Mexico", 
+        "sw_latitude": 22.408
+      }, 
+      "id": 120892
+    }
+  ]
+}

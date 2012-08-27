@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.482, 
+              45.905
+            ], 
+            [
+              -73.482, 
+              46.013
+            ], 
+            [
+              -73.359, 
+              46.013
+            ], 
+            [
+              -73.359, 
+              45.905
+            ], 
+            [
+              -73.482, 
+              45.905
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396885, 
+        "name": "St.-Paul", 
+        "adjacent_woeid": [
+          343, 
+          23394616
+        ], 
+        "ne_latitude": 46.013, 
+        "ne_longitude": -73.359, 
+        "longitude": -73.446, 
+        "parent_woeid": 29375113, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Paul-d'Industrie"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.985, 
+        "sw_longitude": -73.482, 
+        "fullname": "St.-Paul, Quebec, Joliette, Canada", 
+        "sw_latitude": 45.905
+      }, 
+      "id": 23396885
+    }
+  ]
+}

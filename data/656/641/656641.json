@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.661, 
+              49.497
+            ], 
+            [
+              10.661, 
+              49.525
+            ], 
+            [
+              10.676, 
+              49.525
+            ], 
+            [
+              10.676, 
+              49.497
+            ], 
+            [
+              10.661, 
+              49.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656641, 
+        "name": "Haidt", 
+        "adjacent_woeid": [
+          648688, 
+          664853, 
+          665428, 
+          682462
+        ], 
+        "ne_latitude": 49.525, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.676, 
+        "longitude": 10.666, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12634517, 
+        "latitude": 49.510, 
+        "sw_longitude": 10.661, 
+        "fullname": "Haidt, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.497
+      }, 
+      "id": 656641
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.953, 
+              28.823
+            ], 
+            [
+              -17.953, 
+              28.833
+            ], 
+            [
+              -17.941, 
+              28.833
+            ], 
+            [
+              -17.941, 
+              28.823
+            ], 
+            [
+              -17.953, 
+              28.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.833, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          759465, 
+          759491, 
+          759741, 
+          20222306, 
+          20224197, 
+          56064723, 
+          56065484
+        ], 
+        "woeid": 774090, 
+        "alias_SPA_V": [
+          "Sto Domingo"
+        ], 
+        "ne_longitude": -17.941, 
+        "longitude": -17.948, 
+        "parent_woeid": 12690174, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.828, 
+        "sw_longitude": -17.953, 
+        "fullname": "Santo Domingo, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.823
+      }, 
+      "id": 774090
+    }
+  ]
+}

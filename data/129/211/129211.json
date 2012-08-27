@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.427, 
+              30.658
+            ], 
+            [
+              -111.427, 
+              30.676
+            ], 
+            [
+              -111.406, 
+              30.676
+            ], 
+            [
+              -111.406, 
+              30.658
+            ], 
+            [
+              -111.427, 
+              30.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.676, 
+        "name": "La Sangre", 
+        "adjacent_woeid": [
+          116430, 
+          121157, 
+          126790, 
+          144299, 
+          144920, 
+          150168
+        ], 
+        "woeid": 129211, 
+        "alias_SPA_V": [
+          "Sangre"
+        ], 
+        "ne_longitude": -111.406, 
+        "longitude": -111.417, 
+        "parent_woeid": 12601610, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.667, 
+        "sw_longitude": -111.427, 
+        "fullname": "La Sangre, Sonora, Tubutama, Mexico", 
+        "sw_latitude": 30.658
+      }, 
+      "id": 129211
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.615, 
+              47.325
+            ], 
+            [
+              0.615, 
+              47.343
+            ], 
+            [
+              0.642, 
+              47.343
+            ], 
+            [
+              0.642, 
+              47.325
+            ], 
+            [
+              0.615, 
+              47.325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332865, 
+        "name": "La Vieille Carte", 
+        "adjacent_woeid": [
+          576779, 
+          29332048
+        ], 
+        "ne_latitude": 47.343, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.642, 
+        "longitude": 0.629, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12645522, 
+        "latitude": 47.334, 
+        "sw_longitude": 0.615, 
+        "fullname": "La Vieille Carte, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.325
+      }, 
+      "id": 29332865
+    }
+  ]
+}

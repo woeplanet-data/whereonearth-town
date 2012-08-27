@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.245, 
+              47.264
+            ], 
+            [
+              5.245, 
+              47.298
+            ], 
+            [
+              5.282, 
+              47.298
+            ], 
+            [
+              5.282, 
+              47.264
+            ], 
+            [
+              5.245, 
+              47.264
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583999, 
+        "name": "Chambeire", 
+        "adjacent_woeid": [
+          583728, 
+          600599, 
+          608496, 
+          619118, 
+          628196
+        ], 
+        "ne_latitude": 47.298, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.282, 
+        "longitude": 5.265, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12640822, 
+        "latitude": 47.281, 
+        "sw_longitude": 5.245, 
+        "fullname": "Chambeire, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.264
+      }, 
+      "id": 583999
+    }
+  ]
+}

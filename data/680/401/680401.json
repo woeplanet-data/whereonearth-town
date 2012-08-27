@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.205, 
+              48.234
+            ], 
+            [
+              10.205, 
+              48.256
+            ], 
+            [
+              10.225, 
+              48.256
+            ], 
+            [
+              10.225, 
+              48.234
+            ], 
+            [
+              10.205, 
+              48.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680401, 
+        "name": "Nordholz", 
+        "adjacent_woeid": [
+          643147, 
+          644644, 
+          646229, 
+          656792, 
+          674991, 
+          688002
+        ], 
+        "ne_latitude": 48.256, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.225, 
+        "longitude": 10.216, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12634855, 
+        "latitude": 48.243, 
+        "sw_longitude": 10.205, 
+        "fullname": "Nordholz, Bavaria, Landkreis Neu-Ulm, Germany", 
+        "sw_latitude": 48.234
+      }, 
+      "id": 680401
+    }
+  ]
+}

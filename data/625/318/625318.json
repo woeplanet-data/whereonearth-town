@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.300, 
+              46.989
+            ], 
+            [
+              5.300, 
+              47.026
+            ], 
+            [
+              5.336, 
+              47.026
+            ], 
+            [
+              5.336, 
+              46.989
+            ], 
+            [
+              5.300, 
+              46.989
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625318, 
+        "name": "St.-Loup", 
+        "adjacent_woeid": [
+          585489, 
+          616183, 
+          628653, 
+          20212062
+        ], 
+        "ne_latitude": 47.026, 
+        "ne_longitude": 5.336, 
+        "longitude": 5.313, 
+        "parent_woeid": 12652799, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Loup"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.005, 
+        "sw_longitude": 5.300, 
+        "fullname": "St.-Loup, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.989
+      }, 
+      "id": 625318
+    }
+  ]
+}

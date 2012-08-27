@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.527, 
+              46.260
+            ], 
+            [
+              5.527, 
+              46.278
+            ], 
+            [
+              5.553, 
+              46.278
+            ], 
+            [
+              5.553, 
+              46.260
+            ], 
+            [
+              5.527, 
+              46.260
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330439, 
+        "name": "Le Port", 
+        "adjacent_woeid": [
+          610487, 
+          628528, 
+          29330438, 
+          29330441
+        ], 
+        "ne_latitude": 46.278, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.553, 
+        "longitude": 5.541, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "parent_woeid": 12666597, 
+        "latitude": 46.269, 
+        "sw_longitude": 5.527, 
+        "fullname": "Le Port, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 46.260
+      }, 
+      "id": 29330439
+    }
+  ]
+}

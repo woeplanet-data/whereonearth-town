@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.579, 
+              45.057
+            ], 
+            [
+              -123.579, 
+              45.066
+            ], 
+            [
+              -123.567, 
+              45.066
+            ], 
+            [
+              -123.567, 
+              45.057
+            ], 
+            [
+              -123.579, 
+              45.057
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2510880, 
+        "name": "Valley Junction", 
+        "adjacent_woeid": [
+          2372586, 
+          2373967, 
+          2405731
+        ], 
+        "ne_latitude": 45.066, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Valley Jct"
+        ], 
+        "ne_longitude": -123.567, 
+        "longitude": -123.573, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:32:50Z", 
+        "parent_woeid": 12589718, 
+        "latitude": 45.062, 
+        "sw_longitude": -123.579, 
+        "fullname": "Valley Junction, Oregon, Polk, United States", 
+        "sw_latitude": 45.057
+      }, 
+      "id": 2510880
+    }
+  ]
+}

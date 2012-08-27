@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.256, 
+              45.489
+            ], 
+            [
+              9.256, 
+              45.512
+            ], 
+            [
+              9.282, 
+              45.512
+            ], 
+            [
+              9.282, 
+              45.489
+            ], 
+            [
+              9.256, 
+              45.489
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20150323, 
+        "name": "Milano Due", 
+        "adjacent_woeid": [
+          714458, 
+          724137, 
+          726242, 
+          20128686, 
+          20139097, 
+          20150300, 
+          29333714
+        ], 
+        "ne_latitude": 45.512, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.282, 
+        "longitude": 9.269, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:25:56Z", 
+        "parent_woeid": 12680711, 
+        "latitude": 45.503, 
+        "sw_longitude": 9.256, 
+        "fullname": "Milano Due, Lombardy, Milan, Italy", 
+        "sw_latitude": 45.489
+      }, 
+      "id": 20150323
+    }
+  ]
+}

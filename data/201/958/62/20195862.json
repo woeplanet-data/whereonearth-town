@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.588, 
+              44.982
+            ], 
+            [
+              0.588, 
+              44.991
+            ], 
+            [
+              0.600, 
+              44.991
+            ], 
+            [
+              0.600, 
+              44.982
+            ], 
+            [
+              0.588, 
+              44.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20195862, 
+        "name": "Pont-St.-Mamet", 
+        "adjacent_woeid": [
+          578822, 
+          582877, 
+          589134, 
+          612186, 
+          625669
+        ], 
+        "ne_latitude": 44.991, 
+        "ne_longitude": 0.600, 
+        "longitude": 0.594, 
+        "parent_woeid": 12643065, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pont-Saint-Mamet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.987, 
+        "sw_longitude": 0.588, 
+        "fullname": "Pont-St.-Mamet, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.982
+      }, 
+      "id": 20195862
+    }
+  ]
+}

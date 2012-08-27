@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.123, 
+              43.519
+            ], 
+            [
+              3.123, 
+              43.544
+            ], 
+            [
+              3.168, 
+              43.544
+            ], 
+            [
+              3.168, 
+              43.519
+            ], 
+            [
+              3.123, 
+              43.519
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20203885, 
+        "name": "La Liqui\u00e8re", 
+        "adjacent_woeid": [
+          582580, 
+          583435, 
+          20203884, 
+          20203890
+        ], 
+        "ne_latitude": 43.544, 
+        "ne_longitude": 3.168, 
+        "longitude": 3.144, 
+        "parent_woeid": 12658123, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Liquiere"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.530, 
+        "sw_longitude": 3.123, 
+        "fullname": "La Liqui\u00e8re, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.519
+      }, 
+      "id": 20203885
+    }
+  ]
+}

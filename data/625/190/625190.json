@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.229, 
+              47.146
+            ], 
+            [
+              0.229, 
+              47.155
+            ], 
+            [
+              0.244, 
+              47.155
+            ], 
+            [
+              0.244, 
+              47.146
+            ], 
+            [
+              0.229, 
+              47.146
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625190, 
+        "name": "St.-Lazare", 
+        "adjacent_woeid": [
+          599750, 
+          20186056, 
+          20219610, 
+          29332262
+        ], 
+        "ne_latitude": 47.155, 
+        "ne_longitude": 0.244, 
+        "longitude": 0.236, 
+        "parent_woeid": 12641664, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lazare"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.151, 
+        "sw_longitude": 0.229, 
+        "fullname": "St.-Lazare, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.146
+      }, 
+      "id": 625190
+    }
+  ]
+}

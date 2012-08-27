@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.726, 
+              15.991
+            ], 
+            [
+              -61.726, 
+              16.009
+            ], 
+            [
+              -61.708, 
+              16.009
+            ], 
+            [
+              -61.708, 
+              15.991
+            ], 
+            [
+              -61.726, 
+              15.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 80502, 
+        "name": "Basse-Terre", 
+        "adjacent_woeid": [
+          80494, 
+          80645, 
+          80882
+        ], 
+        "ne_latitude": 16.009, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -61.708, 
+        "longitude": -61.717, 
+        "placetype": "Town", 
+        "iso": "GP", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "parent_woeid": 24551314, 
+        "latitude": 16.000, 
+        "sw_longitude": -61.726, 
+        "fullname": "Basse-Terre, St Claude, Guadeloupe", 
+        "sw_latitude": 15.991
+      }, 
+      "id": 80502
+    }
+  ]
+}

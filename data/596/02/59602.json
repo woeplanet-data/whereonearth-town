@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -82.982, 
+              8.808
+            ], 
+            [
+              -82.982, 
+              8.827
+            ], 
+            [
+              -82.963, 
+              8.827
+            ], 
+            [
+              -82.963, 
+              8.808
+            ], 
+            [
+              -82.982, 
+              8.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.827, 
+        "name": "San Vito", 
+        "adjacent_woeid": [
+          57649, 
+          57755, 
+          58669, 
+          59284, 
+          59873, 
+          22722341
+        ], 
+        "woeid": 59602, 
+        "alias_SPA_V": [
+          "S Vito"
+        ], 
+        "ne_longitude": -82.963, 
+        "longitude": -82.973, 
+        "parent_woeid": 26809252, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.818, 
+        "sw_longitude": -82.982, 
+        "fullname": "San Vito, Puntarenas, Coto Brus, Costa Rica", 
+        "sw_latitude": 8.808
+      }, 
+      "id": 59602
+    }
+  ]
+}

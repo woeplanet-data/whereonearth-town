@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.535, 
+              29.104
+            ], 
+            [
+              -103.535, 
+              29.122
+            ], 
+            [
+              -103.514, 
+              29.122
+            ], 
+            [
+              -103.514, 
+              29.104
+            ], 
+            [
+              -103.535, 
+              29.104
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.122, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          123234, 
+          146213
+        ], 
+        "woeid": 146111, 
+        "alias_SPA_V": [
+          "Sta Elena"
+        ], 
+        "ne_longitude": -103.514, 
+        "longitude": -103.525, 
+        "parent_woeid": 12599861, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.113, 
+        "sw_longitude": -103.535, 
+        "fullname": "Santa Elena, Chihuahua, Manuel Benavides, Mexico", 
+        "sw_latitude": 29.104
+      }, 
+      "id": 146111
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.355, 
+              47.778
+            ], 
+            [
+              6.355, 
+              47.814
+            ], 
+            [
+              6.431, 
+              47.814
+            ], 
+            [
+              6.431, 
+              47.778
+            ], 
+            [
+              6.355, 
+              47.778
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626868, 
+        "name": "St.-Sauveur", 
+        "adjacent_woeid": [
+          578422, 
+          581843, 
+          592168, 
+          597496, 
+          20212262, 
+          29333552
+        ], 
+        "ne_latitude": 47.814, 
+        "ne_longitude": 6.431, 
+        "longitude": 6.382, 
+        "parent_woeid": 12653203, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sauveur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.803, 
+        "sw_longitude": 6.355, 
+        "fullname": "St.-Sauveur, Franche-Comte, Haute-Saone, France", 
+        "sw_latitude": 47.778
+      }, 
+      "id": 626868
+    }
+  ]
+}

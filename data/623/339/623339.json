@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.953, 
+              44.696
+            ], 
+            [
+              1.953, 
+              44.715
+            ], 
+            [
+              1.990, 
+              44.715
+            ], 
+            [
+              1.990, 
+              44.696
+            ], 
+            [
+              1.953, 
+              44.696
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623339, 
+        "name": "St.-Bressou", 
+        "adjacent_woeid": [
+          583051, 
+          591300, 
+          591764, 
+          602259, 
+          627447, 
+          20193685
+        ], 
+        "ne_latitude": 44.715, 
+        "ne_longitude": 1.990, 
+        "longitude": 1.972, 
+        "parent_woeid": 12656970, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bressou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.705, 
+        "sw_longitude": 1.953, 
+        "fullname": "St.-Bressou, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.696
+      }, 
+      "id": 623339
+    }
+  ]
+}

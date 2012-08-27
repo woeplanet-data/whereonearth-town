@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.277, 
+              25.058
+            ], 
+            [
+              -105.277, 
+              25.076
+            ], 
+            [
+              -105.257, 
+              25.076
+            ], 
+            [
+              -105.257, 
+              25.058
+            ], 
+            [
+              -105.277, 
+              25.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.076, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          116056, 
+          121485, 
+          123728, 
+          132580, 
+          134103
+        ], 
+        "woeid": 146940, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -105.257, 
+        "longitude": -105.267, 
+        "parent_woeid": 12599982, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.067, 
+        "sw_longitude": -105.277, 
+        "fullname": "Santa Teresa, Durango, Santiago Papasquiaro, Mexico", 
+        "sw_latitude": 25.058
+      }, 
+      "id": 146940
+    }
+  ]
+}

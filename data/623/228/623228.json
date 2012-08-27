@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.153, 
+              45.831
+            ], 
+            [
+              3.153, 
+              45.866
+            ], 
+            [
+              3.192, 
+              45.866
+            ], 
+            [
+              3.192, 
+              45.831
+            ], 
+            [
+              3.153, 
+              45.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623228, 
+        "name": "St.-Beauzire", 
+        "adjacent_woeid": [
+          589797, 
+          610969, 
+          618365, 
+          628073
+        ], 
+        "ne_latitude": 45.866, 
+        "ne_longitude": 3.192, 
+        "longitude": 3.181, 
+        "parent_woeid": 12652240, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Beauzire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.851, 
+        "sw_longitude": 3.153, 
+        "fullname": "St.-Beauzire, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.831
+      }, 
+      "id": 623228
+    }
+  ]
+}

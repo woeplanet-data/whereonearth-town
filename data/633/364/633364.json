@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.345, 
+              51.443
+            ], 
+            [
+              10.345, 
+              51.452
+            ], 
+            [
+              10.359, 
+              51.452
+            ], 
+            [
+              10.359, 
+              51.443
+            ], 
+            [
+              10.345, 
+              51.443
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633364, 
+        "name": "Adelsborn", 
+        "adjacent_woeid": [
+          639828, 
+          640939, 
+          664690, 
+          704368, 
+          707144
+        ], 
+        "ne_latitude": 51.452, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.359, 
+        "longitude": 10.352, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 28350213, 
+        "latitude": 51.447, 
+        "sw_longitude": 10.345, 
+        "fullname": "Adelsborn, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.443
+      }, 
+      "id": 633364
+    }
+  ]
+}

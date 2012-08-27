@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.237, 
+              10.015
+            ], 
+            [
+              -85.237, 
+              10.034
+            ], 
+            [
+              -85.218, 
+              10.034
+            ], 
+            [
+              -85.218, 
+              10.015
+            ], 
+            [
+              -85.237, 
+              10.015
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.034, 
+        "name": "San Pablo Viejo", 
+        "adjacent_woeid": [
+          57957, 
+          57985, 
+          58640, 
+          58834, 
+          59149
+        ], 
+        "woeid": 59518, 
+        "alias_SPA_V": [
+          "Pto S. Pablo"
+        ], 
+        "ne_longitude": -85.218, 
+        "longitude": -85.227, 
+        "parent_woeid": 26809224, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.025, 
+        "sw_longitude": -85.237, 
+        "fullname": "San Pablo Viejo, Guanacaste, Nandayure, Costa Rica", 
+        "sw_latitude": 10.015
+      }, 
+      "id": 59518
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.076, 
+              -30.962
+            ], 
+            [
+              -71.076, 
+              -30.948
+            ], 
+            [
+              -71.060, 
+              -30.948
+            ], 
+            [
+              -71.060, 
+              -30.962
+            ], 
+            [
+              -71.076, 
+              -30.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -30.948, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          347132, 
+          347134, 
+          347243, 
+          348510, 
+          349203, 
+          349576
+        ], 
+        "woeid": 349462, 
+        "alias_SPA_V": [
+          "S Marcos"
+        ], 
+        "ne_longitude": -71.060, 
+        "longitude": -71.068, 
+        "parent_woeid": 26794144, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -30.955, 
+        "sw_longitude": -71.076, 
+        "fullname": "San Marcos, Coquimbo Region, Limari Province, Chile", 
+        "sw_latitude": -30.962
+      }, 
+      "id": 349462
+    }
+  ]
+}

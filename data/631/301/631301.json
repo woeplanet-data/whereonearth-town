@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.003, 
+              42.862
+            ], 
+            [
+              0.003, 
+              42.931
+            ], 
+            [
+              0.036, 
+              42.931
+            ], 
+            [
+              0.036, 
+              42.862
+            ], 
+            [
+              0.003, 
+              42.862
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631301, 
+        "name": "Viey", 
+        "adjacent_woeid": [
+          579681, 
+          585795, 
+          590172, 
+          620743, 
+          621980, 
+          631179, 
+          631732, 
+          632542
+        ], 
+        "ne_latitude": 42.931, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.036, 
+        "longitude": 0.024, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12672375, 
+        "latitude": 42.882, 
+        "sw_longitude": 0.003, 
+        "fullname": "Viey, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 42.862
+      }, 
+      "id": 631301
+    }
+  ]
+}

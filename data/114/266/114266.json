@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.846, 
+              26.304
+            ], 
+            [
+              -98.846, 
+              26.337
+            ], 
+            [
+              -98.806, 
+              26.337
+            ], 
+            [
+              -98.806, 
+              26.304
+            ], 
+            [
+              -98.846, 
+              26.304
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.337, 
+        "name": "Camargo", 
+        "adjacent_woeid": [
+          116054, 
+          118236, 
+          128307, 
+          131872, 
+          134798, 
+          134818, 
+          140644
+        ], 
+        "woeid": 114266, 
+        "alias_SPA_V": [
+          "Ciudad Camargo"
+        ], 
+        "ne_longitude": -98.806, 
+        "longitude": -98.833, 
+        "parent_woeid": 12601638, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.314, 
+        "sw_longitude": -98.846, 
+        "fullname": "Camargo, Tamaulipas, Camargo, Mexico", 
+        "sw_latitude": 26.304
+      }, 
+      "id": 114266
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.708, 
+              40.549
+            ], 
+            [
+              -3.708, 
+              40.567
+            ], 
+            [
+              -3.690, 
+              40.567
+            ], 
+            [
+              -3.690, 
+              40.549
+            ], 
+            [
+              -3.708, 
+              40.549
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.567, 
+        "name": "El Goloso", 
+        "adjacent_woeid": [
+          759505
+        ], 
+        "woeid": 759322, 
+        "alias_SPA_V": [
+          "Barrio El Goloso"
+        ], 
+        "ne_longitude": -3.690, 
+        "longitude": -3.699, 
+        "parent_woeid": 12688024, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.558, 
+        "sw_longitude": -3.708, 
+        "fullname": "El Goloso, Madrid, Madrid, Spain", 
+        "sw_latitude": 40.549
+      }, 
+      "id": 759322
+    }
+  ]
+}

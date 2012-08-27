@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.335, 
+              46.281
+            ], 
+            [
+              -73.335, 
+              46.445
+            ], 
+            [
+              -73.166, 
+              46.445
+            ], 
+            [
+              -73.166, 
+              46.281
+            ], 
+            [
+              -73.335, 
+              46.281
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396506, 
+        "name": "St.-Didace", 
+        "adjacent_woeid": [
+          3466, 
+          3479, 
+          3491, 
+          23394500, 
+          23394505, 
+          23394525, 
+          23396588, 
+          29374700
+        ], 
+        "ne_latitude": 46.445, 
+        "ne_longitude": -73.166, 
+        "longitude": -73.277, 
+        "parent_woeid": 29375202, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Didace"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.330, 
+        "sw_longitude": -73.335, 
+        "fullname": "St.-Didace, Quebec, d'Autray, Canada", 
+        "sw_latitude": 46.281
+      }, 
+      "id": 23396506
+    }
+  ]
+}

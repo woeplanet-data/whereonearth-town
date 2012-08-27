@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.594, 
+              27.808
+            ], 
+            [
+              -106.594, 
+              27.826
+            ], 
+            [
+              -106.573, 
+              27.826
+            ], 
+            [
+              -106.573, 
+              27.808
+            ], 
+            [
+              -106.594, 
+              27.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.826, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          118903, 
+          122700, 
+          124302, 
+          141520, 
+          146888
+        ], 
+        "woeid": 145602, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -106.573, 
+        "longitude": -106.583, 
+        "parent_woeid": 12599876, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.817, 
+        "sw_longitude": -106.594, 
+        "fullname": "Santa Ana, Chihuahua, San Francisco de Borja, Mexico", 
+        "sw_latitude": 27.808
+      }, 
+      "id": 145602
+    }
+  ]
+}

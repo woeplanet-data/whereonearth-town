@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.270, 
+              49.344
+            ], 
+            [
+              3.270, 
+              49.379
+            ], 
+            [
+              3.316, 
+              49.379
+            ], 
+            [
+              3.316, 
+              49.344
+            ], 
+            [
+              3.270, 
+              49.344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630398, 
+        "name": "Vauxbuin", 
+        "adjacent_woeid": [
+          587494, 
+          611060, 
+          620572, 
+          20219563
+        ], 
+        "ne_latitude": 49.379, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.316, 
+        "longitude": 3.292, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 12672141, 
+        "latitude": 49.357, 
+        "sw_longitude": 3.270, 
+        "fullname": "Vauxbuin, Picardie, Aisne, France", 
+        "sw_latitude": 49.344
+      }, 
+      "id": 630398
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.600, 
+              46.589
+            ], 
+            [
+              2.600, 
+              46.604
+            ], 
+            [
+              2.622, 
+              46.604
+            ], 
+            [
+              2.622, 
+              46.589
+            ], 
+            [
+              2.600, 
+              46.589
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610793, 
+        "name": "Meaulne", 
+        "adjacent_woeid": [
+          589800, 
+          597290, 
+          599337, 
+          602278, 
+          629607, 
+          632468
+        ], 
+        "ne_latitude": 46.604, 
+        "ne_longitude": 2.622, 
+        "longitude": 2.614, 
+        "parent_woeid": 22755059, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Maulne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.599, 
+        "sw_longitude": 2.600, 
+        "fullname": "Meaulne, Auvergne, Allier, France", 
+        "sw_latitude": 46.589
+      }, 
+      "id": 610793
+    }
+  ]
+}

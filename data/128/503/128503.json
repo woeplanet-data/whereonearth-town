@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.922, 
+              24.012
+            ], 
+            [
+              -103.922, 
+              24.030
+            ], 
+            [
+              -103.902, 
+              24.030
+            ], 
+            [
+              -103.902, 
+              24.012
+            ], 
+            [
+              -103.922, 
+              24.012
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.030, 
+        "name": "La Ochoa", 
+        "adjacent_woeid": [
+          111711, 
+          123757, 
+          134376, 
+          136350, 
+          150696
+        ], 
+        "woeid": 128503, 
+        "alias_SPA_V": [
+          "Ochoa"
+        ], 
+        "ne_longitude": -103.902, 
+        "longitude": -103.912, 
+        "parent_woeid": 12599972, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.021, 
+        "sw_longitude": -103.922, 
+        "fullname": "La Ochoa, Durango, Poanas, Mexico", 
+        "sw_latitude": 24.012
+      }, 
+      "id": 128503
+    }
+  ]
+}

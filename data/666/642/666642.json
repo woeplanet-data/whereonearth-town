@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.124, 
+              53.215
+            ], 
+            [
+              12.124, 
+              53.247
+            ], 
+            [
+              12.147, 
+              53.247
+            ], 
+            [
+              12.147, 
+              53.215
+            ], 
+            [
+              12.124, 
+              53.215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666642, 
+        "name": "Klein Triglitz", 
+        "adjacent_woeid": [
+          649550, 
+          657668, 
+          664741, 
+          674921, 
+          685871, 
+          696509, 
+          700041
+        ], 
+        "ne_latitude": 53.247, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.147, 
+        "longitude": 12.138, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 24547305, 
+        "latitude": 53.225, 
+        "sw_longitude": 12.124, 
+        "fullname": "Klein Triglitz, Brandenburg, Prignitz, Germany", 
+        "sw_latitude": 53.215
+      }, 
+      "id": 666642
+    }
+  ]
+}

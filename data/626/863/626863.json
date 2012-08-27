@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.184, 
+              49.925
+            ], 
+            [
+              2.184, 
+              49.966
+            ], 
+            [
+              2.242, 
+              49.966
+            ], 
+            [
+              2.242, 
+              49.925
+            ], 
+            [
+              2.184, 
+              49.925
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626863, 
+        "name": "St.-Sauveur", 
+        "adjacent_woeid": [
+          576591, 
+          589191, 
+          597687, 
+          627198, 
+          630358
+        ], 
+        "ne_latitude": 49.966, 
+        "ne_longitude": 2.242, 
+        "longitude": 2.213, 
+        "parent_woeid": 12671218, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sauveur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.938, 
+        "sw_longitude": 2.184, 
+        "fullname": "St.-Sauveur, Picardie, Somme, France", 
+        "sw_latitude": 49.925
+      }, 
+      "id": 626863
+    }
+  ]
+}

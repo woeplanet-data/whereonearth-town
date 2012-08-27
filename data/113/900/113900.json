@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.919, 
+              18.306
+            ], 
+            [
+              -90.919, 
+              18.324
+            ], 
+            [
+              -90.900, 
+              18.324
+            ], 
+            [
+              -90.900, 
+              18.306
+            ], 
+            [
+              -90.919, 
+              18.306
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.324, 
+        "name": "Buenos Aires", 
+        "adjacent_woeid": [
+          114644, 
+          124758, 
+          129608, 
+          136000, 
+          143784, 
+          145273, 
+          56068596
+        ], 
+        "woeid": 113900, 
+        "alias_SPA_V": [
+          "Buneos Aires"
+        ], 
+        "ne_longitude": -90.900, 
+        "longitude": -90.910, 
+        "parent_woeid": 12599703, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.315, 
+        "sw_longitude": -90.919, 
+        "fullname": "Buenos Aires, Campeche, Escarcega, Mexico", 
+        "sw_latitude": 18.306
+      }, 
+      "id": 113900
+    }
+  ]
+}

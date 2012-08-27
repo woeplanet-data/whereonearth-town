@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.877, 
+              49.777
+            ], 
+            [
+              10.877, 
+              49.809
+            ], 
+            [
+              10.901, 
+              49.809
+            ], 
+            [
+              10.901, 
+              49.777
+            ], 
+            [
+              10.877, 
+              49.777
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659480, 
+        "name": "Herrnsdorf", 
+        "adjacent_woeid": [
+          647603, 
+          688170, 
+          692309, 
+          706963
+        ], 
+        "ne_latitude": 49.809, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.901, 
+        "longitude": 10.886, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12635231, 
+        "latitude": 49.793, 
+        "sw_longitude": 10.877, 
+        "fullname": "Herrnsdorf, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.777
+      }, 
+      "id": 659480
+    }
+  ]
+}

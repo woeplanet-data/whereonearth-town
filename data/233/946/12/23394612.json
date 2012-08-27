@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.274, 
+              45.654
+            ], 
+            [
+              -75.274, 
+              45.737
+            ], 
+            [
+              -75.111, 
+              45.737
+            ], 
+            [
+              -75.111, 
+              45.654
+            ], 
+            [
+              -75.274, 
+              45.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394612, 
+        "name": "St.-Sixte", 
+        "adjacent_woeid": [
+          1335, 
+          23394301, 
+          23394426, 
+          23394433, 
+          23394457, 
+          23395615, 
+          23395636
+        ], 
+        "ne_latitude": 45.737, 
+        "ne_longitude": -75.111, 
+        "longitude": -75.207, 
+        "parent_woeid": 29375249, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Sixte"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.698, 
+        "sw_longitude": -75.274, 
+        "fullname": "St.-Sixte, Quebec, Papineau, Canada", 
+        "sw_latitude": 45.654
+      }, 
+      "id": 23394612
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.749, 
+              45.870
+            ], 
+            [
+              -73.749, 
+              45.942
+            ], 
+            [
+              -73.552, 
+              45.942
+            ], 
+            [
+              -73.552, 
+              45.870
+            ], 
+            [
+              -73.749, 
+              45.870
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396541, 
+        "name": "St.-Esprit", 
+        "adjacent_woeid": [
+          3506, 
+          3512, 
+          23394698, 
+          23396490, 
+          29374323, 
+          29374650
+        ], 
+        "ne_latitude": 45.942, 
+        "ne_longitude": -73.552, 
+        "longitude": -73.666, 
+        "parent_woeid": 29375133, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Esprit"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.899, 
+        "sw_longitude": -73.749, 
+        "fullname": "St.-Esprit, Quebec, Montcalm, Canada", 
+        "sw_latitude": 45.870
+      }, 
+      "id": 23396541
+    }
+  ]
+}

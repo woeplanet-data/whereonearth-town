@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.710, 
+              20.341
+            ], 
+            [
+              -98.710, 
+              20.359
+            ], 
+            [
+              -98.690, 
+              20.359
+            ], 
+            [
+              -98.690, 
+              20.341
+            ], 
+            [
+              -98.710, 
+              20.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.359, 
+        "name": "San Jos\u00e9", 
+        "adjacent_woeid": [
+          123104, 
+          144357, 
+          145638, 
+          146621, 
+          149386
+        ], 
+        "woeid": 143362, 
+        "alias_SPA_V": [
+          "S. Jos\u00e9"
+        ], 
+        "ne_longitude": -98.690, 
+        "longitude": -98.700, 
+        "parent_woeid": 12600121, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "S. Jose"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.350, 
+        "sw_longitude": -98.710, 
+        "fullname": "San Jos\u00e9, Hidalgo, Atotonilco el Grande, Mexico", 
+        "sw_latitude": 20.341
+      }, 
+      "id": 143362
+    }
+  ]
+}

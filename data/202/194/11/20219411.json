@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.357, 
+              45.143
+            ], 
+            [
+              1.357, 
+              45.166
+            ], 
+            [
+              1.378, 
+              45.166
+            ], 
+            [
+              1.378, 
+              45.143
+            ], 
+            [
+              1.357, 
+              45.143
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20219411, 
+        "name": "Basse Riviere", 
+        "adjacent_woeid": [
+          581972, 
+          20188421, 
+          20219412
+        ], 
+        "ne_latitude": 45.166, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.378, 
+        "longitude": 1.364, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12660243, 
+        "latitude": 45.150, 
+        "sw_longitude": 1.357, 
+        "fullname": "Basse Riviere, Limousin, Correze, France", 
+        "sw_latitude": 45.143
+      }, 
+      "id": 20219411
+    }
+  ]
+}

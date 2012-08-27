@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.016, 
+              48.263
+            ], 
+            [
+              -2.016, 
+              48.308
+            ], 
+            [
+              -1.949, 
+              48.308
+            ], 
+            [
+              -1.949, 
+              48.263
+            ], 
+            [
+              -2.016, 
+              48.263
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626339, 
+        "name": "St.-Pern", 
+        "adjacent_woeid": [
+          595244, 
+          601196, 
+          608490, 
+          610815, 
+          611567
+        ], 
+        "ne_latitude": 48.308, 
+        "ne_longitude": -1.949, 
+        "longitude": -1.986, 
+        "parent_woeid": 12653065, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pern"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.288, 
+        "sw_longitude": -2.016, 
+        "fullname": "St.-Pern, Brittany, Ille-et-Vilaine, France", 
+        "sw_latitude": 48.263
+      }, 
+      "id": 626339
+    }
+  ]
+}

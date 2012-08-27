@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.005, 
+              46.620
+            ], 
+            [
+              1.005, 
+              46.658
+            ], 
+            [
+              1.034, 
+              46.658
+            ], 
+            [
+              1.034, 
+              46.620
+            ], 
+            [
+              1.005, 
+              46.620
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622811, 
+        "name": "St.-Aigny", 
+        "adjacent_woeid": [
+          579256, 
+          587175, 
+          621351
+        ], 
+        "ne_latitude": 46.658, 
+        "ne_longitude": 1.034, 
+        "longitude": 1.025, 
+        "parent_woeid": 12638622, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aigny"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.646, 
+        "sw_longitude": 1.005, 
+        "fullname": "St.-Aigny, Centre, Indre, France", 
+        "sw_latitude": 46.620
+      }, 
+      "id": 622811
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.442, 
+              43.994
+            ], 
+            [
+              4.442, 
+              44.039
+            ], 
+            [
+              4.493, 
+              44.039
+            ], 
+            [
+              4.493, 
+              43.994
+            ], 
+            [
+              4.442, 
+              43.994
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626969, 
+        "name": "St.-Siffret", 
+        "adjacent_woeid": [
+          576585, 
+          591067, 
+          624620, 
+          625887, 
+          626651, 
+          627228, 
+          630903
+        ], 
+        "ne_latitude": 44.039, 
+        "ne_longitude": 4.493, 
+        "longitude": 4.467, 
+        "parent_woeid": 12671240, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Siffret"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.017, 
+        "sw_longitude": 4.442, 
+        "fullname": "St.-Siffret, Languedoc-Roussillon, Gard, France", 
+        "sw_latitude": 43.994
+      }, 
+      "id": 626969
+    }
+  ]
+}

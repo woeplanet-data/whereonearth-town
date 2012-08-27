@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.481, 
+              24.884
+            ], 
+            [
+              -99.481, 
+              24.902
+            ], 
+            [
+              -99.461, 
+              24.902
+            ], 
+            [
+              -99.461, 
+              24.884
+            ], 
+            [
+              -99.481, 
+              24.884
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.902, 
+        "name": "Guadalupe", 
+        "adjacent_woeid": [
+          114867, 
+          121428, 
+          121564, 
+          128746, 
+          129085
+        ], 
+        "woeid": 124219, 
+        "alias_SPA_V": [
+          "Ejido Hacienda del Guadalupe"
+        ], 
+        "ne_longitude": -99.461, 
+        "longitude": -99.471, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.893, 
+        "sw_longitude": -99.481, 
+        "fullname": "Guadalupe, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.884
+      }, 
+      "id": 124219
+    }
+  ]
+}

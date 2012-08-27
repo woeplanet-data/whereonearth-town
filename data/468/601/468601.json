@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.978, 
+              10.142
+            ], 
+            [
+              -65.978, 
+              10.160
+            ], 
+            [
+              -65.960, 
+              10.160
+            ], 
+            [
+              -65.960, 
+              10.142
+            ], 
+            [
+              -65.978, 
+              10.142
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 468601, 
+        "name": "El Guapo", 
+        "adjacent_woeid": [
+          468193, 
+          468324, 
+          468593, 
+          468660
+        ], 
+        "ne_latitude": 10.160, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -65.960, 
+        "longitude": -65.969, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "parent_woeid": 26805187, 
+        "latitude": 10.151, 
+        "sw_longitude": -65.978, 
+        "fullname": "El Guapo, Miranda, Paez, Venezuela", 
+        "sw_latitude": 10.142
+      }, 
+      "id": 468601
+    }
+  ]
+}

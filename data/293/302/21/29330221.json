@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.791, 
+              45.103
+            ], 
+            [
+              5.791, 
+              45.121
+            ], 
+            [
+              5.817, 
+              45.121
+            ], 
+            [
+              5.817, 
+              45.103
+            ], 
+            [
+              5.791, 
+              45.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330221, 
+        "name": "Maison Blanche", 
+        "adjacent_woeid": [
+          630280, 
+          630281, 
+          29330222
+        ], 
+        "ne_latitude": 45.121, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.817, 
+        "longitude": 5.804, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "parent_woeid": 12672109, 
+        "latitude": 45.112, 
+        "sw_longitude": 5.791, 
+        "fullname": "Maison Blanche, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.103
+      }, 
+      "id": 29330221
+    }
+  ]
+}

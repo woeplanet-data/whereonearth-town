@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.817, 
+              48.700
+            ], 
+            [
+              -0.817, 
+              48.750
+            ], 
+            [
+              -0.768, 
+              48.750
+            ], 
+            [
+              -0.768, 
+              48.700
+            ], 
+            [
+              -0.817, 
+              48.700
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624800, 
+        "name": "St.-Jean-des-Bois", 
+        "adjacent_woeid": [
+          602992, 
+          603536, 
+          623471, 
+          633082
+        ], 
+        "ne_latitude": 48.750, 
+        "alias_ENG_V": [
+          "Saint-Jean"
+        ], 
+        "ne_longitude": -0.768, 
+        "longitude": -0.792, 
+        "parent_woeid": 12652674, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jean-des-Bois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:40Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.723, 
+        "sw_longitude": -0.817, 
+        "fullname": "St.-Jean-des-Bois, St-Jean, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.700
+      }, 
+      "id": 624800
+    }
+  ]
+}

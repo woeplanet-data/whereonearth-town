@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.915, 
+              50.001
+            ], 
+            [
+              9.915, 
+              50.042
+            ], 
+            [
+              9.957, 
+              50.042
+            ], 
+            [
+              9.957, 
+              50.001
+            ], 
+            [
+              9.915, 
+              50.001
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690713, 
+        "name": "Sachserhof", 
+        "adjacent_woeid": [
+          634263, 
+          642147, 
+          651678, 
+          682282
+        ], 
+        "ne_latitude": 50.042, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.957, 
+        "longitude": 9.935, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12635619, 
+        "latitude": 50.025, 
+        "sw_longitude": 9.915, 
+        "fullname": "Sachserhof, Bavaria, Main-Spessart, Germany", 
+        "sw_latitude": 50.001
+      }, 
+      "id": 690713
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.917, 
+              52.600
+            ], 
+            [
+              10.917, 
+              52.609
+            ], 
+            [
+              10.932, 
+              52.609
+            ], 
+            [
+              10.932, 
+              52.600
+            ], 
+            [
+              10.917, 
+              52.600
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20166166, 
+        "name": "Altendorf", 
+        "adjacent_woeid": [
+          637703, 
+          702605, 
+          705286, 
+          707270
+        ], 
+        "ne_latitude": 52.609, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.932, 
+        "longitude": 10.925, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12630284, 
+        "latitude": 52.604, 
+        "sw_longitude": 10.917, 
+        "fullname": "Altendorf, Lower Saxony, Landkreis Gifhorn, Germany", 
+        "sw_latitude": 52.600
+      }, 
+      "id": 20166166
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.458, 
+              26.876
+            ], 
+            [
+              -106.458, 
+              26.890
+            ], 
+            [
+              -106.442, 
+              26.890
+            ], 
+            [
+              -106.442, 
+              26.876
+            ], 
+            [
+              -106.458, 
+              26.876
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.890, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          111597, 
+          113059, 
+          116109, 
+          130301, 
+          132271, 
+          143865, 
+          144874
+        ], 
+        "woeid": 121590, 
+        "alias_SPA_V": [
+          "Porvenir"
+        ], 
+        "ne_longitude": -106.442, 
+        "longitude": -106.450, 
+        "parent_woeid": 12599825, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.883, 
+        "sw_longitude": -106.458, 
+        "fullname": "El Porvenir, Chihuahua, Balleza, Mexico", 
+        "sw_latitude": 26.876
+      }, 
+      "id": 121590
+    }
+  ]
+}

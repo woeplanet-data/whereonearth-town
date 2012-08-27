@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.414, 
+              43.710
+            ], 
+            [
+              1.414, 
+              43.737
+            ], 
+            [
+              1.455, 
+              43.737
+            ], 
+            [
+              1.455, 
+              43.710
+            ], 
+            [
+              1.414, 
+              43.710
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593651, 
+        "name": "Gratentour", 
+        "adjacent_woeid": [
+          582187, 
+          583605, 
+          600575, 
+          615898
+        ], 
+        "ne_latitude": 43.737, 
+        "ne_longitude": 1.455, 
+        "longitude": 1.432, 
+        "parent_woeid": 12660117, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cratentour"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.722, 
+        "sw_longitude": 1.414, 
+        "fullname": "Gratentour, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.710
+      }, 
+      "id": 593651
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.098, 
+              47.723
+            ], 
+            [
+              10.098, 
+              47.742
+            ], 
+            [
+              10.142, 
+              47.742
+            ], 
+            [
+              10.142, 
+              47.723
+            ], 
+            [
+              10.098, 
+              47.723
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639550, 
+        "name": "Blockwiesen", 
+        "adjacent_woeid": [
+          647329, 
+          688764, 
+          689327, 
+          692470
+        ], 
+        "ne_latitude": 47.742, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.142, 
+        "longitude": 10.117, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:21Z", 
+        "parent_woeid": 12623822, 
+        "latitude": 47.733, 
+        "sw_longitude": 10.098, 
+        "fullname": "Blockwiesen, Baden-Wurttemberg, Landkreis Ravensburg, Germany", 
+        "sw_latitude": 47.723
+      }, 
+      "id": 639550
+    }
+  ]
+}

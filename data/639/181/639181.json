@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.442, 
+              47.674
+            ], 
+            [
+              12.442, 
+              47.684
+            ], 
+            [
+              12.455, 
+              47.684
+            ], 
+            [
+              12.455, 
+              47.674
+            ], 
+            [
+              12.442, 
+              47.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639181, 
+        "name": "Birnbach", 
+        "adjacent_woeid": [
+          660292, 
+          700777, 
+          29346928, 
+          29346929
+        ], 
+        "ne_latitude": 47.684, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.455, 
+        "longitude": 12.448, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:45Z", 
+        "parent_woeid": 12622809, 
+        "latitude": 47.679, 
+        "sw_longitude": 12.442, 
+        "fullname": "Birnbach, Bavaria, Landkreis Traunstein, Germany", 
+        "sw_latitude": 47.674
+      }, 
+      "id": 639181
+    }
+  ]
+}

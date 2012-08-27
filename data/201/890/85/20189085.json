@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.303, 
+              45.488
+            ], 
+            [
+              2.303, 
+              45.497
+            ], 
+            [
+              2.316, 
+              45.497
+            ], 
+            [
+              2.316, 
+              45.488
+            ], 
+            [
+              2.303, 
+              45.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20189085, 
+        "name": "La Serre", 
+        "adjacent_woeid": [
+          585870, 
+          611301, 
+          622976, 
+          623972, 
+          629883
+        ], 
+        "ne_latitude": 45.497, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.316, 
+        "longitude": 2.310, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12666634, 
+        "latitude": 45.493, 
+        "sw_longitude": 2.303, 
+        "fullname": "La Serre, Limousin, Correze, France", 
+        "sw_latitude": 45.488
+      }, 
+      "id": 20189085
+    }
+  ]
+}

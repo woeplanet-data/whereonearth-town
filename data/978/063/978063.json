@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.479, 
+              50.576
+            ], 
+            [
+              5.479, 
+              50.604
+            ], 
+            [
+              5.502, 
+              50.604
+            ], 
+            [
+              5.502, 
+              50.576
+            ], 
+            [
+              5.479, 
+              50.576
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 978063, 
+        "name": "Val St.-Lambert", 
+        "adjacent_woeid": [
+          967572, 
+          969622, 
+          969623, 
+          969624, 
+          971705
+        ], 
+        "ne_latitude": 50.604, 
+        "ne_longitude": 5.502, 
+        "longitude": 5.491, 
+        "parent_woeid": 12602474, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Val-Saint-Lambert"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.594, 
+        "sw_longitude": 5.479, 
+        "fullname": "Val St.-Lambert, Liege, Li\u00e8ge, Belgium", 
+        "sw_latitude": 50.576
+      }, 
+      "id": 978063
+    }
+  ]
+}

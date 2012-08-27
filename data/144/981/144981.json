@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.326, 
+              20.741
+            ], 
+            [
+              -99.326, 
+              20.759
+            ], 
+            [
+              -99.307, 
+              20.759
+            ], 
+            [
+              -99.307, 
+              20.741
+            ], 
+            [
+              -99.326, 
+              20.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.759, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          112254, 
+          122253, 
+          131032, 
+          136308
+        ], 
+        "woeid": 144981, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -99.307, 
+        "longitude": -99.317, 
+        "parent_woeid": 12600193, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.750, 
+        "sw_longitude": -99.326, 
+        "fullname": "San Pedro, Hidalgo, Zimapan, Mexico", 
+        "sw_latitude": 20.741
+      }, 
+      "id": 144981
+    }
+  ]
+}

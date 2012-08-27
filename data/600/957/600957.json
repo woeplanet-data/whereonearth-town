@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.564, 
+              43.254
+            ], 
+            [
+              0.564, 
+              43.280
+            ], 
+            [
+              0.602, 
+              43.280
+            ], 
+            [
+              0.602, 
+              43.254
+            ], 
+            [
+              0.564, 
+              43.254
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600957, 
+        "name": "Lalanne", 
+        "adjacent_woeid": [
+          579640, 
+          588682, 
+          592660, 
+          617766, 
+          628387, 
+          631793
+        ], 
+        "ne_latitude": 43.280, 
+        "ne_longitude": 0.602, 
+        "longitude": 0.577, 
+        "parent_woeid": 12664324, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lalanne-Magnoac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.267, 
+        "sw_longitude": 0.564, 
+        "fullname": "Lalanne, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.254
+      }, 
+      "id": 600957
+    }
+  ]
+}

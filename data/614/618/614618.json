@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.326, 
+              49.481
+            ], 
+            [
+              2.326, 
+              49.522
+            ], 
+            [
+              2.391, 
+              49.522
+            ], 
+            [
+              2.391, 
+              49.481
+            ], 
+            [
+              2.326, 
+              49.481
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614618, 
+        "name": "Nourard-le-Franc", 
+        "adjacent_woeid": [
+          582256, 
+          583353, 
+          603633, 
+          604110, 
+          604368, 
+          629859
+        ], 
+        "ne_latitude": 49.522, 
+        "ne_longitude": 2.391, 
+        "longitude": 2.367, 
+        "parent_woeid": 22757082, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Nourard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.501, 
+        "sw_longitude": 2.326, 
+        "fullname": "Nourard-le-Franc, Picardie, Oise, France", 
+        "sw_latitude": 49.481
+      }, 
+      "id": 614618
+    }
+  ]
+}

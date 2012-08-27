@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.778, 
+              48.219
+            ], 
+            [
+              5.778, 
+              48.247
+            ], 
+            [
+              5.823, 
+              48.247
+            ], 
+            [
+              5.823, 
+              48.219
+            ], 
+            [
+              5.778, 
+              48.219
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613353, 
+        "name": "Morville", 
+        "adjacent_woeid": [
+          582342, 
+          594194, 
+          609443, 
+          619904, 
+          630240
+        ], 
+        "ne_latitude": 48.247, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.823, 
+        "longitude": 5.803, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12667311, 
+        "latitude": 48.235, 
+        "sw_longitude": 5.778, 
+        "fullname": "Morville, Lorraine, Vosges, France", 
+        "sw_latitude": 48.219
+      }, 
+      "id": 613353
+    }
+  ]
+}

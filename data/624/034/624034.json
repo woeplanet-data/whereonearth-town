@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.489, 
+              45.699
+            ], 
+            [
+              3.489, 
+              45.729
+            ], 
+            [
+              3.522, 
+              45.729
+            ], 
+            [
+              3.522, 
+              45.699
+            ], 
+            [
+              3.489, 
+              45.699
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624034, 
+        "name": "St.-Flour", 
+        "adjacent_woeid": [
+          588864, 
+          629365, 
+          29332728
+        ], 
+        "ne_latitude": 45.729, 
+        "ne_longitude": 3.522, 
+        "longitude": 3.504, 
+        "parent_woeid": 12642648, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Flour"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.709, 
+        "sw_longitude": 3.489, 
+        "fullname": "St.-Flour, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.699
+      }, 
+      "id": 624034
+    }
+  ]
+}

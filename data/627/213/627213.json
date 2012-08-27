@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.601, 
+              46.380
+            ], 
+            [
+              2.601, 
+              46.412
+            ], 
+            [
+              2.625, 
+              46.412
+            ], 
+            [
+              2.625, 
+              46.380
+            ], 
+            [
+              2.601, 
+              46.380
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627213, 
+        "name": "St.-Victor", 
+        "adjacent_woeid": [
+          585024, 
+          590187, 
+          607570, 
+          628518, 
+          630779, 
+          20205124, 
+          29332103
+        ], 
+        "ne_latitude": 46.412, 
+        "ne_longitude": 2.625, 
+        "longitude": 2.609, 
+        "parent_woeid": 12646200, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Victor"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.396, 
+        "sw_longitude": 2.601, 
+        "fullname": "St.-Victor, Auvergne, Allier, France", 
+        "sw_latitude": 46.380
+      }, 
+      "id": 627213
+    }
+  ]
+}

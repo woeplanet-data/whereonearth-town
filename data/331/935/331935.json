@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.734, 
+              -28.464
+            ], 
+            [
+              -65.734, 
+              -28.432
+            ], 
+            [
+              -65.702, 
+              -28.432
+            ], 
+            [
+              -65.702, 
+              -28.464
+            ], 
+            [
+              -65.734, 
+              -28.464
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -28.432, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          329913, 
+          332146, 
+          332505, 
+          419824, 
+          419857, 
+          465543, 
+          466437, 
+          466519, 
+          466736, 
+          466840, 
+          466905, 
+          467267, 
+          467431, 
+          467789, 
+          468782, 
+          468866, 
+          468984
+        ], 
+        "woeid": 331935, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -65.702, 
+        "longitude": -65.713, 
+        "parent_woeid": 20070762, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:42Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -28.438, 
+        "sw_longitude": -65.734, 
+        "fullname": "San Isidro, Catamarca, Valle Viejo, Argentina", 
+        "sw_latitude": -28.464
+      }, 
+      "id": 331935
+    }
+  ]
+}

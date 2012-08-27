@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.377, 
+              45.052
+            ], 
+            [
+              0.377, 
+              45.076
+            ], 
+            [
+              0.406, 
+              45.076
+            ], 
+            [
+              0.406, 
+              45.052
+            ], 
+            [
+              0.377, 
+              45.052
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625309, 
+        "name": "St.-Louis-en-l'Isle", 
+        "adjacent_woeid": [
+          578840, 
+          589149, 
+          622637, 
+          624069
+        ], 
+        "ne_latitude": 45.076, 
+        "alias_ENG_V": [
+          "Saint-Louis"
+        ], 
+        "ne_longitude": 0.406, 
+        "longitude": 0.391, 
+        "parent_woeid": 12652791, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Louis-en-l'Isle"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.060, 
+        "sw_longitude": 0.377, 
+        "fullname": "St.-Louis-en-l'Isle, St-Louis, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.052
+      }, 
+      "id": 625309
+    }
+  ]
+}

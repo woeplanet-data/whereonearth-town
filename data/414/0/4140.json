@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.864, 
+              44.570
+            ], 
+            [
+              -75.864, 
+              44.688
+            ], 
+            [
+              -75.665, 
+              44.688
+            ], 
+            [
+              -75.665, 
+              44.570
+            ], 
+            [
+              -75.864, 
+              44.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 4140, 
+        "name": "Brockville", 
+        "adjacent_woeid": [
+          4360, 
+          23396991, 
+          23397216, 
+          23397356, 
+          29374089, 
+          29374090, 
+          29374593
+        ], 
+        "ne_latitude": 44.688, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "XBR"
+        ], 
+        "ne_longitude": -75.665, 
+        "longitude": -75.683, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375201, 
+        "latitude": 44.590, 
+        "sw_longitude": -75.864, 
+        "fullname": "Brockville, Ontario, Leeds and Grenville, Canada", 
+        "sw_latitude": 44.570
+      }, 
+      "id": 4140
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.526, 
+              24.731
+            ], 
+            [
+              -107.526, 
+              24.749
+            ], 
+            [
+              -107.506, 
+              24.749
+            ], 
+            [
+              -107.506, 
+              24.731
+            ], 
+            [
+              -107.526, 
+              24.731
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.749, 
+        "name": "San Manuel", 
+        "adjacent_woeid": [
+          111570, 
+          112879, 
+          114427, 
+          120832, 
+          128615, 
+          130116
+        ], 
+        "woeid": 144286, 
+        "alias_SPA_V": [
+          "S. Manuel"
+        ], 
+        "ne_longitude": -107.506, 
+        "longitude": -107.516, 
+        "parent_woeid": 12601540, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.740, 
+        "sw_longitude": -107.526, 
+        "fullname": "San Manuel, Sinaloa, Navolato, Mexico", 
+        "sw_latitude": 24.731
+      }, 
+      "id": 144286
+    }
+  ]
+}

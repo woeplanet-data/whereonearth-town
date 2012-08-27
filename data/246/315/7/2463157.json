@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.032, 
+              45.515
+            ], 
+            [
+              -123.032, 
+              45.533
+            ], 
+            [
+              -123.006, 
+              45.533
+            ], 
+            [
+              -123.006, 
+              45.515
+            ], 
+            [
+              -123.032, 
+              45.515
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2463157, 
+        "name": "Oak Park", 
+        "adjacent_woeid": [
+          2360327, 
+          2402446, 
+          2436941, 
+          2437120, 
+          2511391
+        ], 
+        "ne_latitude": 45.533, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.006, 
+        "longitude": -123.019, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:29:35Z", 
+        "parent_woeid": 12589725, 
+        "latitude": 45.524, 
+        "sw_longitude": -123.032, 
+        "fullname": "Oak Park, Oregon, Washington, United States", 
+        "sw_latitude": 45.515
+      }, 
+      "id": 2463157
+    }
+  ]
+}

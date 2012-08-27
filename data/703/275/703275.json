@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.047, 
+              48.884
+            ], 
+            [
+              10.047, 
+              48.899
+            ], 
+            [
+              10.068, 
+              48.899
+            ], 
+            [
+              10.068, 
+              48.884
+            ], 
+            [
+              10.047, 
+              48.884
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703275, 
+        "name": "Waiblingen", 
+        "adjacent_woeid": [
+          646310, 
+          649157, 
+          679301, 
+          694394
+        ], 
+        "ne_latitude": 48.899, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.068, 
+        "longitude": 10.056, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12624242, 
+        "latitude": 48.891, 
+        "sw_longitude": 10.047, 
+        "fullname": "Waiblingen, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.884
+      }, 
+      "id": 703275
+    }
+  ]
+}

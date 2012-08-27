@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.461, 
+              53.370
+            ], 
+            [
+              13.461, 
+              53.411
+            ], 
+            [
+              13.495, 
+              53.411
+            ], 
+            [
+              13.495, 
+              53.370
+            ], 
+            [
+              13.461, 
+              53.370
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705308, 
+        "name": "Wendorf", 
+        "adjacent_woeid": [
+          669190, 
+          671585, 
+          678389
+        ], 
+        "ne_latitude": 53.411, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.495, 
+        "longitude": 13.483, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12636280, 
+        "latitude": 53.395, 
+        "sw_longitude": 13.461, 
+        "fullname": "Wendorf, Mecklenburg-Vorpommern, Mecklenburg-Strelitz, Germany", 
+        "sw_latitude": 53.370
+      }, 
+      "id": 705308
+    }
+  ]
+}

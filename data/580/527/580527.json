@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.123, 
+              48.271
+            ], 
+            [
+              2.123, 
+              48.280
+            ], 
+            [
+              2.136, 
+              48.280
+            ], 
+            [
+              2.136, 
+              48.271
+            ], 
+            [
+              2.123, 
+              48.271
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580527, 
+        "name": "Boissy-le-Girard", 
+        "adjacent_woeid": [
+          577446, 
+          595693, 
+          613356, 
+          615601, 
+          628476
+        ], 
+        "ne_latitude": 48.280, 
+        "ne_longitude": 2.136, 
+        "longitude": 2.130, 
+        "parent_woeid": 12637779, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Boissy le Girard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.275, 
+        "sw_longitude": 2.123, 
+        "fullname": "Boissy-le-Girard, Centre, Loiret, France", 
+        "sw_latitude": 48.271
+      }, 
+      "id": 580527
+    }
+  ]
+}

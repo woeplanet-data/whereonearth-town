@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.727, 
+              29.074
+            ], 
+            [
+              -100.727, 
+              29.092
+            ], 
+            [
+              -100.706, 
+              29.092
+            ], 
+            [
+              -100.706, 
+              29.074
+            ], 
+            [
+              -100.727, 
+              29.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.092, 
+        "name": "Los Dolores", 
+        "adjacent_woeid": [
+          122681, 
+          125921, 
+          135676, 
+          137970, 
+          142090
+        ], 
+        "woeid": 131819, 
+        "alias_SPA_V": [
+          "Dolores"
+        ], 
+        "ne_longitude": -100.706, 
+        "longitude": -100.717, 
+        "parent_woeid": 12599899, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.083, 
+        "sw_longitude": -100.727, 
+        "fullname": "Los Dolores, Coahuila de Zaragoza, Jimenez, Mexico", 
+        "sw_latitude": 29.074
+      }, 
+      "id": 131819
+    }
+  ]
+}

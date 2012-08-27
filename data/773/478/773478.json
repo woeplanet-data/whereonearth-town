@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.172, 
+              42.299
+            ], 
+            [
+              -3.172, 
+              42.347
+            ], 
+            [
+              -3.140, 
+              42.347
+            ], 
+            [
+              -3.140, 
+              42.299
+            ], 
+            [
+              -3.172, 
+              42.299
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.347, 
+        "name": "San Vicente del Valle", 
+        "adjacent_woeid": [
+          760203, 
+          760334, 
+          773926
+        ], 
+        "woeid": 773478, 
+        "alias_SPA_V": [
+          "S. Vicente del Valle"
+        ], 
+        "ne_longitude": -3.140, 
+        "longitude": -3.162, 
+        "parent_woeid": 12691637, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.337, 
+        "sw_longitude": -3.172, 
+        "fullname": "San Vicente del Valle, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.299
+      }, 
+      "id": 773478
+    }
+  ]
+}

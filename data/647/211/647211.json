@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.040, 
+              50.277
+            ], 
+            [
+              11.040, 
+              50.297
+            ], 
+            [
+              11.059, 
+              50.297
+            ], 
+            [
+              11.059, 
+              50.277
+            ], 
+            [
+              11.040, 
+              50.277
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647211, 
+        "name": "Einberg", 
+        "adjacent_woeid": [
+          675938, 
+          689944, 
+          695850, 
+          699231, 
+          703558
+        ], 
+        "ne_latitude": 50.297, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.059, 
+        "longitude": 11.047, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12635295, 
+        "latitude": 50.287, 
+        "sw_longitude": 11.040, 
+        "fullname": "Einberg, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.277
+      }, 
+      "id": 647211
+    }
+  ]
+}

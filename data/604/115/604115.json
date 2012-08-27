@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.698, 
+              48.683
+            ], 
+            [
+              3.698, 
+              48.692
+            ], 
+            [
+              3.712, 
+              48.692
+            ], 
+            [
+              3.712, 
+              48.683
+            ], 
+            [
+              3.698, 
+              48.683
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604115, 
+        "name": "Le Plessis", 
+        "adjacent_woeid": [
+          603521, 
+          621151, 
+          632342
+        ], 
+        "ne_latitude": 48.692, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.712, 
+        "longitude": 3.705, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 12647572, 
+        "latitude": 48.687, 
+        "sw_longitude": 3.698, 
+        "fullname": "Le Plessis, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.683
+      }, 
+      "id": 604115
+    }
+  ]
+}

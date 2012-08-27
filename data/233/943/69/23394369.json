@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.999, 
+              44.997
+            ], 
+            [
+              -73.999, 
+              45.105
+            ], 
+            [
+              -73.800, 
+              45.105
+            ], 
+            [
+              -73.800, 
+              44.997
+            ], 
+            [
+              -73.999, 
+              44.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394369, 
+        "name": "Franklin", 
+        "adjacent_woeid": [
+          3571, 
+          23394913, 
+          23395609, 
+          23396420
+        ], 
+        "ne_latitude": 45.105, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -73.800, 
+        "longitude": -73.926, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375136, 
+        "latitude": 45.029, 
+        "sw_longitude": -73.999, 
+        "fullname": "Franklin, Quebec, Le Haut-St-Laurent, Canada", 
+        "sw_latitude": 44.997
+      }, 
+      "id": 23394369
+    }
+  ]
+}

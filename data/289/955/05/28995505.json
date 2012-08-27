@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.968, 
+              47.272
+            ], 
+            [
+              10.968, 
+              47.290
+            ], 
+            [
+              10.994, 
+              47.290
+            ], 
+            [
+              10.994, 
+              47.272
+            ], 
+            [
+              10.968, 
+              47.272
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995505, 
+        "name": "Stams Siedlung", 
+        "adjacent_woeid": [
+          551250, 
+          551287, 
+          551334, 
+          551431, 
+          20096331
+        ], 
+        "ne_latitude": 47.290, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.994, 
+        "longitude": 10.981, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12675479, 
+        "latitude": 47.281, 
+        "sw_longitude": 10.968, 
+        "fullname": "Stams Siedlung, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.272
+      }, 
+      "id": 28995505
+    }
+  ]
+}

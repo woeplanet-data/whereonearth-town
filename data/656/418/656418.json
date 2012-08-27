@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.456, 
+              49.647
+            ], 
+            [
+              12.456, 
+              49.668
+            ], 
+            [
+              12.483, 
+              49.668
+            ], 
+            [
+              12.483, 
+              49.647
+            ], 
+            [
+              12.456, 
+              49.647
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656418, 
+        "name": "Hagendorf", 
+        "adjacent_woeid": [
+          675246, 
+          682856, 
+          684731, 
+          687686, 
+          708735
+        ], 
+        "ne_latitude": 49.668, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.483, 
+        "longitude": 12.465, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12634294, 
+        "latitude": 49.655, 
+        "sw_longitude": 12.456, 
+        "fullname": "Hagendorf, Bavaria, Landkreis Neustadt an der Waldnaab, Germany", 
+        "sw_latitude": 49.647
+      }, 
+      "id": 656418
+    }
+  ]
+}

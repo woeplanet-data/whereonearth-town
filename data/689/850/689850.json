@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.955, 
+              49.989
+            ], 
+            [
+              10.955, 
+              50.010
+            ], 
+            [
+              10.984, 
+              50.010
+            ], 
+            [
+              10.984, 
+              49.989
+            ], 
+            [
+              10.955, 
+              49.989
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689850, 
+        "name": "Roth", 
+        "adjacent_woeid": [
+          670585, 
+          681946, 
+          688253, 
+          706929, 
+          20156150
+        ], 
+        "ne_latitude": 50.010, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.984, 
+        "longitude": 10.969, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12635255, 
+        "latitude": 50.000, 
+        "sw_longitude": 10.955, 
+        "fullname": "Roth, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.989
+      }, 
+      "id": 689850
+    }
+  ]
+}

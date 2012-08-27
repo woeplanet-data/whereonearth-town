@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.410, 
+              22.474
+            ], 
+            [
+              -100.410, 
+              22.492
+            ], 
+            [
+              -100.390, 
+              22.492
+            ], 
+            [
+              -100.390, 
+              22.474
+            ], 
+            [
+              -100.410, 
+              22.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.492, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          111544, 
+          118146, 
+          124165, 
+          126047, 
+          129872, 
+          147586, 
+          148924
+        ], 
+        "woeid": 142935, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -100.390, 
+        "longitude": -100.400, 
+        "parent_woeid": 12601477, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.483, 
+        "sw_longitude": -100.410, 
+        "fullname": "San Isidro, San Luis Potosi, Cerritos, Mexico", 
+        "sw_latitude": 22.474
+      }, 
+      "id": 142935
+    }
+  ]
+}

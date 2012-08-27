@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.040, 
+              44.222
+            ], 
+            [
+              5.040, 
+              44.274
+            ], 
+            [
+              5.090, 
+              44.274
+            ], 
+            [
+              5.090, 
+              44.222
+            ], 
+            [
+              5.040, 
+              44.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629765, 
+        "name": "Vaison-la-Romaine", 
+        "adjacent_woeid": [
+          578703, 
+          582322, 
+          582328, 
+          587879, 
+          595575, 
+          609463, 
+          614755, 
+          618447, 
+          619597, 
+          621600, 
+          625463, 
+          626786, 
+          627423, 
+          629520, 
+          631652
+        ], 
+        "ne_latitude": 44.274, 
+        "ne_longitude": 5.090, 
+        "longitude": 5.072, 
+        "parent_woeid": 22757630, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vaison"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.244, 
+        "sw_longitude": 5.040, 
+        "fullname": "Vaison-la-Romaine, Provence-Alpes-Cote d'Azur, Vaucluse, France", 
+        "sw_latitude": 44.222
+      }, 
+      "id": 629765
+    }
+  ]
+}

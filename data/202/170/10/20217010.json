@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.666, 
+              48.792
+            ], 
+            [
+              3.666, 
+              48.804
+            ], 
+            [
+              3.680, 
+              48.804
+            ], 
+            [
+              3.680, 
+              48.792
+            ], 
+            [
+              3.666, 
+              48.792
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20217010, 
+        "name": "Le Bout de la Ville", 
+        "adjacent_woeid": [
+          584669, 
+          600471, 
+          600732, 
+          606134, 
+          20217009
+        ], 
+        "ne_latitude": 48.804, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.680, 
+        "longitude": 3.673, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12641143, 
+        "latitude": 48.800, 
+        "sw_longitude": 3.666, 
+        "fullname": "Le Bout de la Ville, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.792
+      }, 
+      "id": 20217010
+    }
+  ]
+}

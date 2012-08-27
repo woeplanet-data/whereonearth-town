@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.299, 
+              49.570
+            ], 
+            [
+              2.299, 
+              49.579
+            ], 
+            [
+              2.313, 
+              49.579
+            ], 
+            [
+              2.313, 
+              49.570
+            ], 
+            [
+              2.299, 
+              49.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218372, 
+        "name": "Bois-Renault", 
+        "adjacent_woeid": [
+          582865, 
+          614704, 
+          20218371, 
+          20218373
+        ], 
+        "ne_latitude": 49.579, 
+        "ne_longitude": 2.313, 
+        "longitude": 2.305, 
+        "parent_woeid": 22757290, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bois Renault"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.575, 
+        "sw_longitude": 2.299, 
+        "fullname": "Bois-Renault, Picardie, Oise, France", 
+        "sw_latitude": 49.570
+      }, 
+      "id": 20218372
+    }
+  ]
+}

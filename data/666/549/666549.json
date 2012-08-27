@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.692, 
+              52.923
+            ], 
+            [
+              10.692, 
+              52.944
+            ], 
+            [
+              10.715, 
+              52.944
+            ], 
+            [
+              10.715, 
+              52.923
+            ], 
+            [
+              10.692, 
+              52.923
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666549, 
+        "name": "Klein Pretzier", 
+        "adjacent_woeid": [
+          651478, 
+          651720, 
+          654651, 
+          664416, 
+          686948, 
+          705116
+        ], 
+        "ne_latitude": 52.944, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.715, 
+        "longitude": 10.702, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12629800, 
+        "latitude": 52.932, 
+        "sw_longitude": 10.692, 
+        "fullname": "Klein Pretzier, Lower Saxony, Landkreis Uelzen, Germany", 
+        "sw_latitude": 52.923
+      }, 
+      "id": 666549
+    }
+  ]
+}

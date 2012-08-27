@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.010, 
+              25.658
+            ], 
+            [
+              -108.010, 
+              25.676
+            ], 
+            [
+              -107.990, 
+              25.676
+            ], 
+            [
+              -107.990, 
+              25.658
+            ], 
+            [
+              -108.010, 
+              25.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.676, 
+        "name": "San Joaquin", 
+        "adjacent_woeid": [
+          111328, 
+          115355, 
+          122244, 
+          131200, 
+          135598, 
+          135607, 
+          140391
+        ], 
+        "woeid": 143159, 
+        "alias_SPA_V": [
+          "S. Joaquin"
+        ], 
+        "ne_longitude": -107.990, 
+        "longitude": -108.000, 
+        "parent_woeid": 12601544, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.667, 
+        "sw_longitude": -108.010, 
+        "fullname": "San Joaquin, Sinaloa, Sinaloa, Mexico", 
+        "sw_latitude": 25.658
+      }, 
+      "id": 143159
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.305, 
+              52.570
+            ], 
+            [
+              10.305, 
+              52.616
+            ], 
+            [
+              10.355, 
+              52.616
+            ], 
+            [
+              10.355, 
+              52.570
+            ], 
+            [
+              10.305, 
+              52.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658912, 
+        "name": "Helmerkamp", 
+        "adjacent_woeid": [
+          678461, 
+          680094, 
+          680310, 
+          695706
+        ], 
+        "ne_latitude": 52.616, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.355, 
+        "longitude": 10.327, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12629609, 
+        "latitude": 52.591, 
+        "sw_longitude": 10.305, 
+        "fullname": "Helmerkamp, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.570
+      }, 
+      "id": 658912
+    }
+  ]
+}

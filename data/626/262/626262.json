@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.112, 
+              43.690
+            ], 
+            [
+              7.112, 
+              43.708
+            ], 
+            [
+              7.131, 
+              43.708
+            ], 
+            [
+              7.131, 
+              43.690
+            ], 
+            [
+              7.112, 
+              43.690
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626262, 
+        "name": "St.-Paul", 
+        "adjacent_woeid": [
+          582630, 
+          597783, 
+          630528
+        ], 
+        "ne_latitude": 43.708, 
+        "alias_ENG_V": [
+          "Saint-Paul-de-Vence"
+        ], 
+        "ne_longitude": 7.131, 
+        "longitude": 7.122, 
+        "parent_woeid": 22757781, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Stpauldevence"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.699, 
+        "sw_longitude": 7.112, 
+        "fullname": "St.-Paul, St-Paul-de-Vence, Provence-Alpes-Cote d'Azur, Alpes-Maritimes, France", 
+        "sw_latitude": 43.690
+      }, 
+      "id": 626262
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.348, 
+              44.940
+            ], 
+            [
+              4.348, 
+              44.950
+            ], 
+            [
+              4.361, 
+              44.950
+            ], 
+            [
+              4.361, 
+              44.940
+            ], 
+            [
+              4.348, 
+              44.940
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20208504, 
+        "name": "Limis", 
+        "adjacent_woeid": [
+          584404, 
+          600714, 
+          624938, 
+          20208506
+        ], 
+        "ne_latitude": 44.950, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.361, 
+        "longitude": 4.354, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 22755353, 
+        "latitude": 44.945, 
+        "sw_longitude": 4.348, 
+        "fullname": "Limis, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 44.940
+      }, 
+      "id": 20208504
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.943, 
+              21.658
+            ], 
+            [
+              -104.943, 
+              21.676
+            ], 
+            [
+              -104.924, 
+              21.676
+            ], 
+            [
+              -104.924, 
+              21.658
+            ], 
+            [
+              -104.943, 
+              21.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.676, 
+        "name": "Las Pilas", 
+        "adjacent_woeid": [
+          113883, 
+          122586, 
+          127664, 
+          140978, 
+          141419, 
+          143748, 
+          146805
+        ], 
+        "woeid": 130809, 
+        "alias_SPA_V": [
+          "El Tepeguaje"
+        ], 
+        "ne_longitude": -104.924, 
+        "longitude": -104.933, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.667, 
+        "sw_longitude": -104.943, 
+        "fullname": "Las Pilas, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.658
+      }, 
+      "id": 130809
+    }
+  ]
+}

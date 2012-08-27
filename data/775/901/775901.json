@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.502, 
+              40.793
+            ], 
+            [
+              0.502, 
+              40.837
+            ], 
+            [
+              0.605, 
+              40.837
+            ], 
+            [
+              0.605, 
+              40.793
+            ], 
+            [
+              0.502, 
+              40.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.837, 
+        "name": "Tortosa", 
+        "adjacent_woeid": [
+          751890, 
+          751995, 
+          752034, 
+          752399, 
+          753036, 
+          754570, 
+          755783, 
+          766721, 
+          769980, 
+          772190, 
+          773598, 
+          775480, 
+          779255, 
+          15003714, 
+          15003715, 
+          20222596, 
+          29370338
+        ], 
+        "woeid": 775901, 
+        "alias_SPA_V": [
+          "Tortoza"
+        ], 
+        "ne_longitude": 0.605, 
+        "longitude": 0.521, 
+        "parent_woeid": 12694295, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.813, 
+        "sw_longitude": 0.502, 
+        "fullname": "Tortosa, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 40.793
+      }, 
+      "id": 775901
+    }
+  ]
+}

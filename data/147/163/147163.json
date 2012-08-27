@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.744, 
+              27.041
+            ], 
+            [
+              -107.744, 
+              27.059
+            ], 
+            [
+              -107.723, 
+              27.059
+            ], 
+            [
+              -107.723, 
+              27.041
+            ], 
+            [
+              -107.744, 
+              27.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.059, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          113271, 
+          113856, 
+          117717, 
+          126565
+        ], 
+        "woeid": 147163, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -107.723, 
+        "longitude": -107.733, 
+        "parent_woeid": 12599826, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.050, 
+        "sw_longitude": -107.744, 
+        "fullname": "Santo Domingo, Chihuahua, Batopilas, Mexico", 
+        "sw_latitude": 27.041
+      }, 
+      "id": 147163
+    }
+  ]
+}

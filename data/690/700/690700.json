@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.348, 
+              51.030
+            ], 
+            [
+              11.348, 
+              51.056
+            ], 
+            [
+              11.389, 
+              51.056
+            ], 
+            [
+              11.389, 
+              51.030
+            ], 
+            [
+              11.348, 
+              51.030
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690700, 
+        "name": "Sachsenhausen", 
+        "adjacent_woeid": [
+          655139, 
+          671471, 
+          671699, 
+          707486
+        ], 
+        "ne_latitude": 51.056, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.389, 
+        "longitude": 11.366, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12625236, 
+        "latitude": 51.044, 
+        "sw_longitude": 11.348, 
+        "fullname": "Sachsenhausen, Thuringia, Weimarer Land, Germany", 
+        "sw_latitude": 51.030
+      }, 
+      "id": 690700
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.848, 
+              -0.429
+            ], 
+            [
+              -77.848, 
+              -0.411
+            ], 
+            [
+              -77.830, 
+              -0.411
+            ], 
+            [
+              -77.830, 
+              -0.429
+            ], 
+            [
+              -77.848, 
+              -0.429
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -0.411, 
+        "name": "San Francisco de Borja", 
+        "adjacent_woeid": [
+          373407, 
+          375118, 
+          375256, 
+          375772, 
+          375857, 
+          376010
+        ], 
+        "woeid": 376233, 
+        "alias_SPA_V": [
+          "S Francisco de Borja"
+        ], 
+        "ne_longitude": -77.830, 
+        "longitude": -77.839, 
+        "parent_woeid": 26810405, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.420, 
+        "sw_longitude": -77.848, 
+        "fullname": "San Francisco de Borja, Napo, Quijos, Ecuador", 
+        "sw_latitude": -0.429
+      }, 
+      "id": 376233
+    }
+  ]
+}

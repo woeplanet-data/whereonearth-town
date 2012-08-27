@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.632, 
+              39.945
+            ], 
+            [
+              -77.632, 
+              40.105
+            ], 
+            [
+              -77.454, 
+              40.105
+            ], 
+            [
+              -77.454, 
+              39.945
+            ], 
+            [
+              -77.632, 
+              39.945
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745349, 
+        "name": "Southampton", 
+        "adjacent_woeid": [
+          2414086, 
+          2444335, 
+          2450244, 
+          2452907, 
+          2462595, 
+          2472957
+        ], 
+        "ne_latitude": 40.105, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Southampton Township"
+        ], 
+        "ne_longitude": -77.454, 
+        "longitude": -77.537, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589755, 
+        "latitude": 40.015, 
+        "sw_longitude": -77.632, 
+        "fullname": "Southampton, Pennsylvania, Franklin, United States", 
+        "sw_latitude": 39.945
+      }, 
+      "id": 28745349
+    }
+  ]
+}

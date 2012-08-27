@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.650, 
+              40.180
+            ], 
+            [
+              -74.650, 
+              40.267
+            ], 
+            [
+              -74.536, 
+              40.267
+            ], 
+            [
+              -74.536, 
+              40.180
+            ], 
+            [
+              -74.650, 
+              40.180
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745186, 
+        "name": "Washington", 
+        "adjacent_woeid": [
+          2482650, 
+          26342930, 
+          28339604, 
+          28339608, 
+          28745167
+        ], 
+        "ne_latitude": 40.267, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Washington Township"
+        ], 
+        "ne_longitude": -74.536, 
+        "longitude": -74.635, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589268, 
+        "latitude": 40.227, 
+        "sw_longitude": -74.650, 
+        "fullname": "Washington, New Jersey, Mercer, United States", 
+        "sw_latitude": 40.180
+      }, 
+      "id": 28745186
+    }
+  ]
+}

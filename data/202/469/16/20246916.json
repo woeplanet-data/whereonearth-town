@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.358, 
+              28.517
+            ], 
+            [
+              -16.358, 
+              28.526
+            ], 
+            [
+              -16.347, 
+              28.526
+            ], 
+            [
+              -16.347, 
+              28.517
+            ], 
+            [
+              -16.358, 
+              28.517
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.526, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          20222585, 
+          29372756, 
+          29372757, 
+          29372758
+        ], 
+        "woeid": 20246916, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -16.347, 
+        "longitude": -16.353, 
+        "parent_woeid": 12690204, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.521, 
+        "sw_longitude": -16.358, 
+        "fullname": "San Luis, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.517
+      }, 
+      "id": 20246916
+    }
+  ]
+}

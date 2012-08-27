@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.651, 
+              17.858
+            ], 
+            [
+              -93.651, 
+              17.876
+            ], 
+            [
+              -93.632, 
+              17.876
+            ], 
+            [
+              -93.632, 
+              17.858
+            ], 
+            [
+              -93.651, 
+              17.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.876, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          113823, 
+          116191, 
+          133247, 
+          142408, 
+          144577
+        ], 
+        "woeid": 142590, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -93.632, 
+        "longitude": -93.642, 
+        "parent_woeid": 12601622, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.867, 
+        "sw_longitude": -93.651, 
+        "fullname": "San Francisco, Tabasco, Huimanguillo, Mexico", 
+        "sw_latitude": 17.858
+      }, 
+      "id": 142590
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.707, 
+              42.848
+            ], 
+            [
+              0.707, 
+              42.887
+            ], 
+            [
+              0.750, 
+              42.887
+            ], 
+            [
+              0.750, 
+              42.848
+            ], 
+            [
+              0.707, 
+              42.848
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591638, 
+        "name": "Fos", 
+        "adjacent_woeid": [
+          576600, 
+          576626, 
+          610898
+        ], 
+        "ne_latitude": 42.887, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.750, 
+        "longitude": 0.734, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12661633, 
+        "latitude": 42.873, 
+        "sw_longitude": 0.707, 
+        "fullname": "Fos, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 42.848
+      }, 
+      "id": 591638
+    }
+  ]
+}

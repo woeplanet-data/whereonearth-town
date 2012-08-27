@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.677, 
+              22.558
+            ], 
+            [
+              -100.677, 
+              22.576
+            ], 
+            [
+              -100.657, 
+              22.576
+            ], 
+            [
+              -100.657, 
+              22.558
+            ], 
+            [
+              -100.677, 
+              22.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.576, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          115724, 
+          120627, 
+          125641, 
+          136460, 
+          141235
+        ], 
+        "woeid": 144112, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -100.657, 
+        "longitude": -100.667, 
+        "parent_woeid": 12601523, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.567, 
+        "sw_longitude": -100.677, 
+        "fullname": "San Lorenzo, San Luis Potosi, Villa Hidalgo, Mexico", 
+        "sw_latitude": 22.558
+      }, 
+      "id": 144112
+    }
+  ]
+}

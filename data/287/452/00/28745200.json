@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.775, 
+              39.923
+            ], 
+            [
+              -75.775, 
+              39.997
+            ], 
+            [
+              -75.655, 
+              39.997
+            ], 
+            [
+              -75.655, 
+              39.923
+            ], 
+            [
+              -75.775, 
+              39.923
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745200, 
+        "name": "West Bradford", 
+        "adjacent_woeid": [
+          2373383, 
+          2484233, 
+          2505892, 
+          28339934, 
+          28745199, 
+          28745201
+        ], 
+        "ne_latitude": 39.997, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "W Bradford Township"
+        ], 
+        "ne_longitude": -75.655, 
+        "longitude": -75.733, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589742, 
+        "latitude": 39.980, 
+        "sw_longitude": -75.775, 
+        "fullname": "West Bradford, Pennsylvania, Chester, United States", 
+        "sw_latitude": 39.923
+      }, 
+      "id": 28745200
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.854, 
+              43.208
+            ], 
+            [
+              0.854, 
+              43.236
+            ], 
+            [
+              0.901, 
+              43.236
+            ], 
+            [
+              0.901, 
+              43.208
+            ], 
+            [
+              0.854, 
+              43.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 577344, 
+        "name": "Aurignac", 
+        "adjacent_woeid": [
+          575641, 
+          577503, 
+          581113, 
+          581362, 
+          581492, 
+          583184, 
+          583514, 
+          583515, 
+          596654, 
+          602964, 
+          602978, 
+          612965, 
+          616421, 
+          623821, 
+          624085, 
+          625785
+        ], 
+        "ne_latitude": 43.236, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.901, 
+        "longitude": 0.876, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12655854, 
+        "latitude": 43.221, 
+        "sw_longitude": 0.854, 
+        "fullname": "Aurignac, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.208
+      }, 
+      "id": 577344
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.123, 
+              43.371
+            ], 
+            [
+              -0.123, 
+              43.412
+            ], 
+            [
+              -0.084, 
+              43.412
+            ], 
+            [
+              -0.084, 
+              43.371
+            ], 
+            [
+              -0.123, 
+              43.371
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611828, 
+        "name": "Momy", 
+        "adjacent_woeid": [
+          576236, 
+          577941, 
+          579299, 
+          608886, 
+          610585, 
+          616385, 
+          621568, 
+          631802
+        ], 
+        "ne_latitude": 43.412, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.084, 
+        "longitude": -0.109, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12649283, 
+        "latitude": 43.397, 
+        "sw_longitude": -0.123, 
+        "fullname": "Momy, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.371
+      }, 
+      "id": 611828
+    }
+  ]
+}

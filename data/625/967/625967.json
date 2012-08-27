@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.235, 
+              43.109
+            ], 
+            [
+              -1.235, 
+              43.146
+            ], 
+            [
+              -1.202, 
+              43.146
+            ], 
+            [
+              -1.202, 
+              43.109
+            ], 
+            [
+              -1.235, 
+              43.109
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625967, 
+        "name": "St.-Michel", 
+        "adjacent_woeid": [
+          575567, 
+          576672, 
+          583111, 
+          590169, 
+          629579
+        ], 
+        "ne_latitude": 43.146, 
+        "ne_longitude": -1.202, 
+        "longitude": -1.221, 
+        "parent_woeid": 12652987, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Michel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.136, 
+        "sw_longitude": -1.235, 
+        "fullname": "St.-Michel, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.109
+      }, 
+      "id": 625967
+    }
+  ]
+}

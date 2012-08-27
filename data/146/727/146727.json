@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.472, 
+              24.590
+            ], 
+            [
+              -111.472, 
+              24.608
+            ], 
+            [
+              -111.452, 
+              24.608
+            ], 
+            [
+              -111.452, 
+              24.590
+            ], 
+            [
+              -111.472, 
+              24.590
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.608, 
+        "name": "Santa Rita", 
+        "adjacent_woeid": [
+          121995, 
+          130908, 
+          137809, 
+          137812, 
+          150896
+        ], 
+        "woeid": 146727, 
+        "alias_SPA_V": [
+          "Sta Rita"
+        ], 
+        "ne_longitude": -111.452, 
+        "longitude": -111.462, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.599, 
+        "sw_longitude": -111.472, 
+        "fullname": "Santa Rita, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 24.590
+      }, 
+      "id": 146727
+    }
+  ]
+}

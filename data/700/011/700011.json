@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.162, 
+              49.918
+            ], 
+            [
+              12.162, 
+              49.950
+            ], 
+            [
+              12.186, 
+              49.950
+            ], 
+            [
+              12.186, 
+              49.918
+            ], 
+            [
+              12.162, 
+              49.918
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700011, 
+        "name": "Triebendorf", 
+        "adjacent_woeid": [
+          663024, 
+          693034, 
+          20158585
+        ], 
+        "ne_latitude": 49.950, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.186, 
+        "longitude": 12.173, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:35Z", 
+        "parent_woeid": 12634353, 
+        "latitude": 49.926, 
+        "sw_longitude": 12.162, 
+        "fullname": "Triebendorf, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 49.918
+      }, 
+      "id": 700011
+    }
+  ]
+}

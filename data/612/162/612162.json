@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.607, 
+              47.928
+            ], 
+            [
+              3.607, 
+              47.975
+            ], 
+            [
+              3.645, 
+              47.975
+            ], 
+            [
+              3.645, 
+              47.928
+            ], 
+            [
+              3.607, 
+              47.928
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612162, 
+        "name": "Mont-St.-Sulpice", 
+        "adjacent_woeid": [
+          577668, 
+          581050, 
+          585821, 
+          594504, 
+          605414, 
+          615172, 
+          618951
+        ], 
+        "ne_latitude": 47.975, 
+        "ne_longitude": 3.645, 
+        "longitude": 3.627, 
+        "parent_woeid": 12638178, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mont-Saint-Sulpice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.952, 
+        "sw_longitude": 3.607, 
+        "fullname": "Mont-St.-Sulpice, Burgundy, Yonne, France", 
+        "sw_latitude": 47.928
+      }, 
+      "id": 612162
+    }
+  ]
+}

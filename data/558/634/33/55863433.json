@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.220, 
+              48.821
+            ], 
+            [
+              2.220, 
+              48.855
+            ], 
+            [
+              2.263, 
+              48.855
+            ], 
+            [
+              2.263, 
+              48.821
+            ], 
+            [
+              2.220, 
+              48.821
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863433, 
+        "name": "Boulogne-Billancourt", 
+        "adjacent_woeid": [
+          611329, 
+          615702, 
+          55863487, 
+          55863575, 
+          55863577
+        ], 
+        "ne_latitude": 48.855, 
+        "ne_longitude": 2.263, 
+        "longitude": 2.241, 
+        "parent_woeid": 12638945, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Boulogne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.835, 
+        "sw_longitude": 2.220, 
+        "fullname": "Boulogne-Billancourt, Ile-de-France, Hauts-de-Seine, France", 
+        "sw_latitude": 48.821
+      }, 
+      "id": 55863433
+    }
+  ]
+}

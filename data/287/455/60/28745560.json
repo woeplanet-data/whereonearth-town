@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.940, 
+              40.389
+            ], 
+            [
+              -77.940, 
+              40.550
+            ], 
+            [
+              -77.816, 
+              40.550
+            ], 
+            [
+              -77.816, 
+              40.389
+            ], 
+            [
+              -77.940, 
+              40.389
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745560, 
+        "name": "Brady", 
+        "adjacent_woeid": [
+          2357001, 
+          2440244, 
+          28745422, 
+          28745530, 
+          28745632
+        ], 
+        "ne_latitude": 40.550, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Brady Township"
+        ], 
+        "ne_longitude": -77.816, 
+        "longitude": -77.868, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589758, 
+        "latitude": 40.484, 
+        "sw_longitude": -77.940, 
+        "fullname": "Brady, Pennsylvania, Huntingdon, United States", 
+        "sw_latitude": 40.389
+      }, 
+      "id": 28745560
+    }
+  ]
+}

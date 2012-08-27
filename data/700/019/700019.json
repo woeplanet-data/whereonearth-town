@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.734, 
+              49.888
+            ], 
+            [
+              10.734, 
+              49.906
+            ], 
+            [
+              10.762, 
+              49.906
+            ], 
+            [
+              10.762, 
+              49.888
+            ], 
+            [
+              10.734, 
+              49.888
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700019, 
+        "name": "Triefenbach", 
+        "adjacent_woeid": [
+          649428, 
+          699723, 
+          700265, 
+          704602, 
+          20156147
+        ], 
+        "ne_latitude": 49.906, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.762, 
+        "longitude": 10.748, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:35Z", 
+        "parent_woeid": 12635239, 
+        "latitude": 49.897, 
+        "sw_longitude": 10.734, 
+        "fullname": "Triefenbach, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.888
+      }, 
+      "id": 700019
+    }
+  ]
+}

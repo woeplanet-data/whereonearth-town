@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.527, 
+              50.050
+            ], 
+            [
+              1.527, 
+              50.081
+            ], 
+            [
+              1.561, 
+              50.081
+            ], 
+            [
+              1.561, 
+              50.050
+            ], 
+            [
+              1.527, 
+              50.050
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 632982, 
+        "name": "Woincourt", 
+        "adjacent_woeid": [
+          577262, 
+          588519, 
+          592076, 
+          592157, 
+          592363, 
+          626653, 
+          633088
+        ], 
+        "ne_latitude": 50.081, 
+        "ne_longitude": 1.561, 
+        "longitude": 1.539, 
+        "parent_woeid": 12672863, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Wornicourt"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.067, 
+        "sw_longitude": 1.527, 
+        "fullname": "Woincourt, Picardie, Somme, France", 
+        "sw_latitude": 50.050
+      }, 
+      "id": 632982
+    }
+  ]
+}

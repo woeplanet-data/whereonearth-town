@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.317, 
+              50.870
+            ], 
+            [
+              13.317, 
+              50.906
+            ], 
+            [
+              13.360, 
+              50.906
+            ], 
+            [
+              13.360, 
+              50.870
+            ], 
+            [
+              13.317, 
+              50.870
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709261, 
+        "name": "Zug", 
+        "adjacent_woeid": [
+          638419, 
+          656897, 
+          659876, 
+          670249, 
+          704936, 
+          20161597
+        ], 
+        "ne_latitude": 50.906, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.360, 
+        "longitude": 13.347, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12625589, 
+        "latitude": 50.891, 
+        "sw_longitude": 13.317, 
+        "fullname": "Zug, Saxony, Landkreis Freiberg, Germany", 
+        "sw_latitude": 50.870
+      }, 
+      "id": 709261
+    }
+  ]
+}

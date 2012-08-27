@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.518, 
+              41.206
+            ], 
+            [
+              1.518, 
+              41.235
+            ], 
+            [
+              1.554, 
+              41.235
+            ], 
+            [
+              1.554, 
+              41.206
+            ], 
+            [
+              1.518, 
+              41.206
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.235, 
+        "name": "El Vendrell", 
+        "adjacent_woeid": [
+          751718, 
+          754140, 
+          754712, 
+          755449, 
+          772102, 
+          773464, 
+          773929, 
+          779250, 
+          20220961, 
+          23413879, 
+          23414033, 
+          23414355, 
+          23414362, 
+          23414478, 
+          29369967, 
+          29369985, 
+          29370336
+        ], 
+        "woeid": 759808, 
+        "alias_SPA_V": [
+          "Vendrell"
+        ], 
+        "ne_longitude": 1.554, 
+        "longitude": 1.538, 
+        "parent_woeid": 12694303, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.222, 
+        "sw_longitude": 1.518, 
+        "fullname": "El Vendrell, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.206
+      }, 
+      "id": 759808
+    }
+  ]
+}

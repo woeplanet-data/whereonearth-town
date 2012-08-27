@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.180, 
+              46.518
+            ], 
+            [
+              1.180, 
+              46.572
+            ], 
+            [
+              1.222, 
+              46.572
+            ], 
+            [
+              1.222, 
+              46.518
+            ], 
+            [
+              1.180, 
+              46.518
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583883, 
+        "name": "Chalais", 
+        "adjacent_woeid": [
+          579015, 
+          608040, 
+          619648, 
+          20185457, 
+          29332479
+        ], 
+        "ne_latitude": 46.572, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.222, 
+        "longitude": 1.197, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12640772, 
+        "latitude": 46.537, 
+        "sw_longitude": 1.180, 
+        "fullname": "Chalais, Centre, Indre, France", 
+        "sw_latitude": 46.518
+      }, 
+      "id": 583883
+    }
+  ]
+}

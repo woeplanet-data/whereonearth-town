@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.137, 
+              37.654
+            ], 
+            [
+              -85.137, 
+              37.663
+            ], 
+            [
+              -85.125, 
+              37.663
+            ], 
+            [
+              -85.125, 
+              37.654
+            ], 
+            [
+              -85.137, 
+              37.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2505007, 
+        "name": "Texas", 
+        "adjacent_woeid": [
+          2476002, 
+          2481453, 
+          2481520, 
+          2505838
+        ], 
+        "ne_latitude": 37.663, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -85.125, 
+        "longitude": -85.131, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:32:22Z", 
+        "parent_woeid": 12588590, 
+        "latitude": 37.659, 
+        "sw_longitude": -85.137, 
+        "fullname": "Texas, Kentucky, Washington, United States", 
+        "sw_latitude": 37.654
+      }, 
+      "id": 2505007
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.648, 
+              49.173
+            ], 
+            [
+              1.648, 
+              49.193
+            ], 
+            [
+              1.672, 
+              49.193
+            ], 
+            [
+              1.672, 
+              49.173
+            ], 
+            [
+              1.648, 
+              49.173
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579500, 
+        "name": "Berthenonville", 
+        "adjacent_woeid": [
+          584937, 
+          588461, 
+          611780, 
+          613062
+        ], 
+        "ne_latitude": 49.193, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.672, 
+        "longitude": 1.661, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 20074860, 
+        "latitude": 49.183, 
+        "sw_longitude": 1.648, 
+        "fullname": "Berthenonville, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.173
+      }, 
+      "id": 579500
+    }
+  ]
+}

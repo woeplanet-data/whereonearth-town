@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.888, 
+              45.478
+            ], 
+            [
+              4.888, 
+              45.503
+            ], 
+            [
+              4.925, 
+              45.503
+            ], 
+            [
+              4.925, 
+              45.478
+            ], 
+            [
+              4.888, 
+              45.478
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595427, 
+        "name": "Jardin", 
+        "adjacent_woeid": [
+          579309, 
+          626998, 
+          20209341, 
+          20209344
+        ], 
+        "ne_latitude": 45.503, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.925, 
+        "longitude": 4.908, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "parent_woeid": 12656799, 
+        "latitude": 45.495, 
+        "sw_longitude": 4.888, 
+        "fullname": "Jardin, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.478
+      }, 
+      "id": 595427
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.443, 
+              42.201
+            ], 
+            [
+              2.443, 
+              42.241
+            ], 
+            [
+              2.467, 
+              42.241
+            ], 
+            [
+              2.467, 
+              42.201
+            ], 
+            [
+              2.443, 
+              42.201
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.241, 
+        "name": "Vall de Vianya", 
+        "adjacent_woeid": [
+          755784, 
+          767493, 
+          768766, 
+          771992, 
+          772940, 
+          773235, 
+          773561, 
+          20223487
+        ], 
+        "woeid": 776737, 
+        "alias_SPA_V": [
+          "La Vall de Bianya"
+        ], 
+        "ne_longitude": 2.467, 
+        "longitude": 2.454, 
+        "parent_woeid": 12693883, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.211, 
+        "sw_longitude": 2.443, 
+        "fullname": "Vall de Vianya, Catalonia, Gerona, Spain", 
+        "sw_latitude": 42.201
+      }, 
+      "id": 776737
+    }
+  ]
+}

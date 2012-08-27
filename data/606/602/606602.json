@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.384, 
+              49.873
+            ], 
+            [
+              1.384, 
+              49.899
+            ], 
+            [
+              1.404, 
+              49.899
+            ], 
+            [
+              1.404, 
+              49.873
+            ], 
+            [
+              1.384, 
+              49.873
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 606602, 
+        "name": "Les Ifs", 
+        "adjacent_woeid": [
+          577880, 
+          590918, 
+          592057, 
+          632813
+        ], 
+        "ne_latitude": 49.899, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.404, 
+        "longitude": 1.396, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12648015, 
+        "latitude": 49.886, 
+        "sw_longitude": 1.384, 
+        "fullname": "Les Ifs, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.873
+      }, 
+      "id": 606602
+    }
+  ]
+}

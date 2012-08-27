@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.594, 
+              46.518
+            ], 
+            [
+              2.594, 
+              46.561
+            ], 
+            [
+              2.630, 
+              46.561
+            ], 
+            [
+              2.630, 
+              46.518
+            ], 
+            [
+              2.594, 
+              46.518
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629951, 
+        "name": "Vallon-en-Sully", 
+        "adjacent_woeid": [
+          575565, 
+          583638, 
+          585430, 
+          587126, 
+          588888, 
+          589154, 
+          589800, 
+          594706, 
+          595083, 
+          602278, 
+          609301, 
+          610793, 
+          612875, 
+          613909, 
+          623749, 
+          627303, 
+          630977
+        ], 
+        "ne_latitude": 46.561, 
+        "ne_longitude": 2.630, 
+        "longitude": 2.606, 
+        "parent_woeid": 12640999, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vallon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.537, 
+        "sw_longitude": 2.594, 
+        "fullname": "Vallon-en-Sully, Auvergne, Allier, France", 
+        "sw_latitude": 46.518
+      }, 
+      "id": 629951
+    }
+  ]
+}

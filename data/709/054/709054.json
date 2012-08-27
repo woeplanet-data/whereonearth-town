@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.762, 
+              54.321
+            ], 
+            [
+              12.762, 
+              54.353
+            ], 
+            [
+              12.794, 
+              54.353
+            ], 
+            [
+              12.794, 
+              54.321
+            ], 
+            [
+              12.762, 
+              54.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709054, 
+        "name": "Zipke", 
+        "adjacent_woeid": [
+          643438, 
+          649929, 
+          664961, 
+          669658, 
+          690172, 
+          690650
+        ], 
+        "ne_latitude": 54.353, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.794, 
+        "longitude": 12.778, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12636436, 
+        "latitude": 54.343, 
+        "sw_longitude": 12.762, 
+        "fullname": "Zipke, Mecklenburg-Vorpommern, Nordvorpommern, Germany", 
+        "sw_latitude": 54.321
+      }, 
+      "id": 709054
+    }
+  ]
+}

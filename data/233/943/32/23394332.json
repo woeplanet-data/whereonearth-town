@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.488, 
+              45.114
+            ], 
+            [
+              -72.488, 
+              45.266
+            ], 
+            [
+              -72.411, 
+              45.266
+            ], 
+            [
+              -72.411, 
+              45.114
+            ], 
+            [
+              -72.488, 
+              45.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394332, 
+        "name": "Bolton-Ouest", 
+        "adjacent_woeid": [
+          3565, 
+          3572, 
+          23394553, 
+          23395873, 
+          23396334, 
+          23396380
+        ], 
+        "ne_latitude": 45.266, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "West Bolton"
+        ], 
+        "ne_longitude": -72.411, 
+        "longitude": -72.463, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375053, 
+        "latitude": 45.202, 
+        "sw_longitude": -72.488, 
+        "fullname": "Bolton-Ouest, Quebec, Brome-Missisquoi, Canada", 
+        "sw_latitude": 45.114
+      }, 
+      "id": 23394332
+    }
+  ]
+}

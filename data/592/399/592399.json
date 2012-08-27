@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.742, 
+              42.755
+            ], 
+            [
+              1.742, 
+              42.770
+            ], 
+            [
+              1.756, 
+              42.770
+            ], 
+            [
+              1.756, 
+              42.755
+            ], 
+            [
+              1.742, 
+              42.755
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592399, 
+        "name": "Garanou", 
+        "adjacent_woeid": [
+          601627, 
+          608629, 
+          629627, 
+          630769
+        ], 
+        "ne_latitude": 42.770, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.756, 
+        "longitude": 1.750, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12661928, 
+        "latitude": 42.766, 
+        "sw_longitude": 1.742, 
+        "fullname": "Garanou, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 42.755
+      }, 
+      "id": 592399
+    }
+  ]
+}

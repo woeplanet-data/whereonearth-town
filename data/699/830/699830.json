@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.397, 
+              49.923
+            ], 
+            [
+              10.397, 
+              49.957
+            ], 
+            [
+              10.425, 
+              49.957
+            ], 
+            [
+              10.425, 
+              49.923
+            ], 
+            [
+              10.397, 
+              49.923
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 699830, 
+        "name": "Traustadt", 
+        "adjacent_woeid": [
+          634778, 
+          639256, 
+          649292, 
+          662875, 
+          667112, 
+          702556
+        ], 
+        "ne_latitude": 49.957, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.425, 
+        "longitude": 10.412, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:35Z", 
+        "parent_woeid": 12635415, 
+        "latitude": 49.940, 
+        "sw_longitude": 10.397, 
+        "fullname": "Traustadt, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.923
+      }, 
+      "id": 699830
+    }
+  ]
+}

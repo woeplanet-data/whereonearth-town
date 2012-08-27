@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.959, 
+              47.338
+            ], 
+            [
+              15.959, 
+              47.356
+            ], 
+            [
+              15.986, 
+              47.356
+            ], 
+            [
+              15.986, 
+              47.338
+            ], 
+            [
+              15.959, 
+              47.338
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28996371, 
+        "name": "Kleinerdwegen", 
+        "adjacent_woeid": [
+          548327, 
+          549646, 
+          549977, 
+          23406324
+        ], 
+        "ne_latitude": 47.356, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.986, 
+        "longitude": 15.973, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:40Z", 
+        "parent_woeid": 12675092, 
+        "latitude": 47.347, 
+        "sw_longitude": 15.959, 
+        "fullname": "Kleinerdwegen, Styria, Hartberg, Austria", 
+        "sw_latitude": 47.338
+      }, 
+      "id": 28996371
+    }
+  ]
+}

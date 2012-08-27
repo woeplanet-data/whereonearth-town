@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.779, 
+              44.694
+            ], 
+            [
+              1.779, 
+              44.729
+            ], 
+            [
+              1.805, 
+              44.729
+            ], 
+            [
+              1.805, 
+              44.694
+            ], 
+            [
+              1.779, 
+              44.694
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591063, 
+        "name": "Flaujac-Gare", 
+        "adjacent_woeid": [
+          595287, 
+          600772, 
+          619060, 
+          626988, 
+          628362
+        ], 
+        "ne_latitude": 44.729, 
+        "ne_longitude": 1.805, 
+        "longitude": 1.796, 
+        "parent_woeid": 12661419, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Flaujac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.712, 
+        "sw_longitude": 1.779, 
+        "fullname": "Flaujac-Gare, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.694
+      }, 
+      "id": 591063
+    }
+  ]
+}

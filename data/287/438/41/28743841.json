@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.563, 
+              41.985
+            ], 
+            [
+              -86.563, 
+              42.051
+            ], 
+            [
+              -86.465, 
+              42.051
+            ], 
+            [
+              -86.465, 
+              41.985
+            ], 
+            [
+              -86.563, 
+              41.985
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28743841, 
+        "name": "Lincoln", 
+        "adjacent_woeid": [
+          2355654, 
+          2391376, 
+          2489990, 
+          2493089, 
+          28743840, 
+          28743842
+        ], 
+        "ne_latitude": 42.051, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lincoln Township"
+        ], 
+        "ne_longitude": -86.465, 
+        "longitude": -86.514, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12588724, 
+        "latitude": 42.014, 
+        "sw_longitude": -86.563, 
+        "fullname": "Lincoln, Michigan, Berrien, United States", 
+        "sw_latitude": 41.985
+      }, 
+      "id": 28743841
+    }
+  ]
+}

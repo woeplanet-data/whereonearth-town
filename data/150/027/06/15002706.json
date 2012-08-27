@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.327, 
+              53.388
+            ], 
+            [
+              10.327, 
+              53.422
+            ], 
+            [
+              10.395, 
+              53.422
+            ], 
+            [
+              10.395, 
+              53.388
+            ], 
+            [
+              10.327, 
+              53.388
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 15002706, 
+        "name": "Marschacht", 
+        "adjacent_woeid": [
+          636856, 
+          647027, 
+          651788, 
+          657110, 
+          669204, 
+          679683, 
+          681721, 
+          689510, 
+          698891, 
+          707071
+        ], 
+        "ne_latitude": 53.422, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.395, 
+        "longitude": 10.375, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:11Z", 
+        "parent_woeid": 12629632, 
+        "latitude": 53.415, 
+        "sw_longitude": 10.327, 
+        "fullname": "Marschacht, Lower Saxony, Harburg, Germany", 
+        "sw_latitude": 53.388
+      }, 
+      "id": 15002706
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.003, 
+              50.324
+            ], 
+            [
+              11.003, 
+              50.342
+            ], 
+            [
+              11.031, 
+              50.342
+            ], 
+            [
+              11.031, 
+              50.324
+            ], 
+            [
+              11.003, 
+              50.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652222, 
+        "name": "Gereuth", 
+        "adjacent_woeid": [
+          649785, 
+          650090, 
+          675433, 
+          681631, 
+          682650, 
+          699448, 
+          703815, 
+          704950
+        ], 
+        "ne_latitude": 50.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.031, 
+        "longitude": 11.017, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12635295, 
+        "latitude": 50.333, 
+        "sw_longitude": 11.003, 
+        "fullname": "Gereuth, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.324
+      }, 
+      "id": 652222
+    }
+  ]
+}

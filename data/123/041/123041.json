@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.701, 
+              26.770
+            ], 
+            [
+              -108.701, 
+              26.788
+            ], 
+            [
+              -108.680, 
+              26.788
+            ], 
+            [
+              -108.680, 
+              26.770
+            ], 
+            [
+              -108.701, 
+              26.770
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.788, 
+        "name": "El Zapote", 
+        "adjacent_woeid": [
+          111236, 
+          113944, 
+          119340, 
+          119758, 
+          126966, 
+          137251
+        ], 
+        "woeid": 123041, 
+        "alias_SPA_V": [
+          "Zapote"
+        ], 
+        "ne_longitude": -108.680, 
+        "longitude": -108.691, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.779, 
+        "sw_longitude": -108.701, 
+        "fullname": "El Zapote, Sonora, Alamos, Mexico", 
+        "sw_latitude": 26.770
+      }, 
+      "id": 123041
+    }
+  ]
+}

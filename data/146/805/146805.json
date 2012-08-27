@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.910, 
+              21.674
+            ], 
+            [
+              -104.910, 
+              21.692
+            ], 
+            [
+              -104.890, 
+              21.692
+            ], 
+            [
+              -104.890, 
+              21.674
+            ], 
+            [
+              -104.910, 
+              21.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.692, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          112659, 
+          130809, 
+          140978, 
+          141419, 
+          145245
+        ], 
+        "woeid": 146805, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -104.890, 
+        "longitude": -104.900, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.683, 
+        "sw_longitude": -104.910, 
+        "fullname": "Santa Rosa, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.674
+      }, 
+      "id": 146805
+    }
+  ]
+}

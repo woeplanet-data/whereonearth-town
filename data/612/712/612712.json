@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.278, 
+              47.332
+            ], 
+            [
+              1.278, 
+              47.355
+            ], 
+            [
+              1.320, 
+              47.355
+            ], 
+            [
+              1.320, 
+              47.332
+            ], 
+            [
+              1.278, 
+              47.332
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612712, 
+        "name": "Monthou-sur-Cher", 
+        "adjacent_woeid": [
+          585957, 
+          617465, 
+          617654, 
+          628393, 
+          20186837, 
+          20186838, 
+          20186844
+        ], 
+        "ne_latitude": 47.355, 
+        "ne_longitude": 1.320, 
+        "longitude": 1.295, 
+        "parent_woeid": 12649515, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Monthou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.346, 
+        "sw_longitude": 1.278, 
+        "fullname": "Monthou-sur-Cher, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.332
+      }, 
+      "id": 612712
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.682, 
+              44.176
+            ], 
+            [
+              0.682, 
+              44.204
+            ], 
+            [
+              0.720, 
+              44.204
+            ], 
+            [
+              0.720, 
+              44.176
+            ], 
+            [
+              0.682, 
+              44.176
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20197445, 
+        "name": "St.-Amans", 
+        "adjacent_woeid": [
+          623384, 
+          626424, 
+          20197433, 
+          20197440, 
+          29331772
+        ], 
+        "ne_latitude": 44.204, 
+        "ne_longitude": 0.720, 
+        "longitude": 0.699, 
+        "parent_woeid": 12640506, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Amans"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.185, 
+        "sw_longitude": 0.682, 
+        "fullname": "St.-Amans, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.176
+      }, 
+      "id": 20197445
+    }
+  ]
+}

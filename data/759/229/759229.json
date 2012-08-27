@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.146, 
+              43.207
+            ], 
+            [
+              -3.146, 
+              43.237
+            ], 
+            [
+              -3.115, 
+              43.237
+            ], 
+            [
+              -3.115, 
+              43.207
+            ], 
+            [
+              -3.146, 
+              43.207
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.237, 
+        "name": "Zalla", 
+        "adjacent_woeid": [
+          753524, 
+          761274, 
+          761946, 
+          778546, 
+          779334, 
+          20229040, 
+          23413162
+        ], 
+        "woeid": 759229, 
+        "alias_SPA_V": [
+          "El Corrillo"
+        ], 
+        "ne_longitude": -3.115, 
+        "longitude": -3.130, 
+        "parent_woeid": 12695260, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.213, 
+        "sw_longitude": -3.146, 
+        "fullname": "Zalla, Basque Country, Biscay, Spain", 
+        "sw_latitude": 43.207
+      }, 
+      "id": 759229
+    }
+  ]
+}

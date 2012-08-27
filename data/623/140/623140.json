@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.914, 
+              45.791
+            ], 
+            [
+              0.914, 
+              45.818
+            ], 
+            [
+              0.945, 
+              45.818
+            ], 
+            [
+              0.945, 
+              45.791
+            ], 
+            [
+              0.914, 
+              45.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623140, 
+        "name": "St.-Auvent", 
+        "adjacent_woeid": [
+          579872, 
+          583843, 
+          586393, 
+          599279, 
+          623645, 
+          625621
+        ], 
+        "ne_latitude": 45.818, 
+        "ne_longitude": 0.945, 
+        "longitude": 0.933, 
+        "parent_woeid": 12659404, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Auvent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.804, 
+        "sw_longitude": 0.914, 
+        "fullname": "St.-Auvent, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.791
+      }, 
+      "id": 623140
+    }
+  ]
+}

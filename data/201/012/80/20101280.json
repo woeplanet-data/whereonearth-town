@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.118, 
+              46.305
+            ], 
+            [
+              6.118, 
+              46.324
+            ], 
+            [
+              6.145, 
+              46.324
+            ], 
+            [
+              6.145, 
+              46.305
+            ], 
+            [
+              6.118, 
+              46.305
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20101280, 
+        "name": "Chavannes-des-Bois", 
+        "adjacent_woeid": [
+          20101544, 
+          20102449
+        ], 
+        "ne_latitude": 46.324, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.145, 
+        "longitude": 6.132, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 20075624, 
+        "latitude": 46.315, 
+        "sw_longitude": 6.118, 
+        "fullname": "Chavannes-des-Bois, Canton of Vaud, Nyon, Switzerland", 
+        "sw_latitude": 46.305
+      }, 
+      "id": 20101280
+    }
+  ]
+}

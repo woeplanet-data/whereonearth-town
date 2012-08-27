@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.993, 
+              25.641
+            ], 
+            [
+              -102.993, 
+              25.659
+            ], 
+            [
+              -102.973, 
+              25.659
+            ], 
+            [
+              -102.973, 
+              25.641
+            ], 
+            [
+              -102.993, 
+              25.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.659, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          124828, 
+          125374, 
+          144310, 
+          144504, 
+          146082, 
+          147005, 
+          147381, 
+          151570
+        ], 
+        "woeid": 143712, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -102.973, 
+        "longitude": -102.983, 
+        "parent_woeid": 12599918, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.650, 
+        "sw_longitude": -102.993, 
+        "fullname": "San Juan, Coahuila de Zaragoza, San Pedro, Mexico", 
+        "sw_latitude": 25.641
+      }, 
+      "id": 143712
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.477, 
+              48.945
+            ], 
+            [
+              12.477, 
+              48.972
+            ], 
+            [
+              12.499, 
+              48.972
+            ], 
+            [
+              12.499, 
+              48.945
+            ], 
+            [
+              12.477, 
+              48.945
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685611, 
+        "name": "Pondorf", 
+        "adjacent_woeid": [
+          679290, 
+          682675, 
+          685093, 
+          696200
+        ], 
+        "ne_latitude": 48.972, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.499, 
+        "longitude": 12.489, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12623024, 
+        "latitude": 48.964, 
+        "sw_longitude": 12.477, 
+        "fullname": "Pondorf, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 48.945
+      }, 
+      "id": 685611
+    }
+  ]
+}

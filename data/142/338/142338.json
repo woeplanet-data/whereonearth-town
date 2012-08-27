@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.193, 
+              19.608
+            ], 
+            [
+              -102.193, 
+              19.626
+            ], 
+            [
+              -102.174, 
+              19.626
+            ], 
+            [
+              -102.174, 
+              19.608
+            ], 
+            [
+              -102.193, 
+              19.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.626, 
+        "name": "San Felipe", 
+        "adjacent_woeid": [
+          112148, 
+          116708, 
+          116709, 
+          117480, 
+          134884, 
+          137079
+        ], 
+        "woeid": 142338, 
+        "alias_SPA_V": [
+          "S Felipe"
+        ], 
+        "ne_longitude": -102.174, 
+        "longitude": -102.183, 
+        "parent_woeid": 12600453, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.617, 
+        "sw_longitude": -102.193, 
+        "fullname": "San Felipe, Michoacan de Ocampo, Charapan, Mexico", 
+        "sw_latitude": 19.608
+      }, 
+      "id": 142338
+    }
+  ]
+}

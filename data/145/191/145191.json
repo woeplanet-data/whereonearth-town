@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.210, 
+              26.674
+            ], 
+            [
+              -107.210, 
+              26.692
+            ], 
+            [
+              -107.190, 
+              26.692
+            ], 
+            [
+              -107.190, 
+              26.674
+            ], 
+            [
+              -107.210, 
+              26.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.692, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          111176, 
+          116388, 
+          117492, 
+          126865, 
+          126907
+        ], 
+        "woeid": 145191, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -107.190, 
+        "longitude": -107.200, 
+        "parent_woeid": 12599845, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.683, 
+        "sw_longitude": -107.210, 
+        "fullname": "San Rafael, Chihuahua, Guachochi, Mexico", 
+        "sw_latitude": 26.674
+      }, 
+      "id": 145191
+    }
+  ]
+}

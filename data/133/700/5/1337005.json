@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.903, 
+              10.904
+            ], 
+            [
+              -8.903, 
+              10.920
+            ], 
+            [
+              -8.887, 
+              10.920
+            ], 
+            [
+              -8.887, 
+              10.904
+            ], 
+            [
+              -8.903, 
+              10.904
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1337005, 
+        "name": "Koundian", 
+        "adjacent_woeid": [
+          1335452, 
+          1335587, 
+          1336428, 
+          1336503, 
+          1337797, 
+          1337808
+        ], 
+        "ne_latitude": 10.920, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -8.887, 
+        "longitude": -8.895, 
+        "placetype": "Town", 
+        "iso": "GN", 
+        "date_indexed": "2010-12-02T16:11:56Z", 
+        "parent_woeid": 56061195, 
+        "latitude": 10.912, 
+        "sw_longitude": -8.903, 
+        "fullname": "Koundian, Kankan, Mandiana, Guinea", 
+        "sw_latitude": 10.904
+      }, 
+      "id": 1337005
+    }
+  ]
+}

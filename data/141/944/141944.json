@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.060, 
+              19.174
+            ], 
+            [
+              -100.060, 
+              19.192
+            ], 
+            [
+              -100.040, 
+              19.192
+            ], 
+            [
+              -100.040, 
+              19.174
+            ], 
+            [
+              -100.060, 
+              19.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.192, 
+        "name": "San Bartolo", 
+        "adjacent_woeid": [
+          115402, 
+          125830, 
+          136839, 
+          144180, 
+          144192, 
+          144660, 
+          150492
+        ], 
+        "woeid": 141944, 
+        "alias_SPA_V": [
+          "S Bartolo"
+        ], 
+        "ne_longitude": -100.040, 
+        "longitude": -100.050, 
+        "parent_woeid": 12600324, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.183, 
+        "sw_longitude": -100.060, 
+        "fullname": "San Bartolo, Mexico, Amanalco, Mexico", 
+        "sw_latitude": 19.174
+      }, 
+      "id": 141944
+    }
+  ]
+}

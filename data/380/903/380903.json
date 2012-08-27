@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -55.896, 
+              -32.870
+            ], 
+            [
+              -55.896, 
+              -32.852
+            ], 
+            [
+              -55.874, 
+              -32.852
+            ], 
+            [
+              -55.874, 
+              -32.870
+            ], 
+            [
+              -55.896, 
+              -32.870
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -32.852, 
+        "name": "San Jorge", 
+        "adjacent_woeid": [
+          380447, 
+          380917, 
+          420098, 
+          420104, 
+          468801
+        ], 
+        "woeid": 380903, 
+        "alias_SPA_V": [
+          "Cerro S. Jorge"
+        ], 
+        "ne_longitude": -55.874, 
+        "longitude": -55.885, 
+        "parent_woeid": 2347644, 
+        "placetype": "Town", 
+        "iso": "UY", 
+        "date_indexed": "2010-12-02T17:58:18Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -32.861, 
+        "sw_longitude": -55.896, 
+        "fullname": "San Jorge, Durazno, Uruguay", 
+        "sw_latitude": -32.870
+      }, 
+      "id": 380903
+    }
+  ]
+}

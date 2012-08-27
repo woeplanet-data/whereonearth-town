@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.443, 
+              25.924
+            ], 
+            [
+              -103.443, 
+              25.942
+            ], 
+            [
+              -103.423, 
+              25.942
+            ], 
+            [
+              -103.423, 
+              25.924
+            ], 
+            [
+              -103.443, 
+              25.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.942, 
+        "name": "San Francisco de Horizonte", 
+        "adjacent_woeid": [
+          113399, 
+          120750, 
+          126791, 
+          129635, 
+          137595, 
+          149670
+        ], 
+        "woeid": 142620, 
+        "alias_SPA_V": [
+          "S Francisco de Horizonte"
+        ], 
+        "ne_longitude": -103.423, 
+        "longitude": -103.433, 
+        "parent_woeid": 12599986, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.933, 
+        "sw_longitude": -103.443, 
+        "fullname": "San Francisco de Horizonte, Durango, Tlahualilo, Mexico", 
+        "sw_latitude": 25.924
+      }, 
+      "id": 142620
+    }
+  ]
+}

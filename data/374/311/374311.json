@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.393, 
+              0.224
+            ], 
+            [
+              -79.393, 
+              0.242
+            ], 
+            [
+              -79.375, 
+              0.242
+            ], 
+            [
+              -79.375, 
+              0.224
+            ], 
+            [
+              -79.393, 
+              0.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.242, 
+        "name": "Puerto Quito", 
+        "adjacent_woeid": [
+          373017, 
+          374020, 
+          375732, 
+          375745, 
+          375892, 
+          375895, 
+          376017, 
+          56122413
+        ], 
+        "woeid": 374311, 
+        "alias_SPA_V": [
+          "Pto Quito"
+        ], 
+        "ne_longitude": -79.375, 
+        "longitude": -79.384, 
+        "parent_woeid": 26810365, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.233, 
+        "sw_longitude": -79.393, 
+        "fullname": "Puerto Quito, Esmeraldas, Quininde, Ecuador", 
+        "sw_latitude": 0.224
+      }, 
+      "id": 374311
+    }
+  ]
+}

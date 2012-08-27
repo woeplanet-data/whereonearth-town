@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.160, 
+              25.324
+            ], 
+            [
+              -111.160, 
+              25.342
+            ], 
+            [
+              -111.140, 
+              25.342
+            ], 
+            [
+              -111.140, 
+              25.324
+            ], 
+            [
+              -111.160, 
+              25.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.342, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          122493, 
+          142893, 
+          143719, 
+          145317
+        ], 
+        "woeid": 141574, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -111.140, 
+        "longitude": -111.150, 
+        "parent_woeid": 12599695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.333, 
+        "sw_longitude": -111.160, 
+        "fullname": "San Antonio, Baja California Sur, Comondu, Mexico", 
+        "sw_latitude": 25.324
+      }, 
+      "id": 141574
+    }
+  ]
+}

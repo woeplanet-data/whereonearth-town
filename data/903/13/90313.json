@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.526, 
+              19.250
+            ], 
+            [
+              -72.526, 
+              19.266
+            ], 
+            [
+              -72.509, 
+              19.266
+            ], 
+            [
+              -72.509, 
+              19.250
+            ], 
+            [
+              -72.526, 
+              19.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 90313, 
+        "name": "Dessalines", 
+        "adjacent_woeid": [
+          90248, 
+          90955, 
+          93427, 
+          95743, 
+          95748, 
+          96088, 
+          97000
+        ], 
+        "ne_latitude": 19.266, 
+        "ne_longitude": -72.509, 
+        "longitude": -72.517, 
+        "parent_woeid": 2345615, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Marchand"
+        ], 
+        "iso": "HT", 
+        "date_indexed": "2010-12-02T17:52:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.258, 
+        "sw_longitude": -72.526, 
+        "fullname": "Dessalines, Artibonite, Haiti", 
+        "sw_latitude": 19.250
+      }, 
+      "id": 90313
+    }
+  ]
+}

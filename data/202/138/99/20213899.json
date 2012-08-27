@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.163, 
+              46.915
+            ], 
+            [
+              3.163, 
+              46.945
+            ], 
+            [
+              3.209, 
+              46.945
+            ], 
+            [
+              3.209, 
+              46.915
+            ], 
+            [
+              3.163, 
+              46.915
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20213899, 
+        "name": "Les Tuileries", 
+        "adjacent_woeid": [
+          575449, 
+          585686, 
+          616760, 
+          621913
+        ], 
+        "ne_latitude": 46.945, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.209, 
+        "longitude": 3.182, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12641593, 
+        "latitude": 46.935, 
+        "sw_longitude": 3.163, 
+        "fullname": "Les Tuileries, Burgundy, Nievre, France", 
+        "sw_latitude": 46.915
+      }, 
+      "id": 20213899
+    }
+  ]
+}

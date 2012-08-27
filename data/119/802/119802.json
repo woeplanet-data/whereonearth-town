@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.426, 
+              21.008
+            ], 
+            [
+              -100.426, 
+              21.026
+            ], 
+            [
+              -100.407, 
+              21.026
+            ], 
+            [
+              -100.407, 
+              21.008
+            ], 
+            [
+              -100.426, 
+              21.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.026, 
+        "name": "El Cinco de Mayo", 
+        "adjacent_woeid": [
+          123880, 
+          126313, 
+          129545, 
+          129980, 
+          135167, 
+          143629
+        ], 
+        "woeid": 119802, 
+        "alias_SPA_V": [
+          "Cinco de Mayo"
+        ], 
+        "ne_longitude": -100.407, 
+        "longitude": -100.417, 
+        "parent_woeid": 12600020, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.017, 
+        "sw_longitude": -100.426, 
+        "fullname": "El Cinco de Mayo, Guanajuato, San Jose Iturbide, Mexico", 
+        "sw_latitude": 21.008
+      }, 
+      "id": 119802
+    }
+  ]
+}

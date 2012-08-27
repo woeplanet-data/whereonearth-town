@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.441, 
+              54.984
+            ], 
+            [
+              12.441, 
+              54.999
+            ], 
+            [
+              12.468, 
+              54.999
+            ], 
+            [
+              12.468, 
+              54.984
+            ], 
+            [
+              12.441, 
+              54.984
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555960, 
+        "name": "Ny Borre", 
+        "adjacent_woeid": [
+          551894, 
+          552736, 
+          555462, 
+          556462
+        ], 
+        "ne_latitude": 54.999, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.468, 
+        "longitude": 12.455, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:55Z", 
+        "parent_woeid": 12582816, 
+        "latitude": 54.991, 
+        "sw_longitude": 12.441, 
+        "fullname": "Ny Borre, Sjaelland, Vordingborg, Denmark", 
+        "sw_latitude": 54.984
+      }, 
+      "id": 555960
+    }
+  ]
+}

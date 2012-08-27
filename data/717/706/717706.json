@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.123, 
+              45.011
+            ], 
+            [
+              11.123, 
+              45.048
+            ], 
+            [
+              11.166, 
+              45.048
+            ], 
+            [
+              11.166, 
+              45.011
+            ], 
+            [
+              11.123, 
+              45.011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 717706, 
+        "name": "Malcantone", 
+        "adjacent_woeid": [
+          711120, 
+          716132, 
+          20135025, 
+          20136589
+        ], 
+        "ne_latitude": 45.048, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.166, 
+        "longitude": 11.142, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:25:09Z", 
+        "parent_woeid": 12681355, 
+        "latitude": 45.028, 
+        "sw_longitude": 11.123, 
+        "fullname": "Malcantone, Lombardy, Mantua, Italy", 
+        "sw_latitude": 45.011
+      }, 
+      "id": 717706
+    }
+  ]
+}

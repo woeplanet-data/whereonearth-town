@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.601, 
+              55.505
+            ], 
+            [
+              10.601, 
+              55.521
+            ], 
+            [
+              10.630, 
+              55.521
+            ], 
+            [
+              10.630, 
+              55.505
+            ], 
+            [
+              10.601, 
+              55.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555563, 
+        "name": "Midskov", 
+        "adjacent_woeid": [
+          555302, 
+          20099179, 
+          29306633
+        ], 
+        "ne_latitude": 55.521, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.630, 
+        "longitude": 10.616, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:02Z", 
+        "parent_woeid": 12582677, 
+        "latitude": 55.513, 
+        "sw_longitude": 10.601, 
+        "fullname": "Midskov, Syddanmark, Kerteminde, Denmark", 
+        "sw_latitude": 55.505
+      }, 
+      "id": 555563
+    }
+  ]
+}

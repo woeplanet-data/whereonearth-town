@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.276, 
+              15.524
+            ], 
+            [
+              -92.276, 
+              15.542
+            ], 
+            [
+              -92.257, 
+              15.542
+            ], 
+            [
+              -92.257, 
+              15.524
+            ], 
+            [
+              -92.276, 
+              15.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.542, 
+        "name": "Laguna", 
+        "adjacent_woeid": [
+          121534, 
+          123091, 
+          127583, 
+          135465, 
+          135610, 
+          137535, 
+          147587
+        ], 
+        "woeid": 129781, 
+        "alias_SPA_V": [
+          "La Laguna"
+        ], 
+        "ne_longitude": -92.257, 
+        "longitude": -92.267, 
+        "parent_woeid": 12599789, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.533, 
+        "sw_longitude": -92.276, 
+        "fullname": "Laguna, Chiapas, Siltepec, Mexico", 
+        "sw_latitude": 15.524
+      }, 
+      "id": 129781
+    }
+  ]
+}

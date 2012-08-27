@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.343, 
+              24.541
+            ], 
+            [
+              -100.343, 
+              24.559
+            ], 
+            [
+              -100.323, 
+              24.559
+            ], 
+            [
+              -100.323, 
+              24.541
+            ], 
+            [
+              -100.343, 
+              24.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.559, 
+        "name": "San Jorge", 
+        "adjacent_woeid": [
+          122226, 
+          126011, 
+          128019, 
+          143205, 
+          143564
+        ], 
+        "woeid": 143206, 
+        "alias_SPA_V": [
+          "S Jorge"
+        ], 
+        "ne_longitude": -100.323, 
+        "longitude": -100.333, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.550, 
+        "sw_longitude": -100.343, 
+        "fullname": "San Jorge, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.541
+      }, 
+      "id": 143206
+    }
+  ]
+}

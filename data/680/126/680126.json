@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.173, 
+              52.672
+            ], 
+            [
+              12.173, 
+              52.713
+            ], 
+            [
+              12.201, 
+              52.713
+            ], 
+            [
+              12.201, 
+              52.672
+            ], 
+            [
+              12.173, 
+              52.672
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680126, 
+        "name": "Nierow", 
+        "adjacent_woeid": [
+          649567, 
+          675838, 
+          679126, 
+          692749
+        ], 
+        "ne_latitude": 52.713, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.201, 
+        "longitude": 12.187, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12626765, 
+        "latitude": 52.687, 
+        "sw_longitude": 12.173, 
+        "fullname": "Nierow, Saxony-Anhalt, Landkreis Stendal, Germany", 
+        "sw_latitude": 52.672
+      }, 
+      "id": 680126
+    }
+  ]
+}

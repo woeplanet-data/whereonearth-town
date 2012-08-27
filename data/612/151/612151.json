@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.141, 
+              48.216
+            ], 
+            [
+              -0.141, 
+              48.272
+            ], 
+            [
+              -0.084, 
+              48.272
+            ], 
+            [
+              -0.084, 
+              48.216
+            ], 
+            [
+              -0.141, 
+              48.216
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612151, 
+        "name": "Mont-St.-Jean", 
+        "adjacent_woeid": [
+          587951, 
+          589086, 
+          613054, 
+          616438, 
+          624218, 
+          624280, 
+          626530, 
+          626712
+        ], 
+        "ne_latitude": 48.272, 
+        "ne_longitude": -0.084, 
+        "longitude": -0.107, 
+        "parent_woeid": 12666908, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mont-Saint-Jean"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.247, 
+        "sw_longitude": -0.141, 
+        "fullname": "Mont-St.-Jean, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.216
+      }, 
+      "id": 612151
+    }
+  ]
+}

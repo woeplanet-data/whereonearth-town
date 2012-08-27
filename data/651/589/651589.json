@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.431, 
+              49.483
+            ], 
+            [
+              12.431, 
+              49.501
+            ], 
+            [
+              12.453, 
+              49.501
+            ], 
+            [
+              12.453, 
+              49.483
+            ], 
+            [
+              12.431, 
+              49.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651589, 
+        "name": "Gartenried", 
+        "adjacent_woeid": [
+          651049, 
+          673043, 
+          706538, 
+          20173179
+        ], 
+        "ne_latitude": 49.501, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.453, 
+        "longitude": 12.445, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12634313, 
+        "latitude": 49.495, 
+        "sw_longitude": 12.431, 
+        "fullname": "Gartenried, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.483
+      }, 
+      "id": 651589
+    }
+  ]
+}

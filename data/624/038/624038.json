@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.378, 
+              49.479
+            ], 
+            [
+              -1.378, 
+              49.511
+            ], 
+            [
+              -1.343, 
+              49.511
+            ], 
+            [
+              -1.343, 
+              49.479
+            ], 
+            [
+              -1.378, 
+              49.479
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624038, 
+        "name": "St.-Floxel", 
+        "adjacent_woeid": [
+          589371, 
+          589627, 
+          589912, 
+          591485, 
+          595545, 
+          615448, 
+          625467, 
+          630248
+        ], 
+        "ne_latitude": 49.511, 
+        "ne_longitude": -1.343, 
+        "longitude": -1.353, 
+        "parent_woeid": 12652466, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Floxel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:04:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.492, 
+        "sw_longitude": -1.378, 
+        "fullname": "St.-Floxel, Basse-Normandie, Manche, France", 
+        "sw_latitude": 49.479
+      }, 
+      "id": 624038
+    }
+  ]
+}

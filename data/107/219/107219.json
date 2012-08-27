@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.282, 
+              13.922
+            ], 
+            [
+              -87.282, 
+              13.940
+            ], 
+            [
+              -87.263, 
+              13.940
+            ], 
+            [
+              -87.263, 
+              13.922
+            ], 
+            [
+              -87.282, 
+              13.922
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.940, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          105520, 
+          106526, 
+          106550, 
+          106704, 
+          107681, 
+          107852
+        ], 
+        "woeid": 107219, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -87.263, 
+        "longitude": -87.273, 
+        "parent_woeid": 26813823, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.931, 
+        "sw_longitude": -87.282, 
+        "fullname": "Santa Ana, Francisco Moraz\u00e1n, Santa Ana, Honduras", 
+        "sw_latitude": 13.922
+      }, 
+      "id": 107219
+    }
+  ]
+}

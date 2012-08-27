@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.541, 
+              51.351
+            ], 
+            [
+              10.541, 
+              51.402
+            ], 
+            [
+              10.599, 
+              51.402
+            ], 
+            [
+              10.599, 
+              51.351
+            ], 
+            [
+              10.541, 
+              51.351
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650820, 
+        "name": "Friedrichsrode", 
+        "adjacent_woeid": [
+          650811, 
+          651762, 
+          662030, 
+          665640, 
+          679483, 
+          681214, 
+          687420, 
+          701943
+        ], 
+        "ne_latitude": 51.402, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.599, 
+        "longitude": 10.560, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12636151, 
+        "latitude": 51.386, 
+        "sw_longitude": 10.541, 
+        "fullname": "Friedrichsrode, Thuringia, Kyffh\u00e4user Kreis, Germany", 
+        "sw_latitude": 51.351
+      }, 
+      "id": 650820
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.898, 
+              50.219
+            ], 
+            [
+              10.898, 
+              50.229
+            ], 
+            [
+              10.914, 
+              50.229
+            ], 
+            [
+              10.914, 
+              50.219
+            ], 
+            [
+              10.898, 
+              50.219
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707415, 
+        "name": "Witzmannsberg", 
+        "adjacent_woeid": [
+          646893, 
+          653470, 
+          659252, 
+          669180, 
+          693195, 
+          698537, 
+          707453
+        ], 
+        "ne_latitude": 50.229, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.914, 
+        "longitude": 10.907, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12635288, 
+        "latitude": 50.224, 
+        "sw_longitude": 10.898, 
+        "fullname": "Witzmannsberg, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.219
+      }, 
+      "id": 707415
+    }
+  ]
+}

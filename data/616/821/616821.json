@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.001, 
+              47.126
+            ], 
+            [
+              4.001, 
+              47.156
+            ], 
+            [
+              4.032, 
+              47.156
+            ], 
+            [
+              4.032, 
+              47.126
+            ], 
+            [
+              4.001, 
+              47.126
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 616821, 
+        "name": "Planchez", 
+        "adjacent_woeid": [
+          585207, 
+          601844, 
+          615376, 
+          20214312, 
+          20214461, 
+          29332064, 
+          29332803
+        ], 
+        "ne_latitude": 47.156, 
+        "ne_longitude": 4.032, 
+        "longitude": 4.016, 
+        "parent_woeid": 12650658, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Planchez-du-Morvan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.136, 
+        "sw_longitude": 4.001, 
+        "fullname": "Planchez, Burgundy, Nievre, France", 
+        "sw_latitude": 47.126
+      }, 
+      "id": 616821
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.433, 
+              43.492
+            ], 
+            [
+              1.433, 
+              43.517
+            ], 
+            [
+              1.468, 
+              43.517
+            ], 
+            [
+              1.468, 
+              43.492
+            ], 
+            [
+              1.433, 
+              43.492
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631362, 
+        "name": "Vigoulet-Auzil", 
+        "adjacent_woeid": [
+          577324, 
+          600757, 
+          611186, 
+          615899, 
+          631163
+        ], 
+        "ne_latitude": 43.517, 
+        "ne_longitude": 1.468, 
+        "longitude": 1.460, 
+        "parent_woeid": 12672390, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vigoulet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.507, 
+        "sw_longitude": 1.433, 
+        "fullname": "Vigoulet-Auzil, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.492
+      }, 
+      "id": 631362
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.221, 
+              50.092
+            ], 
+            [
+              11.221, 
+              50.110
+            ], 
+            [
+              11.248, 
+              50.110
+            ], 
+            [
+              11.248, 
+              50.092
+            ], 
+            [
+              11.221, 
+              50.092
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638348, 
+        "name": "Bernreuth", 
+        "adjacent_woeid": [
+          652481, 
+          689345, 
+          698719, 
+          707445
+        ], 
+        "ne_latitude": 50.110, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.248, 
+        "longitude": 11.234, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:44Z", 
+        "parent_woeid": 12635370, 
+        "latitude": 50.100, 
+        "sw_longitude": 11.221, 
+        "fullname": "Bernreuth, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.092
+      }, 
+      "id": 638348
+    }
+  ]
+}

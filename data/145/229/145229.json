@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.974, 
+              23.193
+            ], 
+            [
+              -97.974, 
+              23.207
+            ], 
+            [
+              -97.959, 
+              23.207
+            ], 
+            [
+              -97.959, 
+              23.193
+            ], 
+            [
+              -97.974, 
+              23.193
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.207, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          122984, 
+          127006, 
+          129664, 
+          131007, 
+          134850, 
+          139814
+        ], 
+        "woeid": 145229, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -97.959, 
+        "longitude": -97.967, 
+        "parent_woeid": 12601633, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.200, 
+        "sw_longitude": -97.974, 
+        "fullname": "San Rafael, Tamaulipas, Aldama, Mexico", 
+        "sw_latitude": 23.193
+      }, 
+      "id": 145229
+    }
+  ]
+}

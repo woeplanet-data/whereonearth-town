@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.199, 
+              56.375
+            ], 
+            [
+              10.199, 
+              56.396
+            ], 
+            [
+              10.238, 
+              56.396
+            ], 
+            [
+              10.238, 
+              56.375
+            ], 
+            [
+              10.199, 
+              56.375
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555668, 
+        "name": "Mygind", 
+        "adjacent_woeid": [
+          555262, 
+          555639, 
+          555861, 
+          556598, 
+          558842
+        ], 
+        "ne_latitude": 56.396, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.238, 
+        "longitude": 10.219, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:02Z", 
+        "parent_woeid": 28583816, 
+        "latitude": 56.385, 
+        "sw_longitude": 10.199, 
+        "fullname": "Mygind, Midtjylland, Syddjurs, Denmark", 
+        "sw_latitude": 56.375
+      }, 
+      "id": 555668
+    }
+  ]
+}

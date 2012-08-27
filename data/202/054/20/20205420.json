@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.480, 
+              45.376
+            ], 
+            [
+              2.480, 
+              45.386
+            ], 
+            [
+              2.493, 
+              45.386
+            ], 
+            [
+              2.493, 
+              45.376
+            ], 
+            [
+              2.480, 
+              45.376
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20205420, 
+        "name": "St.-Thomas", 
+        "adjacent_woeid": [
+          609180, 
+          20205713
+        ], 
+        "ne_latitude": 45.386, 
+        "ne_longitude": 2.493, 
+        "longitude": 2.487, 
+        "parent_woeid": 12657414, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Thomas"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.381, 
+        "sw_longitude": 2.480, 
+        "fullname": "St.-Thomas, Limousin, Correze, France", 
+        "sw_latitude": 45.376
+      }, 
+      "id": 20205420
+    }
+  ]
+}

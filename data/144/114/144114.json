@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.393, 
+              21.941
+            ], 
+            [
+              -102.393, 
+              21.959
+            ], 
+            [
+              -102.373, 
+              21.959
+            ], 
+            [
+              -102.373, 
+              21.941
+            ], 
+            [
+              -102.393, 
+              21.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.959, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          122781, 
+          124709, 
+          127357, 
+          127358, 
+          131565
+        ], 
+        "woeid": 144114, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -102.373, 
+        "longitude": -102.383, 
+        "parent_woeid": 12599686, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.950, 
+        "sw_longitude": -102.393, 
+        "fullname": "San Lorenzo, Aguascalientes, Jesus Maria, Mexico", 
+        "sw_latitude": 21.941
+      }, 
+      "id": 144114
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.726, 
+              20.858
+            ], 
+            [
+              -99.726, 
+              20.876
+            ], 
+            [
+              -99.707, 
+              20.876
+            ], 
+            [
+              -99.707, 
+              20.858
+            ], 
+            [
+              -99.726, 
+              20.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.876, 
+        "name": "El Banco", 
+        "adjacent_woeid": [
+          113663, 
+          115783, 
+          120114, 
+          124872, 
+          125598, 
+          151007
+        ], 
+        "woeid": 119159, 
+        "alias_SPA_V": [
+          "Banco"
+        ], 
+        "ne_longitude": -99.707, 
+        "longitude": -99.717, 
+        "parent_woeid": 12601446, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.867, 
+        "sw_longitude": -99.726, 
+        "fullname": "El Banco, Queretaro de Arteaga, Cadereyta de Montes, Mexico", 
+        "sw_latitude": 20.858
+      }, 
+      "id": 119159
+    }
+  ]
+}

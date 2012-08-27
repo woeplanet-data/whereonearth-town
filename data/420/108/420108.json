@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.253, 
+              10.833
+            ], 
+            [
+              -69.253, 
+              10.847
+            ], 
+            [
+              -69.239, 
+              10.847
+            ], 
+            [
+              -69.239, 
+              10.833
+            ], 
+            [
+              -69.253, 
+              10.833
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.847, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          385859, 
+          389322, 
+          393321, 
+          468192, 
+          468252, 
+          468360
+        ], 
+        "woeid": 420108, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -69.239, 
+        "longitude": -69.246, 
+        "parent_woeid": 26805502, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.840, 
+        "sw_longitude": -69.253, 
+        "fullname": "Santa Cruz, Falcon, Union, Venezuela", 
+        "sw_latitude": 10.833
+      }, 
+      "id": 420108
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.649, 
+              45.080
+            ], 
+            [
+              4.649, 
+              45.122
+            ], 
+            [
+              4.692, 
+              45.122
+            ], 
+            [
+              4.692, 
+              45.080
+            ], 
+            [
+              4.649, 
+              45.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627217, 
+        "name": "St.-Victor", 
+        "adjacent_woeid": [
+          580837, 
+          586541, 
+          617930, 
+          630231, 
+          20208429
+        ], 
+        "ne_latitude": 45.122, 
+        "ne_longitude": 4.692, 
+        "longitude": 4.672, 
+        "parent_woeid": 12656666, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Victor"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.101, 
+        "sw_longitude": 4.649, 
+        "fullname": "St.-Victor, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 45.080
+      }, 
+      "id": 627217
+    }
+  ]
+}

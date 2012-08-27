@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.377, 
+              48.486
+            ], 
+            [
+              16.377, 
+              48.505
+            ], 
+            [
+              16.405, 
+              48.505
+            ], 
+            [
+              16.405, 
+              48.486
+            ], 
+            [
+              16.377, 
+              48.486
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 542382, 
+        "name": "Kleinebersdorf", 
+        "adjacent_woeid": [
+          541711, 
+          542129, 
+          542906, 
+          544356
+        ], 
+        "ne_latitude": 48.505, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.405, 
+        "longitude": 16.391, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:32Z", 
+        "parent_woeid": 12674047, 
+        "latitude": 48.495, 
+        "sw_longitude": 16.377, 
+        "fullname": "Kleinebersdorf, Lower Austria, Korneuburg, Austria", 
+        "sw_latitude": 48.486
+      }, 
+      "id": 542382
+    }
+  ]
+}

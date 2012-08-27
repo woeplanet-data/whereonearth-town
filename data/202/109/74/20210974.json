@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.001, 
+              46.080
+            ], 
+            [
+              6.001, 
+              46.103
+            ], 
+            [
+              6.028, 
+              46.103
+            ], 
+            [
+              6.028, 
+              46.080
+            ], 
+            [
+              6.001, 
+              46.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210974, 
+        "name": "Belossy", 
+        "adjacent_woeid": [
+          585541, 
+          20210971, 
+          20210973
+        ], 
+        "ne_latitude": 46.103, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.028, 
+        "longitude": 6.015, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12672285, 
+        "latitude": 46.094, 
+        "sw_longitude": 6.001, 
+        "fullname": "Belossy, Rhone-Alpes, Haute-Savoie, France", 
+        "sw_latitude": 46.080
+      }, 
+      "id": 20210974
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.143, 
+              25.808
+            ], 
+            [
+              -100.143, 
+              25.826
+            ], 
+            [
+              -100.123, 
+              25.826
+            ], 
+            [
+              -100.123, 
+              25.808
+            ], 
+            [
+              -100.143, 
+              25.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.826, 
+        "name": "Zacatecas", 
+        "adjacent_woeid": [
+          111349, 
+          112266, 
+          118377, 
+          125216, 
+          55906342
+        ], 
+        "woeid": 151492, 
+        "alias_SPA_V": [
+          "La Zacatecas"
+        ], 
+        "ne_longitude": -100.123, 
+        "longitude": -100.133, 
+        "parent_woeid": 12600610, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.817, 
+        "sw_longitude": -100.143, 
+        "fullname": "Zacatecas, Nuevo Leon, Apodaca, Mexico", 
+        "sw_latitude": 25.808
+      }, 
+      "id": 151492
+    }
+  ]
+}

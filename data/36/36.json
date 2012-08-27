@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.960, 
+              48.748
+            ], 
+            [
+              -78.960, 
+              48.956
+            ], 
+            [
+              -78.764, 
+              48.956
+            ], 
+            [
+              -78.764, 
+              48.748
+            ], 
+            [
+              -78.960, 
+              48.748
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 36, 
+        "name": "Authier-Nord", 
+        "adjacent_woeid": [
+          3245, 
+          3247, 
+          23394342, 
+          23395537, 
+          23396451, 
+          23396672, 
+          29374690
+        ], 
+        "ne_latitude": 48.956, 
+        "ne_longitude": -78.764, 
+        "longitude": -78.862, 
+        "parent_woeid": 29375241, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Macamic-Nord"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:22:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.852, 
+        "sw_longitude": -78.960, 
+        "fullname": "Authier-Nord, Quebec, Abitibi-Ouest, Canada", 
+        "sw_latitude": 48.748
+      }, 
+      "id": 36
+    }
+  ]
+}

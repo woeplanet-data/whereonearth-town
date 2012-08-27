@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.837, 
+              50.053
+            ], 
+            [
+              12.837, 
+              50.110
+            ], 
+            [
+              12.910, 
+              50.110
+            ], 
+            [
+              12.910, 
+              50.053
+            ], 
+            [
+              12.837, 
+              50.053
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "CZE", 
+        "woeid": 787647, 
+        "name": "Chodov", 
+        "adjacent_woeid": [
+          786903, 
+          787477, 
+          789388, 
+          791944, 
+          793706, 
+          796768, 
+          799673, 
+          801043, 
+          24929708
+        ], 
+        "ne_latitude": 50.110, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.910, 
+        "longitude": 12.863, 
+        "placetype": "Town", 
+        "alias_CZE_V": [
+          "G\u00e4ngerhof"
+        ], 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:55:45Z", 
+        "parent_woeid": 12610177, 
+        "latitude": 50.069, 
+        "sw_longitude": 12.837, 
+        "fullname": "Chodov, Karlovarsk\u00fd, Carlsbad, Czech Republic", 
+        "alias_GER_V": [
+          "Chodau"
+        ], 
+        "alias_CZE_S": [
+          "Gaengerhof"
+        ], 
+        "sw_latitude": 50.053
+      }, 
+      "id": 787647
+    }
+  ]
+}

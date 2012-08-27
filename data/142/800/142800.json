@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.893, 
+              22.758
+            ], 
+            [
+              -100.893, 
+              22.776
+            ], 
+            [
+              -100.873, 
+              22.776
+            ], 
+            [
+              -100.873, 
+              22.758
+            ], 
+            [
+              -100.893, 
+              22.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.776, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          112380, 
+          119999, 
+          120210, 
+          129712
+        ], 
+        "woeid": 142800, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -100.873, 
+        "longitude": -100.883, 
+        "parent_woeid": 12601492, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.767, 
+        "sw_longitude": -100.893, 
+        "fullname": "San Ignacio, San Luis Potosi, Moctezuma, Mexico", 
+        "sw_latitude": 22.758
+      }, 
+      "id": 142800
+    }
+  ]
+}

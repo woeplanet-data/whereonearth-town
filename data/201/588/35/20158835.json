@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.220, 
+              49.349
+            ], 
+            [
+              11.220, 
+              49.358
+            ], 
+            [
+              11.234, 
+              49.358
+            ], 
+            [
+              11.234, 
+              49.349
+            ], 
+            [
+              11.220, 
+              49.349
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20158835, 
+        "name": "Gsteinach", 
+        "adjacent_woeid": [
+          677501, 
+          681389, 
+          689909, 
+          695758
+        ], 
+        "ne_latitude": 49.358, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.234, 
+        "longitude": 11.227, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12634492, 
+        "latitude": 49.354, 
+        "sw_longitude": 11.220, 
+        "fullname": "Gsteinach, Bavaria, Nurnberger Land, Germany", 
+        "sw_latitude": 49.349
+      }, 
+      "id": 20158835
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.193, 
+              50.444
+            ], 
+            [
+              12.193, 
+              50.472
+            ], 
+            [
+              12.214, 
+              50.472
+            ], 
+            [
+              12.214, 
+              50.444
+            ], 
+            [
+              12.193, 
+              50.444
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 692241, 
+        "name": "Schloditz", 
+        "adjacent_woeid": [
+          664250, 
+          681695, 
+          697447, 
+          699211
+        ], 
+        "ne_latitude": 50.472, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.214, 
+        "longitude": 12.203, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12625625, 
+        "latitude": 50.456, 
+        "sw_longitude": 12.193, 
+        "fullname": "Schloditz, Saxony, Vogtlandkreis, Germany", 
+        "sw_latitude": 50.444
+      }, 
+      "id": 692241
+    }
+  ]
+}

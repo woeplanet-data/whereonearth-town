@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.244, 
+              45.357
+            ], 
+            [
+              -74.244, 
+              45.450
+            ], 
+            [
+              -74.066, 
+              45.450
+            ], 
+            [
+              -74.066, 
+              45.357
+            ], 
+            [
+              -74.244, 
+              45.357
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396571, 
+        "name": "St.-Lazare", 
+        "adjacent_woeid": [
+          692, 
+          3540, 
+          23394278, 
+          23394503
+        ], 
+        "ne_latitude": 45.450, 
+        "ne_longitude": -74.066, 
+        "longitude": -74.142, 
+        "parent_woeid": 29375109, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Lazare-de-Vaudreuil"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.400, 
+        "sw_longitude": -74.244, 
+        "fullname": "St.-Lazare, Quebec, Vaudreuil-Soulanges, Canada", 
+        "sw_latitude": 45.357
+      }, 
+      "id": 23396571
+    }
+  ]
+}

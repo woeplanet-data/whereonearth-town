@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.594, 
+              44.270
+            ], 
+            [
+              4.594, 
+              44.318
+            ], 
+            [
+              4.653, 
+              44.318
+            ], 
+            [
+              4.653, 
+              44.270
+            ], 
+            [
+              4.594, 
+              44.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625037, 
+        "name": "St.-Just", 
+        "adjacent_woeid": [
+          601078, 
+          625444, 
+          625568, 
+          626314
+        ], 
+        "ne_latitude": 44.318, 
+        "ne_longitude": 4.653, 
+        "longitude": 4.613, 
+        "parent_woeid": 22757727, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Just"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.303, 
+        "sw_longitude": 4.594, 
+        "fullname": "St.-Just, Rhone-Alpes, Ardeche, France", 
+        "alias_FRE_S": [
+          "Saint-Just-d'Ardeche"
+        ], 
+        "sw_latitude": 44.270
+      }, 
+      "id": 625037
+    }
+  ]
+}

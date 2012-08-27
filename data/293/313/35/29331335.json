@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.345, 
+              48.505
+            ], 
+            [
+              0.345, 
+              48.523
+            ], 
+            [
+              0.373, 
+              48.523
+            ], 
+            [
+              0.373, 
+              48.505
+            ], 
+            [
+              0.345, 
+              48.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331335, 
+        "name": "L'\u00e9tang", 
+        "adjacent_woeid": [
+          587314, 
+          600964, 
+          29331337
+        ], 
+        "ne_latitude": 48.523, 
+        "ne_longitude": 0.373, 
+        "longitude": 0.359, 
+        "parent_woeid": 12642287, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "l'\u00c9tang"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.514, 
+        "sw_longitude": 0.345, 
+        "fullname": "L'\u00e9tang, Basse-Normandie, Orne, France", 
+        "alias_FRE_S": [
+          "l'Etang"
+        ], 
+        "sw_latitude": 48.505
+      }, 
+      "id": 29331335
+    }
+  ]
+}

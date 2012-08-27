@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.883, 
+              42.439
+            ], 
+            [
+              -3.883, 
+              42.448
+            ], 
+            [
+              -3.871, 
+              42.448
+            ], 
+            [
+              -3.871, 
+              42.439
+            ], 
+            [
+              -3.883, 
+              42.439
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.448, 
+        "name": "San Pedro Samuel", 
+        "adjacent_woeid": [
+          753325, 
+          765448, 
+          769218, 
+          778750, 
+          779178
+        ], 
+        "woeid": 773331, 
+        "alias_SPA_V": [
+          "S Pedro Samuel"
+        ], 
+        "ne_longitude": -3.871, 
+        "longitude": -3.877, 
+        "parent_woeid": 12691576, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.443, 
+        "sw_longitude": -3.883, 
+        "fullname": "San Pedro Samuel, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.439
+      }, 
+      "id": 773331
+    }
+  ]
+}

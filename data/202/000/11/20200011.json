@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.208, 
+              45.120
+            ], 
+            [
+              -0.208, 
+              45.129
+            ], 
+            [
+              -0.195, 
+              45.129
+            ], 
+            [
+              -0.195, 
+              45.120
+            ], 
+            [
+              -0.208, 
+              45.120
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20200011, 
+        "name": "St.-Nazaire", 
+        "adjacent_woeid": [
+          583620, 
+          20196552, 
+          20200007, 
+          29331099
+        ], 
+        "ne_latitude": 45.129, 
+        "ne_longitude": -0.195, 
+        "longitude": -0.201, 
+        "parent_woeid": 12658655, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Nazaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.125, 
+        "sw_longitude": -0.208, 
+        "fullname": "St.-Nazaire, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.120
+      }, 
+      "id": 20200011
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.013, 
+              49.577
+            ], 
+            [
+              10.013, 
+              49.607
+            ], 
+            [
+              10.041, 
+              49.607
+            ], 
+            [
+              10.041, 
+              49.577
+            ], 
+            [
+              10.013, 
+              49.577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640099, 
+        "name": "Bolzhausen", 
+        "adjacent_woeid": [
+          646941, 
+          662171, 
+          683764, 
+          688914, 
+          695465
+        ], 
+        "ne_latitude": 49.607, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.041, 
+        "longitude": 10.024, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12635465, 
+        "latitude": 49.594, 
+        "sw_longitude": 10.013, 
+        "fullname": "Bolzhausen, Bavaria, Wurzburg, Germany", 
+        "sw_latitude": 49.577
+      }, 
+      "id": 640099
+    }
+  ]
+}

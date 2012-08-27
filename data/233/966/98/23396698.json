@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.519, 
+              45.291
+            ], 
+            [
+              -73.519, 
+              45.403
+            ], 
+            [
+              -73.398, 
+              45.403
+            ], 
+            [
+              -73.398, 
+              45.291
+            ], 
+            [
+              -73.519, 
+              45.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396698, 
+        "name": "St.-Philippe", 
+        "adjacent_woeid": [
+          207, 
+          23394593
+        ], 
+        "ne_latitude": 45.403, 
+        "ne_longitude": -73.398, 
+        "longitude": -73.482, 
+        "parent_woeid": 29375054, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Philippe"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.362, 
+        "sw_longitude": -73.519, 
+        "fullname": "St.-Philippe, Quebec, Roussillon, Canada", 
+        "sw_latitude": 45.291
+      }, 
+      "id": 23396698
+    }
+  ]
+}

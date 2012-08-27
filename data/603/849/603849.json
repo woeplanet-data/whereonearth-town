@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.719, 
+              48.417
+            ], 
+            [
+              -0.719, 
+              48.441
+            ], 
+            [
+              -0.678, 
+              48.441
+            ], 
+            [
+              -0.678, 
+              48.417
+            ], 
+            [
+              -0.719, 
+              48.417
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603849, 
+        "name": "Le Pas", 
+        "adjacent_woeid": [
+          581682, 
+          585994, 
+          587238, 
+          614888, 
+          625497
+        ], 
+        "ne_latitude": 48.441, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.678, 
+        "longitude": -0.701, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12664981, 
+        "latitude": 48.430, 
+        "sw_longitude": -0.719, 
+        "fullname": "Le Pas, Pays de la Loire, Mayenne, France", 
+        "sw_latitude": 48.417
+      }, 
+      "id": 603849
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.314, 
+              43.206
+            ], 
+            [
+              1.314, 
+              43.254
+            ], 
+            [
+              1.374, 
+              43.254
+            ], 
+            [
+              1.374, 
+              43.206
+            ], 
+            [
+              1.314, 
+              43.206
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583208, 
+        "name": "Castagnac", 
+        "adjacent_woeid": [
+          582919, 
+          601657, 
+          610436, 
+          627326
+        ], 
+        "ne_latitude": 43.254, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.374, 
+        "longitude": 1.352, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12658425, 
+        "latitude": 43.228, 
+        "sw_longitude": 1.314, 
+        "fullname": "Castagnac, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.206
+      }, 
+      "id": 583208
+    }
+  ]
+}

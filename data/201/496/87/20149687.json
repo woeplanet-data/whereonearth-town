@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.388, 
+              44.107
+            ], 
+            [
+              12.388, 
+              44.152
+            ], 
+            [
+              12.429, 
+              44.152
+            ], 
+            [
+              12.429, 
+              44.107
+            ], 
+            [
+              12.388, 
+              44.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20149687, 
+        "name": "Fiumicino", 
+        "adjacent_woeid": [
+          20115368, 
+          20125980, 
+          20142234
+        ], 
+        "ne_latitude": 44.152, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.429, 
+        "longitude": 12.398, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:28Z", 
+        "parent_woeid": 12679508, 
+        "latitude": 44.121, 
+        "sw_longitude": 12.388, 
+        "fullname": "Fiumicino, Emilia Romagna, Forli-Cesena, Italy", 
+        "sw_latitude": 44.107
+      }, 
+      "id": 20149687
+    }
+  ]
+}

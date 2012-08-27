@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.960, 
+              14.556
+            ], 
+            [
+              -60.960, 
+              14.610
+            ], 
+            [
+              -60.906, 
+              14.610
+            ], 
+            [
+              -60.906, 
+              14.556
+            ], 
+            [
+              -60.960, 
+              14.556
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 110800, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          110533, 
+          110530, 
+          110337
+        ], 
+        "ne_latitude": 14.610, 
+        "ne_longitude": -60.906, 
+        "longitude": -60.933, 
+        "parent_woeid": 24551343, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pierre"
+        ], 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.583, 
+        "sw_longitude": -60.960, 
+        "fullname": "St.-Pierre, Marin, St.-Esprit, Martinique", 
+        "sw_latitude": 14.556
+      }, 
+      "id": 110800
+    }
+  ]
+}

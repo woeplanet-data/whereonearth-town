@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.343, 
+              47.497
+            ], 
+            [
+              9.343, 
+              47.515
+            ], 
+            [
+              9.370, 
+              47.515
+            ], 
+            [
+              9.370, 
+              47.497
+            ], 
+            [
+              9.343, 
+              47.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20104853, 
+        "name": "Winden", 
+        "adjacent_woeid": [
+          783596, 
+          20100846, 
+          28996780, 
+          28996850
+        ], 
+        "ne_latitude": 47.515, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.370, 
+        "longitude": 9.357, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:44Z", 
+        "parent_woeid": 12683359, 
+        "latitude": 47.506, 
+        "sw_longitude": 9.343, 
+        "fullname": "Winden, Canton of Thurgau, Arbon, Switzerland", 
+        "sw_latitude": 47.497
+      }, 
+      "id": 20104853
+    }
+  ]
+}

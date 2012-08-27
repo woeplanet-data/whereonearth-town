@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.627, 
+              31.724
+            ], 
+            [
+              -107.627, 
+              31.742
+            ], 
+            [
+              -107.606, 
+              31.742
+            ], 
+            [
+              -107.606, 
+              31.724
+            ], 
+            [
+              -107.627, 
+              31.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.742, 
+        "name": "Las Palomas", 
+        "adjacent_woeid": [
+          111137, 
+          123682, 
+          124367, 
+          137871
+        ], 
+        "woeid": 130751, 
+        "alias_SPA_V": [
+          "Palomas"
+        ], 
+        "ne_longitude": -107.606, 
+        "longitude": -107.617, 
+        "parent_woeid": 12599823, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.733, 
+        "sw_longitude": -107.627, 
+        "fullname": "Las Palomas, Chihuahua, Ascension, Mexico", 
+        "sw_latitude": 31.724
+      }, 
+      "id": 130751
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.326, 
+              52.488
+            ], 
+            [
+              9.326, 
+              52.506
+            ], 
+            [
+              9.355, 
+              52.506
+            ], 
+            [
+              9.355, 
+              52.488
+            ], 
+            [
+              9.326, 
+              52.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349506, 
+        "name": "Weisser Berg", 
+        "adjacent_woeid": [
+          673800, 
+          692629, 
+          696946, 
+          29349502
+        ], 
+        "ne_latitude": 52.506, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.355, 
+        "longitude": 9.341, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:45Z", 
+        "parent_woeid": 12629464, 
+        "latitude": 52.497, 
+        "sw_longitude": 9.326, 
+        "fullname": "Weisser Berg, Lower Saxony, Hanover, Germany", 
+        "sw_latitude": 52.488
+      }, 
+      "id": 29349506
+    }
+  ]
+}

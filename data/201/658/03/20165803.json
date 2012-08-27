@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.503, 
+              54.310
+            ], 
+            [
+              12.503, 
+              54.336
+            ], 
+            [
+              12.532, 
+              54.336
+            ], 
+            [
+              12.532, 
+              54.310
+            ], 
+            [
+              12.503, 
+              54.310
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20165803, 
+        "name": "Neuendorf", 
+        "adjacent_woeid": [
+          659303, 
+          675138, 
+          678168
+        ], 
+        "ne_latitude": 54.336, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.532, 
+        "longitude": 12.525, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12635740, 
+        "latitude": 54.331, 
+        "sw_longitude": 12.503, 
+        "fullname": "Neuendorf, Mecklenburg-Vorpommern, Nordvorpommern, Germany", 
+        "sw_latitude": 54.310
+      }, 
+      "id": 20165803
+    }
+  ]
+}

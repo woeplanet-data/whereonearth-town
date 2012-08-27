@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.851, 
+              48.712
+            ], 
+            [
+              1.851, 
+              48.721
+            ], 
+            [
+              1.865, 
+              48.721
+            ], 
+            [
+              1.865, 
+              48.712
+            ], 
+            [
+              1.851, 
+              48.712
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20219181, 
+        "name": "St.-Hubert", 
+        "adjacent_woeid": [
+          626723, 
+          29329678, 
+          29329679
+        ], 
+        "ne_latitude": 48.721, 
+        "ne_longitude": 1.865, 
+        "longitude": 1.859, 
+        "parent_woeid": 12646425, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hubert"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.716, 
+        "sw_longitude": 1.851, 
+        "fullname": "St.-Hubert, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.712
+      }, 
+      "id": 20219181
+    }
+  ]
+}

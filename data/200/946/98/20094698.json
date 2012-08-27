@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.752, 
+              47.377
+            ], 
+            [
+              15.752, 
+              47.393
+            ], 
+            [
+              15.776, 
+              47.393
+            ], 
+            [
+              15.776, 
+              47.377
+            ], 
+            [
+              15.752, 
+              47.377
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20094698, 
+        "name": "Bergviertel", 
+        "adjacent_woeid": [
+          549169, 
+          549929, 
+          20094902, 
+          22527697
+        ], 
+        "ne_latitude": 47.393, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.776, 
+        "longitude": 15.764, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12675238, 
+        "latitude": 47.385, 
+        "sw_longitude": 15.752, 
+        "fullname": "Bergviertel, Styria, Weiz, Austria", 
+        "sw_latitude": 47.377
+      }, 
+      "id": 20094698
+    }
+  ]
+}

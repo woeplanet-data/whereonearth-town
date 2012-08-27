@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.187, 
+              40.003
+            ], 
+            [
+              4.187, 
+              40.014
+            ], 
+            [
+              4.202, 
+              40.014
+            ], 
+            [
+              4.202, 
+              40.003
+            ], 
+            [
+              4.187, 
+              40.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.014, 
+        "name": "Port d'Addaia", 
+        "adjacent_woeid": [
+          767085, 
+          772733, 
+          20226237, 
+          23414459, 
+          23415148, 
+          55865871
+        ], 
+        "woeid": 20225356, 
+        "alias_SPA_V": [
+          "Pt d'Addaia"
+        ], 
+        "ne_longitude": 4.202, 
+        "longitude": 4.194, 
+        "parent_woeid": 12687743, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.007, 
+        "sw_longitude": 4.187, 
+        "fullname": "Port d'Addaia, Balearic Islands, Baleares, Spain", 
+        "sw_latitude": 40.003
+      }, 
+      "id": 20225356
+    }
+  ]
+}

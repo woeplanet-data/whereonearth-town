@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.281, 
+              41.859
+            ], 
+            [
+              0.281, 
+              41.944
+            ], 
+            [
+              0.355, 
+              41.944
+            ], 
+            [
+              0.355, 
+              41.859
+            ], 
+            [
+              0.281, 
+              41.859
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.944, 
+        "name": "San Esteban de Litera", 
+        "adjacent_woeid": [
+          752066, 
+          753388, 
+          754548, 
+          762992, 
+          767711, 
+          769927, 
+          775168
+        ], 
+        "woeid": 772804, 
+        "alias_SPA_V": [
+          "S. Esteban de Litera"
+        ], 
+        "ne_longitude": 0.355, 
+        "longitude": 0.330, 
+        "parent_woeid": 12689553, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.903, 
+        "sw_longitude": 0.281, 
+        "fullname": "San Esteban de Litera, Aragon, Huesca, Spain", 
+        "sw_latitude": 41.859
+      }, 
+      "id": 772804
+    }
+  ]
+}

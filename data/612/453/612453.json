@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.550, 
+              45.251
+            ], 
+            [
+              3.550, 
+              45.282
+            ], 
+            [
+              3.577, 
+              45.282
+            ], 
+            [
+              3.577, 
+              45.251
+            ], 
+            [
+              3.550, 
+              45.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612453, 
+        "name": "Montclard", 
+        "adjacent_woeid": [
+          579314, 
+          626573, 
+          629032, 
+          629985
+        ], 
+        "ne_latitude": 45.282, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.577, 
+        "longitude": 3.565, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 22755198, 
+        "latitude": 45.268, 
+        "sw_longitude": 3.550, 
+        "fullname": "Montclard, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.251
+      }, 
+      "id": 612453
+    }
+  ]
+}

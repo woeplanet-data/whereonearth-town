@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.160, 
+              17.658
+            ], 
+            [
+              -95.160, 
+              17.676
+            ], 
+            [
+              -95.140, 
+              17.676
+            ], 
+            [
+              -95.140, 
+              17.658
+            ], 
+            [
+              -95.160, 
+              17.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.676, 
+        "name": "Monte Verde", 
+        "adjacent_woeid": [
+          111059, 
+          125828, 
+          133262, 
+          135778, 
+          149322
+        ], 
+        "woeid": 134015, 
+        "alias_SPA_V": [
+          "Mte Verde"
+        ], 
+        "ne_longitude": -95.140, 
+        "longitude": -95.150, 
+        "parent_woeid": 12601862, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.667, 
+        "sw_longitude": -95.160, 
+        "fullname": "Monte Verde, Veracruz-Llave, San Juan Evangelista, Mexico", 
+        "sw_latitude": 17.658
+      }, 
+      "id": 134015
+    }
+  ]
+}

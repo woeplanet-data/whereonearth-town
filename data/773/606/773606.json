@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.345, 
+              42.302
+            ], 
+            [
+              -2.345, 
+              42.311
+            ], 
+            [
+              -2.332, 
+              42.311
+            ], 
+            [
+              -2.332, 
+              42.302
+            ], 
+            [
+              -2.345, 
+              42.302
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.311, 
+        "name": "Santa Cecilia", 
+        "adjacent_woeid": [
+          759206, 
+          764334, 
+          779117, 
+          20220999, 
+          20228443, 
+          20228486
+        ], 
+        "woeid": 773606, 
+        "alias_SPA_V": [
+          "Sta Cecilia"
+        ], 
+        "ne_longitude": -2.332, 
+        "longitude": -2.338, 
+        "parent_woeid": 12687903, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.307, 
+        "sw_longitude": -2.345, 
+        "fullname": "Santa Cecilia, La Rioja, Rioja, Spain", 
+        "sw_latitude": 42.302
+      }, 
+      "id": 773606
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.143, 
+              19.524
+            ], 
+            [
+              -98.143, 
+              19.542
+            ], 
+            [
+              -98.124, 
+              19.542
+            ], 
+            [
+              -98.124, 
+              19.524
+            ], 
+            [
+              -98.143, 
+              19.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.542, 
+        "name": "San Pedro Ecatepec", 
+        "adjacent_woeid": [
+          145900, 
+          147114, 
+          149684, 
+          151046, 
+          24550710, 
+          26802982
+        ], 
+        "woeid": 145073, 
+        "alias_SPA_V": [
+          "S. Pedro Ecatepec"
+        ], 
+        "ne_longitude": -98.124, 
+        "longitude": -98.133, 
+        "parent_woeid": 12601680, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.533, 
+        "sw_longitude": -98.143, 
+        "fullname": "San Pedro Ecatepec, Tlaxcala, Atlangatepec, Mexico", 
+        "sw_latitude": 19.524
+      }, 
+      "id": 145073
+    }
+  ]
+}

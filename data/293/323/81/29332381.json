@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.529, 
+              48.491
+            ], 
+            [
+              1.529, 
+              48.509
+            ], 
+            [
+              1.556, 
+              48.509
+            ], 
+            [
+              1.556, 
+              48.491
+            ], 
+            [
+              1.529, 
+              48.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332381, 
+        "name": "La Roche", 
+        "adjacent_woeid": [
+          586566, 
+          595666, 
+          626575
+        ], 
+        "ne_latitude": 48.509, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.556, 
+        "longitude": 1.542, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12642216, 
+        "latitude": 48.500, 
+        "sw_longitude": 1.529, 
+        "fullname": "La Roche, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.491
+      }, 
+      "id": 29332381
+    }
+  ]
+}

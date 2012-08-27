@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.201, 
+              49.543
+            ], 
+            [
+              0.201, 
+              49.583
+            ], 
+            [
+              0.249, 
+              49.583
+            ], 
+            [
+              0.249, 
+              49.543
+            ], 
+            [
+              0.201, 
+              49.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 589824, 
+        "name": "\u00c9pouville", 
+        "adjacent_woeid": [
+          587942, 
+          594322, 
+          609661, 
+          612821, 
+          619809, 
+          625695, 
+          626775
+        ], 
+        "ne_latitude": 49.583, 
+        "ne_longitude": 0.249, 
+        "longitude": 0.223, 
+        "parent_woeid": 12643371, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Epouville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.563, 
+        "sw_longitude": 0.201, 
+        "fullname": "\u00c9pouville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.543
+      }, 
+      "id": 589824
+    }
+  ]
+}

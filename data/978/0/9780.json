@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.848, 
+              49.432
+            ], 
+            [
+              -123.848, 
+              49.549
+            ], 
+            [
+              -123.675, 
+              49.549
+            ], 
+            [
+              -123.675, 
+              49.432
+            ], 
+            [
+              -123.848, 
+              49.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9780, 
+        "name": "Sechelt", 
+        "adjacent_woeid": [
+          9776, 
+          29373926
+        ], 
+        "ne_latitude": 49.549, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "YHS"
+        ], 
+        "ne_longitude": -123.675, 
+        "longitude": -123.755, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375208, 
+        "latitude": 49.473, 
+        "sw_longitude": -123.848, 
+        "fullname": "Sechelt, British Columbia, Sunshine Coast, Canada", 
+        "sw_latitude": 49.432
+      }, 
+      "id": 9780
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.992, 
+              48.743
+            ], 
+            [
+              10.992, 
+              48.773
+            ], 
+            [
+              11.024, 
+              48.773
+            ], 
+            [
+              11.024, 
+              48.743
+            ], 
+            [
+              10.992, 
+              48.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648434, 
+        "name": "Erlbach", 
+        "adjacent_woeid": [
+          638431, 
+          678488, 
+          689300, 
+          700156
+        ], 
+        "ne_latitude": 48.773, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.024, 
+        "longitude": 11.006, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12634663, 
+        "latitude": 48.761, 
+        "sw_longitude": 10.992, 
+        "fullname": "Erlbach, Bavaria, Neuburg-Schrobenhausen, Germany", 
+        "sw_latitude": 48.743
+      }, 
+      "id": 648434
+    }
+  ]
+}

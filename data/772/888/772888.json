@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.598, 
+              42.204
+            ], 
+            [
+              2.598, 
+              42.222
+            ], 
+            [
+              2.616, 
+              42.222
+            ], 
+            [
+              2.616, 
+              42.204
+            ], 
+            [
+              2.598, 
+              42.204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.222, 
+        "name": "Sant Jaume de Llierca", 
+        "adjacent_woeid": [
+          752869, 
+          767493, 
+          772859, 
+          773561, 
+          773930, 
+          775892
+        ], 
+        "woeid": 772888, 
+        "alias_SPA_V": [
+          "San Jaime de Llierca"
+        ], 
+        "ne_longitude": 2.616, 
+        "longitude": 2.607, 
+        "parent_woeid": 12693841, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.213, 
+        "sw_longitude": 2.598, 
+        "fullname": "Sant Jaume de Llierca, Catalonia, Gerona, Spain", 
+        "sw_latitude": 42.204
+      }, 
+      "id": 772888
+    }
+  ]
+}

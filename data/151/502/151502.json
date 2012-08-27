@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.213, 
+              18.647
+            ], 
+            [
+              -99.213, 
+              18.672
+            ], 
+            [
+              -99.181, 
+              18.672
+            ], 
+            [
+              -99.181, 
+              18.647
+            ], 
+            [
+              -99.213, 
+              18.647
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.672, 
+        "name": "Zacatepec", 
+        "adjacent_woeid": [
+          125061, 
+          125971, 
+          149152, 
+          149656, 
+          150011, 
+          26804434
+        ], 
+        "woeid": 151502, 
+        "alias_SPA_V": [
+          "Zacatepec de Hidalgo"
+        ], 
+        "ne_longitude": -99.181, 
+        "longitude": -99.196, 
+        "parent_woeid": 12600584, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.660, 
+        "sw_longitude": -99.213, 
+        "fullname": "Zacatepec, Morelos, Zacatepec de Hidalgo, Mexico", 
+        "sw_latitude": 18.647
+      }, 
+      "id": 151502
+    }
+  ]
+}

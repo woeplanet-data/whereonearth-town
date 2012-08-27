@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.127, 
+              21.958
+            ], 
+            [
+              -99.127, 
+              21.976
+            ], 
+            [
+              -99.107, 
+              21.976
+            ], 
+            [
+              -99.107, 
+              21.958
+            ], 
+            [
+              -99.127, 
+              21.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.976, 
+        "name": "El Maguey", 
+        "adjacent_woeid": [
+          113772, 
+          130836, 
+          142237, 
+          144410, 
+          146802, 
+          148142
+        ], 
+        "woeid": 120771, 
+        "alias_SPA_V": [
+          "Maguey"
+        ], 
+        "ne_longitude": -99.107, 
+        "longitude": -99.117, 
+        "parent_woeid": 12601483, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.967, 
+        "sw_longitude": -99.127, 
+        "fullname": "El Maguey, San Luis Potosi, Ciudad Valles, Mexico", 
+        "sw_latitude": 21.958
+      }, 
+      "id": 120771
+    }
+  ]
+}

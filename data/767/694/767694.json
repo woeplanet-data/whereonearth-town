@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.123, 
+              41.890
+            ], 
+            [
+              3.123, 
+              41.925
+            ], 
+            [
+              3.157, 
+              41.925
+            ], 
+            [
+              3.157, 
+              41.890
+            ], 
+            [
+              3.123, 
+              41.890
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.925, 
+        "name": "Mont-Ras", 
+        "adjacent_woeid": [
+          755540, 
+          760758, 
+          765371, 
+          769242, 
+          769243, 
+          779322, 
+          29369874, 
+          29369876, 
+          29369877, 
+          29370191
+        ], 
+        "woeid": 767694, 
+        "alias_SPA_V": [
+          "Caser\u00edo Montr\u00e1s"
+        ], 
+        "ne_longitude": 3.157, 
+        "longitude": 3.146, 
+        "parent_woeid": 12693788, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Montras"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.908, 
+        "sw_longitude": 3.123, 
+        "fullname": "Mont-Ras, Catalonia, Gerona, Spain", 
+        "sw_latitude": 41.890
+      }, 
+      "id": 767694
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.556, 
+              49.514
+            ], 
+            [
+              11.556, 
+              49.523
+            ], 
+            [
+              11.570, 
+              49.523
+            ], 
+            [
+              11.570, 
+              49.514
+            ], 
+            [
+              11.556, 
+              49.514
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670875, 
+        "name": "Lehenhammer", 
+        "adjacent_woeid": [
+          644046, 
+          659762, 
+          670873, 
+          20158029
+        ], 
+        "ne_latitude": 49.523, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.570, 
+        "longitude": 11.563, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:19Z", 
+        "parent_woeid": 12634238, 
+        "latitude": 49.518, 
+        "sw_longitude": 11.556, 
+        "fullname": "Lehenhammer, Bavaria, Amberg-Sulzbach, Germany", 
+        "sw_latitude": 49.514
+      }, 
+      "id": 670875
+    }
+  ]
+}

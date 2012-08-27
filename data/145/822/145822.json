@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -115.811, 
+              31.608
+            ], 
+            [
+              -115.811, 
+              31.626
+            ], 
+            [
+              -115.789, 
+              31.626
+            ], 
+            [
+              -115.789, 
+              31.608
+            ], 
+            [
+              -115.811, 
+              31.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.626, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          112453, 
+          116929, 
+          118533, 
+          119004, 
+          124795, 
+          129560
+        ], 
+        "woeid": 145822, 
+        "alias_SPA_V": [
+          "Sta Catarina"
+        ], 
+        "ne_longitude": -115.789, 
+        "longitude": -115.800, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.617, 
+        "sw_longitude": -115.811, 
+        "fullname": "Santa Catarina, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 31.608
+      }, 
+      "id": 145822
+    }
+  ]
+}

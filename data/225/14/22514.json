@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.586, 
+              53.962
+            ], 
+            [
+              -1.586, 
+              54.025
+            ], 
+            [
+              -1.482, 
+              54.025
+            ], 
+            [
+              -1.482, 
+              53.962
+            ], 
+            [
+              -1.586, 
+              53.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 22514, 
+        "name": "Harrogate", 
+        "adjacent_woeid": [
+          12202, 
+          12203, 
+          14573, 
+          14890, 
+          20035, 
+          20366, 
+          22294, 
+          24984, 
+          25505, 
+          26042, 
+          26206, 
+          27969, 
+          30316, 
+          31147, 
+          32162, 
+          33359, 
+          34226, 
+          34936, 
+          40051
+        ], 
+        "ne_latitude": 54.025, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "HRT"
+        ], 
+        "ne_longitude": -1.482, 
+        "longitude": -1.536, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:33Z", 
+        "parent_woeid": 12696045, 
+        "latitude": 53.991, 
+        "sw_longitude": -1.586, 
+        "fullname": "Harrogate, England, North Yorkshire, United Kingdom", 
+        "sw_latitude": 53.962
+      }, 
+      "id": 22514
+    }
+  ]
+}

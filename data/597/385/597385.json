@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.555, 
+              46.083
+            ], 
+            [
+              3.555, 
+              46.114
+            ], 
+            [
+              3.592, 
+              46.114
+            ], 
+            [
+              3.592, 
+              46.083
+            ], 
+            [
+              3.555, 
+              46.083
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597385, 
+        "name": "La Chapelle", 
+        "adjacent_woeid": [
+          576746, 
+          582452, 
+          611801, 
+          20205283
+        ], 
+        "ne_latitude": 46.114, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.592, 
+        "longitude": 3.573, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 22755141, 
+        "latitude": 46.092, 
+        "sw_longitude": 3.555, 
+        "fullname": "La Chapelle, Auvergne, Allier, France", 
+        "sw_latitude": 46.083
+      }, 
+      "id": 597385
+    }
+  ]
+}

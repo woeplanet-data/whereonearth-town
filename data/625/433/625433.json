@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.414, 
+              49.076
+            ], 
+            [
+              1.414, 
+              49.117
+            ], 
+            [
+              1.480, 
+              49.117
+            ], 
+            [
+              1.480, 
+              49.076
+            ], 
+            [
+              1.414, 
+              49.076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625433, 
+        "name": "St.-Marcel", 
+        "adjacent_woeid": [
+          577047, 
+          592327, 
+          597521, 
+          597999, 
+          598742, 
+          611056, 
+          615469, 
+          618027, 
+          625028, 
+          626410, 
+          627276, 
+          628961, 
+          630833
+        ], 
+        "ne_latitude": 49.117, 
+        "ne_longitude": 1.480, 
+        "longitude": 1.448, 
+        "parent_woeid": 12647640, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marcel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:40Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.101, 
+        "sw_longitude": 1.414, 
+        "fullname": "St.-Marcel, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.076
+      }, 
+      "id": 625433
+    }
+  ]
+}

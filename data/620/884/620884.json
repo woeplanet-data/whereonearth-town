@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.984, 
+              43.215
+            ], 
+            [
+              0.984, 
+              43.239
+            ], 
+            [
+              1.023, 
+              43.239
+            ], 
+            [
+              1.023, 
+              43.215
+            ], 
+            [
+              0.984, 
+              43.215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620884, 
+        "name": "Sana", 
+        "adjacent_woeid": [
+          607714, 
+          610353, 
+          611911, 
+          628266
+        ], 
+        "ne_latitude": 43.239, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.023, 
+        "longitude": 1.007, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12669426, 
+        "latitude": 43.230, 
+        "sw_longitude": 0.984, 
+        "fullname": "Sana, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.215
+      }, 
+      "id": 620884
+    }
+  ]
+}

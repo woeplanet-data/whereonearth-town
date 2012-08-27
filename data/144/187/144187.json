@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.606, 
+              28.066
+            ], 
+            [
+              -104.606, 
+              28.084
+            ], 
+            [
+              -104.586, 
+              28.084
+            ], 
+            [
+              -104.586, 
+              28.066
+            ], 
+            [
+              -104.606, 
+              28.066
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.084, 
+        "name": "San Lucas", 
+        "adjacent_woeid": [
+          115729, 
+          118250, 
+          118358, 
+          121586, 
+          128740, 
+          130765, 
+          131458, 
+          145180
+        ], 
+        "woeid": 144187, 
+        "alias_SPA_V": [
+          "S Lucas"
+        ], 
+        "ne_longitude": -104.586, 
+        "longitude": -104.596, 
+        "parent_woeid": 12599829, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.075, 
+        "sw_longitude": -104.606, 
+        "fullname": "San Lucas, Chihuahua, Camargo, Mexico", 
+        "sw_latitude": 28.066
+      }, 
+      "id": 144187
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.441, 
+              44.654
+            ], 
+            [
+              1.441, 
+              44.693
+            ], 
+            [
+              1.475, 
+              44.693
+            ], 
+            [
+              1.475, 
+              44.654
+            ], 
+            [
+              1.441, 
+              44.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623420, 
+        "name": "St.-Chamarand", 
+        "adjacent_woeid": [
+          586709, 
+          591938, 
+          623530, 
+          29331796, 
+          29331834
+        ], 
+        "ne_latitude": 44.693, 
+        "ne_longitude": 1.475, 
+        "longitude": 1.461, 
+        "parent_woeid": 12656070, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Chamarand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.678, 
+        "sw_longitude": 1.441, 
+        "fullname": "St.-Chamarand, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.654
+      }, 
+      "id": 623420
+    }
+  ]
+}

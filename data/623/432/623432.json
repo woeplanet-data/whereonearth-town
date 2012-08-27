@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.350, 
+              45.620
+            ], 
+            [
+              5.350, 
+              45.646
+            ], 
+            [
+              5.378, 
+              45.646
+            ], 
+            [
+              5.378, 
+              45.620
+            ], 
+            [
+              5.350, 
+              45.620
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623432, 
+        "name": "St.-Chef", 
+        "adjacent_woeid": [
+          576461, 
+          581253, 
+          584109, 
+          587824, 
+          600143, 
+          612408, 
+          613220, 
+          626910, 
+          20209493, 
+          20209543
+        ], 
+        "ne_latitude": 45.646, 
+        "ne_longitude": 5.378, 
+        "longitude": 5.366, 
+        "parent_woeid": 12655431, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Chef"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.635, 
+        "sw_longitude": 5.350, 
+        "fullname": "St.-Chef, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.620
+      }, 
+      "id": 623432
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.123, 
+              44.484
+            ], 
+            [
+              0.123, 
+              44.529
+            ], 
+            [
+              0.217, 
+              44.529
+            ], 
+            [
+              0.217, 
+              44.484
+            ], 
+            [
+              0.123, 
+              44.484
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610116, 
+        "name": "Marmande", 
+        "adjacent_woeid": [
+          578795, 
+          586370, 
+          589293, 
+          589949, 
+          591791, 
+          592509, 
+          603468, 
+          610657, 
+          612338, 
+          618391, 
+          622077, 
+          626223, 
+          627398, 
+          628772, 
+          632394, 
+          20197529, 
+          20219444
+        ], 
+        "ne_latitude": 44.529, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.217, 
+        "longitude": 0.166, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12648817, 
+        "latitude": 44.504, 
+        "sw_longitude": 0.123, 
+        "fullname": "Marmande, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.484
+      }, 
+      "id": 610116
+    }
+  ]
+}

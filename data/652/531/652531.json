@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.186, 
+              53.224
+            ], 
+            [
+              12.186, 
+              53.233
+            ], 
+            [
+              12.202, 
+              53.233
+            ], 
+            [
+              12.202, 
+              53.224
+            ], 
+            [
+              12.186, 
+              53.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652531, 
+        "name": "Giesenhagen", 
+        "adjacent_woeid": [
+          642200, 
+          649268, 
+          652208, 
+          685871, 
+          686934
+        ], 
+        "ne_latitude": 53.233, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.202, 
+        "longitude": 12.194, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12633863, 
+        "latitude": 53.228, 
+        "sw_longitude": 12.186, 
+        "fullname": "Giesenhagen, Brandenburg, Prignitz, Germany", 
+        "sw_latitude": 53.224
+      }, 
+      "id": 652531
+    }
+  ]
+}

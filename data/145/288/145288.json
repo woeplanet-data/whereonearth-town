@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.711, 
+              31.224
+            ], 
+            [
+              -111.711, 
+              31.242
+            ], 
+            [
+              -111.689, 
+              31.242
+            ], 
+            [
+              -111.689, 
+              31.224
+            ], 
+            [
+              -111.711, 
+              31.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.242, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          111139, 
+          119147, 
+          121549, 
+          132148, 
+          143673, 
+          147335
+        ], 
+        "woeid": 145288, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -111.689, 
+        "longitude": -111.700, 
+        "parent_woeid": 12601548, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.233, 
+        "sw_longitude": -111.711, 
+        "fullname": "San Rafael, Sonora, Altar, Mexico", 
+        "sw_latitude": 31.224
+      }, 
+      "id": 145288
+    }
+  ]
+}

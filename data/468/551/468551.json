@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.425, 
+              10.263
+            ], 
+            [
+              -64.425, 
+              10.278
+            ], 
+            [
+              -64.411, 
+              10.278
+            ], 
+            [
+              -64.411, 
+              10.263
+            ], 
+            [
+              -64.425, 
+              10.263
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.278, 
+        "name": "Santa Fe", 
+        "adjacent_woeid": [
+          391549, 
+          392774, 
+          393697, 
+          468307
+        ], 
+        "woeid": 468551, 
+        "alias_SPA_V": [
+          "Sta Fe"
+        ], 
+        "ne_longitude": -64.411, 
+        "longitude": -64.418, 
+        "parent_woeid": 26805013, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.271, 
+        "sw_longitude": -64.425, 
+        "fullname": "Santa Fe, Sucre, Sucre, Venezuela", 
+        "sw_latitude": 10.263
+      }, 
+      "id": 468551
+    }
+  ]
+}

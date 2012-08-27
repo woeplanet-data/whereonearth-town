@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.174, 
+              48.292
+            ], 
+            [
+              0.174, 
+              48.321
+            ], 
+            [
+              0.193, 
+              48.321
+            ], 
+            [
+              0.193, 
+              48.292
+            ], 
+            [
+              0.174, 
+              48.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593531, 
+        "name": "Grandchamp", 
+        "adjacent_woeid": [
+          585588, 
+          608827, 
+          620111, 
+          628525
+        ], 
+        "ne_latitude": 48.321, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.193, 
+        "longitude": 0.182, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12662308, 
+        "latitude": 48.305, 
+        "sw_longitude": 0.174, 
+        "fullname": "Grandchamp, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.292
+      }, 
+      "id": 593531
+    }
+  ]
+}

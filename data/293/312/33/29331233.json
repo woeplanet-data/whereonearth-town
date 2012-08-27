@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.658, 
+              45.938
+            ], 
+            [
+              0.658, 
+              45.956
+            ], 
+            [
+              0.684, 
+              45.956
+            ], 
+            [
+              0.684, 
+              45.938
+            ], 
+            [
+              0.658, 
+              45.938
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331233, 
+        "name": "Rue", 
+        "adjacent_woeid": [
+          585868, 
+          609701, 
+          625843, 
+          20198825
+        ], 
+        "ne_latitude": 45.956, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.684, 
+        "longitude": 0.671, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12669259, 
+        "latitude": 45.947, 
+        "sw_longitude": 0.658, 
+        "fullname": "Rue, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.938
+      }, 
+      "id": 29331233
+    }
+  ]
+}

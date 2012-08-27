@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.743, 
+              25.841
+            ], 
+            [
+              -99.743, 
+              25.859
+            ], 
+            [
+              -99.723, 
+              25.859
+            ], 
+            [
+              -99.723, 
+              25.841
+            ], 
+            [
+              -99.743, 
+              25.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.859, 
+        "name": "La Venadera", 
+        "adjacent_woeid": [
+          118237, 
+          134853, 
+          140615, 
+          141975, 
+          142890, 
+          150364
+        ], 
+        "woeid": 129539, 
+        "alias_SPA_V": [
+          "La Venadera o S. Antonio"
+        ], 
+        "ne_longitude": -99.723, 
+        "longitude": -99.733, 
+        "parent_woeid": 12600620, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.850, 
+        "sw_longitude": -99.743, 
+        "fullname": "La Venadera, Nuevo Leon, Doctor Gonzalez, Mexico", 
+        "sw_latitude": 25.841
+      }, 
+      "id": 129539
+    }
+  ]
+}

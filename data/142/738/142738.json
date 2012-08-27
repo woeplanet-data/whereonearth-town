@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.643, 
+              20.524
+            ], 
+            [
+              -101.643, 
+              20.542
+            ], 
+            [
+              -101.624, 
+              20.542
+            ], 
+            [
+              -101.624, 
+              20.524
+            ], 
+            [
+              -101.643, 
+              20.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.542, 
+        "name": "San Gregorio", 
+        "adjacent_woeid": [
+          117426, 
+          126683, 
+          136437, 
+          150243
+        ], 
+        "woeid": 142738, 
+        "alias_SPA_V": [
+          "S. Gregorio"
+        ], 
+        "ne_longitude": -101.624, 
+        "longitude": -101.633, 
+        "parent_woeid": 12600000, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.533, 
+        "sw_longitude": -101.643, 
+        "fullname": "San Gregorio, Guanajuato, Cueramaro, Mexico", 
+        "sw_latitude": 20.524
+      }, 
+      "id": 142738
+    }
+  ]
+}

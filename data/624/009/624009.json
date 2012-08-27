@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.186, 
+              48.454
+            ], 
+            [
+              2.186, 
+              48.500
+            ], 
+            [
+              2.217, 
+              48.500
+            ], 
+            [
+              2.217, 
+              48.454
+            ], 
+            [
+              2.186, 
+              48.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624009, 
+        "name": "St.-Fiacre", 
+        "adjacent_woeid": [
+          577462, 
+          580747, 
+          595418, 
+          613250, 
+          631900, 
+          20219245, 
+          20219575
+        ], 
+        "ne_latitude": 48.500, 
+        "ne_longitude": 2.217, 
+        "longitude": 2.200, 
+        "parent_woeid": 20075339, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Fiacre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.483, 
+        "sw_longitude": 2.186, 
+        "fullname": "St.-Fiacre, Ile-de-France, Essonne, France", 
+        "sw_latitude": 48.454
+      }, 
+      "id": 624009
+    }
+  ]
+}

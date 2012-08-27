@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.806, 
+              27.421
+            ], 
+            [
+              -99.806, 
+              27.435
+            ], 
+            [
+              -99.790, 
+              27.435
+            ], 
+            [
+              -99.790, 
+              27.421
+            ], 
+            [
+              -99.806, 
+              27.421
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.435, 
+        "name": "La Jarita", 
+        "adjacent_woeid": [
+          114273, 
+          116802, 
+          131861, 
+          140041, 
+          150877
+        ], 
+        "woeid": 127777, 
+        "alias_SPA_V": [
+          "Jarita"
+        ], 
+        "ne_longitude": -99.790, 
+        "longitude": -99.798, 
+        "parent_woeid": 12600609, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.428, 
+        "sw_longitude": -99.806, 
+        "fullname": "La Jarita, Nuevo Leon, Anahuac, Mexico", 
+        "sw_latitude": 27.421
+      }, 
+      "id": 127777
+    }
+  ]
+}

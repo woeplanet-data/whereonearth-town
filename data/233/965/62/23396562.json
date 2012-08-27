@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.201, 
+              45.452
+            ], 
+            [
+              -73.201, 
+              45.572
+            ], 
+            [
+              -73.065, 
+              45.572
+            ], 
+            [
+              -73.065, 
+              45.452
+            ], 
+            [
+              -73.201, 
+              45.452
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396562, 
+        "name": "St.-Jean-Baptiste", 
+        "adjacent_woeid": [
+          1150, 
+          23394675, 
+          23394681
+        ], 
+        "ne_latitude": 45.572, 
+        "ne_longitude": -73.065, 
+        "longitude": -73.124, 
+        "parent_woeid": 29375217, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jean-Baptiste"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.520, 
+        "sw_longitude": -73.201, 
+        "fullname": "St.-Jean-Baptiste, Quebec, La Vall\u00e9e-du-Richelieu, Canada", 
+        "sw_latitude": 45.452
+      }, 
+      "id": 23396562
+    }
+  ]
+}

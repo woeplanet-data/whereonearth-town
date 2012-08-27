@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.888, 
+              45.132
+            ], 
+            [
+              3.888, 
+              45.151
+            ], 
+            [
+              3.920, 
+              45.151
+            ], 
+            [
+              3.920, 
+              45.132
+            ], 
+            [
+              3.888, 
+              45.132
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627255, 
+        "name": "St.-Vincent", 
+        "adjacent_woeid": [
+          601472, 
+          20206373
+        ], 
+        "ne_latitude": 45.151, 
+        "ne_longitude": 3.920, 
+        "longitude": 3.910, 
+        "parent_woeid": 22755010, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vincent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.144, 
+        "sw_longitude": 3.888, 
+        "fullname": "St.-Vincent, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.132
+      }, 
+      "id": 627255
+    }
+  ]
+}

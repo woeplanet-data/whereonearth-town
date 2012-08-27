@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.183, 
+              50.799
+            ], 
+            [
+              10.183, 
+              50.828
+            ], 
+            [
+              10.213, 
+              50.828
+            ], 
+            [
+              10.213, 
+              50.799
+            ], 
+            [
+              10.183, 
+              50.799
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671006, 
+        "name": "Leimbach", 
+        "adjacent_woeid": [
+          659317, 
+          664467, 
+          670161, 
+          701426
+        ], 
+        "ne_latitude": 50.828, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.213, 
+        "longitude": 10.195, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:20Z", 
+        "parent_woeid": 12624793, 
+        "latitude": 50.815, 
+        "sw_longitude": 10.183, 
+        "fullname": "Leimbach, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.799
+      }, 
+      "id": 671006
+    }
+  ]
+}

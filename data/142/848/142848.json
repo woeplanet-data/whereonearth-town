@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.660, 
+              28.808
+            ], 
+            [
+              -111.660, 
+              28.826
+            ], 
+            [
+              -111.640, 
+              28.826
+            ], 
+            [
+              -111.640, 
+              28.808
+            ], 
+            [
+              -111.660, 
+              28.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.826, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          144468, 
+          146078, 
+          146125, 
+          146443, 
+          150510, 
+          150521
+        ], 
+        "woeid": 142848, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -111.640, 
+        "longitude": -111.650, 
+        "parent_woeid": 12601574, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.817, 
+        "sw_longitude": -111.660, 
+        "fullname": "San Isidro, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 28.808
+      }, 
+      "id": 142848
+    }
+  ]
+}

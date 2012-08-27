@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.748, 
+              49.073
+            ], 
+            [
+              0.748, 
+              49.091
+            ], 
+            [
+              0.776, 
+              49.091
+            ], 
+            [
+              0.776, 
+              49.073
+            ], 
+            [
+              0.748, 
+              49.073
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330823, 
+        "name": "Saint-Laurent", 
+        "adjacent_woeid": [
+          578771, 
+          591347, 
+          601704, 
+          29330602
+        ], 
+        "ne_latitude": 49.091, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.776, 
+        "longitude": 0.762, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12638385, 
+        "latitude": 49.082, 
+        "sw_longitude": 0.748, 
+        "fullname": "Saint-Laurent, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.073
+      }, 
+      "id": 29330823
+    }
+  ]
+}

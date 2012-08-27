@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.730, 
+              45.938
+            ], 
+            [
+              4.730, 
+              45.963
+            ], 
+            [
+              4.759, 
+              45.963
+            ], 
+            [
+              4.759, 
+              45.938
+            ], 
+            [
+              4.730, 
+              45.938
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003293, 
+        "name": "St.-Bernard", 
+        "adjacent_woeid": [
+          623764, 
+          29333608
+        ], 
+        "ne_latitude": 45.963, 
+        "ne_longitude": 4.759, 
+        "longitude": 4.735, 
+        "parent_woeid": 12670246, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bernard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.945, 
+        "sw_longitude": 4.730, 
+        "fullname": "St.-Bernard, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 45.938
+      }, 
+      "id": 15003293
+    }
+  ]
+}

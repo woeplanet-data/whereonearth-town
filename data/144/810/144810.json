@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.126, 
+              19.691
+            ], 
+            [
+              -100.126, 
+              19.709
+            ], 
+            [
+              -100.107, 
+              19.709
+            ], 
+            [
+              -100.107, 
+              19.691
+            ], 
+            [
+              -100.126, 
+              19.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.709, 
+        "name": "San Onofre", 
+        "adjacent_woeid": [
+          120825, 
+          125712, 
+          141875, 
+          147101, 
+          148270, 
+          149579, 
+          28358258, 
+          55889435, 
+          55910581
+        ], 
+        "woeid": 144810, 
+        "alias_SPA_V": [
+          "S Onofre"
+        ], 
+        "ne_longitude": -100.107, 
+        "longitude": -100.117, 
+        "parent_woeid": 55921239, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.700, 
+        "sw_longitude": -100.126, 
+        "fullname": "San Onofre, Mexico, San Jose Del Rincon, Mexico", 
+        "sw_latitude": 19.691
+      }, 
+      "id": 144810
+    }
+  ]
+}

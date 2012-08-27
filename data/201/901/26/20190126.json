@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.988, 
+              46.041
+            ], 
+            [
+              1.988, 
+              46.050
+            ], 
+            [
+              2.002, 
+              46.050
+            ], 
+            [
+              2.002, 
+              46.041
+            ], 
+            [
+              1.988, 
+              46.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20190126, 
+        "name": "Le Sec", 
+        "adjacent_woeid": [
+          584003, 
+          591916, 
+          602841, 
+          622641
+        ], 
+        "ne_latitude": 46.050, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.002, 
+        "longitude": 1.995, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12664820, 
+        "latitude": 46.045, 
+        "sw_longitude": 1.988, 
+        "fullname": "Le Sec, Limousin, Creuse, France", 
+        "sw_latitude": 46.041
+      }, 
+      "id": 20190126
+    }
+  ]
+}

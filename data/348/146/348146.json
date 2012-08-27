@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.551, 
+              -33.457
+            ], 
+            [
+              -70.551, 
+              -33.443
+            ], 
+            [
+              -70.534, 
+              -33.443
+            ], 
+            [
+              -70.534, 
+              -33.457
+            ], 
+            [
+              -70.551, 
+              -33.457
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.443, 
+        "name": "La Reina", 
+        "adjacent_woeid": [
+          346813, 
+          348227, 
+          348743, 
+          348900, 
+          349035
+        ], 
+        "woeid": 348146, 
+        "alias_SPA_V": [
+          "Lareina"
+        ], 
+        "ne_longitude": -70.534, 
+        "longitude": -70.542, 
+        "parent_woeid": 26794289, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.450, 
+        "sw_longitude": -70.551, 
+        "fullname": "La Reina, Santiago Metropolitan Region, Santiago Province, Chile", 
+        "sw_latitude": -33.457
+      }, 
+      "id": 348146
+    }
+  ]
+}

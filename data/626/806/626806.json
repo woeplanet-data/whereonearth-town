@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.303, 
+              45.096
+            ], 
+            [
+              5.303, 
+              45.133
+            ], 
+            [
+              5.339, 
+              45.133
+            ], 
+            [
+              5.339, 
+              45.096
+            ], 
+            [
+              5.303, 
+              45.096
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626806, 
+        "name": "St.-Romans", 
+        "adjacent_woeid": [
+          578902, 
+          585144, 
+          600031, 
+          618020, 
+          622948, 
+          625042, 
+          626874
+        ], 
+        "ne_latitude": 45.133, 
+        "ne_longitude": 5.339, 
+        "longitude": 5.327, 
+        "parent_woeid": 12671189, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Romans"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.113, 
+        "sw_longitude": 5.303, 
+        "fullname": "St.-Romans, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.096
+      }, 
+      "id": 626806
+    }
+  ]
+}

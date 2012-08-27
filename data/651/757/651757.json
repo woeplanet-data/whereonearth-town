@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.185, 
+              50.627
+            ], 
+            [
+              13.185, 
+              50.648
+            ], 
+            [
+              13.211, 
+              50.648
+            ], 
+            [
+              13.211, 
+              50.627
+            ], 
+            [
+              13.185, 
+              50.627
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651757, 
+        "name": "Gebirge", 
+        "adjacent_woeid": [
+          652035, 
+          659400, 
+          663106, 
+          669404, 
+          685415
+        ], 
+        "ne_latitude": 50.648, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.211, 
+        "longitude": 13.197, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 24547356, 
+        "latitude": 50.636, 
+        "sw_longitude": 13.185, 
+        "fullname": "Gebirge, Saxony, Mittlerer Erzgebirgskreis, Germany", 
+        "alias_GER_V": [
+          "Marienberg-Gebirge"
+        ], 
+        "sw_latitude": 50.627
+      }, 
+      "id": 651757
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.952, 
+              44.658
+            ], 
+            [
+              4.952, 
+              44.701
+            ], 
+            [
+              4.991, 
+              44.701
+            ], 
+            [
+              4.991, 
+              44.658
+            ], 
+            [
+              4.952, 
+              44.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 577411, 
+        "name": "Autichamp", 
+        "adjacent_woeid": [
+          583802, 
+          588813, 
+          599623, 
+          599763
+        ], 
+        "ne_latitude": 44.701, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.991, 
+        "longitude": 4.965, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "parent_woeid": 12655886, 
+        "latitude": 44.683, 
+        "sw_longitude": 4.952, 
+        "fullname": "Autichamp, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.658
+      }, 
+      "id": 577411
+    }
+  ]
+}

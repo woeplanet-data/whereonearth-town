@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.323, 
+              48.854
+            ], 
+            [
+              12.323, 
+              48.885
+            ], 
+            [
+              12.349, 
+              48.885
+            ], 
+            [
+              12.349, 
+              48.854
+            ], 
+            [
+              12.323, 
+              48.854
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656616, 
+        "name": "Haidenkofen", 
+        "adjacent_woeid": [
+          663680, 
+          673557, 
+          679547, 
+          703717
+        ], 
+        "ne_latitude": 48.885, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.349, 
+        "longitude": 12.337, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12623133, 
+        "latitude": 48.868, 
+        "sw_longitude": 12.323, 
+        "fullname": "Haidenkofen, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.854
+      }, 
+      "id": 656616
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.033, 
+              44.229
+            ], 
+            [
+              6.033, 
+              44.269
+            ], 
+            [
+              6.069, 
+              44.269
+            ], 
+            [
+              6.069, 
+              44.229
+            ], 
+            [
+              6.033, 
+              44.229
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624130, 
+        "name": "St.-Geniez", 
+        "adjacent_woeid": [
+          577403, 
+          584953, 
+          589712, 
+          610866, 
+          629799, 
+          629858, 
+          631379
+        ], 
+        "ne_latitude": 44.269, 
+        "ne_longitude": 6.069, 
+        "longitude": 6.053, 
+        "parent_woeid": 22757691, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Geniez"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.245, 
+        "sw_longitude": 6.033, 
+        "fullname": "St.-Geniez, Provence-Alpes-Cote d'Azur, Alpes-de-Haute-Provence, France", 
+        "sw_latitude": 44.229
+      }, 
+      "id": 624130
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.401, 
+              48.927
+            ], 
+            [
+              12.401, 
+              48.967
+            ], 
+            [
+              12.429, 
+              48.967
+            ], 
+            [
+              12.429, 
+              48.927
+            ], 
+            [
+              12.401, 
+              48.927
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 654176, 
+        "name": "Griesau", 
+        "adjacent_woeid": [
+          644141, 
+          652927, 
+          663667, 
+          692781, 
+          701020
+        ], 
+        "ne_latitude": 48.967, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.429, 
+        "longitude": 12.413, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:57Z", 
+        "parent_woeid": 12623127, 
+        "latitude": 48.948, 
+        "sw_longitude": 12.401, 
+        "fullname": "Griesau, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.927
+      }, 
+      "id": 654176
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.953, 
+              49.300
+            ], 
+            [
+              10.953, 
+              49.325
+            ], 
+            [
+              10.973, 
+              49.325
+            ], 
+            [
+              10.973, 
+              49.300
+            ], 
+            [
+              10.953, 
+              49.300
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703289, 
+        "name": "Waikersreuth", 
+        "adjacent_woeid": [
+          682054, 
+          686303, 
+          691533, 
+          702639
+        ], 
+        "ne_latitude": 49.325, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.973, 
+        "longitude": 10.964, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12634540, 
+        "latitude": 49.312, 
+        "sw_longitude": 10.953, 
+        "fullname": "Waikersreuth, Bavaria, Landkreis Roth, Germany", 
+        "sw_latitude": 49.300
+      }, 
+      "id": 703289
+    }
+  ]
+}

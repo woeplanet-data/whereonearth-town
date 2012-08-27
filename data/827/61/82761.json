@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.041, 
+              15.126
+            ], 
+            [
+              -89.041, 
+              15.140
+            ], 
+            [
+              -89.026, 
+              15.140
+            ], 
+            [
+              -89.026, 
+              15.126
+            ], 
+            [
+              -89.041, 
+              15.126
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.140, 
+        "name": "El Refugio", 
+        "adjacent_woeid": [
+          82778, 
+          84019, 
+          85998
+        ], 
+        "woeid": 82761, 
+        "alias_SPA_V": [
+          "Refugio"
+        ], 
+        "ne_longitude": -89.026, 
+        "longitude": -89.033, 
+        "parent_woeid": 26807035, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.133, 
+        "sw_longitude": -89.041, 
+        "fullname": "El Refugio, Izabal, Los Amates, Guatemala", 
+        "sw_latitude": 15.126
+      }, 
+      "id": 82761
+    }
+  ]
+}

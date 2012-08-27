@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.596, 
+              10.557
+            ], 
+            [
+              -85.596, 
+              10.571
+            ], 
+            [
+              -85.582, 
+              10.571
+            ], 
+            [
+              -85.582, 
+              10.557
+            ], 
+            [
+              -85.596, 
+              10.557
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.571, 
+        "name": "Comunidad", 
+        "adjacent_woeid": [
+          58190, 
+          58408, 
+          58927, 
+          58978
+        ], 
+        "woeid": 58119, 
+        "alias_SPA_V": [
+          "La Comunidad"
+        ], 
+        "ne_longitude": -85.582, 
+        "longitude": -85.589, 
+        "parent_woeid": 26809068, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.564, 
+        "sw_longitude": -85.596, 
+        "fullname": "Comunidad, Guanacaste, Liberia, Costa Rica", 
+        "sw_latitude": 10.557
+      }, 
+      "id": 58119
+    }
+  ]
+}

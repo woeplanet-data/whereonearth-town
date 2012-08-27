@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.993, 
+              17.024
+            ], 
+            [
+              -91.993, 
+              17.042
+            ], 
+            [
+              -91.974, 
+              17.042
+            ], 
+            [
+              -91.974, 
+              17.024
+            ], 
+            [
+              -91.993, 
+              17.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.042, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          112874, 
+          116101, 
+          134926, 
+          134932, 
+          135132, 
+          135536, 
+          150218, 
+          55900276
+        ], 
+        "woeid": 141739, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -91.974, 
+        "longitude": -91.983, 
+        "parent_woeid": 12599732, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.033, 
+        "sw_longitude": -91.993, 
+        "fullname": "San Antonio, Chiapas, Chilon, Mexico", 
+        "sw_latitude": 17.024
+      }, 
+      "id": 141739
+    }
+  ]
+}

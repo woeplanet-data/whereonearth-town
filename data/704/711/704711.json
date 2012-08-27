@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.343, 
+              48.148
+            ], 
+            [
+              10.343, 
+              48.179
+            ], 
+            [
+              10.380, 
+              48.179
+            ], 
+            [
+              10.380, 
+              48.148
+            ], 
+            [
+              10.343, 
+              48.148
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704711, 
+        "name": "Weiler", 
+        "adjacent_woeid": [
+          656752, 
+          656811, 
+          657937, 
+          659434, 
+          662305, 
+          672658, 
+          703788
+        ], 
+        "ne_latitude": 48.179, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.380, 
+        "longitude": 10.365, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12634850, 
+        "latitude": 48.168, 
+        "sw_longitude": 10.343, 
+        "fullname": "Weiler, Bavaria, Landkreis G\u00fcnzburg, Germany", 
+        "sw_latitude": 48.148
+      }, 
+      "id": 704711
+    }
+  ]
+}

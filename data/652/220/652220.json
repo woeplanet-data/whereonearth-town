@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.383, 
+              47.609
+            ], 
+            [
+              10.383, 
+              47.618
+            ], 
+            [
+              10.397, 
+              47.618
+            ], 
+            [
+              10.397, 
+              47.609
+            ], 
+            [
+              10.383, 
+              47.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652220, 
+        "name": "Gereute", 
+        "adjacent_woeid": [
+          639029, 
+          661807, 
+          20157896, 
+          20157947
+        ], 
+        "ne_latitude": 47.618, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.397, 
+        "longitude": 10.390, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12635029, 
+        "latitude": 47.614, 
+        "sw_longitude": 10.383, 
+        "fullname": "Gereute, Bavaria, Oberallg\u00e4u, Germany", 
+        "sw_latitude": 47.609
+      }, 
+      "id": 652220
+    }
+  ]
+}

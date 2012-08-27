@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.017, 
+              43.719
+            ], 
+            [
+              -0.017, 
+              43.759
+            ], 
+            [
+              0.028, 
+              43.759
+            ], 
+            [
+              0.028, 
+              43.719
+            ], 
+            [
+              -0.017, 
+              43.719
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622205, 
+        "name": "Sion", 
+        "adjacent_woeid": [
+          579679, 
+          608692, 
+          622412, 
+          629619
+        ], 
+        "ne_latitude": 43.759, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.028, 
+        "longitude": 0.009, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12669815, 
+        "latitude": 43.739, 
+        "sw_longitude": -0.017, 
+        "fullname": "Sion, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.719
+      }, 
+      "id": 622205
+    }
+  ]
+}

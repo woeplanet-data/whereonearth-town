@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.309, 
+              47.750
+            ], 
+            [
+              12.309, 
+              47.759
+            ], 
+            [
+              12.322, 
+              47.759
+            ], 
+            [
+              12.322, 
+              47.750
+            ], 
+            [
+              12.309, 
+              47.750
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703352, 
+        "name": "Wald", 
+        "adjacent_woeid": [
+          636316, 
+          647221, 
+          661057, 
+          29346387
+        ], 
+        "ne_latitude": 47.759, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.322, 
+        "longitude": 12.315, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12635762, 
+        "latitude": 47.755, 
+        "sw_longitude": 12.309, 
+        "fullname": "Wald, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.750
+      }, 
+      "id": 703352
+    }
+  ]
+}

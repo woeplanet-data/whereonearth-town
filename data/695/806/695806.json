@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.038, 
+              49.282
+            ], 
+            [
+              12.038, 
+              49.300
+            ], 
+            [
+              12.065, 
+              49.300
+            ], 
+            [
+              12.065, 
+              49.282
+            ], 
+            [
+              12.038, 
+              49.282
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 695806, 
+        "name": "Spielberg", 
+        "adjacent_woeid": [
+          647064, 
+          653062, 
+          657457, 
+          677019, 
+          697847, 
+          707827
+        ], 
+        "ne_latitude": 49.300, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.065, 
+        "longitude": 12.058, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:15Z", 
+        "parent_woeid": 12634317, 
+        "latitude": 49.291, 
+        "sw_longitude": 12.038, 
+        "fullname": "Spielberg, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.282
+      }, 
+      "id": 695806
+    }
+  ]
+}

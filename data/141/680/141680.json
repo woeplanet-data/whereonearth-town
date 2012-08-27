@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.249, 
+              20.286
+            ], 
+            [
+              -103.249, 
+              20.305
+            ], 
+            [
+              -103.230, 
+              20.305
+            ], 
+            [
+              -103.230, 
+              20.286
+            ], 
+            [
+              -103.249, 
+              20.286
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.305, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          111680, 
+          113792, 
+          115648, 
+          144267, 
+          146825
+        ], 
+        "woeid": 141680, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -103.230, 
+        "longitude": -103.240, 
+        "parent_woeid": 12600215, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.295, 
+        "sw_longitude": -103.249, 
+        "fullname": "San Antonio, Jalisco, Chapala, Mexico", 
+        "sw_latitude": 20.286
+      }, 
+      "id": 141680
+    }
+  ]
+}

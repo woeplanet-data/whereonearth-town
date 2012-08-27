@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.833, 
+              48.016
+            ], 
+            [
+              12.833, 
+              48.034
+            ], 
+            [
+              12.860, 
+              48.034
+            ], 
+            [
+              12.860, 
+              48.016
+            ], 
+            [
+              12.833, 
+              48.016
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20097110, 
+        "name": "Riedersbach Siedlung", 
+        "adjacent_woeid": [
+          546564, 
+          546973, 
+          547288, 
+          20097630
+        ], 
+        "ne_latitude": 48.034, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.860, 
+        "longitude": 12.846, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:28Z", 
+        "parent_woeid": 12674611, 
+        "latitude": 48.025, 
+        "sw_longitude": 12.833, 
+        "fullname": "Riedersbach Siedlung, Upper Austria, Braunau am Inn, Austria", 
+        "sw_latitude": 48.016
+      }, 
+      "id": 20097110
+    }
+  ]
+}

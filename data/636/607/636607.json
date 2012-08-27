@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.288, 
+              51.625
+            ], 
+            [
+              13.288, 
+              51.659
+            ], 
+            [
+              13.327, 
+              51.659
+            ], 
+            [
+              13.327, 
+              51.625
+            ], 
+            [
+              13.288, 
+              51.625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 636607, 
+        "name": "Bahnsdorf", 
+        "adjacent_woeid": [
+          650812, 
+          677965, 
+          687287, 
+          706205
+        ], 
+        "ne_latitude": 51.659, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.327, 
+        "longitude": 13.301, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 24547153, 
+        "latitude": 51.640, 
+        "sw_longitude": 13.288, 
+        "fullname": "Bahnsdorf, Brandenburg, Elbe-Elster, Germany", 
+        "sw_latitude": 51.625
+      }, 
+      "id": 636607
+    }
+  ]
+}

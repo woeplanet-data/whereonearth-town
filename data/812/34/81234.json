@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.591, 
+              15.526
+            ], 
+            [
+              -88.591, 
+              15.540
+            ], 
+            [
+              -88.576, 
+              15.540
+            ], 
+            [
+              -88.576, 
+              15.526
+            ], 
+            [
+              -88.591, 
+              15.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 81234, 
+        "name": "Buenos Aires", 
+        "adjacent_woeid": [
+          82707, 
+          83006, 
+          85251, 
+          86406
+        ], 
+        "ne_latitude": 15.540, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -88.576, 
+        "longitude": -88.583, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "parent_woeid": 26807034, 
+        "latitude": 15.533, 
+        "sw_longitude": -88.591, 
+        "fullname": "Buenos Aires, Izabal, Morales, Guatemala", 
+        "sw_latitude": 15.526
+      }, 
+      "id": 81234
+    }
+  ]
+}

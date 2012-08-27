@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.565, 
+              48.449
+            ], 
+            [
+              0.565, 
+              48.475
+            ], 
+            [
+              0.606, 
+              48.475
+            ], 
+            [
+              0.606, 
+              48.449
+            ], 
+            [
+              0.565, 
+              48.449
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 586609, 
+        "name": "Comblot", 
+        "adjacent_woeid": [
+          587475, 
+          604044, 
+          610649, 
+          619259
+        ], 
+        "ne_latitude": 48.475, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.606, 
+        "longitude": 0.593, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12641985, 
+        "latitude": 48.461, 
+        "sw_longitude": 0.565, 
+        "fullname": "Comblot, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.449
+      }, 
+      "id": 586609
+    }
+  ]
+}

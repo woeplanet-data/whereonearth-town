@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.893, 
+              37.459
+            ], 
+            [
+              -3.893, 
+              37.468
+            ], 
+            [
+              -3.880, 
+              37.468
+            ], 
+            [
+              -3.880, 
+              37.459
+            ], 
+            [
+              -3.893, 
+              37.459
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.468, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          757473, 
+          767657, 
+          771815, 
+          771816, 
+          20228795, 
+          23414038, 
+          23414831, 
+          55865956
+        ], 
+        "woeid": 773588, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -3.880, 
+        "longitude": -3.886, 
+        "parent_woeid": 12689095, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.464, 
+        "sw_longitude": -3.893, 
+        "fullname": "Santa Ana, Andalusia, Jaen, Spain", 
+        "sw_latitude": 37.459
+      }, 
+      "id": 773588
+    }
+  ]
+}

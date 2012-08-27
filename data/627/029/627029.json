@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.606, 
+              45.624
+            ], 
+            [
+              2.606, 
+              45.664
+            ], 
+            [
+              2.643, 
+              45.664
+            ], 
+            [
+              2.643, 
+              45.624
+            ], 
+            [
+              2.606, 
+              45.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627029, 
+        "name": "St.-Sulpice", 
+        "adjacent_woeid": [
+          577599, 
+          581969, 
+          601633, 
+          602411, 
+          20207449
+        ], 
+        "ne_latitude": 45.664, 
+        "ne_longitude": 2.643, 
+        "longitude": 2.628, 
+        "parent_woeid": 12651269, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sulpice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.644, 
+        "sw_longitude": 2.606, 
+        "fullname": "St.-Sulpice, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.624
+      }, 
+      "id": 627029
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.525, 
+              43.291
+            ], 
+            [
+              0.525, 
+              43.332
+            ], 
+            [
+              0.556, 
+              43.332
+            ], 
+            [
+              0.556, 
+              43.291
+            ], 
+            [
+              0.525, 
+              43.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621039, 
+        "name": "Sariac-Magnoac", 
+        "adjacent_woeid": [
+          576605, 
+          579640, 
+          583301, 
+          585460, 
+          612104, 
+          628387
+        ], 
+        "ne_latitude": 43.332, 
+        "ne_longitude": 0.556, 
+        "longitude": 0.542, 
+        "parent_woeid": 12669461, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sariac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.311, 
+        "sw_longitude": 0.525, 
+        "fullname": "Sariac-Magnoac, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.291
+      }, 
+      "id": 621039
+    }
+  ]
+}

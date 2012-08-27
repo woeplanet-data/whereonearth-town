@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.978, 
+              52.978
+            ], 
+            [
+              10.978, 
+              52.996
+            ], 
+            [
+              10.996, 
+              52.996
+            ], 
+            [
+              10.996, 
+              52.978
+            ], 
+            [
+              10.978, 
+              52.978
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666362, 
+        "name": "Klein Gaddau", 
+        "adjacent_woeid": [
+          644394, 
+          654485, 
+          669448, 
+          690788, 
+          708545
+        ], 
+        "ne_latitude": 52.996, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.996, 
+        "longitude": 10.987, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12629662, 
+        "latitude": 52.987, 
+        "sw_longitude": 10.978, 
+        "fullname": "Klein Gaddau, Lower Saxony, L\u00fcchow-Dannenberg, Germany", 
+        "sw_latitude": 52.978
+      }, 
+      "id": 666362
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.807, 
+              42.312
+            ], 
+            [
+              -8.807, 
+              42.351
+            ], 
+            [
+              -8.742, 
+              42.351
+            ], 
+            [
+              -8.742, 
+              42.312
+            ], 
+            [
+              -8.807, 
+              42.312
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.351, 
+        "name": "Bueu", 
+        "adjacent_woeid": [
+          755947, 
+          766590, 
+          767300, 
+          20228326, 
+          29371258, 
+          29371259, 
+          29371715, 
+          29372620
+        ], 
+        "woeid": 755003, 
+        "alias_SPA_V": [
+          "Buen"
+        ], 
+        "ne_longitude": -8.742, 
+        "longitude": -8.784, 
+        "parent_woeid": 12694959, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:11Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.326, 
+        "sw_longitude": -8.807, 
+        "fullname": "Bueu, Galicia, Pontevedra, Spain", 
+        "sw_latitude": 42.312
+      }, 
+      "id": 755003
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.154, 
+              48.246
+            ], 
+            [
+              12.154, 
+              48.256
+            ], 
+            [
+              12.168, 
+              48.256
+            ], 
+            [
+              12.168, 
+              48.246
+            ], 
+            [
+              12.154, 
+              48.246
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635455, 
+        "name": "Armstorf", 
+        "adjacent_woeid": [
+          637754, 
+          667158, 
+          20152674, 
+          20152706
+        ], 
+        "ne_latitude": 48.256, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.168, 
+        "longitude": 12.161, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12635157, 
+        "latitude": 48.251, 
+        "sw_longitude": 12.154, 
+        "fullname": "Armstorf, Bavaria, Landkreis Erding, Germany", 
+        "sw_latitude": 48.246
+      }, 
+      "id": 635455
+    }
+  ]
+}

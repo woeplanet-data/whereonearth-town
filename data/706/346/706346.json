@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.936, 
+              50.087
+            ], 
+            [
+              10.936, 
+              50.113
+            ], 
+            [
+              10.963, 
+              50.113
+            ], 
+            [
+              10.963, 
+              50.087
+            ], 
+            [
+              10.936, 
+              50.087
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706346, 
+        "name": "Wiesen", 
+        "adjacent_woeid": [
+          645283, 
+          645542, 
+          648478, 
+          677338, 
+          679321, 
+          700621, 
+          701767
+        ], 
+        "ne_latitude": 50.113, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.963, 
+        "longitude": 10.952, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635369, 
+        "latitude": 50.096, 
+        "sw_longitude": 10.936, 
+        "fullname": "Wiesen, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.087
+      }, 
+      "id": 706346
+    }
+  ]
+}

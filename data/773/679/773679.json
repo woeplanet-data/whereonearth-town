@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.895, 
+              39.300
+            ], 
+            [
+              -5.895, 
+              39.397
+            ], 
+            [
+              -5.778, 
+              39.397
+            ], 
+            [
+              -5.778, 
+              39.300
+            ], 
+            [
+              -5.895, 
+              39.300
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.397, 
+        "name": "Santa Cruz de la Sierra", 
+        "adjacent_woeid": [
+          751306, 
+          757950, 
+          762111, 
+          762487, 
+          770976, 
+          776134
+        ], 
+        "woeid": 773679, 
+        "alias_SPA_V": [
+          "Sta. Cruz de la Sierra"
+        ], 
+        "ne_longitude": -5.778, 
+        "longitude": -5.846, 
+        "parent_woeid": 12694648, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.338, 
+        "sw_longitude": -5.895, 
+        "fullname": "Santa Cruz de la Sierra, Extremadura, Caceres, Spain", 
+        "sw_latitude": 39.300
+      }, 
+      "id": 773679
+    }
+  ]
+}

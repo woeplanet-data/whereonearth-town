@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.110, 
+              23.774
+            ], 
+            [
+              -103.110, 
+              23.792
+            ], 
+            [
+              -103.090, 
+              23.792
+            ], 
+            [
+              -103.090, 
+              23.774
+            ], 
+            [
+              -103.110, 
+              23.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.792, 
+        "name": "San Felipe", 
+        "adjacent_woeid": [
+          120307, 
+          123714, 
+          127448, 
+          136238, 
+          55916702
+        ], 
+        "woeid": 142329, 
+        "alias_SPA_V": [
+          "S Felipe"
+        ], 
+        "ne_longitude": -103.090, 
+        "longitude": -103.100, 
+        "parent_woeid": 12602070, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.783, 
+        "sw_longitude": -103.110, 
+        "fullname": "San Felipe, Zacatecas, Rio Grande, Mexico", 
+        "sw_latitude": 23.774
+      }, 
+      "id": 142329
+    }
+  ]
+}

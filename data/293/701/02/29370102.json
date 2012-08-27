@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.205, 
+              38.736
+            ], 
+            [
+              0.205, 
+              38.754
+            ], 
+            [
+              0.229, 
+              38.754
+            ], 
+            [
+              0.229, 
+              38.736
+            ], 
+            [
+              0.205, 
+              38.736
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 29370102, 
+        "name": "La Cala", 
+        "adjacent_woeid": [
+          29370089, 
+          29370100, 
+          29370108, 
+          29370268
+        ], 
+        "ne_latitude": 38.754, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.229, 
+        "longitude": 0.217, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:39Z", 
+        "parent_woeid": 23388442, 
+        "latitude": 38.745, 
+        "sw_longitude": 0.205, 
+        "fullname": "La Cala, Valencia, Alicante, Spain", 
+        "sw_latitude": 38.736
+      }, 
+      "id": 29370102
+    }
+  ]
+}

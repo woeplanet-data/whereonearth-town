@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.809, 
+              45.086
+            ], 
+            [
+              -74.809, 
+              45.104
+            ], 
+            [
+              -74.791, 
+              45.104
+            ], 
+            [
+              -74.791, 
+              45.086
+            ], 
+            [
+              -74.809, 
+              45.086
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23397320, 
+        "name": "St. Andrews", 
+        "adjacent_woeid": [
+          897, 
+          3567, 
+          23397212, 
+          23397222, 
+          23397252, 
+          23401683
+        ], 
+        "ne_latitude": 45.104, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St Andrews West"
+        ], 
+        "ne_longitude": -74.791, 
+        "longitude": -74.800, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:22:50Z", 
+        "parent_woeid": 29375251, 
+        "latitude": 45.095, 
+        "sw_longitude": -74.809, 
+        "fullname": "St. Andrews, Ontario, Stormont Dundas and Glengarry, Canada", 
+        "sw_latitude": 45.086
+      }, 
+      "id": 23397320
+    }
+  ]
+}

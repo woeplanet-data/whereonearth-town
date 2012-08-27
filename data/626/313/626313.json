@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.859, 
+              43.387
+            ], 
+            [
+              1.859, 
+              43.423
+            ], 
+            [
+              1.905, 
+              43.423
+            ], 
+            [
+              1.905, 
+              43.387
+            ], 
+            [
+              1.859, 
+              43.387
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626313, 
+        "name": "St.-Paulet", 
+        "adjacent_woeid": [
+          605752, 
+          612897, 
+          622614, 
+          20192862
+        ], 
+        "ne_latitude": 43.423, 
+        "ne_longitude": 1.905, 
+        "longitude": 1.878, 
+        "parent_woeid": 12671057, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Paulet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.406, 
+        "sw_longitude": 1.859, 
+        "fullname": "St.-Paulet, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 43.387
+      }, 
+      "id": 626313
+    }
+  ]
+}

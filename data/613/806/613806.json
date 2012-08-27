@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.350, 
+              48.610
+            ], 
+            [
+              5.350, 
+              48.660
+            ], 
+            [
+              5.396, 
+              48.660
+            ], 
+            [
+              5.396, 
+              48.610
+            ], 
+            [
+              5.350, 
+              48.610
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613806, 
+        "name": "Naix-aux-Forges", 
+        "adjacent_woeid": [
+          581507, 
+          585558, 
+          594821, 
+          610929, 
+          613881, 
+          622856, 
+          629333
+        ], 
+        "ne_latitude": 48.660, 
+        "ne_longitude": 5.396, 
+        "longitude": 5.377, 
+        "parent_woeid": 12667447, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Naix"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.637, 
+        "sw_longitude": 5.350, 
+        "fullname": "Naix-aux-Forges, Lorraine, Meuse, France", 
+        "sw_latitude": 48.610
+      }, 
+      "id": 613806
+    }
+  ]
+}

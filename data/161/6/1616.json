@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.276, 
+              48.912
+            ], 
+            [
+              -72.276, 
+              49.104
+            ], 
+            [
+              -72.081, 
+              49.104
+            ], 
+            [
+              -72.081, 
+              48.912
+            ], 
+            [
+              -72.276, 
+              48.912
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1616, 
+        "name": "St.-Stanislas", 
+        "adjacent_woeid": [
+          23394442, 
+          23394554, 
+          23394716, 
+          23395567
+        ], 
+        "ne_latitude": 49.104, 
+        "ne_longitude": -72.081, 
+        "longitude": -72.179, 
+        "parent_woeid": 29375173, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Stanislas"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.008, 
+        "sw_longitude": -72.276, 
+        "fullname": "St.-Stanislas, Quebec, Maria-Chapdelaine, Canada", 
+        "sw_latitude": 48.912
+      }, 
+      "id": 1616
+    }
+  ]
+}

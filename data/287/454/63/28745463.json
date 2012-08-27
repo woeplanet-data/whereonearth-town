@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.244, 
+              40.772
+            ], 
+            [
+              -77.244, 
+              40.853
+            ], 
+            [
+              -77.127, 
+              40.853
+            ], 
+            [
+              -77.127, 
+              40.772
+            ], 
+            [
+              -77.244, 
+              40.772
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745463, 
+        "name": "Adams", 
+        "adjacent_woeid": [
+          2362546, 
+          2433192, 
+          2437064, 
+          23511302, 
+          28745557, 
+          28745634
+        ], 
+        "ne_latitude": 40.853, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Adams Township"
+        ], 
+        "ne_longitude": -77.127, 
+        "longitude": -77.183, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589782, 
+        "latitude": 40.814, 
+        "sw_longitude": -77.244, 
+        "fullname": "Adams, Pennsylvania, Snyder, United States", 
+        "sw_latitude": 40.772
+      }, 
+      "id": 28745463
+    }
+  ]
+}

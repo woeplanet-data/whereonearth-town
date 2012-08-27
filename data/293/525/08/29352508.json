@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.265, 
+              52.826
+            ], 
+            [
+              13.265, 
+              52.844
+            ], 
+            [
+              13.295, 
+              52.844
+            ], 
+            [
+              13.295, 
+              52.826
+            ], 
+            [
+              13.265, 
+              52.826
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29352508, 
+        "name": "Grosssiedlung", 
+        "adjacent_woeid": [
+          649299, 
+          650455, 
+          655517, 
+          668860, 
+          671657, 
+          676574, 
+          678616, 
+          29352509
+        ], 
+        "ne_latitude": 52.844, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.295, 
+        "longitude": 13.280, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:50:24Z", 
+        "parent_woeid": 12633348, 
+        "latitude": 52.835, 
+        "sw_longitude": 13.265, 
+        "fullname": "Grosssiedlung, Brandenburg, Oberhavel, Germany", 
+        "sw_latitude": 52.826
+      }, 
+      "id": 29352508
+    }
+  ]
+}

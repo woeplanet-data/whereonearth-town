@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.437, 
+              49.004
+            ], 
+            [
+              10.437, 
+              49.022
+            ], 
+            [
+              10.455, 
+              49.022
+            ], 
+            [
+              10.455, 
+              49.004
+            ], 
+            [
+              10.437, 
+              49.004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656511, 
+        "name": "Hahnenberg", 
+        "adjacent_woeid": [
+          640438, 
+          650246, 
+          654054, 
+          701940, 
+          702117
+        ], 
+        "ne_latitude": 49.022, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.455, 
+        "longitude": 10.443, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12634432, 
+        "latitude": 49.016, 
+        "sw_longitude": 10.437, 
+        "fullname": "Hahnenberg, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.004
+      }, 
+      "id": 656511
+    }
+  ]
+}

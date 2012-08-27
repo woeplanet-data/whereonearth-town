@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.314, 
+              48.901
+            ], 
+            [
+              2.314, 
+              48.928
+            ], 
+            [
+              2.354, 
+              48.928
+            ], 
+            [
+              2.354, 
+              48.901
+            ], 
+            [
+              2.314, 
+              48.901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863588, 
+        "name": "St.-Ouen", 
+        "adjacent_woeid": [
+          615702, 
+          55863417, 
+          55863454, 
+          55863492, 
+          55863580
+        ], 
+        "ne_latitude": 48.928, 
+        "ne_longitude": 2.354, 
+        "longitude": 2.334, 
+        "parent_woeid": 12653027, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Ouen"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.911, 
+        "sw_longitude": 2.314, 
+        "fullname": "St.-Ouen, Ile-de-France, Seine-St.-Denis, France", 
+        "sw_latitude": 48.901
+      }, 
+      "id": 55863588
+    }
+  ]
+}

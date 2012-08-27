@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.269, 
+              45.296
+            ], 
+            [
+              -74.269, 
+              45.396
+            ], 
+            [
+              -74.173, 
+              45.396
+            ], 
+            [
+              -74.173, 
+              45.296
+            ], 
+            [
+              -74.269, 
+              45.296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394503, 
+        "name": "St.-Clet", 
+        "adjacent_woeid": [
+          692, 
+          830, 
+          23394278, 
+          23394539, 
+          23394609
+        ], 
+        "ne_latitude": 45.396, 
+        "ne_longitude": -74.173, 
+        "longitude": -74.221, 
+        "parent_woeid": 29375109, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Clet"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.352, 
+        "sw_longitude": -74.269, 
+        "fullname": "St.-Clet, Quebec, Vaudreuil-Soulanges, Canada", 
+        "sw_latitude": 45.296
+      }, 
+      "id": 23394503
+    }
+  ]
+}

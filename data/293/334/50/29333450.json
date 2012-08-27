@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.852, 
+              49.861
+            ], 
+            [
+              3.852, 
+              49.882
+            ], 
+            [
+              3.885, 
+              49.882
+            ], 
+            [
+              3.885, 
+              49.861
+            ], 
+            [
+              3.852, 
+              49.861
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333450, 
+        "name": "Bois de Laigny", 
+        "adjacent_woeid": [
+          591375, 
+          594529, 
+          600910, 
+          622410
+        ], 
+        "ne_latitude": 49.882, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.885, 
+        "longitude": 3.866, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "parent_woeid": 22756803, 
+        "latitude": 49.870, 
+        "sw_longitude": 3.852, 
+        "fullname": "Bois de Laigny, Picardie, Aisne, France", 
+        "sw_latitude": 49.861
+      }, 
+      "id": 29333450
+    }
+  ]
+}

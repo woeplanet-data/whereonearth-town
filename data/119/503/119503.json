@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.960, 
+              18.541
+            ], 
+            [
+              -100.960, 
+              18.559
+            ], 
+            [
+              -100.940, 
+              18.559
+            ], 
+            [
+              -100.940, 
+              18.541
+            ], 
+            [
+              -100.960, 
+              18.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.559, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          120531, 
+          125166, 
+          125167, 
+          138035, 
+          145649
+        ], 
+        "woeid": 119503, 
+        "alias_SPA_V": [
+          "Carmen"
+        ], 
+        "ne_longitude": -100.940, 
+        "longitude": -100.950, 
+        "parent_woeid": 12600477, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.550, 
+        "sw_longitude": -100.960, 
+        "fullname": "El Carmen, Michoacan de Ocampo, Huetamo, Mexico", 
+        "sw_latitude": 18.541
+      }, 
+      "id": 119503
+    }
+  ]
+}

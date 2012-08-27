@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.700, 
+              23.989
+            ], 
+            [
+              -104.700, 
+              24.026
+            ], 
+            [
+              -104.660, 
+              24.026
+            ], 
+            [
+              -104.660, 
+              23.989
+            ], 
+            [
+              -104.700, 
+              23.989
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.026, 
+        "name": "Durango", 
+        "adjacent_woeid": [
+          118300, 
+          121090, 
+          122328, 
+          123641, 
+          126021, 
+          134122, 
+          134576, 
+          134817, 
+          136445, 
+          142792, 
+          146498, 
+          55910400, 
+          55921006, 
+          55921057, 
+          55921082
+        ], 
+        "woeid": 118385, 
+        "alias_SPA_V": [
+          "Victoria de Durango"
+        ], 
+        "ne_longitude": -104.660, 
+        "longitude": -104.681, 
+        "parent_woeid": 12599954, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.007, 
+        "sw_longitude": -104.700, 
+        "fullname": "Durango, Mexico", 
+        "sw_latitude": 23.989
+      }, 
+      "id": 118385
+    }
+  ]
+}

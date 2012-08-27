@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.280, 
+              52.980
+            ], 
+            [
+              10.280, 
+              53.020
+            ], 
+            [
+              10.326, 
+              53.020
+            ], 
+            [
+              10.326, 
+              52.980
+            ], 
+            [
+              10.280, 
+              52.980
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20174443, 
+        "name": "Bruch", 
+        "adjacent_woeid": [
+          633951, 
+          634410, 
+          641380, 
+          647599, 
+          671939, 
+          672124, 
+          682934, 
+          20166985, 
+          55864973
+        ], 
+        "ne_latitude": 53.020, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.326, 
+        "longitude": 10.294, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12629802, 
+        "latitude": 53.008, 
+        "sw_longitude": 10.280, 
+        "fullname": "Bruch, Lower Saxony, Landkreis Uelzen, Germany", 
+        "sw_latitude": 52.980
+      }, 
+      "id": 20174443
+    }
+  ]
+}

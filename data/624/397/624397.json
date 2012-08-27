@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.755, 
+              49.157
+            ], 
+            [
+              1.755, 
+              49.185
+            ], 
+            [
+              1.790, 
+              49.185
+            ], 
+            [
+              1.790, 
+              49.157
+            ], 
+            [
+              1.755, 
+              49.157
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624397, 
+        "name": "St.-Gervais", 
+        "adjacent_woeid": [
+          576443, 
+          609230, 
+          612210, 
+          612826, 
+          615721, 
+          29329669
+        ], 
+        "ne_latitude": 49.185, 
+        "ne_longitude": 1.790, 
+        "longitude": 1.768, 
+        "parent_woeid": 12637275, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gervais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.169, 
+        "sw_longitude": 1.755, 
+        "fullname": "St.-Gervais, Ile-de-France, Val-d'Oise, France", 
+        "sw_latitude": 49.157
+      }, 
+      "id": 624397
+    }
+  ]
+}

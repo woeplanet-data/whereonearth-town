@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.176, 
+              20.508
+            ], 
+            [
+              -100.176, 
+              20.526
+            ], 
+            [
+              -100.157, 
+              20.526
+            ], 
+            [
+              -100.157, 
+              20.508
+            ], 
+            [
+              -100.176, 
+              20.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.526, 
+        "name": "La Palma", 
+        "adjacent_woeid": [
+          111614, 
+          111691, 
+          124345, 
+          128058, 
+          136343, 
+          55908953
+        ], 
+        "woeid": 128577, 
+        "alias_SPA_V": [
+          "Palma"
+        ], 
+        "ne_longitude": -100.157, 
+        "longitude": -100.174, 
+        "parent_woeid": 12601454, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.522, 
+        "sw_longitude": -100.176, 
+        "fullname": "La Palma, Queretaro de Arteaga, Pedro Escobedo, Mexico", 
+        "sw_latitude": 20.508
+      }, 
+      "id": 128577
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.351, 
+              20.820
+            ], 
+            [
+              -101.351, 
+              20.838
+            ], 
+            [
+              -101.331, 
+              20.838
+            ], 
+            [
+              -101.331, 
+              20.820
+            ], 
+            [
+              -101.351, 
+              20.820
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.838, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          111814, 
+          126612, 
+          133031, 
+          133272, 
+          150923, 
+          55890218
+        ], 
+        "woeid": 145504, 
+        "alias_SPA_V": [
+          "S. Vicente"
+        ], 
+        "ne_longitude": -101.331, 
+        "longitude": -101.341, 
+        "parent_woeid": 12600005, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.829, 
+        "sw_longitude": -101.351, 
+        "fullname": "San Vicente, Guanajuato, Irapuato, Mexico", 
+        "sw_latitude": 20.820
+      }, 
+      "id": 145504
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.179, 
+              49.329
+            ], 
+            [
+              5.179, 
+              49.377
+            ], 
+            [
+              5.245, 
+              49.377
+            ], 
+            [
+              5.245, 
+              49.329
+            ], 
+            [
+              5.179, 
+              49.329
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608203, 
+        "name": "Liny-devant-Dun", 
+        "adjacent_woeid": [
+          581965, 
+          586258, 
+          594293, 
+          632299, 
+          15003129
+        ], 
+        "ne_latitude": 49.377, 
+        "ne_longitude": 5.245, 
+        "longitude": 5.200, 
+        "parent_woeid": 12665701, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Liny"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.355, 
+        "sw_longitude": 5.179, 
+        "fullname": "Liny-devant-Dun, Lorraine, Meuse, France", 
+        "sw_latitude": 49.329
+      }, 
+      "id": 608203
+    }
+  ]
+}

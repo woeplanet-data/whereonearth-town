@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.093, 
+              26.191
+            ], 
+            [
+              -107.093, 
+              26.209
+            ], 
+            [
+              -107.073, 
+              26.209
+            ], 
+            [
+              -107.073, 
+              26.191
+            ], 
+            [
+              -107.093, 
+              26.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.209, 
+        "name": "El Nopal", 
+        "adjacent_woeid": [
+          124368, 
+          131197, 
+          146657, 
+          146899, 
+          148012
+        ], 
+        "woeid": 121120, 
+        "alias_SPA_V": [
+          "Nopal"
+        ], 
+        "ne_longitude": -107.073, 
+        "longitude": -107.083, 
+        "parent_woeid": 12599847, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.200, 
+        "sw_longitude": -107.093, 
+        "fullname": "El Nopal, Chihuahua, Guadalupe y Calvo, Mexico", 
+        "sw_latitude": 26.191
+      }, 
+      "id": 121120
+    }
+  ]
+}

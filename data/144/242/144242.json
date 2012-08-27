@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.415, 
+              28.787
+            ], 
+            [
+              -111.415, 
+              28.806
+            ], 
+            [
+              -111.394, 
+              28.806
+            ], 
+            [
+              -111.394, 
+              28.787
+            ], 
+            [
+              -111.415, 
+              28.787
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.806, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          113870, 
+          118976, 
+          120308, 
+          133595, 
+          141507
+        ], 
+        "woeid": 144242, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -111.394, 
+        "longitude": -111.405, 
+        "parent_woeid": 12601574, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.796, 
+        "sw_longitude": -111.415, 
+        "fullname": "San Luis, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 28.787
+      }, 
+      "id": 144242
+    }
+  ]
+}

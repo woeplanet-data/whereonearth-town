@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.029, 
+              -40.419
+            ], 
+            [
+              -73.029, 
+              -40.405
+            ], 
+            [
+              -73.010, 
+              -40.405
+            ], 
+            [
+              -73.010, 
+              -40.419
+            ], 
+            [
+              -73.029, 
+              -40.419
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -40.405, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          349151, 
+          349152, 
+          349453, 
+          349865, 
+          349918, 
+          349955, 
+          350154
+        ], 
+        "woeid": 350137, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -73.010, 
+        "longitude": -73.019, 
+        "parent_woeid": 26794174, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -40.412, 
+        "sw_longitude": -73.029, 
+        "fullname": "San Pablo, Los Lagos Region, Osorno Province, Chile", 
+        "sw_latitude": -40.419
+      }, 
+      "id": 350137
+    }
+  ]
+}

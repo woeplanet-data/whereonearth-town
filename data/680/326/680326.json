@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.833, 
+              51.235
+            ], 
+            [
+              8.833, 
+              51.245
+            ], 
+            [
+              8.849, 
+              51.245
+            ], 
+            [
+              8.849, 
+              51.235
+            ], 
+            [
+              8.833, 
+              51.235
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680326, 
+        "name": "Nordenbeck", 
+        "adjacent_woeid": [
+          653155, 
+          671200, 
+          679451, 
+          681124
+        ], 
+        "ne_latitude": 51.245, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.849, 
+        "longitude": 8.842, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12632846, 
+        "latitude": 51.240, 
+        "sw_longitude": 8.833, 
+        "fullname": "Nordenbeck, Hesse, Waldeck-Frankenberg, Germany", 
+        "sw_latitude": 51.235
+      }, 
+      "id": 680326
+    }
+  ]
+}

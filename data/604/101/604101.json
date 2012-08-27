@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.085, 
+              46.003
+            ], 
+            [
+              5.085, 
+              46.047
+            ], 
+            [
+              5.107, 
+              46.047
+            ], 
+            [
+              5.107, 
+              46.003
+            ], 
+            [
+              5.085, 
+              46.003
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604101, 
+        "name": "Le Plantay", 
+        "adjacent_woeid": [
+          610099, 
+          626104, 
+          630909
+        ], 
+        "ne_latitude": 46.047, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.107, 
+        "longitude": 5.089, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 12665197, 
+        "latitude": 46.022, 
+        "sw_longitude": 5.085, 
+        "fullname": "Le Plantay, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 46.003
+      }, 
+      "id": 604101
+    }
+  ]
+}

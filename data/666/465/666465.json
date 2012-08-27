@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.272, 
+              52.207
+            ], 
+            [
+              10.272, 
+              52.251
+            ], 
+            [
+              10.315, 
+              52.251
+            ], 
+            [
+              10.315, 
+              52.207
+            ], 
+            [
+              10.272, 
+              52.207
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666465, 
+        "name": "Klein Lafferde", 
+        "adjacent_woeid": [
+          638533, 
+          639825, 
+          654573, 
+          676849, 
+          707923
+        ], 
+        "ne_latitude": 52.251, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.315, 
+        "longitude": 10.295, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630423, 
+        "latitude": 52.222, 
+        "sw_longitude": 10.272, 
+        "fullname": "Klein Lafferde, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.207
+      }, 
+      "id": 666465
+    }
+  ]
+}

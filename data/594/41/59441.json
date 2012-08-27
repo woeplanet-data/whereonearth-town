@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.471, 
+              10.095
+            ], 
+            [
+              -84.471, 
+              10.105
+            ], 
+            [
+              -84.462, 
+              10.105
+            ], 
+            [
+              -84.462, 
+              10.095
+            ], 
+            [
+              -84.471, 
+              10.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.105, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          57675, 
+          57702, 
+          58016, 
+          58052, 
+          58729, 
+          59694, 
+          59929
+        ], 
+        "woeid": 59441, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -84.462, 
+        "longitude": -84.467, 
+        "parent_woeid": 26809205, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.100, 
+        "sw_longitude": -84.471, 
+        "fullname": "San Juan, Alajuela, San Ram\u00f3n, Costa Rica", 
+        "sw_latitude": 10.095
+      }, 
+      "id": 59441
+    }
+  ]
+}

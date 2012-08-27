@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.420, 
+              43.507
+            ], 
+            [
+              1.420, 
+              43.549
+            ], 
+            [
+              1.452, 
+              43.549
+            ], 
+            [
+              1.452, 
+              43.507
+            ], 
+            [
+              1.420, 
+              43.507
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631163, 
+        "name": "Vieille-Toulouse", 
+        "adjacent_woeid": [
+          615899, 
+          631362, 
+          20193029
+        ], 
+        "ne_latitude": 43.549, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.452, 
+        "longitude": 1.444, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12672346, 
+        "latitude": 43.528, 
+        "sw_longitude": 1.420, 
+        "fullname": "Vieille-Toulouse, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.507
+      }, 
+      "id": 631163
+    }
+  ]
+}

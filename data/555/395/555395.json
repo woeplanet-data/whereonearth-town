@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.362, 
+              55.251
+            ], 
+            [
+              11.362, 
+              55.264
+            ], 
+            [
+              11.384, 
+              55.264
+            ], 
+            [
+              11.384, 
+              55.251
+            ], 
+            [
+              11.362, 
+              55.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555395, 
+        "name": "Lundstorp", 
+        "adjacent_woeid": [
+          552949, 
+          555370, 
+          556147, 
+          558029
+        ], 
+        "ne_latitude": 55.264, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.384, 
+        "longitude": 11.373, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:55Z", 
+        "parent_woeid": 12582861, 
+        "latitude": 55.257, 
+        "sw_longitude": 11.362, 
+        "fullname": "Lundstorp, Sjaelland, Slagelse, Denmark", 
+        "sw_latitude": 55.251
+      }, 
+      "id": 555395
+    }
+  ]
+}

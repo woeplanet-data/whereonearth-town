@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.277, 
+              49.982
+            ], 
+            [
+              11.277, 
+              50.009
+            ], 
+            [
+              11.307, 
+              50.009
+            ], 
+            [
+              11.307, 
+              49.982
+            ], 
+            [
+              11.277, 
+              49.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 708568, 
+        "name": "Zedersitz", 
+        "adjacent_woeid": [
+          649636, 
+          669014, 
+          691031, 
+          691970
+        ], 
+        "ne_latitude": 50.009, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.307, 
+        "longitude": 11.295, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12635362, 
+        "latitude": 49.992, 
+        "sw_longitude": 11.277, 
+        "fullname": "Zedersitz, Bavaria, Landkreis Kulmbach, Germany", 
+        "sw_latitude": 49.982
+      }, 
+      "id": 708568
+    }
+  ]
+}

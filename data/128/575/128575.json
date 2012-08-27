@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.210, 
+              21.474
+            ], 
+            [
+              -105.210, 
+              21.492
+            ], 
+            [
+              -105.190, 
+              21.492
+            ], 
+            [
+              -105.190, 
+              21.474
+            ], 
+            [
+              -105.210, 
+              21.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 128575, 
+        "name": "La Palma", 
+        "adjacent_woeid": [
+          112616, 
+          126413, 
+          128034, 
+          146006
+        ], 
+        "ne_latitude": 21.492, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -105.190, 
+        "longitude": -105.200, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "parent_woeid": 12600598, 
+        "latitude": 21.483, 
+        "sw_longitude": -105.210, 
+        "fullname": "La Palma, Nayarit, San Blas, Mexico", 
+        "sw_latitude": 21.474
+      }, 
+      "id": 128575
+    }
+  ]
+}

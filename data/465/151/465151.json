@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.442, 
+              -35.540
+            ], 
+            [
+              -61.442, 
+              -35.526
+            ], 
+            [
+              -61.425, 
+              -35.526
+            ], 
+            [
+              -61.425, 
+              -35.540
+            ], 
+            [
+              -61.442, 
+              -35.540
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -35.526, 
+        "name": "Colonia Mauricio", 
+        "adjacent_woeid": [
+          330897, 
+          465850, 
+          467676, 
+          467775, 
+          467899
+        ], 
+        "woeid": 465151, 
+        "alias_SPA_V": [
+          "Mauricio"
+        ], 
+        "ne_longitude": -61.425, 
+        "longitude": -61.433, 
+        "parent_woeid": 20070583, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -35.533, 
+        "sw_longitude": -61.442, 
+        "fullname": "Colonia Mauricio, Buenos Aires, Carlos Casares, Argentina", 
+        "sw_latitude": -35.540
+      }, 
+      "id": 465151
+    }
+  ]
+}

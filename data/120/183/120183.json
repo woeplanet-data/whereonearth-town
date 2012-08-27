@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.527, 
+              25.441
+            ], 
+            [
+              -99.527, 
+              25.459
+            ], 
+            [
+              -99.507, 
+              25.459
+            ], 
+            [
+              -99.507, 
+              25.441
+            ], 
+            [
+              -99.527, 
+              25.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.459, 
+        "name": "El Encadenado", 
+        "adjacent_woeid": [
+          120002, 
+          123249, 
+          127029, 
+          137155, 
+          144943
+        ], 
+        "woeid": 120183, 
+        "alias_SPA_V": [
+          "Encadenado"
+        ], 
+        "ne_longitude": -99.507, 
+        "longitude": -99.517, 
+        "parent_woeid": 12600625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.450, 
+        "sw_longitude": -99.527, 
+        "fullname": "El Encadenado, Nuevo Leon, General Teran, Mexico", 
+        "sw_latitude": 25.441
+      }, 
+      "id": 120183
+    }
+  ]
+}

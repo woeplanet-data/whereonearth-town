@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.343, 
+              20.708
+            ], 
+            [
+              -100.343, 
+              20.726
+            ], 
+            [
+              -100.324, 
+              20.726
+            ], 
+            [
+              -100.324, 
+              20.708
+            ], 
+            [
+              -100.343, 
+              20.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.726, 
+        "name": "San Vicente Ferrer", 
+        "adjacent_woeid": [
+          115902, 
+          118275, 
+          141217, 
+          143622, 
+          149284
+        ], 
+        "woeid": 145541, 
+        "alias_SPA_V": [
+          "S Vicente Ferrer"
+        ], 
+        "ne_longitude": -100.324, 
+        "longitude": -100.333, 
+        "parent_woeid": 12601449, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.717, 
+        "sw_longitude": -100.343, 
+        "fullname": "San Vicente Ferrer, Queretaro de Arteaga, El Marques, Mexico", 
+        "sw_latitude": 20.708
+      }, 
+      "id": 145541
+    }
+  ]
+}

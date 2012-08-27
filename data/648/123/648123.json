@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.555, 
+              48.811
+            ], 
+            [
+              10.555, 
+              48.846
+            ], 
+            [
+              10.594, 
+              48.846
+            ], 
+            [
+              10.594, 
+              48.811
+            ], 
+            [
+              10.555, 
+              48.811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648123, 
+        "name": "Enkingen", 
+        "adjacent_woeid": [
+          635363, 
+          636702, 
+          671756, 
+          20157831
+        ], 
+        "ne_latitude": 48.846, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.594, 
+        "longitude": 10.572, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12635007, 
+        "latitude": 48.828, 
+        "sw_longitude": 10.555, 
+        "fullname": "Enkingen, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.811
+      }, 
+      "id": 648123
+    }
+  ]
+}

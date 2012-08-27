@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.926, 
+              48.077
+            ], 
+            [
+              10.926, 
+              48.105
+            ], 
+            [
+              10.955, 
+              48.105
+            ], 
+            [
+              10.955, 
+              48.077
+            ], 
+            [
+              10.926, 
+              48.077
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680869, 
+        "name": "Oberbergen", 
+        "adjacent_woeid": [
+          652216, 
+          673308, 
+          686785, 
+          701288
+        ], 
+        "ne_latitude": 48.105, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.955, 
+        "longitude": 10.937, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:07Z", 
+        "parent_woeid": 12634639, 
+        "latitude": 48.091, 
+        "sw_longitude": 10.926, 
+        "fullname": "Oberbergen, Bavaria, Landkreis Landsberg am Lech, Germany", 
+        "sw_latitude": 48.077
+      }, 
+      "id": 680869
+    }
+  ]
+}

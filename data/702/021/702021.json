@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.544, 
+              48.393
+            ], 
+            [
+              10.544, 
+              48.422
+            ], 
+            [
+              10.582, 
+              48.422
+            ], 
+            [
+              10.582, 
+              48.393
+            ], 
+            [
+              10.544, 
+              48.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702021, 
+        "name": "Vallried", 
+        "adjacent_woeid": [
+          650469, 
+          651256, 
+          651257, 
+          667114, 
+          707788
+        ], 
+        "ne_latitude": 48.422, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.582, 
+        "longitude": 10.575, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12634795, 
+        "latitude": 48.403, 
+        "sw_longitude": 10.544, 
+        "fullname": "Vallried, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.393
+      }, 
+      "id": 702021
+    }
+  ]
+}

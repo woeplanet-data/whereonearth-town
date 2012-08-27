@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.672, 
+              28.114
+            ], 
+            [
+              -16.672, 
+              28.123
+            ], 
+            [
+              -16.661, 
+              28.123
+            ], 
+            [
+              -16.661, 
+              28.114
+            ], 
+            [
+              -16.672, 
+              28.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.123, 
+        "name": "Escalona", 
+        "adjacent_woeid": [
+          759693, 
+          762772, 
+          776073, 
+          776786, 
+          29372764, 
+          56065462, 
+          56065475, 
+          56065479
+        ], 
+        "woeid": 760028, 
+        "alias_SPA_V": [
+          "La Escalona"
+        ], 
+        "ne_longitude": -16.661, 
+        "longitude": -16.667, 
+        "parent_woeid": 12690210, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.118, 
+        "sw_longitude": -16.672, 
+        "fullname": "Escalona, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.114
+      }, 
+      "id": 760028
+    }
+  ]
+}

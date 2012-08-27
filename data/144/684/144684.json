@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.548, 
+              16.270
+            ], 
+            [
+              -95.548, 
+              16.289
+            ], 
+            [
+              -95.529, 
+              16.289
+            ], 
+            [
+              -95.529, 
+              16.270
+            ], 
+            [
+              -95.548, 
+              16.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.289, 
+        "name": "San Miguel Tenango", 
+        "adjacent_woeid": [
+          112558, 
+          144646, 
+          145082, 
+          145889, 
+          148732
+        ], 
+        "woeid": 144684, 
+        "alias_SPA_V": [
+          "S. Miguel Tenango"
+        ], 
+        "ne_longitude": -95.529, 
+        "longitude": -95.538, 
+        "parent_woeid": 12600940, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.279, 
+        "sw_longitude": -95.548, 
+        "fullname": "San Miguel Tenango, Oaxaca, San Miguel Tenango, Mexico", 
+        "sw_latitude": 16.270
+      }, 
+      "id": 144684
+    }
+  ]
+}

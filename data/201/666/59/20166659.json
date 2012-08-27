@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.005, 
+              53.222
+            ], 
+            [
+              10.005, 
+              53.256
+            ], 
+            [
+              10.063, 
+              53.256
+            ], 
+            [
+              10.063, 
+              53.222
+            ], 
+            [
+              10.005, 
+              53.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20166659, 
+        "name": "Nindorf", 
+        "adjacent_woeid": [
+          651547, 
+          683251, 
+          691540, 
+          20166660
+        ], 
+        "ne_latitude": 53.256, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.063, 
+        "longitude": 10.025, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12629625, 
+        "latitude": 53.236, 
+        "sw_longitude": 10.005, 
+        "fullname": "Nindorf, Lower Saxony, Harburg, Germany", 
+        "sw_latitude": 53.222
+      }, 
+      "id": 20166659
+    }
+  ]
+}

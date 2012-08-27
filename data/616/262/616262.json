@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.744, 
+              50.136
+            ], 
+            [
+              1.744, 
+              50.145
+            ], 
+            [
+              1.758, 
+              50.145
+            ], 
+            [
+              1.758, 
+              50.136
+            ], 
+            [
+              1.744, 
+              50.136
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 616262, 
+        "name": "Petit Port", 
+        "adjacent_woeid": [
+          582643, 
+          582773, 
+          593516, 
+          617552, 
+          620611
+        ], 
+        "ne_latitude": 50.145, 
+        "ne_longitude": 1.758, 
+        "longitude": 1.752, 
+        "parent_woeid": 12662257, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Petit-Port"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.141, 
+        "sw_longitude": 1.744, 
+        "fullname": "Petit Port, Picardie, Somme, France", 
+        "sw_latitude": 50.136
+      }, 
+      "id": 616262
+    }
+  ]
+}

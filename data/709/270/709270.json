@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.655, 
+              48.656
+            ], 
+            [
+              12.655, 
+              48.679
+            ], 
+            [
+              12.674, 
+              48.679
+            ], 
+            [
+              12.674, 
+              48.656
+            ], 
+            [
+              12.655, 
+              48.656
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709270, 
+        "name": "Zulling", 
+        "adjacent_woeid": [
+          657244, 
+          679551, 
+          701901, 
+          29345889
+        ], 
+        "ne_latitude": 48.679, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.674, 
+        "longitude": 12.665, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12635796, 
+        "latitude": 48.665, 
+        "sw_longitude": 12.655, 
+        "fullname": "Zulling, Bavaria, Dingolfing-Landau, Germany", 
+        "sw_latitude": 48.656
+      }, 
+      "id": 709270
+    }
+  ]
+}

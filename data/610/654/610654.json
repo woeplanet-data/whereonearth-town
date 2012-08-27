@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.902, 
+              43.369
+            ], 
+            [
+              0.902, 
+              43.397
+            ], 
+            [
+              0.943, 
+              43.397
+            ], 
+            [
+              0.943, 
+              43.369
+            ], 
+            [
+              0.902, 
+              43.369
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610654, 
+        "name": "Mauvezin", 
+        "adjacent_woeid": [
+          575435, 
+          575882, 
+          583238, 
+          592218, 
+          593194, 
+          610343, 
+          625289
+        ], 
+        "ne_latitude": 43.397, 
+        "ne_longitude": 0.943, 
+        "longitude": 0.925, 
+        "parent_woeid": 12666456, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mauvezin-de-l'Isle"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.386, 
+        "sw_longitude": 0.902, 
+        "fullname": "Mauvezin, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.369
+      }, 
+      "id": 610654
+    }
+  ]
+}

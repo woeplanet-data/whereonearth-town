@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.159, 
+              48.468
+            ], 
+            [
+              5.159, 
+              48.532
+            ], 
+            [
+              5.243, 
+              48.532
+            ], 
+            [
+              5.243, 
+              48.468
+            ], 
+            [
+              5.159, 
+              48.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615271, 
+        "name": "Osne-le-Val", 
+        "adjacent_woeid": [
+          577415, 
+          577416, 
+          588244, 
+          589528, 
+          613069, 
+          615730, 
+          628552
+        ], 
+        "ne_latitude": 48.532, 
+        "ne_longitude": 5.243, 
+        "longitude": 5.191, 
+        "parent_woeid": 12650291, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Osne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.494, 
+        "sw_longitude": 5.159, 
+        "fullname": "Osne-le-Val, Champagne-Ardenne, Haute-Marne, France", 
+        "sw_latitude": 48.468
+      }, 
+      "id": 615271
+    }
+  ]
+}

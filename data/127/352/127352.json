@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.877, 
+              26.608
+            ], 
+            [
+              -105.877, 
+              26.626
+            ], 
+            [
+              -105.857, 
+              26.626
+            ], 
+            [
+              -105.857, 
+              26.608
+            ], 
+            [
+              -105.877, 
+              26.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.626, 
+        "name": "La Estancia", 
+        "adjacent_woeid": [
+          115275, 
+          127434, 
+          137594, 
+          141273, 
+          145570
+        ], 
+        "woeid": 127352, 
+        "alias_SPA_V": [
+          "Estancia"
+        ], 
+        "ne_longitude": -105.857, 
+        "longitude": -105.867, 
+        "parent_woeid": 12599968, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.617, 
+        "sw_longitude": -105.877, 
+        "fullname": "La Estancia, Durango, Ocampo, Mexico", 
+        "sw_latitude": 26.608
+      }, 
+      "id": 127352
+    }
+  ]
+}

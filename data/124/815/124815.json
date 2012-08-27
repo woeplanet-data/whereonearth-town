@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.227, 
+              23.158
+            ], 
+            [
+              -103.227, 
+              23.176
+            ], 
+            [
+              -103.207, 
+              23.176
+            ], 
+            [
+              -103.207, 
+              23.158
+            ], 
+            [
+              -103.227, 
+              23.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.176, 
+        "name": "Hidalgo", 
+        "adjacent_woeid": [
+          119654, 
+          124327, 
+          124429, 
+          143532, 
+          144409, 
+          150752
+        ], 
+        "woeid": 124815, 
+        "alias_SPA_V": [
+          "Sta. Rita"
+        ], 
+        "ne_longitude": -103.207, 
+        "longitude": -103.217, 
+        "parent_woeid": 12602043, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.167, 
+        "sw_longitude": -103.227, 
+        "fullname": "Hidalgo, Zacatecas, Fresnillo, Mexico", 
+        "sw_latitude": 23.158
+      }, 
+      "id": 124815
+    }
+  ]
+}

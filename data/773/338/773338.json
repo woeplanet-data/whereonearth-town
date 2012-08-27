@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.876, 
+              42.405
+            ], 
+            [
+              -5.876, 
+              42.414
+            ], 
+            [
+              -5.863, 
+              42.414
+            ], 
+            [
+              -5.863, 
+              42.405
+            ], 
+            [
+              -5.876, 
+              42.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.414, 
+        "name": "San Pelayo", 
+        "adjacent_woeid": [
+          756961, 
+          762407, 
+          766810, 
+          774315, 
+          778756
+        ], 
+        "woeid": 773338, 
+        "alias_SPA_V": [
+          "S Pelayo"
+        ], 
+        "ne_longitude": -5.863, 
+        "longitude": -5.870, 
+        "parent_woeid": 12691956, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.410, 
+        "sw_longitude": -5.876, 
+        "fullname": "San Pelayo, Castille and Leon, Leon, Spain", 
+        "sw_latitude": 42.405
+      }, 
+      "id": 773338
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.836, 
+              39.895
+            ], 
+            [
+              -76.836, 
+              40.001
+            ], 
+            [
+              -76.745, 
+              40.001
+            ], 
+            [
+              -76.745, 
+              39.895
+            ], 
+            [
+              -76.836, 
+              39.895
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745425, 
+        "name": "West Manchester", 
+        "adjacent_woeid": [
+          2367207, 
+          2384109, 
+          2458960, 
+          2492771, 
+          2517966, 
+          28745507
+        ], 
+        "ne_latitude": 40.001, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "W Manchester Township"
+        ], 
+        "ne_longitude": -76.745, 
+        "longitude": -76.786, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589794, 
+        "latitude": 39.952, 
+        "sw_longitude": -76.836, 
+        "fullname": "West Manchester, Pennsylvania, York, United States", 
+        "sw_latitude": 39.895
+      }, 
+      "id": 28745425
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.662, 
+              50.268
+            ], 
+            [
+              10.662, 
+              50.308
+            ], 
+            [
+              10.713, 
+              50.308
+            ], 
+            [
+              10.713, 
+              50.268
+            ], 
+            [
+              10.662, 
+              50.268
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652023, 
+        "name": "Gellershausen", 
+        "adjacent_woeid": [
+          633827, 
+          653260, 
+          658813, 
+          658887, 
+          702641, 
+          705885
+        ], 
+        "ne_latitude": 50.308, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.713, 
+        "longitude": 10.695, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:45Z", 
+        "parent_woeid": 12625097, 
+        "latitude": 50.292, 
+        "sw_longitude": 10.662, 
+        "fullname": "Gellershausen, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.268
+      }, 
+      "id": 652023
+    }
+  ]
+}

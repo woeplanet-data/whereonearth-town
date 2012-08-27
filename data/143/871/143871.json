@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.677, 
+              24.558
+            ], 
+            [
+              -100.677, 
+              24.576
+            ], 
+            [
+              -100.657, 
+              24.576
+            ], 
+            [
+              -100.657, 
+              24.558
+            ], 
+            [
+              -100.677, 
+              24.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.576, 
+        "name": "San Juan de Dios", 
+        "adjacent_woeid": [
+          119386, 
+          119483, 
+          120630, 
+          121319, 
+          121423, 
+          141798
+        ], 
+        "woeid": 143871, 
+        "alias_SPA_V": [
+          "S Juan de Dios"
+        ], 
+        "ne_longitude": -100.657, 
+        "longitude": -100.667, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.567, 
+        "sw_longitude": -100.677, 
+        "fullname": "San Juan de Dios, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.558
+      }, 
+      "id": 143871
+    }
+  ]
+}

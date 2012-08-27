@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.923, 
+              24.202
+            ], 
+            [
+              -100.923, 
+              24.221
+            ], 
+            [
+              -100.903, 
+              24.221
+            ], 
+            [
+              -100.903, 
+              24.202
+            ], 
+            [
+              -100.923, 
+              24.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.221, 
+        "name": "El Gallo", 
+        "adjacent_woeid": [
+          122675, 
+          128782, 
+          141139, 
+          143881, 
+          145056, 
+          148226, 
+          55921059
+        ], 
+        "woeid": 120318, 
+        "alias_SPA_V": [
+          "Gallo"
+        ], 
+        "ne_longitude": -100.903, 
+        "longitude": -100.913, 
+        "parent_woeid": 12601515, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.212, 
+        "sw_longitude": -100.923, 
+        "fullname": "El Gallo, San Luis Potosi, Vanegas, Mexico", 
+        "sw_latitude": 24.202
+      }, 
+      "id": 120318
+    }
+  ]
+}

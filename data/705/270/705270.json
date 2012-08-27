@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.044, 
+              52.116
+            ], 
+            [
+              10.044, 
+              52.151
+            ], 
+            [
+              10.091, 
+              52.151
+            ], 
+            [
+              10.091, 
+              52.116
+            ], 
+            [
+              10.044, 
+              52.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705270, 
+        "name": "Wendhausen", 
+        "adjacent_woeid": [
+          638532, 
+          644780, 
+          658300, 
+          670775, 
+          672201, 
+          683860, 
+          707464
+        ], 
+        "ne_latitude": 52.151, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.091, 
+        "longitude": 10.066, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12629502, 
+        "latitude": 52.133, 
+        "sw_longitude": 10.044, 
+        "fullname": "Wendhausen, Lower Saxony, Landkreis Hildesheim, Germany", 
+        "sw_latitude": 52.116
+      }, 
+      "id": 705270
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -55.245, 
+              -34.390
+            ], 
+            [
+              -55.245, 
+              -34.360
+            ], 
+            [
+              -55.209, 
+              -34.360
+            ], 
+            [
+              -55.209, 
+              -34.390
+            ], 
+            [
+              -55.245, 
+              -34.390
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -34.360, 
+        "name": "Minas", 
+        "adjacent_woeid": [
+          380745, 
+          380843, 
+          380907, 
+          380947, 
+          468030, 
+          468082, 
+          468105, 
+          26794426
+        ], 
+        "woeid": 468068, 
+        "alias_SPA_V": [
+          "Ciudad de Minas"
+        ], 
+        "ne_longitude": -55.209, 
+        "longitude": -55.227, 
+        "parent_woeid": 2347647, 
+        "placetype": "Town", 
+        "iso": "UY", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -34.375, 
+        "sw_longitude": -55.245, 
+        "fullname": "Minas, Lavalleja, Uruguay", 
+        "sw_latitude": -34.390
+      }, 
+      "id": 468068
+    }
+  ]
+}

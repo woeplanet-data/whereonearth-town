@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.343, 
+              23.008
+            ], 
+            [
+              -100.343, 
+              23.026
+            ], 
+            [
+              -100.323, 
+              23.026
+            ], 
+            [
+              -100.323, 
+              23.008
+            ], 
+            [
+              -100.343, 
+              23.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.026, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          125232, 
+          128820, 
+          129559, 
+          133617, 
+          134692, 
+          142799, 
+          143983, 
+          147598
+        ], 
+        "woeid": 142074, 
+        "alias_SPA_V": [
+          "S Carlos"
+        ], 
+        "ne_longitude": -100.323, 
+        "longitude": -100.333, 
+        "parent_woeid": 12601486, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.017, 
+        "sw_longitude": -100.343, 
+        "fullname": "San Carlos, San Luis Potosi, Guadalcazar, Mexico", 
+        "sw_latitude": 23.008
+      }, 
+      "id": 142074
+    }
+  ]
+}

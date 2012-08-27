@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.175, 
+              44.258
+            ], 
+            [
+              5.175, 
+              44.296
+            ], 
+            [
+              5.242, 
+              44.296
+            ], 
+            [
+              5.242, 
+              44.258
+            ], 
+            [
+              5.175, 
+              44.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 618131, 
+        "name": "Propiac", 
+        "adjacent_woeid": [
+          578913, 
+          579280, 
+          599333, 
+          606645, 
+          611125, 
+          611797, 
+          616573
+        ], 
+        "ne_latitude": 44.296, 
+        "ne_longitude": 5.242, 
+        "longitude": 5.198, 
+        "parent_woeid": 12665420, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Propiac-les-Bains"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.278, 
+        "sw_longitude": 5.175, 
+        "fullname": "Propiac, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.258
+      }, 
+      "id": 618131
+    }
+  ]
+}

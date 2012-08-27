@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.746, 
+              52.302
+            ], 
+            [
+              4.746, 
+              52.311
+            ], 
+            [
+              4.761, 
+              52.311
+            ], 
+            [
+              4.761, 
+              52.302
+            ], 
+            [
+              4.746, 
+              52.302
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 22658482, 
+        "name": "Schiphol", 
+        "adjacent_woeid": [
+          733286, 
+          20064089, 
+          28995395
+        ], 
+        "ne_latitude": 52.311, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.761, 
+        "longitude": 4.754, 
+        "placetype": "Town", 
+        "iso": "NL", 
+        "date_indexed": "2010-12-02T18:17:24Z", 
+        "alias_DUT_V": [
+          "Luchthaven Schiphol"
+        ], 
+        "parent_woeid": 12592184, 
+        "latitude": 52.306, 
+        "sw_longitude": 4.746, 
+        "fullname": "Schiphol, North Holland, Haarlemmermeer, Netherlands", 
+        "sw_latitude": 52.302
+      }, 
+      "id": 22658482
+    }
+  ]
+}

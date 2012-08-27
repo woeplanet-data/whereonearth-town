@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.768, 
+              45.073
+            ], 
+            [
+              5.768, 
+              45.100
+            ], 
+            [
+              5.803, 
+              45.100
+            ], 
+            [
+              5.803, 
+              45.073
+            ], 
+            [
+              5.768, 
+              45.073
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 607564, 
+        "name": "Les Travers", 
+        "adjacent_woeid": [
+          612427, 
+          621553, 
+          630280, 
+          29330222
+        ], 
+        "ne_latitude": 45.100, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.803, 
+        "longitude": 5.783, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "parent_woeid": 12665517, 
+        "latitude": 45.083, 
+        "sw_longitude": 5.768, 
+        "fullname": "Les Travers, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.073
+      }, 
+      "id": 607564
+    }
+  ]
+}

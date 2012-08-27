@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.760, 
+              18.691
+            ], 
+            [
+              -99.760, 
+              18.709
+            ], 
+            [
+              -99.740, 
+              18.709
+            ], 
+            [
+              -99.740, 
+              18.691
+            ], 
+            [
+              -99.760, 
+              18.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.709, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          117067, 
+          122509, 
+          134718, 
+          136765, 
+          149217, 
+          151535
+        ], 
+        "woeid": 145981, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -99.740, 
+        "longitude": -99.750, 
+        "parent_woeid": 12600096, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.700, 
+        "sw_longitude": -99.760, 
+        "fullname": "Santa Cruz, Guerrero, Tetipac, Mexico", 
+        "sw_latitude": 18.691
+      }, 
+      "id": 145981
+    }
+  ]
+}

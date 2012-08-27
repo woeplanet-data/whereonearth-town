@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.936, 
+              49.769
+            ], 
+            [
+              10.936, 
+              49.789
+            ], 
+            [
+              10.962, 
+              49.789
+            ], 
+            [
+              10.962, 
+              49.769
+            ], 
+            [
+              10.936, 
+              49.769
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666785, 
+        "name": "Kleinbuchfeld", 
+        "adjacent_woeid": [
+          654133, 
+          654854, 
+          664291, 
+          688963, 
+          689967, 
+          692577
+        ], 
+        "ne_latitude": 49.789, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.962, 
+        "longitude": 10.954, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635235, 
+        "latitude": 49.779, 
+        "sw_longitude": 10.936, 
+        "fullname": "Kleinbuchfeld, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.769
+      }, 
+      "id": 666785
+    }
+  ]
+}

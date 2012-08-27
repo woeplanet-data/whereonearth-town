@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.225, 
+              48.304
+            ], 
+            [
+              2.225, 
+              48.313
+            ], 
+            [
+              2.238, 
+              48.313
+            ], 
+            [
+              2.238, 
+              48.304
+            ], 
+            [
+              2.225, 
+              48.304
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 589726, 
+        "name": "Enzanville", 
+        "adjacent_woeid": [
+          576250, 
+          577149, 
+          580145, 
+          620293, 
+          621896
+        ], 
+        "ne_latitude": 48.313, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.238, 
+        "longitude": 2.232, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12637174, 
+        "latitude": 48.309, 
+        "sw_longitude": 2.225, 
+        "fullname": "Enzanville, Centre, Loiret, France", 
+        "sw_latitude": 48.304
+      }, 
+      "id": 589726
+    }
+  ]
+}

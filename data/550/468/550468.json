@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.954, 
+              47.296
+            ], 
+            [
+              10.954, 
+              47.314
+            ], 
+            [
+              10.981, 
+              47.314
+            ], 
+            [
+              10.981, 
+              47.296
+            ], 
+            [
+              10.954, 
+              47.296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550468, 
+        "name": "Barwies", 
+        "adjacent_woeid": [
+          550593, 
+          551013, 
+          551218, 
+          551334, 
+          551380
+        ], 
+        "ne_latitude": 47.314, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.981, 
+        "longitude": 10.967, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675379, 
+        "latitude": 47.305, 
+        "sw_longitude": 10.954, 
+        "fullname": "Barwies, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.296
+      }, 
+      "id": 550468
+    }
+  ]
+}

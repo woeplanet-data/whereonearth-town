@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.222, 
+              45.616
+            ], 
+            [
+              -123.222, 
+              45.625
+            ], 
+            [
+              -123.209, 
+              45.625
+            ], 
+            [
+              -123.209, 
+              45.616
+            ], 
+            [
+              -123.222, 
+              45.616
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2430630, 
+        "name": "Kansas City", 
+        "adjacent_woeid": [
+          2358785, 
+          2411394, 
+          2419172, 
+          2422179, 
+          2444876, 
+          2466002
+        ], 
+        "ne_latitude": 45.625, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Kansas Cty"
+        ], 
+        "ne_longitude": -123.209, 
+        "longitude": -123.215, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:27:35Z", 
+        "parent_woeid": 12589725, 
+        "latitude": 45.620, 
+        "sw_longitude": -123.222, 
+        "fullname": "Kansas City, Oregon, Washington, United States", 
+        "sw_latitude": 45.616
+      }, 
+      "id": 2430630
+    }
+  ]
+}

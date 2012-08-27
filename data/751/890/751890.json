@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.580, 
+              40.691
+            ], 
+            [
+              0.580, 
+              40.819
+            ], 
+            [
+              0.638, 
+              40.819
+            ], 
+            [
+              0.638, 
+              40.691
+            ], 
+            [
+              0.580, 
+              40.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.819, 
+        "name": "Aldea", 
+        "adjacent_woeid": [
+          752399, 
+          755783, 
+          763189, 
+          766579, 
+          775901, 
+          779255, 
+          20222596, 
+          29369475
+        ], 
+        "woeid": 751890, 
+        "alias_SPA_V": [
+          "L'aldea"
+        ], 
+        "ne_longitude": 0.638, 
+        "longitude": 0.611, 
+        "parent_woeid": 12694142, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:08:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.741, 
+        "sw_longitude": 0.580, 
+        "fullname": "Aldea, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 40.691
+      }, 
+      "id": 751890
+    }
+  ]
+}

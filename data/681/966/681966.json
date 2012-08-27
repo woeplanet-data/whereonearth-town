@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.101, 
+              48.032
+            ], 
+            [
+              10.101, 
+              48.061
+            ], 
+            [
+              10.138, 
+              48.061
+            ], 
+            [
+              10.138, 
+              48.032
+            ], 
+            [
+              10.101, 
+              48.032
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 681966, 
+        "name": "Oberopfingen", 
+        "adjacent_woeid": [
+          701341, 
+          20157742, 
+          20159738
+        ], 
+        "ne_latitude": 48.061, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.138, 
+        "longitude": 10.122, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:07Z", 
+        "parent_woeid": 12623756, 
+        "latitude": 48.044, 
+        "sw_longitude": 10.101, 
+        "fullname": "Oberopfingen, Baden-Wurttemberg, Landkreis Biberach, Germany", 
+        "sw_latitude": 48.032
+      }, 
+      "id": 681966
+    }
+  ]
+}

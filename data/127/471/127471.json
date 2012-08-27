@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.943, 
+              21.541
+            ], 
+            [
+              -104.943, 
+              21.559
+            ], 
+            [
+              -104.924, 
+              21.559
+            ], 
+            [
+              -104.924, 
+              21.541
+            ], 
+            [
+              -104.943, 
+              21.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.559, 
+        "name": "La Fortuna", 
+        "adjacent_woeid": [
+          122084, 
+          122820, 
+          127267, 
+          127664, 
+          131262
+        ], 
+        "woeid": 127471, 
+        "alias_SPA_V": [
+          "Fortuna"
+        ], 
+        "ne_longitude": -104.924, 
+        "longitude": -104.933, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.550, 
+        "sw_longitude": -104.943, 
+        "fullname": "La Fortuna, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.541
+      }, 
+      "id": 127471
+    }
+  ]
+}

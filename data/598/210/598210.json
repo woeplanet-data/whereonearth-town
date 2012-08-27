@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.874, 
+              49.341
+            ], 
+            [
+              1.874, 
+              49.350
+            ], 
+            [
+              1.888, 
+              49.350
+            ], 
+            [
+              1.888, 
+              49.341
+            ], 
+            [
+              1.874, 
+              49.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598210, 
+        "name": "La Fonderie", 
+        "adjacent_woeid": [
+          600627, 
+          604853, 
+          606761, 
+          612462
+        ], 
+        "ne_latitude": 49.350, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.888, 
+        "longitude": 1.881, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "parent_woeid": 22756688, 
+        "latitude": 49.347, 
+        "sw_longitude": 1.874, 
+        "fullname": "La Fonderie, Picardie, Oise, France", 
+        "sw_latitude": 49.341
+      }, 
+      "id": 598210
+    }
+  ]
+}

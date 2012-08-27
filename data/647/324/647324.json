@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.242, 
+              50.323
+            ], 
+            [
+              8.242, 
+              50.358
+            ], 
+            [
+              8.271, 
+              50.358
+            ], 
+            [
+              8.271, 
+              50.323
+            ], 
+            [
+              8.242, 
+              50.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647324, 
+        "name": "Eisenbach", 
+        "adjacent_woeid": [
+          676852, 
+          680930, 
+          682277, 
+          693951
+        ], 
+        "ne_latitude": 50.358, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.271, 
+        "longitude": 8.258, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12635979, 
+        "latitude": 50.339, 
+        "sw_longitude": 8.242, 
+        "fullname": "Eisenbach, Hesse, Limburg-Weilburg, Germany", 
+        "sw_latitude": 50.323
+      }, 
+      "id": 647324
+    }
+  ]
+}

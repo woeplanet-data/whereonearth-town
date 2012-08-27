@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.470, 
+              47.030
+            ], 
+            [
+              0.470, 
+              47.071
+            ], 
+            [
+              0.501, 
+              47.071
+            ], 
+            [
+              0.501, 
+              47.030
+            ], 
+            [
+              0.470, 
+              47.030
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619483, 
+        "name": "Rilly-sur-Vienne", 
+        "adjacent_woeid": [
+          585802, 
+          609098, 
+          609883, 
+          615643, 
+          617780, 
+          630800
+        ], 
+        "ne_latitude": 47.071, 
+        "ne_longitude": 0.501, 
+        "longitude": 0.492, 
+        "parent_woeid": 12650507, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Rilly"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.057, 
+        "sw_longitude": 0.470, 
+        "fullname": "Rilly-sur-Vienne, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.030
+      }, 
+      "id": 619483
+    }
+  ]
+}

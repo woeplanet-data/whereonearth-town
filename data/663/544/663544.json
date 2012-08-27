@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.367, 
+              49.590
+            ], 
+            [
+              10.367, 
+              49.633
+            ], 
+            [
+              10.393, 
+              49.633
+            ], 
+            [
+              10.393, 
+              49.590
+            ], 
+            [
+              10.367, 
+              49.590
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 663544, 
+        "name": "Ingolstadt", 
+        "adjacent_woeid": [
+          649145, 
+          668458, 
+          668661, 
+          668698, 
+          678825
+        ], 
+        "ne_latitude": 49.633, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.393, 
+        "longitude": 10.379, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:47Z", 
+        "parent_woeid": 12634527, 
+        "latitude": 49.604, 
+        "sw_longitude": 10.367, 
+        "fullname": "Ingolstadt, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.590
+      }, 
+      "id": 663544
+    }
+  ]
+}

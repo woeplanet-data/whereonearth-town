@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.104, 
+              45.972
+            ], 
+            [
+              3.104, 
+              46.014
+            ], 
+            [
+              3.150, 
+              46.014
+            ], 
+            [
+              3.150, 
+              45.972
+            ], 
+            [
+              3.104, 
+              45.972
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626040, 
+        "name": "St.-Myon", 
+        "adjacent_woeid": [
+          576830, 
+          577052, 
+          599195, 
+          20207019
+        ], 
+        "ne_latitude": 46.014, 
+        "ne_longitude": 3.150, 
+        "longitude": 3.132, 
+        "parent_woeid": 12652989, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Myon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.995, 
+        "sw_longitude": 3.104, 
+        "fullname": "St.-Myon, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.972
+      }, 
+      "id": 626040
+    }
+  ]
+}

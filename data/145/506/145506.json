@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.560, 
+              20.591
+            ], 
+            [
+              -102.560, 
+              20.609
+            ], 
+            [
+              -102.540, 
+              20.609
+            ], 
+            [
+              -102.540, 
+              20.591
+            ], 
+            [
+              -102.560, 
+              20.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.609, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          112685, 
+          123729, 
+          125744, 
+          129012, 
+          133398, 
+          143483, 
+          55895376
+        ], 
+        "woeid": 145506, 
+        "alias_SPA_V": [
+          "S Vicente"
+        ], 
+        "ne_longitude": -102.540, 
+        "longitude": -102.550, 
+        "parent_woeid": 12600206, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.600, 
+        "sw_longitude": -102.560, 
+        "fullname": "San Vicente, Jalisco, Atotonilco el Alto, Mexico", 
+        "sw_latitude": 20.591
+      }, 
+      "id": 145506
+    }
+  ]
+}

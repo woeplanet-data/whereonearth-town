@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.724, 
+              23.393
+            ], 
+            [
+              -99.724, 
+              23.407
+            ], 
+            [
+              -99.709, 
+              23.407
+            ], 
+            [
+              -99.709, 
+              23.393
+            ], 
+            [
+              -99.724, 
+              23.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.407, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          113927, 
+          118894, 
+          123613, 
+          132689, 
+          133739, 
+          135663
+        ], 
+        "woeid": 145226, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -99.709, 
+        "longitude": -99.717, 
+        "parent_woeid": 12601637, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.400, 
+        "sw_longitude": -99.724, 
+        "fullname": "San Rafael, Tamaulipas, Bustamante, Mexico", 
+        "sw_latitude": 23.393
+      }, 
+      "id": 145226
+    }
+  ]
+}

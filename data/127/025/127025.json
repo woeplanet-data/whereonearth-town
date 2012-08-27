@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.704, 
+              16.103
+            ], 
+            [
+              -92.704, 
+              16.125
+            ], 
+            [
+              -92.679, 
+              16.125
+            ], 
+            [
+              -92.679, 
+              16.103
+            ], 
+            [
+              -92.704, 
+              16.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.125, 
+        "name": "La Concordia", 
+        "adjacent_woeid": [
+          112153, 
+          113387, 
+          125373, 
+          134745, 
+          136003, 
+          145008, 
+          145278, 
+          146342
+        ], 
+        "woeid": 127025, 
+        "alias_SPA_V": [
+          "Nueva Concordia"
+        ], 
+        "ne_longitude": -92.679, 
+        "longitude": -92.691, 
+        "parent_woeid": 12599754, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.114, 
+        "sw_longitude": -92.704, 
+        "fullname": "La Concordia, Chiapas, La Concordia, Mexico", 
+        "sw_latitude": 16.103
+      }, 
+      "id": 127025
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.841, 
+              47.770
+            ], 
+            [
+              10.841, 
+              47.802
+            ], 
+            [
+              10.869, 
+              47.802
+            ], 
+            [
+              10.869, 
+              47.770
+            ], 
+            [
+              10.841, 
+              47.770
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20157276, 
+        "name": "Rossau", 
+        "adjacent_woeid": [
+          668827, 
+          688678, 
+          20173002, 
+          20173003
+        ], 
+        "ne_latitude": 47.802, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.869, 
+        "longitude": 10.858, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:04Z", 
+        "parent_woeid": 12634692, 
+        "latitude": 47.779, 
+        "sw_longitude": 10.841, 
+        "fullname": "Rossau, Bavaria, Weilheim-Schongau, Germany", 
+        "sw_latitude": 47.770
+      }, 
+      "id": 20157276
+    }
+  ]
+}

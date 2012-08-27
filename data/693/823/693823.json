@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.847, 
+              49.743
+            ], 
+            [
+              10.847, 
+              49.778
+            ], 
+            [
+              10.881, 
+              49.778
+            ], 
+            [
+              10.881, 
+              49.743
+            ], 
+            [
+              10.847, 
+              49.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693823, 
+        "name": "Schweinbach", 
+        "adjacent_woeid": [
+          647603, 
+          690878, 
+          706849, 
+          706963, 
+          708743
+        ], 
+        "ne_latitude": 49.778, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.881, 
+        "longitude": 10.865, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12635244, 
+        "latitude": 49.767, 
+        "sw_longitude": 10.847, 
+        "fullname": "Schweinbach, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.743
+      }, 
+      "id": 693823
+    }
+  ]
+}

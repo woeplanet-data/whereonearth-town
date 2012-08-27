@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.304, 
+              42.518
+            ], 
+            [
+              0.304, 
+              42.628
+            ], 
+            [
+              0.396, 
+              42.628
+            ], 
+            [
+              0.396, 
+              42.518
+            ], 
+            [
+              0.304, 
+              42.518
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 770319, 
+        "name": "Plan", 
+        "adjacent_woeid": [
+          753660, 
+          759619, 
+          761604, 
+          764938, 
+          772948, 
+          774162, 
+          774312, 
+          774468, 
+          775340, 
+          20223105
+        ], 
+        "ne_latitude": 42.628, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.396, 
+        "longitude": 0.338, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:10Z", 
+        "parent_woeid": 12689536, 
+        "latitude": 42.580, 
+        "sw_longitude": 0.304, 
+        "fullname": "Plan, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.518
+      }, 
+      "id": 770319
+    }
+  ]
+}

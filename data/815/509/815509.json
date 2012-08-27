@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.200, 
+              46.562
+            ], 
+            [
+              20.200, 
+              46.608
+            ], 
+            [
+              20.256, 
+              46.608
+            ], 
+            [
+              20.256, 
+              46.562
+            ], 
+            [
+              20.200, 
+              46.562
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "HUN", 
+        "ne_latitude": 46.608, 
+        "name": "Szegv\u00e1r", 
+        "adjacent_woeid": [
+          803198, 
+          804627, 
+          805383, 
+          806251, 
+          810945, 
+          812020, 
+          815625, 
+          55847794
+        ], 
+        "woeid": 815509, 
+        "ne_longitude": 20.256, 
+        "longitude": 20.223, 
+        "parent_woeid": 12594298, 
+        "placetype": "Town", 
+        "iso": "HU", 
+        "date_indexed": "2010-12-02T09:56:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.585, 
+        "sw_longitude": 20.200, 
+        "fullname": "Szegv\u00e1r, Csongr\u00e1d, Szegv\u00e1r, Hungary", 
+        "alias_HUN_S": [
+          "Szegvar"
+        ], 
+        "sw_latitude": 46.562
+      }, 
+      "id": 815509
+    }
+  ]
+}

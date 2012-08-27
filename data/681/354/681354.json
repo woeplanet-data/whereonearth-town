@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.123, 
+              47.768
+            ], 
+            [
+              11.123, 
+              47.784
+            ], 
+            [
+              11.142, 
+              47.784
+            ], 
+            [
+              11.142, 
+              47.768
+            ], 
+            [
+              11.123, 
+              47.768
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 681354, 
+        "name": "Oberhausen", 
+        "adjacent_woeid": [
+          637931, 
+          644035, 
+          674373, 
+          681735, 
+          699055, 
+          55864963
+        ], 
+        "ne_latitude": 47.784, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.142, 
+        "longitude": 11.131, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:07Z", 
+        "parent_woeid": 12634701, 
+        "latitude": 47.779, 
+        "sw_longitude": 11.123, 
+        "fullname": "Oberhausen, Bavaria, Weilheim-Schongau, Germany", 
+        "alias_GER_V": [
+          "Oberhausen bei Peissenberg"
+        ], 
+        "sw_latitude": 47.768
+      }, 
+      "id": 681354
+    }
+  ]
+}

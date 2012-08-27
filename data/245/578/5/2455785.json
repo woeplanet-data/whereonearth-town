@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.330, 
+              45.309
+            ], 
+            [
+              -123.330, 
+              45.327
+            ], 
+            [
+              -123.304, 
+              45.327
+            ], 
+            [
+              -123.304, 
+              45.309
+            ], 
+            [
+              -123.330, 
+              45.309
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2455785, 
+        "name": "Mountain House", 
+        "adjacent_woeid": [
+          2359898, 
+          2365149, 
+          2379310, 
+          2471726, 
+          2482198, 
+          2506355
+        ], 
+        "ne_latitude": 45.327, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Mtn House"
+        ], 
+        "ne_longitude": -123.304, 
+        "longitude": -123.317, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:29:12Z", 
+        "parent_woeid": 12589727, 
+        "latitude": 45.318, 
+        "sw_longitude": -123.330, 
+        "fullname": "Mountain House, Oregon, Yamhill, United States", 
+        "sw_latitude": 45.309
+      }, 
+      "id": 2455785
+    }
+  ]
+}

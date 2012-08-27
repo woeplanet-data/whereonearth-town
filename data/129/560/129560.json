@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -115.081, 
+              31.733
+            ], 
+            [
+              -115.081, 
+              31.747
+            ], 
+            [
+              -115.065, 
+              31.747
+            ], 
+            [
+              -115.065, 
+              31.733
+            ], 
+            [
+              -115.081, 
+              31.733
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.747, 
+        "name": "La Ventana", 
+        "adjacent_woeid": [
+          116860, 
+          116929, 
+          118533, 
+          120358, 
+          127275, 
+          140656, 
+          145102, 
+          145822
+        ], 
+        "woeid": 129560, 
+        "alias_SPA_V": [
+          "La Ventura"
+        ], 
+        "ne_longitude": -115.065, 
+        "longitude": -115.073, 
+        "parent_woeid": 12599692, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.740, 
+        "sw_longitude": -115.081, 
+        "fullname": "La Ventana, Baja California, Mexicali, Mexico", 
+        "sw_latitude": 31.733
+      }, 
+      "id": 129560
+    }
+  ]
+}

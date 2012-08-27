@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.877, 
+              24.491
+            ], 
+            [
+              -98.877, 
+              24.509
+            ], 
+            [
+              -98.857, 
+              24.509
+            ], 
+            [
+              -98.857, 
+              24.491
+            ], 
+            [
+              -98.877, 
+              24.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.509, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          113064, 
+          114747, 
+          119534, 
+          127541, 
+          145216
+        ], 
+        "woeid": 146944, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -98.857, 
+        "longitude": -98.867, 
+        "parent_woeid": 12601665, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.500, 
+        "sw_longitude": -98.877, 
+        "fullname": "Santa Teresa, Tamaulipas, San Carlos, Mexico", 
+        "sw_latitude": 24.491
+      }, 
+      "id": 146944
+    }
+  ]
+}

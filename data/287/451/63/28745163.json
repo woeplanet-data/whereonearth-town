@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.479, 
+              39.997
+            ], 
+            [
+              -75.479, 
+              40.058
+            ], 
+            [
+              -75.404, 
+              40.058
+            ], 
+            [
+              -75.404, 
+              39.997
+            ], 
+            [
+              -75.479, 
+              39.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745163, 
+        "name": "Easttown", 
+        "adjacent_woeid": [
+          2478110, 
+          2496994, 
+          2521006, 
+          28339947, 
+          28745642
+        ], 
+        "ne_latitude": 40.058, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Easttown Township"
+        ], 
+        "ne_longitude": -75.404, 
+        "longitude": -75.442, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589742, 
+        "latitude": 40.045, 
+        "sw_longitude": -75.479, 
+        "fullname": "Easttown, Pennsylvania, Chester, United States", 
+        "sw_latitude": 39.997
+      }, 
+      "id": 28745163
+    }
+  ]
+}

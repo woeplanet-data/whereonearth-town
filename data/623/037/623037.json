@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.493, 
+              43.410
+            ], 
+            [
+              0.493, 
+              43.459
+            ], 
+            [
+              0.548, 
+              43.459
+            ], 
+            [
+              0.548, 
+              43.410
+            ], 
+            [
+              0.493, 
+              43.410
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623037, 
+        "name": "St.-Arroman", 
+        "adjacent_woeid": [
+          586246, 
+          600831, 
+          608790, 
+          611848, 
+          620838, 
+          623822, 
+          29331446
+        ], 
+        "ne_latitude": 43.459, 
+        "ne_longitude": 0.548, 
+        "longitude": 0.521, 
+        "parent_woeid": 12670141, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Arroman"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.438, 
+        "sw_longitude": 0.493, 
+        "fullname": "St.-Arroman, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.410
+      }, 
+      "id": 623037
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.718, 
+              47.255
+            ], 
+            [
+              1.718, 
+              47.273
+            ], 
+            [
+              1.745, 
+              47.273
+            ], 
+            [
+              1.745, 
+              47.255
+            ], 
+            [
+              1.718, 
+              47.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332368, 
+        "name": "Le Grand Village", 
+        "adjacent_woeid": [
+          29332367, 
+          29332369, 
+          29332370
+        ], 
+        "ne_latitude": 47.273, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.745, 
+        "longitude": 1.731, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12646067, 
+        "latitude": 47.264, 
+        "sw_longitude": 1.718, 
+        "fullname": "Le Grand Village, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.255
+      }, 
+      "id": 29332368
+    }
+  ]
+}

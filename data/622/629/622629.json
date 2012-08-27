@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.377, 
+              49.695
+            ], 
+            [
+              2.377, 
+              49.722
+            ], 
+            [
+              2.422, 
+              49.722
+            ], 
+            [
+              2.422, 
+              49.695
+            ], 
+            [
+              2.377, 
+              49.695
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622629, 
+        "name": "Sourdon", 
+        "adjacent_woeid": [
+          575577, 
+          585879, 
+          589968, 
+          608835, 
+          628592
+        ], 
+        "ne_latitude": 49.722, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.422, 
+        "longitude": 2.394, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12669940, 
+        "latitude": 49.711, 
+        "sw_longitude": 2.377, 
+        "fullname": "Sourdon, Picardie, Somme, France", 
+        "sw_latitude": 49.695
+      }, 
+      "id": 622629
+    }
+  ]
+}

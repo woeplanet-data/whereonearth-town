@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.207, 
+              45.245
+            ], 
+            [
+              1.207, 
+              45.273
+            ], 
+            [
+              1.241, 
+              45.273
+            ], 
+            [
+              1.241, 
+              45.245
+            ], 
+            [
+              1.207, 
+              45.245
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628185, 
+        "name": "Teillots", 
+        "adjacent_woeid": [
+          577780, 
+          580501, 
+          587179, 
+          621583, 
+          627754
+        ], 
+        "ne_latitude": 45.273, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.241, 
+        "longitude": 1.221, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12653564, 
+        "latitude": 45.258, 
+        "sw_longitude": 1.207, 
+        "fullname": "Teillots, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.245
+      }, 
+      "id": 628185
+    }
+  ]
+}

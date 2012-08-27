@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.215, 
+              51.505
+            ], 
+            [
+              10.215, 
+              51.540
+            ], 
+            [
+              10.246, 
+              51.540
+            ], 
+            [
+              10.246, 
+              51.505
+            ], 
+            [
+              10.215, 
+              51.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705844, 
+        "name": "Westerode", 
+        "adjacent_woeid": [
+          648803, 
+          675351, 
+          677525, 
+          699498, 
+          705586
+        ], 
+        "ne_latitude": 51.540, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.246, 
+        "longitude": 10.226, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12630327, 
+        "latitude": 51.520, 
+        "sw_longitude": 10.215, 
+        "fullname": "Westerode, Lower Saxony, Gottingen, Germany", 
+        "sw_latitude": 51.505
+      }, 
+      "id": 705844
+    }
+  ]
+}

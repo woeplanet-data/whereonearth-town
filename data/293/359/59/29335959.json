@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.440, 
+              46.520
+            ], 
+            [
+              10.440, 
+              46.538
+            ], 
+            [
+              10.466, 
+              46.538
+            ], 
+            [
+              10.466, 
+              46.520
+            ], 
+            [
+              10.440, 
+              46.520
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 29335959, 
+        "name": "Passo Stelvio", 
+        "adjacent_woeid": [
+          725176, 
+          29335544, 
+          29335965
+        ], 
+        "ne_latitude": 46.538, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.466, 
+        "longitude": 10.453, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:55Z", 
+        "parent_woeid": 12676993, 
+        "latitude": 46.529, 
+        "sw_longitude": 10.440, 
+        "fullname": "Passo Stelvio, Lombardy, Sondrio, Italy", 
+        "sw_latitude": 46.520
+      }, 
+      "id": 29335959
+    }
+  ]
+}

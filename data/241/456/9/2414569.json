@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.121, 
+              45.585
+            ], 
+            [
+              -123.121, 
+              45.594
+            ], 
+            [
+              -123.108, 
+              45.594
+            ], 
+            [
+              -123.108, 
+              45.585
+            ], 
+            [
+              -123.121, 
+              45.585
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2414569, 
+        "name": "Greenville", 
+        "adjacent_woeid": [
+          2422179, 
+          2485398, 
+          2505080, 
+          2511699, 
+          2520585
+        ], 
+        "ne_latitude": 45.594, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.108, 
+        "longitude": -123.114, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:26:08Z", 
+        "parent_woeid": 12589725, 
+        "latitude": 45.589, 
+        "sw_longitude": -123.121, 
+        "fullname": "Greenville, Oregon, Washington, United States", 
+        "sw_latitude": 45.585
+      }, 
+      "id": 2414569
+    }
+  ]
+}

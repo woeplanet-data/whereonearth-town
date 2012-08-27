@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.192, 
+              49.502
+            ], 
+            [
+              10.192, 
+              49.550
+            ], 
+            [
+              10.230, 
+              49.550
+            ], 
+            [
+              10.230, 
+              49.502
+            ], 
+            [
+              10.192, 
+              49.502
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705074, 
+        "name": "Welbhausen", 
+        "adjacent_woeid": [
+          640638, 
+          643422, 
+          670272, 
+          703722
+        ], 
+        "ne_latitude": 49.550, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.230, 
+        "longitude": 10.212, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12634530, 
+        "latitude": 49.527, 
+        "sw_longitude": 10.192, 
+        "fullname": "Welbhausen, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.502
+      }, 
+      "id": 705074
+    }
+  ]
+}

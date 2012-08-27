@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.500, 
+              49.053
+            ], 
+            [
+              1.500, 
+              49.073
+            ], 
+            [
+              1.536, 
+              49.073
+            ], 
+            [
+              1.536, 
+              49.053
+            ], 
+            [
+              1.500, 
+              49.053
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617573, 
+        "name": "Port-Villez", 
+        "adjacent_woeid": [
+          579282, 
+          580184, 
+          592959, 
+          608134, 
+          20219139
+        ], 
+        "ne_latitude": 49.073, 
+        "ne_longitude": 1.536, 
+        "longitude": 1.521, 
+        "parent_woeid": 12650874, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt-Villez"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.065, 
+        "sw_longitude": 1.500, 
+        "fullname": "Port-Villez, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 49.053
+      }, 
+      "id": 617573
+    }
+  ]
+}

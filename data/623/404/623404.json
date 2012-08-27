@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.289, 
+              46.212
+            ], 
+            [
+              6.289, 
+              46.248
+            ], 
+            [
+              6.333, 
+              46.248
+            ], 
+            [
+              6.333, 
+              46.212
+            ], 
+            [
+              6.289, 
+              46.212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623404, 
+        "name": "St.-Cergues", 
+        "adjacent_woeid": [
+          608919, 
+          609154, 
+          20211033, 
+          29329861, 
+          29329875, 
+          29329903, 
+          29329907
+        ], 
+        "ne_latitude": 46.248, 
+        "ne_longitude": 6.333, 
+        "longitude": 6.315, 
+        "parent_woeid": 12670240, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cergues"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.229, 
+        "sw_longitude": 6.289, 
+        "fullname": "St.-Cergues, Rhone-Alpes, Haute-Savoie, France", 
+        "sw_latitude": 46.212
+      }, 
+      "id": 623404
+    }
+  ]
+}

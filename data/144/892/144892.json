@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.943, 
+              20.024
+            ], 
+            [
+              -100.943, 
+              20.042
+            ], 
+            [
+              -100.924, 
+              20.042
+            ], 
+            [
+              -100.924, 
+              20.024
+            ], 
+            [
+              -100.943, 
+              20.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.042, 
+        "name": "San Pablo Pejo", 
+        "adjacent_woeid": [
+          124968, 
+          125437, 
+          130233, 
+          134897, 
+          142207, 
+          145690, 
+          55902483
+        ], 
+        "woeid": 144892, 
+        "alias_SPA_V": [
+          "S Pablo Pejo"
+        ], 
+        "ne_longitude": -100.924, 
+        "longitude": -100.933, 
+        "parent_woeid": 12600016, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.033, 
+        "sw_longitude": -100.943, 
+        "fullname": "San Pablo Pejo, Guanajuato, Salvatierra, Mexico", 
+        "sw_latitude": 20.024
+      }, 
+      "id": 144892
+    }
+  ]
+}

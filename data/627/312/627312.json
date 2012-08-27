@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.168, 
+              48.576
+            ], 
+            [
+              -4.168, 
+              48.601
+            ], 
+            [
+              -4.123, 
+              48.601
+            ], 
+            [
+              -4.123, 
+              48.576
+            ], 
+            [
+              -4.168, 
+              48.576
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627312, 
+        "name": "St.-Vougay", 
+        "adjacent_woeid": [
+          579543, 
+          601280, 
+          616990, 
+          617024, 
+          623745, 
+          629146, 
+          629221
+        ], 
+        "ne_latitude": 48.601, 
+        "ne_longitude": -4.123, 
+        "longitude": -4.138, 
+        "parent_woeid": 12649026, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vougay"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.593, 
+        "sw_longitude": -4.168, 
+        "fullname": "St.-Vougay, Brittany, Finistere, France", 
+        "sw_latitude": 48.576
+      }, 
+      "id": 627312
+    }
+  ]
+}

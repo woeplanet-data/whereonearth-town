@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.310, 
+              46.095
+            ], 
+            [
+              5.310, 
+              46.104
+            ], 
+            [
+              5.323, 
+              46.104
+            ], 
+            [
+              5.323, 
+              46.095
+            ], 
+            [
+              5.310, 
+              46.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20208050, 
+        "name": "Le Farget", 
+        "adjacent_woeid": [
+          603662, 
+          625698, 
+          20208052, 
+          20208054
+        ], 
+        "ne_latitude": 46.104, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.323, 
+        "longitude": 5.317, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 12670018, 
+        "latitude": 46.100, 
+        "sw_longitude": 5.310, 
+        "fullname": "Le Farget, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 46.095
+      }, 
+      "id": 20208050
+    }
+  ]
+}

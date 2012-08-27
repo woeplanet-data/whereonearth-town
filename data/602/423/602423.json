@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.463, 
+              43.272
+            ], 
+            [
+              3.463, 
+              43.308
+            ], 
+            [
+              3.531, 
+              43.308
+            ], 
+            [
+              3.531, 
+              43.272
+            ], 
+            [
+              3.463, 
+              43.272
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602423, 
+        "name": "Le Cap d'Agde", 
+        "adjacent_woeid": [
+          603155, 
+          20203623
+        ], 
+        "ne_latitude": 43.308, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.531, 
+        "longitude": 3.497, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12654892, 
+        "latitude": 43.283, 
+        "sw_longitude": 3.463, 
+        "fullname": "Le Cap d'Agde, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.272
+      }, 
+      "id": 602423
+    }
+  ]
+}

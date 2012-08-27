@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.060, 
+              50.424
+            ], 
+            [
+              5.060, 
+              50.442
+            ], 
+            [
+              5.089, 
+              50.442
+            ], 
+            [
+              5.089, 
+              50.424
+            ], 
+            [
+              5.060, 
+              50.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 970717, 
+        "name": "Haut Bois", 
+        "adjacent_woeid": [
+          969548, 
+          970580, 
+          977527
+        ], 
+        "ne_latitude": 50.442, 
+        "ne_longitude": 5.089, 
+        "longitude": 5.075, 
+        "parent_woeid": 12602552, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Haut-Bois"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:11Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.433, 
+        "sw_longitude": 5.060, 
+        "fullname": "Haut Bois, Namur, Namur, Belgium", 
+        "sw_latitude": 50.424
+      }, 
+      "id": 970717
+    }
+  ]
+}

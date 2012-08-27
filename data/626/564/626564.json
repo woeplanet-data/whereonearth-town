@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.799, 
+              45.805
+            ], 
+            [
+              -0.799, 
+              45.835
+            ], 
+            [
+              -0.770, 
+              45.835
+            ], 
+            [
+              -0.770, 
+              45.805
+            ], 
+            [
+              -0.799, 
+              45.805
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626564, 
+        "name": "St.-Porchaire", 
+        "adjacent_woeid": [
+          606122, 
+          616847, 
+          627034, 
+          20199409, 
+          20199417
+        ], 
+        "ne_latitude": 45.835, 
+        "ne_longitude": -0.770, 
+        "longitude": -0.784, 
+        "parent_woeid": 12671122, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Porchaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.821, 
+        "sw_longitude": -0.799, 
+        "fullname": "St.-Porchaire, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.805
+      }, 
+      "id": 626564
+    }
+  ]
+}

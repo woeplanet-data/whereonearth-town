@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.989, 
+              38.542
+            ], 
+            [
+              -4.989, 
+              38.654
+            ], 
+            [
+              -4.860, 
+              38.654
+            ], 
+            [
+              -4.860, 
+              38.542
+            ], 
+            [
+              -4.989, 
+              38.542
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.654, 
+        "name": "Santa Eufemia", 
+        "adjacent_woeid": [
+          751622, 
+          752221, 
+          757519, 
+          758817, 
+          759824, 
+          761877, 
+          772687
+        ], 
+        "woeid": 773714, 
+        "alias_SPA_V": [
+          "Sta. Eufemia"
+        ], 
+        "ne_longitude": -4.860, 
+        "longitude": -4.906, 
+        "parent_woeid": 12688831, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.599, 
+        "sw_longitude": -4.989, 
+        "fullname": "Santa Eufemia, Andalusia, Cordoba, Spain", 
+        "sw_latitude": 38.542
+      }, 
+      "id": 773714
+    }
+  ]
+}

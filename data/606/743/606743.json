@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.567, 
+              45.135
+            ], 
+            [
+              5.567, 
+              45.160
+            ], 
+            [
+              5.602, 
+              45.160
+            ], 
+            [
+              5.602, 
+              45.135
+            ], 
+            [
+              5.567, 
+              45.135
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 606743, 
+        "name": "Les Lolettes", 
+        "adjacent_woeid": [
+          589654, 
+          601352, 
+          626102
+        ], 
+        "ne_latitude": 45.160, 
+        "ne_longitude": 5.602, 
+        "longitude": 5.588, 
+        "parent_woeid": 12664445, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "L'Olette"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.142, 
+        "sw_longitude": 5.567, 
+        "fullname": "Les Lolettes, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.135
+      }, 
+      "id": 606743
+    }
+  ]
+}

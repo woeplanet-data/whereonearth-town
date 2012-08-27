@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.482, 
+              24.143
+            ], 
+            [
+              -101.482, 
+              24.161
+            ], 
+            [
+              -101.462, 
+              24.161
+            ], 
+            [
+              -101.462, 
+              24.143
+            ], 
+            [
+              -101.482, 
+              24.143
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.161, 
+        "name": "San Tiburcio", 
+        "adjacent_woeid": [
+          120144, 
+          122199, 
+          128637, 
+          139780, 
+          148206
+        ], 
+        "woeid": 145469, 
+        "alias_SPA_V": [
+          "S Tiburcio"
+        ], 
+        "ne_longitude": -101.462, 
+        "longitude": -101.472, 
+        "parent_woeid": 12602057, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.152, 
+        "sw_longitude": -101.482, 
+        "fullname": "San Tiburcio, Zacatecas, Mazapil, Mexico", 
+        "sw_latitude": 24.143
+      }, 
+      "id": 145469
+    }
+  ]
+}

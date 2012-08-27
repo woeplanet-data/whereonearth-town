@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.385, 
+              45.907
+            ], 
+            [
+              2.385, 
+              45.931
+            ], 
+            [
+              2.415, 
+              45.931
+            ], 
+            [
+              2.415, 
+              45.907
+            ], 
+            [
+              2.385, 
+              45.907
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623177, 
+        "name": "St.-Bard", 
+        "adjacent_woeid": [
+          600464, 
+          608224, 
+          610642, 
+          626122, 
+          20189263, 
+          20189272
+        ], 
+        "ne_latitude": 45.931, 
+        "ne_longitude": 2.415, 
+        "longitude": 2.401, 
+        "parent_woeid": 12670178, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:53Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.915, 
+        "sw_longitude": 2.385, 
+        "fullname": "St.-Bard, Limousin, Creuse, France", 
+        "sw_latitude": 45.907
+      }, 
+      "id": 623177
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.095, 
+              49.973
+            ], 
+            [
+              12.095, 
+              49.999
+            ], 
+            [
+              12.111, 
+              49.999
+            ], 
+            [
+              12.111, 
+              49.973
+            ], 
+            [
+              12.095, 
+              49.973
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673756, 
+        "name": "Manzenberg", 
+        "adjacent_woeid": [
+          671215, 
+          684797, 
+          20156442
+        ], 
+        "ne_latitude": 49.999, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.111, 
+        "longitude": 12.103, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:34Z", 
+        "parent_woeid": 12635371, 
+        "latitude": 49.985, 
+        "sw_longitude": 12.095, 
+        "fullname": "Manzenberg, Bavaria, Wunsiedel im Fichtelgebirge, Germany", 
+        "sw_latitude": 49.973
+      }, 
+      "id": 673756
+    }
+  ]
+}

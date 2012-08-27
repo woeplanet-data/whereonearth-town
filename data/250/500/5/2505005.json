@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.206, 
+              33.232
+            ], 
+            [
+              -85.206, 
+              33.250
+            ], 
+            [
+              -85.184, 
+              33.250
+            ], 
+            [
+              -85.184, 
+              33.232
+            ], 
+            [
+              -85.206, 
+              33.232
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2505005, 
+        "name": "Texas", 
+        "adjacent_woeid": [
+          2351955, 
+          2391262, 
+          2407858, 
+          2462642, 
+          2483481, 
+          2512560
+        ], 
+        "ne_latitude": 33.250, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -85.184, 
+        "longitude": -85.195, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:32:22Z", 
+        "parent_woeid": 12587943, 
+        "latitude": 33.241, 
+        "sw_longitude": -85.206, 
+        "fullname": "Texas, Georgia, Heard, United States", 
+        "sw_latitude": 33.232
+      }, 
+      "id": 2505005
+    }
+  ]
+}

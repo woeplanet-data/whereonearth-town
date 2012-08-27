@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.150, 
+              23.783
+            ], 
+            [
+              -99.150, 
+              23.801
+            ], 
+            [
+              -99.130, 
+              23.801
+            ], 
+            [
+              -99.130, 
+              23.783
+            ], 
+            [
+              -99.150, 
+              23.783
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.801, 
+        "name": "La Presa", 
+        "adjacent_woeid": [
+          112289, 
+          113369, 
+          121952, 
+          148799, 
+          56074864
+        ], 
+        "woeid": 128868, 
+        "alias_SPA_V": [
+          "Presa"
+        ], 
+        "ne_longitude": -99.130, 
+        "longitude": -99.140, 
+        "parent_woeid": 12601672, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.792, 
+        "sw_longitude": -99.150, 
+        "fullname": "La Presa, Tamaulipas, Victoria, Mexico", 
+        "sw_latitude": 23.783
+      }, 
+      "id": 128868
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.602, 
+              46.086
+            ], 
+            [
+              3.602, 
+              46.095
+            ], 
+            [
+              3.615, 
+              46.095
+            ], 
+            [
+              3.615, 
+              46.086
+            ], 
+            [
+              3.602, 
+              46.086
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20205283, 
+        "name": "Le Pouthier", 
+        "adjacent_woeid": [
+          576746, 
+          597385, 
+          611801, 
+          614355
+        ], 
+        "ne_latitude": 46.095, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.615, 
+        "longitude": 3.609, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 22755141, 
+        "latitude": 46.091, 
+        "sw_longitude": 3.602, 
+        "fullname": "Le Pouthier, Auvergne, Allier, France", 
+        "sw_latitude": 46.086
+      }, 
+      "id": 20205283
+    }
+  ]
+}

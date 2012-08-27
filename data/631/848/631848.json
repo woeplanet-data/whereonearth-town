@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.639, 
+              45.074
+            ], 
+            [
+              -0.639, 
+              45.094
+            ], 
+            [
+              -0.619, 
+              45.094
+            ], 
+            [
+              -0.619, 
+              45.074
+            ], 
+            [
+              -0.639, 
+              45.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631848, 
+        "name": "Villeneuve", 
+        "adjacent_woeid": [
+          592516, 
+          616844, 
+          622647, 
+          623505
+        ], 
+        "ne_latitude": 45.094, 
+        "ne_longitude": -0.619, 
+        "longitude": -0.628, 
+        "parent_woeid": 12654448, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Villeneuve-de-Blaye"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.084, 
+        "sw_longitude": -0.639, 
+        "fullname": "Villeneuve, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.074
+      }, 
+      "id": 631848
+    }
+  ]
+}

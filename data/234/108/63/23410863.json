@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.881, 
+              50.853
+            ], 
+            [
+              10.881, 
+              50.871
+            ], 
+            [
+              10.910, 
+              50.871
+            ], 
+            [
+              10.910, 
+              50.853
+            ], 
+            [
+              10.881, 
+              50.853
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23410863, 
+        "name": "Wachsenburggemeinde", 
+        "adjacent_woeid": [
+          639321, 
+          656149, 
+          661894, 
+          676498, 
+          687382, 
+          698320
+        ], 
+        "ne_latitude": 50.871, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.910, 
+        "longitude": 10.896, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:11Z", 
+        "parent_woeid": 12625163, 
+        "latitude": 50.862, 
+        "sw_longitude": 10.881, 
+        "fullname": "Wachsenburggemeinde, Thuringia, Ilm-Kreis, Germany", 
+        "sw_latitude": 50.853
+      }, 
+      "id": 23410863
+    }
+  ]
+}

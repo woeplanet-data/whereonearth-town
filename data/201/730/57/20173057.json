@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.103, 
+              48.341
+            ], 
+            [
+              11.103, 
+              48.370
+            ], 
+            [
+              11.126, 
+              48.370
+            ], 
+            [
+              11.126, 
+              48.341
+            ], 
+            [
+              11.103, 
+              48.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20173057, 
+        "name": "Weinsbach", 
+        "adjacent_woeid": [
+          642509, 
+          659246, 
+          669974, 
+          20173055
+        ], 
+        "ne_latitude": 48.370, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.126, 
+        "longitude": 11.114, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:20Z", 
+        "parent_woeid": 12634726, 
+        "latitude": 48.355, 
+        "sw_longitude": 11.103, 
+        "fullname": "Weinsbach, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.341
+      }, 
+      "id": 20173057
+    }
+  ]
+}

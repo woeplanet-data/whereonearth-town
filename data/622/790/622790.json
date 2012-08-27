@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.285, 
+              43.599
+            ], 
+            [
+              -0.285, 
+              43.622
+            ], 
+            [
+              -0.264, 
+              43.622
+            ], 
+            [
+              -0.264, 
+              43.599
+            ], 
+            [
+              -0.285, 
+              43.599
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622790, 
+        "name": "St.-Agnet", 
+        "adjacent_woeid": [
+          601661, 
+          611602, 
+          618124, 
+          621090, 
+          621586
+        ], 
+        "ne_latitude": 43.622, 
+        "ne_longitude": -0.264, 
+        "longitude": -0.272, 
+        "parent_woeid": 12670054, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Agnet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.608, 
+        "sw_longitude": -0.285, 
+        "fullname": "St.-Agnet, Aquitaine, Landes, France", 
+        "sw_latitude": 43.599
+      }, 
+      "id": 622790
+    }
+  ]
+}

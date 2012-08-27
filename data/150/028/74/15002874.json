@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.187, 
+              47.642
+            ], 
+            [
+              7.187, 
+              47.686
+            ], 
+            [
+              7.222, 
+              47.686
+            ], 
+            [
+              7.222, 
+              47.642
+            ], 
+            [
+              7.187, 
+              47.642
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15002874, 
+        "name": "St.-Bernard", 
+        "adjacent_woeid": [
+          577989, 
+          579451, 
+          583143, 
+          589538, 
+          594583, 
+          622692, 
+          622693
+        ], 
+        "ne_latitude": 47.686, 
+        "ne_longitude": 7.222, 
+        "longitude": 7.203, 
+        "parent_woeid": 12639970, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bernard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.671, 
+        "sw_longitude": 7.187, 
+        "fullname": "St.-Bernard, Alsace, Haut-Rhin, France", 
+        "sw_latitude": 47.642
+      }, 
+      "id": 15002874
+    }
+  ]
+}

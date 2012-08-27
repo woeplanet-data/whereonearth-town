@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.026, 
+              49.200
+            ], 
+            [
+              -0.026, 
+              49.227
+            ], 
+            [
+              0.001, 
+              49.227
+            ], 
+            [
+              0.001, 
+              49.200
+            ], 
+            [
+              -0.026, 
+              49.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624904, 
+        "name": "St.-Jouin", 
+        "adjacent_woeid": [
+          578641, 
+          579751, 
+          587869, 
+          623112, 
+          625224
+        ], 
+        "ne_latitude": 49.227, 
+        "ne_longitude": 0.001, 
+        "longitude": -0.015, 
+        "parent_woeid": 12652701, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Jouin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.209, 
+        "sw_longitude": -0.026, 
+        "fullname": "St.-Jouin, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.200
+      }, 
+      "id": 624904
+    }
+  ]
+}

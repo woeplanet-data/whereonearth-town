@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.560, 
+              20.324
+            ], 
+            [
+              -104.560, 
+              20.342
+            ], 
+            [
+              -104.540, 
+              20.342
+            ], 
+            [
+              -104.540, 
+              20.324
+            ], 
+            [
+              -104.560, 
+              20.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.342, 
+        "name": "Ahuacatepec", 
+        "adjacent_woeid": [
+          112607, 
+          116464, 
+          118070, 
+          132534, 
+          133778, 
+          141820, 
+          145766
+        ], 
+        "woeid": 111620, 
+        "alias_SPA_V": [
+          "Aguacatepec"
+        ], 
+        "ne_longitude": -104.540, 
+        "longitude": -104.550, 
+        "parent_woeid": 12600205, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.333, 
+        "sw_longitude": -104.560, 
+        "fullname": "Ahuacatepec, Jalisco, Atenguillo, Mexico", 
+        "sw_latitude": 20.324
+      }, 
+      "id": 111620
+    }
+  ]
+}

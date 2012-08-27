@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.506, 
+              45.933
+            ], 
+            [
+              5.506, 
+              45.942
+            ], 
+            [
+              5.519, 
+              45.942
+            ], 
+            [
+              5.519, 
+              45.933
+            ], 
+            [
+              5.506, 
+              45.933
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20207905, 
+        "name": "Le Chanay", 
+        "adjacent_woeid": [
+          576588, 
+          583921, 
+          609528, 
+          15003291
+        ], 
+        "ne_latitude": 45.942, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.519, 
+        "longitude": 5.513, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 12671663, 
+        "latitude": 45.937, 
+        "sw_longitude": 5.506, 
+        "fullname": "Le Chanay, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 45.933
+      }, 
+      "id": 20207905
+    }
+  ]
+}

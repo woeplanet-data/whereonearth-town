@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.050, 
+              48.011
+            ], 
+            [
+              12.050, 
+              48.029
+            ], 
+            [
+              12.077, 
+              48.029
+            ], 
+            [
+              12.077, 
+              48.011
+            ], 
+            [
+              12.050, 
+              48.011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666725, 
+        "name": "Kleinaschau", 
+        "adjacent_woeid": [
+          648865, 
+          20152485, 
+          29346248, 
+          29346249, 
+          29346258, 
+          29346436, 
+          29347625
+        ], 
+        "ne_latitude": 48.029, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.077, 
+        "longitude": 12.064, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635126, 
+        "latitude": 48.020, 
+        "sw_longitude": 12.050, 
+        "fullname": "Kleinaschau, Bavaria, Landkreis Ebersberg, Germany", 
+        "sw_latitude": 48.011
+      }, 
+      "id": 666725
+    }
+  ]
+}

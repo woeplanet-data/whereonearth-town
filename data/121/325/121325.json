@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.266, 
+              17.017
+            ], 
+            [
+              -100.266, 
+              17.035
+            ], 
+            [
+              -100.247, 
+              17.035
+            ], 
+            [
+              -100.247, 
+              17.017
+            ], 
+            [
+              -100.266, 
+              17.017
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.035, 
+        "name": "El Papayo", 
+        "adjacent_woeid": [
+          117587, 
+          119626, 
+          123081, 
+          142644, 
+          148932, 
+          149502
+        ], 
+        "woeid": 121325, 
+        "alias_SPA_V": [
+          "Papayo"
+        ], 
+        "ne_longitude": -100.247, 
+        "longitude": -100.257, 
+        "parent_woeid": 12600057, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.026, 
+        "sw_longitude": -100.266, 
+        "fullname": "El Papayo, Guerrero, Coyuca de Benitez, Mexico", 
+        "sw_latitude": 17.017
+      }, 
+      "id": 121325
+    }
+  ]
+}

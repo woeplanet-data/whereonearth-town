@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.792, 
+              46.185
+            ], 
+            [
+              5.792, 
+              46.203
+            ], 
+            [
+              5.818, 
+              46.203
+            ], 
+            [
+              5.818, 
+              46.185
+            ], 
+            [
+              5.792, 
+              46.185
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330409, 
+        "name": "Communal", 
+        "adjacent_woeid": [
+          584253, 
+          592923, 
+          612276, 
+          29330450
+        ], 
+        "ne_latitude": 46.203, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.818, 
+        "longitude": 5.805, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "parent_woeid": 12658917, 
+        "latitude": 46.194, 
+        "sw_longitude": 5.792, 
+        "fullname": "Communal, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 46.185
+      }, 
+      "id": 29330409
+    }
+  ]
+}

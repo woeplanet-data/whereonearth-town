@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.193, 
+              19.274
+            ], 
+            [
+              -97.193, 
+              19.292
+            ], 
+            [
+              -97.174, 
+              19.292
+            ], 
+            [
+              -97.174, 
+              19.274
+            ], 
+            [
+              -97.193, 
+              19.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.292, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          111297, 
+          112750, 
+          136273, 
+          137045, 
+          138077, 
+          138122, 
+          149625, 
+          55888940, 
+          55897296
+        ], 
+        "woeid": 141697, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -97.174, 
+        "longitude": -97.183, 
+        "parent_woeid": 12601270, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.283, 
+        "sw_longitude": -97.193, 
+        "fullname": "San Antonio, Puebla, Chilchotla, Mexico", 
+        "sw_latitude": 19.274
+      }, 
+      "id": 141697
+    }
+  ]
+}

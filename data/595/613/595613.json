@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.884, 
+              48.786
+            ], 
+            [
+              1.884, 
+              48.813
+            ], 
+            [
+              1.918, 
+              48.813
+            ], 
+            [
+              1.918, 
+              48.786
+            ], 
+            [
+              1.884, 
+              48.786
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595613, 
+        "name": "Jouars-Pontchartrain", 
+        "adjacent_woeid": [
+          589569, 
+          606132, 
+          610601, 
+          612627, 
+          613957, 
+          616791, 
+          617431
+        ], 
+        "ne_latitude": 48.813, 
+        "ne_longitude": 1.918, 
+        "longitude": 1.904, 
+        "parent_woeid": 12645520, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Jouars"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.802, 
+        "sw_longitude": 1.884, 
+        "fullname": "Jouars-Pontchartrain, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.786
+      }, 
+      "id": 595613
+    }
+  ]
+}

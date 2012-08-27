@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.602, 
+              48.256
+            ], 
+            [
+              12.602, 
+              48.265
+            ], 
+            [
+              12.615, 
+              48.265
+            ], 
+            [
+              12.615, 
+              48.256
+            ], 
+            [
+              12.602, 
+              48.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645217, 
+        "name": "Dorfen", 
+        "adjacent_woeid": [
+          635411, 
+          636037, 
+          648105, 
+          699613, 
+          20152123
+        ], 
+        "ne_latitude": 48.265, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.615, 
+        "longitude": 12.609, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12635755, 
+        "latitude": 48.260, 
+        "sw_longitude": 12.602, 
+        "fullname": "Dorfen, Bavaria, Altotting, Germany", 
+        "sw_latitude": 48.256
+      }, 
+      "id": 645217
+    }
+  ]
+}

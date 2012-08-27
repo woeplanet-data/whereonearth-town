@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.048, 
+              42.836
+            ], 
+            [
+              -2.048, 
+              42.892
+            ], 
+            [
+              -1.986, 
+              42.892
+            ], 
+            [
+              -1.986, 
+              42.836
+            ], 
+            [
+              -2.048, 
+              42.836
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.892, 
+        "name": "Ergoien", 
+        "adjacent_woeid": [
+          752681, 
+          758873, 
+          762390, 
+          765253, 
+          768727, 
+          779190, 
+          29372526
+        ], 
+        "woeid": 779310, 
+        "alias_SPA_V": [
+          "Ergoiena"
+        ], 
+        "ne_longitude": -1.986, 
+        "longitude": -2.037, 
+        "parent_woeid": 12688263, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.874, 
+        "sw_longitude": -2.048, 
+        "fullname": "Ergoien, Navarre, Navarre, Spain", 
+        "sw_latitude": 42.836
+      }, 
+      "id": 779310
+    }
+  ]
+}

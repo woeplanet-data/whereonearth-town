@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.013, 
+              49.123
+            ], 
+            [
+              4.013, 
+              49.132
+            ], 
+            [
+              4.029, 
+              49.132
+            ], 
+            [
+              4.029, 
+              49.123
+            ], 
+            [
+              4.013, 
+              49.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20216856, 
+        "name": "Les Haies", 
+        "adjacent_woeid": [
+          592707, 
+          621911, 
+          624650, 
+          631986, 
+          20216859
+        ], 
+        "ne_latitude": 49.132, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.029, 
+        "longitude": 4.022, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12644436, 
+        "latitude": 49.127, 
+        "sw_longitude": 4.013, 
+        "fullname": "Les Haies, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.123
+      }, 
+      "id": 20216856
+    }
+  ]
+}

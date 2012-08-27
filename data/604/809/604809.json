@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.242, 
+              48.975
+            ], 
+            [
+              1.242, 
+              49.005
+            ], 
+            [
+              1.269, 
+              49.005
+            ], 
+            [
+              1.269, 
+              48.975
+            ], 
+            [
+              1.242, 
+              48.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604809, 
+        "name": "Le Val-David", 
+        "adjacent_woeid": [
+          592422, 
+          604928, 
+          624281, 
+          15003066, 
+          15003074, 
+          29330604, 
+          29330731, 
+          29330813
+        ], 
+        "ne_latitude": 49.005, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.269, 
+        "longitude": 1.250, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12647719, 
+        "latitude": 48.988, 
+        "sw_longitude": 1.242, 
+        "fullname": "Le Val-David, Val-David, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.975
+      }, 
+      "id": 604809
+    }
+  ]
+}

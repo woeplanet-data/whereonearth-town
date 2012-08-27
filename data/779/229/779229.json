@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.410, 
+              41.640
+            ], 
+            [
+              1.410, 
+              41.662
+            ], 
+            [
+              1.427, 
+              41.662
+            ], 
+            [
+              1.427, 
+              41.640
+            ], 
+            [
+              1.410, 
+              41.640
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 779229, 
+        "name": "Sant Guim de Freixenet", 
+        "adjacent_woeid": [
+          757975, 
+          762862, 
+          767667, 
+          768769, 
+          771023, 
+          779338, 
+          779349, 
+          15003467, 
+          15003577, 
+          20221766, 
+          20222858, 
+          20223162, 
+          20223755, 
+          20223809, 
+          20224836, 
+          20224846, 
+          20225708, 
+          20225926, 
+          20226892, 
+          55865700
+        ], 
+        "ne_latitude": 41.662, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.427, 
+        "longitude": 1.421, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "parent_woeid": 12694079, 
+        "latitude": 41.655, 
+        "sw_longitude": 1.410, 
+        "fullname": "Sant Guim de Freixenet, Catalonia, Lleida, Spain", 
+        "sw_latitude": 41.640
+      }, 
+      "id": 779229
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.827, 
+              28.758
+            ], 
+            [
+              -105.827, 
+              28.776
+            ], 
+            [
+              -105.806, 
+              28.776
+            ], 
+            [
+              -105.806, 
+              28.758
+            ], 
+            [
+              -105.827, 
+              28.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.776, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          111811, 
+          118295, 
+          123740, 
+          128228, 
+          132023, 
+          141850, 
+          150824
+        ], 
+        "woeid": 142761, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -105.806, 
+        "longitude": -105.817, 
+        "parent_woeid": 12599820, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.767, 
+        "sw_longitude": -105.827, 
+        "fullname": "San Ignacio, Chihuahua, Aldama, Mexico", 
+        "sw_latitude": 28.758
+      }, 
+      "id": 142761
+    }
+  ]
+}

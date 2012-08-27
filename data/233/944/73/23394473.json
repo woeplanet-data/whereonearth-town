@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.832, 
+              45.762
+            ], 
+            [
+              -71.832, 
+              45.886
+            ], 
+            [
+              -71.645, 
+              45.886
+            ], 
+            [
+              -71.645, 
+              45.762
+            ], 
+            [
+              -71.832, 
+              45.762
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394473, 
+        "name": "St.-Adrien", 
+        "adjacent_woeid": [
+          281, 
+          1536, 
+          1825, 
+          23394439, 
+          23394640, 
+          23396463, 
+          23396600
+        ], 
+        "ne_latitude": 45.886, 
+        "ne_longitude": -71.645, 
+        "longitude": -71.721, 
+        "parent_woeid": 29375047, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Adrien"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.821, 
+        "sw_longitude": -71.832, 
+        "fullname": "St.-Adrien, Quebec, Asbestos, Canada", 
+        "sw_latitude": 45.762
+      }, 
+      "id": 23394473
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.780, 
+              45.431
+            ], 
+            [
+              4.780, 
+              45.461
+            ], 
+            [
+              4.805, 
+              45.461
+            ], 
+            [
+              4.805, 
+              45.431
+            ], 
+            [
+              4.780, 
+              45.431
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626600, 
+        "name": "St.-Prim", 
+        "adjacent_woeid": [
+          577027, 
+          585764, 
+          585935, 
+          586301, 
+          20219501
+        ], 
+        "ne_latitude": 45.461, 
+        "ne_longitude": 4.805, 
+        "longitude": 4.793, 
+        "parent_woeid": 12671130, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Prim"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.444, 
+        "sw_longitude": 4.780, 
+        "fullname": "St.-Prim, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.431
+      }, 
+      "id": 626600
+    }
+  ]
+}

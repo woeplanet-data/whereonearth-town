@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.910, 
+              21.424
+            ], 
+            [
+              -100.910, 
+              21.442
+            ], 
+            [
+              -100.890, 
+              21.442
+            ], 
+            [
+              -100.890, 
+              21.424
+            ], 
+            [
+              -100.910, 
+              21.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.442, 
+        "name": "El Salitre", 
+        "adjacent_woeid": [
+          137517, 
+          140926, 
+          141645, 
+          142944, 
+          143974
+        ], 
+        "woeid": 122301, 
+        "alias_SPA_V": [
+          "Salitre"
+        ], 
+        "ne_longitude": -100.890, 
+        "longitude": -100.900, 
+        "parent_woeid": 12600017, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.433, 
+        "sw_longitude": -100.910, 
+        "fullname": "El Salitre, Guanajuato, San Diego de la Union, Mexico", 
+        "sw_latitude": 21.424
+      }, 
+      "id": 122301
+    }
+  ]
+}

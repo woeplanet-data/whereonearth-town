@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.101, 
+              48.119
+            ], 
+            [
+              10.101, 
+              48.128
+            ], 
+            [
+              10.115, 
+              48.128
+            ], 
+            [
+              10.115, 
+              48.119
+            ], 
+            [
+              10.101, 
+              48.119
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641941, 
+        "name": "Buchau", 
+        "adjacent_woeid": [
+          666973, 
+          680394, 
+          29353012
+        ], 
+        "ne_latitude": 48.128, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.115, 
+        "longitude": 10.108, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12623745, 
+        "latitude": 48.124, 
+        "sw_longitude": 10.101, 
+        "fullname": "Buchau, Baden-Wurttemberg, Landkreis Biberach, Germany", 
+        "sw_latitude": 48.119
+      }, 
+      "id": 641941
+    }
+  ]
+}

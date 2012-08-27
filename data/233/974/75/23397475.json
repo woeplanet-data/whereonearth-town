@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.771, 
+              44.046
+            ], 
+            [
+              -80.771, 
+              44.064
+            ], 
+            [
+              -80.746, 
+              44.064
+            ], 
+            [
+              -80.746, 
+              44.046
+            ], 
+            [
+              -80.771, 
+              44.046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23397475, 
+        "name": "Holstein", 
+        "adjacent_woeid": [
+          43, 
+          4035, 
+          23397092, 
+          29374181, 
+          29374669
+        ], 
+        "ne_latitude": 44.064, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -80.746, 
+        "longitude": -80.760, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375221, 
+        "latitude": 44.060, 
+        "sw_longitude": -80.771, 
+        "fullname": "Holstein, Ontario, Grey, Canada", 
+        "sw_latitude": 44.046
+      }, 
+      "id": 23397475
+    }
+  ]
+}

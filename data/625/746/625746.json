@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.004, 
+              44.515
+            ], 
+            [
+              1.004, 
+              44.559
+            ], 
+            [
+              1.062, 
+              44.559
+            ], 
+            [
+              1.062, 
+              44.515
+            ], 
+            [
+              1.004, 
+              44.515
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625746, 
+        "name": "St.-Martin-le-Redon", 
+        "adjacent_woeid": [
+          589294, 
+          612405, 
+          621321, 
+          622469, 
+          29331729
+        ], 
+        "ne_latitude": 44.559, 
+        "alias_ENG_V": [
+          "Saint-Martin"
+        ], 
+        "ne_longitude": 1.062, 
+        "longitude": 1.042, 
+        "parent_woeid": 12668174, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Martin-le-Redon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.531, 
+        "sw_longitude": 1.004, 
+        "fullname": "St.-Martin-le-Redon, St-Martin, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.515
+      }, 
+      "id": 625746
+    }
+  ]
+}

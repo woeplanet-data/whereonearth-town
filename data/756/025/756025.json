@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.918, 
+              42.467
+            ], 
+            [
+              0.918, 
+              42.583
+            ], 
+            [
+              1.046, 
+              42.583
+            ], 
+            [
+              1.046, 
+              42.467
+            ], 
+            [
+              0.918, 
+              42.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.583, 
+        "name": "Capdella", 
+        "adjacent_woeid": [
+          758851, 
+          765356, 
+          775673, 
+          20224144, 
+          20228649
+        ], 
+        "woeid": 756025, 
+        "alias_SPA_V": [
+          "Cabdella"
+        ], 
+        "ne_longitude": 1.046, 
+        "longitude": 0.991, 
+        "parent_woeid": 12694109, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:18Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.473, 
+        "sw_longitude": 0.918, 
+        "fullname": "Capdella, Catalonia, Lleida, Spain", 
+        "sw_latitude": 42.467
+      }, 
+      "id": 756025
+    }
+  ]
+}

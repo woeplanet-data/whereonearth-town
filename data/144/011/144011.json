@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.010, 
+              23.691
+            ], 
+            [
+              -99.010, 
+              23.709
+            ], 
+            [
+              -98.990, 
+              23.709
+            ], 
+            [
+              -98.990, 
+              23.691
+            ], 
+            [
+              -99.010, 
+              23.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.709, 
+        "name": "San Juan y el Ranchito", 
+        "adjacent_woeid": [
+          119778, 
+          120203, 
+          126487, 
+          128680, 
+          131027, 
+          143522, 
+          146304
+        ], 
+        "woeid": 144011, 
+        "alias_SPA_V": [
+          "S Juan y el Ranchito"
+        ], 
+        "ne_longitude": -98.990, 
+        "longitude": -99.000, 
+        "parent_woeid": 12601672, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.700, 
+        "sw_longitude": -99.010, 
+        "fullname": "San Juan y el Ranchito, Tamaulipas, Victoria, Mexico", 
+        "sw_latitude": 23.691
+      }, 
+      "id": 144011
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.033, 
+              47.366
+            ], 
+            [
+              4.033, 
+              47.396
+            ], 
+            [
+              4.061, 
+              47.396
+            ], 
+            [
+              4.061, 
+              47.366
+            ], 
+            [
+              4.033, 
+              47.366
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625250, 
+        "name": "St.-L\u00e9ger-Vauban", 
+        "adjacent_woeid": [
+          578890, 
+          582470, 
+          595657, 
+          622776, 
+          622894, 
+          624292, 
+          632235, 
+          20216478, 
+          20216488
+        ], 
+        "ne_latitude": 47.396, 
+        "ne_longitude": 4.061, 
+        "longitude": 4.043, 
+        "parent_woeid": 20075247, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-L\u00e9ger-Vauban"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.386, 
+        "sw_longitude": 4.033, 
+        "fullname": "St.-L\u00e9ger-Vauban, Burgundy, Yonne, France", 
+        "alias_FRE_S": [
+          "St-Leger-Vauban"
+        ], 
+        "sw_latitude": 47.366
+      }, 
+      "id": 625250
+    }
+  ]
+}

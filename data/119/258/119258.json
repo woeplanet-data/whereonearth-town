@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.728, 
+              17.054
+            ], 
+            [
+              -92.728, 
+              17.067
+            ], 
+            [
+              -92.716, 
+              17.067
+            ], 
+            [
+              -92.716, 
+              17.054
+            ], 
+            [
+              -92.728, 
+              17.054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.067, 
+        "name": "El Bosque", 
+        "adjacent_woeid": [
+          115562, 
+          125940, 
+          136957, 
+          146008, 
+          147033, 
+          26804430
+        ], 
+        "woeid": 119258, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -92.716, 
+        "longitude": -92.722, 
+        "parent_woeid": 12599737, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.061, 
+        "sw_longitude": -92.728, 
+        "fullname": "El Bosque, Chiapas, El Bosque, Mexico", 
+        "sw_latitude": 17.054
+      }, 
+      "id": 119258
+    }
+  ]
+}

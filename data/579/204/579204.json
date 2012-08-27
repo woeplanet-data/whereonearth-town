@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.206, 
+              43.656
+            ], 
+            [
+              0.206, 
+              43.717
+            ], 
+            [
+              0.269, 
+              43.717
+            ], 
+            [
+              0.269, 
+              43.656
+            ], 
+            [
+              0.206, 
+              43.656
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579204, 
+        "name": "Belmont", 
+        "adjacent_woeid": [
+          583327, 
+          583501, 
+          609001, 
+          617998, 
+          619946, 
+          629513
+        ], 
+        "ne_latitude": 43.717, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.269, 
+        "longitude": 0.238, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12656749, 
+        "latitude": 43.688, 
+        "sw_longitude": 0.206, 
+        "fullname": "Belmont, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.656
+      }, 
+      "id": 579204
+    }
+  ]
+}

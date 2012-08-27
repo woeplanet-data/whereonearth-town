@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.695, 
+              44.565
+            ], 
+            [
+              0.695, 
+              44.574
+            ], 
+            [
+              0.707, 
+              44.574
+            ], 
+            [
+              0.707, 
+              44.565
+            ], 
+            [
+              0.695, 
+              44.565
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627307, 
+        "name": "St.-Vivien", 
+        "adjacent_woeid": [
+          580974, 
+          601750, 
+          608737, 
+          612325, 
+          623965, 
+          20197718, 
+          29331753
+        ], 
+        "ne_latitude": 44.574, 
+        "ne_longitude": 0.707, 
+        "longitude": 0.701, 
+        "parent_woeid": 12639389, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vivien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.570, 
+        "sw_longitude": 0.695, 
+        "fullname": "St.-Vivien, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.565
+      }, 
+      "id": 627307
+    }
+  ]
+}

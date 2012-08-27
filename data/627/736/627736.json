@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.765, 
+              44.105
+            ], 
+            [
+              0.765, 
+              44.143
+            ], 
+            [
+              0.806, 
+              44.143
+            ], 
+            [
+              0.806, 
+              44.105
+            ], 
+            [
+              0.765, 
+              44.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627736, 
+        "name": "St.-Sixte", 
+        "adjacent_woeid": [
+          583383, 
+          589018, 
+          589278, 
+          626077, 
+          626792
+        ], 
+        "ne_latitude": 44.143, 
+        "ne_longitude": 0.806, 
+        "longitude": 0.783, 
+        "parent_woeid": 12653432, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sixte"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.129, 
+        "sw_longitude": 0.765, 
+        "fullname": "St.-Sixte, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.105
+      }, 
+      "id": 627736
+    }
+  ]
+}

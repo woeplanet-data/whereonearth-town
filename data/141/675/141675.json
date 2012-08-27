@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.060, 
+              20.441
+            ], 
+            [
+              -98.060, 
+              20.459
+            ], 
+            [
+              -98.040, 
+              20.459
+            ], 
+            [
+              -98.040, 
+              20.441
+            ], 
+            [
+              -98.060, 
+              20.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.459, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          112633, 
+          142754, 
+          146232, 
+          149680
+        ], 
+        "woeid": 141675, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -98.040, 
+        "longitude": -98.050, 
+        "parent_woeid": 12600136, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.450, 
+        "sw_longitude": -98.060, 
+        "fullname": "San Antonio, Hidalgo, Huehuetla, Mexico", 
+        "sw_latitude": 20.441
+      }, 
+      "id": 141675
+    }
+  ]
+}

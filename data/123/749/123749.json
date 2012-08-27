@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.976, 
+              19.374
+            ], 
+            [
+              -104.976, 
+              19.392
+            ], 
+            [
+              -104.957, 
+              19.392
+            ], 
+            [
+              -104.957, 
+              19.374
+            ], 
+            [
+              -104.976, 
+              19.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123749, 
+        "name": "Francisco Villa", 
+        "adjacent_woeid": [
+          112252, 
+          113376, 
+          115590, 
+          123157
+        ], 
+        "ne_latitude": 19.392, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -104.957, 
+        "longitude": -104.967, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "parent_woeid": 12600250, 
+        "latitude": 19.383, 
+        "sw_longitude": -104.976, 
+        "fullname": "Francisco Villa, Jalisco, La Huerta, Mexico", 
+        "sw_latitude": 19.374
+      }, 
+      "id": 123749
+    }
+  ]
+}

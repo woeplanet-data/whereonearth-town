@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.921, 
+              47.171
+            ], 
+            [
+              4.921, 
+              47.211
+            ], 
+            [
+              4.981, 
+              47.211
+            ], 
+            [
+              4.981, 
+              47.171
+            ], 
+            [
+              4.921, 
+              47.171
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584034, 
+        "name": "Chambolle-Musigny", 
+        "adjacent_woeid": [
+          588258, 
+          591025, 
+          613228, 
+          619251, 
+          632646, 
+          29332438
+        ], 
+        "ne_latitude": 47.211, 
+        "ne_longitude": 4.981, 
+        "longitude": 4.952, 
+        "parent_woeid": 12640838, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chambolle"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.185, 
+        "sw_longitude": 4.921, 
+        "fullname": "Chambolle-Musigny, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.171
+      }, 
+      "id": 584034
+    }
+  ]
+}

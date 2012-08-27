@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.936, 
+              48.979
+            ], 
+            [
+              11.936, 
+              48.989
+            ], 
+            [
+              11.949, 
+              48.989
+            ], 
+            [
+              11.949, 
+              48.979
+            ], 
+            [
+              11.936, 
+              48.979
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 667802, 
+        "name": "Kohlstadt", 
+        "adjacent_woeid": [
+          657900, 
+          669432, 
+          702263, 
+          702307, 
+          20156064
+        ], 
+        "ne_latitude": 48.989, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.949, 
+        "longitude": 11.943, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:06Z", 
+        "parent_woeid": 12623132, 
+        "latitude": 48.984, 
+        "sw_longitude": 11.936, 
+        "fullname": "Kohlstadt, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.979
+      }, 
+      "id": 667802
+    }
+  ]
+}

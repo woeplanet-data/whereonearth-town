@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.142, 
+              45.996
+            ], 
+            [
+              -73.142, 
+              46.050
+            ], 
+            [
+              -73.081, 
+              46.050
+            ], 
+            [
+              -73.081, 
+              45.996
+            ], 
+            [
+              -73.142, 
+              45.996
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3500, 
+        "name": "Sorel", 
+        "adjacent_woeid": [
+          1539, 
+          1821, 
+          23396510, 
+          23396545, 
+          23396602, 
+          29374318
+        ], 
+        "ne_latitude": 46.050, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -73.081, 
+        "longitude": -73.113, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "parent_woeid": 29375092, 
+        "latitude": 46.042, 
+        "sw_longitude": -73.142, 
+        "fullname": "Sorel, Quebec, Le Bas-Richelieu, Canada", 
+        "sw_latitude": 45.996
+      }, 
+      "id": 3500
+    }
+  ]
+}

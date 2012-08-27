@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.364, 
+              45.254
+            ], 
+            [
+              1.364, 
+              45.297
+            ], 
+            [
+              1.404, 
+              45.297
+            ], 
+            [
+              1.404, 
+              45.254
+            ], 
+            [
+              1.364, 
+              45.254
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623666, 
+        "name": "St.-Cyr-la-Roche", 
+        "adjacent_woeid": [
+          623311, 
+          626996, 
+          630137, 
+          631347
+        ], 
+        "ne_latitude": 45.297, 
+        "alias_ENG_V": [
+          "Saint Cyr"
+        ], 
+        "ne_longitude": 1.404, 
+        "longitude": 1.391, 
+        "parent_woeid": 12669975, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Cyr-la-Roche"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.272, 
+        "sw_longitude": 1.364, 
+        "fullname": "St.-Cyr-la-Roche, St Cyr, Limousin, Correze, France", 
+        "sw_latitude": 45.254
+      }, 
+      "id": 623666
+    }
+  ]
+}

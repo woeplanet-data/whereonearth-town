@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.795, 
+              48.818
+            ], 
+            [
+              10.795, 
+              48.853
+            ], 
+            [
+              10.830, 
+              48.853
+            ], 
+            [
+              10.830, 
+              48.818
+            ], 
+            [
+              10.795, 
+              48.818
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650011, 
+        "name": "Flotzheim", 
+        "adjacent_woeid": [
+          656408, 
+          663811, 
+          668829, 
+          680578
+        ], 
+        "ne_latitude": 48.853, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.830, 
+        "longitude": 10.817, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12635008, 
+        "latitude": 48.839, 
+        "sw_longitude": 10.795, 
+        "fullname": "Flotzheim, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.818
+      }, 
+      "id": 650011
+    }
+  ]
+}

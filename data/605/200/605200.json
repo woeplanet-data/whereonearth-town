@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.506, 
+              48.745
+            ], 
+            [
+              5.506, 
+              48.802
+            ], 
+            [
+              5.567, 
+              48.802
+            ], 
+            [
+              5.567, 
+              48.745
+            ], 
+            [
+              5.506, 
+              48.745
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605200, 
+        "name": "L\u00e9rouville", 
+        "adjacent_woeid": [
+          580588, 
+          585936, 
+          609465, 
+          617403, 
+          629738, 
+          631351
+        ], 
+        "ne_latitude": 48.802, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.567, 
+        "longitude": 5.543, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "parent_woeid": 12665264, 
+        "latitude": 48.792, 
+        "sw_longitude": 5.506, 
+        "fullname": "L\u00e9rouville, Lorraine, Meuse, France", 
+        "alias_FRE_S": [
+          "Lerouville"
+        ], 
+        "sw_latitude": 48.745
+      }, 
+      "id": 605200
+    }
+  ]
+}

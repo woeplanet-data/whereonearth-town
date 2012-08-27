@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.001, 
+              47.601
+            ], 
+            [
+              10.001, 
+              47.610
+            ], 
+            [
+              10.014, 
+              47.610
+            ], 
+            [
+              10.014, 
+              47.601
+            ], 
+            [
+              10.001, 
+              47.601
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657231, 
+        "name": "Harbatshofen", 
+        "adjacent_woeid": [
+          636763, 
+          655528, 
+          682425, 
+          692816
+        ], 
+        "ne_latitude": 47.610, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.014, 
+        "longitude": 10.007, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12634882, 
+        "latitude": 47.605, 
+        "sw_longitude": 10.001, 
+        "fullname": "Harbatshofen, Bavaria, Landkreis Lindau, Germany", 
+        "sw_latitude": 47.601
+      }, 
+      "id": 657231
+    }
+  ]
+}

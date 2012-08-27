@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.380, 
+              50.561
+            ], 
+            [
+              3.380, 
+              50.579
+            ], 
+            [
+              3.408, 
+              50.579
+            ], 
+            [
+              3.408, 
+              50.561
+            ], 
+            [
+              3.380, 
+              50.561
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977267, 
+        "name": "St.-Maur", 
+        "adjacent_woeid": [
+          968143, 
+          968327, 
+          969409, 
+          970460, 
+          974229, 
+          978853
+        ], 
+        "ne_latitude": 50.579, 
+        "ne_longitude": 3.408, 
+        "longitude": 3.394, 
+        "parent_woeid": 12602375, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Maur"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.570, 
+        "sw_longitude": 3.380, 
+        "fullname": "St.-Maur, Hainault, Tournai, Belgium", 
+        "sw_latitude": 50.561
+      }, 
+      "id": 977267
+    }
+  ]
+}

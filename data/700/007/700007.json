@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.133, 
+              50.125
+            ], 
+            [
+              11.133, 
+              50.164
+            ], 
+            [
+              11.151, 
+              50.164
+            ], 
+            [
+              11.151, 
+              50.125
+            ], 
+            [
+              11.133, 
+              50.125
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700007, 
+        "name": "Trieb", 
+        "adjacent_woeid": [
+          635154, 
+          643968, 
+          675395, 
+          682263, 
+          694008, 
+          20156422
+        ], 
+        "ne_latitude": 50.164, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.151, 
+        "longitude": 11.139, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:35Z", 
+        "parent_woeid": 12635366, 
+        "latitude": 50.147, 
+        "sw_longitude": 11.133, 
+        "fullname": "Trieb, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.125
+      }, 
+      "id": 700007
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.100, 
+              49.116
+            ], 
+            [
+              5.100, 
+              49.180
+            ], 
+            [
+              5.136, 
+              49.180
+            ], 
+            [
+              5.136, 
+              49.116
+            ], 
+            [
+              5.100, 
+              49.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615723, 
+        "name": "Parois", 
+        "adjacent_woeid": [
+          577105, 
+          581522, 
+          618968, 
+          632716
+        ], 
+        "ne_latitude": 49.180, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.136, 
+        "longitude": 5.117, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "parent_woeid": 12655923, 
+        "latitude": 49.138, 
+        "sw_longitude": 5.100, 
+        "fullname": "Parois, Lorraine, Meuse, France", 
+        "sw_latitude": 49.116
+      }, 
+      "id": 615723
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.580, 
+              19.154
+            ], 
+            [
+              -99.580, 
+              19.174
+            ], 
+            [
+              -99.554, 
+              19.174
+            ], 
+            [
+              -99.554, 
+              19.154
+            ], 
+            [
+              -99.580, 
+              19.154
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.174, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          114764, 
+          114766, 
+          144451, 
+          149195, 
+          55901019, 
+          55901020
+        ], 
+        "woeid": 141700, 
+        "alias_SPA_V": [
+          "S. Antonio la Isla"
+        ], 
+        "ne_longitude": -99.554, 
+        "longitude": -99.563, 
+        "parent_woeid": 12600391, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.165, 
+        "sw_longitude": -99.580, 
+        "fullname": "San Antonio, Mexico, San Antonio la Isla, Mexico", 
+        "sw_latitude": 19.154
+      }, 
+      "id": 141700
+    }
+  ]
+}

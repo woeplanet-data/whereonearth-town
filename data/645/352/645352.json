@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.306, 
+              49.616
+            ], 
+            [
+              10.306, 
+              49.662
+            ], 
+            [
+              10.344, 
+              49.662
+            ], 
+            [
+              10.344, 
+              49.616
+            ], 
+            [
+              10.306, 
+              49.616
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645352, 
+        "name": "Dornheim", 
+        "adjacent_woeid": [
+          649835, 
+          658893, 
+          668661, 
+          675949, 
+          677479
+        ], 
+        "ne_latitude": 49.662, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.344, 
+        "longitude": 10.330, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12635571, 
+        "latitude": 49.654, 
+        "sw_longitude": 10.306, 
+        "fullname": "Dornheim, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.616
+      }, 
+      "id": 645352
+    }
+  ]
+}

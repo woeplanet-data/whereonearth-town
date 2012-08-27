@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.293, 
+              39.827
+            ], 
+            [
+              -3.293, 
+              40.086
+            ], 
+            [
+              -3.101, 
+              40.086
+            ], 
+            [
+              -3.101, 
+              39.827
+            ], 
+            [
+              -3.293, 
+              39.827
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.086, 
+        "name": "Santa Cruz de la Zarza", 
+        "adjacent_woeid": [
+          754120, 
+          755288, 
+          758078, 
+          761052, 
+          761207, 
+          762274, 
+          775214, 
+          777894, 
+          778397, 
+          778531, 
+          778610, 
+          779091, 
+          20220442, 
+          20221793, 
+          29370767
+        ], 
+        "woeid": 773680, 
+        "alias_SPA_V": [
+          "Sta. Cruz de la Zarza"
+        ], 
+        "ne_longitude": -3.101, 
+        "longitude": -3.191, 
+        "parent_woeid": 12691077, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.977, 
+        "sw_longitude": -3.293, 
+        "fullname": "Santa Cruz de la Zarza, Castille la Mancha, Toledo, Spain", 
+        "sw_latitude": 39.827
+      }, 
+      "id": 773680
+    }
+  ]
+}

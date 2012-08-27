@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.967, 
+              43.290
+            ], 
+            [
+              0.967, 
+              43.312
+            ], 
+            [
+              1.006, 
+              43.312
+            ], 
+            [
+              1.006, 
+              43.290
+            ], 
+            [
+              0.967, 
+              43.290
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592275, 
+        "name": "Fustignac", 
+        "adjacent_woeid": [
+          583275, 
+          609052, 
+          612502, 
+          612973
+        ], 
+        "ne_latitude": 43.312, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.006, 
+        "longitude": 0.985, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12661883, 
+        "latitude": 43.297, 
+        "sw_longitude": 0.967, 
+        "fullname": "Fustignac, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.290
+      }, 
+      "id": 592275
+    }
+  ]
+}

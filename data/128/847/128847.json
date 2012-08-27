@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.260, 
+              28.458
+            ], 
+            [
+              -103.260, 
+              28.476
+            ], 
+            [
+              -103.240, 
+              28.476
+            ], 
+            [
+              -103.240, 
+              28.458
+            ], 
+            [
+              -103.260, 
+              28.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.476, 
+        "name": "La Presa", 
+        "adjacent_woeid": [
+          111039, 
+          118560, 
+          118661, 
+          118784, 
+          127545, 
+          142430
+        ], 
+        "woeid": 128847, 
+        "alias_SPA_V": [
+          "Presa"
+        ], 
+        "ne_longitude": -103.240, 
+        "longitude": -103.250, 
+        "parent_woeid": 12599908, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.467, 
+        "sw_longitude": -103.260, 
+        "fullname": "La Presa, Coahuila de Zaragoza, Ocampo, Mexico", 
+        "sw_latitude": 28.458
+      }, 
+      "id": 128847
+    }
+  ]
+}

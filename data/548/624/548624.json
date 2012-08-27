@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.306, 
+              47.447
+            ], 
+            [
+              15.306, 
+              47.465
+            ], 
+            [
+              15.332, 
+              47.465
+            ], 
+            [
+              15.332, 
+              47.447
+            ], 
+            [
+              15.306, 
+              47.447
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 548624, 
+        "name": "Hafendorf", 
+        "adjacent_woeid": [
+          548211, 
+          548963, 
+          20095433, 
+          20096929
+        ], 
+        "ne_latitude": 47.465, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.332, 
+        "longitude": 15.319, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:13Z", 
+        "parent_woeid": 12674852, 
+        "latitude": 47.456, 
+        "sw_longitude": 15.306, 
+        "fullname": "Hafendorf, Styria, Bruck an der Mur, Austria", 
+        "sw_latitude": 47.447
+      }, 
+      "id": 548624
+    }
+  ]
+}

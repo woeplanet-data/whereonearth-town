@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.336, 
+              47.854
+            ], 
+            [
+              4.336, 
+              47.882
+            ], 
+            [
+              4.382, 
+              47.882
+            ], 
+            [
+              4.382, 
+              47.854
+            ], 
+            [
+              4.336, 
+              47.854
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593820, 
+        "name": "Griselles", 
+        "adjacent_woeid": [
+          584426, 
+          609800, 
+          614276, 
+          631648
+        ], 
+        "ne_latitude": 47.882, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.382, 
+        "longitude": 4.354, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12644842, 
+        "latitude": 47.869, 
+        "sw_longitude": 4.336, 
+        "fullname": "Griselles, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.854
+      }, 
+      "id": 593820
+    }
+  ]
+}

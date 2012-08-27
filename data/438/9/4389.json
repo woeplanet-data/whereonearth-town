@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.024, 
+              45.533
+            ], 
+            [
+              -74.024, 
+              45.624
+            ], 
+            [
+              -73.843, 
+              45.624
+            ], 
+            [
+              -73.843, 
+              45.533
+            ], 
+            [
+              -74.024, 
+              45.533
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 4389, 
+        "name": "St.-Eustache", 
+        "adjacent_woeid": [
+          23396679, 
+          23396690, 
+          29374078
+        ], 
+        "ne_latitude": 45.624, 
+        "ne_longitude": -73.843, 
+        "longitude": -73.889, 
+        "parent_woeid": 29375061, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainteustache"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.558, 
+        "sw_longitude": -74.024, 
+        "fullname": "St.-Eustache, Quebec, Deux-Montagnes, Canada", 
+        "sw_latitude": 45.533
+      }, 
+      "id": 4389
+    }
+  ]
+}

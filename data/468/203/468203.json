@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.640, 
+              8.793
+            ], 
+            [
+              -64.640, 
+              8.807
+            ], 
+            [
+              -64.626, 
+              8.807
+            ], 
+            [
+              -64.626, 
+              8.793
+            ], 
+            [
+              -64.640, 
+              8.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.807, 
+        "name": "El Pao", 
+        "adjacent_woeid": [
+          395276, 
+          395576, 
+          395679, 
+          468156
+        ], 
+        "woeid": 468203, 
+        "alias_SPA_V": [
+          "El Pao de Barcelona"
+        ], 
+        "ne_longitude": -64.626, 
+        "longitude": -64.633, 
+        "parent_woeid": 26805712, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.800, 
+        "sw_longitude": -64.640, 
+        "fullname": "El Pao, Anzoategui, Francisco de Miranda, Venezuela", 
+        "sw_latitude": 8.793
+      }, 
+      "id": 468203
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.287, 
+              44.917
+            ], 
+            [
+              4.287, 
+              44.926
+            ], 
+            [
+              4.300, 
+              44.926
+            ], 
+            [
+              4.300, 
+              44.917
+            ], 
+            [
+              4.287, 
+              44.917
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580375, 
+        "name": "Bois-Lantal", 
+        "adjacent_woeid": [
+          576432, 
+          580801, 
+          584404, 
+          599785, 
+          623557
+        ], 
+        "ne_latitude": 44.926, 
+        "ne_longitude": 4.300, 
+        "longitude": 4.293, 
+        "parent_woeid": 22755353, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bois Lantal"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.922, 
+        "sw_longitude": 4.287, 
+        "fullname": "Bois-Lantal, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 44.917
+      }, 
+      "id": 580375
+    }
+  ]
+}

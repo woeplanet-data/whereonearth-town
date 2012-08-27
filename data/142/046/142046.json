@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.060, 
+              19.791
+            ], 
+            [
+              -104.060, 
+              19.809
+            ], 
+            [
+              -104.040, 
+              19.809
+            ], 
+            [
+              -104.040, 
+              19.791
+            ], 
+            [
+              -104.060, 
+              19.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.809, 
+        "name": "San Buenaventura", 
+        "adjacent_woeid": [
+          111998, 
+          114284, 
+          122154, 
+          131899, 
+          135752, 
+          143861
+        ], 
+        "woeid": 142046, 
+        "alias_SPA_V": [
+          "S Buenaventura"
+        ], 
+        "ne_longitude": -104.040, 
+        "longitude": -104.050, 
+        "parent_woeid": 12600230, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.800, 
+        "sw_longitude": -104.060, 
+        "fullname": "San Buenaventura, Jalisco, El Limon, Mexico", 
+        "sw_latitude": 19.791
+      }, 
+      "id": 142046
+    }
+  ]
+}

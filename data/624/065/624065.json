@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.105, 
+              49.201
+            ], 
+            [
+              -1.105, 
+              49.248
+            ], 
+            [
+              -1.079, 
+              49.248
+            ], 
+            [
+              -1.079, 
+              49.201
+            ], 
+            [
+              -1.105, 
+              49.201
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624065, 
+        "name": "St.-Fromond", 
+        "adjacent_woeid": [
+          575585, 
+          583467, 
+          602833, 
+          614106, 
+          624747
+        ], 
+        "ne_latitude": 49.248, 
+        "alias_ENG_V": [
+          "Pont du Saint-Fromond"
+        ], 
+        "ne_longitude": -1.079, 
+        "longitude": -1.090, 
+        "parent_woeid": 12650812, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Fromond"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.221, 
+        "sw_longitude": -1.105, 
+        "fullname": "St.-Fromond, Pont du St-Fromond, Basse-Normandie, Manche, France", 
+        "sw_latitude": 49.201
+      }, 
+      "id": 624065
+    }
+  ]
+}

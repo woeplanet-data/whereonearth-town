@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.253, 
+              50.853
+            ], 
+            [
+              5.253, 
+              50.879
+            ], 
+            [
+              5.298, 
+              50.879
+            ], 
+            [
+              5.298, 
+              50.853
+            ], 
+            [
+              5.253, 
+              50.853
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 20098362, 
+        "name": "St.-Joris", 
+        "adjacent_woeid": [
+          972278, 
+          972305, 
+          978042, 
+          979148, 
+          20098377
+        ], 
+        "ne_latitude": 50.879, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.298, 
+        "longitude": 5.271, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:27Z", 
+        "alias_DUT_V": [
+          "St-Joris"
+        ], 
+        "parent_woeid": 12602374, 
+        "latitude": 50.863, 
+        "sw_longitude": 5.253, 
+        "fullname": "St.-Joris, Limburg, Tongeren, Belgium", 
+        "sw_latitude": 50.853
+      }, 
+      "id": 20098362
+    }
+  ]
+}

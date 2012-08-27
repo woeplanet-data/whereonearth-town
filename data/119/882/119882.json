@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.260, 
+              20.558
+            ], 
+            [
+              -100.260, 
+              20.576
+            ], 
+            [
+              -100.240, 
+              20.576
+            ], 
+            [
+              -100.240, 
+              20.558
+            ], 
+            [
+              -100.260, 
+              20.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.576, 
+        "name": "El Colorado", 
+        "adjacent_woeid": [
+          114138, 
+          117582, 
+          120001, 
+          135703, 
+          145966, 
+          146965, 
+          55889225, 
+          55890230, 
+          55894450, 
+          55894849, 
+          55895995
+        ], 
+        "woeid": 119882, 
+        "alias_SPA_V": [
+          "Colorado"
+        ], 
+        "ne_longitude": -100.240, 
+        "longitude": -100.250, 
+        "parent_woeid": 12601449, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.567, 
+        "sw_longitude": -100.260, 
+        "fullname": "El Colorado, Queretaro de Arteaga, El Marques, Mexico", 
+        "sw_latitude": 20.558
+      }, 
+      "id": 119882
+    }
+  ]
+}

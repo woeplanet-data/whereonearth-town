@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.403, 
+              30.741
+            ], 
+            [
+              -108.403, 
+              30.759
+            ], 
+            [
+              -108.382, 
+              30.759
+            ], 
+            [
+              -108.382, 
+              30.741
+            ], 
+            [
+              -108.403, 
+              30.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 113901, 
+        "name": "Buenos Aires", 
+        "adjacent_woeid": [
+          115049, 
+          116883, 
+          123634, 
+          130972
+        ], 
+        "ne_latitude": 30.759, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -108.382, 
+        "longitude": -108.393, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "parent_woeid": 12599853, 
+        "latitude": 30.750, 
+        "sw_longitude": -108.403, 
+        "fullname": "Buenos Aires, Chihuahua, Janos, Mexico", 
+        "sw_latitude": 30.741
+      }, 
+      "id": 113901
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.780, 
+              10.453
+            ], 
+            [
+              -85.780, 
+              10.467
+            ], 
+            [
+              -85.766, 
+              10.467
+            ], 
+            [
+              -85.766, 
+              10.453
+            ], 
+            [
+              -85.780, 
+              10.453
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.467, 
+        "name": "Potrero", 
+        "adjacent_woeid": [
+          58873, 
+          58358, 
+          59950, 
+          58701
+        ], 
+        "woeid": 59106, 
+        "alias_SPA_V": [
+          "Pto Potrero"
+        ], 
+        "ne_longitude": -85.766, 
+        "longitude": -85.773, 
+        "parent_woeid": 26809296, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.460, 
+        "sw_longitude": -85.780, 
+        "fullname": "Potrero, Guanacaste, Santa Cruz, Costa Rica", 
+        "sw_latitude": 10.453
+      }, 
+      "id": 59106
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.003, 
+              47.008
+            ], 
+            [
+              16.003, 
+              47.026
+            ], 
+            [
+              16.030, 
+              47.026
+            ], 
+            [
+              16.030, 
+              47.008
+            ], 
+            [
+              16.003, 
+              47.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 548272, 
+        "name": "Ebersdorf", 
+        "adjacent_woeid": [
+          548657, 
+          549375, 
+          549683, 
+          550052
+        ], 
+        "ne_latitude": 47.026, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.030, 
+        "longitude": 16.017, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:33:55Z", 
+        "parent_woeid": 12674863, 
+        "latitude": 47.017, 
+        "sw_longitude": 16.003, 
+        "fullname": "Ebersdorf, Styria, F\u00fcrstenfeld, Austria", 
+        "sw_latitude": 47.008
+      }, 
+      "id": 548272
+    }
+  ]
+}

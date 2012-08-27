@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.276, 
+              18.708
+            ], 
+            [
+              -100.276, 
+              18.726
+            ], 
+            [
+              -100.257, 
+              18.726
+            ], 
+            [
+              -100.257, 
+              18.708
+            ], 
+            [
+              -100.276, 
+              18.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.726, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          110966, 
+          111521, 
+          122768, 
+          135600, 
+          144570
+        ], 
+        "woeid": 144330, 
+        "alias_SPA_V": [
+          "S Marcos"
+        ], 
+        "ne_longitude": -100.257, 
+        "longitude": -100.267, 
+        "parent_woeid": 12600325, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.717, 
+        "sw_longitude": -100.276, 
+        "fullname": "San Marcos, Mexico, Amatepec, Mexico", 
+        "sw_latitude": 18.708
+      }, 
+      "id": 144330
+    }
+  ]
+}

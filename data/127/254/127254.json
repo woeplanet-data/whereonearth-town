@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.793, 
+              25.224
+            ], 
+            [
+              -99.793, 
+              25.242
+            ], 
+            [
+              -99.773, 
+              25.242
+            ], 
+            [
+              -99.773, 
+              25.224
+            ], 
+            [
+              -99.793, 
+              25.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.242, 
+        "name": "La Escondida", 
+        "adjacent_woeid": [
+          113742, 
+          115957, 
+          123470, 
+          128078, 
+          128915, 
+          131574
+        ], 
+        "woeid": 127254, 
+        "alias_SPA_V": [
+          "Escondida"
+        ], 
+        "ne_longitude": -99.773, 
+        "longitude": -99.783, 
+        "parent_woeid": 12600644, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.233, 
+        "sw_longitude": -99.793, 
+        "fullname": "La Escondida, Nuevo Leon, Montemorelos, Mexico", 
+        "sw_latitude": 25.224
+      }, 
+      "id": 127254
+    }
+  ]
+}

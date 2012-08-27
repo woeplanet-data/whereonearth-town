@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.627, 
+              28.908
+            ], 
+            [
+              -111.627, 
+              28.926
+            ], 
+            [
+              -111.606, 
+              28.926
+            ], 
+            [
+              -111.606, 
+              28.908
+            ], 
+            [
+              -111.627, 
+              28.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.926, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          129659, 
+          131365, 
+          133595, 
+          141507, 
+          142848, 
+          146078, 
+          146443
+        ], 
+        "woeid": 144468, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -111.606, 
+        "longitude": -111.617, 
+        "parent_woeid": 12601574, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.917, 
+        "sw_longitude": -111.627, 
+        "fullname": "San Miguel, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 28.908
+      }, 
+      "id": 144468
+    }
+  ]
+}

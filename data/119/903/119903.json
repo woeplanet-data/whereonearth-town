@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.775, 
+              30.266
+            ], 
+            [
+              -104.775, 
+              30.284
+            ], 
+            [
+              -104.754, 
+              30.284
+            ], 
+            [
+              -104.754, 
+              30.266
+            ], 
+            [
+              -104.775, 
+              30.266
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.284, 
+        "name": "El Comedor", 
+        "adjacent_woeid": [
+          120053, 
+          131871, 
+          141792, 
+          141849
+        ], 
+        "woeid": 119903, 
+        "alias_SPA_V": [
+          "Rancho El Comedor"
+        ], 
+        "ne_longitude": -104.754, 
+        "longitude": -104.765, 
+        "parent_woeid": 12599871, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.275, 
+        "sw_longitude": -104.775, 
+        "fullname": "El Comedor, Chihuahua, Ojinaga, Mexico", 
+        "sw_latitude": 30.266
+      }, 
+      "id": 119903
+    }
+  ]
+}

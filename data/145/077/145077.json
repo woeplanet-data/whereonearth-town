@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.480, 
+              16.040
+            ], 
+            [
+              -96.480, 
+              16.058
+            ], 
+            [
+              -96.461, 
+              16.058
+            ], 
+            [
+              -96.461, 
+              16.040
+            ], 
+            [
+              -96.480, 
+              16.040
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.058, 
+        "name": "San Pedro el Alto", 
+        "adjacent_woeid": [
+          117301, 
+          141375, 
+          143003, 
+          144304, 
+          144444, 
+          144677, 
+          147874
+        ], 
+        "woeid": 145077, 
+        "alias_SPA_V": [
+          "S. Pedro el Alto"
+        ], 
+        "ne_longitude": -96.461, 
+        "longitude": -96.470, 
+        "parent_woeid": 12600964, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.049, 
+        "sw_longitude": -96.480, 
+        "fullname": "San Pedro el Alto, Oaxaca, San Pedro el Alto, Mexico", 
+        "sw_latitude": 16.040
+      }, 
+      "id": 145077
+    }
+  ]
+}

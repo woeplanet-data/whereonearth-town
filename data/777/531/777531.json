@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.769, 
+              41.211
+            ], 
+            [
+              0.769, 
+              41.250
+            ], 
+            [
+              0.801, 
+              41.250
+            ], 
+            [
+              0.801, 
+              41.211
+            ], 
+            [
+              0.769, 
+              41.211
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.250, 
+        "name": "Vilella Alta", 
+        "adjacent_woeid": [
+          755210, 
+          761817, 
+          775878, 
+          777532, 
+          779354, 
+          20222910
+        ], 
+        "woeid": 777531, 
+        "alias_SPA_V": [
+          "La Vilella Alta"
+        ], 
+        "ne_longitude": 0.801, 
+        "longitude": 0.780, 
+        "parent_woeid": 12694314, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.226, 
+        "sw_longitude": 0.769, 
+        "fullname": "Vilella Alta, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.211
+      }, 
+      "id": 777531
+    }
+  ]
+}

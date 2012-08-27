@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.177, 
+              15.887
+            ], 
+            [
+              -92.177, 
+              15.905
+            ], 
+            [
+              -92.158, 
+              15.905
+            ], 
+            [
+              -92.158, 
+              15.887
+            ], 
+            [
+              -92.177, 
+              15.887
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.905, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          115917, 
+          121788, 
+          123616, 
+          134827, 
+          136902, 
+          141775, 
+          147606
+        ], 
+        "woeid": 146868, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -92.158, 
+        "longitude": -92.167, 
+        "parent_woeid": 12599741, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.896, 
+        "sw_longitude": -92.177, 
+        "fullname": "Santa Rosa, Chiapas, Frontera Comalapa, Mexico", 
+        "sw_latitude": 15.887
+      }, 
+      "id": 146868
+    }
+  ]
+}

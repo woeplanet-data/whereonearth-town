@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.561, 
+              47.739
+            ], 
+            [
+              3.561, 
+              47.779
+            ], 
+            [
+              3.606, 
+              47.779
+            ], 
+            [
+              3.606, 
+              47.739
+            ], 
+            [
+              3.561, 
+              47.739
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630340, 
+        "name": "Vaux", 
+        "adjacent_woeid": [
+          577215, 
+          595786, 
+          597899, 
+          624227, 
+          629895
+        ], 
+        "ne_latitude": 47.779, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.606, 
+        "longitude": 3.590, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12637805, 
+        "latitude": 47.756, 
+        "sw_longitude": 3.561, 
+        "fullname": "Vaux, Burgundy, Yonne, France", 
+        "sw_latitude": 47.739
+      }, 
+      "id": 630340
+    }
+  ]
+}

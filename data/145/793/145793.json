@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.093, 
+              18.141
+            ], 
+            [
+              -95.093, 
+              18.159
+            ], 
+            [
+              -95.074, 
+              18.159
+            ], 
+            [
+              -95.074, 
+              18.141
+            ], 
+            [
+              -95.093, 
+              18.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.159, 
+        "name": "Santa Catalina", 
+        "adjacent_woeid": [
+          125175, 
+          125177, 
+          126689, 
+          138058, 
+          149320
+        ], 
+        "woeid": 145793, 
+        "alias_SPA_V": [
+          "Sta Catalina"
+        ], 
+        "ne_longitude": -95.074, 
+        "longitude": -95.083, 
+        "parent_woeid": 12601791, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.150, 
+        "sw_longitude": -95.093, 
+        "fullname": "Santa Catalina, Veracruz-Llave, Hueyapan de Ocampo, Mexico", 
+        "sw_latitude": 18.141
+      }, 
+      "id": 145793
+    }
+  ]
+}

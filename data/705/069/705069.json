@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.445, 
+              47.758
+            ], 
+            [
+              8.445, 
+              47.796
+            ], 
+            [
+              8.479, 
+              47.796
+            ], 
+            [
+              8.479, 
+              47.758
+            ], 
+            [
+              8.445, 
+              47.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705069, 
+        "name": "Weizen", 
+        "adjacent_woeid": [
+          654253, 
+          670643, 
+          671148, 
+          693598, 
+          23412217
+        ], 
+        "ne_latitude": 47.796, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.479, 
+        "longitude": 8.464, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12623602, 
+        "latitude": 47.779, 
+        "sw_longitude": 8.445, 
+        "fullname": "Weizen, Baden-Wurttemberg, Landkreis Waldshut, Germany", 
+        "sw_latitude": 47.758
+      }, 
+      "id": 705069
+    }
+  ]
+}

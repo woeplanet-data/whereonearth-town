@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.213, 
+              43.348
+            ], 
+            [
+              2.213, 
+              43.373
+            ], 
+            [
+              2.233, 
+              43.373
+            ], 
+            [
+              2.233, 
+              43.348
+            ], 
+            [
+              2.213, 
+              43.348
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623695, 
+        "name": "St.-Denis", 
+        "adjacent_woeid": [
+          576531, 
+          591539, 
+          600737, 
+          612949, 
+          20203241
+        ], 
+        "ne_latitude": 43.373, 
+        "ne_longitude": 2.233, 
+        "longitude": 2.221, 
+        "parent_woeid": 12670336, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Denis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.360, 
+        "sw_longitude": 2.213, 
+        "fullname": "St.-Denis, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 43.348
+      }, 
+      "id": 623695
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.331, 
+              43.383
+            ], 
+            [
+              -0.331, 
+              43.431
+            ], 
+            [
+              -0.278, 
+              43.431
+            ], 
+            [
+              -0.278, 
+              43.383
+            ], 
+            [
+              -0.331, 
+              43.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623028, 
+        "name": "St.-Armou", 
+        "adjacent_woeid": [
+          576232, 
+          576950, 
+          578178, 
+          579395, 
+          601592, 
+          613927, 
+          623397
+        ], 
+        "ne_latitude": 43.431, 
+        "ne_longitude": -0.278, 
+        "longitude": -0.307, 
+        "parent_woeid": 12652189, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Armou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.410, 
+        "sw_longitude": -0.331, 
+        "fullname": "St.-Armou, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.383
+      }, 
+      "id": 623028
+    }
+  ]
+}

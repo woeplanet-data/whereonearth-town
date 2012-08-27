@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.010, 
+              25.758
+            ], 
+            [
+              -100.010, 
+              25.776
+            ], 
+            [
+              -99.990, 
+              25.776
+            ], 
+            [
+              -99.990, 
+              25.758
+            ], 
+            [
+              -100.010, 
+              25.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.776, 
+        "name": "La Arena", 
+        "adjacent_woeid": [
+          118377, 
+          124205, 
+          133621, 
+          141560, 
+          144940, 
+          55891974, 
+          55910124
+        ], 
+        "woeid": 126362, 
+        "alias_SPA_V": [
+          "Arena"
+        ], 
+        "ne_longitude": -99.990, 
+        "longitude": -100.000, 
+        "parent_woeid": 12600647, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.767, 
+        "sw_longitude": -100.010, 
+        "fullname": "La Arena, Nuevo Leon, Pesqueria, Mexico", 
+        "sw_latitude": 25.758
+      }, 
+      "id": 126362
+    }
+  ]
+}

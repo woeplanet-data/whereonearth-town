@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.785, 
+              48.980
+            ], 
+            [
+              0.785, 
+              49.013
+            ], 
+            [
+              0.824, 
+              49.013
+            ], 
+            [
+              0.824, 
+              48.980
+            ], 
+            [
+              0.785, 
+              48.980
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598756, 
+        "name": "La Houssaye", 
+        "adjacent_woeid": [
+          575632, 
+          621535, 
+          20219618, 
+          29330811
+        ], 
+        "ne_latitude": 49.013, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.824, 
+        "longitude": 0.801, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12646376, 
+        "latitude": 48.995, 
+        "sw_longitude": 0.785, 
+        "fullname": "La Houssaye, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.980
+      }, 
+      "id": 598756
+    }
+  ]
+}

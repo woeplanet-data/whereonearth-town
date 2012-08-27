@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.011, 
+              46.947
+            ], 
+            [
+              1.011, 
+              46.983
+            ], 
+            [
+              1.038, 
+              46.983
+            ], 
+            [
+              1.038, 
+              46.947
+            ], 
+            [
+              1.011, 
+              46.947
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624037, 
+        "name": "St.-Flovier", 
+        "adjacent_woeid": [
+          579712, 
+          584726, 
+          586219, 
+          591099, 
+          597299, 
+          614792, 
+          630806
+        ], 
+        "ne_latitude": 46.983, 
+        "ne_longitude": 1.038, 
+        "longitude": 1.027, 
+        "parent_woeid": 12652465, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Flovier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.968, 
+        "sw_longitude": 1.011, 
+        "fullname": "St.-Flovier, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 46.947
+      }, 
+      "id": 624037
+    }
+  ]
+}

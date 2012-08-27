@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.113, 
+              46.916
+            ], 
+            [
+              2.113, 
+              46.952
+            ], 
+            [
+              2.131, 
+              46.952
+            ], 
+            [
+              2.131, 
+              46.916
+            ], 
+            [
+              2.113, 
+              46.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622879, 
+        "name": "St.-Ambroix", 
+        "adjacent_woeid": [
+          585949, 
+          586077, 
+          603096, 
+          609967, 
+          621166, 
+          621595
+        ], 
+        "ne_latitude": 46.952, 
+        "ne_longitude": 2.131, 
+        "longitude": 2.120, 
+        "parent_woeid": 12637388, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ambroix"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.932, 
+        "sw_longitude": 2.113, 
+        "fullname": "St.-Ambroix, Centre, Cher, France", 
+        "sw_latitude": 46.916
+      }, 
+      "id": 622879
+    }
+  ]
+}

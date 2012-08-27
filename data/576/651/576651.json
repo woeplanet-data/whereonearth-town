@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.180, 
+              43.545
+            ], 
+            [
+              0.180, 
+              43.591
+            ], 
+            [
+              0.203, 
+              43.591
+            ], 
+            [
+              0.203, 
+              43.545
+            ], 
+            [
+              0.180, 
+              43.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 576651, 
+        "name": "Armous-et-Cau", 
+        "adjacent_woeid": [
+          578378, 
+          587593, 
+          592539, 
+          608794, 
+          610418, 
+          621520, 
+          628911
+        ], 
+        "ne_latitude": 43.591, 
+        "ne_longitude": 0.203, 
+        "longitude": 0.191, 
+        "parent_woeid": 12655513, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Armous"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.573, 
+        "sw_longitude": 0.180, 
+        "fullname": "Armous-et-Cau, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.545
+      }, 
+      "id": 576651
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.570, 
+              48.534
+            ], 
+            [
+              1.570, 
+              48.556
+            ], 
+            [
+              1.593, 
+              48.556
+            ], 
+            [
+              1.593, 
+              48.534
+            ], 
+            [
+              1.570, 
+              48.534
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626361, 
+        "name": "St.-Piat", 
+        "adjacent_woeid": [
+          584412, 
+          584772, 
+          594332, 
+          595666, 
+          611363, 
+          622553, 
+          633030
+        ], 
+        "ne_latitude": 48.556, 
+        "ne_longitude": 1.593, 
+        "longitude": 1.584, 
+        "parent_woeid": 12641023, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Piat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.547, 
+        "sw_longitude": 1.570, 
+        "fullname": "St.-Piat, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.534
+      }, 
+      "id": 626361
+    }
+  ]
+}

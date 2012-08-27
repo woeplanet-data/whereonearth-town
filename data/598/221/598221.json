@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.010, 
+              48.044
+            ], 
+            [
+              1.010, 
+              48.078
+            ], 
+            [
+              1.047, 
+              48.078
+            ], 
+            [
+              1.047, 
+              48.044
+            ], 
+            [
+              1.010, 
+              48.044
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598221, 
+        "name": "La Fontenelle", 
+        "adjacent_woeid": [
+          576842, 
+          581324, 
+          603017, 
+          604200, 
+          622773
+        ], 
+        "ne_latitude": 48.078, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.047, 
+        "longitude": 1.024, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12646243, 
+        "latitude": 48.061, 
+        "sw_longitude": 1.010, 
+        "fullname": "La Fontenelle, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 48.044
+      }, 
+      "id": 598221
+    }
+  ]
+}

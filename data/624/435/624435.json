@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.645, 
+              46.859
+            ], 
+            [
+              4.645, 
+              46.889
+            ], 
+            [
+              4.681, 
+              46.889
+            ], 
+            [
+              4.681, 
+              46.859
+            ], 
+            [
+              4.645, 
+              46.859
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624435, 
+        "name": "St.-Gilles", 
+        "adjacent_woeid": [
+          584104, 
+          585455, 
+          588624, 
+          20215766, 
+          20216117
+        ], 
+        "ne_latitude": 46.889, 
+        "ne_longitude": 4.681, 
+        "longitude": 4.663, 
+        "parent_woeid": 12652585, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gilles"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.879, 
+        "sw_longitude": 4.645, 
+        "fullname": "St.-Gilles, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.859
+      }, 
+      "id": 624435
+    }
+  ]
+}

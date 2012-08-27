@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.977, 
+              22.174
+            ], 
+            [
+              -99.977, 
+              22.192
+            ], 
+            [
+              -99.957, 
+              22.192
+            ], 
+            [
+              -99.957, 
+              22.174
+            ], 
+            [
+              -99.977, 
+              22.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.192, 
+        "name": "San Marcos", 
+        "adjacent_woeid": [
+          134139, 
+          136245, 
+          137832, 
+          141948, 
+          142589, 
+          148209
+        ], 
+        "woeid": 144318, 
+        "alias_SPA_V": [
+          "S Marcos"
+        ], 
+        "ne_longitude": -99.957, 
+        "longitude": -99.967, 
+        "parent_woeid": 12601494, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.183, 
+        "sw_longitude": -99.977, 
+        "fullname": "San Marcos, San Luis Potosi, Rioverde, Mexico", 
+        "sw_latitude": 22.174
+      }, 
+      "id": 144318
+    }
+  ]
+}

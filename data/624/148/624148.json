@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.327, 
+              46.919
+            ], 
+            [
+              1.327, 
+              46.954
+            ], 
+            [
+              1.358, 
+              46.954
+            ], 
+            [
+              1.358, 
+              46.919
+            ], 
+            [
+              1.327, 
+              46.919
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624148, 
+        "name": "St.-Genou", 
+        "adjacent_woeid": [
+          576696, 
+          615563, 
+          627548, 
+          631710
+        ], 
+        "ne_latitude": 46.954, 
+        "ne_longitude": 1.358, 
+        "longitude": 1.338, 
+        "parent_woeid": 12639854, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Genou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.930, 
+        "sw_longitude": 1.327, 
+        "fullname": "St.-Genou, Centre, Indre, France", 
+        "sw_latitude": 46.919
+      }, 
+      "id": 624148
+    }
+  ]
+}

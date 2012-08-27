@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.456, 
+              48.025
+            ], 
+            [
+              1.456, 
+              48.052
+            ], 
+            [
+              1.477, 
+              48.052
+            ], 
+            [
+              1.477, 
+              48.025
+            ], 
+            [
+              1.456, 
+              48.025
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623575, 
+        "name": "St.-Cloud-en-Dunois", 
+        "adjacent_woeid": [
+          585146, 
+          610923, 
+          615454, 
+          20185189, 
+          20185190
+        ], 
+        "ne_latitude": 48.052, 
+        "ne_longitude": 1.477, 
+        "longitude": 1.469, 
+        "parent_woeid": 12641352, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cloud-en-Dunois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.041, 
+        "sw_longitude": 1.456, 
+        "fullname": "St.-Cloud-en-Dunois, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.025
+      }, 
+      "id": 623575
+    }
+  ]
+}

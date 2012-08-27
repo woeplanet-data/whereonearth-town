@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.983, 
+              20.394
+            ], 
+            [
+              -99.983, 
+              20.412
+            ], 
+            [
+              -99.963, 
+              20.412
+            ], 
+            [
+              -99.963, 
+              20.394
+            ], 
+            [
+              -99.983, 
+              20.394
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.412, 
+        "name": "Santa Cruz Nieto", 
+        "adjacent_woeid": [
+          115400, 
+          143928, 
+          144752, 
+          145026, 
+          146889, 
+          55882233
+        ], 
+        "woeid": 146050, 
+        "alias_SPA_V": [
+          "Sta. Cruz Nieto"
+        ], 
+        "ne_longitude": -99.963, 
+        "longitude": -99.973, 
+        "parent_woeid": 12601459, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.403, 
+        "sw_longitude": -99.983, 
+        "fullname": "Santa Cruz Nieto, Queretaro de Arteaga, San Juan del Rio, Mexico", 
+        "sw_latitude": 20.394
+      }, 
+      "id": 146050
+    }
+  ]
+}

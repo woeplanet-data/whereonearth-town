@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.085, 
+              50.508
+            ], 
+            [
+              3.085, 
+              50.526
+            ], 
+            [
+              3.114, 
+              50.526
+            ], 
+            [
+              3.114, 
+              50.508
+            ], 
+            [
+              3.085, 
+              50.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333002, 
+        "name": "Hameau de Prez", 
+        "adjacent_woeid": [
+          611118, 
+          617317, 
+          29333012, 
+          29333013
+        ], 
+        "ne_latitude": 50.526, 
+        "ne_longitude": 3.114, 
+        "longitude": 3.099, 
+        "parent_woeid": 12655945, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Hameau du Prez"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.517, 
+        "sw_longitude": 3.085, 
+        "fullname": "Hameau de Prez, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.508
+      }, 
+      "id": 29333002
+    }
+  ]
+}

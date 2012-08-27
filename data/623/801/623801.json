@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.700, 
+              45.458
+            ], 
+            [
+              2.700, 
+              45.481
+            ], 
+            [
+              2.732, 
+              45.481
+            ], 
+            [
+              2.732, 
+              45.458
+            ], 
+            [
+              2.700, 
+              45.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623801, 
+        "name": "St.-Donat", 
+        "adjacent_woeid": [
+          584886, 
+          588026, 
+          609811, 
+          624100
+        ], 
+        "ne_latitude": 45.481, 
+        "ne_longitude": 2.732, 
+        "longitude": 2.719, 
+        "parent_woeid": 12640586, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Donat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.469, 
+        "sw_longitude": 2.700, 
+        "fullname": "St.-Donat, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.458
+      }, 
+      "id": 623801
+    }
+  ]
+}

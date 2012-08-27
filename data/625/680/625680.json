@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.551, 
+              43.018
+            ], 
+            [
+              2.551, 
+              43.060
+            ], 
+            [
+              2.601, 
+              43.060
+            ], 
+            [
+              2.601, 
+              43.018
+            ], 
+            [
+              2.551, 
+              43.018
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625680, 
+        "name": "St.-Martin-des-Puits", 
+        "adjacent_woeid": [
+          583416, 
+          610708, 
+          626459, 
+          628233, 
+          631339
+        ], 
+        "ne_latitude": 43.060, 
+        "alias_ENG_V": [
+          "Saint-Martin"
+        ], 
+        "ne_longitude": 2.601, 
+        "longitude": 2.567, 
+        "parent_woeid": 12670865, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Martin-des-Puits"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.042, 
+        "sw_longitude": 2.551, 
+        "fullname": "St.-Martin-des-Puits, St-Martin, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 43.018
+      }, 
+      "id": 625680
+    }
+  ]
+}

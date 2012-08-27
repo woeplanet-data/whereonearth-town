@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.596, 
+              49.915
+            ], 
+            [
+              11.596, 
+              49.933
+            ], 
+            [
+              11.624, 
+              49.933
+            ], 
+            [
+              11.624, 
+              49.915
+            ], 
+            [
+              11.596, 
+              49.915
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675125, 
+        "name": "Meyernreuth", 
+        "adjacent_woeid": [
+          678854, 
+          681578, 
+          691425, 
+          707658
+        ], 
+        "ne_latitude": 49.933, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.624, 
+        "longitude": 11.610, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12635326, 
+        "latitude": 49.924, 
+        "sw_longitude": 11.596, 
+        "fullname": "Meyernreuth, Bavaria, Stadtkreis Bayreuth, Germany", 
+        "sw_latitude": 49.915
+      }, 
+      "id": 675125
+    }
+  ]
+}

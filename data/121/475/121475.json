@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.160, 
+              21.008
+            ], 
+            [
+              -99.160, 
+              21.026
+            ], 
+            [
+              -99.140, 
+              21.026
+            ], 
+            [
+              -99.140, 
+              21.008
+            ], 
+            [
+              -99.160, 
+              21.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.026, 
+        "name": "El Pinalito", 
+        "adjacent_woeid": [
+          111375, 
+          117887, 
+          128331, 
+          130425, 
+          131822
+        ], 
+        "woeid": 121475, 
+        "alias_SPA_V": [
+          "Pinalito"
+        ], 
+        "ne_longitude": -99.140, 
+        "longitude": -99.150, 
+        "parent_woeid": 12600140, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.017, 
+        "sw_longitude": -99.160, 
+        "fullname": "El Pinalito, Hidalgo, Jacala de Ledezma, Mexico", 
+        "sw_latitude": 21.008
+      }, 
+      "id": 121475
+    }
+  ]
+}

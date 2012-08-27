@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.534, 
+              28.372
+            ], 
+            [
+              -110.534, 
+              28.387
+            ], 
+            [
+              -110.518, 
+              28.387
+            ], 
+            [
+              -110.518, 
+              28.372
+            ], 
+            [
+              -110.534, 
+              28.372
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.387, 
+        "name": "La Misa", 
+        "adjacent_woeid": [
+          111599, 
+          123343, 
+          134102, 
+          135359, 
+          135809, 
+          143553
+        ], 
+        "woeid": 128301, 
+        "alias_SPA_V": [
+          "Misa"
+        ], 
+        "ne_longitude": -110.518, 
+        "longitude": -110.526, 
+        "parent_woeid": 12601573, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.380, 
+        "sw_longitude": -110.534, 
+        "fullname": "La Misa, Sonora, Guaymas, Mexico", 
+        "sw_latitude": 28.372
+      }, 
+      "id": 128301
+    }
+  ]
+}

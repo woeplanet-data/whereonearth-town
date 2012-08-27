@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.369, 
+              48.929
+            ], 
+            [
+              4.369, 
+              49.000
+            ], 
+            [
+              4.450, 
+              49.000
+            ], 
+            [
+              4.450, 
+              48.929
+            ], 
+            [
+              4.369, 
+              48.929
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625932, 
+        "name": "St.-Memmie", 
+        "adjacent_woeid": [
+          583959, 
+          587601, 
+          596499, 
+          617094, 
+          621098, 
+          625774
+        ], 
+        "ne_latitude": 49.000, 
+        "ne_longitude": 4.450, 
+        "longitude": 4.384, 
+        "parent_woeid": 12652967, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Memmie"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.955, 
+        "sw_longitude": 4.369, 
+        "fullname": "St.-Memmie, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.929
+      }, 
+      "id": 625932
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.380, 
+              49.234
+            ], 
+            [
+              10.380, 
+              49.261
+            ], 
+            [
+              10.407, 
+              49.261
+            ], 
+            [
+              10.407, 
+              49.234
+            ], 
+            [
+              10.380, 
+              49.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 644601, 
+        "name": "Dietenbronn", 
+        "adjacent_woeid": [
+          635834, 
+          641980, 
+          649138, 
+          652612, 
+          704790
+        ], 
+        "ne_latitude": 49.261, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.407, 
+        "longitude": 10.394, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:12Z", 
+        "parent_woeid": 12634388, 
+        "latitude": 49.250, 
+        "sw_longitude": 10.380, 
+        "fullname": "Dietenbronn, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.234
+      }, 
+      "id": 644601
+    }
+  ]
+}

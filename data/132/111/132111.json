@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.360, 
+              22.024
+            ], 
+            [
+              -105.360, 
+              22.042
+            ], 
+            [
+              -105.340, 
+              22.042
+            ], 
+            [
+              -105.340, 
+              22.024
+            ], 
+            [
+              -105.360, 
+              22.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.042, 
+        "name": "Los Medinas", 
+        "adjacent_woeid": [
+          120863, 
+          126547, 
+          136492, 
+          150754
+        ], 
+        "woeid": 132111, 
+        "alias_SPA_V": [
+          "Medinas"
+        ], 
+        "ne_longitude": -105.340, 
+        "longitude": -105.350, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.033, 
+        "sw_longitude": -105.360, 
+        "fullname": "Los Medinas, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 22.024
+      }, 
+      "id": 132111
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.593, 
+              21.974
+            ], 
+            [
+              -105.593, 
+              21.992
+            ], 
+            [
+              -105.574, 
+              21.992
+            ], 
+            [
+              -105.574, 
+              21.974
+            ], 
+            [
+              -105.593, 
+              21.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.992, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          112216, 
+          117806, 
+          129506, 
+          130524, 
+          136781, 
+          141417
+        ], 
+        "woeid": 145951, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -105.574, 
+        "longitude": -105.583, 
+        "parent_woeid": 12600601, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.983, 
+        "sw_longitude": -105.593, 
+        "fullname": "Santa Cruz, Nayarit, Santiago Ixcuintla, Mexico", 
+        "sw_latitude": 21.974
+      }, 
+      "id": 145951
+    }
+  ]
+}

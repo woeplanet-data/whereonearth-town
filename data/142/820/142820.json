@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.924, 
+              25.508
+            ], 
+            [
+              -108.924, 
+              25.526
+            ], 
+            [
+              -108.904, 
+              25.526
+            ], 
+            [
+              -108.904, 
+              25.508
+            ], 
+            [
+              -108.924, 
+              25.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.526, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          112885, 
+          125257, 
+          137512, 
+          149831, 
+          55894375
+        ], 
+        "woeid": 142820, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -108.904, 
+        "longitude": -108.914, 
+        "parent_woeid": 12601527, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.517, 
+        "sw_longitude": -108.924, 
+        "fullname": "San Ignacio, Sinaloa, Ahome, Mexico", 
+        "sw_latitude": 25.508
+      }, 
+      "id": 142820
+    }
+  ]
+}

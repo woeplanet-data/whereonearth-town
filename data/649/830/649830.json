@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.331, 
+              50.507
+            ], 
+            [
+              10.331, 
+              50.523
+            ], 
+            [
+              10.353, 
+              50.523
+            ], 
+            [
+              10.353, 
+              50.507
+            ], 
+            [
+              10.331, 
+              50.507
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649830, 
+        "name": "Fischhaus", 
+        "adjacent_woeid": [
+          652792, 
+          657590, 
+          659086, 
+          659299, 
+          695603, 
+          696478, 
+          698325
+        ], 
+        "ne_latitude": 50.523, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.353, 
+        "longitude": 10.333, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12636411, 
+        "latitude": 50.517, 
+        "sw_longitude": 10.331, 
+        "fullname": "Fischhaus, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.507
+      }, 
+      "id": 649830
+    }
+  ]
+}

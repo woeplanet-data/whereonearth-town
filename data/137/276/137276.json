@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.160, 
+              25.341
+            ], 
+            [
+              -100.160, 
+              25.359
+            ], 
+            [
+              -100.140, 
+              25.359
+            ], 
+            [
+              -100.140, 
+              25.341
+            ], 
+            [
+              -100.160, 
+              25.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.359, 
+        "name": "Potrero de Serna", 
+        "adjacent_woeid": [
+          119184, 
+          119659, 
+          134879, 
+          142466, 
+          144946, 
+          146667, 
+          150850
+        ], 
+        "woeid": 137276, 
+        "alias_SPA_V": [
+          "Rancho El Potrero de Serna"
+        ], 
+        "ne_longitude": -100.140, 
+        "longitude": -100.150, 
+        "parent_woeid": 12600654, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.350, 
+        "sw_longitude": -100.160, 
+        "fullname": "Potrero de Serna, Nuevo Leon, Santiago, Mexico", 
+        "sw_latitude": 25.341
+      }, 
+      "id": 137276
+    }
+  ]
+}

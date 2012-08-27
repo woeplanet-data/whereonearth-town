@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.643, 
+              44.823
+            ], 
+            [
+              0.643, 
+              44.848
+            ], 
+            [
+              0.701, 
+              44.848
+            ], 
+            [
+              0.701, 
+              44.823
+            ], 
+            [
+              0.643, 
+              44.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630087, 
+        "name": "Varennes", 
+        "adjacent_woeid": [
+          578013, 
+          587702, 
+          601338, 
+          622810, 
+          623386
+        ], 
+        "ne_latitude": 44.848, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.701, 
+        "longitude": 0.683, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12654045, 
+        "latitude": 44.831, 
+        "sw_longitude": 0.643, 
+        "fullname": "Varennes, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.823
+      }, 
+      "id": 630087
+    }
+  ]
+}

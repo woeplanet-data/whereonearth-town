@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.193, 
+              23.908
+            ], 
+            [
+              -100.193, 
+              23.926
+            ], 
+            [
+              -100.173, 
+              23.926
+            ], 
+            [
+              -100.173, 
+              23.908
+            ], 
+            [
+              -100.193, 
+              23.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.926, 
+        "name": "Santa Gertrudis", 
+        "adjacent_woeid": [
+          117027, 
+          118996, 
+          130478, 
+          144716, 
+          148233
+        ], 
+        "woeid": 146186, 
+        "alias_SPA_V": [
+          "Sta Gertrudis"
+        ], 
+        "ne_longitude": -100.173, 
+        "longitude": -100.183, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.917, 
+        "sw_longitude": -100.193, 
+        "fullname": "Santa Gertrudis, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.908
+      }, 
+      "id": 146186
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.433, 
+              57.488
+            ], 
+            [
+              10.433, 
+              57.511
+            ], 
+            [
+              10.475, 
+              57.511
+            ], 
+            [
+              10.475, 
+              57.488
+            ], 
+            [
+              10.433, 
+              57.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555761, 
+        "name": "Nielstrup", 
+        "adjacent_woeid": [
+          552590, 
+          552996, 
+          556235, 
+          29306287
+        ], 
+        "ne_latitude": 57.511, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.475, 
+        "longitude": 10.454, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:11Z", 
+        "parent_woeid": 12582740, 
+        "latitude": 57.499, 
+        "sw_longitude": 10.433, 
+        "fullname": "Nielstrup, Nordjylland, Frederikshavn, Denmark", 
+        "sw_latitude": 57.488
+      }, 
+      "id": 555761
+    }
+  ]
+}

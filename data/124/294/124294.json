@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.176, 
+              15.691
+            ], 
+            [
+              -92.176, 
+              15.709
+            ], 
+            [
+              -92.157, 
+              15.709
+            ], 
+            [
+              -92.157, 
+              15.691
+            ], 
+            [
+              -92.176, 
+              15.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.709, 
+        "name": "Guadalupe", 
+        "adjacent_woeid": [
+          123789, 
+          123790, 
+          128491, 
+          129098, 
+          134825, 
+          134832
+        ], 
+        "woeid": 124294, 
+        "alias_SPA_V": [
+          "Guadalupe Grijalva"
+        ], 
+        "ne_longitude": -92.157, 
+        "longitude": -92.167, 
+        "parent_woeid": 12599741, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.700, 
+        "sw_longitude": -92.176, 
+        "fullname": "Guadalupe, Chiapas, Frontera Comalapa, Mexico", 
+        "sw_latitude": 15.691
+      }, 
+      "id": 124294
+    }
+  ]
+}

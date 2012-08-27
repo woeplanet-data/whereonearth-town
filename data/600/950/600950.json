@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.305, 
+              47.665
+            ], 
+            [
+              3.305, 
+              47.687
+            ], 
+            [
+              3.332, 
+              47.687
+            ], 
+            [
+              3.332, 
+              47.665
+            ], 
+            [
+              3.305, 
+              47.665
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600950, 
+        "name": "Lalande", 
+        "adjacent_woeid": [
+          591400, 
+          591519, 
+          607824, 
+          607866, 
+          613486
+        ], 
+        "ne_latitude": 47.687, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.332, 
+        "longitude": 3.321, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12646877, 
+        "latitude": 47.681, 
+        "sw_longitude": 3.305, 
+        "fullname": "Lalande, Burgundy, Yonne, France", 
+        "sw_latitude": 47.665
+      }, 
+      "id": 600950
+    }
+  ]
+}

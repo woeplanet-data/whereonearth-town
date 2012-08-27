@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.357, 
+              50.245
+            ], 
+            [
+              11.357, 
+              50.266
+            ], 
+            [
+              11.377, 
+              50.266
+            ], 
+            [
+              11.377, 
+              50.245
+            ], 
+            [
+              11.357, 
+              50.245
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688003, 
+        "name": "Rennesberg", 
+        "adjacent_woeid": [
+          645259, 
+          650877, 
+          707105, 
+          29348000
+        ], 
+        "ne_latitude": 50.266, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.377, 
+        "longitude": 11.367, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:48Z", 
+        "parent_woeid": 12635329, 
+        "latitude": 50.257, 
+        "sw_longitude": 11.357, 
+        "fullname": "Rennesberg, Bavaria, Landkreis Kronach, Germany", 
+        "sw_latitude": 50.245
+      }, 
+      "id": 688003
+    }
+  ]
+}

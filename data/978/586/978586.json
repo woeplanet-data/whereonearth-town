@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.291, 
+              50.251
+            ], 
+            [
+              5.291, 
+              50.269
+            ], 
+            [
+              5.319, 
+              50.269
+            ], 
+            [
+              5.319, 
+              50.251
+            ], 
+            [
+              5.291, 
+              50.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 978586, 
+        "name": "Waillet", 
+        "adjacent_woeid": [
+          966774, 
+          966817, 
+          971158, 
+          971335, 
+          976930
+        ], 
+        "ne_latitude": 50.269, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.319, 
+        "longitude": 5.305, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:27Z", 
+        "parent_woeid": 12602315, 
+        "latitude": 50.260, 
+        "sw_longitude": 5.291, 
+        "fullname": "Waillet, Namur, Dinant, Belgium", 
+        "sw_latitude": 50.251
+      }, 
+      "id": 978586
+    }
+  ]
+}

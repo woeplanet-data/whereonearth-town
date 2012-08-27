@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.593, 
+              21.424
+            ], 
+            [
+              -100.593, 
+              21.442
+            ], 
+            [
+              -100.574, 
+              21.442
+            ], 
+            [
+              -100.574, 
+              21.424
+            ], 
+            [
+              -100.593, 
+              21.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.442, 
+        "name": "Santa Rosa de Ochoa", 
+        "adjacent_woeid": [
+          125967, 
+          126711, 
+          127308, 
+          137378, 
+          141227, 
+          142109
+        ], 
+        "woeid": 146885, 
+        "alias_SPA_V": [
+          "Sta Rosa de Ochoa"
+        ], 
+        "ne_longitude": -100.574, 
+        "longitude": -100.583, 
+        "parent_woeid": 12600021, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.433, 
+        "sw_longitude": -100.593, 
+        "fullname": "Santa Rosa de Ochoa, Guanajuato, San Luis de la Paz, Mexico", 
+        "sw_latitude": 21.424
+      }, 
+      "id": 146885
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.605, 
+              42.328
+            ], 
+            [
+              -3.605, 
+              42.338
+            ], 
+            [
+              -3.591, 
+              42.338
+            ], 
+            [
+              -3.591, 
+              42.328
+            ], 
+            [
+              -3.605, 
+              42.328
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.338, 
+        "name": "San Medel", 
+        "adjacent_woeid": [
+          756183, 
+          756702, 
+          29371246
+        ], 
+        "woeid": 773161, 
+        "alias_SPA_V": [
+          "S Medel"
+        ], 
+        "ne_longitude": -3.591, 
+        "longitude": -3.597, 
+        "parent_woeid": 12691437, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.334, 
+        "sw_longitude": -3.605, 
+        "fullname": "San Medel, Castille and Leon, Burgos, Spain", 
+        "sw_latitude": 42.328
+      }, 
+      "id": 773161
+    }
+  ]
+}

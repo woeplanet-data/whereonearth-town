@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.750, 
+              46.437
+            ], 
+            [
+              -75.750, 
+              46.709
+            ], 
+            [
+              -75.386, 
+              46.709
+            ], 
+            [
+              -75.386, 
+              46.437
+            ], 
+            [
+              -75.750, 
+              46.437
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3339, 
+        "name": "Mont-Laurier", 
+        "adjacent_woeid": [
+          493, 
+          765, 
+          3340, 
+          23396625, 
+          23396633, 
+          29374220
+        ], 
+        "ne_latitude": 46.709, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -75.386, 
+        "longitude": -75.496, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "parent_woeid": 29375197, 
+        "latitude": 46.552, 
+        "sw_longitude": -75.750, 
+        "fullname": "Mont-Laurier, Quebec, Antoine-Labelle, Canada", 
+        "sw_latitude": 46.437
+      }, 
+      "id": 3339
+    }
+  ]
+}

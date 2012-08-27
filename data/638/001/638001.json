@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.972, 
+              48.597
+            ], 
+            [
+              10.972, 
+              48.629
+            ], 
+            [
+              10.989, 
+              48.629
+            ], 
+            [
+              10.989, 
+              48.597
+            ], 
+            [
+              10.972, 
+              48.597
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638001, 
+        "name": "Bergendorf", 
+        "adjacent_woeid": [
+          684601, 
+          688563, 
+          703681, 
+          20157811
+        ], 
+        "ne_latitude": 48.629, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.989, 
+        "longitude": 10.981, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12634998, 
+        "latitude": 48.615, 
+        "sw_longitude": 10.972, 
+        "fullname": "Bergendorf, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.597
+      }, 
+      "id": 638001
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.675, 
+              19.822
+            ], 
+            [
+              -102.675, 
+              19.841
+            ], 
+            [
+              -102.656, 
+              19.841
+            ], 
+            [
+              -102.656, 
+              19.822
+            ], 
+            [
+              -102.675, 
+              19.822
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.841, 
+        "name": "San Juanico", 
+        "adjacent_woeid": [
+          117520, 
+          120257, 
+          122478, 
+          125772, 
+          136059, 
+          142542
+        ], 
+        "woeid": 144029, 
+        "alias_SPA_V": [
+          "S Juanico"
+        ], 
+        "ne_longitude": -102.656, 
+        "longitude": -102.665, 
+        "parent_woeid": 12600468, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.832, 
+        "sw_longitude": -102.675, 
+        "fullname": "San Juanico, Michoacan de Ocampo, Cotija, Mexico", 
+        "sw_latitude": 19.822
+      }, 
+      "id": 144029
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.422, 
+              39.641
+            ], 
+            [
+              -0.422, 
+              39.664
+            ], 
+            [
+              -0.403, 
+              39.664
+            ], 
+            [
+              -0.403, 
+              39.641
+            ], 
+            [
+              -0.422, 
+              39.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.664, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          20223712, 
+          20224017, 
+          23415082, 
+          29369866, 
+          56065621
+        ], 
+        "woeid": 20225847, 
+        "alias_SPA_V": [
+          "S Miguel"
+        ], 
+        "ne_longitude": -0.403, 
+        "longitude": -0.413, 
+        "parent_woeid": 12695713, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.651, 
+        "sw_longitude": -0.422, 
+        "fullname": "San Miguel, Valencia, Valencia, Spain", 
+        "sw_latitude": 39.641
+      }, 
+      "id": 20225847
+    }
+  ]
+}

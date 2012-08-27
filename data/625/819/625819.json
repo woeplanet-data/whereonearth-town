@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.543, 
+              47.094
+            ], 
+            [
+              3.543, 
+              47.115
+            ], 
+            [
+              3.577, 
+              47.115
+            ], 
+            [
+              3.577, 
+              47.094
+            ], 
+            [
+              3.543, 
+              47.094
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625819, 
+        "name": "St.-Maurice", 
+        "adjacent_woeid": [
+          578542, 
+          588109, 
+          612123, 
+          20214039, 
+          29332813
+        ], 
+        "ne_latitude": 47.115, 
+        "ne_longitude": 3.577, 
+        "longitude": 3.569, 
+        "parent_woeid": 12649412, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maurice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.107, 
+        "sw_longitude": 3.543, 
+        "fullname": "St.-Maurice, Burgundy, Nievre, France", 
+        "sw_latitude": 47.094
+      }, 
+      "id": 625819
+    }
+  ]
+}

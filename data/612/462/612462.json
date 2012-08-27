@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.872, 
+              49.345
+            ], 
+            [
+              1.872, 
+              49.373
+            ], 
+            [
+              1.903, 
+              49.373
+            ], 
+            [
+              1.903, 
+              49.345
+            ], 
+            [
+              1.872, 
+              49.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612462, 
+        "name": "Montcornet", 
+        "adjacent_woeid": [
+          598210, 
+          600627, 
+          600953, 
+          604856, 
+          606761, 
+          608170
+        ], 
+        "ne_latitude": 49.373, 
+        "ne_longitude": 1.903, 
+        "longitude": 1.895, 
+        "parent_woeid": 22756530, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Mont Cornet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.355, 
+        "sw_longitude": 1.872, 
+        "fullname": "Montcornet, Picardie, Oise, France", 
+        "sw_latitude": 49.345
+      }, 
+      "id": 612462
+    }
+  ]
+}

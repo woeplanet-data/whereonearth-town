@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.453, 
+              49.503
+            ], 
+            [
+              11.453, 
+              49.530
+            ], 
+            [
+              11.479, 
+              49.530
+            ], 
+            [
+              11.479, 
+              49.503
+            ], 
+            [
+              11.453, 
+              49.503
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 667214, 
+        "name": "Kleinviehberg", 
+        "adjacent_woeid": [
+          633898, 
+          648687, 
+          655247, 
+          661339
+        ], 
+        "ne_latitude": 49.530, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.479, 
+        "longitude": 11.466, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12634488, 
+        "latitude": 49.519, 
+        "sw_longitude": 11.453, 
+        "fullname": "Kleinviehberg, Bavaria, Nurnberger Land, Germany", 
+        "sw_latitude": 49.503
+      }, 
+      "id": 667214
+    }
+  ]
+}

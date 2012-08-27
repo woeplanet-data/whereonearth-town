@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.424, 
+              52.279
+            ], 
+            [
+              12.424, 
+              52.315
+            ], 
+            [
+              12.460, 
+              52.315
+            ], 
+            [
+              12.460, 
+              52.279
+            ], 
+            [
+              12.424, 
+              52.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705411, 
+        "name": "Wenzlow", 
+        "adjacent_woeid": [
+          639686, 
+          655582, 
+          673393, 
+          702346, 
+          707820
+        ], 
+        "ne_latitude": 52.315, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.460, 
+        "longitude": 12.446, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 24547293, 
+        "latitude": 52.300, 
+        "sw_longitude": 12.424, 
+        "fullname": "Wenzlow, Brandenburg, Potsdam-Mittelmark, Germany", 
+        "sw_latitude": 52.279
+      }, 
+      "id": 705411
+    }
+  ]
+}

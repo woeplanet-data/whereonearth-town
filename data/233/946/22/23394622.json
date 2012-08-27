@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.925, 
+              46.124
+            ], 
+            [
+              -70.925, 
+              46.159
+            ], 
+            [
+              -70.878, 
+              46.159
+            ], 
+            [
+              -70.878, 
+              46.124
+            ], 
+            [
+              -70.925, 
+              46.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394622, 
+        "name": "St.-Victor", 
+        "adjacent_woeid": [
+          23394479, 
+          23394491, 
+          23394522, 
+          23396569, 
+          23396658, 
+          23396674
+        ], 
+        "ne_latitude": 46.159, 
+        "ne_longitude": -70.878, 
+        "longitude": -70.906, 
+        "parent_woeid": 29375103, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Victor"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.147, 
+        "sw_longitude": -70.925, 
+        "fullname": "St.-Victor, Quebec, Robert-Cliche, Canada", 
+        "sw_latitude": 46.124
+      }, 
+      "id": 23394622
+    }
+  ]
+}

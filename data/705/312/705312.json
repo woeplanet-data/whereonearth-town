@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.798, 
+              49.364
+            ], 
+            [
+              10.798, 
+              49.401
+            ], 
+            [
+              10.825, 
+              49.401
+            ], 
+            [
+              10.825, 
+              49.364
+            ], 
+            [
+              10.798, 
+              49.364
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705312, 
+        "name": "Wendsdorf", 
+        "adjacent_woeid": [
+          642612, 
+          649581, 
+          653604, 
+          686699, 
+          693523
+        ], 
+        "ne_latitude": 49.401, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.825, 
+        "longitude": 10.810, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12634466, 
+        "latitude": 49.382, 
+        "sw_longitude": 10.798, 
+        "fullname": "Wendsdorf, Bavaria, Landkreis F\u00fcrth, Germany", 
+        "sw_latitude": 49.364
+      }, 
+      "id": 705312
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.862, 
+              46.362
+            ], 
+            [
+              5.862, 
+              46.380
+            ], 
+            [
+              5.888, 
+              46.380
+            ], 
+            [
+              5.888, 
+              46.362
+            ], 
+            [
+              5.862, 
+              46.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20211861, 
+        "name": "L'Essard", 
+        "adjacent_woeid": [
+          631462, 
+          20211854, 
+          20211862, 
+          55867278
+        ], 
+        "ne_latitude": 46.380, 
+        "ne_longitude": 5.888, 
+        "longitude": 5.876, 
+        "parent_woeid": 12654361, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Essard-le-verger"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.369, 
+        "sw_longitude": 5.862, 
+        "fullname": "L'Essard, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.362
+      }, 
+      "id": 20211861
+    }
+  ]
+}

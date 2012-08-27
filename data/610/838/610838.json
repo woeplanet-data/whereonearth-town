@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.148, 
+              45.703
+            ], 
+            [
+              1.148, 
+              45.730
+            ], 
+            [
+              1.178, 
+              45.730
+            ], 
+            [
+              1.178, 
+              45.703
+            ], 
+            [
+              1.148, 
+              45.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610838, 
+        "name": "Meilhac", 
+        "adjacent_woeid": [
+          582399, 
+          591071, 
+          595643, 
+          601899
+        ], 
+        "ne_latitude": 45.730, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.178, 
+        "longitude": 1.157, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12658059, 
+        "latitude": 45.714, 
+        "sw_longitude": 1.148, 
+        "fullname": "Meilhac, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.703
+      }, 
+      "id": 610838
+    }
+  ]
+}

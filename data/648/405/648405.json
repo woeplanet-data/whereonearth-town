@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.052, 
+              49.692
+            ], 
+            [
+              10.052, 
+              49.725
+            ], 
+            [
+              10.107, 
+              49.725
+            ], 
+            [
+              10.107, 
+              49.692
+            ], 
+            [
+              10.052, 
+              49.692
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648405, 
+        "name": "Erlach", 
+        "adjacent_woeid": [
+          664671, 
+          671902, 
+          698326, 
+          705892, 
+          707100, 
+          708810
+        ], 
+        "ne_latitude": 49.725, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.107, 
+        "longitude": 10.080, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12635455, 
+        "latitude": 49.707, 
+        "sw_longitude": 10.052, 
+        "fullname": "Erlach, Bavaria, Wurzburg, Germany", 
+        "sw_latitude": 49.692
+      }, 
+      "id": 648405
+    }
+  ]
+}

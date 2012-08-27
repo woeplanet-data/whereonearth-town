@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.405, 
+              43.097
+            ], 
+            [
+              1.405, 
+              43.135
+            ], 
+            [
+              1.445, 
+              43.135
+            ], 
+            [
+              1.445, 
+              43.097
+            ], 
+            [
+              1.405, 
+              43.097
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601337, 
+        "name": "Lanoux", 
+        "adjacent_woeid": [
+          576803, 
+          583299, 
+          615491, 
+          620544
+        ], 
+        "ne_latitude": 43.135, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.445, 
+        "longitude": 1.424, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12664444, 
+        "latitude": 43.118, 
+        "sw_longitude": 1.405, 
+        "fullname": "Lanoux, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.097
+      }, 
+      "id": 601337
+    }
+  ]
+}

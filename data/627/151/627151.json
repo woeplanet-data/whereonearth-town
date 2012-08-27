@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.590, 
+              43.244
+            ], 
+            [
+              6.590, 
+              43.281
+            ], 
+            [
+              6.696, 
+              43.281
+            ], 
+            [
+              6.696, 
+              43.244
+            ], 
+            [
+              6.590, 
+              43.244
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627151, 
+        "name": "St.-Tropez", 
+        "adjacent_woeid": [
+          592471, 
+          618761, 
+          20202827, 
+          29329828
+        ], 
+        "ne_latitude": 43.281, 
+        "ne_longitude": 6.696, 
+        "longitude": 6.639, 
+        "parent_woeid": 12669029, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sttropez"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.273, 
+        "sw_longitude": 6.590, 
+        "fullname": "St.-Tropez, Provence-Alpes-Cote d'Azur, Var, France", 
+        "sw_latitude": 43.244
+      }, 
+      "id": 627151
+    }
+  ]
+}

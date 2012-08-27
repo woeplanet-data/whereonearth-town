@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.051, 
+              15.661
+            ], 
+            [
+              -87.051, 
+              15.680
+            ], 
+            [
+              -87.032, 
+              15.680
+            ], 
+            [
+              -87.032, 
+              15.661
+            ], 
+            [
+              -87.051, 
+              15.661
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.680, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          101100, 
+          103248, 
+          105533
+        ], 
+        "woeid": 106775, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -87.032, 
+        "longitude": -87.042, 
+        "parent_woeid": 26813780, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.671, 
+        "sw_longitude": -87.051, 
+        "fullname": "San Francisco, Atl\u00e1ntida, San Francisco, Honduras", 
+        "sw_latitude": 15.661
+      }, 
+      "id": 106775
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.230, 
+              50.404
+            ], 
+            [
+              5.230, 
+              50.423
+            ], 
+            [
+              5.259, 
+              50.423
+            ], 
+            [
+              5.259, 
+              50.404
+            ], 
+            [
+              5.230, 
+              50.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977171, 
+        "name": "St.-Fontaine", 
+        "adjacent_woeid": [
+          970140, 
+          973524, 
+          975251, 
+          975396, 
+          975540
+        ], 
+        "ne_latitude": 50.423, 
+        "ne_longitude": 5.259, 
+        "longitude": 5.244, 
+        "parent_woeid": 12602389, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Fontaine"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:31:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.414, 
+        "sw_longitude": 5.230, 
+        "fullname": "St.-Fontaine, Liege, Huy, Belgium", 
+        "sw_latitude": 50.404
+      }, 
+      "id": 977171
+    }
+  ]
+}

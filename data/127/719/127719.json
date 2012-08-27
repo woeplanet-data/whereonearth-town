@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.710, 
+              25.308
+            ], 
+            [
+              -106.710, 
+              25.326
+            ], 
+            [
+              -106.690, 
+              25.326
+            ], 
+            [
+              -106.690, 
+              25.308
+            ], 
+            [
+              -106.710, 
+              25.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.326, 
+        "name": "La Huerta", 
+        "adjacent_woeid": [
+          120136, 
+          136609, 
+          140583, 
+          141580, 
+          150530
+        ], 
+        "woeid": 127719, 
+        "alias_SPA_V": [
+          "Huerta"
+        ], 
+        "ne_longitude": -106.690, 
+        "longitude": -106.700, 
+        "parent_woeid": 12599987, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.317, 
+        "sw_longitude": -106.710, 
+        "fullname": "La Huerta, Durango, Topia, Mexico", 
+        "sw_latitude": 25.308
+      }, 
+      "id": 127719
+    }
+  ]
+}

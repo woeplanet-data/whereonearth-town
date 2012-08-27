@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.178, 
+              43.891
+            ], 
+            [
+              5.178, 
+              43.963
+            ], 
+            [
+              5.212, 
+              43.963
+            ], 
+            [
+              5.212, 
+              43.891
+            ], 
+            [
+              5.178, 
+              43.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593157, 
+        "name": "Gordes", 
+        "adjacent_woeid": [
+          576359, 
+          580713, 
+          582587, 
+          593222, 
+          595617, 
+          596658, 
+          601995, 
+          610517, 
+          610941, 
+          613281, 
+          613732, 
+          615013, 
+          616088, 
+          619613, 
+          620238, 
+          621204, 
+          621233, 
+          626846, 
+          630526, 
+          20203036, 
+          29330508
+        ], 
+        "ne_latitude": 43.963, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.212, 
+        "longitude": 5.198, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "parent_woeid": 22756190, 
+        "latitude": 43.913, 
+        "sw_longitude": 5.178, 
+        "fullname": "Gordes, Provence-Alpes-Cote d'Azur, Vaucluse, France", 
+        "sw_latitude": 43.891
+      }, 
+      "id": 593157
+    }
+  ]
+}

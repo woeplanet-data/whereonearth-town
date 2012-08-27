@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.250, 
+              48.052
+            ], 
+            [
+              1.250, 
+              48.070
+            ], 
+            [
+              1.277, 
+              48.070
+            ], 
+            [
+              1.277, 
+              48.052
+            ], 
+            [
+              1.250, 
+              48.052
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20185163, 
+        "name": "La Folie", 
+        "adjacent_woeid": [
+          589144, 
+          601312, 
+          623732, 
+          624604
+        ], 
+        "ne_latitude": 48.070, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.277, 
+        "longitude": 1.263, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12652375, 
+        "latitude": 48.060, 
+        "sw_longitude": 1.250, 
+        "fullname": "La Folie, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.052
+      }, 
+      "id": 20185163
+    }
+  ]
+}

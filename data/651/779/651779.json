@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.356, 
+              49.789
+            ], 
+            [
+              10.356, 
+              49.823
+            ], 
+            [
+              10.385, 
+              49.823
+            ], 
+            [
+              10.385, 
+              49.789
+            ], 
+            [
+              10.356, 
+              49.789
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651779, 
+        "name": "Geesdorf", 
+        "adjacent_woeid": [
+          663349, 
+          666024, 
+          701454, 
+          20172938
+        ], 
+        "ne_latitude": 49.823, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.385, 
+        "longitude": 10.371, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12635589, 
+        "latitude": 49.804, 
+        "sw_longitude": 10.356, 
+        "fullname": "Geesdorf, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.789
+      }, 
+      "id": 651779
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.667, 
+              48.327
+            ], 
+            [
+              3.667, 
+              48.395
+            ], 
+            [
+              3.753, 
+              48.395
+            ], 
+            [
+              3.753, 
+              48.327
+            ], 
+            [
+              3.667, 
+              48.327
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625364, 
+        "name": "St.-Lupien", 
+        "adjacent_woeid": [
+          577629, 
+          579146, 
+          590647, 
+          618180, 
+          631388, 
+          29333291
+        ], 
+        "ne_latitude": 48.395, 
+        "ne_longitude": 3.753, 
+        "longitude": 3.703, 
+        "parent_woeid": 12652809, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lupien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.357, 
+        "sw_longitude": 3.667, 
+        "fullname": "St.-Lupien, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.327
+      }, 
+      "id": 625364
+    }
+  ]
+}

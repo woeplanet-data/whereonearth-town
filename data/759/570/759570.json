@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.066, 
+              39.885
+            ], 
+            [
+              3.066, 
+              39.919
+            ], 
+            [
+              3.102, 
+              39.919
+            ], 
+            [
+              3.102, 
+              39.885
+            ], 
+            [
+              3.066, 
+              39.885
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.919, 
+        "name": "El Port", 
+        "adjacent_woeid": [
+          756021, 
+          15003429, 
+          23413964
+        ], 
+        "woeid": 759570, 
+        "alias_SPA_V": [
+          "Puerto de Pollensa"
+        ], 
+        "ne_longitude": 3.102, 
+        "longitude": 3.082, 
+        "parent_woeid": 12687750, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Caserio del Puerto"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.906, 
+        "sw_longitude": 3.066, 
+        "fullname": "El Port, Balearic Islands, Baleares, Spain", 
+        "sw_latitude": 39.885
+      }, 
+      "id": 759570
+    }
+  ]
+}

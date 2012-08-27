@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.210, 
+              17.691
+            ], 
+            [
+              -99.210, 
+              17.709
+            ], 
+            [
+              -99.190, 
+              17.709
+            ], 
+            [
+              -99.190, 
+              17.691
+            ], 
+            [
+              -99.210, 
+              17.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.709, 
+        "name": "La Esperanza", 
+        "adjacent_woeid": [
+          112226, 
+          112649, 
+          115994, 
+          149648, 
+          151769, 
+          55891781
+        ], 
+        "woeid": 127329, 
+        "alias_SPA_V": [
+          "Esperanza"
+        ], 
+        "ne_longitude": -99.190, 
+        "longitude": -99.200, 
+        "parent_woeid": 12600109, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.700, 
+        "sw_longitude": -99.210, 
+        "fullname": "La Esperanza, Guerrero, Zitlala, Mexico", 
+        "sw_latitude": 17.691
+      }, 
+      "id": 127329
+    }
+  ]
+}

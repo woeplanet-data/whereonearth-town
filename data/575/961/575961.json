@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.236, 
+              49.862
+            ], 
+            [
+              2.236, 
+              49.927
+            ], 
+            [
+              2.349, 
+              49.927
+            ], 
+            [
+              2.349, 
+              49.862
+            ], 
+            [
+              2.236, 
+              49.862
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575961, 
+        "name": "Amiens", 
+        "adjacent_woeid": [
+          575560, 
+          575807, 
+          576591, 
+          582635, 
+          582795, 
+          589191, 
+          589326, 
+          608561, 
+          617350, 
+          617688, 
+          619570, 
+          620658, 
+          620814, 
+          621380, 
+          624076, 
+          631995
+        ], 
+        "ne_latitude": 49.927, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "QAM"
+        ], 
+        "ne_longitude": 2.349, 
+        "longitude": 2.293, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "parent_woeid": 12655191, 
+        "latitude": 49.895, 
+        "sw_longitude": 2.236, 
+        "fullname": "Amiens, Picardie, Somme, France", 
+        "sw_latitude": 49.862
+      }, 
+      "id": 575961
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.710, 
+              21.324
+            ], 
+            [
+              -100.710, 
+              21.342
+            ], 
+            [
+              -100.690, 
+              21.342
+            ], 
+            [
+              -100.690, 
+              21.324
+            ], 
+            [
+              -100.710, 
+              21.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.342, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          119877, 
+          120633, 
+          120810, 
+          125822, 
+          135573, 
+          137346, 
+          141651
+        ], 
+        "woeid": 142948, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -100.690, 
+        "longitude": -100.700, 
+        "parent_woeid": 12600017, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.333, 
+        "sw_longitude": -100.710, 
+        "fullname": "San Isidro, Guanajuato, San Diego de la Union, Mexico", 
+        "sw_latitude": 21.324
+      }, 
+      "id": 142948
+    }
+  ]
+}

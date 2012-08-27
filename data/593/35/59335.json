@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.071, 
+              9.712
+            ], 
+            [
+              -84.071, 
+              9.721
+            ], 
+            [
+              -84.062, 
+              9.721
+            ], 
+            [
+              -84.062, 
+              9.712
+            ], 
+            [
+              -84.071, 
+              9.712
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.721, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          57890, 
+          58653, 
+          59313, 
+          59515, 
+          59621
+        ], 
+        "woeid": 59335, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -84.062, 
+        "longitude": -84.067, 
+        "parent_woeid": 26809162, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.717, 
+        "sw_longitude": -84.071, 
+        "fullname": "San Antonio, San Jose, Le\u00f3n Cort\u00e9s, Costa Rica", 
+        "sw_latitude": 9.712
+      }, 
+      "id": 59335
+    }
+  ]
+}

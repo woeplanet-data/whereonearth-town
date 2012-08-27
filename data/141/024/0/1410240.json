@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              55.463, 
+              -21.332
+            ], 
+            [
+              55.463, 
+              -21.304
+            ], 
+            [
+              55.493, 
+              -21.304
+            ], 
+            [
+              55.493, 
+              -21.332
+            ], 
+            [
+              55.463, 
+              -21.332
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1410240, 
+        "name": "Saint-Pierre", 
+        "adjacent_woeid": [
+          1410141, 
+          1410194, 
+          1410237, 
+          1511220, 
+          56122901
+        ], 
+        "ne_latitude": -21.304, 
+        "ne_longitude": 55.493, 
+        "longitude": 55.478, 
+        "parent_woeid": 24551460, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pierre"
+        ], 
+        "iso": "RE", 
+        "date_indexed": "2010-12-02T09:35:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -21.318, 
+        "sw_longitude": 55.463, 
+        "fullname": "Saint-Pierre, Arrondissement of Saint-Pierre, St.-Pierre, Reunion", 
+        "sw_latitude": -21.332
+      }, 
+      "id": 1410240
+    }
+  ]
+}

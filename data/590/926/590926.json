@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.201, 
+              45.715
+            ], 
+            [
+              4.201, 
+              45.770
+            ], 
+            [
+              4.255, 
+              45.770
+            ], 
+            [
+              4.255, 
+              45.715
+            ], 
+            [
+              4.201, 
+              45.715
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590926, 
+        "name": "Feurs", 
+        "adjacent_woeid": [
+          577935, 
+          580312, 
+          584001, 
+          585427, 
+          586071, 
+          586213, 
+          612393, 
+          613099, 
+          613101, 
+          615597, 
+          617264, 
+          620359, 
+          620821, 
+          620832, 
+          624344, 
+          625118, 
+          625169, 
+          627537, 
+          629831
+        ], 
+        "ne_latitude": 45.770, 
+        "ne_longitude": 4.255, 
+        "longitude": 4.223, 
+        "parent_woeid": 12661352, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ferus"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.744, 
+        "sw_longitude": 4.201, 
+        "fullname": "Feurs, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.715
+      }, 
+      "id": 590926
+    }
+  ]
+}

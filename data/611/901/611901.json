@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.036, 
+              46.866
+            ], 
+            [
+              -0.036, 
+              46.886
+            ], 
+            [
+              0.005, 
+              46.886
+            ], 
+            [
+              0.005, 
+              46.866
+            ], 
+            [
+              -0.036, 
+              46.866
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611901, 
+        "name": "Moncontour", 
+        "adjacent_woeid": [
+          610147, 
+          611280, 
+          624907, 
+          20201602, 
+          20201604
+        ], 
+        "ne_latitude": 46.886, 
+        "ne_longitude": 0.005, 
+        "longitude": -0.019, 
+        "parent_woeid": 20075022, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Moncontour-de-Poitou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.881, 
+        "sw_longitude": -0.036, 
+        "fullname": "Moncontour, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.866
+      }, 
+      "id": 611901
+    }
+  ]
+}

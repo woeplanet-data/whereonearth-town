@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.181, 
+              48.487
+            ], 
+            [
+              13.181, 
+              48.511
+            ], 
+            [
+              13.207, 
+              48.511
+            ], 
+            [
+              13.207, 
+              48.487
+            ], 
+            [
+              13.181, 
+              48.487
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696109, 
+        "name": "St. Salvator", 
+        "adjacent_woeid": [
+          638041, 
+          650493, 
+          680586, 
+          20154609, 
+          22662563, 
+          29348519
+        ], 
+        "ne_latitude": 48.511, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.207, 
+        "longitude": 13.196, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12635787, 
+        "latitude": 48.506, 
+        "sw_longitude": 13.181, 
+        "fullname": "St. Salvator, Bavaria, Landkreis Passau, Germany", 
+        "alias_GER_V": [
+          "St Salvator"
+        ], 
+        "sw_latitude": 48.487
+      }, 
+      "id": 696109
+    }
+  ]
+}

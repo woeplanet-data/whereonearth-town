@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.243, 
+              20.524
+            ], 
+            [
+              -99.243, 
+              20.542
+            ], 
+            [
+              -99.224, 
+              20.542
+            ], 
+            [
+              -99.224, 
+              20.524
+            ], 
+            [
+              -99.243, 
+              20.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.542, 
+        "name": "San Juanico", 
+        "adjacent_woeid": [
+          120233, 
+          121099, 
+          125516, 
+          135340, 
+          140570, 
+          140752, 
+          144750
+        ], 
+        "woeid": 144028, 
+        "alias_SPA_V": [
+          "S Juanico"
+        ], 
+        "ne_longitude": -99.224, 
+        "longitude": -99.233, 
+        "parent_woeid": 12600139, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.533, 
+        "sw_longitude": -99.243, 
+        "fullname": "San Juanico, Hidalgo, Ixmiquilpan, Mexico", 
+        "sw_latitude": 20.524
+      }, 
+      "id": 144028
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.255, 
+              50.454
+            ], 
+            [
+              12.255, 
+              50.480
+            ], 
+            [
+              12.285, 
+              50.480
+            ], 
+            [
+              12.285, 
+              50.454
+            ], 
+            [
+              12.255, 
+              50.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637980, 
+        "name": "Bergen", 
+        "adjacent_woeid": [
+          649295, 
+          663911, 
+          678289, 
+          682915, 
+          696951, 
+          699211, 
+          700006, 
+          709230
+        ], 
+        "ne_latitude": 50.480, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.285, 
+        "longitude": 12.275, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12625603, 
+        "latitude": 50.471, 
+        "sw_longitude": 12.255, 
+        "fullname": "Bergen, Saxony, Vogtlandkreis, Germany", 
+        "sw_latitude": 50.454
+      }, 
+      "id": 637980
+    }
+  ]
+}

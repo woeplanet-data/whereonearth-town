@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.302, 
+              53.622
+            ], 
+            [
+              10.302, 
+              53.640
+            ], 
+            [
+              10.332, 
+              53.640
+            ], 
+            [
+              10.332, 
+              53.622
+            ], 
+            [
+              10.302, 
+              53.622
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20164630, 
+        "name": "Siekerberg", 
+        "adjacent_woeid": [
+          649925, 
+          684190, 
+          20164597, 
+          20164613, 
+          29350780
+        ], 
+        "ne_latitude": 53.640, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.332, 
+        "longitude": 10.317, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:52Z", 
+        "parent_woeid": 12631864, 
+        "latitude": 53.631, 
+        "sw_longitude": 10.302, 
+        "fullname": "Siekerberg, Schleswig-Holstein, Stormarn, Germany", 
+        "sw_latitude": 53.622
+      }, 
+      "id": 20164630
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.187, 
+              52.682
+            ], 
+            [
+              10.187, 
+              52.700
+            ], 
+            [
+              10.217, 
+              52.700
+            ], 
+            [
+              10.217, 
+              52.682
+            ], 
+            [
+              10.187, 
+              52.682
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349545, 
+        "name": "Siedlung Burghorn", 
+        "adjacent_woeid": [
+          662382, 
+          683052, 
+          20166603
+        ], 
+        "ne_latitude": 52.700, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.217, 
+        "longitude": 10.202, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:45Z", 
+        "parent_woeid": 12629607, 
+        "latitude": 52.691, 
+        "sw_longitude": 10.187, 
+        "fullname": "Siedlung Burghorn, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.682
+      }, 
+      "id": 29349545
+    }
+  ]
+}

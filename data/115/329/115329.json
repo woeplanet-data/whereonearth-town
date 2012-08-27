@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.493, 
+              23.341
+            ], 
+            [
+              -101.493, 
+              23.359
+            ], 
+            [
+              -101.473, 
+              23.359
+            ], 
+            [
+              -101.473, 
+              23.341
+            ], 
+            [
+              -101.493, 
+              23.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.359, 
+        "name": "Cerrito de Bernal", 
+        "adjacent_woeid": [
+          113382, 
+          120243, 
+          141049, 
+          142585, 
+          145281, 
+          146506
+        ], 
+        "woeid": 115329, 
+        "alias_SPA_V": [
+          "Cerritos de Bernal"
+        ], 
+        "ne_longitude": -101.473, 
+        "longitude": -101.483, 
+        "parent_woeid": 12601504, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.350, 
+        "sw_longitude": -101.493, 
+        "fullname": "Cerrito de Bernal, San Luis Potosi, Santo Domingo, Mexico", 
+        "sw_latitude": 23.341
+      }, 
+      "id": 115329
+    }
+  ]
+}

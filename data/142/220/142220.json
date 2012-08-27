@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.377, 
+              18.428
+            ], 
+            [
+              -97.377, 
+              18.446
+            ], 
+            [
+              -97.358, 
+              18.446
+            ], 
+            [
+              -97.358, 
+              18.428
+            ], 
+            [
+              -97.377, 
+              18.428
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.446, 
+        "name": "San Diego Chalma", 
+        "adjacent_woeid": [
+          111949, 
+          116618, 
+          141888, 
+          142294, 
+          144572, 
+          144894
+        ], 
+        "woeid": 142220, 
+        "alias_SPA_V": [
+          "S Diego Chalma"
+        ], 
+        "ne_longitude": -97.358, 
+        "longitude": -97.368, 
+        "parent_woeid": 12601382, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.437, 
+        "sw_longitude": -97.377, 
+        "fullname": "San Diego Chalma, Puebla, Tehuacan, Mexico", 
+        "sw_latitude": 18.428
+      }, 
+      "id": 142220
+    }
+  ]
+}

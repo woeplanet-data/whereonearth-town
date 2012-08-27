@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.478, 
+              48.874
+            ], 
+            [
+              10.478, 
+              48.916
+            ], 
+            [
+              10.522, 
+              48.916
+            ], 
+            [
+              10.522, 
+              48.874
+            ], 
+            [
+              10.478, 
+              48.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639140, 
+        "name": "Birkhausen", 
+        "adjacent_woeid": [
+          646051, 
+          672662, 
+          676895, 
+          684827, 
+          705337
+        ], 
+        "ne_latitude": 48.916, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.522, 
+        "longitude": 10.493, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:45Z", 
+        "parent_woeid": 12635019, 
+        "latitude": 48.899, 
+        "sw_longitude": 10.478, 
+        "fullname": "Birkhausen, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.874
+      }, 
+      "id": 639140
+    }
+  ]
+}

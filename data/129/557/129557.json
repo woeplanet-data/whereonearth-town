@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.027, 
+              24.024
+            ], 
+            [
+              -110.027, 
+              24.042
+            ], 
+            [
+              -110.007, 
+              24.042
+            ], 
+            [
+              -110.007, 
+              24.024
+            ], 
+            [
+              -110.027, 
+              24.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.042, 
+        "name": "La Ventana", 
+        "adjacent_woeid": [
+          122647, 
+          123256, 
+          130246, 
+          132294, 
+          145022
+        ], 
+        "woeid": 129557, 
+        "alias_SPA_V": [
+          "Ventana"
+        ], 
+        "ne_longitude": -110.007, 
+        "longitude": -110.017, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.033, 
+        "sw_longitude": -110.027, 
+        "fullname": "La Ventana, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 24.024
+      }, 
+      "id": 129557
+    }
+  ]
+}

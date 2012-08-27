@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.282, 
+              48.010
+            ], 
+            [
+              12.282, 
+              48.029
+            ], 
+            [
+              12.309, 
+              48.029
+            ], 
+            [
+              12.309, 
+              48.010
+            ], 
+            [
+              12.282, 
+              48.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346524, 
+        "name": "Pfaffing", 
+        "adjacent_woeid": [
+          649079, 
+          29346519, 
+          29346654, 
+          29346661
+        ], 
+        "ne_latitude": 48.029, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.309, 
+        "longitude": 12.295, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:26Z", 
+        "parent_woeid": 12622759, 
+        "latitude": 48.019, 
+        "sw_longitude": 12.282, 
+        "fullname": "Pfaffing, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 48.010
+      }, 
+      "id": 29346524
+    }
+  ]
+}

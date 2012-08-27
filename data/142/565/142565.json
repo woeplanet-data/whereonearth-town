@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.143, 
+              17.958
+            ], 
+            [
+              -102.143, 
+              17.976
+            ], 
+            [
+              -102.124, 
+              17.976
+            ], 
+            [
+              -102.124, 
+              17.958
+            ], 
+            [
+              -102.143, 
+              17.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.976, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          121048, 
+          131039, 
+          133286, 
+          136528, 
+          151522
+        ], 
+        "woeid": 142565, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -102.124, 
+        "longitude": -102.133, 
+        "parent_woeid": 12600075, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.967, 
+        "sw_longitude": -102.143, 
+        "fullname": "San Francisco, Guerrero, La Uni\u00f3n de Isidoro Montes de Oca, Mexico", 
+        "sw_latitude": 17.958
+      }, 
+      "id": 142565
+    }
+  ]
+}

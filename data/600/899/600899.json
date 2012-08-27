@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.005, 
+              43.491
+            ], 
+            [
+              -1.005, 
+              43.557
+            ], 
+            [
+              -0.939, 
+              43.557
+            ], 
+            [
+              -0.939, 
+              43.491
+            ], 
+            [
+              -1.005, 
+              43.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600899, 
+        "name": "Lahontan", 
+        "adjacent_woeid": [
+          579176, 
+          583127, 
+          600581, 
+          618455, 
+          622425, 
+          623626, 
+          29331921
+        ], 
+        "ne_latitude": 43.557, 
+        "ne_longitude": -0.939, 
+        "longitude": -0.972, 
+        "parent_woeid": 12646858, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lahondan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.530, 
+        "sw_longitude": -1.005, 
+        "fullname": "Lahontan, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.491
+      }, 
+      "id": 600899
+    }
+  ]
+}

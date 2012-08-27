@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.743, 
+              20.208
+            ], 
+            [
+              -98.743, 
+              20.226
+            ], 
+            [
+              -98.724, 
+              20.226
+            ], 
+            [
+              -98.724, 
+              20.208
+            ], 
+            [
+              -98.743, 
+              20.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.226, 
+        "name": "Mineral del Chico", 
+        "adjacent_woeid": [
+          111018, 
+          111077, 
+          112687, 
+          114758, 
+          123125, 
+          124580, 
+          133718, 
+          135484, 
+          137544, 
+          141939, 
+          145638, 
+          147063, 
+          148931, 
+          149036, 
+          149216, 
+          150631, 
+          151718
+        ], 
+        "woeid": 133717, 
+        "alias_SPA_V": [
+          "El Chico"
+        ], 
+        "ne_longitude": -98.724, 
+        "longitude": -98.732, 
+        "parent_woeid": 12600148, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.214, 
+        "sw_longitude": -98.743, 
+        "fullname": "Mineral del Chico, Hidalgo, Mineral del Chico, Mexico", 
+        "sw_latitude": 20.208
+      }, 
+      "id": 133717
+    }
+  ]
+}

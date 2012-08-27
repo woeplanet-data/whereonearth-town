@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.877, 
+              50.108
+            ], 
+            [
+              8.877, 
+              50.141
+            ], 
+            [
+              8.906, 
+              50.141
+            ], 
+            [
+              8.906, 
+              50.108
+            ], 
+            [
+              8.877, 
+              50.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665580, 
+        "name": "Kesselstadt", 
+        "adjacent_woeid": [
+          645367, 
+          661009, 
+          663311, 
+          696930
+        ], 
+        "ne_latitude": 50.141, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.906, 
+        "longitude": 8.891, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12632526, 
+        "latitude": 50.129, 
+        "sw_longitude": 8.877, 
+        "fullname": "Kesselstadt, Hesse, Main-Kinzig-Kreis, Germany", 
+        "sw_latitude": 50.108
+      }, 
+      "id": 665580
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.194, 
+              27.241
+            ], 
+            [
+              -106.194, 
+              27.259
+            ], 
+            [
+              -106.173, 
+              27.259
+            ], 
+            [
+              -106.173, 
+              27.241
+            ], 
+            [
+              -106.194, 
+              27.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.259, 
+        "name": "La Cruz", 
+        "adjacent_woeid": [
+          118985, 
+          122848, 
+          125115, 
+          127715, 
+          142364, 
+          150501
+        ], 
+        "woeid": 127073, 
+        "alias_SPA_V": [
+          "Rancho la Cruz"
+        ], 
+        "ne_longitude": -106.173, 
+        "longitude": -106.183, 
+        "parent_woeid": 12599875, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.250, 
+        "sw_longitude": -106.194, 
+        "fullname": "La Cruz, Chihuahua, Rosario, Mexico", 
+        "sw_latitude": 27.241
+      }, 
+      "id": 127073
+    }
+  ]
+}

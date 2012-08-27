@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.993, 
+              8.900
+            ], 
+            [
+              -71.993, 
+              8.914
+            ], 
+            [
+              -71.978, 
+              8.914
+            ], 
+            [
+              -71.978, 
+              8.900
+            ], 
+            [
+              -71.993, 
+              8.900
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.914, 
+        "name": "Santa Cruz del Zulia", 
+        "adjacent_woeid": [
+          388855, 
+          394107, 
+          395401, 
+          395598, 
+          468199
+        ], 
+        "woeid": 395344, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -71.978, 
+        "longitude": -71.985, 
+        "parent_woeid": 26805021, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.907, 
+        "sw_longitude": -71.993, 
+        "fullname": "Santa Cruz del Zulia, Zulia, Colon, Venezuela", 
+        "sw_latitude": 8.900
+      }, 
+      "id": 395344
+    }
+  ]
+}

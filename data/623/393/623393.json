@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.825, 
+              44.664
+            ], 
+            [
+              0.825, 
+              44.700
+            ], 
+            [
+              0.867, 
+              44.700
+            ], 
+            [
+              0.867, 
+              44.664
+            ], 
+            [
+              0.825, 
+              44.664
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623393, 
+        "name": "St.-Cassien", 
+        "adjacent_woeid": [
+          592506, 
+          601804, 
+          610242, 
+          615735, 
+          618787, 
+          628915
+        ], 
+        "ne_latitude": 44.700, 
+        "ne_longitude": 0.867, 
+        "longitude": 0.845, 
+        "parent_woeid": 12652292, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cassien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.686, 
+        "sw_longitude": 0.825, 
+        "fullname": "St.-Cassien, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.664
+      }, 
+      "id": 623393
+    }
+  ]
+}

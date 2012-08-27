@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.955, 
+              -29.976
+            ], 
+            [
+              -70.955, 
+              -29.962
+            ], 
+            [
+              -70.939, 
+              -29.962
+            ], 
+            [
+              -70.939, 
+              -29.976
+            ], 
+            [
+              -70.955, 
+              -29.976
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -29.962, 
+        "name": "El Molle", 
+        "adjacent_woeid": [
+          347703, 
+          348026, 
+          348075, 
+          348284, 
+          349604, 
+          350212, 
+          350404
+        ], 
+        "woeid": 347593, 
+        "alias_SPA_V": [
+          "Molle"
+        ], 
+        "ne_longitude": -70.939, 
+        "longitude": -70.947, 
+        "parent_woeid": 26794143, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -29.969, 
+        "sw_longitude": -70.955, 
+        "fullname": "El Molle, Coquimbo Region, Elqui Province, Chile", 
+        "sw_latitude": -29.976
+      }, 
+      "id": 347593
+    }
+  ]
+}

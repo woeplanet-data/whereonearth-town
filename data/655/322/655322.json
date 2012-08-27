@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.475, 
+              53.512
+            ], 
+            [
+              10.475, 
+              53.560
+            ], 
+            [
+              10.505, 
+              53.560
+            ], 
+            [
+              10.505, 
+              53.512
+            ], 
+            [
+              10.475, 
+              53.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 655322, 
+        "name": "Grove", 
+        "adjacent_woeid": [
+          653669, 
+          658131, 
+          670393, 
+          690760, 
+          20164896
+        ], 
+        "ne_latitude": 53.560, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.505, 
+        "longitude": 10.493, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 12632068, 
+        "latitude": 53.528, 
+        "sw_longitude": 10.475, 
+        "fullname": "Grove, Schleswig-Holstein, Herzogtum Lauenburg, Germany", 
+        "alias_GER_V": [
+          "O Grove"
+        ], 
+        "sw_latitude": 53.512
+      }, 
+      "id": 655322
+    }
+  ]
+}

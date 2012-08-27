@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.555, 
+              48.807
+            ], 
+            [
+              1.555, 
+              48.816
+            ], 
+            [
+              1.569, 
+              48.816
+            ], 
+            [
+              1.569, 
+              48.807
+            ], 
+            [
+              1.555, 
+              48.807
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602730, 
+        "name": "Le Coudray", 
+        "adjacent_woeid": [
+          593288, 
+          598715, 
+          619396, 
+          625350
+        ], 
+        "ne_latitude": 48.816, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.569, 
+        "longitude": 1.562, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12646361, 
+        "latitude": 48.811, 
+        "sw_longitude": 1.555, 
+        "fullname": "Le Coudray, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.807
+      }, 
+      "id": 602730
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.688, 
+              49.890
+            ], 
+            [
+              11.688, 
+              49.910
+            ], 
+            [
+              11.709, 
+              49.910
+            ], 
+            [
+              11.709, 
+              49.890
+            ], 
+            [
+              11.688, 
+              49.890
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650108, 
+        "name": "Forst", 
+        "adjacent_woeid": [
+          649558, 
+          651755, 
+          671364, 
+          694656, 
+          708269, 
+          20156259
+        ], 
+        "ne_latitude": 49.910, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.709, 
+        "longitude": 11.700, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12635276, 
+        "latitude": 49.900, 
+        "sw_longitude": 11.688, 
+        "fullname": "Forst, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 49.890
+      }, 
+      "id": 650108
+    }
+  ]
+}

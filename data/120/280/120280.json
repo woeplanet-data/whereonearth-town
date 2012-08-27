@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.536, 
+              31.034
+            ], 
+            [
+              -107.536, 
+              31.052
+            ], 
+            [
+              -107.514, 
+              31.052
+            ], 
+            [
+              -107.514, 
+              31.034
+            ], 
+            [
+              -107.536, 
+              31.034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.052, 
+        "name": "El Fresnal", 
+        "adjacent_woeid": [
+          111137, 
+          115050, 
+          124641, 
+          135043, 
+          145667
+        ], 
+        "woeid": 120280, 
+        "alias_SPA_V": [
+          "Fresnal"
+        ], 
+        "ne_longitude": -107.514, 
+        "longitude": -107.525, 
+        "parent_woeid": 12599823, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.043, 
+        "sw_longitude": -107.536, 
+        "fullname": "El Fresnal, Chihuahua, Ascension, Mexico", 
+        "sw_latitude": 31.034
+      }, 
+      "id": 120280
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.441, 
+              49.944
+            ], 
+            [
+              1.441, 
+              49.984
+            ], 
+            [
+              1.496, 
+              49.984
+            ], 
+            [
+              1.496, 
+              49.944
+            ], 
+            [
+              1.441, 
+              49.944
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610900, 
+        "name": "Melleville", 
+        "adjacent_woeid": [
+          593536, 
+          593986, 
+          603620, 
+          611529, 
+          611892, 
+          632289
+        ], 
+        "ne_latitude": 49.984, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.496, 
+        "longitude": 1.471, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12649001, 
+        "latitude": 49.959, 
+        "sw_longitude": 1.441, 
+        "fullname": "Melleville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.944
+      }, 
+      "id": 610900
+    }
+  ]
+}

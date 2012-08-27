@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.242, 
+              49.994
+            ], 
+            [
+              12.242, 
+              50.011
+            ], 
+            [
+              12.267, 
+              50.011
+            ], 
+            [
+              12.267, 
+              49.994
+            ], 
+            [
+              12.242, 
+              49.994
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678002, 
+        "name": "Neudorf", 
+        "adjacent_woeid": [
+          650035, 
+          677584, 
+          685342, 
+          689599
+        ], 
+        "ne_latitude": 50.011, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.267, 
+        "longitude": 12.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12634339, 
+        "latitude": 50.003, 
+        "sw_longitude": 12.242, 
+        "fullname": "Neudorf, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 49.994
+      }, 
+      "id": 678002
+    }
+  ]
+}

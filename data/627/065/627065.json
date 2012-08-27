@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.643, 
+              49.836
+            ], 
+            [
+              0.643, 
+              49.868
+            ], 
+            [
+              0.685, 
+              49.868
+            ], 
+            [
+              0.685, 
+              49.836
+            ], 
+            [
+              0.643, 
+              49.836
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627065, 
+        "name": "St.-Sylvain", 
+        "adjacent_woeid": [
+          595205, 
+          626746, 
+          29330917, 
+          29330918
+        ], 
+        "ne_latitude": 49.868, 
+        "ne_longitude": 0.685, 
+        "longitude": 0.671, 
+        "parent_woeid": 20074866, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sylvain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.848, 
+        "sw_longitude": 0.643, 
+        "fullname": "St.-Sylvain, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.836
+      }, 
+      "id": 627065
+    }
+  ]
+}

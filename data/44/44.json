@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.681, 
+              43.397
+            ], 
+            [
+              -80.681, 
+              43.411
+            ], 
+            [
+              -80.649, 
+              43.411
+            ], 
+            [
+              -80.649, 
+              43.397
+            ], 
+            [
+              -80.681, 
+              43.397
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 44, 
+        "name": "Baden", 
+        "adjacent_woeid": [
+          23397162, 
+          23397279, 
+          23397287, 
+          23401665, 
+          29374864
+        ], 
+        "ne_latitude": 43.411, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -80.649, 
+        "longitude": -80.668, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:35Z", 
+        "parent_woeid": 29375060, 
+        "latitude": 43.403, 
+        "sw_longitude": -80.681, 
+        "fullname": "Baden, Ontario, Waterloo, Canada", 
+        "sw_latitude": 43.397
+      }, 
+      "id": 44
+    }
+  ]
+}

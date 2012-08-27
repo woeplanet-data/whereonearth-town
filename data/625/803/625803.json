@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.797, 
+              49.884
+            ], 
+            [
+              1.797, 
+              49.915
+            ], 
+            [
+              1.846, 
+              49.915
+            ], 
+            [
+              1.846, 
+              49.884
+            ], 
+            [
+              1.797, 
+              49.884
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625803, 
+        "name": "St.-Maulvis", 
+        "adjacent_woeid": [
+          576036, 
+          576598, 
+          577586, 
+          589743, 
+          592042, 
+          592050, 
+          592100
+        ], 
+        "ne_latitude": 49.915, 
+        "ne_longitude": 1.846, 
+        "longitude": 1.829, 
+        "parent_woeid": 12670910, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maulvis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.903, 
+        "sw_longitude": 1.797, 
+        "fullname": "St.-Maulvis, Picardie, Somme, France", 
+        "sw_latitude": 49.884
+      }, 
+      "id": 625803
+    }
+  ]
+}

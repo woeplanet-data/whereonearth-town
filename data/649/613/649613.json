@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.381, 
+              51.832
+            ], 
+            [
+              10.381, 
+              51.841
+            ], 
+            [
+              10.396, 
+              51.841
+            ], 
+            [
+              10.396, 
+              51.832
+            ], 
+            [
+              10.381, 
+              51.832
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649613, 
+        "name": "Festenburg", 
+        "adjacent_woeid": [
+          680703, 
+          20166243, 
+          29349646, 
+          29349714
+        ], 
+        "ne_latitude": 51.841, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.396, 
+        "longitude": 10.388, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12630360, 
+        "latitude": 51.837, 
+        "sw_longitude": 10.381, 
+        "fullname": "Festenburg, Lower Saxony, Landkreis Goslar, Germany", 
+        "sw_latitude": 51.832
+      }, 
+      "id": 649613
+    }
+  ]
+}

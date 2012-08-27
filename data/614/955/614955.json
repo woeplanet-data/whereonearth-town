@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.705, 
+              49.123
+            ], 
+            [
+              1.705, 
+              49.154
+            ], 
+            [
+              1.742, 
+              49.154
+            ], 
+            [
+              1.742, 
+              49.123
+            ], 
+            [
+              1.705, 
+              49.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614955, 
+        "name": "Omerville", 
+        "adjacent_woeid": [
+          575909, 
+          576443, 
+          585290, 
+          592584, 
+          594880, 
+          609230
+        ], 
+        "ne_latitude": 49.154, 
+        "ne_longitude": 1.742, 
+        "longitude": 1.720, 
+        "parent_woeid": 12650185, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Overville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.140, 
+        "sw_longitude": 1.705, 
+        "fullname": "Omerville, Ile-de-France, Val-d'Oise, France", 
+        "sw_latitude": 49.123
+      }, 
+      "id": 614955
+    }
+  ]
+}

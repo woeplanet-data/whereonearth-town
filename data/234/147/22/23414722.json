@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.132, 
+              36.451
+            ], 
+            [
+              -5.132, 
+              36.463
+            ], 
+            [
+              -5.121, 
+              36.463
+            ], 
+            [
+              -5.121, 
+              36.451
+            ], 
+            [
+              -5.132, 
+              36.451
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 36.463, 
+        "name": "Puerto Romano", 
+        "adjacent_woeid": [
+          762889, 
+          15003645, 
+          20222663, 
+          20226402, 
+          20227420, 
+          23415291, 
+          56125912
+        ], 
+        "woeid": 23414722, 
+        "alias_SPA_V": [
+          "Pto Romano"
+        ], 
+        "ne_longitude": -5.121, 
+        "longitude": -5.126, 
+        "parent_woeid": 12689240, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.455, 
+        "sw_longitude": -5.132, 
+        "fullname": "Puerto Romano, Andalusia, Malaga, Spain", 
+        "sw_latitude": 36.451
+      }, 
+      "id": 23414722
+    }
+  ]
+}

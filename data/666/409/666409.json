@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.600, 
+              53.034
+            ], 
+            [
+              10.600, 
+              53.071
+            ], 
+            [
+              10.633, 
+              53.071
+            ], 
+            [
+              10.633, 
+              53.034
+            ], 
+            [
+              10.600, 
+              53.034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666409, 
+        "name": "Klein Hesebeck", 
+        "adjacent_woeid": [
+          654521, 
+          663990, 
+          666311, 
+          682971
+        ], 
+        "ne_latitude": 53.071, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.633, 
+        "longitude": 10.615, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12629775, 
+        "latitude": 53.056, 
+        "sw_longitude": 10.600, 
+        "fullname": "Klein Hesebeck, Lower Saxony, Landkreis Uelzen, Germany", 
+        "sw_latitude": 53.034
+      }, 
+      "id": 666409
+    }
+  ]
+}

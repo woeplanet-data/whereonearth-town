@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.194, 
+              41.200
+            ], 
+            [
+              -77.194, 
+              41.270
+            ], 
+            [
+              -77.089, 
+              41.270
+            ], 
+            [
+              -77.089, 
+              41.200
+            ], 
+            [
+              -77.194, 
+              41.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745575, 
+        "name": "Woodward", 
+        "adjacent_woeid": [
+          2359889, 
+          2415094, 
+          2438602, 
+          2460086, 
+          2472390, 
+          28340087, 
+          28745281, 
+          28745411
+        ], 
+        "ne_latitude": 41.270, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Woodward Township"
+        ], 
+        "ne_longitude": -77.089, 
+        "longitude": -77.146, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589768, 
+        "latitude": 41.230, 
+        "sw_longitude": -77.194, 
+        "fullname": "Woodward, Pennsylvania, Lycoming, United States", 
+        "sw_latitude": 41.200
+      }, 
+      "id": 28745575
+    }
+  ]
+}

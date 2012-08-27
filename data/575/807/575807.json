@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.327, 
+              49.921
+            ], 
+            [
+              2.327, 
+              49.961
+            ], 
+            [
+              2.397, 
+              49.961
+            ], 
+            [
+              2.397, 
+              49.921
+            ], 
+            [
+              2.327, 
+              49.921
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 575807, 
+        "name": "Allonville", 
+        "adjacent_woeid": [
+          583060, 
+          617688, 
+          624476, 
+          20218844
+        ], 
+        "ne_latitude": 49.961, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.397, 
+        "longitude": 2.363, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 12655114, 
+        "latitude": 49.941, 
+        "sw_longitude": 2.327, 
+        "fullname": "Allonville, Picardie, Somme, France", 
+        "sw_latitude": 49.921
+      }, 
+      "id": 575807
+    }
+  ]
+}

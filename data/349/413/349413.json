@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.542, 
+              -33.924
+            ], 
+            [
+              -71.542, 
+              -33.910
+            ], 
+            [
+              -71.525, 
+              -33.910
+            ], 
+            [
+              -71.525, 
+              -33.924
+            ], 
+            [
+              -71.542, 
+              -33.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.910, 
+        "name": "San Enrique", 
+        "adjacent_woeid": [
+          347516, 
+          347642, 
+          349223, 
+          350123
+        ], 
+        "woeid": 349413, 
+        "alias_SPA_V": [
+          "S Enrique"
+        ], 
+        "ne_longitude": -71.525, 
+        "longitude": -71.533, 
+        "parent_woeid": 26794277, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.917, 
+        "sw_longitude": -71.542, 
+        "fullname": "San Enrique, Santiago Metropolitan Region, Melipilla Province, Chile", 
+        "sw_latitude": -33.924
+      }, 
+      "id": 349413
+    }
+  ]
+}

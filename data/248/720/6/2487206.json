@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -115.115, 
+              47.291
+            ], 
+            [
+              -115.115, 
+              47.308
+            ], 
+            [
+              -115.082, 
+              47.308
+            ], 
+            [
+              -115.082, 
+              47.291
+            ], 
+            [
+              -115.115, 
+              47.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2487206, 
+        "name": "St. Regis", 
+        "adjacent_woeid": [
+          2372891, 
+          2389948, 
+          2396933, 
+          2404891, 
+          2418707, 
+          2432094, 
+          2456246, 
+          2473375, 
+          2477680, 
+          2487644, 
+          2497898, 
+          2502610, 
+          2505791, 
+          2507118, 
+          2513611, 
+          2516012
+        ], 
+        "ne_latitude": 47.308, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Stregis"
+        ], 
+        "ne_longitude": -115.082, 
+        "longitude": -115.095, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:35:26Z", 
+        "parent_woeid": 12589111, 
+        "latitude": 47.301, 
+        "sw_longitude": -115.115, 
+        "fullname": "St. Regis, Montana, Mineral, United States", 
+        "sw_latitude": 47.291
+      }, 
+      "id": 2487206
+    }
+  ]
+}

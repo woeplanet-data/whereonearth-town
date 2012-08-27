@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.002, 
+              46.195
+            ], 
+            [
+              4.002, 
+              46.228
+            ], 
+            [
+              4.036, 
+              46.228
+            ], 
+            [
+              4.036, 
+              46.195
+            ], 
+            [
+              4.002, 
+              46.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610869, 
+        "name": "Melay", 
+        "adjacent_woeid": [
+          576776, 
+          581954, 
+          585509, 
+          596867, 
+          614367, 
+          625693, 
+          632510
+        ], 
+        "ne_latitude": 46.228, 
+        "ne_longitude": 4.036, 
+        "longitude": 4.017, 
+        "parent_woeid": 12648990, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Melay-sur-Loire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.214, 
+        "sw_longitude": 4.002, 
+        "fullname": "Melay, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.195
+      }, 
+      "id": 610869
+    }
+  ]
+}

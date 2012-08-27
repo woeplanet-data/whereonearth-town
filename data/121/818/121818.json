@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.460, 
+              24.941
+            ], 
+            [
+              -107.460, 
+              24.959
+            ], 
+            [
+              -107.440, 
+              24.959
+            ], 
+            [
+              -107.440, 
+              24.941
+            ], 
+            [
+              -107.460, 
+              24.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.959, 
+        "name": "El Ranchito", 
+        "adjacent_woeid": [
+          117995, 
+          128081, 
+          135861, 
+          136054, 
+          137570, 
+          145211, 
+          148081
+        ], 
+        "woeid": 121818, 
+        "alias_SPA_V": [
+          "Ranchito"
+        ], 
+        "ne_longitude": -107.440, 
+        "longitude": -107.450, 
+        "parent_woeid": 12601533, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.950, 
+        "sw_longitude": -107.460, 
+        "fullname": "El Ranchito, Sinaloa, Culiacan, Mexico", 
+        "sw_latitude": 24.941
+      }, 
+      "id": 121818
+    }
+  ]
+}

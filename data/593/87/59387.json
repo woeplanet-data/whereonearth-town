@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.621, 
+              10.348
+            ], 
+            [
+              -84.621, 
+              10.362
+            ], 
+            [
+              -84.607, 
+              10.362
+            ], 
+            [
+              -84.607, 
+              10.348
+            ], 
+            [
+              -84.621, 
+              10.348
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.362, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          58048, 
+          59085, 
+          59726, 
+          59802
+        ], 
+        "woeid": 59387, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -84.607, 
+        "longitude": -84.614, 
+        "parent_woeid": 26809299, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.355, 
+        "sw_longitude": -84.621, 
+        "fullname": "San Isidro, Alajuela, San Carlos, Costa Rica", 
+        "sw_latitude": 10.348
+      }, 
+      "id": 59387
+    }
+  ]
+}

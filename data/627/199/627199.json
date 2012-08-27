@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.742, 
+              46.193
+            ], 
+            [
+              1.742, 
+              46.213
+            ], 
+            [
+              1.777, 
+              46.213
+            ], 
+            [
+              1.777, 
+              46.193
+            ], 
+            [
+              1.742, 
+              46.193
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627199, 
+        "name": "St.-Vaury", 
+        "adjacent_woeid": [
+          579273, 
+          589271, 
+          591117, 
+          592466, 
+          593962, 
+          597125, 
+          597620, 
+          603140, 
+          604008, 
+          626977, 
+          627055
+        ], 
+        "ne_latitude": 46.213, 
+        "ne_longitude": 1.777, 
+        "longitude": 1.756, 
+        "parent_woeid": 20074904, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vaury"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.204, 
+        "sw_longitude": 1.742, 
+        "fullname": "St.-Vaury, Limousin, Creuse, France", 
+        "sw_latitude": 46.193
+      }, 
+      "id": 627199
+    }
+  ]
+}

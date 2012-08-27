@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.119, 
+              47.679
+            ], 
+            [
+              10.119, 
+              47.721
+            ], 
+            [
+              10.168, 
+              47.721
+            ], 
+            [
+              10.168, 
+              47.679
+            ], 
+            [
+              10.119, 
+              47.679
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648642, 
+        "name": "Eschachthal", 
+        "adjacent_woeid": [
+          647329, 
+          648632, 
+          692444, 
+          696453, 
+          701166, 
+          703603, 
+          704335, 
+          705334
+        ], 
+        "ne_latitude": 47.721, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.168, 
+        "longitude": 10.133, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12623822, 
+        "latitude": 47.700, 
+        "sw_longitude": 10.119, 
+        "fullname": "Eschachthal, Baden-Wurttemberg, Landkreis Ravensburg, Germany", 
+        "sw_latitude": 47.679
+      }, 
+      "id": 648642
+    }
+  ]
+}

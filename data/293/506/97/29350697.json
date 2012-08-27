@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.056, 
+              54.005
+            ], 
+            [
+              10.056, 
+              54.023
+            ], 
+            [
+              10.087, 
+              54.023
+            ], 
+            [
+              10.087, 
+              54.005
+            ], 
+            [
+              10.056, 
+              54.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29350697, 
+        "name": "Braak Siedlung", 
+        "adjacent_woeid": [
+          640598, 
+          666460, 
+          670483, 
+          706719
+        ], 
+        "ne_latitude": 54.023, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.087, 
+        "longitude": 10.071, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:52Z", 
+        "parent_woeid": 12631702, 
+        "latitude": 54.014, 
+        "sw_longitude": 10.056, 
+        "fullname": "Braak Siedlung, Schleswig-Holstein, Segeberg, Germany", 
+        "sw_latitude": 54.005
+      }, 
+      "id": 29350697
+    }
+  ]
+}

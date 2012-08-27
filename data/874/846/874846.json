@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.864, 
+              45.666
+            ], 
+            [
+              21.864, 
+              45.708
+            ], 
+            [
+              21.945, 
+              45.708
+            ], 
+            [
+              21.945, 
+              45.666
+            ], 
+            [
+              21.864, 
+              45.666
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "RUM", 
+        "ne_latitude": 45.708, 
+        "name": "Lugoj", 
+        "adjacent_woeid": [
+          873614, 
+          881485, 
+          870418, 
+          873633, 
+          877611, 
+          874847
+        ], 
+        "parent_woeid": 2346649, 
+        "alias_ENG_V": [
+          "Lugos"
+        ], 
+        "ne_longitude": 21.945, 
+        "longitude": 21.906, 
+        "placetype": "Town", 
+        "alias_RUM_V": [
+          "Lugoi"
+        ], 
+        "iso": "RO", 
+        "date_indexed": "2010-12-02T16:37:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.685, 
+        "sw_longitude": 21.864, 
+        "fullname": "Lugoj, Lugoi, Timis, Romania", 
+        "woeid": 874846, 
+        "sw_latitude": 45.666
+      }, 
+      "id": 874846
+    }
+  ]
+}

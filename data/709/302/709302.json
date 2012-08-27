@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.593, 
+              48.467
+            ], 
+            [
+              10.593, 
+              48.489
+            ], 
+            [
+              10.624, 
+              48.489
+            ], 
+            [
+              10.624, 
+              48.467
+            ], 
+            [
+              10.593, 
+              48.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709302, 
+        "name": "Zusamzell", 
+        "adjacent_woeid": [
+          648259, 
+          658026, 
+          658350, 
+          659103, 
+          702377
+        ], 
+        "ne_latitude": 48.489, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.624, 
+        "longitude": 10.607, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12634753, 
+        "latitude": 48.480, 
+        "sw_longitude": 10.593, 
+        "fullname": "Zusamzell, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.467
+      }, 
+      "id": 709302
+    }
+  ]
+}

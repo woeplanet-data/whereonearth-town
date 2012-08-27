@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.373, 
+              47.048
+            ], 
+            [
+              2.373, 
+              47.071
+            ], 
+            [
+              2.399, 
+              47.071
+            ], 
+            [
+              2.399, 
+              47.048
+            ], 
+            [
+              2.373, 
+              47.048
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332416, 
+        "name": "Trouy-Nord", 
+        "adjacent_woeid": [
+          592723, 
+          592954, 
+          616717, 
+          29332415
+        ], 
+        "ne_latitude": 47.071, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.399, 
+        "longitude": 2.386, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12653890, 
+        "latitude": 47.062, 
+        "sw_longitude": 2.373, 
+        "fullname": "Trouy-Nord, Centre, Cher, France", 
+        "sw_latitude": 47.048
+      }, 
+      "id": 29332416
+    }
+  ]
+}

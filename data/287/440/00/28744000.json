@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.216, 
+              44.330
+            ], 
+            [
+              -85.216, 
+              44.348
+            ], 
+            [
+              -85.191, 
+              44.348
+            ], 
+            [
+              -85.191, 
+              44.330
+            ], 
+            [
+              -85.216, 
+              44.330
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744000, 
+        "name": "Forest", 
+        "adjacent_woeid": [
+          2453990, 
+          28744151, 
+          28744153
+        ], 
+        "ne_latitude": 44.348, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Forest Township"
+        ], 
+        "ne_longitude": -85.191, 
+        "longitude": -85.203, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:35:50Z", 
+        "parent_woeid": 12588770, 
+        "latitude": 44.339, 
+        "sw_longitude": -85.216, 
+        "fullname": "Forest, Michigan, Missaukee, United States", 
+        "sw_latitude": 44.330
+      }, 
+      "id": 28744000
+    }
+  ]
+}

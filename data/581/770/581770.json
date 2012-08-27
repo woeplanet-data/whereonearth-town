@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.531, 
+              49.965
+            ], 
+            [
+              2.531, 
+              50.000
+            ], 
+            [
+              2.572, 
+              50.000
+            ], 
+            [
+              2.572, 
+              49.965
+            ], 
+            [
+              2.531, 
+              49.965
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 581770, 
+        "name": "Bresle", 
+        "adjacent_woeid": [
+          577908, 
+          594635, 
+          601896, 
+          619352, 
+          632837
+        ], 
+        "ne_latitude": 50.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.572, 
+        "longitude": 2.557, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "parent_woeid": 12657801, 
+        "latitude": 49.982, 
+        "sw_longitude": 2.531, 
+        "fullname": "Bresle, Picardie, Somme, France", 
+        "sw_latitude": 49.965
+      }, 
+      "id": 581770
+    }
+  ]
+}

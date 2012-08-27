@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.378, 
+              50.051
+            ], 
+            [
+              1.378, 
+              50.077
+            ], 
+            [
+              1.412, 
+              50.077
+            ], 
+            [
+              1.412, 
+              50.051
+            ], 
+            [
+              1.378, 
+              50.051
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611171, 
+        "name": "Mers-les-Bains", 
+        "adjacent_woeid": [
+          590349, 
+          604756, 
+          626653
+        ], 
+        "ne_latitude": 50.077, 
+        "ne_longitude": 1.412, 
+        "longitude": 1.386, 
+        "parent_woeid": 12666607, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mers"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.066, 
+        "sw_longitude": 1.378, 
+        "fullname": "Mers-les-Bains, Picardie, Somme, France", 
+        "sw_latitude": 50.051
+      }, 
+      "id": 611171
+    }
+  ]
+}

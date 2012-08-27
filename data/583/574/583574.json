@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.132, 
+              45.935
+            ], 
+            [
+              3.132, 
+              45.970
+            ], 
+            [
+              3.155, 
+              45.970
+            ], 
+            [
+              3.155, 
+              45.935
+            ], 
+            [
+              3.132, 
+              45.935
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583574, 
+        "name": "Cellule", 
+        "adjacent_woeid": [
+          599195, 
+          20207015, 
+          20207024, 
+          29332716
+        ], 
+        "ne_latitude": 45.970, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.155, 
+        "longitude": 3.141, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12640627, 
+        "latitude": 45.947, 
+        "sw_longitude": 3.132, 
+        "fullname": "Cellule, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.935
+      }, 
+      "id": 583574
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.365, 
+              42.681
+            ], 
+            [
+              9.365, 
+              42.699
+            ], 
+            [
+              9.390, 
+              42.699
+            ], 
+            [
+              9.390, 
+              42.681
+            ], 
+            [
+              9.365, 
+              42.681
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330349, 
+        "name": "Piazze", 
+        "adjacent_woeid": [
+          583058, 
+          592269, 
+          617085, 
+          15003008
+        ], 
+        "ne_latitude": 42.699, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.390, 
+        "longitude": 9.377, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "parent_woeid": 12650999, 
+        "latitude": 42.690, 
+        "sw_longitude": 9.365, 
+        "fullname": "Piazze, Corsica, Northern Corsica, France", 
+        "sw_latitude": 42.681
+      }, 
+      "id": 29330349
+    }
+  ]
+}

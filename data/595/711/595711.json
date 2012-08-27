@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.096, 
+              43.519
+            ], 
+            [
+              0.096, 
+              43.566
+            ], 
+            [
+              0.144, 
+              43.566
+            ], 
+            [
+              0.144, 
+              43.519
+            ], 
+            [
+              0.096, 
+              43.519
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595711, 
+        "name": "Juillac", 
+        "adjacent_woeid": [
+          576642, 
+          578697, 
+          600768, 
+          628911
+        ], 
+        "ne_latitude": 43.566, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.144, 
+        "longitude": 0.125, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12663107, 
+        "latitude": 43.546, 
+        "sw_longitude": 0.096, 
+        "fullname": "Juillac, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.519
+      }, 
+      "id": 595711
+    }
+  ]
+}

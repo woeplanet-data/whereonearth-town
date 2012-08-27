@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.268, 
+              48.697
+            ], 
+            [
+              -122.268, 
+              48.762
+            ], 
+            [
+              -122.169, 
+              48.762
+            ], 
+            [
+              -122.169, 
+              48.697
+            ], 
+            [
+              -122.268, 
+              48.697
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2351763, 
+        "name": "Acme", 
+        "adjacent_woeid": [
+          2365755, 
+          2383743, 
+          2391028, 
+          2445490, 
+          2459453, 
+          2489437, 
+          2490552, 
+          2501231
+        ], 
+        "ne_latitude": 48.762, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -122.169, 
+        "longitude": -122.203, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:34:31Z", 
+        "parent_woeid": 12590476, 
+        "latitude": 48.720, 
+        "sw_longitude": -122.268, 
+        "fullname": "Acme, Washington, Whatcom, United States", 
+        "sw_latitude": 48.697
+      }, 
+      "id": 2351763
+    }
+  ]
+}

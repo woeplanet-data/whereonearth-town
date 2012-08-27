@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.495, 
+              24.297
+            ], 
+            [
+              -99.495, 
+              24.315
+            ], 
+            [
+              -99.475, 
+              24.315
+            ], 
+            [
+              -99.475, 
+              24.297
+            ], 
+            [
+              -99.495, 
+              24.297
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.315, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          116475, 
+          128455, 
+          129447, 
+          137508, 
+          144463
+        ], 
+        "woeid": 141603, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -99.475, 
+        "longitude": -99.486, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.307, 
+        "sw_longitude": -99.495, 
+        "fullname": "San Antonio, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.297
+      }, 
+      "id": 141603
+    }
+  ]
+}

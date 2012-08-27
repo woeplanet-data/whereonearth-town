@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.142, 
+              48.310
+            ], 
+            [
+              3.142, 
+              48.319
+            ], 
+            [
+              3.159, 
+              48.319
+            ], 
+            [
+              3.159, 
+              48.310
+            ], 
+            [
+              3.142, 
+              48.310
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597375, 
+        "name": "La Chapelle", 
+        "adjacent_woeid": [
+          584288, 
+          587491, 
+          631744, 
+          29332183
+        ], 
+        "ne_latitude": 48.319, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.159, 
+        "longitude": 3.149, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12638399, 
+        "latitude": 48.315, 
+        "sw_longitude": 3.142, 
+        "fullname": "La Chapelle, Burgundy, Yonne, France", 
+        "sw_latitude": 48.310
+      }, 
+      "id": 597375
+    }
+  ]
+}

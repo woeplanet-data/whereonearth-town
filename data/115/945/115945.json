@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.514, 
+              21.131
+            ], 
+            [
+              -89.514, 
+              21.149
+            ], 
+            [
+              -89.495, 
+              21.149
+            ], 
+            [
+              -89.495, 
+              21.131
+            ], 
+            [
+              -89.514, 
+              21.131
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.149, 
+        "name": "Chicxulub", 
+        "adjacent_woeid": [
+          115468, 
+          117236, 
+          125513, 
+          133840, 
+          151098
+        ], 
+        "woeid": 115945, 
+        "alias_SPA_V": [
+          "Chicxulub Pueblo"
+        ], 
+        "ne_longitude": -89.495, 
+        "longitude": -89.504, 
+        "parent_woeid": 12601943, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.140, 
+        "sw_longitude": -89.514, 
+        "fullname": "Chicxulub, Yucatan, Chicxulub Pueblo, Mexico", 
+        "sw_latitude": 21.131
+      }, 
+      "id": 115945
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.874, 
+              53.969
+            ], 
+            [
+              11.874, 
+              54.002
+            ], 
+            [
+              11.909, 
+              54.002
+            ], 
+            [
+              11.909, 
+              53.969
+            ], 
+            [
+              11.874, 
+              53.969
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 691111, 
+        "name": "Satow", 
+        "adjacent_woeid": [
+          636408, 
+          636912, 
+          642941, 
+          652209, 
+          658537, 
+          661038, 
+          664316, 
+          668989, 
+          669091, 
+          675225, 
+          678701, 
+          686265, 
+          686528, 
+          687276, 
+          689776, 
+          693442, 
+          707521
+        ], 
+        "ne_latitude": 54.002, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.909, 
+        "longitude": 11.895, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12630528, 
+        "latitude": 53.988, 
+        "sw_longitude": 11.874, 
+        "fullname": "Satow, Mecklenburg-Vorpommern, Landkreis Bad Doberan, Germany", 
+        "alias_GER_V": [
+          "Satow Bad Doberan"
+        ], 
+        "sw_latitude": 53.969
+      }, 
+      "id": 691111
+    }
+  ]
+}

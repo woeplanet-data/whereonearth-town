@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.299, 
+              48.234
+            ], 
+            [
+              15.299, 
+              48.252
+            ], 
+            [
+              15.326, 
+              48.252
+            ], 
+            [
+              15.326, 
+              48.234
+            ], 
+            [
+              15.299, 
+              48.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 543447, 
+        "name": "Rantenberg", 
+        "adjacent_woeid": [
+          542006, 
+          542156, 
+          543330, 
+          543514, 
+          544338
+        ], 
+        "ne_latitude": 48.252, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.326, 
+        "longitude": 15.312, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:41Z", 
+        "parent_woeid": 12673987, 
+        "latitude": 48.243, 
+        "sw_longitude": 15.299, 
+        "fullname": "Rantenberg, Lower Austria, Melk, Austria", 
+        "sw_latitude": 48.234
+      }, 
+      "id": 543447
+    }
+  ]
+}

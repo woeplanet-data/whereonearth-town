@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.321, 
+              46.115
+            ], 
+            [
+              -73.321, 
+              46.283
+            ], 
+            [
+              -73.100, 
+              46.283
+            ], 
+            [
+              -73.100, 
+              46.115
+            ], 
+            [
+              -73.321, 
+              46.115
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394505, 
+        "name": "St.-Cuthbert", 
+        "adjacent_woeid": [
+          3491, 
+          3494, 
+          23396506, 
+          23396523, 
+          23396588, 
+          28752682
+        ], 
+        "ne_latitude": 46.283, 
+        "ne_longitude": -73.100, 
+        "longitude": -73.226, 
+        "parent_woeid": 29375202, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Cuthbert"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.154, 
+        "sw_longitude": -73.321, 
+        "fullname": "St.-Cuthbert, Quebec, d'Autray, Canada", 
+        "sw_latitude": 46.115
+      }, 
+      "id": 23394505
+    }
+  ]
+}

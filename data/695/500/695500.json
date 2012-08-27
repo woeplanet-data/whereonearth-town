@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.395, 
+              52.217
+            ], 
+            [
+              10.395, 
+              52.247
+            ], 
+            [
+              10.420, 
+              52.247
+            ], 
+            [
+              10.420, 
+              52.217
+            ], 
+            [
+              10.395, 
+              52.217
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 695500, 
+        "name": "Sonnenberg", 
+        "adjacent_woeid": [
+          634907, 
+          644174, 
+          654495, 
+          706312
+        ], 
+        "ne_latitude": 52.247, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.420, 
+        "longitude": 10.408, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:15Z", 
+        "parent_woeid": 12630425, 
+        "latitude": 52.237, 
+        "sw_longitude": 10.395, 
+        "fullname": "Sonnenberg, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.217
+      }, 
+      "id": 695500
+    }
+  ]
+}

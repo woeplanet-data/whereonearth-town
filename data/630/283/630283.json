@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.829, 
+              47.484
+            ], 
+            [
+              3.829, 
+              47.512
+            ], 
+            [
+              3.864, 
+              47.512
+            ], 
+            [
+              3.864, 
+              47.484
+            ], 
+            [
+              3.829, 
+              47.484
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630283, 
+        "name": "Vault-de-Lugny", 
+        "adjacent_woeid": [
+          576203, 
+          584260, 
+          588884, 
+          595259, 
+          617420, 
+          629956, 
+          630754
+        ], 
+        "ne_latitude": 47.512, 
+        "ne_longitude": 3.864, 
+        "longitude": 3.848, 
+        "parent_woeid": 12654001, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vault"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.498, 
+        "sw_longitude": 3.829, 
+        "fullname": "Vault-de-Lugny, Burgundy, Yonne, France", 
+        "sw_latitude": 47.484
+      }, 
+      "id": 630283
+    }
+  ]
+}

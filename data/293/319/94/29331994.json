@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.595, 
+              43.005
+            ], 
+            [
+              1.595, 
+              43.023
+            ], 
+            [
+              1.620, 
+              43.023
+            ], 
+            [
+              1.620, 
+              43.005
+            ], 
+            [
+              1.595, 
+              43.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331994, 
+        "name": "Les Vergers", 
+        "adjacent_woeid": [
+          578452, 
+          587740, 
+          608704, 
+          624797, 
+          630764, 
+          29332016
+        ], 
+        "ne_latitude": 43.023, 
+        "ne_longitude": 1.620, 
+        "longitude": 1.607, 
+        "parent_woeid": 12660101, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Les Verg\u00e8s"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.014, 
+        "sw_longitude": 1.595, 
+        "fullname": "Les Vergers, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.005
+      }, 
+      "id": 29331994
+    }
+  ]
+}

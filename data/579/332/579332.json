@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.397, 
+              43.460
+            ], 
+            [
+              0.397, 
+              43.500
+            ], 
+            [
+              0.420, 
+              43.500
+            ], 
+            [
+              0.420, 
+              43.460
+            ], 
+            [
+              0.397, 
+              43.460
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579332, 
+        "name": "Berdoues", 
+        "adjacent_woeid": [
+          579175, 
+          617277, 
+          625543, 
+          625813, 
+          625906, 
+          626018
+        ], 
+        "ne_latitude": 43.500, 
+        "ne_longitude": 0.420, 
+        "longitude": 0.407, 
+        "parent_woeid": 12656807, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Berdoues-Ponsampere"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.484, 
+        "sw_longitude": 0.397, 
+        "fullname": "Berdoues, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.460
+      }, 
+      "id": 579332
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.439, 
+              49.183
+            ], 
+            [
+              0.439, 
+              49.219
+            ], 
+            [
+              0.494, 
+              49.219
+            ], 
+            [
+              0.494, 
+              49.183
+            ], 
+            [
+              0.439, 
+              49.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592019, 
+        "name": "Fresne-Cauverville", 
+        "adjacent_woeid": [
+          577860, 
+          594795, 
+          613177, 
+          614370, 
+          623082
+        ], 
+        "ne_latitude": 49.219, 
+        "ne_longitude": 0.494, 
+        "longitude": 0.465, 
+        "parent_woeid": 12644186, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Fresne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.201, 
+        "sw_longitude": 0.439, 
+        "fullname": "Fresne-Cauverville, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.183
+      }, 
+      "id": 592019
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.509, 
+              -42.340
+            ], 
+            [
+              -73.509, 
+              -42.326
+            ], 
+            [
+              -73.491, 
+              -42.326
+            ], 
+            [
+              -73.491, 
+              -42.340
+            ], 
+            [
+              -73.509, 
+              -42.340
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -42.326, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          346938, 
+          349182
+        ], 
+        "woeid": 349445, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -73.491, 
+        "longitude": -73.500, 
+        "parent_woeid": 26794153, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -42.333, 
+        "sw_longitude": -73.509, 
+        "fullname": "San Juan, Los Lagos Region, Chiloe Province, Chile", 
+        "sw_latitude": -42.340
+      }, 
+      "id": 349445
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.083, 
+              45.730
+            ], 
+            [
+              10.083, 
+              45.789
+            ], 
+            [
+              10.177, 
+              45.789
+            ], 
+            [
+              10.177, 
+              45.730
+            ], 
+            [
+              10.083, 
+              45.730
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20149435, 
+        "name": "Zone", 
+        "adjacent_woeid": [
+          711460, 
+          20120713, 
+          20135820, 
+          20137325, 
+          20145433, 
+          29336539, 
+          29336541, 
+          29336550
+        ], 
+        "ne_latitude": 45.789, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.177, 
+        "longitude": 10.117, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:28Z", 
+        "parent_woeid": 20076283, 
+        "latitude": 45.760, 
+        "sw_longitude": 10.083, 
+        "fullname": "Zone, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.730
+      }, 
+      "id": 20149435
+    }
+  ]
+}

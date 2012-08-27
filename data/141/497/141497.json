@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -112.794, 
+              31.541
+            ], 
+            [
+              -112.794, 
+              31.559
+            ], 
+            [
+              -112.773, 
+              31.559
+            ], 
+            [
+              -112.773, 
+              31.541
+            ], 
+            [
+              -112.794, 
+              31.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.559, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          116985, 
+          121320, 
+          138109, 
+          147790
+        ], 
+        "woeid": 141497, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -112.773, 
+        "longitude": -112.783, 
+        "parent_woeid": 12601571, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.550, 
+        "sw_longitude": -112.794, 
+        "fullname": "San Antonio, Sonora, General Plutarco Elias Calles, Mexico", 
+        "sw_latitude": 31.541
+      }, 
+      "id": 141497
+    }
+  ]
+}

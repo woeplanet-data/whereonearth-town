@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.866, 
+              47.222
+            ], 
+            [
+              3.866, 
+              47.231
+            ], 
+            [
+              3.880, 
+              47.231
+            ], 
+            [
+              3.880, 
+              47.222
+            ], 
+            [
+              3.866, 
+              47.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20214544, 
+        "name": "La Roche", 
+        "adjacent_woeid": [
+          581629, 
+          592297, 
+          611447, 
+          615376, 
+          20214537
+        ], 
+        "ne_latitude": 47.231, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.880, 
+        "longitude": 3.873, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12644287, 
+        "latitude": 47.227, 
+        "sw_longitude": 3.866, 
+        "fullname": "La Roche, Burgundy, Nievre, France", 
+        "sw_latitude": 47.222
+      }, 
+      "id": 20214544
+    }
+  ]
+}

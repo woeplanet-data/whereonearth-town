@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.891, 
+              14.926
+            ], 
+            [
+              -89.891, 
+              14.940
+            ], 
+            [
+              -89.876, 
+              14.940
+            ], 
+            [
+              -89.876, 
+              14.926
+            ], 
+            [
+              -89.891, 
+              14.926
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.940, 
+        "name": "Estancia de La Virgen", 
+        "adjacent_woeid": [
+          81243, 
+          82457, 
+          85488, 
+          85570, 
+          86396, 
+          86631
+        ], 
+        "woeid": 83032, 
+        "alias_SPA_V": [
+          "La Estancia"
+        ], 
+        "ne_longitude": -89.876, 
+        "longitude": -89.883, 
+        "parent_woeid": 26806962, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.933, 
+        "sw_longitude": -89.891, 
+        "fullname": "Estancia de La Virgen, El Progreso, San Cristobal Acasaguastlan, Guatemala", 
+        "sw_latitude": 14.926
+      }, 
+      "id": 83032
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.636, 
+              49.492
+            ], 
+            [
+              6.636, 
+              49.551
+            ], 
+            [
+              6.686, 
+              49.551
+            ], 
+            [
+              6.686, 
+              49.492
+            ], 
+            [
+              6.636, 
+              49.492
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641339, 
+        "name": "Britten", 
+        "adjacent_woeid": [
+          637995, 
+          654041, 
+          657976, 
+          690635, 
+          20163203
+        ], 
+        "ne_latitude": 49.551, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.686, 
+        "longitude": 6.671, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12627096, 
+        "latitude": 49.523, 
+        "sw_longitude": 6.636, 
+        "fullname": "Britten, Saarland, Merzig, Germany", 
+        "sw_latitude": 49.492
+      }, 
+      "id": 641339
+    }
+  ]
+}

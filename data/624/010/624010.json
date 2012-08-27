@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.073, 
+              48.453
+            ], 
+            [
+              -3.073, 
+              48.471
+            ], 
+            [
+              -3.050, 
+              48.471
+            ], 
+            [
+              -3.050, 
+              48.453
+            ], 
+            [
+              -3.073, 
+              48.453
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624010, 
+        "name": "St.-Fiacre", 
+        "adjacent_woeid": [
+          580759, 
+          601348, 
+          621795, 
+          624426, 
+          626341
+        ], 
+        "ne_latitude": 48.471, 
+        "ne_longitude": -3.050, 
+        "longitude": -3.060, 
+        "parent_woeid": 12652459, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Fiacre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.463, 
+        "sw_longitude": -3.073, 
+        "fullname": "St.-Fiacre, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.453
+      }, 
+      "id": 624010
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.507, 
+              15.043
+            ], 
+            [
+              -89.507, 
+              15.057
+            ], 
+            [
+              -89.493, 
+              15.057
+            ], 
+            [
+              -89.493, 
+              15.043
+            ], 
+            [
+              -89.507, 
+              15.043
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.057, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          83108, 
+          83506, 
+          83706, 
+          86064, 
+          86894
+        ], 
+        "woeid": 85843, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -89.493, 
+        "longitude": -89.500, 
+        "parent_woeid": 26807238, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.050, 
+        "sw_longitude": -89.507, 
+        "fullname": "San Pablo, Zacapa, Zacapa, Guatemala", 
+        "sw_latitude": 15.043
+      }, 
+      "id": 85843
+    }
+  ]
+}

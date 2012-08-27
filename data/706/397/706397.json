@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.123, 
+              49.702
+            ], 
+            [
+              11.123, 
+              49.728
+            ], 
+            [
+              11.148, 
+              49.728
+            ], 
+            [
+              11.148, 
+              49.702
+            ], 
+            [
+              11.123, 
+              49.702
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706397, 
+        "name": "Wiesenthau", 
+        "adjacent_woeid": [
+          644918, 
+          650075, 
+          653420, 
+          665911, 
+          671463, 
+          685134, 
+          688239, 
+          692026
+        ], 
+        "ne_latitude": 49.728, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.148, 
+        "longitude": 11.135, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12634380, 
+        "latitude": 49.712, 
+        "sw_longitude": 11.123, 
+        "fullname": "Wiesenthau, Bavaria, Landkreis Forchheim, Germany", 
+        "sw_latitude": 49.702
+      }, 
+      "id": 706397
+    }
+  ]
+}

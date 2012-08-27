@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.555, 
+              49.042
+            ], 
+            [
+              5.555, 
+              49.082
+            ], 
+            [
+              5.616, 
+              49.082
+            ], 
+            [
+              5.616, 
+              49.042
+            ], 
+            [
+              5.555, 
+              49.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 606107, 
+        "name": "Les \u00c9parges", 
+        "adjacent_woeid": [
+          586627, 
+          611257, 
+          613433, 
+          626724, 
+          629296
+        ], 
+        "ne_latitude": 49.082, 
+        "ne_longitude": 5.616, 
+        "longitude": 5.594, 
+        "parent_woeid": 12665363, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Les Eparges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.065, 
+        "sw_longitude": 5.555, 
+        "fullname": "Les \u00c9parges, Lorraine, Meuse, France", 
+        "sw_latitude": 49.042
+      }, 
+      "id": 606107
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.090, 
+              43.309
+            ], 
+            [
+              3.090, 
+              43.349
+            ], 
+            [
+              3.153, 
+              43.349
+            ], 
+            [
+              3.153, 
+              43.309
+            ], 
+            [
+              3.090, 
+              43.309
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612174, 
+        "name": "Montady", 
+        "adjacent_woeid": [
+          586549, 
+          610590, 
+          617101, 
+          20203996
+        ], 
+        "ne_latitude": 43.349, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.153, 
+        "longitude": 3.127, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12666916, 
+        "latitude": 43.333, 
+        "sw_longitude": 3.090, 
+        "fullname": "Montady, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.309
+      }, 
+      "id": 612174
+    }
+  ]
+}

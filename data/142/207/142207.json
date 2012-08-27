@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.876, 
+              20.008
+            ], 
+            [
+              -100.876, 
+              20.026
+            ], 
+            [
+              -100.857, 
+              20.026
+            ], 
+            [
+              -100.857, 
+              20.008
+            ], 
+            [
+              -100.876, 
+              20.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.026, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          112142, 
+          125437, 
+          128225, 
+          134897, 
+          144892, 
+          55886176, 
+          55890246, 
+          55892747
+        ], 
+        "woeid": 142207, 
+        "alias_SPA_V": [
+          "S. Diego"
+        ], 
+        "ne_longitude": -100.857, 
+        "longitude": -100.867, 
+        "parent_woeid": 12599990, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.017, 
+        "sw_longitude": -100.876, 
+        "fullname": "San Diego, Guanajuato, Acambaro, Mexico", 
+        "sw_latitude": 20.008
+      }, 
+      "id": 142207
+    }
+  ]
+}

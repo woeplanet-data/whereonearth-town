@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.798, 
+              49.735
+            ], 
+            [
+              10.798, 
+              49.763
+            ], 
+            [
+              10.832, 
+              49.763
+            ], 
+            [
+              10.832, 
+              49.735
+            ], 
+            [
+              10.798, 
+              49.735
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671816, 
+        "name": "Limbach", 
+        "adjacent_woeid": [
+          640463, 
+          677041, 
+          690838, 
+          691967, 
+          697551
+        ], 
+        "ne_latitude": 49.763, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.832, 
+        "longitude": 10.813, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:20Z", 
+        "parent_woeid": 12635244, 
+        "latitude": 49.754, 
+        "sw_longitude": 10.798, 
+        "fullname": "Limbach, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.735
+      }, 
+      "id": 671816
+    }
+  ]
+}

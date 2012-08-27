@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.804, 
+              42.949
+            ], 
+            [
+              -80.804, 
+              42.968
+            ], 
+            [
+              -80.779, 
+              42.968
+            ], 
+            [
+              -80.779, 
+              42.949
+            ], 
+            [
+              -80.804, 
+              42.949
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23400981, 
+        "name": "Mt Elgin", 
+        "adjacent_woeid": [
+          23397057, 
+          23400621, 
+          23400972, 
+          23401175, 
+          23401276, 
+          29374863
+        ], 
+        "ne_latitude": 42.968, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Mt. Elgin"
+        ], 
+        "ne_longitude": -80.779, 
+        "longitude": -80.790, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "parent_woeid": 29375115, 
+        "latitude": 42.959, 
+        "sw_longitude": -80.804, 
+        "fullname": "Mt Elgin, Ontario, Oxford, Canada", 
+        "sw_latitude": 42.949
+      }, 
+      "id": 23400981
+    }
+  ]
+}

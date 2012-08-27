@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.320, 
+              48.976
+            ], 
+            [
+              0.320, 
+              49.012
+            ], 
+            [
+              0.381, 
+              49.012
+            ], 
+            [
+              0.381, 
+              48.976
+            ], 
+            [
+              0.320, 
+              48.976
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583683, 
+        "name": "Cerqueux", 
+        "adjacent_woeid": [
+          583655, 
+          592135, 
+          597938, 
+          611338, 
+          617925
+        ], 
+        "ne_latitude": 49.012, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.381, 
+        "longitude": 0.363, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12640689, 
+        "latitude": 48.994, 
+        "sw_longitude": 0.320, 
+        "fullname": "Cerqueux, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 48.976
+      }, 
+      "id": 583683
+    }
+  ]
+}

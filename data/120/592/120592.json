@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.176, 
+              20.008
+            ], 
+            [
+              -97.176, 
+              20.026
+            ], 
+            [
+              -97.157, 
+              20.026
+            ], 
+            [
+              -97.157, 
+              20.008
+            ], 
+            [
+              -97.176, 
+              20.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.026, 
+        "name": "El Jobo", 
+        "adjacent_woeid": [
+          128611, 
+          133229, 
+          135415, 
+          147027
+        ], 
+        "woeid": 120592, 
+        "alias_SPA_V": [
+          "Jobo"
+        ], 
+        "ne_longitude": -97.157, 
+        "longitude": -97.167, 
+        "parent_woeid": 12601902, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.017, 
+        "sw_longitude": -97.176, 
+        "fullname": "El Jobo, Veracruz-Llave, Tlapacoyan, Mexico", 
+        "sw_latitude": 20.008
+      }, 
+      "id": 120592
+    }
+  ]
+}

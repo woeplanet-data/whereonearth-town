@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.266, 
+              43.404
+            ], 
+            [
+              1.266, 
+              43.422
+            ], 
+            [
+              1.291, 
+              43.422
+            ], 
+            [
+              1.291, 
+              43.404
+            ], 
+            [
+              1.266, 
+              43.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331586, 
+        "name": "Villeneuvette", 
+        "adjacent_woeid": [
+          601883, 
+          602874, 
+          624535
+        ], 
+        "ne_latitude": 43.422, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.291, 
+        "longitude": 1.277, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12670562, 
+        "latitude": 43.413, 
+        "sw_longitude": 1.266, 
+        "fullname": "Villeneuvette, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.404
+      }, 
+      "id": 29331586
+    }
+  ]
+}

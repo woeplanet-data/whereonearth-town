@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.884, 
+              43.702
+            ], 
+            [
+              0.884, 
+              43.724
+            ], 
+            [
+              0.934, 
+              43.724
+            ], 
+            [
+              0.934, 
+              43.702
+            ], 
+            [
+              0.884, 
+              43.702
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626123, 
+        "name": "St.-Orens", 
+        "adjacent_woeid": [
+          622215, 
+          624167, 
+          628860
+        ], 
+        "ne_latitude": 43.724, 
+        "ne_longitude": 0.934, 
+        "longitude": 0.907, 
+        "parent_woeid": 12671005, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Orens"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.715, 
+        "sw_longitude": 0.884, 
+        "fullname": "St.-Orens, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.702
+      }, 
+      "id": 626123
+    }
+  ]
+}

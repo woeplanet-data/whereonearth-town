@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.934, 
+              48.345
+            ], 
+            [
+              11.934, 
+              48.370
+            ], 
+            [
+              11.959, 
+              48.370
+            ], 
+            [
+              11.959, 
+              48.345
+            ], 
+            [
+              11.934, 
+              48.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 672485, 
+        "name": "Lohkirchen", 
+        "adjacent_woeid": [
+          646988, 
+          652750, 
+          657310, 
+          699553
+        ], 
+        "ne_latitude": 48.370, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.959, 
+        "longitude": 11.949, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:27Z", 
+        "parent_woeid": 12635146, 
+        "latitude": 48.358, 
+        "sw_longitude": 11.934, 
+        "fullname": "Lohkirchen, Bavaria, Landkreis Erding, Germany", 
+        "sw_latitude": 48.345
+      }, 
+      "id": 672485
+    }
+  ]
+}

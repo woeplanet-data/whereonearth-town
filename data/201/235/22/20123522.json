@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.230, 
+              45.071
+            ], 
+            [
+              10.230, 
+              45.080
+            ], 
+            [
+              10.243, 
+              45.080
+            ], 
+            [
+              10.243, 
+              45.071
+            ], 
+            [
+              10.230, 
+              45.071
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20123522, 
+        "name": "Dosso de Frati", 
+        "adjacent_woeid": [
+          724285, 
+          20127246, 
+          20138609, 
+          20139078
+        ], 
+        "ne_latitude": 45.080, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.243, 
+        "longitude": 10.236, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:25:56Z", 
+        "parent_woeid": 20076349, 
+        "latitude": 45.075, 
+        "sw_longitude": 10.230, 
+        "fullname": "Dosso de Frati, Lombardy, Cremona, Italy", 
+        "sw_latitude": 45.071
+      }, 
+      "id": 20123522
+    }
+  ]
+}

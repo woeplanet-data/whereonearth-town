@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.342, 
+              22.511
+            ], 
+            [
+              -99.342, 
+              22.541
+            ], 
+            [
+              -99.313, 
+              22.541
+            ], 
+            [
+              -99.313, 
+              22.511
+            ], 
+            [
+              -99.342, 
+              22.511
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.541, 
+        "name": "Naranjos", 
+        "adjacent_woeid": [
+          110936, 
+          120828, 
+          133705, 
+          134837, 
+          141296
+        ], 
+        "woeid": 134365, 
+        "alias_SPA_V": [
+          "El Naranjo"
+        ], 
+        "ne_longitude": -99.313, 
+        "longitude": -99.326, 
+        "parent_woeid": 24550695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.522, 
+        "sw_longitude": -99.342, 
+        "fullname": "Naranjos, San Luis Potosi, El Naranjo, Mexico", 
+        "sw_latitude": 22.511
+      }, 
+      "id": 134365
+    }
+  ]
+}

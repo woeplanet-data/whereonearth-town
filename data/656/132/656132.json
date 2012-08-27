@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.098, 
+              50.228
+            ], 
+            [
+              10.098, 
+              50.257
+            ], 
+            [
+              10.145, 
+              50.257
+            ], 
+            [
+              10.145, 
+              50.228
+            ], 
+            [
+              10.098, 
+              50.228
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656132, 
+        "name": "Haard", 
+        "adjacent_woeid": [
+          642580, 
+          654913, 
+          658053, 
+          666774, 
+          706903
+        ], 
+        "ne_latitude": 50.257, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.145, 
+        "longitude": 10.122, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12635502, 
+        "latitude": 50.238, 
+        "sw_longitude": 10.098, 
+        "fullname": "Haard, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.228
+      }, 
+      "id": 656132
+    }
+  ]
+}

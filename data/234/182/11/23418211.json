@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.164, 
+              38.664
+            ], 
+            [
+              -77.164, 
+              38.740
+            ], 
+            [
+              -77.108, 
+              38.740
+            ], 
+            [
+              -77.108, 
+              38.664
+            ], 
+            [
+              -77.164, 
+              38.664
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23418211, 
+        "name": "Fort Belvoir", 
+        "adjacent_woeid": [
+          2351709, 
+          2353019, 
+          2415696, 
+          2415697, 
+          2442030, 
+          2459472
+        ], 
+        "ne_latitude": 38.740, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Ft. Belvoir"
+        ], 
+        "ne_longitude": -77.108, 
+        "longitude": -77.136, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:35:42Z", 
+        "parent_woeid": 12590343, 
+        "latitude": 38.688, 
+        "sw_longitude": -77.164, 
+        "fullname": "Fort Belvoir, Virginia, Fairfax, United States", 
+        "sw_latitude": 38.664
+      }, 
+      "id": 23418211
+    }
+  ]
+}

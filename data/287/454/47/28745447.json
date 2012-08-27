@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.359, 
+              41.239
+            ], 
+            [
+              -75.359, 
+              41.376
+            ], 
+            [
+              -75.116, 
+              41.376
+            ], 
+            [
+              -75.116, 
+              41.239
+            ], 
+            [
+              -75.359, 
+              41.239
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745447, 
+        "name": "Greene", 
+        "adjacent_woeid": [
+          2365594, 
+          2384546, 
+          2469355, 
+          28745172, 
+          28745285, 
+          28745387, 
+          28745579
+        ], 
+        "ne_latitude": 41.376, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Greene Township"
+        ], 
+        "ne_longitude": -75.116, 
+        "longitude": -75.250, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589779, 
+        "latitude": 41.284, 
+        "sw_longitude": -75.359, 
+        "fullname": "Greene, Pennsylvania, Pike, United States", 
+        "sw_latitude": 41.239
+      }, 
+      "id": 28745447
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.196, 
+              46.123
+            ], 
+            [
+              2.196, 
+              46.146
+            ], 
+            [
+              2.219, 
+              46.146
+            ], 
+            [
+              2.219, 
+              46.123
+            ], 
+            [
+              2.196, 
+              46.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623415, 
+        "name": "St.-Chabrais", 
+        "adjacent_woeid": [
+          602993, 
+          606231, 
+          616550, 
+          623793, 
+          624997, 
+          20189352, 
+          29332847
+        ], 
+        "ne_latitude": 46.146, 
+        "ne_longitude": 2.219, 
+        "longitude": 2.205, 
+        "parent_woeid": 12667598, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Chabrais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.132, 
+        "sw_longitude": 2.196, 
+        "fullname": "St.-Chabrais, Limousin, Creuse, France", 
+        "sw_latitude": 46.123
+      }, 
+      "id": 623415
+    }
+  ]
+}

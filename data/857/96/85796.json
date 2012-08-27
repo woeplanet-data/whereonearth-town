@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.596, 
+              14.854
+            ], 
+            [
+              -91.596, 
+              14.868
+            ], 
+            [
+              -91.582, 
+              14.868
+            ], 
+            [
+              -91.582, 
+              14.854
+            ], 
+            [
+              -91.596, 
+              14.854
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.868, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          81956, 
+          83482, 
+          84678, 
+          85263, 
+          85793, 
+          85823
+        ], 
+        "woeid": 85796, 
+        "alias_SPA_V": [
+          "S Mateo"
+        ], 
+        "ne_longitude": -91.582, 
+        "longitude": -91.589, 
+        "parent_woeid": 26807084, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.861, 
+        "sw_longitude": -91.596, 
+        "fullname": "San Mateo, Quetzaltenango, San Mateo, Guatemala", 
+        "sw_latitude": 14.854
+      }, 
+      "id": 85796
+    }
+  ]
+}

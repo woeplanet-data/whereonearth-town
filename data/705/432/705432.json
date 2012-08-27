@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.291, 
+              51.751
+            ], 
+            [
+              13.291, 
+              51.799
+            ], 
+            [
+              13.345, 
+              51.799
+            ], 
+            [
+              13.345, 
+              51.751
+            ], 
+            [
+              13.291, 
+              51.751
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705432, 
+        "name": "Werchau", 
+        "adjacent_woeid": [
+          664117, 
+          667611, 
+          668659, 
+          697840, 
+          706496
+        ], 
+        "ne_latitude": 51.799, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.345, 
+        "longitude": 13.316, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 24547241, 
+        "latitude": 51.778, 
+        "sw_longitude": 13.291, 
+        "fullname": "Werchau, Brandenburg, Elbe-Elster, Germany", 
+        "sw_latitude": 51.751
+      }, 
+      "id": 705432
+    }
+  ]
+}

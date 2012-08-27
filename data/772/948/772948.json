@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.332, 
+              42.561
+            ], 
+            [
+              0.332, 
+              42.710
+            ], 
+            [
+              0.437, 
+              42.710
+            ], 
+            [
+              0.437, 
+              42.561
+            ], 
+            [
+              0.332, 
+              42.561
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.710, 
+        "name": "San Juan de Plan", 
+        "adjacent_woeid": [
+          753660, 
+          754209, 
+          754528, 
+          757509, 
+          761604, 
+          770319, 
+          774312, 
+          775340, 
+          779333, 
+          20227005
+        ], 
+        "woeid": 772948, 
+        "alias_SPA_V": [
+          "S. Juan de Plan"
+        ], 
+        "ne_longitude": 0.437, 
+        "longitude": 0.344, 
+        "parent_woeid": 12689554, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.587, 
+        "sw_longitude": 0.332, 
+        "fullname": "San Juan de Plan, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.561
+      }, 
+      "id": 772948
+    }
+  ]
+}

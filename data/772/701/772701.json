@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.576, 
+              39.033
+            ], 
+            [
+              1.576, 
+              39.051
+            ], 
+            [
+              1.600, 
+              39.051
+            ], 
+            [
+              1.600, 
+              39.033
+            ], 
+            [
+              1.576, 
+              39.033
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.051, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          760011, 
+          15003454, 
+          20220249
+        ], 
+        "woeid": 772701, 
+        "alias_SPA_V": [
+          "S. Carlos"
+        ], 
+        "ne_longitude": 1.600, 
+        "longitude": 1.588, 
+        "parent_woeid": 12687761, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.042, 
+        "sw_longitude": 1.576, 
+        "fullname": "San Carlos, Balearic Islands, Baleares, Spain", 
+        "sw_latitude": 39.033
+      }, 
+      "id": 772701
+    }
+  ]
+}

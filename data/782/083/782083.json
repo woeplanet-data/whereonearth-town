@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.083, 
+              46.080
+            ], 
+            [
+              7.083, 
+              46.099
+            ], 
+            [
+              7.109, 
+              46.099
+            ], 
+            [
+              7.109, 
+              46.080
+            ], 
+            [
+              7.083, 
+              46.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 782083, 
+        "name": "Chemin", 
+        "adjacent_woeid": [
+          781885, 
+          783266, 
+          784165, 
+          20101284, 
+          20101413
+        ], 
+        "ne_latitude": 46.099, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.109, 
+        "longitude": 7.096, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:50Z", 
+        "parent_woeid": 12683186, 
+        "latitude": 46.090, 
+        "sw_longitude": 7.083, 
+        "fullname": "Chemin, Canton of Valais, Entremont, Switzerland", 
+        "sw_latitude": 46.080
+      }, 
+      "id": 782083
+    }
+  ]
+}

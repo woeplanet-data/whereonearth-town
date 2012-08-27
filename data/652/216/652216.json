@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.931, 
+              48.100
+            ], 
+            [
+              10.931, 
+              48.123
+            ], 
+            [
+              10.961, 
+              48.123
+            ], 
+            [
+              10.961, 
+              48.100
+            ], 
+            [
+              10.931, 
+              48.100
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652216, 
+        "name": "Geretshausen", 
+        "adjacent_woeid": [
+          633369, 
+          673308, 
+          680869, 
+          684718, 
+          693468, 
+          701288
+        ], 
+        "ne_latitude": 48.123, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.961, 
+        "longitude": 10.943, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12634649, 
+        "latitude": 48.114, 
+        "sw_longitude": 10.931, 
+        "fullname": "Geretshausen, Bavaria, Landkreis Landsberg am Lech, Germany", 
+        "sw_latitude": 48.100
+      }, 
+      "id": 652216
+    }
+  ]
+}

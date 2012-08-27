@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.560, 
+              20.424
+            ], 
+            [
+              -100.560, 
+              20.442
+            ], 
+            [
+              -100.540, 
+              20.442
+            ], 
+            [
+              -100.540, 
+              20.424
+            ], 
+            [
+              -100.560, 
+              20.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.442, 
+        "name": "Espejo", 
+        "adjacent_woeid": [
+          113319, 
+          122720, 
+          126442, 
+          132848, 
+          144753, 
+          145509
+        ], 
+        "woeid": 123342, 
+        "alias_SPA_V": [
+          "El Espejo"
+        ], 
+        "ne_longitude": -100.540, 
+        "longitude": -100.550, 
+        "parent_woeid": 12599992, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.433, 
+        "sw_longitude": -100.560, 
+        "fullname": "Espejo, Guanajuato, Apaseo el Alto, Mexico", 
+        "sw_latitude": 20.424
+      }, 
+      "id": 123342
+    }
+  ]
+}

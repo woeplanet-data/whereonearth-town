@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -113.060, 
+              27.274
+            ], 
+            [
+              -113.060, 
+              27.292
+            ], 
+            [
+              -113.040, 
+              27.292
+            ], 
+            [
+              -113.040, 
+              27.274
+            ], 
+            [
+              -113.060, 
+              27.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.292, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          118186, 
+          119992, 
+          119993, 
+          129805, 
+          142436, 
+          142816
+        ], 
+        "woeid": 143689, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -113.040, 
+        "longitude": -113.050, 
+        "parent_woeid": 12599698, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.283, 
+        "sw_longitude": -113.060, 
+        "fullname": "San Juan, Baja California Sur, Mulege, Mexico", 
+        "sw_latitude": 27.274
+      }, 
+      "id": 143689
+    }
+  ]
+}

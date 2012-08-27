@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.979, 
+              13.946
+            ], 
+            [
+              -88.979, 
+              13.964
+            ], 
+            [
+              -88.960, 
+              13.964
+            ], 
+            [
+              -88.960, 
+              13.946
+            ], 
+            [
+              -88.979, 
+              13.946
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.964, 
+        "name": "San Luis del Carmen", 
+        "adjacent_woeid": [
+          76887, 
+          79307, 
+          79550, 
+          79751, 
+          80014, 
+          26809364
+        ], 
+        "woeid": 79729, 
+        "alias_SPA_V": [
+          "S Luis del Carmen"
+        ], 
+        "ne_longitude": -88.960, 
+        "longitude": -88.969, 
+        "parent_woeid": 26808570, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.955, 
+        "sw_longitude": -88.979, 
+        "fullname": "San Luis del Carmen, Chalatenango, San Luis del Carmen, El Salvador", 
+        "sw_latitude": 13.946
+      }, 
+      "id": 79729
+    }
+  ]
+}

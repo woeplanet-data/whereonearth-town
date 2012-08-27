@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.505, 
+              48.479
+            ], 
+            [
+              1.505, 
+              48.516
+            ], 
+            [
+              1.548, 
+              48.516
+            ], 
+            [
+              1.548, 
+              48.479
+            ], 
+            [
+              1.505, 
+              48.479
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626575, 
+        "name": "St.-Prest", 
+        "adjacent_woeid": [
+          584259, 
+          586566, 
+          592478, 
+          595666, 
+          607853, 
+          614883, 
+          617147, 
+          22656936, 
+          29332381
+        ], 
+        "ne_latitude": 48.516, 
+        "ne_longitude": 1.548, 
+        "longitude": 1.531, 
+        "parent_woeid": 12642216, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Prest"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.493, 
+        "sw_longitude": 1.505, 
+        "fullname": "St.-Prest, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.479
+      }, 
+      "id": 626575
+    }
+  ]
+}

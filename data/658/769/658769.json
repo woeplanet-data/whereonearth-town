@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.385, 
+              51.987
+            ], 
+            [
+              10.385, 
+              52.007
+            ], 
+            [
+              10.421, 
+              52.007
+            ], 
+            [
+              10.421, 
+              51.987
+            ], 
+            [
+              10.385, 
+              51.987
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658769, 
+        "name": "Heissum", 
+        "adjacent_woeid": [
+          645385, 
+          654449, 
+          658623, 
+          683847, 
+          20166225
+        ], 
+        "ne_latitude": 52.007, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.421, 
+        "longitude": 10.399, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12630357, 
+        "latitude": 51.998, 
+        "sw_longitude": 10.385, 
+        "fullname": "Heissum, Lower Saxony, Landkreis Goslar, Germany", 
+        "sw_latitude": 51.987
+      }, 
+      "id": 658769
+    }
+  ]
+}

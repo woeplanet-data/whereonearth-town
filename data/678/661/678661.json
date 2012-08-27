@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.946, 
+              50.333
+            ], 
+            [
+              10.946, 
+              50.361
+            ], 
+            [
+              10.981, 
+              50.361
+            ], 
+            [
+              10.981, 
+              50.333
+            ], 
+            [
+              10.946, 
+              50.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678661, 
+        "name": "Neukirchen", 
+        "adjacent_woeid": [
+          647294, 
+          647911, 
+          650090, 
+          699448, 
+          699923, 
+          700151, 
+          704950
+        ], 
+        "ne_latitude": 50.361, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.981, 
+        "longitude": 10.965, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12635292, 
+        "latitude": 50.347, 
+        "sw_longitude": 10.946, 
+        "fullname": "Neukirchen, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.333
+      }, 
+      "id": 678661
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.210, 
+              29.791
+            ], 
+            [
+              -110.210, 
+              29.809
+            ], 
+            [
+              -110.190, 
+              29.809
+            ], 
+            [
+              -110.190, 
+              29.791
+            ], 
+            [
+              -110.210, 
+              29.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.809, 
+        "name": "La Estancia", 
+        "adjacent_woeid": [
+          126736, 
+          127500, 
+          144815, 
+          150027
+        ], 
+        "woeid": 127350, 
+        "alias_SPA_V": [
+          "Estancia Ac\u00f3nchi"
+        ], 
+        "ne_longitude": -110.190, 
+        "longitude": -110.200, 
+        "parent_woeid": 12601545, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Estancia Aconchi"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.800, 
+        "sw_longitude": -110.210, 
+        "fullname": "La Estancia, Sonora, Aconchi, Mexico", 
+        "sw_latitude": 29.791
+      }, 
+      "id": 127350
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.605, 
+              7.062
+            ], 
+            [
+              -63.605, 
+              7.071
+            ], 
+            [
+              -63.595, 
+              7.071
+            ], 
+            [
+              -63.595, 
+              7.062
+            ], 
+            [
+              -63.605, 
+              7.062
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 7.071, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          395565, 
+          395597, 
+          26806889, 
+          395540, 
+          395455, 
+          395562
+        ], 
+        "woeid": 393513, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -63.595, 
+        "longitude": -63.600, 
+        "parent_woeid": 26805570, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.067, 
+        "sw_longitude": -63.605, 
+        "fullname": "San Francisco, Bolivar, Raul Leoni, Venezuela", 
+        "sw_latitude": 7.062
+      }, 
+      "id": 393513
+    }
+  ]
+}

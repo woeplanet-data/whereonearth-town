@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.262, 
+              45.585
+            ], 
+            [
+              -64.262, 
+              45.603
+            ], 
+            [
+              -64.236, 
+              45.603
+            ], 
+            [
+              -64.236, 
+              45.585
+            ], 
+            [
+              -64.262, 
+              45.585
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23392277, 
+        "name": "Southampton", 
+        "adjacent_woeid": [
+          916, 
+          3803, 
+          3814, 
+          23391873, 
+          23392070
+        ], 
+        "ne_latitude": 45.603, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -64.236, 
+        "longitude": -64.249, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:09Z", 
+        "parent_woeid": 29375193, 
+        "latitude": 45.594, 
+        "sw_longitude": -64.262, 
+        "fullname": "Southampton, Nova Scotia, Cumberland, Canada", 
+        "sw_latitude": 45.585
+      }, 
+      "id": 23392277
+    }
+  ]
+}

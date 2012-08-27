@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.871, 
+              42.321
+            ], 
+            [
+              2.871, 
+              42.365
+            ], 
+            [
+              2.940, 
+              42.365
+            ], 
+            [
+              2.940, 
+              42.321
+            ], 
+            [
+              2.871, 
+              42.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.365, 
+        "name": "Biure", 
+        "adjacent_woeid": [
+          754951, 
+          756041, 
+          758644, 
+          765352, 
+          766712, 
+          770461, 
+          775380
+        ], 
+        "woeid": 778904, 
+        "alias_SPA_V": [
+          "Viure"
+        ], 
+        "ne_longitude": 2.940, 
+        "longitude": 2.895, 
+        "parent_woeid": 12693705, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.338, 
+        "sw_longitude": 2.871, 
+        "fullname": "Biure, Catalonia, Gerona, Spain", 
+        "sw_latitude": 42.321
+      }, 
+      "id": 778904
+    }
+  ]
+}

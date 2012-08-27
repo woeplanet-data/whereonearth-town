@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.110, 
+              49.906
+            ], 
+            [
+              4.110, 
+              49.934
+            ], 
+            [
+              4.165, 
+              49.934
+            ], 
+            [
+              4.165, 
+              49.906
+            ], 
+            [
+              4.110, 
+              49.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625952, 
+        "name": "St.-Michel", 
+        "adjacent_woeid": [
+          582270, 
+          594861, 
+          622133, 
+          632857, 
+          22657629
+        ], 
+        "ne_latitude": 49.934, 
+        "ne_longitude": 4.165, 
+        "longitude": 4.133, 
+        "parent_woeid": 22757773, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Michel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.919, 
+        "sw_longitude": 4.110, 
+        "fullname": "St.-Michel, Picardie, Aisne, France", 
+        "sw_latitude": 49.906
+      }, 
+      "id": 625952
+    }
+  ]
+}

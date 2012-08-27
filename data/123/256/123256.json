@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.827, 
+              23.986
+            ], 
+            [
+              -109.827, 
+              24.000
+            ], 
+            [
+              -109.811, 
+              24.000
+            ], 
+            [
+              -109.811, 
+              23.986
+            ], 
+            [
+              -109.827, 
+              23.986
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123256, 
+        "name": "Ensenada de Los Muertos", 
+        "adjacent_woeid": [
+          122647, 
+          129446, 
+          129557
+        ], 
+        "ne_latitude": 24.000, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -109.811, 
+        "longitude": -109.819, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "parent_woeid": 12599696, 
+        "latitude": 23.993, 
+        "sw_longitude": -109.827, 
+        "fullname": "Ensenada de Los Muertos, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 23.986
+      }, 
+      "id": 123256
+    }
+  ]
+}

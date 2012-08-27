@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.510, 
+              20.724
+            ], 
+            [
+              -100.510, 
+              20.742
+            ], 
+            [
+              -100.490, 
+              20.742
+            ], 
+            [
+              -100.490, 
+              20.724
+            ], 
+            [
+              -100.510, 
+              20.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.742, 
+        "name": "San Miguelito", 
+        "adjacent_woeid": [
+          121381, 
+          123052, 
+          126215, 
+          126217, 
+          128326, 
+          149539, 
+          149540
+        ], 
+        "woeid": 144709, 
+        "alias_SPA_V": [
+          "S Miguelito"
+        ], 
+        "ne_longitude": -100.490, 
+        "longitude": -100.502, 
+        "parent_woeid": 12601457, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.736, 
+        "sw_longitude": -100.510, 
+        "fullname": "San Miguelito, Queretaro de Arteaga, Queretaro, Mexico", 
+        "sw_latitude": 20.724
+      }, 
+      "id": 144709
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.515, 
+              48.249
+            ], 
+            [
+              -4.515, 
+              48.283
+            ], 
+            [
+              -4.485, 
+              48.283
+            ], 
+            [
+              -4.485, 
+              48.249
+            ], 
+            [
+              -4.515, 
+              48.249
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624685, 
+        "name": "St.-Jean", 
+        "adjacent_woeid": [
+          601400, 
+          602995, 
+          624008, 
+          20176511
+        ], 
+        "ne_latitude": 48.283, 
+        "ne_longitude": -4.485, 
+        "longitude": -4.495, 
+        "parent_woeid": 20074709, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jean"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.265, 
+        "sw_longitude": -4.515, 
+        "fullname": "St.-Jean, Brittany, Finistere, France", 
+        "sw_latitude": 48.249
+      }, 
+      "id": 624685
+    }
+  ]
+}

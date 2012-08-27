@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.789, 
+              18.802
+            ], 
+            [
+              -69.789, 
+              18.812
+            ], 
+            [
+              -69.779, 
+              18.812
+            ], 
+            [
+              -69.779, 
+              18.802
+            ], 
+            [
+              -69.789, 
+              18.802
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.812, 
+        "name": "Monte Plata", 
+        "adjacent_woeid": [
+          69513, 
+          69542, 
+          70047, 
+          70200, 
+          71824, 
+          71885, 
+          76334, 
+          76381, 
+          76400, 
+          76414, 
+          76456, 
+          76682, 
+          76728
+        ], 
+        "woeid": 75381, 
+        "alias_SPA_V": [
+          "Mte Plata"
+        ], 
+        "ne_longitude": -69.779, 
+        "longitude": -69.784, 
+        "parent_woeid": 2345200, 
+        "placetype": "Town", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.807, 
+        "sw_longitude": -69.789, 
+        "fullname": "Monte Plata, Dominican Republic", 
+        "sw_latitude": 18.802
+      }, 
+      "id": 75381
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.222, 
+              49.308
+            ], 
+            [
+              0.222, 
+              49.322
+            ], 
+            [
+              0.256, 
+              49.322
+            ], 
+            [
+              0.256, 
+              49.308
+            ], 
+            [
+              0.222, 
+              49.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631262, 
+        "name": "Vieux-Bourg", 
+        "adjacent_woeid": [
+          622911, 
+          623242, 
+          624084, 
+          627882
+        ], 
+        "ne_latitude": 49.322, 
+        "ne_longitude": 0.256, 
+        "longitude": 0.250, 
+        "parent_woeid": 12647755, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Vieux Bourg"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.312, 
+        "sw_longitude": 0.222, 
+        "fullname": "Vieux-Bourg, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.308
+      }, 
+      "id": 631262
+    }
+  ]
+}

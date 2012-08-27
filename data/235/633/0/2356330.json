@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.857, 
+              45.660
+            ], 
+            [
+              -122.857, 
+              45.678
+            ], 
+            [
+              -122.831, 
+              45.678
+            ], 
+            [
+              -122.831, 
+              45.660
+            ], 
+            [
+              -122.857, 
+              45.660
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2356330, 
+        "name": "Arthur", 
+        "adjacent_woeid": [
+          2372077, 
+          2422889, 
+          2478134, 
+          2489281
+        ], 
+        "ne_latitude": 45.678, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -122.831, 
+        "longitude": -122.844, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:22:16Z", 
+        "parent_woeid": 12589717, 
+        "latitude": 45.669, 
+        "sw_longitude": -122.857, 
+        "fullname": "Arthur, Oregon, Multnomah, United States", 
+        "sw_latitude": 45.660
+      }, 
+      "id": 2356330
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.453, 
+              46.550
+            ], 
+            [
+              -0.453, 
+              46.578
+            ], 
+            [
+              -0.423, 
+              46.578
+            ], 
+            [
+              -0.423, 
+              46.550
+            ], 
+            [
+              -0.453, 
+              46.550
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604411, 
+        "name": "Le Retail", 
+        "adjacent_woeid": [
+          575799, 
+          590795, 
+          615580
+        ], 
+        "ne_latitude": 46.578, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.423, 
+        "longitude": -0.443, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "parent_woeid": 12665095, 
+        "latitude": 46.563, 
+        "sw_longitude": -0.453, 
+        "fullname": "Le Retail, Poitou-Charentes, Deux-Sevres, France", 
+        "sw_latitude": 46.550
+      }, 
+      "id": 604411
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.627, 
+              23.324
+            ], 
+            [
+              -102.627, 
+              23.342
+            ], 
+            [
+              -102.607, 
+              23.342
+            ], 
+            [
+              -102.607, 
+              23.324
+            ], 
+            [
+              -102.627, 
+              23.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.342, 
+        "name": "El Mezquite", 
+        "adjacent_woeid": [
+          114660, 
+          115722, 
+          115900, 
+          124318, 
+          144531
+        ], 
+        "woeid": 120891, 
+        "alias_SPA_V": [
+          "Mezquite"
+        ], 
+        "ne_longitude": -102.607, 
+        "longitude": -102.617, 
+        "parent_woeid": 12602043, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.333, 
+        "sw_longitude": -102.627, 
+        "fullname": "El Mezquite, Zacatecas, Fresnillo, Mexico", 
+        "sw_latitude": 23.324
+      }, 
+      "id": 120891
+    }
+  ]
+}

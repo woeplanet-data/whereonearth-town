@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.395, 
+              46.113
+            ], 
+            [
+              -73.395, 
+              46.263
+            ], 
+            [
+              -73.237, 
+              46.263
+            ], 
+            [
+              -73.237, 
+              46.113
+            ], 
+            [
+              -73.395, 
+              46.113
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396588, 
+        "name": "St.-Norbert", 
+        "adjacent_woeid": [
+          1484, 
+          3479, 
+          23394502, 
+          23394505, 
+          23396506, 
+          23396519, 
+          23396523
+        ], 
+        "ne_latitude": 46.263, 
+        "ne_longitude": -73.237, 
+        "longitude": -73.316, 
+        "parent_woeid": 29375202, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Norbert"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.169, 
+        "sw_longitude": -73.395, 
+        "fullname": "St.-Norbert, Quebec, d'Autray, Canada", 
+        "sw_latitude": 46.113
+      }, 
+      "id": 23396588
+    }
+  ]
+}

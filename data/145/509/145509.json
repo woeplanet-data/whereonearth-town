@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.560, 
+              20.458
+            ], 
+            [
+              -100.560, 
+              20.476
+            ], 
+            [
+              -100.540, 
+              20.476
+            ], 
+            [
+              -100.540, 
+              20.458
+            ], 
+            [
+              -100.560, 
+              20.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.476, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          112074, 
+          112238, 
+          121029, 
+          123342, 
+          132848, 
+          144753, 
+          55888314
+        ], 
+        "woeid": 145509, 
+        "alias_SPA_V": [
+          "S. Vicente"
+        ], 
+        "ne_longitude": -100.540, 
+        "longitude": -100.550, 
+        "parent_woeid": 12599992, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.467, 
+        "sw_longitude": -100.560, 
+        "fullname": "San Vicente, Guanajuato, Apaseo el Alto, Mexico", 
+        "sw_latitude": 20.458
+      }, 
+      "id": 145509
+    }
+  ]
+}

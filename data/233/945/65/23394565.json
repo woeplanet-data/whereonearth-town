@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.267, 
+              45.012
+            ], 
+            [
+              -73.267, 
+              45.096
+            ], 
+            [
+              -73.124, 
+              45.096
+            ], 
+            [
+              -73.124, 
+              45.012
+            ], 
+            [
+              -73.267, 
+              45.012
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394565, 
+        "name": "St.-Georges-de-Clarenceville", 
+        "adjacent_woeid": [
+          23394448, 
+          23394636, 
+          23394655, 
+          23395550, 
+          29374686
+        ], 
+        "ne_latitude": 45.096, 
+        "ne_longitude": -73.124, 
+        "longitude": -73.213, 
+        "parent_woeid": 29375141, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Georges-de-Clarenceville"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.060, 
+        "sw_longitude": -73.267, 
+        "fullname": "St.-Georges-de-Clarenceville, Quebec, Le Haut-Richelieu, Canada", 
+        "sw_latitude": 45.012
+      }, 
+      "id": 23394565
+    }
+  ]
+}

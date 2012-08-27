@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.343, 
+              20.324
+            ], 
+            [
+              -103.343, 
+              20.342
+            ], 
+            [
+              -103.324, 
+              20.342
+            ], 
+            [
+              -103.324, 
+              20.324
+            ], 
+            [
+              -103.343, 
+              20.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.342, 
+        "name": "Las Trojes", 
+        "adjacent_woeid": [
+          111680, 
+          114092, 
+          126614, 
+          137194, 
+          143853, 
+          144176, 
+          146825
+        ], 
+        "woeid": 130939, 
+        "alias_SPA_V": [
+          "Trojes"
+        ], 
+        "ne_longitude": -103.324, 
+        "longitude": -103.333, 
+        "parent_woeid": 12600246, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.333, 
+        "sw_longitude": -103.343, 
+        "fullname": "Las Trojes, Jalisco, Jocotepec, Mexico", 
+        "sw_latitude": 20.324
+      }, 
+      "id": 130939
+    }
+  ]
+}

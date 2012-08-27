@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.849, 
+              24.598
+            ], 
+            [
+              -103.849, 
+              24.616
+            ], 
+            [
+              -103.829, 
+              24.616
+            ], 
+            [
+              -103.829, 
+              24.598
+            ], 
+            [
+              -103.849, 
+              24.598
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.616, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          112682, 
+          116914, 
+          125827, 
+          129637, 
+          135328, 
+          151397
+        ], 
+        "woeid": 142068, 
+        "alias_SPA_V": [
+          "S Carlos"
+        ], 
+        "ne_longitude": -103.829, 
+        "longitude": -103.839, 
+        "parent_woeid": 12599953, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.607, 
+        "sw_longitude": -103.849, 
+        "fullname": "San Carlos, Durango, Cuencame, Mexico", 
+        "sw_latitude": 24.598
+      }, 
+      "id": 142068
+    }
+  ]
+}

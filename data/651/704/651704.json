@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.949, 
+              49.949
+            ], 
+            [
+              7.949, 
+              49.980
+            ], 
+            [
+              7.986, 
+              49.980
+            ], 
+            [
+              7.986, 
+              49.949
+            ], 
+            [
+              7.949, 
+              49.949
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651704, 
+        "name": "Gaulsheim", 
+        "adjacent_woeid": [
+          642221, 
+          645772, 
+          665484, 
+          695897
+        ], 
+        "ne_latitude": 49.980, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.986, 
+        "longitude": 7.960, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12627625, 
+        "latitude": 49.966, 
+        "sw_longitude": 7.949, 
+        "fullname": "Gaulsheim, Rhineland-Palatinate, Mainz-Bingen, Germany", 
+        "sw_latitude": 49.949
+      }, 
+      "id": 651704
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.123, 
+              40.695
+            ], 
+            [
+              -0.123, 
+              40.769
+            ], 
+            [
+              -0.043, 
+              40.769
+            ], 
+            [
+              -0.043, 
+              40.695
+            ], 
+            [
+              -0.123, 
+              40.695
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 20223798, 
+        "name": "La Puebla de Alcolea", 
+        "adjacent_woeid": [
+          757544, 
+          762099, 
+          769248
+        ], 
+        "ne_latitude": 40.769, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.043, 
+        "longitude": -0.082, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:49Z", 
+        "parent_woeid": 12695479, 
+        "latitude": 40.728, 
+        "sw_longitude": -0.123, 
+        "fullname": "La Puebla de Alcolea, Valencia, Castellon, Spain", 
+        "sw_latitude": 40.695
+      }, 
+      "id": 20223798
+    }
+  ]
+}

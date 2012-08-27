@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.342, 
+              -36.824
+            ], 
+            [
+              -72.342, 
+              -36.810
+            ], 
+            [
+              -72.325, 
+              -36.810
+            ], 
+            [
+              -72.325, 
+              -36.824
+            ], 
+            [
+              -72.342, 
+              -36.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -36.810, 
+        "name": "Santa Clara", 
+        "adjacent_woeid": [
+          347183, 
+          348017, 
+          348426, 
+          349056, 
+          349242, 
+          349469
+        ], 
+        "woeid": 349508, 
+        "alias_SPA_V": [
+          "Sta Clara"
+        ], 
+        "ne_longitude": -72.325, 
+        "longitude": -72.333, 
+        "parent_woeid": 26794113, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -36.817, 
+        "sw_longitude": -72.342, 
+        "fullname": "Santa Clara, Biobio Region, Nuble Province, Chile", 
+        "sw_latitude": -36.824
+      }, 
+      "id": 349508
+    }
+  ]
+}

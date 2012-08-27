@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.203, 
+              49.597
+            ], 
+            [
+              11.203, 
+              49.615
+            ], 
+            [
+              11.220, 
+              49.615
+            ], 
+            [
+              11.220, 
+              49.597
+            ], 
+            [
+              11.203, 
+              49.597
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633444, 
+        "name": "Affalterbach", 
+        "adjacent_woeid": [
+          650948, 
+          684704, 
+          697354, 
+          701212
+        ], 
+        "ne_latitude": 49.615, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.220, 
+        "longitude": 11.212, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12634367, 
+        "latitude": 49.607, 
+        "sw_longitude": 11.203, 
+        "fullname": "Affalterbach, Bavaria, Landkreis Forchheim, Germany", 
+        "sw_latitude": 49.597
+      }, 
+      "id": 633444
+    }
+  ]
+}

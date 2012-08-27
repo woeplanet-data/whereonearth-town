@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.381, 
+              18.419
+            ], 
+            [
+              -97.381, 
+              18.438
+            ], 
+            [
+              -97.362, 
+              18.438
+            ], 
+            [
+              -97.362, 
+              18.419
+            ], 
+            [
+              -97.381, 
+              18.419
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.438, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          134478, 
+          141778, 
+          142220, 
+          142294, 
+          147093, 
+          56074871, 
+          56074876
+        ], 
+        "woeid": 144572, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -97.362, 
+        "longitude": -97.371, 
+        "parent_woeid": 12601382, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.429, 
+        "sw_longitude": -97.381, 
+        "fullname": "San Miguel, Puebla, Tehuacan, Mexico", 
+        "sw_latitude": 18.419
+      }, 
+      "id": 144572
+    }
+  ]
+}

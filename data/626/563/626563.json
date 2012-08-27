@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.277, 
+              46.145
+            ], 
+            [
+              3.277, 
+              46.172
+            ], 
+            [
+              3.319, 
+              46.172
+            ], 
+            [
+              3.319, 
+              46.145
+            ], 
+            [
+              3.277, 
+              46.145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626563, 
+        "name": "St.-Pont", 
+        "adjacent_woeid": [
+          583788, 
+          590017, 
+          608775, 
+          630530
+        ], 
+        "ne_latitude": 46.172, 
+        "ne_longitude": 3.319, 
+        "longitude": 3.296, 
+        "parent_woeid": 22755143, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.162, 
+        "sw_longitude": 3.277, 
+        "fullname": "St.-Pont, Auvergne, Allier, France", 
+        "sw_latitude": 46.145
+      }, 
+      "id": 626563
+    }
+  ]
+}

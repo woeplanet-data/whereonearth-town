@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.167, 
+              47.033
+            ], 
+            [
+              15.167, 
+              47.052
+            ], 
+            [
+              15.193, 
+              47.052
+            ], 
+            [
+              15.193, 
+              47.033
+            ], 
+            [
+              15.167, 
+              47.033
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 549100, 
+        "name": "Lobming", 
+        "adjacent_woeid": [
+          548033, 
+          548947, 
+          549222, 
+          550099
+        ], 
+        "ne_latitude": 47.052, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.193, 
+        "longitude": 15.180, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:13Z", 
+        "parent_woeid": 12675069, 
+        "latitude": 47.042, 
+        "sw_longitude": 15.167, 
+        "fullname": "Lobming, Styria, Voitsberg, Austria", 
+        "sw_latitude": 47.033
+      }, 
+      "id": 549100
+    }
+  ]
+}

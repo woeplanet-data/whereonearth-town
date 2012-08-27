@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.234, 
+              48.675
+            ], 
+            [
+              12.234, 
+              48.699
+            ], 
+            [
+              12.264, 
+              48.699
+            ], 
+            [
+              12.264, 
+              48.675
+            ], 
+            [
+              12.234, 
+              48.675
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665707, 
+        "name": "Kienoden", 
+        "adjacent_woeid": [
+          646041, 
+          664047, 
+          670198, 
+          676167, 
+          683642, 
+          684113, 
+          687556, 
+          694869, 
+          701430
+        ], 
+        "ne_latitude": 48.699, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.264, 
+        "longitude": 12.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12622907, 
+        "latitude": 48.683, 
+        "sw_longitude": 12.234, 
+        "fullname": "Kienoden, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.675
+      }, 
+      "id": 665707
+    }
+  ]
+}

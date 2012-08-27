@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.793, 
+              24.141
+            ], 
+            [
+              -100.793, 
+              24.159
+            ], 
+            [
+              -100.773, 
+              24.159
+            ], 
+            [
+              -100.773, 
+              24.141
+            ], 
+            [
+              -100.793, 
+              24.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.159, 
+        "name": "San Pedro de la Noria", 
+        "adjacent_woeid": [
+          120318, 
+          124830, 
+          128782, 
+          141605, 
+          143881
+        ], 
+        "woeid": 145056, 
+        "alias_SPA_V": [
+          "S Pedro de la Noria"
+        ], 
+        "ne_longitude": -100.773, 
+        "longitude": -100.783, 
+        "parent_woeid": 12601515, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.150, 
+        "sw_longitude": -100.793, 
+        "fullname": "San Pedro de la Noria, San Luis Potosi, Vanegas, Mexico", 
+        "sw_latitude": 24.141
+      }, 
+      "id": 145056
+    }
+  ]
+}

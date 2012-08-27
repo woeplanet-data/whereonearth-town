@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.416, 
+              14.740
+            ], 
+            [
+              -87.416, 
+              14.758
+            ], 
+            [
+              -87.397, 
+              14.758
+            ], 
+            [
+              -87.397, 
+              14.740
+            ], 
+            [
+              -87.416, 
+              14.740
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.758, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          101870, 
+          103158, 
+          105223, 
+          106606
+        ], 
+        "woeid": 107029, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -87.397, 
+        "longitude": -87.406, 
+        "parent_woeid": 26813800, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.749, 
+        "sw_longitude": -87.416, 
+        "fullname": "San Luis, Comayagua, San Luis, Honduras", 
+        "sw_latitude": 14.740
+      }, 
+      "id": 107029
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.709, 
+              41.232
+            ], 
+            [
+              -76.709, 
+              41.328
+            ], 
+            [
+              -76.565, 
+              41.328
+            ], 
+            [
+              -76.565, 
+              41.232
+            ], 
+            [
+              -76.709, 
+              41.232
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745268, 
+        "name": "Penn", 
+        "adjacent_woeid": [
+          2361007, 
+          2370866, 
+          2410858, 
+          2453960, 
+          2500843, 
+          2506741, 
+          28745445
+        ], 
+        "ne_latitude": 41.328, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Penn Township"
+        ], 
+        "ne_longitude": -76.565, 
+        "longitude": -76.637, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589768, 
+        "latitude": 41.281, 
+        "sw_longitude": -76.709, 
+        "fullname": "Penn, Pennsylvania, Lycoming, United States", 
+        "sw_latitude": 41.232
+      }, 
+      "id": 28745268
+    }
+  ]
+}

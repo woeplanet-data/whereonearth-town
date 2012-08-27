@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.051, 
+              49.183
+            ], 
+            [
+              5.051, 
+              49.215
+            ], 
+            [
+              5.116, 
+              49.215
+            ], 
+            [
+              5.116, 
+              49.183
+            ], 
+            [
+              5.051, 
+              49.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630305, 
+        "name": "Vauquois", 
+        "adjacent_woeid": [
+          577105, 
+          577622, 
+          581179, 
+          585581, 
+          614221
+        ], 
+        "ne_latitude": 49.215, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.116, 
+        "longitude": 5.073, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 12672117, 
+        "latitude": 49.204, 
+        "sw_longitude": 5.051, 
+        "fullname": "Vauquois, Lorraine, Meuse, France", 
+        "sw_latitude": 49.183
+      }, 
+      "id": 630305
+    }
+  ]
+}

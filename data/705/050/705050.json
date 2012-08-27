@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.951, 
+              50.416
+            ], 
+            [
+              10.951, 
+              50.425
+            ], 
+            [
+              10.965, 
+              50.425
+            ], 
+            [
+              10.965, 
+              50.416
+            ], 
+            [
+              10.951, 
+              50.416
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705050, 
+        "name": "Weitesfeld", 
+        "adjacent_woeid": [
+          636338, 
+          658363, 
+          699713
+        ], 
+        "ne_latitude": 50.425, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.965, 
+        "longitude": 10.958, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12625122, 
+        "latitude": 50.421, 
+        "sw_longitude": 10.951, 
+        "fullname": "Weitesfeld, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.416
+      }, 
+      "id": 705050
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.637, 
+              48.075
+            ], 
+            [
+              0.637, 
+              48.122
+            ], 
+            [
+              0.662, 
+              48.122
+            ], 
+            [
+              0.662, 
+              48.075
+            ], 
+            [
+              0.637, 
+              48.075
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625386, 
+        "name": "St.-Maixent", 
+        "adjacent_woeid": [
+          580981, 
+          585624, 
+          587016, 
+          601051, 
+          601827, 
+          603365, 
+          621475, 
+          631405
+        ], 
+        "ne_latitude": 48.122, 
+        "ne_longitude": 0.662, 
+        "longitude": 0.654, 
+        "parent_woeid": 20074764, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maixent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.090, 
+        "sw_longitude": 0.637, 
+        "fullname": "St.-Maixent, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.075
+      }, 
+      "id": 625386
+    }
+  ]
+}

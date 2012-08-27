@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.143, 
+              43.026
+            ], 
+            [
+              2.143, 
+              43.058
+            ], 
+            [
+              2.176, 
+              43.058
+            ], 
+            [
+              2.176, 
+              43.026
+            ], 
+            [
+              2.143, 
+              43.026
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598043, 
+        "name": "La Digne-d'Amont", 
+        "adjacent_woeid": [
+          575626, 
+          583287, 
+          598044, 
+          609266, 
+          609575, 
+          628964
+        ], 
+        "ne_latitude": 43.058, 
+        "ne_longitude": 2.176, 
+        "longitude": 2.159, 
+        "parent_woeid": 12663603, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Digne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.042, 
+        "sw_longitude": 2.143, 
+        "fullname": "La Digne-d'Amont, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 43.026
+      }, 
+      "id": 598043
+    }
+  ]
+}

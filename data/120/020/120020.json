@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.543, 
+              19.291
+            ], 
+            [
+              -96.543, 
+              19.309
+            ], 
+            [
+              -96.524, 
+              19.309
+            ], 
+            [
+              -96.524, 
+              19.291
+            ], 
+            [
+              -96.543, 
+              19.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.309, 
+        "name": "El Crucero", 
+        "adjacent_woeid": [
+          111034, 
+          112250, 
+          114695, 
+          132187, 
+          136160, 
+          137693, 
+          140753
+        ], 
+        "woeid": 120020, 
+        "alias_SPA_V": [
+          "Crucero"
+        ], 
+        "ne_longitude": -96.524, 
+        "longitude": -96.533, 
+        "parent_woeid": 12601855, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.300, 
+        "sw_longitude": -96.543, 
+        "fullname": "El Crucero, Veracruz-Llave, Puente Nacional, Mexico", 
+        "sw_latitude": 19.291
+      }, 
+      "id": 120020
+    }
+  ]
+}

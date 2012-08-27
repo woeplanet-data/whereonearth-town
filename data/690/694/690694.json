@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.285, 
+              48.587
+            ], 
+            [
+              10.285, 
+              48.628
+            ], 
+            [
+              10.332, 
+              48.628
+            ], 
+            [
+              10.332, 
+              48.587
+            ], 
+            [
+              10.285, 
+              48.587
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690694, 
+        "name": "Sachsenhausen", 
+        "adjacent_woeid": [
+          652333, 
+          661256, 
+          669992
+        ], 
+        "ne_latitude": 48.628, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.332, 
+        "longitude": 10.303, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12624196, 
+        "latitude": 48.613, 
+        "sw_longitude": 10.285, 
+        "fullname": "Sachsenhausen, Baden-Wurttemberg, Heidenheim, Germany", 
+        "sw_latitude": 48.587
+      }, 
+      "id": 690694
+    }
+  ]
+}

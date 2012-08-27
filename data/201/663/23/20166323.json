@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.159, 
+              52.279
+            ], 
+            [
+              10.159, 
+              52.325
+            ], 
+            [
+              10.185, 
+              52.325
+            ], 
+            [
+              10.185, 
+              52.279
+            ], 
+            [
+              10.159, 
+              52.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20166323, 
+        "name": "Rosenthal", 
+        "adjacent_woeid": [
+          638233, 
+          657109, 
+          660921, 
+          693946, 
+          702572, 
+          20166320, 
+          20166322
+        ], 
+        "ne_latitude": 52.325, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.185, 
+        "longitude": 10.171, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12630424, 
+        "latitude": 52.301, 
+        "sw_longitude": 10.159, 
+        "fullname": "Rosenthal, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.279
+      }, 
+      "id": 20166323
+    }
+  ]
+}

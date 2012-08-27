@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.043, 
+              48.847
+            ], 
+            [
+              10.043, 
+              48.868
+            ], 
+            [
+              10.062, 
+              48.868
+            ], 
+            [
+              10.062, 
+              48.847
+            ], 
+            [
+              10.043, 
+              48.847
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657065, 
+        "name": "Hammerstadt", 
+        "adjacent_woeid": [
+          633447, 
+          644374, 
+          649375, 
+          682127, 
+          687088, 
+          699952, 
+          701433
+        ], 
+        "ne_latitude": 48.868, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.062, 
+        "longitude": 10.052, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12624242, 
+        "latitude": 48.856, 
+        "sw_longitude": 10.043, 
+        "fullname": "Hammerstadt, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.847
+      }, 
+      "id": 657065
+    }
+  ]
+}

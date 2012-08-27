@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.638, 
+              45.218
+            ], 
+            [
+              1.638, 
+              45.227
+            ], 
+            [
+              1.651, 
+              45.227
+            ], 
+            [
+              1.651, 
+              45.218
+            ], 
+            [
+              1.638, 
+              45.218
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20188504, 
+        "name": "Le Peyroux", 
+        "adjacent_woeid": [
+          584102, 
+          587053, 
+          590650, 
+          627517
+        ], 
+        "ne_latitude": 45.227, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.651, 
+        "longitude": 1.644, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12658812, 
+        "latitude": 45.223, 
+        "sw_longitude": 1.638, 
+        "fullname": "Le Peyroux, Limousin, Correze, France", 
+        "sw_latitude": 45.218
+      }, 
+      "id": 20188504
+    }
+  ]
+}

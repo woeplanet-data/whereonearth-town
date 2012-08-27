@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.208, 
+              45.607
+            ], 
+            [
+              3.208, 
+              45.641
+            ], 
+            [
+              3.243, 
+              45.641
+            ], 
+            [
+              3.243, 
+              45.607
+            ], 
+            [
+              3.208, 
+              45.607
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615668, 
+        "name": "Parent", 
+        "adjacent_woeid": [
+          597701, 
+          612988, 
+          20207374, 
+          29332662, 
+          29332663
+        ], 
+        "ne_latitude": 45.641, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.243, 
+        "longitude": 3.227, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12646116, 
+        "latitude": 45.626, 
+        "sw_longitude": 3.208, 
+        "fullname": "Parent, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.607
+      }, 
+      "id": 615668
+    }
+  ]
+}

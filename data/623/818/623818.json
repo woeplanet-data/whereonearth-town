@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.001, 
+              48.429
+            ], 
+            [
+              1.001, 
+              48.474
+            ], 
+            [
+              1.045, 
+              48.474
+            ], 
+            [
+              1.045, 
+              48.429
+            ], 
+            [
+              1.001, 
+              48.429
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623818, 
+        "name": "Saint-\u00c9liph", 
+        "adjacent_woeid": [
+          584331, 
+          612817, 
+          627222, 
+          630301, 
+          20184947, 
+          29332353
+        ], 
+        "ne_latitude": 48.474, 
+        "ne_longitude": 1.045, 
+        "longitude": 1.025, 
+        "parent_woeid": 12642242, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St.-Eliph"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.451, 
+        "sw_longitude": 1.001, 
+        "fullname": "Saint-\u00c9liph, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.429
+      }, 
+      "id": 623818
+    }
+  ]
+}

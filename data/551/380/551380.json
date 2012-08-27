@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.920, 
+              47.291
+            ], 
+            [
+              10.920, 
+              47.309
+            ], 
+            [
+              10.947, 
+              47.309
+            ], 
+            [
+              10.947, 
+              47.291
+            ], 
+            [
+              10.920, 
+              47.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551380, 
+        "name": "Wald", 
+        "adjacent_woeid": [
+          550468, 
+          550593
+        ], 
+        "ne_latitude": 47.309, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.947, 
+        "longitude": 10.933, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12675444, 
+        "latitude": 47.300, 
+        "sw_longitude": 10.920, 
+        "fullname": "Wald, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.291
+      }, 
+      "id": 551380
+    }
+  ]
+}

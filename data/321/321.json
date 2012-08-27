@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.302, 
+              45.785
+            ], 
+            [
+              -73.302, 
+              45.985
+            ], 
+            [
+              -73.160, 
+              45.985
+            ], 
+            [
+              -73.160, 
+              45.785
+            ], 
+            [
+              -73.302, 
+              45.785
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 321, 
+        "name": "Contrecoeur", 
+        "adjacent_woeid": [
+          1582, 
+          3520, 
+          23394484, 
+          23394508, 
+          23396470
+        ], 
+        "ne_latitude": 45.985, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -73.160, 
+        "longitude": -73.239, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:35Z", 
+        "parent_woeid": 29375052, 
+        "latitude": 45.857, 
+        "sw_longitude": -73.302, 
+        "fullname": "Contrecoeur, Quebec, Lajemmerais, Canada", 
+        "sw_latitude": 45.785
+      }, 
+      "id": 321
+    }
+  ]
+}

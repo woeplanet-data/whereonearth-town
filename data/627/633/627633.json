@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.675, 
+              47.483
+            ], 
+            [
+              6.675, 
+              47.517
+            ], 
+            [
+              6.717, 
+              47.517
+            ], 
+            [
+              6.717, 
+              47.483
+            ], 
+            [
+              6.675, 
+              47.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627633, 
+        "name": "Ste.-Marie", 
+        "adjacent_woeid": [
+          576436, 
+          578464, 
+          586538, 
+          608738, 
+          612539, 
+          618009, 
+          625005
+        ], 
+        "ne_latitude": 47.517, 
+        "ne_longitude": 6.717, 
+        "longitude": 6.696, 
+        "parent_woeid": 12653413, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Marie"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.508, 
+        "sw_longitude": 6.675, 
+        "fullname": "Ste.-Marie, Franche-Comte, Doubs, France", 
+        "sw_latitude": 47.483
+      }, 
+      "id": 627633
+    }
+  ]
+}

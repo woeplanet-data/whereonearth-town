@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.231, 
+              49.483
+            ], 
+            [
+              1.231, 
+              49.509
+            ], 
+            [
+              1.258, 
+              49.509
+            ], 
+            [
+              1.258, 
+              49.483
+            ], 
+            [
+              1.231, 
+              49.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600397, 
+        "name": "La Vieux-Rue", 
+        "adjacent_woeid": [
+          580097, 
+          613237, 
+          617924, 
+          621992, 
+          20188237
+        ], 
+        "ne_latitude": 49.509, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.258, 
+        "longitude": 1.247, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12645971, 
+        "latitude": 49.499, 
+        "sw_longitude": 1.231, 
+        "fullname": "La Vieux-Rue, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.483
+      }, 
+      "id": 600397
+    }
+  ]
+}

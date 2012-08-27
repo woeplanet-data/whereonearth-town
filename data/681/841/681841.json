@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.422, 
+              49.415
+            ], 
+            [
+              11.422, 
+              49.444
+            ], 
+            [
+              11.445, 
+              49.444
+            ], 
+            [
+              11.445, 
+              49.415
+            ], 
+            [
+              11.422, 
+              49.415
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 681841, 
+        "name": "Oberndorf", 
+        "adjacent_woeid": [
+          641038, 
+          644802, 
+          669269, 
+          682094, 
+          703941
+        ], 
+        "ne_latitude": 49.444, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.445, 
+        "longitude": 11.429, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:07Z", 
+        "parent_woeid": 12634486, 
+        "latitude": 49.430, 
+        "sw_longitude": 11.422, 
+        "fullname": "Oberndorf, Bavaria, Nurnberger Land, Germany", 
+        "sw_latitude": 49.415
+      }, 
+      "id": 681841
+    }
+  ]
+}

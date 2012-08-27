@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.818, 
+              43.969
+            ], 
+            [
+              1.818, 
+              44.012
+            ], 
+            [
+              1.864, 
+              44.012
+            ], 
+            [
+              1.864, 
+              43.969
+            ], 
+            [
+              1.818, 
+              43.969
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604873, 
+        "name": "Le Verdier", 
+        "adjacent_woeid": [
+          582650, 
+          623225, 
+          631237, 
+          29331469
+        ], 
+        "ne_latitude": 44.012, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.864, 
+        "longitude": 1.842, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12665166, 
+        "latitude": 43.989, 
+        "sw_longitude": 1.818, 
+        "fullname": "Le Verdier, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.969
+      }, 
+      "id": 604873
+    }
+  ]
+}

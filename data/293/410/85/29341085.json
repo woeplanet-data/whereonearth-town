@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.334, 
+              45.537
+            ], 
+            [
+              11.334, 
+              45.555
+            ], 
+            [
+              11.360, 
+              45.555
+            ], 
+            [
+              11.360, 
+              45.537
+            ], 
+            [
+              11.334, 
+              45.537
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 29341085, 
+        "name": "San Tomio", 
+        "adjacent_woeid": [
+          20105511, 
+          20108103, 
+          20138606, 
+          29341084
+        ], 
+        "ne_latitude": 45.555, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.360, 
+        "longitude": 11.347, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:30:28Z", 
+        "parent_woeid": 12676301, 
+        "latitude": 45.546, 
+        "sw_longitude": 11.334, 
+        "fullname": "San Tomio, Veneto, Vicenza, Italy", 
+        "sw_latitude": 45.537
+      }, 
+      "id": 29341085
+    }
+  ]
+}

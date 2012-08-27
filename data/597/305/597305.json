@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.109, 
+              48.834
+            ], 
+            [
+              2.109, 
+              48.865
+            ], 
+            [
+              2.164, 
+              48.865
+            ], 
+            [
+              2.164, 
+              48.834
+            ], 
+            [
+              2.109, 
+              48.834
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597305, 
+        "name": "La Celle-St.-Cloud", 
+        "adjacent_woeid": [
+          619725, 
+          55863432, 
+          55863502, 
+          55863522, 
+          55863565, 
+          55863601
+        ], 
+        "ne_latitude": 48.865, 
+        "ne_longitude": 2.164, 
+        "longitude": 2.144, 
+        "parent_woeid": 12645975, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Celle-Saint-Cloud"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.853, 
+        "sw_longitude": 2.109, 
+        "fullname": "La Celle-St.-Cloud, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.834
+      }, 
+      "id": 597305
+    }
+  ]
+}

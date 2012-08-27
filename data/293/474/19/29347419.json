@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.994, 
+              47.603
+            ], 
+            [
+              12.994, 
+              47.621
+            ], 
+            [
+              13.021, 
+              47.621
+            ], 
+            [
+              13.021, 
+              47.603
+            ], 
+            [
+              12.994, 
+              47.603
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29347419, 
+        "name": "Weiden", 
+        "adjacent_woeid": [
+          693994, 
+          29347140, 
+          29347387, 
+          29347417
+        ], 
+        "ne_latitude": 47.621, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.021, 
+        "longitude": 13.007, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:32Z", 
+        "parent_woeid": 12622729, 
+        "latitude": 47.612, 
+        "sw_longitude": 12.994, 
+        "fullname": "Weiden, Bavaria, Berchtesgadener Land, Germany", 
+        "sw_latitude": 47.603
+      }, 
+      "id": 29347419
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.774, 
+              22.480
+            ], 
+            [
+              -104.774, 
+              22.499
+            ], 
+            [
+              -104.754, 
+              22.499
+            ], 
+            [
+              -104.754, 
+              22.480
+            ], 
+            [
+              -104.774, 
+              22.480
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.499, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          111274, 
+          118293, 
+          125047, 
+          133393, 
+          136569, 
+          142631
+        ], 
+        "woeid": 146984, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -104.754, 
+        "longitude": -104.764, 
+        "parent_woeid": 12600591, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.490, 
+        "sw_longitude": -104.774, 
+        "fullname": "Santa Teresa, Nayarit, El Nayar, Mexico", 
+        "sw_latitude": 22.480
+      }, 
+      "id": 146984
+    }
+  ]
+}

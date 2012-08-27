@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.111, 
+              48.212
+            ], 
+            [
+              4.111, 
+              48.221
+            ], 
+            [
+              4.125, 
+              48.221
+            ], 
+            [
+              4.125, 
+              48.212
+            ], 
+            [
+              4.111, 
+              48.212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20216767, 
+        "name": "Roche", 
+        "adjacent_woeid": [
+          582263, 
+          595261, 
+          613546, 
+          627113
+        ], 
+        "ne_latitude": 48.221, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.125, 
+        "longitude": 4.118, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 12649747, 
+        "latitude": 48.217, 
+        "sw_longitude": 4.111, 
+        "fullname": "Roche, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.212
+      }, 
+      "id": 20216767
+    }
+  ]
+}

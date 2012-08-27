@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.443, 
+              17.741
+            ], 
+            [
+              -91.443, 
+              17.759
+            ], 
+            [
+              -91.424, 
+              17.759
+            ], 
+            [
+              -91.424, 
+              17.741
+            ], 
+            [
+              -91.443, 
+              17.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.759, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          115616, 
+          120679, 
+          125458, 
+          128792, 
+          133797, 
+          134452
+        ], 
+        "woeid": 145992, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -91.424, 
+        "longitude": -91.433, 
+        "parent_woeid": 12601615, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.750, 
+        "sw_longitude": -91.443, 
+        "fullname": "Santa Cruz, Tabasco, Balancan, Mexico", 
+        "sw_latitude": 17.741
+      }, 
+      "id": 145992
+    }
+  ]
+}

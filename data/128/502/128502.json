@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.243, 
+              21.358
+            ], 
+            [
+              -101.243, 
+              21.376
+            ], 
+            [
+              -101.224, 
+              21.376
+            ], 
+            [
+              -101.224, 
+              21.358
+            ], 
+            [
+              -101.243, 
+              21.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.376, 
+        "name": "La Obra", 
+        "adjacent_woeid": [
+          119000, 
+          125856, 
+          127801, 
+          131566, 
+          145759
+        ], 
+        "woeid": 128502, 
+        "alias_SPA_V": [
+          "La Otra"
+        ], 
+        "ne_longitude": -101.224, 
+        "longitude": -101.233, 
+        "parent_woeid": 12600018, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.367, 
+        "sw_longitude": -101.243, 
+        "fullname": "La Obra, Guanajuato, San Felipe, Mexico", 
+        "sw_latitude": 21.358
+      }, 
+      "id": 128502
+    }
+  ]
+}

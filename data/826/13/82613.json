@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.874, 
+              14.426
+            ], 
+            [
+              -89.874, 
+              14.440
+            ], 
+            [
+              -89.859, 
+              14.440
+            ], 
+            [
+              -89.859, 
+              14.426
+            ], 
+            [
+              -89.874, 
+              14.426
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.440, 
+        "name": "El Ovejero", 
+        "adjacent_woeid": [
+          82731, 
+          83162, 
+          83336, 
+          84080, 
+          84506
+        ], 
+        "woeid": 82613, 
+        "alias_SPA_V": [
+          "Ovejero"
+        ], 
+        "ne_longitude": -89.859, 
+        "longitude": -89.867, 
+        "parent_woeid": 26807046, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.433, 
+        "sw_longitude": -89.874, 
+        "fullname": "El Ovejero, Jutiapa, El Progreso, Guatemala", 
+        "sw_latitude": 14.426
+      }, 
+      "id": 82613
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.593, 
+              17.658
+            ], 
+            [
+              -101.593, 
+              17.676
+            ], 
+            [
+              -101.574, 
+              17.676
+            ], 
+            [
+              -101.574, 
+              17.658
+            ], 
+            [
+              -101.593, 
+              17.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.676, 
+        "name": "La Puerta", 
+        "adjacent_woeid": [
+          113196, 
+          119354, 
+          125543, 
+          129199, 
+          130702, 
+          55892643, 
+          55902569
+        ], 
+        "woeid": 128959, 
+        "alias_SPA_V": [
+          "Puerta"
+        ], 
+        "ne_longitude": -101.574, 
+        "longitude": -101.583, 
+        "parent_woeid": 12600073, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.667, 
+        "sw_longitude": -101.593, 
+        "fullname": "La Puerta, Guerrero, Jose Azueta, Mexico", 
+        "sw_latitude": 17.658
+      }, 
+      "id": 128959
+    }
+  ]
+}

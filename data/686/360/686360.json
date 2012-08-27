@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.437, 
+              50.433
+            ], 
+            [
+              10.437, 
+              50.473
+            ], 
+            [
+              10.481, 
+              50.473
+            ], 
+            [
+              10.481, 
+              50.433
+            ], 
+            [
+              10.437, 
+              50.433
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 686360, 
+        "name": "Queienfeld", 
+        "adjacent_woeid": [
+          638211, 
+          638716, 
+          664254, 
+          688022, 
+          705681, 
+          707642, 
+          55965874
+        ], 
+        "ne_latitude": 50.473, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.481, 
+        "longitude": 10.453, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:35Z", 
+        "parent_woeid": 12624950, 
+        "latitude": 50.450, 
+        "sw_longitude": 10.437, 
+        "fullname": "Queienfeld, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.433
+      }, 
+      "id": 686360
+    }
+  ]
+}

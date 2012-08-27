@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.943, 
+              23.524
+            ], 
+            [
+              -99.943, 
+              23.542
+            ], 
+            [
+              -99.923, 
+              23.542
+            ], 
+            [
+              -99.923, 
+              23.524
+            ], 
+            [
+              -99.943, 
+              23.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.542, 
+        "name": "El Llano", 
+        "adjacent_woeid": [
+          113927, 
+          119391, 
+          126743, 
+          128883, 
+          130049, 
+          133739
+        ], 
+        "woeid": 120726, 
+        "alias_SPA_V": [
+          "S. Jos\u00e9 del Llano"
+        ], 
+        "ne_longitude": -99.923, 
+        "longitude": -99.933, 
+        "parent_woeid": 12601657, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "S. Jose del Llano"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.533, 
+        "sw_longitude": -99.943, 
+        "fullname": "El Llano, Tamaulipas, Miquihuana, Mexico", 
+        "sw_latitude": 23.524
+      }, 
+      "id": 120726
+    }
+  ]
+}

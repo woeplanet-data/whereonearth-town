@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.137, 
+              51.193
+            ], 
+            [
+              10.137, 
+              51.225
+            ], 
+            [
+              10.163, 
+              51.225
+            ], 
+            [
+              10.163, 
+              51.193
+            ], 
+            [
+              10.137, 
+              51.193
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637300, 
+        "name": "Bebendorf", 
+        "adjacent_woeid": [
+          645282, 
+          650646, 
+          655239
+        ], 
+        "ne_latitude": 51.225, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.163, 
+        "longitude": 10.156, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12624667, 
+        "latitude": 51.214, 
+        "sw_longitude": 10.137, 
+        "fullname": "Bebendorf, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.193
+      }, 
+      "id": 637300
+    }
+  ]
+}

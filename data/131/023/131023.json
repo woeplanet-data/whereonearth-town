@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.127, 
+              25.591
+            ], 
+            [
+              -98.127, 
+              25.609
+            ], 
+            [
+              -98.107, 
+              25.609
+            ], 
+            [
+              -98.107, 
+              25.591
+            ], 
+            [
+              -98.127, 
+              25.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.609, 
+        "name": "Lavaderos", 
+        "adjacent_woeid": [
+          114649, 
+          117241, 
+          119356, 
+          120384, 
+          122561, 
+          128671, 
+          144145, 
+          145918
+        ], 
+        "woeid": 131023, 
+        "alias_SPA_V": [
+          "Lazaderos"
+        ], 
+        "ne_longitude": -98.107, 
+        "longitude": -98.117, 
+        "parent_woeid": 12601664, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.600, 
+        "sw_longitude": -98.127, 
+        "fullname": "Lavaderos, Tamaulipas, Rio Bravo, Mexico", 
+        "sw_latitude": 25.591
+      }, 
+      "id": 131023
+    }
+  ]
+}

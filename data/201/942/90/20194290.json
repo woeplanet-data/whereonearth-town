@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.476, 
+              43.634
+            ], 
+            [
+              2.476, 
+              43.643
+            ], 
+            [
+              2.489, 
+              43.643
+            ], 
+            [
+              2.489, 
+              43.634
+            ], 
+            [
+              2.476, 
+              43.634
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20194290, 
+        "name": "St.-Agnan", 
+        "adjacent_woeid": [
+          582405, 
+          582768, 
+          583264, 
+          590859, 
+          602034, 
+          20219634, 
+          29331476
+        ], 
+        "ne_latitude": 43.643, 
+        "ne_longitude": 2.489, 
+        "longitude": 2.482, 
+        "parent_woeid": 12664678, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Agnan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.639, 
+        "sw_longitude": 2.476, 
+        "fullname": "St.-Agnan, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.634
+      }, 
+      "id": 20194290
+    }
+  ]
+}

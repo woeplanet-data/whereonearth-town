@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.205, 
+              0.362
+            ], 
+            [
+              -76.205, 
+              0.371
+            ], 
+            [
+              -76.195, 
+              0.371
+            ], 
+            [
+              -76.195, 
+              0.362
+            ], 
+            [
+              -76.205, 
+              0.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.371, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          373274, 
+          373905, 
+          374278, 
+          376090, 
+          376139
+        ], 
+        "woeid": 375029, 
+        "alias_SPA_V": [
+          "Sta. Elena"
+        ], 
+        "ne_longitude": -76.195, 
+        "longitude": -76.200, 
+        "parent_woeid": 26810496, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.367, 
+        "sw_longitude": -76.205, 
+        "fullname": "Santa Elena, Sucumbios, Putumayo, Ecuador", 
+        "sw_latitude": 0.362
+      }, 
+      "id": 375029
+    }
+  ]
+}

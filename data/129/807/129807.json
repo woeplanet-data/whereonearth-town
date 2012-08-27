@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.293, 
+              25.341
+            ], 
+            [
+              -100.293, 
+              25.359
+            ], 
+            [
+              -100.273, 
+              25.359
+            ], 
+            [
+              -100.273, 
+              25.341
+            ], 
+            [
+              -100.293, 
+              25.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.359, 
+        "name": "Laguna de S\u00e1nchez", 
+        "adjacent_woeid": [
+          127253, 
+          128864, 
+          134879, 
+          137250, 
+          143518
+        ], 
+        "woeid": 129807, 
+        "alias_SPA_V": [
+          "Laguna Sanchez"
+        ], 
+        "ne_longitude": -100.273, 
+        "longitude": -100.283, 
+        "parent_woeid": 12600654, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Laguna de Sanchez"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.350, 
+        "sw_longitude": -100.293, 
+        "fullname": "Laguna de S\u00e1nchez, Nuevo Leon, Santiago, Mexico", 
+        "sw_latitude": 25.341
+      }, 
+      "id": 129807
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.537, 
+              48.299
+            ], 
+            [
+              1.537, 
+              48.308
+            ], 
+            [
+              1.551, 
+              48.308
+            ], 
+            [
+              1.551, 
+              48.299
+            ], 
+            [
+              1.537, 
+              48.299
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602103, 
+        "name": "Le Bois-St.-Martin", 
+        "adjacent_woeid": [
+          580579, 
+          603075, 
+          616446, 
+          631896, 
+          632705
+        ], 
+        "ne_latitude": 48.308, 
+        "ne_longitude": 1.551, 
+        "longitude": 1.544, 
+        "parent_woeid": 12639285, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Bois Saint-martin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.303, 
+        "sw_longitude": 1.537, 
+        "fullname": "Le Bois-St.-Martin, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.299
+      }, 
+      "id": 602103
+    }
+  ]
+}

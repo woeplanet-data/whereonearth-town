@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.101, 
+              49.387
+            ], 
+            [
+              3.101, 
+              49.405
+            ], 
+            [
+              3.129, 
+              49.405
+            ], 
+            [
+              3.129, 
+              49.387
+            ], 
+            [
+              3.101, 
+              49.387
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333395, 
+        "name": "La Vache Noire", 
+        "adjacent_woeid": [
+          612781, 
+          29333392, 
+          29333397, 
+          29333398
+        ], 
+        "ne_latitude": 49.405, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.129, 
+        "longitude": 3.116, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "parent_woeid": 22757501, 
+        "latitude": 49.396, 
+        "sw_longitude": 3.101, 
+        "fullname": "La Vache Noire, Picardie, Aisne, France", 
+        "sw_latitude": 49.387
+      }, 
+      "id": 29333395
+    }
+  ]
+}

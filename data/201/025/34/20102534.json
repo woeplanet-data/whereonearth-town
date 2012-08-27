@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.053, 
+              46.311
+            ], 
+            [
+              10.053, 
+              46.321
+            ], 
+            [
+              10.067, 
+              46.321
+            ], 
+            [
+              10.067, 
+              46.311
+            ], 
+            [
+              10.053, 
+              46.311
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20102534, 
+        "name": "La Rasiga", 
+        "adjacent_woeid": [
+          781578, 
+          783762, 
+          20101350, 
+          20104029
+        ], 
+        "ne_latitude": 46.321, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.067, 
+        "longitude": 10.060, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12682738, 
+        "latitude": 46.316, 
+        "sw_longitude": 10.053, 
+        "fullname": "La Rasiga, Canton of Graubunden, Bernina, Switzerland", 
+        "sw_latitude": 46.311
+      }, 
+      "id": 20102534
+    }
+  ]
+}

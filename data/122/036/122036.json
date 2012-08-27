@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.377, 
+              23.891
+            ], 
+            [
+              -100.377, 
+              23.909
+            ], 
+            [
+              -100.357, 
+              23.909
+            ], 
+            [
+              -100.357, 
+              23.891
+            ], 
+            [
+              -100.377, 
+              23.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.909, 
+        "name": "El Represadero", 
+        "adjacent_woeid": [
+          117027, 
+          121424, 
+          122221, 
+          133263, 
+          144716, 
+          146950
+        ], 
+        "woeid": 122036, 
+        "alias_SPA_V": [
+          "Represadero"
+        ], 
+        "ne_longitude": -100.357, 
+        "longitude": -100.367, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.900, 
+        "sw_longitude": -100.377, 
+        "fullname": "El Represadero, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.891
+      }, 
+      "id": 122036
+    }
+  ]
+}

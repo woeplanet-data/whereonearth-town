@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.940, 
+              50.071
+            ], 
+            [
+              10.940, 
+              50.090
+            ], 
+            [
+              10.961, 
+              50.090
+            ], 
+            [
+              10.961, 
+              50.071
+            ], 
+            [
+              10.940, 
+              50.071
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679321, 
+        "name": "Niederau", 
+        "adjacent_woeid": [
+          645283, 
+          701320, 
+          706346, 
+          20172900
+        ], 
+        "ne_latitude": 50.090, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.961, 
+        "longitude": 10.947, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12635365, 
+        "latitude": 50.081, 
+        "sw_longitude": 10.940, 
+        "fullname": "Niederau, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.071
+      }, 
+      "id": 679321
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.555, 
+              49.447
+            ], 
+            [
+              4.555, 
+              49.479
+            ], 
+            [
+              4.620, 
+              49.479
+            ], 
+            [
+              4.620, 
+              49.447
+            ], 
+            [
+              4.555, 
+              49.447
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627758, 
+        "name": "Ste.-Vaubourg", 
+        "adjacent_woeid": [
+          587294, 
+          630356, 
+          20216715, 
+          20216717, 
+          29333494
+        ], 
+        "ne_latitude": 49.479, 
+        "ne_longitude": 4.620, 
+        "longitude": 4.588, 
+        "parent_woeid": 12653437, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Vaubourg"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.461, 
+        "sw_longitude": 4.555, 
+        "fullname": "Ste.-Vaubourg, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.447
+      }, 
+      "id": 627758
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.627, 
+              25.891
+            ], 
+            [
+              -106.627, 
+              25.909
+            ], 
+            [
+              -106.607, 
+              25.909
+            ], 
+            [
+              -106.607, 
+              25.891
+            ], 
+            [
+              -106.627, 
+              25.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.909, 
+        "name": "El Granizo", 
+        "adjacent_woeid": [
+          121599, 
+          133378, 
+          133379, 
+          139169, 
+          150255
+        ], 
+        "woeid": 120373, 
+        "alias_SPA_V": [
+          "Granizo"
+        ], 
+        "ne_longitude": -106.607, 
+        "longitude": -106.617, 
+        "parent_woeid": 12599847, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.900, 
+        "sw_longitude": -106.627, 
+        "fullname": "El Granizo, Chihuahua, Guadalupe y Calvo, Mexico", 
+        "sw_latitude": 25.891
+      }, 
+      "id": 120373
+    }
+  ]
+}

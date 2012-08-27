@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.394, 
+              40.999
+            ], 
+            [
+              -75.394, 
+              41.112
+            ], 
+            [
+              -75.225, 
+              41.112
+            ], 
+            [
+              -75.225, 
+              40.999
+            ], 
+            [
+              -75.394, 
+              40.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745478, 
+        "name": "Pocono", 
+        "adjacent_woeid": [
+          2428162, 
+          28745338, 
+          28745637
+        ], 
+        "ne_latitude": 41.112, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Pocono Township"
+        ], 
+        "ne_longitude": -75.225, 
+        "longitude": -75.287, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589772, 
+        "latitude": 41.066, 
+        "sw_longitude": -75.394, 
+        "fullname": "Pocono, Pennsylvania, Monroe, United States", 
+        "sw_latitude": 40.999
+      }, 
+      "id": 28745478
+    }
+  ]
+}

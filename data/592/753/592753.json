@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.313, 
+              49.678
+            ], 
+            [
+              0.313, 
+              49.710
+            ], 
+            [
+              0.342, 
+              49.710
+            ], 
+            [
+              0.342, 
+              49.678
+            ], 
+            [
+              0.313, 
+              49.678
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592753, 
+        "name": "Gerville", 
+        "adjacent_woeid": [
+          591293, 
+          592159, 
+          606712, 
+          609681
+        ], 
+        "ne_latitude": 49.710, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.342, 
+        "longitude": 0.329, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12644463, 
+        "latitude": 49.696, 
+        "sw_longitude": 0.313, 
+        "fullname": "Gerville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.678
+      }, 
+      "id": 592753
+    }
+  ]
+}

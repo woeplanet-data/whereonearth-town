@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.192, 
+              49.872
+            ], 
+            [
+              2.192, 
+              49.901
+            ], 
+            [
+              2.260, 
+              49.901
+            ], 
+            [
+              2.260, 
+              49.872
+            ], 
+            [
+              2.192, 
+              49.872
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617350, 
+        "name": "Pont-de-Metz", 
+        "adjacent_woeid": [
+          590854, 
+          620720, 
+          620814, 
+          621380
+        ], 
+        "ne_latitude": 49.901, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.260, 
+        "longitude": 2.242, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12668392, 
+        "latitude": 49.882, 
+        "sw_longitude": 2.192, 
+        "fullname": "Pont-de-Metz, Picardie, Somme, France", 
+        "sw_latitude": 49.872
+      }, 
+      "id": 617350
+    }
+  ]
+}

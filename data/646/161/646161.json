@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.120, 
+              49.141
+            ], 
+            [
+              13.120, 
+              49.159
+            ], 
+            [
+              13.147, 
+              49.159
+            ], 
+            [
+              13.147, 
+              49.141
+            ], 
+            [
+              13.120, 
+              49.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646161, 
+        "name": "Eben", 
+        "adjacent_woeid": [
+          641192, 
+          676155, 
+          681297, 
+          695407, 
+          696949
+        ], 
+        "ne_latitude": 49.159, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.147, 
+        "longitude": 13.133, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12623101, 
+        "latitude": 49.150, 
+        "sw_longitude": 13.120, 
+        "fullname": "Eben, Bavaria, Landkreis Cham, Germany", 
+        "sw_latitude": 49.141
+      }, 
+      "id": 646161
+    }
+  ]
+}

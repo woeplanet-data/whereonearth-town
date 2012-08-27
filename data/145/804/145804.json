@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.092, 
+              21.135
+            ], 
+            [
+              -100.092, 
+              21.149
+            ], 
+            [
+              -100.058, 
+              21.149
+            ], 
+            [
+              -100.058, 
+              21.135
+            ], 
+            [
+              -100.092, 
+              21.135
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.149, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          115171, 
+          115325, 
+          122463, 
+          133802
+        ], 
+        "woeid": 145804, 
+        "alias_SPA_V": [
+          "Sta. Catarina"
+        ], 
+        "ne_longitude": -100.058, 
+        "longitude": -100.063, 
+        "parent_woeid": 12600022, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.142, 
+        "sw_longitude": -100.092, 
+        "fullname": "Santa Catarina, Guanajuato, Santa Catarina, Mexico", 
+        "sw_latitude": 21.135
+      }, 
+      "id": 145804
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.910, 
+              19.424
+            ], 
+            [
+              -96.910, 
+              19.442
+            ], 
+            [
+              -96.890, 
+              19.442
+            ], 
+            [
+              -96.890, 
+              19.424
+            ], 
+            [
+              -96.910, 
+              19.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.442, 
+        "name": "Las Lomas", 
+        "adjacent_woeid": [
+          120368, 
+          123156, 
+          132729, 
+          135478, 
+          150284
+        ], 
+        "woeid": 130569, 
+        "alias_SPA_V": [
+          "Loma"
+        ], 
+        "ne_longitude": -96.890, 
+        "longitude": -96.900, 
+        "parent_woeid": 12601766, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.433, 
+        "sw_longitude": -96.910, 
+        "fullname": "Las Lomas, Veracruz-Llave, Coatepec, Mexico", 
+        "sw_latitude": 19.424
+      }, 
+      "id": 130569
+    }
+  ]
+}

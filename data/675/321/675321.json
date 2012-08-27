@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.505, 
+              50.355
+            ], 
+            [
+              10.505, 
+              50.390
+            ], 
+            [
+              10.557, 
+              50.390
+            ], 
+            [
+              10.557, 
+              50.355
+            ], 
+            [
+              10.505, 
+              50.355
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675321, 
+        "name": "Milz", 
+        "adjacent_woeid": [
+          641086, 
+          660057, 
+          663672, 
+          674748
+        ], 
+        "ne_latitude": 50.390, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.557, 
+        "longitude": 10.537, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12625116, 
+        "latitude": 50.376, 
+        "sw_longitude": 10.505, 
+        "fullname": "Milz, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.355
+      }, 
+      "id": 675321
+    }
+  ]
+}

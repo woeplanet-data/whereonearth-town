@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.101, 
+              47.743
+            ], 
+            [
+              10.101, 
+              47.763
+            ], 
+            [
+              10.118, 
+              47.763
+            ], 
+            [
+              10.118, 
+              47.743
+            ], 
+            [
+              10.101, 
+              47.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647825, 
+        "name": "Emerlanden", 
+        "adjacent_woeid": [
+          650891, 
+          663746, 
+          688764, 
+          692470, 
+          703603, 
+          707133
+        ], 
+        "ne_latitude": 47.763, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.118, 
+        "longitude": 10.111, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12623825, 
+        "latitude": 47.756, 
+        "sw_longitude": 10.101, 
+        "fullname": "Emerlanden, Baden-Wurttemberg, Landkreis Ravensburg, Germany", 
+        "sw_latitude": 47.743
+      }, 
+      "id": 647825
+    }
+  ]
+}

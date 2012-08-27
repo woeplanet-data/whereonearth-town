@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.371, 
+              14.379
+            ], 
+            [
+              -90.371, 
+              14.388
+            ], 
+            [
+              -90.362, 
+              14.388
+            ], 
+            [
+              -90.362, 
+              14.379
+            ], 
+            [
+              -90.371, 
+              14.379
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.388, 
+        "name": "Santa Cruz Naranjo", 
+        "adjacent_woeid": [
+          81105, 
+          81460, 
+          83058, 
+          83327, 
+          84617, 
+          86061, 
+          86409
+        ], 
+        "woeid": 85980, 
+        "alias_SPA_V": [
+          "Sta. Cruz Naranjo"
+        ], 
+        "ne_longitude": -90.362, 
+        "longitude": -90.367, 
+        "parent_woeid": 26807175, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.383, 
+        "sw_longitude": -90.371, 
+        "fullname": "Santa Cruz Naranjo, Santa Rosa, Santa Cruz Naranjo, Guatemala", 
+        "sw_latitude": 14.379
+      }, 
+      "id": 85980
+    }
+  ]
+}

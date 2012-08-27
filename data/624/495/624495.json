@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.134, 
+              47.413
+            ], 
+            [
+              -2.134, 
+              47.431
+            ], 
+            [
+              -2.107, 
+              47.431
+            ], 
+            [
+              -2.107, 
+              47.413
+            ], 
+            [
+              -2.134, 
+              47.413
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624495, 
+        "name": "St.-Guillaume", 
+        "adjacent_woeid": [
+          579572, 
+          588043, 
+          598435, 
+          20178859, 
+          20178882, 
+          20219594
+        ], 
+        "ne_latitude": 47.431, 
+        "ne_longitude": -2.107, 
+        "longitude": -2.121, 
+        "parent_woeid": 12656497, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Guillaume"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.422, 
+        "sw_longitude": -2.134, 
+        "fullname": "St.-Guillaume, Pays de la Loire, Loire-Atlantique, France", 
+        "sw_latitude": 47.413
+      }, 
+      "id": 624495
+    }
+  ]
+}

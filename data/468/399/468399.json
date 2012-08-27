@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -62.728, 
+              8.306
+            ], 
+            [
+              -62.728, 
+              8.326
+            ], 
+            [
+              -62.708, 
+              8.326
+            ], 
+            [
+              -62.708, 
+              8.306
+            ], 
+            [
+              -62.728, 
+              8.306
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.326, 
+        "name": "Puerto Ordaz", 
+        "adjacent_woeid": [
+          392069, 
+          392767, 
+          468282, 
+          26806906
+        ], 
+        "woeid": 468399, 
+        "alias_UNK_Q": [
+          "PZO"
+        ], 
+        "alias_SPA_V": [
+          "Pto Ordaz"
+        ], 
+        "ne_longitude": -62.708, 
+        "longitude": -62.718, 
+        "parent_woeid": 26805585, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.316, 
+        "sw_longitude": -62.728, 
+        "fullname": "Puerto Ordaz, Bolivar, Caroni, Venezuela", 
+        "sw_latitude": 8.306
+      }, 
+      "id": 468399
+    }
+  ]
+}

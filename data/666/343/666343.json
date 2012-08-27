@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.725, 
+              52.906
+            ], 
+            [
+              10.725, 
+              52.941
+            ], 
+            [
+              10.747, 
+              52.941
+            ], 
+            [
+              10.747, 
+              52.906
+            ], 
+            [
+              10.725, 
+              52.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666343, 
+        "name": "Klein Ellenberg", 
+        "adjacent_woeid": [
+          651720, 
+          654467, 
+          669003, 
+          683520, 
+          705116
+        ], 
+        "ne_latitude": 52.941, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.747, 
+        "longitude": 10.739, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12629797, 
+        "latitude": 52.927, 
+        "sw_longitude": 10.725, 
+        "fullname": "Klein Ellenberg, Lower Saxony, Landkreis Uelzen, Germany", 
+        "sw_latitude": 52.906
+      }, 
+      "id": 666343
+    }
+  ]
+}

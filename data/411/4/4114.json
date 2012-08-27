@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.855, 
+              43.988
+            ], 
+            [
+              -77.855, 
+              44.240
+            ], 
+            [
+              -77.656, 
+              44.240
+            ], 
+            [
+              -77.656, 
+              43.988
+            ], 
+            [
+              -77.855, 
+              43.988
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 4114, 
+        "name": "Brighton", 
+        "adjacent_woeid": [
+          305, 
+          23396897, 
+          23397073, 
+          23397089, 
+          23397407
+        ], 
+        "ne_latitude": 44.240, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.656, 
+        "longitude": -77.736, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375132, 
+        "latitude": 44.042, 
+        "sw_longitude": -77.855, 
+        "fullname": "Brighton, Ontario, Northumberland, Canada", 
+        "sw_latitude": 43.988
+      }, 
+      "id": 4114
+    }
+  ]
+}

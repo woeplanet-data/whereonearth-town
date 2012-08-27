@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.529, 
+              50.699
+            ], 
+            [
+              10.529, 
+              50.743
+            ], 
+            [
+              10.570, 
+              50.743
+            ], 
+            [
+              10.570, 
+              50.699
+            ], 
+            [
+              10.529, 
+              50.699
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690083, 
+        "name": "Rotterode", 
+        "adjacent_woeid": [
+          634638, 
+          635568, 
+          697955, 
+          701494
+        ], 
+        "ne_latitude": 50.743, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.570, 
+        "longitude": 10.552, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12624957, 
+        "latitude": 50.712, 
+        "sw_longitude": 10.529, 
+        "fullname": "Rotterode, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.699
+      }, 
+      "id": 690083
+    }
+  ]
+}

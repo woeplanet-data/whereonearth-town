@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.937, 
+              45.854
+            ], 
+            [
+              -69.937, 
+              45.963
+            ], 
+            [
+              -69.786, 
+              45.963
+            ], 
+            [
+              -69.786, 
+              45.854
+            ], 
+            [
+              -69.937, 
+              45.854
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745122, 
+        "name": "Plymouth", 
+        "adjacent_woeid": [
+          2464392, 
+          2490432, 
+          28745027, 
+          28745068, 
+          28745084, 
+          28745119
+        ], 
+        "ne_latitude": 45.963, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Plymouth, Town Of"
+        ], 
+        "ne_longitude": -69.786, 
+        "longitude": -69.865, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12588672, 
+        "latitude": 45.905, 
+        "sw_longitude": -69.937, 
+        "fullname": "Plymouth, Maine, Somerset, United States", 
+        "sw_latitude": 45.854
+      }, 
+      "id": 28745122
+    }
+  ]
+}

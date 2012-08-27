@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.310, 
+              23.491
+            ], 
+            [
+              -106.310, 
+              23.509
+            ], 
+            [
+              -106.290, 
+              23.509
+            ], 
+            [
+              -106.290, 
+              23.491
+            ], 
+            [
+              -106.310, 
+              23.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.509, 
+        "name": "La Noria", 
+        "adjacent_woeid": [
+          120408, 
+          120446, 
+          121743, 
+          121777, 
+          121892, 
+          144315
+        ], 
+        "woeid": 128457, 
+        "alias_SPA_V": [
+          "Noria"
+        ], 
+        "ne_longitude": -106.290, 
+        "longitude": -106.300, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.500, 
+        "sw_longitude": -106.310, 
+        "fullname": "La Noria, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.491
+      }, 
+      "id": 128457
+    }
+  ]
+}

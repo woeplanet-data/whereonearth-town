@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.293, 
+              23.808
+            ], 
+            [
+              -104.293, 
+              23.826
+            ], 
+            [
+              -104.273, 
+              23.826
+            ], 
+            [
+              -104.273, 
+              23.808
+            ], 
+            [
+              -104.293, 
+              23.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.826, 
+        "name": "La Calera", 
+        "adjacent_woeid": [
+          112006, 
+          112670, 
+          113489, 
+          127794, 
+          129269, 
+          55920259, 
+          55920261
+        ], 
+        "woeid": 126609, 
+        "alias_SPA_V": [
+          "Calera"
+        ], 
+        "ne_longitude": -104.273, 
+        "longitude": -104.283, 
+        "parent_woeid": 12599966, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.817, 
+        "sw_longitude": -104.293, 
+        "fullname": "La Calera, Durango, Nombre de Dios, Mexico", 
+        "sw_latitude": 23.808
+      }, 
+      "id": 126609
+    }
+  ]
+}

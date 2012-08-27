@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.378, 
+              46.208
+            ], 
+            [
+              1.378, 
+              46.226
+            ], 
+            [
+              1.404, 
+              46.226
+            ], 
+            [
+              1.404, 
+              46.208
+            ], 
+            [
+              1.378, 
+              46.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602834, 
+        "name": "Le Dognon", 
+        "adjacent_woeid": [
+          576654, 
+          592186, 
+          622853, 
+          625857
+        ], 
+        "ne_latitude": 46.226, 
+        "ne_longitude": 1.404, 
+        "longitude": 1.391, 
+        "parent_woeid": 12664800, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Dognon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.217, 
+        "sw_longitude": 1.378, 
+        "fullname": "Le Dognon, Limousin, Creuse, France", 
+        "sw_latitude": 46.208
+      }, 
+      "id": 602834
+    }
+  ]
+}

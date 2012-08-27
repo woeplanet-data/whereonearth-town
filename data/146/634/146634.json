@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.583, 
+              21.145
+            ], 
+            [
+              -88.583, 
+              21.163
+            ], 
+            [
+              -88.564, 
+              21.163
+            ], 
+            [
+              -88.564, 
+              21.145
+            ], 
+            [
+              -88.583, 
+              21.145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.163, 
+        "name": "Santa Pilar", 
+        "adjacent_woeid": [
+          113671, 
+          115283, 
+          123411, 
+          135892, 
+          146635, 
+          147878, 
+          55921063
+        ], 
+        "woeid": 146634, 
+        "alias_SPA_V": [
+          "Sta Pilar"
+        ], 
+        "ne_longitude": -88.564, 
+        "longitude": -88.573, 
+        "parent_woeid": 12601937, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.154, 
+        "sw_longitude": -88.583, 
+        "fullname": "Santa Pilar, Yucatan, Cenotillo, Mexico", 
+        "sw_latitude": 21.145
+      }, 
+      "id": 146634
+    }
+  ]
+}

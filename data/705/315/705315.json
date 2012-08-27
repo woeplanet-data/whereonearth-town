@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.281, 
+              54.393
+            ], 
+            [
+              10.281, 
+              54.432
+            ], 
+            [
+              10.309, 
+              54.432
+            ], 
+            [
+              10.309, 
+              54.393
+            ], 
+            [
+              10.281, 
+              54.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705315, 
+        "name": "Wendtorf", 
+        "adjacent_woeid": [
+          637048, 
+          696573, 
+          20165438, 
+          20165441, 
+          29350812
+        ], 
+        "ne_latitude": 54.432, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.309, 
+        "longitude": 10.292, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12632448, 
+        "latitude": 54.409, 
+        "sw_longitude": 10.281, 
+        "fullname": "Wendtorf, Schleswig-Holstein, Plon, Germany", 
+        "sw_latitude": 54.393
+      }, 
+      "id": 705315
+    }
+  ]
+}

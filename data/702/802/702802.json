@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.988, 
+              48.373
+            ], 
+            [
+              11.988, 
+              48.396
+            ], 
+            [
+              12.011, 
+              48.396
+            ], 
+            [
+              12.011, 
+              48.373
+            ], 
+            [
+              11.988, 
+              48.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702802, 
+        "name": "Vorderauerbach", 
+        "adjacent_woeid": [
+          660116, 
+          684598, 
+          688422, 
+          702803
+        ], 
+        "ne_latitude": 48.396, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.011, 
+        "longitude": 12.000, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 12635146, 
+        "latitude": 48.383, 
+        "sw_longitude": 11.988, 
+        "fullname": "Vorderauerbach, Bavaria, Landkreis Erding, Germany", 
+        "sw_latitude": 48.373
+      }, 
+      "id": 702802
+    }
+  ]
+}

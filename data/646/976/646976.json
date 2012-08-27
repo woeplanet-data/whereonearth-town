@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.447, 
+              53.203
+            ], 
+            [
+              12.447, 
+              53.227
+            ], 
+            [
+              12.488, 
+              53.227
+            ], 
+            [
+              12.488, 
+              53.203
+            ], 
+            [
+              12.447, 
+              53.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646976, 
+        "name": "Eichenfelde", 
+        "adjacent_woeid": [
+          634159, 
+          638862, 
+          658698, 
+          705516
+        ], 
+        "ne_latitude": 53.227, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.488, 
+        "longitude": 12.467, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12633661, 
+        "latitude": 53.214, 
+        "sw_longitude": 12.447, 
+        "fullname": "Eichenfelde, Brandenburg, Ostprignitz-Ruppin, Germany", 
+        "sw_latitude": 53.203
+      }, 
+      "id": 646976
+    }
+  ]
+}

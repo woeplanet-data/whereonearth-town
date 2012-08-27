@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.139, 
+              50.418
+            ], 
+            [
+              8.139, 
+              50.444
+            ], 
+            [
+              8.174, 
+              50.444
+            ], 
+            [
+              8.174, 
+              50.418
+            ], 
+            [
+              8.139, 
+              50.418
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660814, 
+        "name": "Hofen", 
+        "adjacent_woeid": [
+          635418, 
+          648683, 
+          679936, 
+          691279, 
+          696480
+        ], 
+        "ne_latitude": 50.444, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.174, 
+        "longitude": 8.157, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12632692, 
+        "latitude": 50.426, 
+        "sw_longitude": 8.139, 
+        "fullname": "Hofen, Hesse, Limburg-Weilburg, Germany", 
+        "sw_latitude": 50.418
+      }, 
+      "id": 660814
+    }
+  ]
+}

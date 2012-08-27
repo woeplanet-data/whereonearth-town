@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.993, 
+              48.027
+            ], 
+            [
+              11.993, 
+              48.036
+            ], 
+            [
+              12.007, 
+              48.036
+            ], 
+            [
+              12.007, 
+              48.027
+            ], 
+            [
+              11.993, 
+              48.027
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20152501, 
+        "name": "Bergfeld", 
+        "adjacent_woeid": [
+          644399, 
+          665211, 
+          697752, 
+          20152500
+        ], 
+        "ne_latitude": 48.036, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.007, 
+        "longitude": 12.000, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:29Z", 
+        "parent_woeid": 12636074, 
+        "latitude": 48.031, 
+        "sw_longitude": 11.993, 
+        "fullname": "Bergfeld, Bavaria, Landkreis Ebersberg, Germany", 
+        "sw_latitude": 48.027
+      }, 
+      "id": 20152501
+    }
+  ]
+}

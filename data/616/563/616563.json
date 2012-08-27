@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.951, 
+              49.329
+            ], 
+            [
+              2.951, 
+              49.382
+            ], 
+            [
+              3.001, 
+              49.382
+            ], 
+            [
+              3.001, 
+              49.329
+            ], 
+            [
+              2.951, 
+              49.329
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 616563, 
+        "name": "Pierrefonds", 
+        "adjacent_woeid": [
+          579662, 
+          585270, 
+          586673, 
+          588180, 
+          592867, 
+          600758, 
+          613241, 
+          614707, 
+          619218, 
+          619219, 
+          619348, 
+          623939, 
+          624698, 
+          631109, 
+          631278, 
+          632007, 
+          20218535, 
+          20218542
+        ], 
+        "ne_latitude": 49.382, 
+        "ne_longitude": 3.001, 
+        "longitude": 2.980, 
+        "parent_woeid": 22757144, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pierrefonds les-Bain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.352, 
+        "sw_longitude": 2.951, 
+        "fullname": "Pierrefonds, Picardie, Oise, France", 
+        "sw_latitude": 49.329
+      }, 
+      "id": 616563
+    }
+  ]
+}

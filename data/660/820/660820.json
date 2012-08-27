@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.234, 
+              49.310
+            ], 
+            [
+              12.234, 
+              49.348
+            ], 
+            [
+              12.278, 
+              49.348
+            ], 
+            [
+              12.278, 
+              49.310
+            ], 
+            [
+              12.234, 
+              49.310
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660820, 
+        "name": "Hofenstetten", 
+        "adjacent_woeid": [
+          634575, 
+          651091, 
+          657030, 
+          665452, 
+          687068, 
+          695523, 
+          698744, 
+          20158496
+        ], 
+        "ne_latitude": 49.348, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.278, 
+        "longitude": 12.264, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12634309, 
+        "latitude": 49.336, 
+        "sw_longitude": 12.234, 
+        "fullname": "Hofenstetten, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.310
+      }, 
+      "id": 660820
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.275, 
+              27.710
+            ], 
+            [
+              -106.275, 
+              27.724
+            ], 
+            [
+              -106.259, 
+              27.724
+            ], 
+            [
+              -106.259, 
+              27.710
+            ], 
+            [
+              -106.275, 
+              27.710
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.724, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          113144, 
+          118903, 
+          127339, 
+          141520, 
+          146488, 
+          149897
+        ], 
+        "woeid": 121585, 
+        "alias_SPA_V": [
+          "Porvenir"
+        ], 
+        "ne_longitude": -106.259, 
+        "longitude": -106.267, 
+        "parent_woeid": 12599880, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.717, 
+        "sw_longitude": -106.275, 
+        "fullname": "El Porvenir, Chihuahua, Satevo, Mexico", 
+        "sw_latitude": 27.710
+      }, 
+      "id": 121585
+    }
+  ]
+}

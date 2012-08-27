@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.490, 
+              52.613
+            ], 
+            [
+              12.490, 
+              52.656
+            ], 
+            [
+              12.546, 
+              52.656
+            ], 
+            [
+              12.546, 
+              52.613
+            ], 
+            [
+              12.490, 
+              52.613
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 668500, 
+        "name": "Kotzen", 
+        "adjacent_woeid": [
+          643652, 
+          668942, 
+          677466, 
+          688352, 
+          696444
+        ], 
+        "ne_latitude": 52.656, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.546, 
+        "longitude": 12.519, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:06Z", 
+        "parent_woeid": 12633179, 
+        "latitude": 52.638, 
+        "sw_longitude": 12.490, 
+        "fullname": "Kotzen, Brandenburg, Havelland, Germany", 
+        "sw_latitude": 52.613
+      }, 
+      "id": 668500
+    }
+  ]
+}

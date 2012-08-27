@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.656, 
+              19.384
+            ], 
+            [
+              -101.656, 
+              19.418
+            ], 
+            [
+              -101.622, 
+              19.418
+            ], 
+            [
+              -101.622, 
+              19.384
+            ], 
+            [
+              -101.656, 
+              19.384
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.418, 
+        "name": "Villa Escalante", 
+        "adjacent_woeid": [
+          111692, 
+          135299, 
+          136289, 
+          145120, 
+          149789, 
+          151757
+        ], 
+        "woeid": 150857, 
+        "alias_SPA_V": [
+          "Sta. Clara del Cobre"
+        ], 
+        "ne_longitude": -101.622, 
+        "longitude": -101.640, 
+        "parent_woeid": 12600517, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.405, 
+        "sw_longitude": -101.656, 
+        "fullname": "Villa Escalante, Michoacan de Ocampo, Salvador Escalante, Mexico", 
+        "sw_latitude": 19.384
+      }, 
+      "id": 150857
+    }
+  ]
+}

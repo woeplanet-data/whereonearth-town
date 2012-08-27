@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.251, 
+              48.390
+            ], 
+            [
+              -4.251, 
+              48.419
+            ], 
+            [
+              -4.206, 
+              48.419
+            ], 
+            [
+              -4.206, 
+              48.390
+            ], 
+            [
+              -4.251, 
+              48.390
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627160, 
+        "name": "St.-Urbain", 
+        "adjacent_woeid": [
+          588503, 
+          595248, 
+          599026, 
+          604735, 
+          615974, 
+          629148, 
+          29331006
+        ], 
+        "ne_latitude": 48.419, 
+        "ne_longitude": -4.206, 
+        "longitude": -4.228, 
+        "parent_woeid": 12653272, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Urbain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.400, 
+        "sw_longitude": -4.251, 
+        "fullname": "St.-Urbain, Brittany, Finistere, France", 
+        "sw_latitude": 48.390
+      }, 
+      "id": 627160
+    }
+  ]
+}

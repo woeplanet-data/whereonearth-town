@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.516, 
+              48.234
+            ], 
+            [
+              3.516, 
+              48.271
+            ], 
+            [
+              3.549, 
+              48.271
+            ], 
+            [
+              3.549, 
+              48.234
+            ], 
+            [
+              3.516, 
+              48.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600915, 
+        "name": "Lailly", 
+        "adjacent_woeid": [
+          587472, 
+          591245, 
+          597600, 
+          611791
+        ], 
+        "ne_latitude": 48.271, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.549, 
+        "longitude": 3.530, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12646090, 
+        "latitude": 48.244, 
+        "sw_longitude": 3.516, 
+        "fullname": "Lailly, Burgundy, Yonne, France", 
+        "sw_latitude": 48.234
+      }, 
+      "id": 600915
+    }
+  ]
+}

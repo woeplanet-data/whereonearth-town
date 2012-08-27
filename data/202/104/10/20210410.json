@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.378, 
+              45.136
+            ], 
+            [
+              6.378, 
+              45.175
+            ], 
+            [
+              6.465, 
+              45.175
+            ], 
+            [
+              6.465, 
+              45.136
+            ], 
+            [
+              6.378, 
+              45.136
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210410, 
+        "name": "Les Verneys", 
+        "adjacent_woeid": [
+          575677, 
+          603316, 
+          614247, 
+          29330040, 
+          29330050, 
+          29330163
+        ], 
+        "ne_latitude": 45.175, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.465, 
+        "longitude": 6.420, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "parent_woeid": 12657333, 
+        "latitude": 45.148, 
+        "sw_longitude": 6.378, 
+        "fullname": "Les Verneys, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.136
+      }, 
+      "id": 20210410
+    }
+  ]
+}

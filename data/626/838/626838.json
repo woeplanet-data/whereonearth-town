@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.834, 
+              47.328
+            ], 
+            [
+              2.834, 
+              47.371
+            ], 
+            [
+              2.882, 
+              47.371
+            ], 
+            [
+              2.882, 
+              47.328
+            ], 
+            [
+              2.834, 
+              47.328
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626838, 
+        "name": "St.-Satur", 
+        "adjacent_woeid": [
+          578021, 
+          585176, 
+          627886, 
+          630665, 
+          20184543, 
+          20184544, 
+          20214339, 
+          29332520
+        ], 
+        "ne_latitude": 47.371, 
+        "ne_longitude": 2.882, 
+        "longitude": 2.855, 
+        "parent_woeid": 12653193, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Satur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.340, 
+        "sw_longitude": 2.834, 
+        "fullname": "St.-Satur, Centre, Cher, France", 
+        "sw_latitude": 47.328
+      }, 
+      "id": 626838
+    }
+  ]
+}

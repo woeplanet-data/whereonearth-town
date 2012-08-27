@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.833, 
+              49.502
+            ], 
+            [
+              3.833, 
+              49.520
+            ], 
+            [
+              3.861, 
+              49.520
+            ], 
+            [
+              3.861, 
+              49.502
+            ], 
+            [
+              3.833, 
+              49.502
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333413, 
+        "name": "Outre", 
+        "adjacent_woeid": [
+          575962, 
+          593189, 
+          22527999, 
+          29333412
+        ], 
+        "ne_latitude": 49.520, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.861, 
+        "longitude": 3.847, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "parent_woeid": 22756725, 
+        "latitude": 49.511, 
+        "sw_longitude": 3.833, 
+        "fullname": "Outre, Picardie, Aisne, France", 
+        "sw_latitude": 49.502
+      }, 
+      "id": 29333413
+    }
+  ]
+}

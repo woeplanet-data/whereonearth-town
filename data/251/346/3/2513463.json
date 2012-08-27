@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.053, 
+              43.843
+            ], 
+            [
+              -123.053, 
+              43.861
+            ], 
+            [
+              -123.028, 
+              43.861
+            ], 
+            [
+              -123.028, 
+              43.843
+            ], 
+            [
+              -123.053, 
+              43.843
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2513463, 
+        "name": "Walker", 
+        "adjacent_woeid": [
+          2382299, 
+          2430292, 
+          2485423, 
+          2486540
+        ], 
+        "ne_latitude": 43.861, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.028, 
+        "longitude": -123.041, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:04Z", 
+        "parent_woeid": 12589711, 
+        "latitude": 43.852, 
+        "sw_longitude": -123.053, 
+        "fullname": "Walker, Oregon, Lane, United States", 
+        "sw_latitude": 43.843
+      }, 
+      "id": 2513463
+    }
+  ]
+}

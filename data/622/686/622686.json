@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.670, 
+              47.847
+            ], 
+            [
+              5.670, 
+              47.888
+            ], 
+            [
+              5.725, 
+              47.888
+            ], 
+            [
+              5.725, 
+              47.847
+            ], 
+            [
+              5.670, 
+              47.847
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622686, 
+        "name": "Soyers", 
+        "adjacent_woeid": [
+          576239, 
+          585800, 
+          594154, 
+          630366
+        ], 
+        "ne_latitude": 47.888, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.725, 
+        "longitude": 5.694, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "parent_woeid": 12652100, 
+        "latitude": 47.870, 
+        "sw_longitude": 5.670, 
+        "fullname": "Soyers, Champagne-Ardenne, Haute-Marne, France", 
+        "sw_latitude": 47.847
+      }, 
+      "id": 622686
+    }
+  ]
+}

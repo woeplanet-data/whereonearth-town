@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.025, 
+              38.725
+            ], 
+            [
+              -1.025, 
+              38.779
+            ], 
+            [
+              -0.926, 
+              38.779
+            ], 
+            [
+              -0.926, 
+              38.725
+            ], 
+            [
+              -1.025, 
+              38.725
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.779, 
+        "name": "La Encina", 
+        "adjacent_woeid": [
+          764236, 
+          15003754
+        ], 
+        "woeid": 763307, 
+        "alias_SPA_V": [
+          "El Encina"
+        ], 
+        "ne_longitude": -0.926, 
+        "longitude": -0.952, 
+        "parent_woeid": 12695406, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Caserio la Encina"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.765, 
+        "sw_longitude": -1.025, 
+        "fullname": "La Encina, Valencia, Alicante, Spain", 
+        "sw_latitude": 38.725
+      }, 
+      "id": 763307
+    }
+  ]
+}

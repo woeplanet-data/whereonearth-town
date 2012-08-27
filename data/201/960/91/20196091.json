@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.174, 
+              45.001
+            ], 
+            [
+              -1.174, 
+              45.010
+            ], 
+            [
+              -1.161, 
+              45.010
+            ], 
+            [
+              -1.161, 
+              45.001
+            ], 
+            [
+              -1.174, 
+              45.001
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20196091, 
+        "name": "Le Huga", 
+        "adjacent_woeid": [
+          600672, 
+          603720, 
+          20196092, 
+          29332035
+        ], 
+        "ne_latitude": 45.010, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.161, 
+        "longitude": -1.168, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12646808, 
+        "latitude": 45.005, 
+        "sw_longitude": -1.174, 
+        "fullname": "Le Huga, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.001
+      }, 
+      "id": 20196091
+    }
+  ]
+}

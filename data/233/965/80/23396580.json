@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.731, 
+              45.882
+            ], 
+            [
+              -70.731, 
+              46.047
+            ], 
+            [
+              -70.561, 
+              46.047
+            ], 
+            [
+              -70.561, 
+              45.882
+            ], 
+            [
+              -70.731, 
+              45.882
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396580, 
+        "name": "St.-Martin", 
+        "adjacent_woeid": [
+          1495, 
+          23394615, 
+          23395624, 
+          23395674, 
+          23396601
+        ], 
+        "ne_latitude": 46.047, 
+        "ne_longitude": -70.561, 
+        "longitude": -70.656, 
+        "parent_woeid": 29375138, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Martin"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.959, 
+        "sw_longitude": -70.731, 
+        "fullname": "St.-Martin, Quebec, Beauce-Sartigan, Canada", 
+        "sw_latitude": 45.882
+      }, 
+      "id": 23396580
+    }
+  ]
+}

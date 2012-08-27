@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.043, 
+              49.715
+            ], 
+            [
+              3.043, 
+              49.724
+            ], 
+            [
+              3.057, 
+              49.724
+            ], 
+            [
+              3.057, 
+              49.715
+            ], 
+            [
+              3.043, 
+              49.715
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218839, 
+        "name": "Villette", 
+        "adjacent_woeid": [
+          590024, 
+          593082, 
+          613667, 
+          20218838
+        ], 
+        "ne_latitude": 49.724, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.057, 
+        "longitude": 3.048, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "parent_woeid": 12667408, 
+        "latitude": 49.720, 
+        "sw_longitude": 3.043, 
+        "fullname": "Villette, Picardie, Somme, France", 
+        "sw_latitude": 49.715
+      }, 
+      "id": 20218839
+    }
+  ]
+}

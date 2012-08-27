@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.454, 
+              44.330
+            ], 
+            [
+              0.454, 
+              44.357
+            ], 
+            [
+              0.495, 
+              44.357
+            ], 
+            [
+              0.495, 
+              44.330
+            ], 
+            [
+              0.454, 
+              44.330
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626837, 
+        "name": "St.-Sardos", 
+        "adjacent_woeid": [
+          593629, 
+          600697, 
+          600810, 
+          20197592
+        ], 
+        "ne_latitude": 44.357, 
+        "ne_longitude": 0.495, 
+        "longitude": 0.477, 
+        "parent_woeid": 12653192, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sardos"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.342, 
+        "sw_longitude": 0.454, 
+        "fullname": "St.-Sardos, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.330
+      }, 
+      "id": 626837
+    }
+  ]
+}

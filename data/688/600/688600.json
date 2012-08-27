@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.574, 
+              48.518
+            ], 
+            [
+              10.574, 
+              48.549
+            ], 
+            [
+              10.612, 
+              48.549
+            ], 
+            [
+              10.612, 
+              48.518
+            ], 
+            [
+              10.574, 
+              48.518
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688600, 
+        "name": "Riedsend", 
+        "adjacent_woeid": [
+          648257, 
+          650912, 
+          705330, 
+          709301
+        ], 
+        "ne_latitude": 48.549, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.612, 
+        "longitude": 10.594, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:42Z", 
+        "parent_woeid": 12634814, 
+        "latitude": 48.525, 
+        "sw_longitude": 10.574, 
+        "fullname": "Riedsend, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.518
+      }, 
+      "id": 688600
+    }
+  ]
+}

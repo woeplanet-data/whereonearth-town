@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.910, 
+              18.091
+            ], 
+            [
+              -90.910, 
+              18.109
+            ], 
+            [
+              -90.890, 
+              18.109
+            ], 
+            [
+              -90.890, 
+              18.091
+            ], 
+            [
+              -90.910, 
+              18.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.109, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          113900, 
+          114644, 
+          121621, 
+          123475, 
+          140526, 
+          145273
+        ], 
+        "woeid": 143784, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -90.890, 
+        "longitude": -90.900, 
+        "parent_woeid": 24550698, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.100, 
+        "sw_longitude": -90.910, 
+        "fullname": "San Juan, Campeche, Candelaria, Mexico", 
+        "sw_latitude": 18.091
+      }, 
+      "id": 143784
+    }
+  ]
+}

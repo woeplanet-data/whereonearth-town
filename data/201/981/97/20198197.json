@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.010, 
+              45.751
+            ], 
+            [
+              -0.010, 
+              45.760
+            ], 
+            [
+              0.003, 
+              45.760
+            ], 
+            [
+              0.003, 
+              45.751
+            ], 
+            [
+              -0.010, 
+              45.751
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20198197, 
+        "name": "Bois-Raymond", 
+        "adjacent_woeid": [
+          622871, 
+          623629, 
+          20198199, 
+          29331264
+        ], 
+        "ne_latitude": 45.760, 
+        "ne_longitude": 0.003, 
+        "longitude": -0.003, 
+        "parent_woeid": 12670087, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Boisraymond"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.756, 
+        "sw_longitude": -0.010, 
+        "fullname": "Bois-Raymond, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.751
+      }, 
+      "id": 20198197
+    }
+  ]
+}

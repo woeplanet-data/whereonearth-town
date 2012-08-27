@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.618, 
+              47.429
+            ], 
+            [
+              -0.618, 
+              47.460
+            ], 
+            [
+              -0.597, 
+              47.460
+            ], 
+            [
+              -0.597, 
+              47.429
+            ], 
+            [
+              -0.618, 
+              47.429
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20180702, 
+        "name": "Val de Maine", 
+        "adjacent_woeid": [
+          20180701, 
+          20180703, 
+          20180713
+        ], 
+        "ne_latitude": 47.460, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.597, 
+        "longitude": -0.607, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "parent_woeid": 12657440, 
+        "latitude": 47.441, 
+        "sw_longitude": -0.618, 
+        "fullname": "Val de Maine, Pays de la Loire, Maine-et-Loire, France", 
+        "sw_latitude": 47.429
+      }, 
+      "id": 20180702
+    }
+  ]
+}

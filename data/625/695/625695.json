@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.216, 
+              49.518
+            ], 
+            [
+              0.216, 
+              49.554
+            ], 
+            [
+              0.255, 
+              49.554
+            ], 
+            [
+              0.255, 
+              49.518
+            ], 
+            [
+              0.216, 
+              49.518
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625695, 
+        "name": "St.-Martin-du-Manoir", 
+        "adjacent_woeid": [
+          592333, 
+          609661, 
+          625114, 
+          29331417
+        ], 
+        "ne_latitude": 49.554, 
+        "alias_ENG_V": [
+          "Saint-Martin"
+        ], 
+        "ne_longitude": 0.255, 
+        "longitude": 0.239, 
+        "parent_woeid": 12652880, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Martin-du-Manoir"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.531, 
+        "sw_longitude": 0.216, 
+        "fullname": "St.-Martin-du-Manoir, St-Martin, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.518
+      }, 
+      "id": 625695
+    }
+  ]
+}

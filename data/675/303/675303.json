@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.659, 
+              49.289
+            ], 
+            [
+              10.659, 
+              49.307
+            ], 
+            [
+              10.687, 
+              49.307
+            ], 
+            [
+              10.687, 
+              49.289
+            ], 
+            [
+              10.659, 
+              49.289
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675303, 
+        "name": "Milmersdorf", 
+        "adjacent_woeid": [
+          659380, 
+          669459, 
+          670222, 
+          706122
+        ], 
+        "ne_latitude": 49.307, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.687, 
+        "longitude": 10.673, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12636028, 
+        "latitude": 49.298, 
+        "sw_longitude": 10.659, 
+        "fullname": "Milmersdorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.289
+      }, 
+      "id": 675303
+    }
+  ]
+}

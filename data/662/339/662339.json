@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.309, 
+              49.398
+            ], 
+            [
+              10.309, 
+              49.432
+            ], 
+            [
+              10.330, 
+              49.432
+            ], 
+            [
+              10.330, 
+              49.398
+            ], 
+            [
+              10.309, 
+              49.398
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 662339, 
+        "name": "Hornau", 
+        "adjacent_woeid": [
+          639062, 
+          680327, 
+          685958, 
+          696614
+        ], 
+        "ne_latitude": 49.432, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.330, 
+        "longitude": 10.319, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:40Z", 
+        "parent_woeid": 12634436, 
+        "latitude": 49.414, 
+        "sw_longitude": 10.309, 
+        "fullname": "Hornau, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.398
+      }, 
+      "id": 662339
+    }
+  ]
+}

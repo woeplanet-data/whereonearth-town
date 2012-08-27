@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.141, 
+              49.879
+            ], 
+            [
+              10.141, 
+              49.909
+            ], 
+            [
+              10.163, 
+              49.909
+            ], 
+            [
+              10.163, 
+              49.879
+            ], 
+            [
+              10.141, 
+              49.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700889, 
+        "name": "Untereisenheim", 
+        "adjacent_woeid": [
+          644792, 
+          648719, 
+          686271, 
+          20156591
+        ], 
+        "ne_latitude": 49.909, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.163, 
+        "longitude": 10.160, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12635454, 
+        "latitude": 49.884, 
+        "sw_longitude": 10.141, 
+        "fullname": "Untereisenheim, Bavaria, Wurzburg, Germany", 
+        "sw_latitude": 49.879
+      }, 
+      "id": 700889
+    }
+  ]
+}

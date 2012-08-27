@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.955, 
+              50.908
+            ], 
+            [
+              9.955, 
+              50.935
+            ], 
+            [
+              9.995, 
+              50.935
+            ], 
+            [
+              9.995, 
+              50.908
+            ], 
+            [
+              9.955, 
+              50.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666848, 
+        "name": "Kleinensee", 
+        "adjacent_woeid": [
+          637697, 
+          643721, 
+          654956, 
+          659226, 
+          662088
+        ], 
+        "ne_latitude": 50.935, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.995, 
+        "longitude": 9.975, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12632765, 
+        "latitude": 50.928, 
+        "sw_longitude": 9.955, 
+        "fullname": "Kleinensee, Hesse, Hersfeld-Rotenburg, Germany", 
+        "sw_latitude": 50.908
+      }, 
+      "id": 666848
+    }
+  ]
+}

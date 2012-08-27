@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.707, 
+              45.443
+            ], 
+            [
+              -0.707, 
+              45.469
+            ], 
+            [
+              -0.680, 
+              45.469
+            ], 
+            [
+              -0.680, 
+              45.443
+            ], 
+            [
+              -0.707, 
+              45.443
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608646, 
+        "name": "Lorignac", 
+        "adjacent_woeid": [
+          580354, 
+          584184, 
+          623506, 
+          623788, 
+          624046
+        ], 
+        "ne_latitude": 45.469, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.680, 
+        "longitude": -0.690, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12665811, 
+        "latitude": 45.457, 
+        "sw_longitude": -0.707, 
+        "fullname": "Lorignac, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.443
+      }, 
+      "id": 608646
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              30.829, 
+              29.302
+            ], 
+            [
+              30.829, 
+              29.319
+            ], 
+            [
+              30.858, 
+              29.319
+            ], 
+            [
+              30.858, 
+              29.302
+            ], 
+            [
+              30.829, 
+              29.302
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "adjacent_woeid": [
+          1521420, 
+          1521856, 
+          1522648, 
+          1523806, 
+          1524976
+        ], 
+        "name": "El Faiyum", 
+        "alias_ENG_V": [
+          "El Faiy\u00fbm"
+        ], 
+        "supercededby_woeid": 1521420, 
+        "woeid": 1522939, 
+        "provider": "geoplanet 7.5.1", 
+        "ne_longitude": 30.858, 
+        "longitude": 30.834, 
+        "parent_woeid": 2345226, 
+        "placetype": "Town", 
+        "iso": "EG", 
+        "sw_latitude": 29.302, 
+        "ne_latitude": 29.319, 
+        "latitude": 29.311, 
+        "sw_longitude": 30.829, 
+        "fullname": "El Faiyum, Al Fayyum, Egypt", 
+        "date_indexed": "2010-06-06T07:50:34Z"
+      }, 
+      "id": 1522939
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.123, 
+              48.273
+            ], 
+            [
+              -0.123, 
+              48.310
+            ], 
+            [
+              -0.081, 
+              48.310
+            ], 
+            [
+              -0.081, 
+              48.273
+            ], 
+            [
+              -0.123, 
+              48.273
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624218, 
+        "name": "St.-Georges-le-Gaultier", 
+        "adjacent_woeid": [
+          589086, 
+          612151, 
+          624280, 
+          625491, 
+          626299, 
+          29331228
+        ], 
+        "ne_latitude": 48.310, 
+        "alias_ENG_V": [
+          "Saint-Georges"
+        ], 
+        "ne_longitude": -0.081, 
+        "longitude": -0.105, 
+        "parent_woeid": 12670461, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Georges-le-Gaultier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.298, 
+        "sw_longitude": -0.123, 
+        "fullname": "St.-Georges-le-Gaultier, St-Georges, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.273
+      }, 
+      "id": 624218
+    }
+  ]
+}

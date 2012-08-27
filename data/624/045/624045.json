@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.740, 
+              47.773
+            ], 
+            [
+              -0.740, 
+              47.824
+            ], 
+            [
+              -0.678, 
+              47.824
+            ], 
+            [
+              -0.678, 
+              47.773
+            ], 
+            [
+              -0.740, 
+              47.773
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624045, 
+        "name": "St.-Fort", 
+        "adjacent_woeid": [
+          585471, 
+          610981, 
+          29331268, 
+          29331277, 
+          29331412
+        ], 
+        "ne_latitude": 47.824, 
+        "ne_longitude": -0.678, 
+        "longitude": -0.721, 
+        "parent_woeid": 12670413, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Fort"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.797, 
+        "sw_longitude": -0.740, 
+        "fullname": "St.-Fort, Pays de la Loire, Mayenne, France", 
+        "sw_latitude": 47.773
+      }, 
+      "id": 624045
+    }
+  ]
+}

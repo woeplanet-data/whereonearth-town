@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.471, 
+              25.532
+            ], 
+            [
+              -108.471, 
+              25.550
+            ], 
+            [
+              -108.450, 
+              25.550
+            ], 
+            [
+              -108.450, 
+              25.532
+            ], 
+            [
+              -108.471, 
+              25.532
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.550, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          118337
+        ], 
+        "woeid": 144941, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -108.450, 
+        "longitude": -108.461, 
+        "parent_woeid": 12601537, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.541, 
+        "sw_longitude": -108.471, 
+        "fullname": "San Pedro, Sinaloa, Guasave, Mexico", 
+        "sw_latitude": 25.532
+      }, 
+      "id": 144941
+    }
+  ]
+}

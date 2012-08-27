@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.556, 
+              45.571
+            ], 
+            [
+              -74.556, 
+              45.760
+            ], 
+            [
+              -74.328, 
+              45.760
+            ], 
+            [
+              -74.328, 
+              45.571
+            ], 
+            [
+              -74.556, 
+              45.571
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 176, 
+        "name": "Brownsburg", 
+        "adjacent_woeid": [
+          606, 
+          23395605, 
+          23396460, 
+          23396673
+        ], 
+        "ne_latitude": 45.760, 
+        "ne_longitude": -74.328, 
+        "longitude": -74.404, 
+        "parent_woeid": 29375247, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Brownsburg-Chatham"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.676, 
+        "sw_longitude": -74.556, 
+        "fullname": "Brownsburg, Quebec, Argenteuil, Canada", 
+        "sw_latitude": 45.571
+      }, 
+      "id": 176
+    }
+  ]
+}

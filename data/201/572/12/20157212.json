@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.226, 
+              48.095
+            ], 
+            [
+              11.226, 
+              48.118
+            ], 
+            [
+              11.255, 
+              48.118
+            ], 
+            [
+              11.255, 
+              48.095
+            ], 
+            [
+              11.226, 
+              48.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20157212, 
+        "name": "Waldhof", 
+        "adjacent_woeid": [
+          648912, 
+          690077, 
+          20157211, 
+          20172973
+        ], 
+        "ne_latitude": 48.118, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.255, 
+        "longitude": 11.249, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:04Z", 
+        "parent_woeid": 12635111, 
+        "latitude": 48.108, 
+        "sw_longitude": 11.226, 
+        "fullname": "Waldhof, Bavaria, Landkreis Starnberg, Germany", 
+        "sw_latitude": 48.095
+      }, 
+      "id": 20157212
+    }
+  ]
+}

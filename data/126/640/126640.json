@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.127, 
+              25.624
+            ], 
+            [
+              -101.127, 
+              25.642
+            ], 
+            [
+              -101.107, 
+              25.642
+            ], 
+            [
+              -101.107, 
+              25.624
+            ], 
+            [
+              -101.127, 
+              25.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.642, 
+        "name": "La Campana", 
+        "adjacent_woeid": [
+          123205, 
+          139764, 
+          144384, 
+          144508
+        ], 
+        "woeid": 126640, 
+        "alias_SPA_V": [
+          "Campanas"
+        ], 
+        "ne_longitude": -101.107, 
+        "longitude": -101.117, 
+        "parent_woeid": 12599912, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.633, 
+        "sw_longitude": -101.127, 
+        "fullname": "La Campana, Coahuila de Zaragoza, Ramos Arizpe, Mexico", 
+        "sw_latitude": 25.624
+      }, 
+      "id": 126640
+    }
+  ]
+}

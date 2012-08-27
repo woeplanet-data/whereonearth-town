@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.326, 
+              45.212
+            ], 
+            [
+              5.326, 
+              45.245
+            ], 
+            [
+              5.364, 
+              45.245
+            ], 
+            [
+              5.364, 
+              45.212
+            ], 
+            [
+              5.326, 
+              45.212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630046, 
+        "name": "Varacieux", 
+        "adjacent_woeid": [
+          578675, 
+          584825, 
+          613723, 
+          614016, 
+          627206
+        ], 
+        "ne_latitude": 45.245, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.364, 
+        "longitude": 5.338, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 12665178, 
+        "latitude": 45.232, 
+        "sw_longitude": 5.326, 
+        "fullname": "Varacieux, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.212
+      }, 
+      "id": 630046
+    }
+  ]
+}

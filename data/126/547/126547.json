@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.343, 
+              22.008
+            ], 
+            [
+              -105.343, 
+              22.026
+            ], 
+            [
+              -105.323, 
+              22.026
+            ], 
+            [
+              -105.323, 
+              22.008
+            ], 
+            [
+              -105.343, 
+              22.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.026, 
+        "name": "La Boquita", 
+        "adjacent_woeid": [
+          120863, 
+          122641, 
+          128088, 
+          132111, 
+          145501, 
+          150754
+        ], 
+        "woeid": 126547, 
+        "alias_SPA_V": [
+          "Boquita"
+        ], 
+        "ne_longitude": -105.323, 
+        "longitude": -105.333, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.017, 
+        "sw_longitude": -105.343, 
+        "fullname": "La Boquita, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 22.008
+      }, 
+      "id": 126547
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.718, 
+              49.721
+            ], 
+            [
+              0.718, 
+              49.745
+            ], 
+            [
+              0.765, 
+              49.745
+            ], 
+            [
+              0.765, 
+              49.721
+            ], 
+            [
+              0.718, 
+              49.721
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620253, 
+        "name": "Routes", 
+        "adjacent_woeid": [
+          583155, 
+          594298, 
+          630325, 
+          630437, 
+          20188122
+        ], 
+        "ne_latitude": 49.745, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.765, 
+        "longitude": 0.745, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "parent_woeid": 12651471, 
+        "latitude": 49.731, 
+        "sw_longitude": 0.718, 
+        "fullname": "Routes, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.721
+      }, 
+      "id": 620253
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.205, 
+              19.105
+            ], 
+            [
+              -98.205, 
+              19.152
+            ], 
+            [
+              -98.136, 
+              19.152
+            ], 
+            [
+              -98.136, 
+              19.105
+            ], 
+            [
+              -98.205, 
+              19.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.152, 
+        "name": "Vicente Guerrero", 
+        "adjacent_woeid": [
+          140622, 
+          141900, 
+          142219, 
+          142372, 
+          144613, 
+          148720
+        ], 
+        "woeid": 150755, 
+        "alias_SPA_V": [
+          "S. Pablo del Monte"
+        ], 
+        "ne_longitude": -98.136, 
+        "longitude": -98.164, 
+        "parent_woeid": 2346292, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.126, 
+        "sw_longitude": -98.205, 
+        "fullname": "Vicente Guerrero, Tlaxcala, San Pablo del Monte, Mexico", 
+        "sw_latitude": 19.105
+      }, 
+      "id": 150755
+    }
+  ]
+}

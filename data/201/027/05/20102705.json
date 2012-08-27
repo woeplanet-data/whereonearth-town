@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.613, 
+              46.545
+            ], 
+            [
+              6.613, 
+              46.554
+            ], 
+            [
+              6.626, 
+              46.554
+            ], 
+            [
+              6.626, 
+              46.545
+            ], 
+            [
+              6.613, 
+              46.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20102705, 
+        "name": "Le Solitaire", 
+        "adjacent_woeid": [
+          20101230, 
+          20103173, 
+          20103624
+        ], 
+        "ne_latitude": 46.554, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.626, 
+        "longitude": 6.620, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:58Z", 
+        "parent_woeid": 12682890, 
+        "latitude": 46.549, 
+        "sw_longitude": 6.613, 
+        "fullname": "Le Solitaire, Canton of Vaud, Lausanne, Switzerland", 
+        "sw_latitude": 46.545
+      }, 
+      "id": 20102705
+    }
+  ]
+}

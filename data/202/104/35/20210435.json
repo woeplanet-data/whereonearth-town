@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.894, 
+              45.452
+            ], 
+            [
+              6.894, 
+              45.461
+            ], 
+            [
+              6.907, 
+              45.461
+            ], 
+            [
+              6.907, 
+              45.452
+            ], 
+            [
+              6.894, 
+              45.452
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210435, 
+        "name": "Val Claret", 
+        "adjacent_woeid": [
+          584187, 
+          598023, 
+          613834, 
+          628236, 
+          29330462
+        ], 
+        "ne_latitude": 45.461, 
+        "ne_longitude": 6.907, 
+        "longitude": 6.901, 
+        "parent_woeid": 12661721, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Tignes Val Claret"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.456, 
+        "sw_longitude": 6.894, 
+        "fullname": "Val Claret, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.452
+      }, 
+      "id": 20210435
+    }
+  ]
+}

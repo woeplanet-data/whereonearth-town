@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.049, 
+              50.400
+            ], 
+            [
+              10.049, 
+              50.429
+            ], 
+            [
+              10.088, 
+              50.429
+            ], 
+            [
+              10.088, 
+              50.400
+            ], 
+            [
+              10.049, 
+              50.400
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704862, 
+        "name": "Weisbach", 
+        "adjacent_woeid": [
+          650238, 
+          652633, 
+          695469, 
+          701701, 
+          704326
+        ], 
+        "ne_latitude": 50.429, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.088, 
+        "longitude": 10.078, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12635528, 
+        "latitude": 50.420, 
+        "sw_longitude": 10.049, 
+        "fullname": "Weisbach, Bavaria, Rh\u00f6n-Grabfeld, Germany", 
+        "sw_latitude": 50.400
+      }, 
+      "id": 704862
+    }
+  ]
+}

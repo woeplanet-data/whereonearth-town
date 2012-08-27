@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.285, 
+              45.408
+            ], 
+            [
+              -0.285, 
+              45.439
+            ], 
+            [
+              -0.250, 
+              45.439
+            ], 
+            [
+              -0.250, 
+              45.408
+            ], 
+            [
+              -0.285, 
+              45.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625382, 
+        "name": "St.-Maigrin", 
+        "adjacent_woeid": [
+          601045, 
+          613339, 
+          623503, 
+          624301
+        ], 
+        "ne_latitude": 45.439, 
+        "ne_longitude": -0.250, 
+        "longitude": -0.280, 
+        "parent_woeid": 12670798, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maigrin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.420, 
+        "sw_longitude": -0.285, 
+        "fullname": "St.-Maigrin, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.408
+      }, 
+      "id": 625382
+    }
+  ]
+}

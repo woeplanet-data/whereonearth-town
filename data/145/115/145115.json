@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.627, 
+              27.008
+            ], 
+            [
+              -109.627, 
+              27.026
+            ], 
+            [
+              -109.606, 
+              27.026
+            ], 
+            [
+              -109.606, 
+              27.008
+            ], 
+            [
+              -109.627, 
+              27.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.026, 
+        "name": "San Pedro Nuevo", 
+        "adjacent_woeid": [
+          116223, 
+          123570, 
+          134418, 
+          140865, 
+          145020, 
+          149475
+        ], 
+        "woeid": 145115, 
+        "alias_SPA_V": [
+          "S Pedro Nuevo"
+        ], 
+        "ne_longitude": -109.606, 
+        "longitude": -109.617, 
+        "parent_woeid": 12601569, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.017, 
+        "sw_longitude": -109.627, 
+        "fullname": "San Pedro Nuevo, Sonora, Etchojoa, Mexico", 
+        "sw_latitude": 27.008
+      }, 
+      "id": 145115
+    }
+  ]
+}

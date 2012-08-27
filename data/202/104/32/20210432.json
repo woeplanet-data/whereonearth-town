@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.257, 
+              45.231
+            ], 
+            [
+              6.257, 
+              45.249
+            ], 
+            [
+              6.283, 
+              45.249
+            ], 
+            [
+              6.283, 
+              45.231
+            ], 
+            [
+              6.257, 
+              45.231
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210432, 
+        "name": "Le Corbier", 
+        "adjacent_woeid": [
+          591447, 
+          631475, 
+          15003331, 
+          20210433, 
+          29330040
+        ], 
+        "ne_latitude": 45.249, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.283, 
+        "longitude": 6.270, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 12663971, 
+        "latitude": 45.240, 
+        "sw_longitude": 6.257, 
+        "fullname": "Le Corbier, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.231
+      }, 
+      "id": 20210432
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.131, 
+              49.215
+            ], 
+            [
+              1.131, 
+              49.262
+            ], 
+            [
+              1.201, 
+              49.262
+            ], 
+            [
+              1.201, 
+              49.215
+            ], 
+            [
+              1.131, 
+              49.215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595185, 
+        "name": "Incarville", 
+        "adjacent_woeid": [
+          604851, 
+          612319, 
+          628836
+        ], 
+        "ne_latitude": 49.262, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.201, 
+        "longitude": 1.177, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 20074851, 
+        "latitude": 49.234, 
+        "sw_longitude": 1.131, 
+        "fullname": "Incarville, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.215
+      }, 
+      "id": 595185
+    }
+  ]
+}

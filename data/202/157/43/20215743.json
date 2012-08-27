@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.010, 
+              46.850
+            ], 
+            [
+              5.010, 
+              46.860
+            ], 
+            [
+              5.025, 
+              46.860
+            ], 
+            [
+              5.025, 
+              46.850
+            ], 
+            [
+              5.010, 
+              46.850
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20215743, 
+        "name": "Chevrey", 
+        "adjacent_woeid": [
+          585981, 
+          588401, 
+          625851, 
+          630739
+        ], 
+        "ne_latitude": 46.860, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.025, 
+        "longitude": 5.016, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12652943, 
+        "latitude": 46.854, 
+        "sw_longitude": 5.010, 
+        "fullname": "Chevrey, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.850
+      }, 
+      "id": 20215743
+    }
+  ]
+}

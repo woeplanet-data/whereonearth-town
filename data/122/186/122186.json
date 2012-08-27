@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.326, 
+              17.908
+            ], 
+            [
+              -93.326, 
+              17.926
+            ], 
+            [
+              -93.307, 
+              17.926
+            ], 
+            [
+              -93.307, 
+              17.908
+            ], 
+            [
+              -93.326, 
+              17.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.926, 
+        "name": "El Rosario", 
+        "adjacent_woeid": [
+          119508, 
+          125213, 
+          134763, 
+          140518, 
+          145989, 
+          147730
+        ], 
+        "woeid": 122186, 
+        "alias_SPA_V": [
+          "Rosario"
+        ], 
+        "ne_longitude": -93.307, 
+        "longitude": -93.317, 
+        "parent_woeid": 12599782, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.917, 
+        "sw_longitude": -93.326, 
+        "fullname": "El Rosario, Chiapas, Reforma, Mexico", 
+        "sw_latitude": 17.908
+      }, 
+      "id": 122186
+    }
+  ]
+}

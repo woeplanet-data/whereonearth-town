@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.781, 
+              44.548
+            ], 
+            [
+              1.781, 
+              44.587
+            ], 
+            [
+              1.805, 
+              44.587
+            ], 
+            [
+              1.805, 
+              44.548
+            ], 
+            [
+              1.781, 
+              44.548
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627032, 
+        "name": "St.-Sulpice", 
+        "adjacent_woeid": [
+          581752, 
+          590057, 
+          609846, 
+          623433
+        ], 
+        "ne_latitude": 44.587, 
+        "ne_longitude": 1.805, 
+        "longitude": 1.792, 
+        "parent_woeid": 12671274, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sulpice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.569, 
+        "sw_longitude": 1.781, 
+        "fullname": "St.-Sulpice, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.548
+      }, 
+      "id": 627032
+    }
+  ]
+}

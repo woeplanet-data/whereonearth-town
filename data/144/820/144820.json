@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.910, 
+              26.708
+            ], 
+            [
+              -100.910, 
+              26.726
+            ], 
+            [
+              -100.890, 
+              26.726
+            ], 
+            [
+              -100.890, 
+              26.708
+            ], 
+            [
+              -100.910, 
+              26.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.726, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          110962, 
+          114633, 
+          124736, 
+          139245, 
+          141231, 
+          143512, 
+          144780
+        ], 
+        "woeid": 144820, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -100.890, 
+        "longitude": -100.900, 
+        "parent_woeid": 12599890, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.717, 
+        "sw_longitude": -100.910, 
+        "fullname": "San Pablo, Coahuila de Zaragoza, Candela, Mexico", 
+        "sw_latitude": 26.708
+      }, 
+      "id": 144820
+    }
+  ]
+}

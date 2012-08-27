@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.632, 
+              42.962
+            ], 
+            [
+              0.632, 
+              42.982
+            ], 
+            [
+              0.658, 
+              42.982
+            ], 
+            [
+              0.658, 
+              42.962
+            ], 
+            [
+              0.632, 
+              42.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615070, 
+        "name": "Ore", 
+        "adjacent_woeid": [
+          576275, 
+          577805, 
+          592204, 
+          592217, 
+          592354, 
+          608770, 
+          612109, 
+          620701, 
+          627640
+        ], 
+        "ne_latitude": 42.982, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.658, 
+        "longitude": 0.652, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12667852, 
+        "latitude": 42.974, 
+        "sw_longitude": 0.632, 
+        "fullname": "Ore, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 42.962
+      }, 
+      "id": 615070
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.833, 
+              26.757
+            ], 
+            [
+              -108.833, 
+              26.775
+            ], 
+            [
+              -108.813, 
+              26.775
+            ], 
+            [
+              -108.813, 
+              26.757
+            ], 
+            [
+              -108.833, 
+              26.757
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.775, 
+        "name": "Cerro Colorado", 
+        "adjacent_woeid": [
+          113220, 
+          122440, 
+          126966, 
+          130359, 
+          132167, 
+          137251, 
+          148292
+        ], 
+        "woeid": 115373, 
+        "alias_SPA_V": [
+          "El Colorado"
+        ], 
+        "ne_longitude": -108.813, 
+        "longitude": -108.823, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.766, 
+        "sw_longitude": -108.833, 
+        "fullname": "Cerro Colorado, Sonora, Alamos, Mexico", 
+        "sw_latitude": 26.757
+      }, 
+      "id": 115373
+    }
+  ]
+}

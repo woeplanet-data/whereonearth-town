@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.998, 
+              46.403
+            ], 
+            [
+              2.998, 
+              46.435
+            ], 
+            [
+              3.029, 
+              46.435
+            ], 
+            [
+              3.029, 
+              46.403
+            ], 
+            [
+              2.998, 
+              46.403
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627005, 
+        "name": "St.-Sornin", 
+        "adjacent_woeid": [
+          584573, 
+          585372, 
+          588669, 
+          603745, 
+          619713, 
+          624526
+        ], 
+        "ne_latitude": 46.435, 
+        "ne_longitude": 3.029, 
+        "longitude": 3.015, 
+        "parent_woeid": 12646313, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sornin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.412, 
+        "sw_longitude": 2.998, 
+        "fullname": "St.-Sornin, Auvergne, Allier, France", 
+        "sw_latitude": 46.403
+      }, 
+      "id": 627005
+    }
+  ]
+}

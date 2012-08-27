@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.726, 
+              53.325
+            ], 
+            [
+              9.726, 
+              53.343
+            ], 
+            [
+              9.757, 
+              53.343
+            ], 
+            [
+              9.757, 
+              53.325
+            ], 
+            [
+              9.726, 
+              53.325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29350079, 
+        "name": "Siedlung Butterberg", 
+        "adjacent_woeid": [
+          640518, 
+          29350080, 
+          29350082
+        ], 
+        "ne_latitude": 53.343, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.757, 
+        "longitude": 9.742, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:45Z", 
+        "parent_woeid": 12629617, 
+        "latitude": 53.334, 
+        "sw_longitude": 9.726, 
+        "fullname": "Siedlung Butterberg, Lower Saxony, Harburg, Germany", 
+        "sw_latitude": 53.325
+      }, 
+      "id": 29350079
+    }
+  ]
+}

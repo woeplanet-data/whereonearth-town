@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              21.652, 
+              63.160
+            ], 
+            [
+              21.652, 
+              63.173
+            ], 
+            [
+              21.681, 
+              63.173
+            ], 
+            [
+              21.681, 
+              63.160
+            ], 
+            [
+              21.652, 
+              63.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FIN", 
+        "woeid": 25950170, 
+        "name": "Finnholmen", 
+        "adjacent_woeid": [
+          566926, 
+          25950168, 
+          25950172, 
+          25950177
+        ], 
+        "ne_latitude": 63.173, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 21.681, 
+        "longitude": 21.667, 
+        "placetype": "Town", 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:40:04Z", 
+        "parent_woeid": 12591062, 
+        "latitude": 63.167, 
+        "sw_longitude": 21.652, 
+        "fullname": "Finnholmen, Western Finland, Ostrobothnia, Finland", 
+        "sw_latitude": 63.160
+      }, 
+      "id": 25950170
+    }
+  ]
+}

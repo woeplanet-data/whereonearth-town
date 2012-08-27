@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.960, 
+              19.891
+            ], 
+            [
+              -99.960, 
+              19.909
+            ], 
+            [
+              -99.940, 
+              19.909
+            ], 
+            [
+              -99.940, 
+              19.891
+            ], 
+            [
+              -99.960, 
+              19.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.909, 
+        "name": "San Pedro El Alto", 
+        "adjacent_woeid": [
+          111623, 
+          137641, 
+          145062, 
+          145124, 
+          147234, 
+          148664
+        ], 
+        "woeid": 145078, 
+        "alias_SPA_V": [
+          "S. Pedro El Alto"
+        ], 
+        "ne_longitude": -99.940, 
+        "longitude": -99.950, 
+        "parent_woeid": 12600404, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.900, 
+        "sw_longitude": -99.960, 
+        "fullname": "San Pedro El Alto, Mexico, Temascalcingo, Mexico", 
+        "sw_latitude": 19.891
+      }, 
+      "id": 145078
+    }
+  ]
+}

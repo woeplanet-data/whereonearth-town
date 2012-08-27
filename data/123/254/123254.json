@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.709, 
+              24.049
+            ], 
+            [
+              -106.709, 
+              24.067
+            ], 
+            [
+              -106.689, 
+              24.067
+            ], 
+            [
+              -106.689, 
+              24.049
+            ], 
+            [
+              -106.709, 
+              24.049
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123254, 
+        "name": "Ensenada", 
+        "adjacent_woeid": [
+          111253, 
+          115108, 
+          123119, 
+          124408, 
+          141297
+        ], 
+        "ne_latitude": 24.067, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -106.689, 
+        "longitude": -106.699, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "parent_woeid": 12601535, 
+        "latitude": 24.058, 
+        "sw_longitude": -106.709, 
+        "fullname": "Ensenada, Sinaloa, Elota, Mexico", 
+        "sw_latitude": 24.049
+      }, 
+      "id": 123254
+    }
+  ]
+}

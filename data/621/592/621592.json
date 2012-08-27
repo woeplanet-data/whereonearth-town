@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.003, 
+              48.191
+            ], 
+            [
+              0.003, 
+              48.221
+            ], 
+            [
+              0.047, 
+              48.221
+            ], 
+            [
+              0.047, 
+              48.191
+            ], 
+            [
+              0.003, 
+              48.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621592, 
+        "name": "S\u00e9grie", 
+        "adjacent_woeid": [
+          576927, 
+          611748, 
+          613054, 
+          616438, 
+          623078, 
+          623478, 
+          630815
+        ], 
+        "ne_latitude": 48.221, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.047, 
+        "longitude": 0.025, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "parent_woeid": 12669624, 
+        "latitude": 48.200, 
+        "sw_longitude": 0.003, 
+        "fullname": "S\u00e9grie, Pays de la Loire, Sarthe, France", 
+        "alias_FRE_S": [
+          "Segrie"
+        ], 
+        "sw_latitude": 48.191
+      }, 
+      "id": 621592
+    }
+  ]
+}

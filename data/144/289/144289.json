@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.617, 
+              24.033
+            ], 
+            [
+              -105.617, 
+              24.051
+            ], 
+            [
+              -105.597, 
+              24.051
+            ], 
+            [
+              -105.597, 
+              24.033
+            ], 
+            [
+              -105.617, 
+              24.033
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.051, 
+        "name": "San Manuel", 
+        "adjacent_woeid": [
+          112448, 
+          117568, 
+          122346, 
+          126912, 
+          142595, 
+          148348, 
+          150650
+        ], 
+        "woeid": 144289, 
+        "alias_SPA_V": [
+          "S Manuel"
+        ], 
+        "ne_longitude": -105.597, 
+        "longitude": -105.607, 
+        "parent_woeid": 12599976, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.042, 
+        "sw_longitude": -105.617, 
+        "fullname": "San Manuel, Durango, San Dimas, Mexico", 
+        "sw_latitude": 24.033
+      }, 
+      "id": 144289
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.410, 
+              25.041
+            ], 
+            [
+              -100.410, 
+              25.059
+            ], 
+            [
+              -100.390, 
+              25.059
+            ], 
+            [
+              -100.390, 
+              25.041
+            ], 
+            [
+              -100.410, 
+              25.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.059, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          116335, 
+          123476, 
+          128687, 
+          143161, 
+          143503, 
+          146509
+        ], 
+        "woeid": 144827, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -100.390, 
+        "longitude": -100.400, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.050, 
+        "sw_longitude": -100.410, 
+        "fullname": "San Pablo, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 25.041
+      }, 
+      "id": 144827
+    }
+  ]
+}

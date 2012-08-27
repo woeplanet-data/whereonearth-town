@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.050, 
+              50.272
+            ], 
+            [
+              10.050, 
+              50.321
+            ], 
+            [
+              10.091, 
+              50.321
+            ], 
+            [
+              10.091, 
+              50.272
+            ], 
+            [
+              10.050, 
+              50.272
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661449, 
+        "name": "Hohn", 
+        "adjacent_woeid": [
+          635616, 
+          689859, 
+          696612, 
+          706903
+        ], 
+        "ne_latitude": 50.321, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.091, 
+        "longitude": 10.080, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12635491, 
+        "latitude": 50.280, 
+        "sw_longitude": 10.050, 
+        "fullname": "Hohn, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.272
+      }, 
+      "id": 661449
+    }
+  ]
+}

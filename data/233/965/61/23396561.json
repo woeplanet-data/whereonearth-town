@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.483, 
+              45.196
+            ], 
+            [
+              -73.483, 
+              45.332
+            ], 
+            [
+              -73.373, 
+              45.332
+            ], 
+            [
+              -73.373, 
+              45.196
+            ], 
+            [
+              -73.483, 
+              45.196
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396561, 
+        "name": "St.-Jacques-le-Mineur", 
+        "adjacent_woeid": [
+          1057, 
+          23394593, 
+          23395655, 
+          29374692
+        ], 
+        "ne_latitude": 45.332, 
+        "ne_longitude": -73.373, 
+        "longitude": -73.418, 
+        "parent_woeid": 29375094, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jacques-le-Mineur"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.276, 
+        "sw_longitude": -73.483, 
+        "fullname": "St.-Jacques-le-Mineur, Quebec, Les Jardins-de-Napierville, Canada", 
+        "sw_latitude": 45.196
+      }, 
+      "id": 23396561
+    }
+  ]
+}

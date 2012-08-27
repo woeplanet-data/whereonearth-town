@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.298, 
+              48.438
+            ], 
+            [
+              13.298, 
+              48.456
+            ], 
+            [
+              13.326, 
+              48.456
+            ], 
+            [
+              13.326, 
+              48.438
+            ], 
+            [
+              13.298, 
+              48.438
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666220, 
+        "name": "Kleeberg", 
+        "adjacent_woeid": [
+          656297, 
+          658100, 
+          675629, 
+          685079, 
+          690103, 
+          700137, 
+          20154681, 
+          29348570
+        ], 
+        "ne_latitude": 48.456, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.326, 
+        "longitude": 13.312, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635791, 
+        "latitude": 48.447, 
+        "sw_longitude": 13.298, 
+        "fullname": "Kleeberg, Bavaria, Landkreis Passau, Germany", 
+        "sw_latitude": 48.438
+      }, 
+      "id": 666220
+    }
+  ]
+}

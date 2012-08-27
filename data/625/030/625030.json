@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.496, 
+              46.985
+            ], 
+            [
+              2.496, 
+              47.018
+            ], 
+            [
+              2.528, 
+              47.018
+            ], 
+            [
+              2.528, 
+              46.985
+            ], 
+            [
+              2.496, 
+              46.985
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625030, 
+        "name": "St.-Just", 
+        "adjacent_woeid": [
+          576223, 
+          588045, 
+          616766, 
+          621753, 
+          622683, 
+          632627, 
+          22527899
+        ], 
+        "ne_latitude": 47.018, 
+        "ne_longitude": 2.528, 
+        "longitude": 2.509, 
+        "parent_woeid": 12647278, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Just"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.995, 
+        "sw_longitude": 2.496, 
+        "fullname": "St.-Just, Centre, Cher, France", 
+        "sw_latitude": 46.985
+      }, 
+      "id": 625030
+    }
+  ]
+}

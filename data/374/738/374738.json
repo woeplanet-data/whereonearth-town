@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.988, 
+              0.612
+            ], 
+            [
+              -77.988, 
+              0.621
+            ], 
+            [
+              -77.979, 
+              0.621
+            ], 
+            [
+              -77.979, 
+              0.612
+            ], 
+            [
+              -77.988, 
+              0.612
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.621, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          370975, 
+          373113, 
+          375804
+        ], 
+        "woeid": 374738, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -77.979, 
+        "longitude": -77.983, 
+        "parent_woeid": 26810419, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.617, 
+        "sw_longitude": -77.988, 
+        "fullname": "San Isidro, Carchi, Espejo, Ecuador", 
+        "sw_latitude": 0.612
+      }, 
+      "id": 374738
+    }
+  ]
+}

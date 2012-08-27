@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.091, 
+              48.024
+            ], 
+            [
+              3.091, 
+              48.042
+            ], 
+            [
+              3.119, 
+              48.042
+            ], 
+            [
+              3.119, 
+              48.024
+            ], 
+            [
+              3.091, 
+              48.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332225, 
+        "name": "Hameau de Sainte-Anne", 
+        "adjacent_woeid": [
+          616614, 
+          625326, 
+          29332042
+        ], 
+        "ne_latitude": 48.042, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.119, 
+        "longitude": 3.104, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12642413, 
+        "latitude": 48.034, 
+        "sw_longitude": 3.091, 
+        "fullname": "Hameau de Sainte-Anne, Centre, Loiret, France", 
+        "sw_latitude": 48.024
+      }, 
+      "id": 29332225
+    }
+  ]
+}

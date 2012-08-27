@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.610, 
+              17.974
+            ], 
+            [
+              -93.610, 
+              17.992
+            ], 
+            [
+              -93.590, 
+              17.992
+            ], 
+            [
+              -93.590, 
+              17.974
+            ], 
+            [
+              -93.610, 
+              17.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.992, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          120676, 
+          133247, 
+          142590, 
+          142980, 
+          144577, 
+          55889684, 
+          55889708, 
+          55919912
+        ], 
+        "woeid": 142408, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -93.590, 
+        "longitude": -93.600, 
+        "parent_woeid": 12601622, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.983, 
+        "sw_longitude": -93.610, 
+        "fullname": "San Fernando, Tabasco, Huimanguillo, Mexico", 
+        "sw_latitude": 17.974
+      }, 
+      "id": 142408
+    }
+  ]
+}

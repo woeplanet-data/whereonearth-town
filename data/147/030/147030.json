@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.210, 
+              18.658
+            ], 
+            [
+              -100.210, 
+              18.676
+            ], 
+            [
+              -100.190, 
+              18.676
+            ], 
+            [
+              -100.190, 
+              18.658
+            ], 
+            [
+              -100.210, 
+              18.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 147030, 
+        "name": "Santiago", 
+        "adjacent_woeid": [
+          111521, 
+          112039, 
+          116639, 
+          133185, 
+          145455
+        ], 
+        "ne_latitude": 18.676, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -100.190, 
+        "longitude": -100.200, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "parent_woeid": 12600325, 
+        "latitude": 18.667, 
+        "sw_longitude": -100.210, 
+        "fullname": "Santiago, Mexico, Amatepec, Mexico", 
+        "sw_latitude": 18.658
+      }, 
+      "id": 147030
+    }
+  ]
+}

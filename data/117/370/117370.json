@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.943, 
+              24.074
+            ], 
+            [
+              -98.943, 
+              24.092
+            ], 
+            [
+              -98.923, 
+              24.092
+            ], 
+            [
+              -98.923, 
+              24.074
+            ], 
+            [
+              -98.943, 
+              24.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.092, 
+        "name": "Corpus", 
+        "adjacent_woeid": [
+          117245, 
+          128796, 
+          134843, 
+          137884, 
+          146294
+        ], 
+        "woeid": 117370, 
+        "alias_SPA_V": [
+          "Ejido Corpus"
+        ], 
+        "ne_longitude": -98.923, 
+        "longitude": -98.933, 
+        "parent_woeid": 12601661, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.083, 
+        "sw_longitude": -98.943, 
+        "fullname": "Corpus, Tamaulipas, Padilla, Mexico", 
+        "sw_latitude": 24.074
+      }, 
+      "id": 117370
+    }
+  ]
+}

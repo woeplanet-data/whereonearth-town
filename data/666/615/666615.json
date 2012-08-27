@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.184, 
+              53.921
+            ], 
+            [
+              12.184, 
+              53.930
+            ], 
+            [
+              12.200, 
+              53.930
+            ], 
+            [
+              12.200, 
+              53.921
+            ], 
+            [
+              12.184, 
+              53.921
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666615, 
+        "name": "Klein Sprenz", 
+        "adjacent_woeid": [
+          645862, 
+          653144, 
+          661045, 
+          680059, 
+          690655, 
+          706280, 
+          707523, 
+          20165629
+        ], 
+        "ne_latitude": 53.930, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.200, 
+        "longitude": 12.192, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630689, 
+        "latitude": 53.925, 
+        "sw_longitude": 12.184, 
+        "fullname": "Klein Sprenz, Mecklenburg-Vorpommern, Landkreis G\u00fcstrow, Germany", 
+        "sw_latitude": 53.921
+      }, 
+      "id": 666615
+    }
+  ]
+}

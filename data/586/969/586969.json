@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.944, 
+              44.045
+            ], 
+            [
+              1.944, 
+              44.082
+            ], 
+            [
+              1.974, 
+              44.082
+            ], 
+            [
+              1.974, 
+              44.045
+            ], 
+            [
+              1.944, 
+              44.045
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 586969, 
+        "name": "Cordes-sur-Ciel", 
+        "adjacent_woeid": [
+          575874, 
+          581290, 
+          582629, 
+          582837, 
+          583269, 
+          600880, 
+          605721, 
+          610283, 
+          611605, 
+          611953, 
+          613622, 
+          613808, 
+          622513, 
+          623003, 
+          625440, 
+          630063, 
+          29331884
+        ], 
+        "ne_latitude": 44.082, 
+        "ne_longitude": 1.974, 
+        "longitude": 1.958, 
+        "parent_woeid": 12659850, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cordes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.063, 
+        "sw_longitude": 1.944, 
+        "fullname": "Cordes-sur-Ciel, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 44.045
+      }, 
+      "id": 586969
+    }
+  ]
+}

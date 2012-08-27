@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.224, 
+              45.695
+            ], 
+            [
+              12.224, 
+              45.727
+            ], 
+            [
+              12.256, 
+              45.727
+            ], 
+            [
+              12.256, 
+              45.695
+            ], 
+            [
+              12.224, 
+              45.695
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20109091, 
+        "name": "Villaggio Florida", 
+        "adjacent_woeid": [
+          726233, 
+          20107846, 
+          20137731, 
+          29341198
+        ], 
+        "ne_latitude": 45.727, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.256, 
+        "longitude": 12.235, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:25:09Z", 
+        "parent_woeid": 12680861, 
+        "latitude": 45.707, 
+        "sw_longitude": 12.224, 
+        "fullname": "Villaggio Florida, Veneto, Treviso, Italy", 
+        "sw_latitude": 45.695
+      }, 
+      "id": 20109091
+    }
+  ]
+}

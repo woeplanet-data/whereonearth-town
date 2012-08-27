@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.939, 
+              52.885
+            ], 
+            [
+              9.939, 
+              52.921
+            ], 
+            [
+              9.968, 
+              52.921
+            ], 
+            [
+              9.968, 
+              52.885
+            ], 
+            [
+              9.939, 
+              52.885
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20166832, 
+        "name": "Klein Amerika", 
+        "adjacent_woeid": [
+          659669, 
+          675120, 
+          689064, 
+          708086
+        ], 
+        "ne_latitude": 52.921, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.968, 
+        "longitude": 9.954, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12629742, 
+        "latitude": 52.898, 
+        "sw_longitude": 9.939, 
+        "fullname": "Klein Amerika, Lower Saxony, Soltau-Fallingbostel, Germany", 
+        "sw_latitude": 52.885
+      }, 
+      "id": 20166832
+    }
+  ]
+}

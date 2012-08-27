@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.563, 
+              51.467
+            ], 
+            [
+              13.563, 
+              51.486
+            ], 
+            [
+              13.592, 
+              51.486
+            ], 
+            [
+              13.592, 
+              51.467
+            ], 
+            [
+              13.563, 
+              51.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29352295, 
+        "name": "Siedlung", 
+        "adjacent_woeid": [
+          645089, 
+          664401, 
+          20161150
+        ], 
+        "ne_latitude": 51.486, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.592, 
+        "longitude": 13.577, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 24547239, 
+        "latitude": 51.476, 
+        "sw_longitude": 13.563, 
+        "fullname": "Siedlung, Brandenburg, Elbe-Elster, Germany", 
+        "sw_latitude": 51.467
+      }, 
+      "id": 29352295
+    }
+  ]
+}

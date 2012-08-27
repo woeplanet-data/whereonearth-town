@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.709, 
+              15.300
+            ], 
+            [
+              -87.709, 
+              15.318
+            ], 
+            [
+              -87.690, 
+              15.318
+            ], 
+            [
+              -87.690, 
+              15.300
+            ], 
+            [
+              -87.709, 
+              15.300
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.318, 
+        "name": "El Negrito", 
+        "adjacent_woeid": [
+          101172, 
+          105357, 
+          106176, 
+          107367, 
+          107697, 
+          108030
+        ], 
+        "woeid": 100720, 
+        "alias_SPA_V": [
+          "Negrito"
+        ], 
+        "ne_longitude": -87.690, 
+        "longitude": -87.700, 
+        "parent_woeid": 26813641, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.309, 
+        "sw_longitude": -87.709, 
+        "fullname": "El Negrito, Yoro, El Negrito, Honduras", 
+        "sw_latitude": 15.300
+      }, 
+      "id": 100720
+    }
+  ]
+}

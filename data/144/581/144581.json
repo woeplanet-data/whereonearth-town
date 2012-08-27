@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.026, 
+              16.708
+            ], 
+            [
+              -98.026, 
+              16.726
+            ], 
+            [
+              -98.007, 
+              16.726
+            ], 
+            [
+              -98.007, 
+              16.708
+            ], 
+            [
+              -98.026, 
+              16.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.726, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          111369, 
+          112113, 
+          117604, 
+          129103, 
+          146517, 
+          146592
+        ], 
+        "woeid": 144581, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -98.007, 
+        "longitude": -98.017, 
+        "parent_woeid": 12601108, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.717, 
+        "sw_longitude": -98.026, 
+        "fullname": "San Miguel, Oaxaca, Santa Maria Zacatepec, Mexico", 
+        "sw_latitude": 16.708
+      }, 
+      "id": 144581
+    }
+  ]
+}

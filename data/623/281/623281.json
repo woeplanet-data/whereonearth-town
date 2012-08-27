@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.441, 
+              48.667
+            ], 
+            [
+              3.441, 
+              48.706
+            ], 
+            [
+              3.470, 
+              48.706
+            ], 
+            [
+              3.470, 
+              48.667
+            ], 
+            [
+              3.441, 
+              48.667
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623281, 
+        "name": "St.-Bon", 
+        "adjacent_woeid": [
+          580954, 
+          584212, 
+          587479, 
+          589946
+        ], 
+        "ne_latitude": 48.706, 
+        "ne_longitude": 3.470, 
+        "longitude": 3.460, 
+        "parent_woeid": 12652256, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.679, 
+        "sw_longitude": 3.441, 
+        "fullname": "St.-Bon, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.667
+      }, 
+      "id": 623281
+    }
+  ]
+}

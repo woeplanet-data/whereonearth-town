@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.907, 
+              48.421
+            ], 
+            [
+              3.907, 
+              48.460
+            ], 
+            [
+              3.943, 
+              48.460
+            ], 
+            [
+              3.943, 
+              48.421
+            ], 
+            [
+              3.907, 
+              48.421
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625947, 
+        "name": "St.-Mesmin", 
+        "adjacent_woeid": [
+          589226, 
+          589395, 
+          615254, 
+          619480, 
+          621382, 
+          629900, 
+          20216778
+        ], 
+        "ne_latitude": 48.460, 
+        "ne_longitude": 3.943, 
+        "longitude": 3.926, 
+        "parent_woeid": 12642366, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mesmin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.445, 
+        "sw_longitude": 3.907, 
+        "fullname": "St.-Mesmin, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.421
+      }, 
+      "id": 625947
+    }
+  ]
+}

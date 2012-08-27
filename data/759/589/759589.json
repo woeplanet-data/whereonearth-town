@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.051, 
+              41.275
+            ], 
+            [
+              2.051, 
+              41.347
+            ], 
+            [
+              2.143, 
+              41.347
+            ], 
+            [
+              2.143, 
+              41.275
+            ], 
+            [
+              2.051, 
+              41.275
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.347, 
+        "name": "El Prat de Llobregat", 
+        "adjacent_woeid": [
+          753692, 
+          758046, 
+          761479, 
+          762338, 
+          772685, 
+          777372, 
+          29370139
+        ], 
+        "woeid": 759589, 
+        "alias_SPA_V": [
+          "Prat del Llobregat"
+        ], 
+        "ne_longitude": 2.143, 
+        "longitude": 2.086, 
+        "parent_woeid": 12693549, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.329, 
+        "sw_longitude": 2.051, 
+        "fullname": "El Prat de Llobregat, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.275
+      }, 
+      "id": 759589
+    }
+  ]
+}

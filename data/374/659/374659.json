@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.221, 
+              0.413
+            ], 
+            [
+              -78.221, 
+              0.422
+            ], 
+            [
+              -78.212, 
+              0.422
+            ], 
+            [
+              -78.212, 
+              0.413
+            ], 
+            [
+              -78.221, 
+              0.413
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.422, 
+        "name": "San Blas", 
+        "adjacent_woeid": [
+          369998, 
+          372822, 
+          373865, 
+          375480, 
+          375527
+        ], 
+        "woeid": 374659, 
+        "alias_SPA_V": [
+          "S. Blas"
+        ], 
+        "ne_longitude": -78.212, 
+        "longitude": -78.217, 
+        "parent_woeid": 26810395, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.417, 
+        "sw_longitude": -78.221, 
+        "fullname": "San Blas, Imbabura, San Miguel de Urcuqui, Ecuador", 
+        "sw_latitude": 0.413
+      }, 
+      "id": 374659
+    }
+  ]
+}

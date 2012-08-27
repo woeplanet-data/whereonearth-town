@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.343, 
+              41.411
+            ], 
+            [
+              0.343, 
+              41.429
+            ], 
+            [
+              0.361, 
+              41.429
+            ], 
+            [
+              0.361, 
+              41.411
+            ], 
+            [
+              0.343, 
+              41.411
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.429, 
+        "name": "Granja de Escarpe", 
+        "adjacent_woeid": [
+          766708, 
+          767079, 
+          774434, 
+          775825
+        ], 
+        "woeid": 761801, 
+        "alias_SPA_V": [
+          "La Granja D'escarp"
+        ], 
+        "ne_longitude": 0.361, 
+        "longitude": 0.352, 
+        "parent_woeid": 12693998, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.420, 
+        "sw_longitude": 0.343, 
+        "fullname": "Granja de Escarpe, Catalonia, Lleida, Spain", 
+        "sw_latitude": 41.411
+      }, 
+      "id": 761801
+    }
+  ]
+}

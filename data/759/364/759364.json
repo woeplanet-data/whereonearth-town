@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.292, 
+              42.380
+            ], 
+            [
+              0.292, 
+              42.389
+            ], 
+            [
+              0.304, 
+              42.389
+            ], 
+            [
+              0.304, 
+              42.380
+            ], 
+            [
+              0.292, 
+              42.380
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.389, 
+        "name": "El Humo", 
+        "adjacent_woeid": [
+          763618, 
+          771399, 
+          774755
+        ], 
+        "woeid": 759364, 
+        "alias_SPA_V": [
+          "El Humo de Ra\u00f1\u00edn"
+        ], 
+        "ne_longitude": 0.304, 
+        "longitude": 0.298, 
+        "parent_woeid": 12689487, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "El Humo de Ranin"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.385, 
+        "sw_longitude": 0.292, 
+        "fullname": "El Humo, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.380
+      }, 
+      "id": 759364
+    }
+  ]
+}

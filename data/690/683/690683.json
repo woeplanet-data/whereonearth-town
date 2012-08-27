@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.227, 
+              49.898
+            ], 
+            [
+              11.227, 
+              49.937
+            ], 
+            [
+              11.259, 
+              49.937
+            ], 
+            [
+              11.259, 
+              49.898
+            ], 
+            [
+              11.227, 
+              49.898
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690683, 
+        "name": "Sachsendorf", 
+        "adjacent_woeid": [
+          645789, 
+          678450, 
+          699401, 
+          29348660
+        ], 
+        "ne_latitude": 49.937, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.259, 
+        "longitude": 11.235, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12635281, 
+        "latitude": 49.914, 
+        "sw_longitude": 11.227, 
+        "fullname": "Sachsendorf, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 49.898
+      }, 
+      "id": 690683
+    }
+  ]
+}

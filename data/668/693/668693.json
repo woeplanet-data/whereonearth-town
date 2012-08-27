@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.271, 
+              49.870
+            ], 
+            [
+              10.271, 
+              49.904
+            ], 
+            [
+              10.301, 
+              49.904
+            ], 
+            [
+              10.301, 
+              49.870
+            ], 
+            [
+              10.271, 
+              49.870
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 668693, 
+        "name": "Krautheim", 
+        "adjacent_woeid": [
+          641787, 
+          650267, 
+          682490, 
+          688745, 
+          708622
+        ], 
+        "ne_latitude": 49.904, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.301, 
+        "longitude": 10.286, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:06Z", 
+        "parent_woeid": 12635587, 
+        "latitude": 49.885, 
+        "sw_longitude": 10.271, 
+        "fullname": "Krautheim, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.870
+      }, 
+      "id": 668693
+    }
+  ]
+}

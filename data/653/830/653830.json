@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.042, 
+              47.743
+            ], 
+            [
+              11.042, 
+              47.773
+            ], 
+            [
+              11.069, 
+              47.773
+            ], 
+            [
+              11.069, 
+              47.743
+            ], 
+            [
+              11.042, 
+              47.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 653830, 
+        "name": "Grambach", 
+        "adjacent_woeid": [
+          641626, 
+          687196, 
+          20157300, 
+          20173006
+        ], 
+        "ne_latitude": 47.773, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.069, 
+        "longitude": 11.051, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:57Z", 
+        "parent_woeid": 12634691, 
+        "latitude": 47.763, 
+        "sw_longitude": 11.042, 
+        "fullname": "Grambach, Bavaria, Weilheim-Schongau, Germany", 
+        "sw_latitude": 47.743
+      }, 
+      "id": 653830
+    }
+  ]
+}

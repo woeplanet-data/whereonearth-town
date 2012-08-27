@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.340, 
+              47.135
+            ], 
+            [
+              8.340, 
+              47.144
+            ], 
+            [
+              8.353, 
+              47.144
+            ], 
+            [
+              8.353, 
+              47.135
+            ], 
+            [
+              8.340, 
+              47.135
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20104717, 
+        "name": "Wald", 
+        "adjacent_woeid": [
+          20101853, 
+          20101868
+        ], 
+        "ne_latitude": 47.144, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.353, 
+        "longitude": 8.347, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:44Z", 
+        "parent_woeid": 12682892, 
+        "latitude": 47.140, 
+        "sw_longitude": 8.340, 
+        "fullname": "Wald, Canton of Lucerne, Hochdorf, Switzerland", 
+        "sw_latitude": 47.135
+      }, 
+      "id": 20104717
+    }
+  ]
+}

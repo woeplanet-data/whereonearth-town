@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.376, 
+              21.058
+            ], 
+            [
+              -100.376, 
+              21.076
+            ], 
+            [
+              -100.357, 
+              21.076
+            ], 
+            [
+              -100.357, 
+              21.058
+            ], 
+            [
+              -100.376, 
+              21.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.076, 
+        "name": "La Escondida", 
+        "adjacent_woeid": [
+          117667, 
+          119440, 
+          126441, 
+          129980, 
+          135167, 
+          150854
+        ], 
+        "woeid": 127269, 
+        "alias_SPA_V": [
+          "Escondida"
+        ], 
+        "ne_longitude": -100.357, 
+        "longitude": -100.367, 
+        "parent_woeid": 12600020, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.067, 
+        "sw_longitude": -100.376, 
+        "fullname": "La Escondida, Guanajuato, San Jose Iturbide, Mexico", 
+        "sw_latitude": 21.058
+      }, 
+      "id": 127269
+    }
+  ]
+}

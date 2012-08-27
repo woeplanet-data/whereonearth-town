@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.000, 
+              13.344
+            ], 
+            [
+              -88.000, 
+              13.358
+            ], 
+            [
+              -87.986, 
+              13.358
+            ], 
+            [
+              -87.986, 
+              13.344
+            ], 
+            [
+              -88.000, 
+              13.344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.358, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          76781, 
+          77142, 
+          79185, 
+          79401, 
+          79458, 
+          80186, 
+          56125529
+        ], 
+        "woeid": 77331, 
+        "alias_SPA_V": [
+          "Carmen"
+        ], 
+        "ne_longitude": -87.986, 
+        "longitude": -87.993, 
+        "parent_woeid": 26808641, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.351, 
+        "sw_longitude": -88.000, 
+        "fullname": "El Carmen, La Uni\u00f3n, El Carmen, El Salvador", 
+        "sw_latitude": 13.344
+      }, 
+      "id": 77331
+    }
+  ]
+}

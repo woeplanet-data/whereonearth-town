@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.216, 
+              48.005
+            ], 
+            [
+              1.216, 
+              48.031
+            ], 
+            [
+              1.254, 
+              48.031
+            ], 
+            [
+              1.254, 
+              48.005
+            ], 
+            [
+              1.216, 
+              48.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612777, 
+        "name": "Montigny-le-Gannelon", 
+        "adjacent_woeid": [
+          577389, 
+          624604
+        ], 
+        "ne_latitude": 48.031, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.254, 
+        "longitude": 1.236, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12645760, 
+        "latitude": 48.015, 
+        "sw_longitude": 1.216, 
+        "fullname": "Montigny-le-Gannelon, Montigny, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.005
+      }, 
+      "id": 612777
+    }
+  ]
+}

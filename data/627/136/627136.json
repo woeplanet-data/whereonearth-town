@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.348, 
+              48.466
+            ], 
+            [
+              -4.348, 
+              48.491
+            ], 
+            [
+              -4.319, 
+              48.491
+            ], 
+            [
+              -4.319, 
+              48.466
+            ], 
+            [
+              -4.348, 
+              48.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627136, 
+        "name": "St.-Thonan", 
+        "adjacent_woeid": [
+          596198, 
+          616977, 
+          623785, 
+          20219327, 
+          20219328
+        ], 
+        "ne_latitude": 48.491, 
+        "ne_longitude": -4.319, 
+        "longitude": -4.337, 
+        "parent_woeid": 12645608, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Thonan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.479, 
+        "sw_longitude": -4.348, 
+        "fullname": "St.-Thonan, Brittany, Finistere, France", 
+        "sw_latitude": 48.466
+      }, 
+      "id": 627136
+    }
+  ]
+}

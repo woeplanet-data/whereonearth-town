@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.910, 
+              20.419
+            ], 
+            [
+              -99.910, 
+              20.442
+            ], 
+            [
+              -99.886, 
+              20.442
+            ], 
+            [
+              -99.886, 
+              20.419
+            ], 
+            [
+              -99.910, 
+              20.419
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.442, 
+        "name": "Santa Rosa Xajay", 
+        "adjacent_woeid": [
+          115400, 
+          132683, 
+          144752, 
+          146050, 
+          151037
+        ], 
+        "woeid": 146889, 
+        "alias_SPA_V": [
+          "Sta. Rosa Xajay"
+        ], 
+        "ne_longitude": -99.886, 
+        "longitude": -99.903, 
+        "parent_woeid": 12601459, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.432, 
+        "sw_longitude": -99.910, 
+        "fullname": "Santa Rosa Xajay, Queretaro de Arteaga, San Juan del Rio, Mexico", 
+        "sw_latitude": 20.419
+      }, 
+      "id": 146889
+    }
+  ]
+}

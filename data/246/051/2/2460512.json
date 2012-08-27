@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.436, 
+              32.293
+            ], 
+            [
+              -89.436, 
+              32.302
+            ], 
+            [
+              -89.425, 
+              32.302
+            ], 
+            [
+              -89.425, 
+              32.293
+            ], 
+            [
+              -89.436, 
+              32.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2460512, 
+        "name": "Norris", 
+        "adjacent_woeid": [
+          2403339, 
+          2423824, 
+          2472716, 
+          2494079
+        ], 
+        "ne_latitude": 32.302, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.425, 
+        "longitude": -89.430, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:29:27Z", 
+        "parent_woeid": 12588945, 
+        "latitude": 32.297, 
+        "sw_longitude": -89.436, 
+        "fullname": "Norris, Mississippi, Scott, United States", 
+        "sw_latitude": 32.293
+      }, 
+      "id": 2460512
+    }
+  ]
+}

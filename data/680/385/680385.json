@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.387, 
+              50.442
+            ], 
+            [
+              10.387, 
+              50.470
+            ], 
+            [
+              10.421, 
+              50.470
+            ], 
+            [
+              10.421, 
+              50.442
+            ], 
+            [
+              10.387, 
+              50.442
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680385, 
+        "name": "Nordheim", 
+        "adjacent_woeid": [
+          638211, 
+          638716, 
+          647264, 
+          681314, 
+          688022, 
+          693952
+        ], 
+        "ne_latitude": 50.470, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.421, 
+        "longitude": 10.402, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12624943, 
+        "latitude": 50.453, 
+        "sw_longitude": 10.387, 
+        "fullname": "Nordheim, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.442
+      }, 
+      "id": 680385
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.045, 
+              13.279
+            ], 
+            [
+              -87.045, 
+              13.297
+            ], 
+            [
+              -87.027, 
+              13.297
+            ], 
+            [
+              -87.027, 
+              13.279
+            ], 
+            [
+              -87.045, 
+              13.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.297, 
+        "name": "El Corpus", 
+        "adjacent_woeid": [
+          98953, 
+          99093, 
+          101648, 
+          105396, 
+          105554, 
+          106774, 
+          106820, 
+          107063, 
+          107221
+        ], 
+        "woeid": 100023, 
+        "alias_SPA_V": [
+          "Corpus"
+        ], 
+        "ne_longitude": -87.027, 
+        "longitude": -87.036, 
+        "parent_woeid": 26813640, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.288, 
+        "sw_longitude": -87.045, 
+        "fullname": "El Corpus, Choluteca, El Corpus, Honduras", 
+        "sw_latitude": 13.279
+      }, 
+      "id": 100023
+    }
+  ]
+}

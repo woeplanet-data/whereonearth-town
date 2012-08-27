@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.293, 
+              24.708
+            ], 
+            [
+              -100.293, 
+              24.726
+            ], 
+            [
+              -100.273, 
+              24.726
+            ], 
+            [
+              -100.273, 
+              24.708
+            ], 
+            [
+              -100.293, 
+              24.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.726, 
+        "name": "San Roberto", 
+        "adjacent_woeid": [
+          120631, 
+          122226, 
+          128019, 
+          146731, 
+          147176, 
+          149741
+        ], 
+        "woeid": 145347, 
+        "alias_SPA_V": [
+          "S Roberto"
+        ], 
+        "ne_longitude": -100.273, 
+        "longitude": -100.283, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.717, 
+        "sw_longitude": -100.293, 
+        "fullname": "San Roberto, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.708
+      }, 
+      "id": 145347
+    }
+  ]
+}

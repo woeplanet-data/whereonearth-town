@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.046, 
+              43.609
+            ], 
+            [
+              0.046, 
+              43.642
+            ], 
+            [
+              0.080, 
+              43.642
+            ], 
+            [
+              0.080, 
+              43.609
+            ], 
+            [
+              0.046, 
+              43.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601608, 
+        "name": "Lasserade", 
+        "adjacent_woeid": [
+          578697, 
+          587319, 
+          608795, 
+          617772, 
+          628102, 
+          29331980
+        ], 
+        "ne_latitude": 43.642, 
+        "ne_longitude": 0.080, 
+        "longitude": 0.064, 
+        "parent_woeid": 12664539, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lasserrade"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.625, 
+        "sw_longitude": 0.046, 
+        "fullname": "Lasserade, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.609
+      }, 
+      "id": 601608
+    }
+  ]
+}

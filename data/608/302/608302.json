@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.275, 
+              49.090
+            ], 
+            [
+              4.275, 
+              49.130
+            ], 
+            [
+              4.326, 
+              49.130
+            ], 
+            [
+              4.326, 
+              49.090
+            ], 
+            [
+              4.275, 
+              49.090
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608302, 
+        "name": "Livry-Louvercy", 
+        "adjacent_woeid": [
+          579968, 
+          581463, 
+          606408, 
+          613520, 
+          621805, 
+          630224
+        ], 
+        "ne_latitude": 49.130, 
+        "ne_longitude": 4.326, 
+        "longitude": 4.308, 
+        "parent_woeid": 12648305, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Livry-sur-Vesle"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.114, 
+        "sw_longitude": 4.275, 
+        "fullname": "Livry-Louvercy, Livry, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.090
+      }, 
+      "id": 608302
+    }
+  ]
+}

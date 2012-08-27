@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.994, 
+              46.645
+            ], 
+            [
+              0.994, 
+              46.673
+            ], 
+            [
+              1.008, 
+              46.673
+            ], 
+            [
+              1.008, 
+              46.645
+            ], 
+            [
+              0.994, 
+              46.645
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621351, 
+        "name": "Sauzelles", 
+        "adjacent_woeid": [
+          579256, 
+          587175, 
+          591536, 
+          622811, 
+          20185432
+        ], 
+        "ne_latitude": 46.673, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.008, 
+        "longitude": 1.002, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12651743, 
+        "latitude": 46.665, 
+        "sw_longitude": 0.994, 
+        "fullname": "Sauzelles, Centre, Indre, France", 
+        "sw_latitude": 46.645
+      }, 
+      "id": 621351
+    }
+  ]
+}

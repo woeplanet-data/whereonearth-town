@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.016, 
+              48.203
+            ], 
+            [
+              4.016, 
+              48.248
+            ], 
+            [
+              4.066, 
+              48.248
+            ], 
+            [
+              4.066, 
+              48.203
+            ], 
+            [
+              4.016, 
+              48.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626568, 
+        "name": "St.-Pouange", 
+        "adjacent_woeid": [
+          579883, 
+          585708, 
+          600920, 
+          619892, 
+          621441, 
+          622584, 
+          624252, 
+          625237
+        ], 
+        "ne_latitude": 48.248, 
+        "ne_longitude": 4.066, 
+        "longitude": 4.042, 
+        "parent_woeid": 12641595, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pouange"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.227, 
+        "sw_longitude": 4.016, 
+        "fullname": "St.-Pouange, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.203
+      }, 
+      "id": 626568
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.810, 
+              13.691
+            ], 
+            [
+              -88.810, 
+              13.709
+            ], 
+            [
+              -88.791, 
+              13.709
+            ], 
+            [
+              -88.791, 
+              13.691
+            ], 
+            [
+              -88.810, 
+              13.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.709, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          79485, 
+          79508, 
+          79829, 
+          79959, 
+          80075, 
+          26809420, 
+          26809421
+        ], 
+        "woeid": 79710, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -88.791, 
+        "longitude": -88.800, 
+        "parent_woeid": 26808738, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.700, 
+        "sw_longitude": -88.810, 
+        "fullname": "San Lorenzo, San Vicente, San Lorenzo, El Salvador", 
+        "sw_latitude": 13.691
+      }, 
+      "id": 79710
+    }
+  ]
+}

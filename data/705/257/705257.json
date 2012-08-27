@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.002, 
+              50.621
+            ], 
+            [
+              10.002, 
+              50.643
+            ], 
+            [
+              10.030, 
+              50.643
+            ], 
+            [
+              10.030, 
+              50.621
+            ], 
+            [
+              10.002, 
+              50.621
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705257, 
+        "name": "Wendershausen", 
+        "adjacent_woeid": [
+          644656, 
+          656179, 
+          659211, 
+          662908, 
+          669821, 
+          674474
+        ], 
+        "ne_latitude": 50.643, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.030, 
+        "longitude": 10.017, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12635984, 
+        "latitude": 50.631, 
+        "sw_longitude": 10.002, 
+        "fullname": "Wendershausen, Hesse, Landkreis Fulda, Germany", 
+        "sw_latitude": 50.621
+      }, 
+      "id": 705257
+    }
+  ]
+}

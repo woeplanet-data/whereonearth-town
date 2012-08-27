@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.860, 
+              51.054
+            ], 
+            [
+              11.860, 
+              51.072
+            ], 
+            [
+              11.889, 
+              51.072
+            ], 
+            [
+              11.889, 
+              51.054
+            ], 
+            [
+              11.860, 
+              51.054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665299, 
+        "name": "Kaynsberg", 
+        "adjacent_woeid": [
+          653165, 
+          677275, 
+          694378, 
+          701906
+        ], 
+        "ne_latitude": 51.072, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.889, 
+        "longitude": 11.874, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12626147, 
+        "latitude": 51.063, 
+        "sw_longitude": 11.860, 
+        "fullname": "Kaynsberg, Saxony-Anhalt, Burgenlandkreis, Germany", 
+        "sw_latitude": 51.054
+      }, 
+      "id": 665299
+    }
+  ]
+}

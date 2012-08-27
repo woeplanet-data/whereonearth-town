@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.181, 
+              50.586
+            ], 
+            [
+              10.181, 
+              50.615
+            ], 
+            [
+              10.214, 
+              50.615
+            ], 
+            [
+              10.214, 
+              50.586
+            ], 
+            [
+              10.181, 
+              50.586
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635651, 
+        "name": "Aschenhausen", 
+        "adjacent_woeid": [
+          652375, 
+          664674, 
+          681531, 
+          707482
+        ], 
+        "ne_latitude": 50.615, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.214, 
+        "longitude": 10.203, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12624908, 
+        "latitude": 50.598, 
+        "sw_longitude": 10.181, 
+        "fullname": "Aschenhausen, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.586
+      }, 
+      "id": 635651
+    }
+  ]
+}

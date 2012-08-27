@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.453, 
+              49.367
+            ], 
+            [
+              4.453, 
+              49.407
+            ], 
+            [
+              4.502, 
+              49.407
+            ], 
+            [
+              4.502, 
+              49.367
+            ], 
+            [
+              4.453, 
+              49.367
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612161, 
+        "name": "Mont-St.-Remy", 
+        "adjacent_woeid": [
+          583424, 
+          589200, 
+          609142, 
+          615844, 
+          631585
+        ], 
+        "ne_latitude": 49.407, 
+        "ne_longitude": 4.502, 
+        "longitude": 4.483, 
+        "parent_woeid": 12649372, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mont-St-Remy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.389, 
+        "sw_longitude": 4.453, 
+        "fullname": "Mont-St.-Remy, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.367
+      }, 
+      "id": 612161
+    }
+  ]
+}

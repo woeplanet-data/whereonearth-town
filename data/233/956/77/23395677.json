@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.513, 
+              48.948
+            ], 
+            [
+              -79.513, 
+              49.035
+            ], 
+            [
+              -79.351, 
+              49.035
+            ], 
+            [
+              -79.351, 
+              48.948
+            ], 
+            [
+              -79.513, 
+              48.948
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23395677, 
+        "name": "St.-Lambert", 
+        "adjacent_woeid": [
+          3240, 
+          3241, 
+          23395528, 
+          29374135
+        ], 
+        "ne_latitude": 49.035, 
+        "ne_longitude": -79.351, 
+        "longitude": -79.458, 
+        "parent_woeid": 29375241, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Lambert"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.978, 
+        "sw_longitude": -79.513, 
+        "fullname": "St.-Lambert, Quebec, Abitibi-Ouest, Canada", 
+        "sw_latitude": 48.948
+      }, 
+      "id": 23395677
+    }
+  ]
+}

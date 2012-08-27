@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.461, 
+              19.252
+            ], 
+            [
+              -90.461, 
+              19.270
+            ], 
+            [
+              -90.442, 
+              19.270
+            ], 
+            [
+              -90.442, 
+              19.252
+            ], 
+            [
+              -90.461, 
+              19.252
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.270, 
+        "name": "San Dimas", 
+        "adjacent_woeid": [
+          122053, 
+          124917, 
+          134060, 
+          137991, 
+          147576, 
+          150354
+        ], 
+        "woeid": 142245, 
+        "alias_SPA_V": [
+          "S Dimas"
+        ], 
+        "ne_longitude": -90.442, 
+        "longitude": -90.451, 
+        "parent_woeid": 12599702, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.261, 
+        "sw_longitude": -90.461, 
+        "fullname": "San Dimas, Campeche, Champoton, Mexico", 
+        "sw_latitude": 19.252
+      }, 
+      "id": 142245
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.375, 
+              40.514
+            ], 
+            [
+              -76.375, 
+              40.623
+            ], 
+            [
+              -76.240, 
+              40.623
+            ], 
+            [
+              -76.240, 
+              40.514
+            ], 
+            [
+              -76.375, 
+              40.514
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745398, 
+        "name": "Washington", 
+        "adjacent_woeid": [
+          2363440, 
+          2390018, 
+          2483863, 
+          2489769, 
+          2498955, 
+          28745303
+        ], 
+        "ne_latitude": 40.623, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Washington Township"
+        ], 
+        "ne_longitude": -76.240, 
+        "longitude": -76.293, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589781, 
+        "latitude": 40.545, 
+        "sw_longitude": -76.375, 
+        "fullname": "Washington, Pennsylvania, Schuylkill, United States", 
+        "sw_latitude": 40.514
+      }, 
+      "id": 28745398
+    }
+  ]
+}

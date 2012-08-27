@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.477, 
+              50.416
+            ], 
+            [
+              10.477, 
+              50.458
+            ], 
+            [
+              10.522, 
+              50.458
+            ], 
+            [
+              10.522, 
+              50.416
+            ], 
+            [
+              10.477, 
+              50.416
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705681, 
+        "name": "Westenfeld", 
+        "adjacent_woeid": [
+          649120, 
+          656681, 
+          664254, 
+          686360, 
+          698312, 
+          707642
+        ], 
+        "ne_latitude": 50.458, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.522, 
+        "longitude": 10.495, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12625131, 
+        "latitude": 50.431, 
+        "sw_longitude": 10.477, 
+        "fullname": "Westenfeld, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.416
+      }, 
+      "id": 705681
+    }
+  ]
+}

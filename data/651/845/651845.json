@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.921, 
+              48.445
+            ], 
+            [
+              12.921, 
+              48.454
+            ], 
+            [
+              12.935, 
+              48.454
+            ], 
+            [
+              12.935, 
+              48.445
+            ], 
+            [
+              12.921, 
+              48.445
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651845, 
+        "name": "Gehring", 
+        "adjacent_woeid": [
+          637705, 
+          656222, 
+          660874, 
+          672419, 
+          693726
+        ], 
+        "ne_latitude": 48.454, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.935, 
+        "longitude": 12.928, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12623011, 
+        "latitude": 48.449, 
+        "sw_longitude": 12.921, 
+        "fullname": "Gehring, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.445
+      }, 
+      "id": 651845
+    }
+  ]
+}

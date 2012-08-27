@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.260, 
+              25.724
+            ], 
+            [
+              -103.260, 
+              25.742
+            ], 
+            [
+              -103.240, 
+              25.742
+            ], 
+            [
+              -103.240, 
+              25.724
+            ], 
+            [
+              -103.260, 
+              25.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.742, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          112567, 
+          123733, 
+          124206, 
+          128123, 
+          134823, 
+          147743
+        ], 
+        "woeid": 119479, 
+        "alias_SPA_V": [
+          "Carmen"
+        ], 
+        "ne_longitude": -103.240, 
+        "longitude": -103.250, 
+        "parent_woeid": 12599902, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.733, 
+        "sw_longitude": -103.260, 
+        "fullname": "El Carmen, Coahuila de Zaragoza, Matamoros, Mexico", 
+        "sw_latitude": 25.724
+      }, 
+      "id": 119479
+    }
+  ]
+}

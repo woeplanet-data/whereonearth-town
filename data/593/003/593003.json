@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.043, 
+              49.254
+            ], 
+            [
+              0.043, 
+              49.299
+            ], 
+            [
+              0.090, 
+              49.299
+            ], 
+            [
+              0.090, 
+              49.254
+            ], 
+            [
+              0.043, 
+              49.254
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593003, 
+        "name": "Glanville", 
+        "adjacent_woeid": [
+          581230, 
+          623932, 
+          626388, 
+          628913, 
+          630330
+        ], 
+        "ne_latitude": 49.299, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.090, 
+        "longitude": 0.071, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12644555, 
+        "latitude": 49.282, 
+        "sw_longitude": 0.043, 
+        "fullname": "Glanville, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.254
+      }, 
+      "id": 593003
+    }
+  ]
+}

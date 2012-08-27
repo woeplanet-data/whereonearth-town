@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.000, 
+              48.464
+            ], 
+            [
+              -2.000, 
+              48.473
+            ], 
+            [
+              -1.987, 
+              48.473
+            ], 
+            [
+              -1.987, 
+              48.464
+            ], 
+            [
+              -2.000, 
+              48.464
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626360, 
+        "name": "St.-Piat", 
+        "adjacent_woeid": [
+          601394, 
+          624506, 
+          626995, 
+          627927, 
+          20176092, 
+          20176106, 
+          29331074
+        ], 
+        "ne_latitude": 48.473, 
+        "ne_longitude": -1.987, 
+        "longitude": -1.993, 
+        "parent_woeid": 12647023, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Piat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.468, 
+        "sw_longitude": -2.000, 
+        "fullname": "St.-Piat, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.464
+      }, 
+      "id": 626360
+    }
+  ]
+}

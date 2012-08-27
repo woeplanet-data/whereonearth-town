@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.743, 
+              43.203
+            ], 
+            [
+              -5.743, 
+              43.212
+            ], 
+            [
+              -5.731, 
+              43.212
+            ], 
+            [
+              -5.731, 
+              43.203
+            ], 
+            [
+              -5.743, 
+              43.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.212, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          761756, 
+          764187, 
+          767793, 
+          20228590, 
+          55866349, 
+          55866720, 
+          55866825
+        ], 
+        "woeid": 20228460, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -5.731, 
+        "longitude": -5.742, 
+        "parent_woeid": 12688479, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.208, 
+        "sw_longitude": -5.743, 
+        "fullname": "San Francisco, Asturias, Asturias, Spain", 
+        "sw_latitude": 43.203
+      }, 
+      "id": 20228460
+    }
+  ]
+}

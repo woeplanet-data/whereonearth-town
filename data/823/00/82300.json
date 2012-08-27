@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.489, 
+              14.961
+            ], 
+            [
+              -90.489, 
+              14.975
+            ], 
+            [
+              -90.475, 
+              14.975
+            ], 
+            [
+              -90.475, 
+              14.961
+            ], 
+            [
+              -90.489, 
+              14.961
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.975, 
+        "name": "El Chol", 
+        "adjacent_woeid": [
+          83089, 
+          83381, 
+          84147, 
+          85291, 
+          86525
+        ], 
+        "woeid": 82300, 
+        "alias_SPA_V": [
+          "Sta. Cruz El Chol"
+        ], 
+        "ne_longitude": -90.475, 
+        "longitude": -90.482, 
+        "parent_woeid": 26806932, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.968, 
+        "sw_longitude": -90.489, 
+        "fullname": "El Chol, Baja Verapaz, El Chol, Guatemala", 
+        "sw_latitude": 14.961
+      }, 
+      "id": 82300
+    }
+  ]
+}

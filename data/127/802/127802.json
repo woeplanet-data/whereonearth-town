@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.926, 
+              21.391
+            ], 
+            [
+              -99.926, 
+              21.409
+            ], 
+            [
+              -99.907, 
+              21.409
+            ], 
+            [
+              -99.907, 
+              21.391
+            ], 
+            [
+              -99.926, 
+              21.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.409, 
+        "name": "La Joya", 
+        "adjacent_woeid": [
+          112574, 
+          115171, 
+          116719, 
+          119408, 
+          132879, 
+          151110
+        ], 
+        "woeid": 127802, 
+        "alias_SPA_V": [
+          "Joya"
+        ], 
+        "ne_longitude": -99.907, 
+        "longitude": -99.917, 
+        "parent_woeid": 12600033, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.400, 
+        "sw_longitude": -99.926, 
+        "fullname": "La Joya, Guanajuato, Xichu, Mexico", 
+        "sw_latitude": 21.391
+      }, 
+      "id": 127802
+    }
+  ]
+}

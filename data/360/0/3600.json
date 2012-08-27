@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.927, 
+              48.669
+            ], 
+            [
+              -67.927, 
+              48.766
+            ], 
+            [
+              -67.757, 
+              48.766
+            ], 
+            [
+              -67.757, 
+              48.669
+            ], 
+            [
+              -67.927, 
+              48.669
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3600, 
+        "name": "Baie-des-Sables", 
+        "adjacent_woeid": [
+          23394418, 
+          23395690, 
+          23396502, 
+          29374137, 
+          29374501
+        ], 
+        "ne_latitude": 48.766, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -67.757, 
+        "longitude": -67.872, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:02Z", 
+        "parent_woeid": 29375168, 
+        "latitude": 48.730, 
+        "sw_longitude": -67.927, 
+        "fullname": "Baie-des-Sables, Quebec, Matane, Canada", 
+        "sw_latitude": 48.669
+      }, 
+      "id": 3600
+    }
+  ]
+}

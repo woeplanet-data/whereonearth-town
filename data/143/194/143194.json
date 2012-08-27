@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.193, 
+              14.974
+            ], 
+            [
+              -92.193, 
+              14.992
+            ], 
+            [
+              -92.174, 
+              14.992
+            ], 
+            [
+              -92.174, 
+              14.974
+            ], 
+            [
+              -92.193, 
+              14.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.992, 
+        "name": "San Joaquin", 
+        "adjacent_woeid": [
+          111627, 
+          113997, 
+          114933, 
+          123938, 
+          125586, 
+          132911, 
+          149768, 
+          150389
+        ], 
+        "woeid": 143194, 
+        "alias_SPA_V": [
+          "S Joaquin"
+        ], 
+        "ne_longitude": -92.174, 
+        "longitude": -92.183, 
+        "parent_woeid": 12599721, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.983, 
+        "sw_longitude": -92.193, 
+        "fullname": "San Joaquin, Chiapas, Cacahoatan, Mexico", 
+        "sw_latitude": 14.974
+      }, 
+      "id": 143194
+    }
+  ]
+}

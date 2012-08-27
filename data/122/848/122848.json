@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.177, 
+              27.308
+            ], 
+            [
+              -106.177, 
+              27.326
+            ], 
+            [
+              -106.156, 
+              27.326
+            ], 
+            [
+              -106.156, 
+              27.308
+            ], 
+            [
+              -106.177, 
+              27.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.326, 
+        "name": "El Tule", 
+        "adjacent_woeid": [
+          127073, 
+          127823, 
+          131699, 
+          142364, 
+          144791
+        ], 
+        "woeid": 122848, 
+        "alias_SPA_V": [
+          "Tule"
+        ], 
+        "ne_longitude": -106.156, 
+        "longitude": -106.167, 
+        "parent_woeid": 12599875, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.317, 
+        "sw_longitude": -106.177, 
+        "fullname": "El Tule, Chihuahua, Rosario, Mexico", 
+        "sw_latitude": 27.308
+      }, 
+      "id": 122848
+    }
+  ]
+}

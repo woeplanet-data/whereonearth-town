@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.052, 
+              22.296
+            ], 
+            [
+              -100.052, 
+              22.310
+            ], 
+            [
+              -100.037, 
+              22.310
+            ], 
+            [
+              -100.037, 
+              22.296
+            ], 
+            [
+              -100.052, 
+              22.296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.310, 
+        "name": "San Bartolo", 
+        "adjacent_woeid": [
+          112175, 
+          120347, 
+          136245, 
+          144318, 
+          144965, 
+          148209
+        ], 
+        "woeid": 141948, 
+        "alias_SPA_V": [
+          "S Bartolo"
+        ], 
+        "ne_longitude": -100.037, 
+        "longitude": -100.044, 
+        "parent_woeid": 12601494, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.303, 
+        "sw_longitude": -100.052, 
+        "fullname": "San Bartolo, San Luis Potosi, Rioverde, Mexico", 
+        "sw_latitude": 22.296
+      }, 
+      "id": 141948
+    }
+  ]
+}

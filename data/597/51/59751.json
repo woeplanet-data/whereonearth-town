@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -83.170, 
+              10.062
+            ], 
+            [
+              -83.170, 
+              10.076
+            ], 
+            [
+              -83.156, 
+              10.076
+            ], 
+            [
+              -83.156, 
+              10.062
+            ], 
+            [
+              -83.170, 
+              10.062
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.076, 
+        "name": "Swamp Mouth", 
+        "adjacent_woeid": [
+          59246, 
+          59606, 
+          58638
+        ], 
+        "woeid": 59751, 
+        "alias_SPA_V": [
+          "Doce Millas"
+        ], 
+        "ne_longitude": -83.156, 
+        "longitude": -83.163, 
+        "parent_woeid": 26808927, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.069, 
+        "sw_longitude": -83.170, 
+        "fullname": "Swamp Mouth, Limon, Matina, Costa Rica", 
+        "sw_latitude": 10.062
+      }, 
+      "id": 59751
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.212, 
+              47.196
+            ], 
+            [
+              1.212, 
+              47.241
+            ], 
+            [
+              1.265, 
+              47.241
+            ], 
+            [
+              1.265, 
+              47.196
+            ], 
+            [
+              1.212, 
+              47.196
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615043, 
+        "name": "Orbigny", 
+        "adjacent_woeid": [
+          578770, 
+          583627, 
+          585007, 
+          587261, 
+          600177, 
+          609970, 
+          614603
+        ], 
+        "ne_latitude": 47.241, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.265, 
+        "longitude": 1.235, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12647885, 
+        "latitude": 47.210, 
+        "sw_longitude": 1.212, 
+        "fullname": "Orbigny, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.196
+      }, 
+      "id": 615043
+    }
+  ]
+}

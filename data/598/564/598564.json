@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.651, 
+              47.267
+            ], 
+            [
+              6.651, 
+              47.301
+            ], 
+            [
+              6.690, 
+              47.301
+            ], 
+            [
+              6.690, 
+              47.267
+            ], 
+            [
+              6.651, 
+              47.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598564, 
+        "name": "La Grange", 
+        "adjacent_woeid": [
+          589212, 
+          592173, 
+          618150, 
+          620025
+        ], 
+        "ne_latitude": 47.301, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.690, 
+        "longitude": 6.665, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "parent_woeid": 20075172, 
+        "latitude": 47.281, 
+        "sw_longitude": 6.651, 
+        "fullname": "La Grange, Franche-Comte, Doubs, France", 
+        "sw_latitude": 47.267
+      }, 
+      "id": 598564
+    }
+  ]
+}

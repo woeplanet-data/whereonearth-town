@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.650, 
+              48.567
+            ], 
+            [
+              -1.650, 
+              48.607
+            ], 
+            [
+              -1.606, 
+              48.607
+            ], 
+            [
+              -1.606, 
+              48.567
+            ], 
+            [
+              -1.650, 
+              48.567
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625427, 
+        "name": "St.-Marcan", 
+        "adjacent_woeid": [
+          599524, 
+          620346, 
+          620655, 
+          623367
+        ], 
+        "ne_latitude": 48.607, 
+        "ne_longitude": -1.606, 
+        "longitude": -1.634, 
+        "parent_woeid": 12652828, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marcan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.588, 
+        "sw_longitude": -1.650, 
+        "fullname": "St.-Marcan, Brittany, Ille-et-Vilaine, France", 
+        "sw_latitude": 48.567
+      }, 
+      "id": 625427
+    }
+  ]
+}

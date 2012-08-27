@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.651, 
+              45.488
+            ], 
+            [
+              5.651, 
+              45.513
+            ], 
+            [
+              5.675, 
+              45.513
+            ], 
+            [
+              5.675, 
+              45.488
+            ], 
+            [
+              5.651, 
+              45.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 22656963, 
+        "name": "St.-Jean", 
+        "adjacent_woeid": [
+          599954, 
+          624715, 
+          625587, 
+          630470, 
+          20209439
+        ], 
+        "ne_latitude": 45.513, 
+        "ne_longitude": 5.675, 
+        "longitude": 5.667, 
+        "parent_woeid": 12669996, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Jean"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.500, 
+        "sw_longitude": 5.651, 
+        "fullname": "St.-Jean, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.488
+      }, 
+      "id": 22656963
+    }
+  ]
+}

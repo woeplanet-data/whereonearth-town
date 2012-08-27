@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.567, 
+              50.975
+            ], 
+            [
+              10.567, 
+              51.001
+            ], 
+            [
+              10.604, 
+              51.001
+            ], 
+            [
+              10.604, 
+              50.975
+            ], 
+            [
+              10.567, 
+              50.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160838, 
+        "name": "Sonneborn", 
+        "adjacent_woeid": [
+          641682, 
+          646277, 
+          650853, 
+          653112, 
+          675005, 
+          678377, 
+          704819
+        ], 
+        "ne_latitude": 51.001, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.604, 
+        "longitude": 10.588, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12625027, 
+        "latitude": 50.995, 
+        "sw_longitude": 10.567, 
+        "fullname": "Sonneborn, Thuringia, Landkreis Gotha, Germany", 
+        "sw_latitude": 50.975
+      }, 
+      "id": 20160838
+    }
+  ]
+}

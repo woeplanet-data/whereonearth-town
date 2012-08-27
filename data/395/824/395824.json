@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.537, 
+              9.254
+            ], 
+            [
+              -70.537, 
+              9.264
+            ], 
+            [
+              -70.527, 
+              9.264
+            ], 
+            [
+              -70.527, 
+              9.254
+            ], 
+            [
+              -70.537, 
+              9.254
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.264, 
+        "name": "Santiago", 
+        "adjacent_woeid": [
+          388599, 
+          468541, 
+          468662
+        ], 
+        "woeid": 395824, 
+        "alias_SPA_V": [
+          "Santiago de Trujillo"
+        ], 
+        "ne_longitude": -70.527, 
+        "longitude": -70.532, 
+        "parent_woeid": 26804870, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.259, 
+        "sw_longitude": -70.537, 
+        "fullname": "Santiago, Trujillo, Urdaneta, Venezuela", 
+        "sw_latitude": 9.254
+      }, 
+      "id": 395824
+    }
+  ]
+}

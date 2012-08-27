@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.009, 
+              52.345
+            ], 
+            [
+              11.009, 
+              52.376
+            ], 
+            [
+              11.043, 
+              52.376
+            ], 
+            [
+              11.043, 
+              52.345
+            ], 
+            [
+              11.009, 
+              52.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673330, 
+        "name": "Mackendorf", 
+        "adjacent_woeid": [
+          645049, 
+          688410, 
+          690624, 
+          694260
+        ], 
+        "ne_latitude": 52.376, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.043, 
+        "longitude": 11.022, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:34Z", 
+        "parent_woeid": 12630365, 
+        "latitude": 52.354, 
+        "sw_longitude": 11.009, 
+        "fullname": "Mackendorf, Lower Saxony, Landkreis Helmstedt, Germany", 
+        "sw_latitude": 52.345
+      }, 
+      "id": 673330
+    }
+  ]
+}

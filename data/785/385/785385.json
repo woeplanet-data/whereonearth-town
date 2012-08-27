@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.232, 
+              47.322
+            ], 
+            [
+              8.232, 
+              47.341
+            ], 
+            [
+              8.259, 
+              47.341
+            ], 
+            [
+              8.259, 
+              47.322
+            ], 
+            [
+              8.232, 
+              47.322
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 785385, 
+        "name": "Hilfikon", 
+        "adjacent_woeid": [
+          784047, 
+          784152, 
+          784597, 
+          785386
+        ], 
+        "ne_latitude": 47.341, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.259, 
+        "longitude": 8.246, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:21Z", 
+        "parent_woeid": 12685075, 
+        "latitude": 47.331, 
+        "sw_longitude": 8.232, 
+        "fullname": "Hilfikon, Canton of Aargau, Bremgarten, Switzerland", 
+        "sw_latitude": 47.322
+      }, 
+      "id": 785385
+    }
+  ]
+}

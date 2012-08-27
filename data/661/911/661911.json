@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.168, 
+              50.100
+            ], 
+            [
+              10.168, 
+              50.145
+            ], 
+            [
+              10.207, 
+              50.145
+            ], 
+            [
+              10.207, 
+              50.100
+            ], 
+            [
+              10.168, 
+              50.100
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661911, 
+        "name": "Holzhausen", 
+        "adjacent_woeid": [
+          656676, 
+          656936, 
+          673431, 
+          684849, 
+          684904, 
+          704857
+        ], 
+        "ne_latitude": 50.145, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.207, 
+        "longitude": 10.186, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:40Z", 
+        "parent_woeid": 12635414, 
+        "latitude": 50.118, 
+        "sw_longitude": 10.168, 
+        "fullname": "Holzhausen, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.100
+      }, 
+      "id": 661911
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.693, 
+              -33.114
+            ], 
+            [
+              -60.693, 
+              -33.100
+            ], 
+            [
+              -60.677, 
+              -33.100
+            ], 
+            [
+              -60.677, 
+              -33.114
+            ], 
+            [
+              -60.693, 
+              -33.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.100, 
+        "name": "Monte Flores", 
+        "adjacent_woeid": [
+          330861, 
+          331374, 
+          464613, 
+          465449, 
+          466717, 
+          468833
+        ], 
+        "woeid": 465869, 
+        "alias_SPA_V": [
+          "Mte Flores"
+        ], 
+        "ne_longitude": -60.677, 
+        "longitude": -60.685, 
+        "parent_woeid": 20070927, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.107, 
+        "sw_longitude": -60.693, 
+        "fullname": "Monte Flores, Santa Fe, Rosario, Argentina", 
+        "sw_latitude": -33.114
+      }, 
+      "id": 465869
+    }
+  ]
+}

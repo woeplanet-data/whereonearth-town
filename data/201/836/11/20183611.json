@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.300, 
+              48.753
+            ], 
+            [
+              -1.300, 
+              48.763
+            ], 
+            [
+              -1.286, 
+              48.763
+            ], 
+            [
+              -1.286, 
+              48.753
+            ], 
+            [
+              -1.300, 
+              48.753
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20183611, 
+        "name": "Le Parc", 
+        "adjacent_woeid": [
+          581537, 
+          603377, 
+          616954, 
+          627704
+        ], 
+        "ne_latitude": 48.763, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.286, 
+        "longitude": -1.293, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12650706, 
+        "latitude": 48.758, 
+        "sw_longitude": -1.300, 
+        "fullname": "Le Parc, Basse-Normandie, Manche, France", 
+        "sw_latitude": 48.753
+      }, 
+      "id": 20183611
+    }
+  ]
+}

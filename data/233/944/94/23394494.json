@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.380, 
+              45.159
+            ], 
+            [
+              -73.380, 
+              45.272
+            ], 
+            [
+              -73.247, 
+              45.272
+            ], 
+            [
+              -73.247, 
+              45.159
+            ], 
+            [
+              -73.380, 
+              45.159
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394494, 
+        "name": "St.-Blaise-sur-Richelieu", 
+        "adjacent_woeid": [
+          1057, 
+          23395550, 
+          23395660, 
+          23395691, 
+          23396417
+        ], 
+        "ne_latitude": 45.272, 
+        "ne_longitude": -73.247, 
+        "longitude": -73.288, 
+        "parent_woeid": 29375141, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Blaise-sur-Richelieu"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.210, 
+        "sw_longitude": -73.380, 
+        "fullname": "St.-Blaise-sur-Richelieu, Quebec, Le Haut-Richelieu, Canada", 
+        "sw_latitude": 45.159
+      }, 
+      "id": 23394494
+    }
+  ]
+}

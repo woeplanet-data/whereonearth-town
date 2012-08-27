@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.876, 
+              21.422
+            ], 
+            [
+              -104.876, 
+              21.442
+            ], 
+            [
+              -104.848, 
+              21.442
+            ], 
+            [
+              -104.848, 
+              21.422
+            ], 
+            [
+              -104.876, 
+              21.422
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.442, 
+        "name": "Pantanal", 
+        "adjacent_woeid": [
+          121746, 
+          121973, 
+          125686, 
+          133938, 
+          142108, 
+          150095
+        ], 
+        "woeid": 135922, 
+        "alias_SPA_V": [
+          "El Pantanal"
+        ], 
+        "ne_longitude": -104.848, 
+        "longitude": -104.858, 
+        "parent_woeid": 12600605, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.428, 
+        "sw_longitude": -104.876, 
+        "fullname": "Pantanal, Nayarit, Xalisco, Mexico", 
+        "sw_latitude": 21.422
+      }, 
+      "id": 135922
+    }
+  ]
+}

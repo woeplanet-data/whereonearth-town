@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.527, 
+              26.024
+            ], 
+            [
+              -105.527, 
+              26.042
+            ], 
+            [
+              -105.507, 
+              26.042
+            ], 
+            [
+              -105.507, 
+              26.024
+            ], 
+            [
+              -105.527, 
+              26.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.042, 
+        "name": "El Refugio", 
+        "adjacent_woeid": [
+          119011, 
+          127591, 
+          132417, 
+          133519, 
+          147327
+        ], 
+        "woeid": 121925, 
+        "alias_SPA_V": [
+          "Refugio"
+        ], 
+        "ne_longitude": -105.507, 
+        "longitude": -105.517, 
+        "parent_woeid": 12599975, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.033, 
+        "sw_longitude": -105.527, 
+        "fullname": "El Refugio, Durango, San Bernardo, Mexico", 
+        "sw_latitude": 26.024
+      }, 
+      "id": 121925
+    }
+  ]
+}

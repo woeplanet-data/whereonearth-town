@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.943, 
+              26.024
+            ], 
+            [
+              -97.943, 
+              26.042
+            ], 
+            [
+              -97.923, 
+              26.042
+            ], 
+            [
+              -97.923, 
+              26.024
+            ], 
+            [
+              -97.943, 
+              26.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.042, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          113730, 
+          122172, 
+          127552, 
+          130363, 
+          132223, 
+          134851, 
+          145193
+        ], 
+        "woeid": 142457, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -97.923, 
+        "longitude": -97.933, 
+        "parent_woeid": 12601664, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.033, 
+        "sw_longitude": -97.943, 
+        "fullname": "San Francisco, Tamaulipas, Rio Bravo, Mexico", 
+        "sw_latitude": 26.024
+      }, 
+      "id": 142457
+    }
+  ]
+}

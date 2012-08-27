@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.360, 
+              49.045
+            ], 
+            [
+              10.360, 
+              49.067
+            ], 
+            [
+              10.383, 
+              49.067
+            ], 
+            [
+              10.383, 
+              49.045
+            ], 
+            [
+              10.360, 
+              49.045
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 699476, 
+        "name": "Tiefweg", 
+        "adjacent_woeid": [
+          640554, 
+          667614, 
+          679070, 
+          695140, 
+          702379
+        ], 
+        "ne_latitude": 49.067, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.383, 
+        "longitude": 10.371, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12634396, 
+        "latitude": 49.056, 
+        "sw_longitude": 10.360, 
+        "fullname": "Tiefweg, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.045
+      }, 
+      "id": 699476
+    }
+  ]
+}

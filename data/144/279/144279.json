@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -112.477, 
+              31.202
+            ], 
+            [
+              -112.477, 
+              31.220
+            ], 
+            [
+              -112.456, 
+              31.220
+            ], 
+            [
+              -112.456, 
+              31.202
+            ], 
+            [
+              -112.477, 
+              31.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.220, 
+        "name": "San Luisito", 
+        "adjacent_woeid": [
+          120003, 
+          121549, 
+          137830, 
+          138109, 
+          142685
+        ], 
+        "woeid": 144279, 
+        "alias_SPA_V": [
+          "S Luisito"
+        ], 
+        "ne_longitude": -112.456, 
+        "longitude": -112.466, 
+        "parent_woeid": 12601561, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.211, 
+        "sw_longitude": -112.477, 
+        "fullname": "San Luisito, Sonora, Caborca, Mexico", 
+        "sw_latitude": 31.202
+      }, 
+      "id": 144279
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.785, 
+              46.881
+            ], 
+            [
+              5.785, 
+              46.911
+            ], 
+            [
+              5.809, 
+              46.911
+            ], 
+            [
+              5.809, 
+              46.881
+            ], 
+            [
+              5.785, 
+              46.881
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611233, 
+        "name": "Mesnay", 
+        "adjacent_woeid": [
+          595324, 
+          597631, 
+          607179, 
+          618045
+        ], 
+        "ne_latitude": 46.911, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.809, 
+        "longitude": 5.796, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "parent_woeid": 12649112, 
+        "latitude": 46.902, 
+        "sw_longitude": 5.785, 
+        "fullname": "Mesnay, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.881
+      }, 
+      "id": 611233
+    }
+  ]
+}

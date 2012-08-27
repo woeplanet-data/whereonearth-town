@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.562, 
+              39.945
+            ], 
+            [
+              -77.562, 
+              40.125
+            ], 
+            [
+              -77.354, 
+              40.125
+            ], 
+            [
+              -77.354, 
+              39.945
+            ], 
+            [
+              -77.562, 
+              39.945
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745211, 
+        "name": "Southampton", 
+        "adjacent_woeid": [
+          2381520, 
+          2419134, 
+          2437890, 
+          2472138, 
+          28339973
+        ], 
+        "ne_latitude": 40.125, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Southampton Township"
+        ], 
+        "ne_longitude": -77.354, 
+        "longitude": -77.455, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589748, 
+        "latitude": 40.040, 
+        "sw_longitude": -77.562, 
+        "fullname": "Southampton, Pennsylvania, Cumberland, United States", 
+        "sw_latitude": 39.945
+      }, 
+      "id": 28745211
+    }
+  ]
+}

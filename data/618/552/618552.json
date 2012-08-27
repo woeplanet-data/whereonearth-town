@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.663, 
+              50.092
+            ], 
+            [
+              1.663, 
+              50.130
+            ], 
+            [
+              1.711, 
+              50.130
+            ], 
+            [
+              1.711, 
+              50.092
+            ], 
+            [
+              1.663, 
+              50.092
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 618552, 
+        "name": "Quesnoy-le-Montant", 
+        "adjacent_woeid": [
+          582643, 
+          582810, 
+          592155, 
+          601023, 
+          611456, 
+          612041, 
+          620611
+        ], 
+        "ne_latitude": 50.130, 
+        "ne_longitude": 1.711, 
+        "longitude": 1.688, 
+        "parent_woeid": 12658260, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Quesnoy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.110, 
+        "sw_longitude": 1.663, 
+        "fullname": "Quesnoy-le-Montant, Picardie, Somme, France", 
+        "sw_latitude": 50.092
+      }, 
+      "id": 618552
+    }
+  ]
+}

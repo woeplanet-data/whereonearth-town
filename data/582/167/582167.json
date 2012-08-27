@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.373, 
+              44.172
+            ], 
+            [
+              0.373, 
+              44.232
+            ], 
+            [
+              0.433, 
+              44.232
+            ], 
+            [
+              0.433, 
+              44.172
+            ], 
+            [
+              0.373, 
+              44.172
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 582167, 
+        "name": "Bruch", 
+        "adjacent_woeid": [
+          590074, 
+          590905, 
+          610939, 
+          612561, 
+          625100
+        ], 
+        "ne_latitude": 44.232, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.433, 
+        "longitude": 0.411, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12640051, 
+        "latitude": 44.206, 
+        "sw_longitude": 0.373, 
+        "fullname": "Bruch, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.172
+      }, 
+      "id": 582167
+    }
+  ]
+}

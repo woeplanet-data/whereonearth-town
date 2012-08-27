@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.605, 
+              49.655
+            ], 
+            [
+              11.605, 
+              49.687
+            ], 
+            [
+              11.638, 
+              49.687
+            ], 
+            [
+              11.638, 
+              49.655
+            ], 
+            [
+              11.605, 
+              49.655
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20173199, 
+        "name": "Sand", 
+        "adjacent_woeid": [
+          680223, 
+          686857, 
+          705157, 
+          23410697
+        ], 
+        "ne_latitude": 49.687, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.638, 
+        "longitude": 11.628, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12636155, 
+        "latitude": 49.679, 
+        "sw_longitude": 11.605, 
+        "fullname": "Sand, Bavaria, Amberg-Sulzbach, Germany", 
+        "sw_latitude": 49.655
+      }, 
+      "id": 20173199
+    }
+  ]
+}

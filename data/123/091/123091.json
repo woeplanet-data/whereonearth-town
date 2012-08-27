@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.293, 
+              15.474
+            ], 
+            [
+              -92.293, 
+              15.492
+            ], 
+            [
+              -92.274, 
+              15.492
+            ], 
+            [
+              -92.274, 
+              15.474
+            ], 
+            [
+              -92.293, 
+              15.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.492, 
+        "name": "El Zapotillo", 
+        "adjacent_woeid": [
+          114281, 
+          122160, 
+          129781, 
+          130886, 
+          135610, 
+          147587
+        ], 
+        "woeid": 123091, 
+        "alias_SPA_V": [
+          "Zapotillo"
+        ], 
+        "ne_longitude": -92.274, 
+        "longitude": -92.283, 
+        "parent_woeid": 12599789, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.483, 
+        "sw_longitude": -92.293, 
+        "fullname": "El Zapotillo, Chiapas, Siltepec, Mexico", 
+        "sw_latitude": 15.474
+      }, 
+      "id": 123091
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.526, 
+              21.658
+            ], 
+            [
+              -100.526, 
+              21.676
+            ], 
+            [
+              -100.507, 
+              21.676
+            ], 
+            [
+              -100.507, 
+              21.658
+            ], 
+            [
+              -100.526, 
+              21.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.676, 
+        "name": "El Tigre", 
+        "adjacent_woeid": [
+          125967, 
+          129713, 
+          132620, 
+          133359, 
+          133651, 
+          143420, 
+          149330
+        ], 
+        "woeid": 122744, 
+        "alias_SPA_V": [
+          "Tigre"
+        ], 
+        "ne_longitude": -100.507, 
+        "longitude": -100.517, 
+        "parent_woeid": 12601514, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.667, 
+        "sw_longitude": -100.526, 
+        "fullname": "El Tigre, San Luis Potosi, Tierranueva, Mexico", 
+        "sw_latitude": 21.658
+      }, 
+      "id": 122744
+    }
+  ]
+}

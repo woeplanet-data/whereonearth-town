@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.234, 
+              21.462
+            ], 
+            [
+              -101.234, 
+              21.497
+            ], 
+            [
+              -101.195, 
+              21.497
+            ], 
+            [
+              -101.195, 
+              21.462
+            ], 
+            [
+              -101.234, 
+              21.462
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.497, 
+        "name": "San Felipe", 
+        "adjacent_woeid": [
+          127801, 
+          127966, 
+          141956, 
+          142944
+        ], 
+        "woeid": 142356, 
+        "alias_SPA_V": [
+          "S Felipe"
+        ], 
+        "ne_longitude": -101.195, 
+        "longitude": -101.217, 
+        "parent_woeid": 2346274, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Ciudad Doctor Hernandez Alvarez"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.482, 
+        "sw_longitude": -101.234, 
+        "fullname": "San Felipe, Guanajuato, San Felipe, Mexico", 
+        "sw_latitude": 21.462
+      }, 
+      "id": 142356
+    }
+  ]
+}

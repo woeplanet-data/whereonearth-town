@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.379, 
+              42.011
+            ], 
+            [
+              1.379, 
+              42.055
+            ], 
+            [
+              1.437, 
+              42.055
+            ], 
+            [
+              1.437, 
+              42.011
+            ], 
+            [
+              1.379, 
+              42.011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.055, 
+        "name": "Castellar de la Ribera", 
+        "adjacent_woeid": [
+          768619, 
+          773555, 
+          15003580, 
+          20227402, 
+          20228922, 
+          23413168
+        ], 
+        "woeid": 756859, 
+        "alias_SPA_V": [
+          "Castillar de la Ribera"
+        ], 
+        "ne_longitude": 1.437, 
+        "longitude": 1.416, 
+        "parent_woeid": 12693965, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.022, 
+        "sw_longitude": 1.379, 
+        "fullname": "Castellar de la Ribera, Catalonia, Lleida, Spain", 
+        "sw_latitude": 42.011
+      }, 
+      "id": 756859
+    }
+  ]
+}

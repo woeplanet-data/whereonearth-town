@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.256, 
+              48.647
+            ], 
+            [
+              10.256, 
+              48.683
+            ], 
+            [
+              10.295, 
+              48.683
+            ], 
+            [
+              10.295, 
+              48.647
+            ], 
+            [
+              10.256, 
+              48.647
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696420, 
+        "name": "Staufen", 
+        "adjacent_woeid": [
+          661256, 
+          683041, 
+          703205
+        ], 
+        "ne_latitude": 48.683, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.295, 
+        "longitude": 10.282, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12634813, 
+        "latitude": 48.661, 
+        "sw_longitude": 10.256, 
+        "fullname": "Staufen, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.647
+      }, 
+      "id": 696420
+    }
+  ]
+}

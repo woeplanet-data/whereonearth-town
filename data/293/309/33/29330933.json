@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.107, 
+              49.703
+            ], 
+            [
+              1.107, 
+              49.721
+            ], 
+            [
+              1.135, 
+              49.721
+            ], 
+            [
+              1.135, 
+              49.703
+            ], 
+            [
+              1.107, 
+              49.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330933, 
+        "name": "La Rue Sauvage", 
+        "adjacent_woeid": [
+          587873, 
+          588022, 
+          594798, 
+          622062, 
+          623740, 
+          29330858
+        ], 
+        "ne_latitude": 49.721, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.135, 
+        "longitude": 1.119, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12637648, 
+        "latitude": 49.713, 
+        "sw_longitude": 1.107, 
+        "fullname": "La Rue Sauvage, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.703
+      }, 
+      "id": 29330933
+    }
+  ]
+}

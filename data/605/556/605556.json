@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.535, 
+              47.229
+            ], 
+            [
+              3.535, 
+              47.238
+            ], 
+            [
+              3.548, 
+              47.238
+            ], 
+            [
+              3.548, 
+              47.229
+            ], 
+            [
+              3.535, 
+              47.229
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605556, 
+        "name": "Les Bordes", 
+        "adjacent_woeid": [
+          578668, 
+          588964, 
+          594095, 
+          614098, 
+          626739
+        ], 
+        "ne_latitude": 47.238, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.548, 
+        "longitude": 3.542, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12643830, 
+        "latitude": 47.233, 
+        "sw_longitude": 3.535, 
+        "fullname": "Les Bordes, Burgundy, Nievre, France", 
+        "sw_latitude": 47.229
+      }, 
+      "id": 605556
+    }
+  ]
+}

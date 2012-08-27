@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.410, 
+              20.891
+            ], 
+            [
+              -105.410, 
+              20.909
+            ], 
+            [
+              -105.390, 
+              20.909
+            ], 
+            [
+              -105.390, 
+              20.891
+            ], 
+            [
+              -105.410, 
+              20.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.909, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          131265, 
+          147472, 
+          150412, 
+          150897, 
+          26804435
+        ], 
+        "woeid": 142527, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -105.390, 
+        "longitude": -105.400, 
+        "parent_woeid": 12600589, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.900, 
+        "sw_longitude": -105.410, 
+        "fullname": "San Francisco, Nayarit, Bahia de Banderas, Mexico", 
+        "sw_latitude": 20.891
+      }, 
+      "id": 142527
+    }
+  ]
+}

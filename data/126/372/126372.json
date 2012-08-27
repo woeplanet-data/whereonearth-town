@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.211, 
+              31.158
+            ], 
+            [
+              -111.211, 
+              31.176
+            ], 
+            [
+              -111.189, 
+              31.176
+            ], 
+            [
+              -111.189, 
+              31.158
+            ], 
+            [
+              -111.211, 
+              31.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.176, 
+        "name": "La Arizona", 
+        "adjacent_woeid": [
+          112385, 
+          116319, 
+          118636, 
+          126465, 
+          126775, 
+          138255, 
+          144920, 
+          147329
+        ], 
+        "woeid": 126372, 
+        "alias_SPA_V": [
+          "Ejido Arizona"
+        ], 
+        "ne_longitude": -111.189, 
+        "longitude": -111.200, 
+        "parent_woeid": 12601588, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.167, 
+        "sw_longitude": -111.211, 
+        "fullname": "La Arizona, Sonora, Nogales, Mexico", 
+        "sw_latitude": 31.158
+      }, 
+      "id": 126372
+    }
+  ]
+}

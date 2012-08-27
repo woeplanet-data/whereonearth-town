@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.485, 
+              47.027
+            ], 
+            [
+              14.485, 
+              47.045
+            ], 
+            [
+              14.512, 
+              47.045
+            ], 
+            [
+              14.512, 
+              47.027
+            ], 
+            [
+              14.485, 
+              47.027
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 548711, 
+        "name": "Hitzmannsdorf", 
+        "adjacent_woeid": [
+          548029, 
+          548783, 
+          548982, 
+          549833
+        ], 
+        "ne_latitude": 47.045, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.512, 
+        "longitude": 14.498, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:13Z", 
+        "parent_woeid": 12674810, 
+        "latitude": 47.036, 
+        "sw_longitude": 14.485, 
+        "fullname": "Hitzmannsdorf, Styria, Murau, Austria", 
+        "sw_latitude": 47.027
+      }, 
+      "id": 548711
+    }
+  ]
+}

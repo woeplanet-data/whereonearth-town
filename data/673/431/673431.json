@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.159, 
+              50.079
+            ], 
+            [
+              10.159, 
+              50.113
+            ], 
+            [
+              10.193, 
+              50.113
+            ], 
+            [
+              10.193, 
+              50.079
+            ], 
+            [
+              10.159, 
+              50.079
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673431, 
+        "name": "Maibach", 
+        "adjacent_woeid": [
+          656676, 
+          656936, 
+          661911, 
+          669079, 
+          682590
+        ], 
+        "ne_latitude": 50.113, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.193, 
+        "longitude": 10.174, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:34Z", 
+        "parent_woeid": 12635427, 
+        "latitude": 50.096, 
+        "sw_longitude": 10.159, 
+        "fullname": "Maibach, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.079
+      }, 
+      "id": 673431
+    }
+  ]
+}

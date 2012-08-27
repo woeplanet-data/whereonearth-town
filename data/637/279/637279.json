@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.347, 
+              50.023
+            ], 
+            [
+              10.347, 
+              50.047
+            ], 
+            [
+              10.375, 
+              50.047
+            ], 
+            [
+              10.375, 
+              50.023
+            ], 
+            [
+              10.347, 
+              50.023
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637279, 
+        "name": "Bayerhof", 
+        "adjacent_woeid": [
+          641894, 
+          650106, 
+          654106, 
+          683880, 
+          703559
+        ], 
+        "ne_latitude": 50.047, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.375, 
+        "longitude": 10.367, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:21Z", 
+        "parent_woeid": 12635429, 
+        "latitude": 50.033, 
+        "sw_longitude": 10.347, 
+        "fullname": "Bayerhof, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.023
+      }, 
+      "id": 637279
+    }
+  ]
+}

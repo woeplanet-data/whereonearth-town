@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              50.806
+            ], 
+            [
+              12.123, 
+              50.817
+            ], 
+            [
+              12.145, 
+              50.817
+            ], 
+            [
+              12.145, 
+              50.806
+            ], 
+            [
+              12.123, 
+              50.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666861, 
+        "name": "Kleinfalka", 
+        "adjacent_woeid": [
+          654980, 
+          659878, 
+          671402, 
+          671577, 
+          672593, 
+          685475, 
+          29353197
+        ], 
+        "ne_latitude": 50.817, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.145, 
+        "longitude": 12.133, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12624636, 
+        "latitude": 50.812, 
+        "sw_longitude": 12.123, 
+        "fullname": "Kleinfalka, Thuringia, Stadtkreis Gera, Germany", 
+        "alias_GER_V": [
+          "Kleinfalke"
+        ], 
+        "sw_latitude": 50.806
+      }, 
+      "id": 666861
+    }
+  ]
+}

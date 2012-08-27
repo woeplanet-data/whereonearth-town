@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.962, 
+              50.204
+            ], 
+            [
+              9.962, 
+              50.231
+            ], 
+            [
+              9.985, 
+              50.231
+            ], 
+            [
+              9.985, 
+              50.204
+            ], 
+            [
+              9.962, 
+              50.204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 692222, 
+        "name": "Schlimpfhof", 
+        "adjacent_woeid": [
+          633803, 
+          657766, 
+          665193, 
+          685677
+        ], 
+        "ne_latitude": 50.231, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.985, 
+        "longitude": 9.972, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12635504, 
+        "latitude": 50.218, 
+        "sw_longitude": 9.962, 
+        "fullname": "Schlimpfhof, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.204
+      }, 
+      "id": 692222
+    }
+  ]
+}

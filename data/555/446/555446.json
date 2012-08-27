@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.227, 
+              55.353
+            ], 
+            [
+              12.227, 
+              55.369
+            ], 
+            [
+              12.254, 
+              55.369
+            ], 
+            [
+              12.254, 
+              55.353
+            ], 
+            [
+              12.227, 
+              55.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555446, 
+        "name": "Lystrup", 
+        "adjacent_woeid": [
+          551977, 
+          554068, 
+          555238, 
+          557650
+        ], 
+        "ne_latitude": 55.369, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.254, 
+        "longitude": 12.241, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:18Z", 
+        "parent_woeid": 12582828, 
+        "latitude": 55.361, 
+        "sw_longitude": 12.227, 
+        "fullname": "Lystrup, Sjaelland, Stevns, Denmark", 
+        "sw_latitude": 55.353
+      }, 
+      "id": 555446
+    }
+  ]
+}

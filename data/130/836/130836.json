@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.093, 
+              21.858
+            ], 
+            [
+              -99.093, 
+              21.876
+            ], 
+            [
+              -99.074, 
+              21.876
+            ], 
+            [
+              -99.074, 
+              21.858
+            ], 
+            [
+              -99.093, 
+              21.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.876, 
+        "name": "Las Pitas", 
+        "adjacent_woeid": [
+          113772, 
+          120771, 
+          128340, 
+          142521, 
+          144540, 
+          148142
+        ], 
+        "woeid": 130836, 
+        "alias_SPA_V": [
+          "Pita"
+        ], 
+        "ne_longitude": -99.074, 
+        "longitude": -99.083, 
+        "parent_woeid": 12601483, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.867, 
+        "sw_longitude": -99.093, 
+        "fullname": "Las Pitas, San Luis Potosi, Ciudad Valles, Mexico", 
+        "sw_latitude": 21.858
+      }, 
+      "id": 130836
+    }
+  ]
+}

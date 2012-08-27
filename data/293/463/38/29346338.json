@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.105, 
+              48.082
+            ], 
+            [
+              12.105, 
+              48.100
+            ], 
+            [
+              12.132, 
+              48.100
+            ], 
+            [
+              12.132, 
+              48.082
+            ], 
+            [
+              12.105, 
+              48.082
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346338, 
+        "name": "Thal", 
+        "adjacent_woeid": [
+          20153298, 
+          20153409, 
+          29346345, 
+          29346674, 
+          29346679, 
+          29348887
+        ], 
+        "ne_latitude": 48.100, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.132, 
+        "longitude": 12.118, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:25Z", 
+        "parent_woeid": 24550669, 
+        "latitude": 48.091, 
+        "sw_longitude": 12.105, 
+        "fullname": "Thal, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 48.082
+      }, 
+      "id": 29346338
+    }
+  ]
+}

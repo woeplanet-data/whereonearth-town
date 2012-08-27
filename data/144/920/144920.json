@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.327, 
+              30.808
+            ], 
+            [
+              -111.327, 
+              30.826
+            ], 
+            [
+              -111.306, 
+              30.826
+            ], 
+            [
+              -111.306, 
+              30.808
+            ], 
+            [
+              -111.327, 
+              30.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.826, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          118636, 
+          126372, 
+          126790, 
+          129104, 
+          129211, 
+          147329, 
+          150168
+        ], 
+        "woeid": 144920, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -111.306, 
+        "longitude": -111.317, 
+        "parent_woeid": 12601610, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.817, 
+        "sw_longitude": -111.327, 
+        "fullname": "San Pedro, Sonora, Tubutama, Mexico", 
+        "sw_latitude": 30.808
+      }, 
+      "id": 144920
+    }
+  ]
+}

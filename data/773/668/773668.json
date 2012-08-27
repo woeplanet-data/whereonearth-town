@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.978, 
+              37.069
+            ], 
+            [
+              -3.978, 
+              37.121
+            ], 
+            [
+              -3.950, 
+              37.121
+            ], 
+            [
+              -3.950, 
+              37.069
+            ], 
+            [
+              -3.978, 
+              37.069
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.121, 
+        "name": "Santa Cruz de Alhama", 
+        "adjacent_woeid": [
+          759788, 
+          764860, 
+          773673, 
+          20228702, 
+          29371073, 
+          29371122
+        ], 
+        "woeid": 773668, 
+        "alias_SPA_V": [
+          "Sta. Cruz de Alhama"
+        ], 
+        "ne_longitude": -3.950, 
+        "longitude": -3.968, 
+        "parent_woeid": 12688857, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.084, 
+        "sw_longitude": -3.978, 
+        "fullname": "Santa Cruz de Alhama, Andalusia, Granada, Spain", 
+        "sw_latitude": 37.069
+      }, 
+      "id": 773668
+    }
+  ]
+}

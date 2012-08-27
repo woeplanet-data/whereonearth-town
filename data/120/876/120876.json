@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.310, 
+              27.808
+            ], 
+            [
+              -101.310, 
+              27.826
+            ], 
+            [
+              -101.290, 
+              27.826
+            ], 
+            [
+              -101.290, 
+              27.808
+            ], 
+            [
+              -101.310, 
+              27.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.826, 
+        "name": "El Mezquite", 
+        "adjacent_woeid": [
+          111585, 
+          111598, 
+          128328, 
+          130344, 
+          134755, 
+          138186, 
+          145908
+        ], 
+        "woeid": 120876, 
+        "alias_SPA_V": [
+          "Rancho El Mezquite"
+        ], 
+        "ne_longitude": -101.290, 
+        "longitude": -101.300, 
+        "parent_woeid": 12599913, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.817, 
+        "sw_longitude": -101.310, 
+        "fullname": "El Mezquite, Coahuila de Zaragoza, Sabinas, Mexico", 
+        "sw_latitude": 27.808
+      }, 
+      "id": 120876
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.882, 
+              48.501
+            ], 
+            [
+              10.882, 
+              48.533
+            ], 
+            [
+              10.922, 
+              48.533
+            ], 
+            [
+              10.922, 
+              48.501
+            ], 
+            [
+              10.882, 
+              48.501
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690910, 
+        "name": "Sand", 
+        "adjacent_woeid": [
+          636309, 
+          659172, 
+          696112, 
+          699600, 
+          700683
+        ], 
+        "ne_latitude": 48.533, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.922, 
+        "longitude": 10.914, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12634749, 
+        "latitude": 48.515, 
+        "sw_longitude": 10.882, 
+        "fullname": "Sand, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.501
+      }, 
+      "id": 690910
+    }
+  ]
+}

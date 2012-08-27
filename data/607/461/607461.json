@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.745, 
+              45.648
+            ], 
+            [
+              4.745, 
+              45.659
+            ], 
+            [
+              4.758, 
+              45.659
+            ], 
+            [
+              4.758, 
+              45.648
+            ], 
+            [
+              4.745, 
+              45.648
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 607461, 
+        "name": "Les Sept Chemins", 
+        "adjacent_woeid": [
+          612207, 
+          615143, 
+          628014, 
+          632680
+        ], 
+        "ne_latitude": 45.659, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.758, 
+        "longitude": 4.752, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 22756856, 
+        "latitude": 45.653, 
+        "sw_longitude": 4.745, 
+        "fullname": "Les Sept Chemins, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 45.648
+      }, 
+      "id": 607461
+    }
+  ]
+}

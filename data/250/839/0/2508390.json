@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.213, 
+              39.942
+            ], 
+            [
+              -111.213, 
+              39.951
+            ], 
+            [
+              -111.201, 
+              39.951
+            ], 
+            [
+              -111.201, 
+              39.942
+            ], 
+            [
+              -111.213, 
+              39.942
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2508390, 
+        "name": "Tucker", 
+        "adjacent_woeid": [
+          2410314, 
+          2494403, 
+          2495581, 
+          2522319
+        ], 
+        "ne_latitude": 39.951, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -111.201, 
+        "longitude": -111.207, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:32:36Z", 
+        "parent_woeid": 12590285, 
+        "latitude": 39.946, 
+        "sw_longitude": -111.213, 
+        "fullname": "Tucker, Utah, Utah, United States", 
+        "sw_latitude": 39.942
+      }, 
+      "id": 2508390
+    }
+  ]
+}

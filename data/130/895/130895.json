@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.395, 
+              20.410
+            ], 
+            [
+              -100.395, 
+              20.428
+            ], 
+            [
+              -100.376, 
+              20.428
+            ], 
+            [
+              -100.376, 
+              20.410
+            ], 
+            [
+              -100.395, 
+              20.410
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.428, 
+        "name": "Las Taponas", 
+        "adjacent_woeid": [
+          112481, 
+          119206, 
+          125214, 
+          126442, 
+          126807, 
+          136849
+        ], 
+        "woeid": 130895, 
+        "alias_SPA_V": [
+          "Taponas"
+        ], 
+        "ne_longitude": -100.376, 
+        "longitude": -100.385, 
+        "parent_woeid": 12601448, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.419, 
+        "sw_longitude": -100.395, 
+        "fullname": "Las Taponas, Queretaro de Arteaga, Corregidora, Mexico", 
+        "sw_latitude": 20.410
+      }, 
+      "id": 130895
+    }
+  ]
+}

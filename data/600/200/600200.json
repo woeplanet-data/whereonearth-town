@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.739, 
+              48.780
+            ], 
+            [
+              1.739, 
+              48.789
+            ], 
+            [
+              1.753, 
+              48.789
+            ], 
+            [
+              1.753, 
+              48.780
+            ], 
+            [
+              1.739, 
+              48.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600200, 
+        "name": "La Troche", 
+        "adjacent_woeid": [
+          592368, 
+          593871, 
+          611530, 
+          616038, 
+          29329682
+        ], 
+        "ne_latitude": 48.789, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.753, 
+        "longitude": 1.746, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12644861, 
+        "latitude": 48.784, 
+        "sw_longitude": 1.739, 
+        "fullname": "La Troche, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.780
+      }, 
+      "id": 600200
+    }
+  ]
+}

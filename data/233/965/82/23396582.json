@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.640, 
+              45.158
+            ], 
+            [
+              -73.640, 
+              45.292
+            ], 
+            [
+              -73.511, 
+              45.292
+            ], 
+            [
+              -73.511, 
+              45.158
+            ], 
+            [
+              -73.640, 
+              45.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396582, 
+        "name": "St.-Michel", 
+        "adjacent_woeid": [
+          3561, 
+          23394593, 
+          23395685, 
+          23396448, 
+          23396516, 
+          23396518, 
+          29374692
+        ], 
+        "ne_latitude": 45.292, 
+        "ne_longitude": -73.511, 
+        "longitude": -73.569, 
+        "parent_woeid": 29375094, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Michel-de-Napierville"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.237, 
+        "sw_longitude": -73.640, 
+        "fullname": "St.-Michel, Quebec, Les Jardins-de-Napierville, Canada", 
+        "sw_latitude": 45.158
+      }, 
+      "id": 23396582
+    }
+  ]
+}

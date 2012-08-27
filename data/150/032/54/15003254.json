@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.523, 
+              50.086
+            ], 
+            [
+              2.523, 
+              50.123
+            ], 
+            [
+              2.563, 
+              50.123
+            ], 
+            [
+              2.563, 
+              50.086
+            ], 
+            [
+              2.523, 
+              50.086
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003254, 
+        "name": "Bus-l\u00e8s-Artois", 
+        "adjacent_woeid": [
+          577396, 
+          579522, 
+          586421, 
+          587255, 
+          591565, 
+          608807, 
+          625231
+        ], 
+        "ne_latitude": 50.123, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.563, 
+        "longitude": 2.545, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "parent_woeid": 12673211, 
+        "latitude": 50.102, 
+        "sw_longitude": 2.523, 
+        "fullname": "Bus-l\u00e8s-Artois, Picardie, Somme, France", 
+        "alias_FRE_S": [
+          "Bus-les-Artois"
+        ], 
+        "sw_latitude": 50.086
+      }, 
+      "id": 15003254
+    }
+  ]
+}

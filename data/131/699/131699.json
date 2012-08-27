@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.110, 
+              27.391
+            ], 
+            [
+              -106.110, 
+              27.409
+            ], 
+            [
+              -106.090, 
+              27.409
+            ], 
+            [
+              -106.090, 
+              27.391
+            ], 
+            [
+              -106.110, 
+              27.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.409, 
+        "name": "Los Cerritos", 
+        "adjacent_woeid": [
+          122848, 
+          127767, 
+          127823, 
+          142355, 
+          142364, 
+          143612, 
+          150477
+        ], 
+        "woeid": 131699, 
+        "alias_SPA_V": [
+          "Cerritos"
+        ], 
+        "ne_longitude": -106.090, 
+        "longitude": -106.100, 
+        "parent_woeid": 12599885, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.400, 
+        "sw_longitude": -106.110, 
+        "fullname": "Los Cerritos, Chihuahua, Valle de Zaragoza, Mexico", 
+        "sw_latitude": 27.391
+      }, 
+      "id": 131699
+    }
+  ]
+}

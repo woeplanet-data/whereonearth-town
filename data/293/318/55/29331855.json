@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.180, 
+              42.772
+            ], 
+            [
+              0.180, 
+              42.790
+            ], 
+            [
+              0.204, 
+              42.790
+            ], 
+            [
+              0.204, 
+              42.772
+            ], 
+            [
+              0.180, 
+              42.772
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331855, 
+        "name": "Le Plan", 
+        "adjacent_woeid": [
+          576364, 
+          15003182, 
+          20194063, 
+          29331854
+        ], 
+        "ne_latitude": 42.790, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.204, 
+        "longitude": 0.192, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12655390, 
+        "latitude": 42.781, 
+        "sw_longitude": 0.180, 
+        "fullname": "Le Plan, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 42.772
+      }, 
+      "id": 29331855
+    }
+  ]
+}

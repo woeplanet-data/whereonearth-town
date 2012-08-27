@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.784, 
+              51.663
+            ], 
+            [
+              6.784, 
+              51.714
+            ], 
+            [
+              6.823, 
+              51.714
+            ], 
+            [
+              6.823, 
+              51.663
+            ], 
+            [
+              6.784, 
+              51.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20170663, 
+        "name": "Damm", 
+        "adjacent_woeid": [
+          645702, 
+          651605, 
+          673388, 
+          703105, 
+          20170660
+        ], 
+        "ne_latitude": 51.714, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.823, 
+        "longitude": 6.804, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12624421, 
+        "latitude": 51.680, 
+        "sw_longitude": 6.784, 
+        "fullname": "Damm, North Rhine-Westphalia, Landkreis Wesel, Germany", 
+        "sw_latitude": 51.663
+      }, 
+      "id": 20170663
+    }
+  ]
+}

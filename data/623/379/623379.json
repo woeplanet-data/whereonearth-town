@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.126, 
+              44.591
+            ], 
+            [
+              1.126, 
+              44.633
+            ], 
+            [
+              1.180, 
+              44.633
+            ], 
+            [
+              1.180, 
+              44.591
+            ], 
+            [
+              1.126, 
+              44.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623379, 
+        "name": "St.-Caprais", 
+        "adjacent_woeid": [
+          591939, 
+          610124, 
+          612455
+        ], 
+        "ne_latitude": 44.633, 
+        "ne_longitude": 1.180, 
+        "longitude": 1.158, 
+        "parent_woeid": 12665519, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Caprais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.607, 
+        "sw_longitude": 1.126, 
+        "fullname": "St.-Caprais, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.591
+      }, 
+      "id": 623379
+    }
+  ]
+}

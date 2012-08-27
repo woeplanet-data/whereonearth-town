@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.124, 
+              50.789
+            ], 
+            [
+              -3.124, 
+              50.798
+            ], 
+            [
+              -3.109, 
+              50.798
+            ], 
+            [
+              -3.109, 
+              50.789
+            ], 
+            [
+              -3.124, 
+              50.789
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 40562, 
+        "name": "Wilmington", 
+        "adjacent_woeid": [
+          16957, 
+          22247, 
+          22735, 
+          30865, 
+          40443
+        ], 
+        "ne_latitude": 50.798, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -3.109, 
+        "longitude": -3.119, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:55Z", 
+        "parent_woeid": 12695914, 
+        "latitude": 50.793, 
+        "sw_longitude": -3.124, 
+        "fullname": "Wilmington, England, Devon, United Kingdom", 
+        "sw_latitude": 50.789
+      }, 
+      "id": 40562
+    }
+  ]
+}

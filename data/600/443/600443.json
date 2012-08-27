@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.266, 
+              45.133
+            ], 
+            [
+              1.266, 
+              45.142
+            ], 
+            [
+              1.279, 
+              45.142
+            ], 
+            [
+              1.279, 
+              45.133
+            ], 
+            [
+              1.266, 
+              45.133
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600443, 
+        "name": "La Villedieu", 
+        "adjacent_woeid": [
+          578821, 
+          608705, 
+          631384
+        ], 
+        "ne_latitude": 45.142, 
+        "ne_longitude": 1.279, 
+        "longitude": 1.272, 
+        "parent_woeid": 12639464, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lavilledieu"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.137, 
+        "sw_longitude": 1.266, 
+        "fullname": "La Villedieu, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.133
+      }, 
+      "id": 600443
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.232, 
+              43.365
+            ], 
+            [
+              -0.232, 
+              43.402
+            ], 
+            [
+              -0.195, 
+              43.402
+            ], 
+            [
+              -0.195, 
+              43.365
+            ], 
+            [
+              -0.232, 
+              43.365
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625103, 
+        "name": "St.-Laurent-Bretagne", 
+        "adjacent_woeid": [
+          575327, 
+          592285, 
+          594835, 
+          607753, 
+          611833, 
+          619550, 
+          621569, 
+          55965931
+        ], 
+        "ne_latitude": 43.402, 
+        "ne_longitude": -0.195, 
+        "longitude": -0.220, 
+        "parent_woeid": 12652756, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Laurent-Bretagne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.385, 
+        "sw_longitude": -0.232, 
+        "fullname": "St.-Laurent-Bretagne, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.365
+      }, 
+      "id": 625103
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.411, 
+              44.990
+            ], 
+            [
+              9.411, 
+              44.999
+            ], 
+            [
+              9.424, 
+              44.999
+            ], 
+            [
+              9.424, 
+              44.990
+            ], 
+            [
+              9.411, 
+              44.990
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20137246, 
+        "name": "Pollo", 
+        "adjacent_woeid": [
+          713424, 
+          20109509, 
+          20143606, 
+          29343635
+        ], 
+        "ne_latitude": 44.999, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.424, 
+        "longitude": 9.417, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:01Z", 
+        "parent_woeid": 12679367, 
+        "latitude": 44.995, 
+        "sw_longitude": 9.411, 
+        "fullname": "Pollo, Emilia Romagna, Piacenza, Italy", 
+        "sw_latitude": 44.990
+      }, 
+      "id": 20137246
+    }
+  ]
+}

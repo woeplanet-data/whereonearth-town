@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.098, 
+              13.491
+            ], 
+            [
+              -89.098, 
+              13.509
+            ], 
+            [
+              -89.079, 
+              13.509
+            ], 
+            [
+              -89.079, 
+              13.491
+            ], 
+            [
+              -89.098, 
+              13.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.509, 
+        "name": "San Juan Talpa", 
+        "adjacent_woeid": [
+          77205, 
+          79154, 
+          79184, 
+          79726, 
+          80044, 
+          26809393
+        ], 
+        "woeid": 79699, 
+        "alias_SPA_V": [
+          "S Juan Talpa"
+        ], 
+        "ne_longitude": -89.079, 
+        "longitude": -89.089, 
+        "parent_woeid": 26808624, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.500, 
+        "sw_longitude": -89.098, 
+        "fullname": "San Juan Talpa, La Paz, San Juan Talpa, El Salvador", 
+        "sw_latitude": 13.491
+      }, 
+      "id": 79699
+    }
+  ]
+}

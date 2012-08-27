@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.407, 
+              27.076
+            ], 
+            [
+              -105.407, 
+              27.094
+            ], 
+            [
+              -105.387, 
+              27.094
+            ], 
+            [
+              -105.387, 
+              27.076
+            ], 
+            [
+              -105.407, 
+              27.076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.094, 
+        "name": "San Jose", 
+        "adjacent_woeid": [
+          111346, 
+          134136, 
+          143579
+        ], 
+        "woeid": 143412, 
+        "alias_SPA_V": [
+          "S Jose"
+        ], 
+        "ne_longitude": -105.387, 
+        "longitude": -105.397, 
+        "parent_woeid": 12599821, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.085, 
+        "sw_longitude": -105.407, 
+        "fullname": "San Jose, Chihuahua, Allende, Mexico", 
+        "sw_latitude": 27.076
+      }, 
+      "id": 143412
+    }
+  ]
+}

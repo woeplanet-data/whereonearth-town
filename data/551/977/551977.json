@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.234, 
+              55.345
+            ], 
+            [
+              12.234, 
+              55.360
+            ], 
+            [
+              12.262, 
+              55.360
+            ], 
+            [
+              12.262, 
+              55.345
+            ], 
+            [
+              12.234, 
+              55.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 551977, 
+        "name": "Ammerup", 
+        "adjacent_woeid": [
+          555238, 
+          555446, 
+          558493
+        ], 
+        "ne_latitude": 55.360, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.262, 
+        "longitude": 12.248, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:55Z", 
+        "parent_woeid": 12582828, 
+        "latitude": 55.353, 
+        "sw_longitude": 12.234, 
+        "fullname": "Ammerup, Sjaelland, Stevns, Denmark", 
+        "sw_latitude": 55.345
+      }, 
+      "id": 551977
+    }
+  ]
+}

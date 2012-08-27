@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.020, 
+              50.114
+            ], 
+            [
+              11.020, 
+              50.132
+            ], 
+            [
+              11.048, 
+              50.132
+            ], 
+            [
+              11.048, 
+              50.114
+            ], 
+            [
+              11.020, 
+              50.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 655502, 
+        "name": "Grundfeld", 
+        "adjacent_woeid": [
+          688171, 
+          692913, 
+          694618, 
+          702340, 
+          707684
+        ], 
+        "ne_latitude": 50.132, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.048, 
+        "longitude": 11.034, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 12635369, 
+        "latitude": 50.123, 
+        "sw_longitude": 11.020, 
+        "fullname": "Grundfeld, Bavaria, Landkreis Lichtenfels, Germany", 
+        "sw_latitude": 50.114
+      }, 
+      "id": 655502
+    }
+  ]
+}

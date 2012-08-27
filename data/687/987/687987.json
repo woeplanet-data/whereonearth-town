@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.899, 
+              52.272
+            ], 
+            [
+              10.899, 
+              52.321
+            ], 
+            [
+              10.929, 
+              52.321
+            ], 
+            [
+              10.929, 
+              52.272
+            ], 
+            [
+              10.899, 
+              52.272
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687987, 
+        "name": "Rennau", 
+        "adjacent_woeid": [
+          633560, 
+          636989, 
+          690123, 
+          699936
+        ], 
+        "ne_latitude": 52.321, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.929, 
+        "longitude": 10.912, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12630381, 
+        "latitude": 52.296, 
+        "sw_longitude": 10.899, 
+        "fullname": "Rennau, Lower Saxony, Landkreis Helmstedt, Germany", 
+        "sw_latitude": 52.272
+      }, 
+      "id": 687987
+    }
+  ]
+}

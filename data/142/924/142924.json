@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.669, 
+              23.643
+            ], 
+            [
+              -100.669, 
+              23.661
+            ], 
+            [
+              -100.650, 
+              23.661
+            ], 
+            [
+              -100.650, 
+              23.643
+            ], 
+            [
+              -100.669, 
+              23.643
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.661, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          113756, 
+          136635, 
+          141086
+        ], 
+        "woeid": 142924, 
+        "alias_SPA_V": [
+          "S. Isidro"
+        ], 
+        "ne_longitude": -100.650, 
+        "longitude": -100.660, 
+        "parent_woeid": 12601489, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.652, 
+        "sw_longitude": -100.669, 
+        "fullname": "San Isidro, San Luis Potosi, Matehuala, Mexico", 
+        "sw_latitude": 23.643
+      }, 
+      "id": 142924
+    }
+  ]
+}

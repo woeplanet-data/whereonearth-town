@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.468, 
+              47.827
+            ], 
+            [
+              -0.468, 
+              47.890
+            ], 
+            [
+              -0.410, 
+              47.890
+            ], 
+            [
+              -0.410, 
+              47.827
+            ], 
+            [
+              -0.468, 
+              47.827
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623347, 
+        "name": "St.-Brice", 
+        "adjacent_woeid": [
+          578761, 
+          580982, 
+          605226, 
+          622667, 
+          625336
+        ], 
+        "ne_latitude": 47.890, 
+        "ne_longitude": -0.410, 
+        "longitude": -0.442, 
+        "parent_woeid": 12654897, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Brice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.859, 
+        "sw_longitude": -0.468, 
+        "fullname": "St.-Brice, Pays de la Loire, Mayenne, France", 
+        "sw_latitude": 47.827
+      }, 
+      "id": 623347
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.903, 
+              45.780
+            ], 
+            [
+              0.903, 
+              45.789
+            ], 
+            [
+              0.916, 
+              45.789
+            ], 
+            [
+              0.916, 
+              45.780
+            ], 
+            [
+              0.903, 
+              45.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599279, 
+        "name": "La Nouzille", 
+        "adjacent_woeid": [
+          579872, 
+          623140, 
+          623645, 
+          630420
+        ], 
+        "ne_latitude": 45.789, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.916, 
+        "longitude": 0.909, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12659404, 
+        "latitude": 45.784, 
+        "sw_longitude": 0.903, 
+        "fullname": "La Nouzille, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.780
+      }, 
+      "id": 599279
+    }
+  ]
+}

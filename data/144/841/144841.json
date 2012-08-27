@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.110, 
+              22.541
+            ], 
+            [
+              -102.110, 
+              22.559
+            ], 
+            [
+              -102.090, 
+              22.559
+            ], 
+            [
+              -102.090, 
+              22.541
+            ], 
+            [
+              -102.110, 
+              22.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.559, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          123500, 
+          125765, 
+          133619, 
+          136250, 
+          146091
+        ], 
+        "woeid": 144841, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -102.090, 
+        "longitude": -102.100, 
+        "parent_woeid": 12602047, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.550, 
+        "sw_longitude": -102.110, 
+        "fullname": "San Pablo, Zacatecas, General Panfilo Natera, Mexico", 
+        "sw_latitude": 22.541
+      }, 
+      "id": 144841
+    }
+  ]
+}

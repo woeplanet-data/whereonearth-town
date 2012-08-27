@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.508, 
+              45.218
+            ], 
+            [
+              1.508, 
+              45.234
+            ], 
+            [
+              1.537, 
+              45.234
+            ], 
+            [
+              1.537, 
+              45.218
+            ], 
+            [
+              1.508, 
+              45.218
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 589021, 
+        "name": "Donzenac", 
+        "adjacent_woeid": [
+          620585, 
+          623001, 
+          627209, 
+          629093
+        ], 
+        "ne_latitude": 45.234, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.537, 
+        "longitude": 1.524, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12660612, 
+        "latitude": 45.228, 
+        "sw_longitude": 1.508, 
+        "fullname": "Donzenac, Limousin, Correze, France", 
+        "sw_latitude": 45.218
+      }, 
+      "id": 589021
+    }
+  ]
+}

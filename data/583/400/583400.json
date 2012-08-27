@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.802, 
+              50.034
+            ], 
+            [
+              1.802, 
+              50.043
+            ], 
+            [
+              1.816, 
+              50.043
+            ], 
+            [
+              1.816, 
+              50.034
+            ], 
+            [
+              1.802, 
+              50.034
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583400, 
+        "name": "Caumont", 
+        "adjacent_woeid": [
+          577856, 
+          581659, 
+          595026, 
+          608129, 
+          608137
+        ], 
+        "ne_latitude": 50.043, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.816, 
+        "longitude": 1.809, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "parent_woeid": 12658537, 
+        "latitude": 50.038, 
+        "sw_longitude": 1.802, 
+        "fullname": "Caumont, Picardie, Somme, France", 
+        "sw_latitude": 50.034
+      }, 
+      "id": 583400
+    }
+  ]
+}

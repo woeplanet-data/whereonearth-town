@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.232, 
+              19.204
+            ], 
+            [
+              -98.232, 
+              19.222
+            ], 
+            [
+              -98.213, 
+              19.222
+            ], 
+            [
+              -98.213, 
+              19.204
+            ], 
+            [
+              -98.232, 
+              19.204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.222, 
+        "name": "Quilehtla", 
+        "adjacent_woeid": [
+          111081, 
+          112762, 
+          119525, 
+          144618, 
+          146248
+        ], 
+        "woeid": 24550870, 
+        "alias_SPA_V": [
+          "Sta. Cruz Quilehtla"
+        ], 
+        "ne_longitude": -98.213, 
+        "longitude": -98.223, 
+        "parent_woeid": 24550676, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.213, 
+        "sw_longitude": -98.232, 
+        "fullname": "Quilehtla, Tlaxcala, Santa Cruz Quilehtla, Mexico", 
+        "sw_latitude": 19.204
+      }, 
+      "id": 24550870
+    }
+  ]
+}

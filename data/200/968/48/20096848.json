@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.343, 
+              47.245
+            ], 
+            [
+              15.343, 
+              47.255
+            ], 
+            [
+              15.357, 
+              47.255
+            ], 
+            [
+              15.357, 
+              47.245
+            ], 
+            [
+              15.343, 
+              47.245
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20096848, 
+        "name": "Pfannberg", 
+        "adjacent_woeid": [
+          549533, 
+          549883, 
+          549890, 
+          550127, 
+          20094645, 
+          20096160
+        ], 
+        "ne_latitude": 47.255, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.357, 
+        "longitude": 15.350, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:10Z", 
+        "parent_woeid": 12675316, 
+        "latitude": 47.250, 
+        "sw_longitude": 15.343, 
+        "fullname": "Pfannberg, Styria, Graz, Austria", 
+        "sw_latitude": 47.245
+      }, 
+      "id": 20096848
+    }
+  ]
+}

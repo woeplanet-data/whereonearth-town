@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.343, 
+              45.718
+            ], 
+            [
+              -111.343, 
+              45.778
+            ], 
+            [
+              -111.264, 
+              45.778
+            ], 
+            [
+              -111.264, 
+              45.718
+            ], 
+            [
+              -111.343, 
+              45.718
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2354404, 
+        "name": "Amsterdam", 
+        "adjacent_woeid": [
+          2371331, 
+          2375348, 
+          2423078, 
+          2518279
+        ], 
+        "ne_latitude": 45.778, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -111.264, 
+        "longitude": -111.320, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:22:09Z", 
+        "parent_woeid": 12589096, 
+        "latitude": 45.758, 
+        "sw_longitude": -111.343, 
+        "fullname": "Amsterdam, Montana, Gallatin, United States", 
+        "sw_latitude": 45.718
+      }, 
+      "id": 2354404
+    }
+  ]
+}

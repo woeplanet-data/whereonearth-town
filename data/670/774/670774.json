@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.901, 
+              48.727
+            ], 
+            [
+              10.901, 
+              48.766
+            ], 
+            [
+              10.929, 
+              48.766
+            ], 
+            [
+              10.929, 
+              48.727
+            ], 
+            [
+              10.901, 
+              48.727
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670774, 
+        "name": "Lechsend", 
+        "adjacent_woeid": [
+          641590, 
+          643557, 
+          649482, 
+          653825, 
+          693861
+        ], 
+        "ne_latitude": 48.766, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.929, 
+        "longitude": 10.912, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:19Z", 
+        "parent_woeid": 12635003, 
+        "latitude": 48.742, 
+        "sw_longitude": 10.901, 
+        "fullname": "Lechsend, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.727
+      }, 
+      "id": 670774
+    }
+  ]
+}

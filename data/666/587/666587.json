@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.964, 
+              53.072
+            ], 
+            [
+              7.964, 
+              53.117
+            ], 
+            [
+              8.089, 
+              53.117
+            ], 
+            [
+              8.089, 
+              53.072
+            ], 
+            [
+              7.964, 
+              53.072
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666587, 
+        "name": "Klein Scharrel", 
+        "adjacent_woeid": [
+          650756, 
+          20167665, 
+          20168325, 
+          29350659
+        ], 
+        "ne_latitude": 53.117, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.089, 
+        "longitude": 8.076, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12629828, 
+        "latitude": 53.102, 
+        "sw_longitude": 7.964, 
+        "fullname": "Klein Scharrel, Lower Saxony, Ammerland, Germany", 
+        "sw_latitude": 53.072
+      }, 
+      "id": 666587
+    }
+  ]
+}

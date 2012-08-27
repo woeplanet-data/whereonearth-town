@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              25.511, 
+              64.016
+            ], 
+            [
+              25.511, 
+              64.051
+            ], 
+            [
+              25.589, 
+              64.051
+            ], 
+            [
+              25.589, 
+              64.016
+            ], 
+            [
+              25.511, 
+              64.016
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FIN", 
+        "woeid": 567600, 
+        "name": "Koirikivi", 
+        "adjacent_woeid": [
+          564083, 
+          566324, 
+          570580
+        ], 
+        "ne_latitude": 64.051, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 25.589, 
+        "longitude": 25.550, 
+        "placetype": "Town", 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:40:17Z", 
+        "parent_woeid": 12590833, 
+        "latitude": 64.033, 
+        "sw_longitude": 25.511, 
+        "fullname": "Koirikivi, Oulu Province, Northern Ostrobothnia, Finland", 
+        "sw_latitude": 64.016
+      }, 
+      "id": 567600
+    }
+  ]
+}

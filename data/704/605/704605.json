@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.091, 
+              49.590
+            ], 
+            [
+              11.091, 
+              49.599
+            ], 
+            [
+              11.105, 
+              49.599
+            ], 
+            [
+              11.105, 
+              49.590
+            ], 
+            [
+              11.091, 
+              49.590
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704605, 
+        "name": "Weiher", 
+        "adjacent_woeid": [
+          642185, 
+          645296, 
+          688994, 
+          689585
+        ], 
+        "ne_latitude": 49.599, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.105, 
+        "longitude": 11.098, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12634459, 
+        "latitude": 49.595, 
+        "sw_longitude": 11.091, 
+        "fullname": "Weiher, Bavaria, Erlangen-H\u00f6chstadt, Germany", 
+        "sw_latitude": 49.590
+      }, 
+      "id": 704605
+    }
+  ]
+}

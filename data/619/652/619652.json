@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.230, 
+              45.002
+            ], 
+            [
+              5.230, 
+              45.053
+            ], 
+            [
+              5.277, 
+              45.053
+            ], 
+            [
+              5.277, 
+              45.002
+            ], 
+            [
+              5.230, 
+              45.002
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619652, 
+        "name": "Rochechinard", 
+        "adjacent_woeid": [
+          578820, 
+          596820, 
+          599174, 
+          626056
+        ], 
+        "ne_latitude": 45.053, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.277, 
+        "longitude": 5.253, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 12669030, 
+        "latitude": 45.034, 
+        "sw_longitude": 5.230, 
+        "fullname": "Rochechinard, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 45.002
+      }, 
+      "id": 619652
+    }
+  ]
+}

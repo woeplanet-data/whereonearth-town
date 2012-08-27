@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.502, 
+              47.623
+            ], 
+            [
+              0.502, 
+              47.680
+            ], 
+            [
+              0.547, 
+              47.680
+            ], 
+            [
+              0.547, 
+              47.623
+            ], 
+            [
+              0.502, 
+              47.623
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631613, 
+        "name": "Villebourg", 
+        "adjacent_woeid": [
+          588807, 
+          589752, 
+          623496, 
+          15002978
+        ], 
+        "ne_latitude": 47.680, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.547, 
+        "longitude": 0.529, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12654392, 
+        "latitude": 47.650, 
+        "sw_longitude": 0.502, 
+        "fullname": "Villebourg, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.623
+      }, 
+      "id": 631613
+    }
+  ]
+}

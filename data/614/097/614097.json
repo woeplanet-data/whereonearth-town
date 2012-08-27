@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.404, 
+              47.904
+            ], 
+            [
+              3.404, 
+              47.934
+            ], 
+            [
+              3.456, 
+              47.934
+            ], 
+            [
+              3.456, 
+              47.904
+            ], 
+            [
+              3.404, 
+              47.904
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614097, 
+        "name": "Neuilly", 
+        "adjacent_woeid": [
+          581578, 
+          584295, 
+          584305, 
+          589796, 
+          593959, 
+          603092, 
+          631759
+        ], 
+        "ne_latitude": 47.934, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.456, 
+        "longitude": 3.439, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12649925, 
+        "latitude": 47.916, 
+        "sw_longitude": 3.404, 
+        "fullname": "Neuilly, Burgundy, Yonne, France", 
+        "sw_latitude": 47.904
+      }, 
+      "id": 614097
+    }
+  ]
+}

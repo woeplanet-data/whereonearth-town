@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.699, 
+              49.267
+            ], 
+            [
+              10.699, 
+              49.285
+            ], 
+            [
+              10.726, 
+              49.285
+            ], 
+            [
+              10.726, 
+              49.267
+            ], 
+            [
+              10.699, 
+              49.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703785, 
+        "name": "Waltendorf", 
+        "adjacent_woeid": [
+          642791, 
+          659380, 
+          663429, 
+          673599
+        ], 
+        "ne_latitude": 49.285, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.726, 
+        "longitude": 10.713, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12634411, 
+        "latitude": 49.276, 
+        "sw_longitude": 10.699, 
+        "fullname": "Waltendorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.267
+      }, 
+      "id": 703785
+    }
+  ]
+}

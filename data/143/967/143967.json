@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.077, 
+              24.158
+            ], 
+            [
+              -100.077, 
+              24.176
+            ], 
+            [
+              -100.057, 
+              24.176
+            ], 
+            [
+              -100.057, 
+              24.158
+            ], 
+            [
+              -100.077, 
+              24.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.176, 
+        "name": "San Juan Nepomuceno", 
+        "adjacent_woeid": [
+          123530, 
+          127274, 
+          128881, 
+          129430, 
+          129607, 
+          130853, 
+          137702
+        ], 
+        "woeid": 143967, 
+        "alias_SPA_V": [
+          "S Juan Nepomuceno"
+        ], 
+        "ne_longitude": -100.057, 
+        "longitude": -100.067, 
+        "parent_woeid": 12600611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.167, 
+        "sw_longitude": -100.077, 
+        "fullname": "San Juan Nepomuceno, Nuevo Leon, Aramberri, Mexico", 
+        "sw_latitude": 24.158
+      }, 
+      "id": 143967
+    }
+  ]
+}

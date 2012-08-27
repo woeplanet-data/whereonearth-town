@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.901, 
+              43.884
+            ], 
+            [
+              0.901, 
+              43.905
+            ], 
+            [
+              0.940, 
+              43.905
+            ], 
+            [
+              0.940, 
+              43.884
+            ], 
+            [
+              0.901, 
+              43.884
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593005, 
+        "name": "Glatens", 
+        "adjacent_woeid": [
+          583302, 
+          590051, 
+          592868, 
+          601068, 
+          610566
+        ], 
+        "ne_latitude": 43.905, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.940, 
+        "longitude": 0.916, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12662156, 
+        "latitude": 43.893, 
+        "sw_longitude": 0.901, 
+        "fullname": "Glatens, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.884
+      }, 
+      "id": 593005
+    }
+  ]
+}

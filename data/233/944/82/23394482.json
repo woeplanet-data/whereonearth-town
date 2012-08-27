@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.346, 
+              45.609
+            ], 
+            [
+              -73.346, 
+              45.688
+            ], 
+            [
+              -73.257, 
+              45.688
+            ], 
+            [
+              -73.257, 
+              45.609
+            ], 
+            [
+              -73.346, 
+              45.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394482, 
+        "name": "St.-Amable", 
+        "adjacent_woeid": [
+          1422, 
+          23394592, 
+          23394594, 
+          23396470
+        ], 
+        "ne_latitude": 45.688, 
+        "ne_longitude": -73.257, 
+        "longitude": -73.300, 
+        "parent_woeid": 29375052, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Amable"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.656, 
+        "sw_longitude": -73.346, 
+        "fullname": "St.-Amable, Quebec, Lajemmerais, Canada", 
+        "sw_latitude": 45.609
+      }, 
+      "id": 23394482
+    }
+  ]
+}

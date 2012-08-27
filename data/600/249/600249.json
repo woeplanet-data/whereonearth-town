@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.747, 
+              45.517
+            ], 
+            [
+              0.747, 
+              45.549
+            ], 
+            [
+              0.776, 
+              45.549
+            ], 
+            [
+              0.776, 
+              45.517
+            ], 
+            [
+              0.747, 
+              45.517
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600249, 
+        "name": "La Valade", 
+        "adjacent_woeid": [
+          575336, 
+          584344, 
+          621392, 
+          626228
+        ], 
+        "ne_latitude": 45.549, 
+        "ne_longitude": 0.776, 
+        "longitude": 0.767, 
+        "parent_woeid": 12640990, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lavellade"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.533, 
+        "sw_longitude": 0.747, 
+        "fullname": "La Valade, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.517
+      }, 
+      "id": 600249
+    }
+  ]
+}

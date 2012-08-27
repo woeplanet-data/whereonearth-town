@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.610, 
+              22.458
+            ], 
+            [
+              -99.610, 
+              22.476
+            ], 
+            [
+              -99.590, 
+              22.476
+            ], 
+            [
+              -99.590, 
+              22.458
+            ], 
+            [
+              -99.610, 
+              22.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.476, 
+        "name": "San Juan del Llano", 
+        "adjacent_woeid": [
+          111985, 
+          114720, 
+          131466, 
+          135838, 
+          135953, 
+          136952
+        ], 
+        "woeid": 143915, 
+        "alias_SPA_V": [
+          "S Juan del Llano"
+        ], 
+        "ne_longitude": -99.590, 
+        "longitude": -99.600, 
+        "parent_woeid": 12601480, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.467, 
+        "sw_longitude": -99.610, 
+        "fullname": "San Juan del Llano, San Luis Potosi, Ciudad del Maiz, Mexico", 
+        "sw_latitude": 22.458
+      }, 
+      "id": 143915
+    }
+  ]
+}

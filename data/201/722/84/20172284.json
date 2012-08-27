@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.206, 
+              48.405
+            ], 
+            [
+              12.206, 
+              48.423
+            ], 
+            [
+              12.233, 
+              48.423
+            ], 
+            [
+              12.233, 
+              48.405
+            ], 
+            [
+              12.206, 
+              48.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20172284, 
+        "name": "Hof", 
+        "adjacent_woeid": [
+          670859, 
+          682217, 
+          701044, 
+          20154324, 
+          20154326
+        ], 
+        "ne_latitude": 48.423, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.233, 
+        "longitude": 12.219, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12622903, 
+        "latitude": 48.414, 
+        "sw_longitude": 12.206, 
+        "fullname": "Hof, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.405
+      }, 
+      "id": 20172284
+    }
+  ]
+}

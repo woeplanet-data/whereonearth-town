@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.879, 
+              47.611
+            ], 
+            [
+              12.879, 
+              47.620
+            ], 
+            [
+              12.899, 
+              47.620
+            ], 
+            [
+              12.899, 
+              47.611
+            ], 
+            [
+              12.879, 
+              47.611
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 698683, 
+        "name": "Taubensee", 
+        "adjacent_woeid": [
+          635260, 
+          693651, 
+          20152249, 
+          20152285
+        ], 
+        "ne_latitude": 47.620, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.899, 
+        "longitude": 12.886, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:28Z", 
+        "parent_woeid": 12635756, 
+        "latitude": 47.616, 
+        "sw_longitude": 12.879, 
+        "fullname": "Taubensee, Bavaria, Berchtesgadener Land, Germany", 
+        "sw_latitude": 47.611
+      }, 
+      "id": 698683
+    }
+  ]
+}

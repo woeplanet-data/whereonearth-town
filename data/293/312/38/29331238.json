@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.502, 
+              45.958
+            ], 
+            [
+              0.502, 
+              45.976
+            ], 
+            [
+              0.528, 
+              45.976
+            ], 
+            [
+              0.528, 
+              45.958
+            ], 
+            [
+              0.502, 
+              45.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331238, 
+        "name": "La Malandri", 
+        "adjacent_woeid": [
+          625117, 
+          22657203, 
+          29331240
+        ], 
+        "ne_latitude": 45.976, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.528, 
+        "longitude": 0.515, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12655157, 
+        "latitude": 45.967, 
+        "sw_longitude": 0.502, 
+        "fullname": "La Malandri, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.958
+      }, 
+      "id": 29331238
+    }
+  ]
+}

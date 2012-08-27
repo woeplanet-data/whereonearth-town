@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.993, 
+              21.124
+            ], 
+            [
+              -103.993, 
+              21.142
+            ], 
+            [
+              -103.974, 
+              21.142
+            ], 
+            [
+              -103.974, 
+              21.124
+            ], 
+            [
+              -103.993, 
+              21.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.142, 
+        "name": "San Pedro Analco", 
+        "adjacent_woeid": [
+          122691, 
+          129658, 
+          129697, 
+          132130, 
+          150175
+        ], 
+        "woeid": 145029, 
+        "alias_SPA_V": [
+          "S Pedro Analco"
+        ], 
+        "ne_longitude": -103.974, 
+        "longitude": -103.983, 
+        "parent_woeid": 12600288, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.133, 
+        "sw_longitude": -103.993, 
+        "fullname": "San Pedro Analco, Jalisco, Tequila, Mexico", 
+        "sw_latitude": 21.124
+      }, 
+      "id": 145029
+    }
+  ]
+}

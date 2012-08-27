@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.859, 
+              15.274
+            ], 
+            [
+              -92.859, 
+              15.292
+            ], 
+            [
+              -92.841, 
+              15.292
+            ], 
+            [
+              -92.841, 
+              15.274
+            ], 
+            [
+              -92.859, 
+              15.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.292, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          123685, 
+          125930, 
+          128600, 
+          129521, 
+          130403, 
+          130617, 
+          132039, 
+          133135, 
+          147669
+        ], 
+        "woeid": 146108, 
+        "alias_SPA_V": [
+          "Sta. Elena"
+        ], 
+        "ne_longitude": -92.841, 
+        "longitude": -92.850, 
+        "parent_woeid": 12599710, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.283, 
+        "sw_longitude": -92.859, 
+        "fullname": "Santa Elena, Chiapas, Acapetahua, Mexico", 
+        "sw_latitude": 15.274
+      }, 
+      "id": 146108
+    }
+  ]
+}

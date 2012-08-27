@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.173, 
+              48.011
+            ], 
+            [
+              0.173, 
+              48.058
+            ], 
+            [
+              0.210, 
+              48.058
+            ], 
+            [
+              0.210, 
+              48.011
+            ], 
+            [
+              0.173, 
+              48.011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003221, 
+        "name": "St.-Pavace", 
+        "adjacent_woeid": [
+          600206, 
+          614205, 
+          626840
+        ], 
+        "ne_latitude": 48.058, 
+        "ne_longitude": 0.210, 
+        "longitude": 0.188, 
+        "parent_woeid": 12673180, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pavace"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.038, 
+        "sw_longitude": 0.173, 
+        "fullname": "St.-Pavace, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.011
+      }, 
+      "id": 15003221
+    }
+  ]
+}

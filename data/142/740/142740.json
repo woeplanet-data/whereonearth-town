@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.559, 
+              20.185
+            ], 
+            [
+              -102.559, 
+              20.203
+            ], 
+            [
+              -102.540, 
+              20.203
+            ], 
+            [
+              -102.540, 
+              20.185
+            ], 
+            [
+              -102.559, 
+              20.185
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.203, 
+        "name": "San Gregorio", 
+        "adjacent_woeid": [
+          118013, 
+          125322, 
+          126347, 
+          128138, 
+          135506, 
+          136483
+        ], 
+        "woeid": 142740, 
+        "alias_SPA_V": [
+          "S Gregorio"
+        ], 
+        "ne_longitude": -102.540, 
+        "longitude": -102.549, 
+        "parent_woeid": 12600505, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.194, 
+        "sw_longitude": -102.559, 
+        "fullname": "San Gregorio, Michoacan de Ocampo, Pajacuaran, Mexico", 
+        "sw_latitude": 20.185
+      }, 
+      "id": 142740
+    }
+  ]
+}

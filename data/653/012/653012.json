@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.817, 
+              49.954
+            ], 
+            [
+              10.817, 
+              49.990
+            ], 
+            [
+              10.846, 
+              49.990
+            ], 
+            [
+              10.846, 
+              49.954
+            ], 
+            [
+              10.817, 
+              49.954
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 653012, 
+        "name": "Godeldorf", 
+        "adjacent_woeid": [
+          635346, 
+          645276, 
+          685977, 
+          20172880
+        ], 
+        "ne_latitude": 49.990, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.846, 
+        "longitude": 10.825, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12635224, 
+        "latitude": 49.975, 
+        "sw_longitude": 10.817, 
+        "fullname": "Godeldorf, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.954
+      }, 
+      "id": 653012
+    }
+  ]
+}

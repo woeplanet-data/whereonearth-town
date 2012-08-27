@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.265, 
+              43.748
+            ], 
+            [
+              1.265, 
+              43.800
+            ], 
+            [
+              1.311, 
+              43.800
+            ], 
+            [
+              1.311, 
+              43.748
+            ], 
+            [
+              1.265, 
+              43.748
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593708, 
+        "name": "Grenade", 
+        "adjacent_woeid": [
+          577120, 
+          577370, 
+          580087, 
+          582621, 
+          590799, 
+          592219, 
+          593822, 
+          601700, 
+          607861, 
+          611187, 
+          614979, 
+          623414, 
+          624891, 
+          630675, 
+          15003162, 
+          20192756, 
+          20192883
+        ], 
+        "ne_latitude": 43.800, 
+        "ne_longitude": 1.311, 
+        "longitude": 1.294, 
+        "parent_woeid": 12662364, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Grenade-sur-Garonne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.771, 
+        "sw_longitude": 1.265, 
+        "fullname": "Grenade, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.748
+      }, 
+      "id": 593708
+    }
+  ]
+}

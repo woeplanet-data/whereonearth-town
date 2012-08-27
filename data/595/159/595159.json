@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.704, 
+              49.316
+            ], 
+            [
+              0.704, 
+              49.346
+            ], 
+            [
+              0.741, 
+              49.346
+            ], 
+            [
+              0.741, 
+              49.316
+            ], 
+            [
+              0.704, 
+              49.316
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595159, 
+        "name": "Illeville-sur-Montfort", 
+        "adjacent_woeid": [
+          576342, 
+          581135, 
+          581789, 
+          589367, 
+          591048, 
+          629022, 
+          15003073
+        ], 
+        "ne_latitude": 49.346, 
+        "ne_longitude": 0.741, 
+        "longitude": 0.727, 
+        "parent_woeid": 12645344, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Illeville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.327, 
+        "sw_longitude": 0.704, 
+        "fullname": "Illeville-sur-Montfort, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.316
+      }, 
+      "id": 595159
+    }
+  ]
+}

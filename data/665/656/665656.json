@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.566, 
+              48.544
+            ], 
+            [
+              10.566, 
+              48.594
+            ], 
+            [
+              10.616, 
+              48.594
+            ], 
+            [
+              10.616, 
+              48.544
+            ], 
+            [
+              10.566, 
+              48.544
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665656, 
+        "name": "Kicklingen", 
+        "adjacent_woeid": [
+          639025, 
+          650912, 
+          696923, 
+          709301
+        ], 
+        "ne_latitude": 48.594, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.616, 
+        "longitude": 10.598, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12634802, 
+        "latitude": 48.568, 
+        "sw_longitude": 10.566, 
+        "fullname": "Kicklingen, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.544
+      }, 
+      "id": 665656
+    }
+  ]
+}

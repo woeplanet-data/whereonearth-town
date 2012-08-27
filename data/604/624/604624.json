@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.926, 
+              47.923
+            ], 
+            [
+              0.926, 
+              47.942
+            ], 
+            [
+              0.944, 
+              47.942
+            ], 
+            [
+              0.944, 
+              47.923
+            ], 
+            [
+              0.926, 
+              47.923
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604624, 
+        "name": "Le Temple", 
+        "adjacent_woeid": [
+          578598, 
+          585950, 
+          587011, 
+          588501, 
+          589838, 
+          621035, 
+          625422, 
+          20186631
+        ], 
+        "ne_latitude": 47.942, 
+        "ne_longitude": 0.944, 
+        "longitude": 0.935, 
+        "parent_woeid": 12647666, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Temple"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.933, 
+        "sw_longitude": 0.926, 
+        "fullname": "Le Temple, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.923
+      }, 
+      "id": 604624
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.785, 
+              43.728
+            ], 
+            [
+              0.785, 
+              43.757
+            ], 
+            [
+              0.834, 
+              43.757
+            ], 
+            [
+              0.834, 
+              43.728
+            ], 
+            [
+              0.785, 
+              43.728
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609708, 
+        "name": "Mansempuy", 
+        "adjacent_woeid": [
+          609767, 
+          618416, 
+          623005, 
+          15003170
+        ], 
+        "ne_latitude": 43.757, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.834, 
+        "longitude": 0.814, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12666149, 
+        "latitude": 43.739, 
+        "sw_longitude": 0.785, 
+        "fullname": "Mansempuy, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.728
+      }, 
+      "id": 609708
+    }
+  ]
+}

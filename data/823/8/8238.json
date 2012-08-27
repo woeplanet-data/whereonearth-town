@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -116.775, 
+              53.545
+            ], 
+            [
+              -116.775, 
+              53.555
+            ], 
+            [
+              -116.759, 
+              53.555
+            ], 
+            [
+              -116.759, 
+              53.545
+            ], 
+            [
+              -116.775, 
+              53.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 8238, 
+        "name": "Marlboro", 
+        "adjacent_woeid": [
+          8418, 
+          8439, 
+          8441, 
+          8444, 
+          23403962
+        ], 
+        "ne_latitude": 53.555, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -116.759, 
+        "longitude": -116.767, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:22:50Z", 
+        "parent_woeid": 29375228, 
+        "latitude": 53.550, 
+        "sw_longitude": -116.775, 
+        "fullname": "Marlboro, Alberta, Alberta, Canada", 
+        "sw_latitude": 53.545
+      }, 
+      "id": 8238
+    }
+  ]
+}

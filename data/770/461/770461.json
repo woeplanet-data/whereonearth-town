@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.900, 
+              42.294
+            ], 
+            [
+              2.900, 
+              42.338
+            ], 
+            [
+              2.953, 
+              42.338
+            ], 
+            [
+              2.953, 
+              42.294
+            ], 
+            [
+              2.900, 
+              42.294
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.338, 
+        "name": "Pont de Molins", 
+        "adjacent_woeid": [
+          754951, 
+          759871, 
+          765352, 
+          766712, 
+          778904, 
+          779317
+        ], 
+        "woeid": 770461, 
+        "alias_SPA_V": [
+          "Pont de Mol\u00edns"
+        ], 
+        "ne_longitude": 2.953, 
+        "longitude": 2.930, 
+        "parent_woeid": 12693810, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:10Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.314, 
+        "sw_longitude": 2.900, 
+        "fullname": "Pont de Molins, Catalonia, Gerona, Spain", 
+        "sw_latitude": 42.294
+      }, 
+      "id": 770461
+    }
+  ]
+}

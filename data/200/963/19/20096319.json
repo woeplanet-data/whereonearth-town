@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.142, 
+              47.985
+            ], 
+            [
+              15.142, 
+              48.001
+            ], 
+            [
+              15.165, 
+              48.001
+            ], 
+            [
+              15.165, 
+              47.985
+            ], 
+            [
+              15.142, 
+              47.985
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20096319, 
+        "name": "Lueggraben", 
+        "adjacent_woeid": [
+          541263, 
+          541670, 
+          20095259, 
+          28995744
+        ], 
+        "ne_latitude": 48.001, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.165, 
+        "longitude": 15.153, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:09Z", 
+        "parent_woeid": 12673840, 
+        "latitude": 47.993, 
+        "sw_longitude": 15.142, 
+        "fullname": "Lueggraben, Lower Austria, Scheibbs, Austria", 
+        "sw_latitude": 47.985
+      }, 
+      "id": 20096319
+    }
+  ]
+}

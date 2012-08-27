@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.732, 
+              49.714
+            ], 
+            [
+              1.732, 
+              49.743
+            ], 
+            [
+              1.751, 
+              49.743
+            ], 
+            [
+              1.751, 
+              49.714
+            ], 
+            [
+              1.732, 
+              49.714
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627188, 
+        "name": "St.-Valery", 
+        "adjacent_woeid": [
+          594388, 
+          601325, 
+          20218381
+        ], 
+        "ne_latitude": 49.743, 
+        "ne_longitude": 1.751, 
+        "longitude": 1.737, 
+        "parent_woeid": 22757368, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Valery"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.727, 
+        "sw_longitude": 1.732, 
+        "fullname": "St.-Valery, Picardie, Oise, France", 
+        "alias_FRE_S": [
+          "Saint-Valery-sur-Bresle"
+        ], 
+        "sw_latitude": 49.714
+      }, 
+      "id": 627188
+    }
+  ]
+}

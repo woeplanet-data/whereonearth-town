@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.371, 
+              44.535
+            ], 
+            [
+              0.371, 
+              44.579
+            ], 
+            [
+              0.407, 
+              44.579
+            ], 
+            [
+              0.407, 
+              44.535
+            ], 
+            [
+              0.371, 
+              44.535
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 576645, 
+        "name": "Armillac", 
+        "adjacent_woeid": [
+          601425, 
+          601877, 
+          612741, 
+          623191
+        ], 
+        "ne_latitude": 44.579, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.407, 
+        "longitude": 0.386, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12637384, 
+        "latitude": 44.558, 
+        "sw_longitude": 0.371, 
+        "fullname": "Armillac, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.535
+      }, 
+      "id": 576645
+    }
+  ]
+}

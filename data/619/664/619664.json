@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.000, 
+              45.904
+            ], 
+            [
+              -1.000, 
+              45.966
+            ], 
+            [
+              -0.923, 
+              45.966
+            ], 
+            [
+              -0.923, 
+              45.904
+            ], 
+            [
+              -1.000, 
+              45.904
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619664, 
+        "name": "Rochefort", 
+        "adjacent_woeid": [
+          581861, 
+          589411, 
+          591741, 
+          608430, 
+          622481, 
+          622786, 
+          624612, 
+          626058, 
+          628771, 
+          630695, 
+          29330679, 
+          29331169
+        ], 
+        "ne_latitude": 45.966, 
+        "alias_SPA_Q": [
+          "Roquefort"
+        ], 
+        "ne_longitude": -0.923, 
+        "longitude": -0.959, 
+        "parent_woeid": 12666364, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Rochefort-sur-Mer"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.935, 
+        "sw_longitude": -1.000, 
+        "fullname": "Rochefort, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.904
+      }, 
+      "id": 619664
+    }
+  ]
+}

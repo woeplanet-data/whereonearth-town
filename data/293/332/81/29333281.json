@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.037, 
+              48.612
+            ], 
+            [
+              4.037, 
+              48.630
+            ], 
+            [
+              4.064, 
+              48.630
+            ], 
+            [
+              4.064, 
+              48.612
+            ], 
+            [
+              4.037, 
+              48.612
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333281, 
+        "name": "Maison-Voisine", 
+        "adjacent_woeid": [
+          584249, 
+          594677, 
+          620808, 
+          631086, 
+          631087, 
+          632212
+        ], 
+        "ne_latitude": 48.630, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.064, 
+        "longitude": 4.051, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "parent_woeid": 12640940, 
+        "latitude": 48.621, 
+        "sw_longitude": 4.037, 
+        "fullname": "Maison-Voisine, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.612
+      }, 
+      "id": 29333281
+    }
+  ]
+}

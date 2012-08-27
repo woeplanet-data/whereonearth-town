@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.492, 
+              45.482
+            ], 
+            [
+              -74.492, 
+              45.500
+            ], 
+            [
+              -74.466, 
+              45.500
+            ], 
+            [
+              -74.466, 
+              45.482
+            ], 
+            [
+              -74.492, 
+              45.482
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 29374298, 
+        "name": "East Hawkesbury", 
+        "adjacent_woeid": [
+          3536, 
+          23396620, 
+          23397101, 
+          23401259
+        ], 
+        "ne_latitude": 45.500, 
+        "ne_longitude": -74.466, 
+        "longitude": -74.479, 
+        "parent_woeid": 29375250, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Hawkesbury Est"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.491, 
+        "sw_longitude": -74.492, 
+        "fullname": "East Hawkesbury, Ontario, Prescott and Russell, Canada", 
+        "sw_latitude": 45.482
+      }, 
+      "id": 29374298
+    }
+  ]
+}

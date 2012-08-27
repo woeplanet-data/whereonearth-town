@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -81.263, 
+              44.969
+            ], 
+            [
+              -81.263, 
+              44.987
+            ], 
+            [
+              -81.237, 
+              44.987
+            ], 
+            [
+              -81.237, 
+              44.969
+            ], 
+            [
+              -81.263, 
+              44.969
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 29374108, 
+        "name": "Northern Bruce Peninsula", 
+        "adjacent_woeid": [
+          867, 
+          23397701, 
+          23400877, 
+          29374549
+        ], 
+        "ne_latitude": 44.987, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -81.237, 
+        "longitude": -81.250, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:35Z", 
+        "parent_woeid": 29375185, 
+        "latitude": 44.978, 
+        "sw_longitude": -81.263, 
+        "fullname": "Northern Bruce Peninsula, Ontario, Bruce, Canada", 
+        "sw_latitude": 44.969
+      }, 
+      "id": 29374108
+    }
+  ]
+}

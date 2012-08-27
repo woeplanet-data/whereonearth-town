@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -7.349, 
+              42.899
+            ], 
+            [
+              -7.349, 
+              42.938
+            ], 
+            [
+              -7.332, 
+              42.938
+            ], 
+            [
+              -7.332, 
+              42.899
+            ], 
+            [
+              -7.349, 
+              42.899
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.938, 
+        "name": "Sobrado", 
+        "adjacent_woeid": [
+          760872, 
+          770068, 
+          55866111, 
+          55866309, 
+          55866636, 
+          55866951, 
+          55965706
+        ], 
+        "woeid": 774666, 
+        "alias_SPA_V": [
+          "Sobredo"
+        ], 
+        "ne_longitude": -7.332, 
+        "longitude": -7.333, 
+        "parent_woeid": 12694800, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.917, 
+        "sw_longitude": -7.349, 
+        "fullname": "Sobrado, Galicia, Lugo, Spain", 
+        "sw_latitude": 42.899
+      }, 
+      "id": 774666
+    }
+  ]
+}

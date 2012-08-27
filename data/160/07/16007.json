@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.543, 
+              51.629
+            ], 
+            [
+              -0.543, 
+              51.671
+            ], 
+            [
+              -0.489, 
+              51.671
+            ], 
+            [
+              -0.489, 
+              51.629
+            ], 
+            [
+              -0.543, 
+              51.629
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 16007, 
+        "name": "Chorleywood", 
+        "adjacent_woeid": [
+          15800, 
+          23085, 
+          26429, 
+          28278
+        ], 
+        "ne_latitude": 51.671, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.489, 
+        "longitude": -0.523, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:13Z", 
+        "parent_woeid": 12695982, 
+        "latitude": 51.653, 
+        "sw_longitude": -0.543, 
+        "fullname": "Chorleywood, England, Hertfordshire, United Kingdom", 
+        "sw_latitude": 51.629
+      }, 
+      "id": 16007
+    }
+  ]
+}

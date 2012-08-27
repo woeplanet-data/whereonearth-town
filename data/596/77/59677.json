@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -83.855, 
+              9.912
+            ], 
+            [
+              -83.855, 
+              9.921
+            ], 
+            [
+              -83.845, 
+              9.921
+            ], 
+            [
+              -83.845, 
+              9.912
+            ], 
+            [
+              -83.855, 
+              9.912
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.921, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          57853, 
+          57969, 
+          58164, 
+          58979, 
+          59108
+        ], 
+        "woeid": 59677, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -83.845, 
+        "longitude": -83.850, 
+        "parent_woeid": 26809267, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.917, 
+        "sw_longitude": -83.855, 
+        "fullname": "Santa Rosa, Cartago, Oreamuno, Costa Rica", 
+        "sw_latitude": 9.912
+      }, 
+      "id": 59677
+    }
+  ]
+}

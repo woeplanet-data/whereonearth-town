@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.200, 
+              49.279
+            ], 
+            [
+              0.200, 
+              49.320
+            ], 
+            [
+              0.230, 
+              49.320
+            ], 
+            [
+              0.230, 
+              49.279
+            ], 
+            [
+              0.200, 
+              49.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627882, 
+        "name": "Surville", 
+        "adjacent_woeid": [
+          587225, 
+          622911, 
+          624084, 
+          625014, 
+          631262
+        ], 
+        "ne_latitude": 49.320, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.230, 
+        "longitude": 0.212, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12653482, 
+        "latitude": 49.300, 
+        "sw_longitude": 0.200, 
+        "fullname": "Surville, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.279
+      }, 
+      "id": 627882
+    }
+  ]
+}

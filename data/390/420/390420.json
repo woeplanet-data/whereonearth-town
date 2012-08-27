@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.843, 
+              10.508
+            ], 
+            [
+              -66.843, 
+              10.526
+            ], 
+            [
+              -66.824, 
+              10.526
+            ], 
+            [
+              -66.824, 
+              10.508
+            ], 
+            [
+              -66.843, 
+              10.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.526, 
+        "name": "Los dos Caminos", 
+        "adjacent_woeid": [
+          382876, 
+          385470, 
+          392358, 
+          468419, 
+          468483, 
+          26808459, 
+          26808466
+        ], 
+        "woeid": 390420, 
+        "alias_SPA_V": [
+          "Dos Caminos"
+        ], 
+        "ne_longitude": -66.824, 
+        "longitude": -66.833, 
+        "parent_woeid": 26805217, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.517, 
+        "sw_longitude": -66.843, 
+        "fullname": "Los dos Caminos, Miranda, Sucre, Venezuela", 
+        "sw_latitude": 10.508
+      }, 
+      "id": 390420
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.590, 
+              -51.107
+            ], 
+            [
+              -72.590, 
+              -51.093
+            ], 
+            [
+              -72.567, 
+              -51.093
+            ], 
+            [
+              -72.567, 
+              -51.107
+            ], 
+            [
+              -72.590, 
+              -51.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -51.093, 
+        "name": "Torres del Paine", 
+        "adjacent_woeid": [
+          349945, 
+          350018, 
+          350102, 
+          350414
+        ], 
+        "woeid": 350152, 
+        "alias_SPA_V": [
+          "Torresdelpaine"
+        ], 
+        "ne_longitude": -72.567, 
+        "longitude": -72.578, 
+        "parent_woeid": 26794233, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -51.100, 
+        "sw_longitude": -72.590, 
+        "fullname": "Torres del Paine, Magallanes and Antartica Chilena Region, Ultima Esperanza Province, Chile", 
+        "sw_latitude": -51.107
+      }, 
+      "id": 350152
+    }
+  ]
+}

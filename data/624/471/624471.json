@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.002, 
+              47.650
+            ], 
+            [
+              1.002, 
+              47.680
+            ], 
+            [
+              1.036, 
+              47.680
+            ], 
+            [
+              1.036, 
+              47.650
+            ], 
+            [
+              1.002, 
+              47.650
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624471, 
+        "name": "St.-Gourgon", 
+        "adjacent_woeid": [
+          593091, 
+          623654, 
+          631628, 
+          20186467, 
+          20186469, 
+          20186479, 
+          29332327
+        ], 
+        "ne_latitude": 47.680, 
+        "ne_longitude": 1.036, 
+        "longitude": 1.017, 
+        "parent_woeid": 12652596, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gourgon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.661, 
+        "sw_longitude": 1.002, 
+        "fullname": "St.-Gourgon, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.650
+      }, 
+      "id": 624471
+    }
+  ]
+}

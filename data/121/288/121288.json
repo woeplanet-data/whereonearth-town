@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.410, 
+              18.558
+            ], 
+            [
+              -100.410, 
+              18.576
+            ], 
+            [
+              -100.390, 
+              18.576
+            ], 
+            [
+              -100.390, 
+              18.558
+            ], 
+            [
+              -100.410, 
+              18.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.576, 
+        "name": "El Palmar Grande", 
+        "adjacent_woeid": [
+          111975, 
+          133185, 
+          135600, 
+          141704, 
+          143382, 
+          145772, 
+          149577, 
+          151759
+        ], 
+        "woeid": 121288, 
+        "alias_SPA_V": [
+          "Palmar Grande"
+        ], 
+        "ne_longitude": -100.390, 
+        "longitude": -100.400, 
+        "parent_woeid": 12600424, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.567, 
+        "sw_longitude": -100.410, 
+        "fullname": "El Palmar Grande, Mexico, Tlatlaya, Mexico", 
+        "sw_latitude": 18.558
+      }, 
+      "id": 121288
+    }
+  ]
+}

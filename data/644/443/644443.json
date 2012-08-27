@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.133, 
+              49.545
+            ], 
+            [
+              12.133, 
+              49.566
+            ], 
+            [
+              12.151, 
+              49.566
+            ], 
+            [
+              12.151, 
+              49.545
+            ], 
+            [
+              12.133, 
+              49.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 644443, 
+        "name": "Diebrunn", 
+        "adjacent_woeid": [
+          649439, 
+          655451, 
+          665628, 
+          681564
+        ], 
+        "ne_latitude": 49.566, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.151, 
+        "longitude": 12.144, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:11Z", 
+        "parent_woeid": 12634312, 
+        "latitude": 49.552, 
+        "sw_longitude": 12.133, 
+        "fullname": "Diebrunn, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.545
+      }, 
+      "id": 644443
+    }
+  ]
+}

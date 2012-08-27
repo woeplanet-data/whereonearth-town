@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.375, 
+              46.499
+            ], 
+            [
+              6.375, 
+              46.517
+            ], 
+            [
+              6.401, 
+              46.517
+            ], 
+            [
+              6.401, 
+              46.499
+            ], 
+            [
+              6.375, 
+              46.499
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 784269, 
+        "name": "St.-Livres", 
+        "adjacent_woeid": [
+          781677, 
+          781818, 
+          784753, 
+          784872, 
+          784877, 
+          28996980
+        ], 
+        "ne_latitude": 46.517, 
+        "ne_longitude": 6.401, 
+        "longitude": 6.388, 
+        "parent_woeid": 12684438, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Livres"
+        ], 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:14Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.508, 
+        "sw_longitude": 6.375, 
+        "fullname": "St.-Livres, Canton of Vaud, Aubonne, Switzerland", 
+        "sw_latitude": 46.499
+      }, 
+      "id": 784269
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.697, 
+              43.015
+            ], 
+            [
+              -2.697, 
+              43.033
+            ], 
+            [
+              -2.679, 
+              43.033
+            ], 
+            [
+              -2.679, 
+              43.015
+            ], 
+            [
+              -2.697, 
+              43.015
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.033, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          759866
+        ], 
+        "woeid": 23416882, 
+        "alias_SPA_V": [
+          "S Juan"
+        ], 
+        "ne_longitude": -2.679, 
+        "longitude": -2.686, 
+        "parent_woeid": 12695255, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.023, 
+        "sw_longitude": -2.697, 
+        "fullname": "San Juan, Basque Country, Biscay, Spain", 
+        "sw_latitude": 43.015
+      }, 
+      "id": 23416882
+    }
+  ]
+}

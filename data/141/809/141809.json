@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.723, 
+              18.107
+            ], 
+            [
+              -91.723, 
+              18.121
+            ], 
+            [
+              -91.708, 
+              18.121
+            ], 
+            [
+              -91.708, 
+              18.107
+            ], 
+            [
+              -91.723, 
+              18.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.121, 
+        "name": "San Antonio de la Sabana", 
+        "adjacent_woeid": [
+          115466, 
+          117719, 
+          127465, 
+          129309, 
+          141493
+        ], 
+        "woeid": 141809, 
+        "alias_SPA_V": [
+          "S Antonio de la Sabana"
+        ], 
+        "ne_longitude": -91.708, 
+        "longitude": -91.716, 
+        "parent_woeid": 12599701, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.114, 
+        "sw_longitude": -91.723, 
+        "fullname": "San Antonio de la Sabana, Campeche, Carmen, Mexico", 
+        "sw_latitude": 18.107
+      }, 
+      "id": 141809
+    }
+  ]
+}

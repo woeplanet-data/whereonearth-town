@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.393, 
+              24.524
+            ], 
+            [
+              -106.393, 
+              24.542
+            ], 
+            [
+              -106.373, 
+              24.542
+            ], 
+            [
+              -106.373, 
+              24.524
+            ], 
+            [
+              -106.393, 
+              24.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.542, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          116595, 
+          121270, 
+          132356, 
+          140573, 
+          142914, 
+          146137, 
+          146386
+        ], 
+        "woeid": 145799, 
+        "alias_SPA_V": [
+          "Sta Catarina"
+        ], 
+        "ne_longitude": -106.373, 
+        "longitude": -106.383, 
+        "parent_woeid": 12599984, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.533, 
+        "sw_longitude": -106.393, 
+        "fullname": "Santa Catarina, Durango, Tamazula, Mexico", 
+        "sw_latitude": 24.524
+      }, 
+      "id": 145799
+    }
+  ]
+}

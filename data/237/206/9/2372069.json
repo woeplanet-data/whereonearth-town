@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.525, 
+              36.045
+            ], 
+            [
+              -79.525, 
+              36.131
+            ], 
+            [
+              -79.379, 
+              36.131
+            ], 
+            [
+              -79.379, 
+              36.045
+            ], 
+            [
+              -79.525, 
+              36.045
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2372069, 
+        "name": "Burlington", 
+        "adjacent_woeid": [
+          2352550, 
+          2353864, 
+          2361941, 
+          2375281, 
+          2399125, 
+          2410888, 
+          2410992, 
+          2412668, 
+          2413906, 
+          2418814, 
+          2448812, 
+          2476934, 
+          2480004, 
+          2489422, 
+          2495330, 
+          2503144, 
+          2524512
+        ], 
+        "ne_latitude": 36.131, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Burl"
+        ], 
+        "ne_longitude": -79.379, 
+        "longitude": -79.438, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:29Z", 
+        "parent_woeid": 12589374, 
+        "latitude": 36.097, 
+        "sw_longitude": -79.525, 
+        "fullname": "Burlington, North Carolina, Alamance, United States", 
+        "sw_latitude": 36.045
+      }, 
+      "id": 2372069
+    }
+  ]
+}

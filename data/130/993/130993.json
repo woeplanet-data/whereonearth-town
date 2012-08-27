@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.119, 
+              19.624
+            ], 
+            [
+              -97.119, 
+              19.652
+            ], 
+            [
+              -97.085, 
+              19.652
+            ], 
+            [
+              -97.085, 
+              19.624
+            ], 
+            [
+              -97.119, 
+              19.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.652, 
+        "name": "Las Vigas", 
+        "adjacent_woeid": [
+          110952, 
+          120805, 
+          127815, 
+          133991, 
+          148370, 
+          149533
+        ], 
+        "woeid": 130993, 
+        "alias_SPA_V": [
+          "Las Vigas de Ramirez"
+        ], 
+        "ne_longitude": -97.085, 
+        "longitude": -97.099, 
+        "parent_woeid": 12601818, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.633, 
+        "sw_longitude": -97.119, 
+        "fullname": "Las Vigas, Veracruz-Llave, Las Vigas de Ramirez, Mexico", 
+        "sw_latitude": 19.624
+      }, 
+      "id": 130993
+    }
+  ]
+}

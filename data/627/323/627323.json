@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.751, 
+              43.882
+            ], 
+            [
+              -0.751, 
+              43.922
+            ], 
+            [
+              -0.711, 
+              43.922
+            ], 
+            [
+              -0.711, 
+              43.882
+            ], 
+            [
+              -0.751, 
+              43.882
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627323, 
+        "name": "St.-Yaguen", 
+        "adjacent_woeid": [
+          579776, 
+          583043, 
+          583045, 
+          610840, 
+          615387, 
+          20197134
+        ], 
+        "ne_latitude": 43.922, 
+        "ne_longitude": -0.711, 
+        "longitude": -0.741, 
+        "parent_woeid": 12653321, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Yaguen"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.893, 
+        "sw_longitude": -0.751, 
+        "fullname": "St.-Yaguen, Aquitaine, Landes, France", 
+        "sw_latitude": 43.882
+      }, 
+      "id": 627323
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.023, 
+              42.474
+            ], 
+            [
+              2.023, 
+              42.497
+            ], 
+            [
+              2.063, 
+              42.497
+            ], 
+            [
+              2.063, 
+              42.474
+            ], 
+            [
+              2.023, 
+              42.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20204720, 
+        "name": "Via", 
+        "adjacent_woeid": [
+          580560, 
+          589530, 
+          590441, 
+          614815, 
+          20204719
+        ], 
+        "ne_latitude": 42.497, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.063, 
+        "longitude": 2.040, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12661523, 
+        "latitude": 42.489, 
+        "sw_longitude": 2.023, 
+        "fullname": "Via, Languedoc-Roussillon, Pyrenees-Orientales, France", 
+        "sw_latitude": 42.474
+      }, 
+      "id": 20204720
+    }
+  ]
+}

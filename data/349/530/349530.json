@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.275, 
+              -35.107
+            ], 
+            [
+              -71.275, 
+              -35.093
+            ], 
+            [
+              -71.258, 
+              -35.093
+            ], 
+            [
+              -71.258, 
+              -35.107
+            ], 
+            [
+              -71.275, 
+              -35.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -35.093, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          348420, 
+          348936, 
+          349060
+        ], 
+        "woeid": 349530, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -71.258, 
+        "longitude": -71.267, 
+        "parent_woeid": 26794239, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -35.100, 
+        "sw_longitude": -71.275, 
+        "fullname": "Santa Rosa, Maule Region, Curico Province, Chile", 
+        "sw_latitude": -35.107
+      }, 
+      "id": 349530
+    }
+  ]
+}

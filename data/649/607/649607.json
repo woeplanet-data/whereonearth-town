@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.711, 
+              52.915
+            ], 
+            [
+              8.711, 
+              52.944
+            ], 
+            [
+              8.739, 
+              52.944
+            ], 
+            [
+              8.739, 
+              52.915
+            ], 
+            [
+              8.711, 
+              52.915
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649607, 
+        "name": "Fesenfeld", 
+        "adjacent_woeid": [
+          649201, 
+          665098, 
+          695605, 
+          696867
+        ], 
+        "ne_latitude": 52.944, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.739, 
+        "longitude": 8.720, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12630061, 
+        "latitude": 52.930, 
+        "sw_longitude": 8.711, 
+        "fullname": "Fesenfeld, Lower Saxony, Landkreis Diepholz, Germany", 
+        "sw_latitude": 52.915
+      }, 
+      "id": 649607
+    }
+  ]
+}

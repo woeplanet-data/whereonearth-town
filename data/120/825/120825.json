@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.026, 
+              19.691
+            ], 
+            [
+              -100.026, 
+              19.709
+            ], 
+            [
+              -100.007, 
+              19.709
+            ], 
+            [
+              -100.007, 
+              19.691
+            ], 
+            [
+              -100.026, 
+              19.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.709, 
+        "name": "El Mayorazgo", 
+        "adjacent_woeid": [
+          141875, 
+          144810, 
+          145665, 
+          149579
+        ], 
+        "woeid": 120825, 
+        "alias_SPA_V": [
+          "Mayorazgo"
+        ], 
+        "ne_longitude": -100.007, 
+        "longitude": -100.017, 
+        "parent_woeid": 12600392, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.700, 
+        "sw_longitude": -100.026, 
+        "fullname": "El Mayorazgo, Mexico, San Felipe del Progreso, Mexico", 
+        "sw_latitude": 19.691
+      }, 
+      "id": 120825
+    }
+  ]
+}

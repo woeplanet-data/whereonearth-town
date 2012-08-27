@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.243, 
+              43.403
+            ], 
+            [
+              1.243, 
+              43.440
+            ], 
+            [
+              1.295, 
+              43.440
+            ], 
+            [
+              1.295, 
+              43.403
+            ], 
+            [
+              1.243, 
+              43.403
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624535, 
+        "name": "St.-Hilaire", 
+        "adjacent_woeid": [
+          601883, 
+          602874, 
+          607929, 
+          20193017, 
+          20193021, 
+          29331586
+        ], 
+        "ne_latitude": 43.440, 
+        "ne_longitude": 1.295, 
+        "longitude": 1.278, 
+        "parent_woeid": 12670562, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hilaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.422, 
+        "sw_longitude": 1.243, 
+        "fullname": "St.-Hilaire, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.403
+      }, 
+      "id": 624535
+    }
+  ]
+}

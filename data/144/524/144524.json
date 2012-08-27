@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.126, 
+              24.203
+            ], 
+            [
+              -105.126, 
+              24.221
+            ], 
+            [
+              -105.106, 
+              24.221
+            ], 
+            [
+              -105.106, 
+              24.203
+            ], 
+            [
+              -105.126, 
+              24.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.221, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          125614, 
+          128141, 
+          129789, 
+          140895
+        ], 
+        "woeid": 144524, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -105.106, 
+        "longitude": -105.116, 
+        "parent_woeid": 12599954, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.212, 
+        "sw_longitude": -105.126, 
+        "fullname": "San Miguel, Durango, Durango, Mexico", 
+        "sw_latitude": 24.203
+      }, 
+      "id": 144524
+    }
+  ]
+}

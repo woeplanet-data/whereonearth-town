@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.227, 
+              45.716
+            ], 
+            [
+              0.227, 
+              45.725
+            ], 
+            [
+              0.240, 
+              45.725
+            ], 
+            [
+              0.240, 
+              45.716
+            ], 
+            [
+              0.227, 
+              45.716
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20198611, 
+        "name": "La Simarde", 
+        "adjacent_woeid": [
+          20198612, 
+          29330795, 
+          29331234
+        ], 
+        "ne_latitude": 45.725, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.240, 
+        "longitude": 0.234, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12657855, 
+        "latitude": 45.720, 
+        "sw_longitude": 0.227, 
+        "fullname": "La Simarde, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.716
+      }, 
+      "id": 20198611
+    }
+  ]
+}

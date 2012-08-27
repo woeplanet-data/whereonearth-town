@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.637, 
+              47.325
+            ], 
+            [
+              4.637, 
+              47.354
+            ], 
+            [
+              4.668, 
+              47.354
+            ], 
+            [
+              4.668, 
+              47.325
+            ], 
+            [
+              4.637, 
+              47.325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625944, 
+        "name": "St.-Mesmin", 
+        "adjacent_woeid": [
+          577634, 
+          593056, 
+          593859, 
+          609793, 
+          622980, 
+          629587, 
+          20213653, 
+          29332075
+        ], 
+        "ne_latitude": 47.354, 
+        "ne_longitude": 4.668, 
+        "longitude": 4.653, 
+        "parent_woeid": 12642128, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mesmin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.341, 
+        "sw_longitude": 4.637, 
+        "fullname": "St.-Mesmin, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.325
+      }, 
+      "id": 625944
+    }
+  ]
+}

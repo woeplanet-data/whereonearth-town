@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.434, 
+              51.431
+            ], 
+            [
+              -2.434, 
+              51.440
+            ], 
+            [
+              -2.419, 
+              51.440
+            ], 
+            [
+              -2.419, 
+              51.431
+            ], 
+            [
+              -2.434, 
+              51.431
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 12123, 
+        "name": "Beach", 
+        "adjacent_woeid": [
+          22325, 
+          25832, 
+          36803, 
+          38797, 
+          40392
+        ], 
+        "ne_latitude": 51.440, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -2.419, 
+        "longitude": -2.426, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:17:20Z", 
+        "parent_woeid": 12696146, 
+        "latitude": 51.435, 
+        "sw_longitude": -2.434, 
+        "fullname": "Beach, England, Gloucestershire, United Kingdom", 
+        "sw_latitude": 51.431
+      }, 
+      "id": 12123
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.593, 
+              44.135
+            ], 
+            [
+              1.593, 
+              44.159
+            ], 
+            [
+              1.618, 
+              44.159
+            ], 
+            [
+              1.618, 
+              44.135
+            ], 
+            [
+              1.593, 
+              44.135
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623518, 
+        "name": "St.-Cirq", 
+        "adjacent_woeid": [
+          612512, 
+          613084
+        ], 
+        "ne_latitude": 44.159, 
+        "ne_longitude": 1.618, 
+        "longitude": 1.605, 
+        "parent_woeid": 12670277, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cirq"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.146, 
+        "sw_longitude": 1.593, 
+        "fullname": "St.-Cirq, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 44.135
+      }, 
+      "id": 623518
+    }
+  ]
+}

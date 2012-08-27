@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.522, 
+              48.526
+            ], 
+            [
+              11.522, 
+              48.544
+            ], 
+            [
+              11.549, 
+              48.544
+            ], 
+            [
+              11.549, 
+              48.526
+            ], 
+            [
+              11.522, 
+              48.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 697793, 
+        "name": "Streitdorf", 
+        "adjacent_woeid": [
+          646283, 
+          694628, 
+          704637
+        ], 
+        "ne_latitude": 48.544, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.549, 
+        "longitude": 11.536, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:28Z", 
+        "parent_woeid": 12634679, 
+        "latitude": 48.535, 
+        "sw_longitude": 11.522, 
+        "fullname": "Streitdorf, Bavaria, Landkreis Pfaffenhofen an der Ilm, Germany", 
+        "sw_latitude": 48.526
+      }, 
+      "id": 697793
+    }
+  ]
+}

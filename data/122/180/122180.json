@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.395, 
+              20.648
+            ], 
+            [
+              -101.395, 
+              20.666
+            ], 
+            [
+              -101.375, 
+              20.666
+            ], 
+            [
+              -101.375, 
+              20.648
+            ], 
+            [
+              -101.395, 
+              20.648
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.666, 
+        "name": "El Rosario", 
+        "adjacent_woeid": [
+          116724, 
+          130748
+        ], 
+        "woeid": 122180, 
+        "alias_SPA_V": [
+          "Rosario"
+        ], 
+        "ne_longitude": -101.375, 
+        "longitude": -101.385, 
+        "parent_woeid": 12600005, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.657, 
+        "sw_longitude": -101.395, 
+        "fullname": "El Rosario, Guanajuato, Irapuato, Mexico", 
+        "sw_latitude": 20.648
+      }, 
+      "id": 122180
+    }
+  ]
+}

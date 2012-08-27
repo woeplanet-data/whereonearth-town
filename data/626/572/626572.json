@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.922, 
+              48.333
+            ], 
+            [
+              5.922, 
+              48.357
+            ], 
+            [
+              5.967, 
+              48.357
+            ], 
+            [
+              5.967, 
+              48.333
+            ], 
+            [
+              5.922, 
+              48.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626572, 
+        "name": "St.-Prancher", 
+        "adjacent_woeid": [
+          575353, 
+          579859, 
+          588934, 
+          609167, 
+          15003151
+        ], 
+        "ne_latitude": 48.357, 
+        "ne_longitude": 5.967, 
+        "longitude": 5.956, 
+        "parent_woeid": 12671124, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Prancher"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.344, 
+        "sw_longitude": 5.922, 
+        "fullname": "St.-Prancher, Lorraine, Vosges, France", 
+        "sw_latitude": 48.333
+      }, 
+      "id": 626572
+    }
+  ]
+}

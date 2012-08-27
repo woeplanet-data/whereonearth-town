@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.456, 
+              39.490
+            ], 
+            [
+              2.456, 
+              39.532
+            ], 
+            [
+              2.509, 
+              39.532
+            ], 
+            [
+              2.509, 
+              39.490
+            ], 
+            [
+              2.456, 
+              39.490
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.532, 
+        "name": "Santa Ponsa", 
+        "adjacent_woeid": [
+          766303, 
+          15003419, 
+          20227305, 
+          20227590, 
+          22661063, 
+          55865881
+        ], 
+        "woeid": 773935, 
+        "alias_SPA_V": [
+          "Sta. Ponsa"
+        ], 
+        "ne_longitude": 2.509, 
+        "longitude": 2.492, 
+        "parent_woeid": 12687716, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.519, 
+        "sw_longitude": 2.456, 
+        "fullname": "Santa Ponsa, Balearic Islands, Baleares, Spain", 
+        "sw_latitude": 39.490
+      }, 
+      "id": 773935
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.901, 
+              13.992
+            ], 
+            [
+              -88.901, 
+              14.006
+            ], 
+            [
+              -88.886, 
+              14.006
+            ], 
+            [
+              -88.886, 
+              13.992
+            ], 
+            [
+              -88.901, 
+              13.992
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.006, 
+        "name": "San Antonio Los Ranchos", 
+        "adjacent_woeid": [
+          77029, 
+          79307, 
+          79577, 
+          79630, 
+          79751, 
+          26809362, 
+          26809363, 
+          26809364
+        ], 
+        "woeid": 79452, 
+        "alias_SPA_V": [
+          "S Antonio Los Ranchos"
+        ], 
+        "ne_longitude": -88.886, 
+        "longitude": -88.893, 
+        "parent_woeid": 26808565, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.999, 
+        "sw_longitude": -88.901, 
+        "fullname": "San Antonio Los Ranchos, Chalatenango, San Antonio los Ranchos, El Salvador", 
+        "sw_latitude": 13.992
+      }, 
+      "id": 79452
+    }
+  ]
+}

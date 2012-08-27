@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.062, 
+              46.315
+            ], 
+            [
+              10.062, 
+              46.324
+            ], 
+            [
+              10.075, 
+              46.324
+            ], 
+            [
+              10.075, 
+              46.315
+            ], 
+            [
+              10.062, 
+              46.315
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101350, 
+        "name": "Cologna", 
+        "adjacent_woeid": [
+          783762, 
+          20102534, 
+          20104029
+        ], 
+        "ne_latitude": 46.324, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.075, 
+        "longitude": 10.068, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12682738, 
+        "latitude": 46.319, 
+        "sw_longitude": 10.062, 
+        "fullname": "Cologna, Canton of Graubunden, Bernina, Switzerland", 
+        "sw_latitude": 46.315
+      }, 
+      "id": 20101350
+    }
+  ]
+}

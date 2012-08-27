@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.130, 
+              47.107
+            ], 
+            [
+              -123.130, 
+              47.116
+            ], 
+            [
+              -123.116, 
+              47.116
+            ], 
+            [
+              -123.116, 
+              47.107
+            ], 
+            [
+              -123.130, 
+              47.107
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2404900, 
+        "name": "Forbes", 
+        "adjacent_woeid": [
+          2430551, 
+          2445976, 
+          2458611, 
+          2489686
+        ], 
+        "ne_latitude": 47.116, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.116, 
+        "longitude": -123.123, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:25:19Z", 
+        "parent_woeid": 12590462, 
+        "latitude": 47.111, 
+        "sw_longitude": -123.130, 
+        "fullname": "Forbes, Washington, Mason, United States", 
+        "sw_latitude": 47.107
+      }, 
+      "id": 2404900
+    }
+  ]
+}

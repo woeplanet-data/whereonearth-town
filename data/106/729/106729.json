@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.784, 
+              15.202
+            ], 
+            [
+              -85.784, 
+              15.220
+            ], 
+            [
+              -85.766, 
+              15.220
+            ], 
+            [
+              -85.766, 
+              15.202
+            ], 
+            [
+              -85.784, 
+              15.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.220, 
+        "name": "San Esteban", 
+        "adjacent_woeid": [
+          98310, 
+          98712, 
+          99350, 
+          101996, 
+          102271, 
+          105583, 
+          107838
+        ], 
+        "woeid": 106729, 
+        "alias_SPA_V": [
+          "S Esteban"
+        ], 
+        "ne_longitude": -85.766, 
+        "longitude": -85.775, 
+        "parent_woeid": 26813770, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.211, 
+        "sw_longitude": -85.784, 
+        "fullname": "San Esteban, Olancho, San Esteban, Honduras", 
+        "sw_latitude": 15.202
+      }, 
+      "id": 106729
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.404, 
+              22.485
+            ], 
+            [
+              -99.404, 
+              22.504
+            ], 
+            [
+              -99.385, 
+              22.504
+            ], 
+            [
+              -99.385, 
+              22.485
+            ], 
+            [
+              -99.404, 
+              22.485
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.504, 
+        "name": "Abritas", 
+        "adjacent_woeid": [
+          133705, 
+          134365, 
+          135953, 
+          136952, 
+          141296
+        ], 
+        "woeid": 110936, 
+        "alias_SPA_V": [
+          "Sabrito"
+        ], 
+        "ne_longitude": -99.385, 
+        "longitude": -99.395, 
+        "parent_woeid": 24550695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.494, 
+        "sw_longitude": -99.404, 
+        "fullname": "Abritas, San Luis Potosi, El Naranjo, Mexico", 
+        "sw_latitude": 22.485
+      }, 
+      "id": 110936
+    }
+  ]
+}

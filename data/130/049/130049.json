@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.910, 
+              23.358
+            ], 
+            [
+              -99.910, 
+              23.376
+            ], 
+            [
+              -99.890, 
+              23.376
+            ], 
+            [
+              -99.890, 
+              23.358
+            ], 
+            [
+              -99.910, 
+              23.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.376, 
+        "name": "Las Antonias", 
+        "adjacent_woeid": [
+          111793, 
+          113927, 
+          114796, 
+          120726, 
+          126743, 
+          137017
+        ], 
+        "woeid": 130049, 
+        "alias_SPA_V": [
+          "Antonias"
+        ], 
+        "ne_longitude": -99.890, 
+        "longitude": -99.900, 
+        "parent_woeid": 12601637, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.367, 
+        "sw_longitude": -99.910, 
+        "fullname": "Las Antonias, Tamaulipas, Bustamante, Mexico", 
+        "sw_latitude": 23.358
+      }, 
+      "id": 130049
+    }
+  ]
+}

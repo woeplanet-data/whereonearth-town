@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.400, 
+              41.079
+            ], 
+            [
+              -77.400, 
+              41.175
+            ], 
+            [
+              -77.252, 
+              41.175
+            ], 
+            [
+              -77.252, 
+              41.079
+            ], 
+            [
+              -77.400, 
+              41.079
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745366, 
+        "name": "Wayne", 
+        "adjacent_woeid": [
+          2394576, 
+          2478828, 
+          2484634, 
+          2525019, 
+          23511314, 
+          28745282, 
+          28745582
+        ], 
+        "ne_latitude": 41.175, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Wayne Township"
+        ], 
+        "ne_longitude": -77.252, 
+        "longitude": -77.351, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589745, 
+        "latitude": 41.148, 
+        "sw_longitude": -77.400, 
+        "fullname": "Wayne, Pennsylvania, Clinton, United States", 
+        "sw_latitude": 41.079
+      }, 
+      "id": 28745366
+    }
+  ]
+}

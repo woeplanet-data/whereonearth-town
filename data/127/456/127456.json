@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.760, 
+              21.391
+            ], 
+            [
+              -99.760, 
+              21.409
+            ], 
+            [
+              -99.740, 
+              21.409
+            ], 
+            [
+              -99.740, 
+              21.391
+            ], 
+            [
+              -99.760, 
+              21.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.409, 
+        "name": "La Florida", 
+        "adjacent_woeid": [
+          112502, 
+          112574, 
+          116719, 
+          121220, 
+          126854, 
+          140763
+        ], 
+        "woeid": 127456, 
+        "alias_SPA_V": [
+          "Florida"
+        ], 
+        "ne_longitude": -99.740, 
+        "longitude": -99.750, 
+        "parent_woeid": 12601445, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.400, 
+        "sw_longitude": -99.760, 
+        "fullname": "La Florida, Queretaro de Arteaga, Arroyo Seco, Mexico", 
+        "sw_latitude": 21.391
+      }, 
+      "id": 127456
+    }
+  ]
+}

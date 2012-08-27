@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.777, 
+              24.558
+            ], 
+            [
+              -104.777, 
+              24.576
+            ], 
+            [
+              -104.757, 
+              24.576
+            ], 
+            [
+              -104.757, 
+              24.558
+            ], 
+            [
+              -104.777, 
+              24.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.576, 
+        "name": "El Pozole", 
+        "adjacent_woeid": [
+          114623, 
+          118332, 
+          121717, 
+          123756, 
+          129224
+        ], 
+        "woeid": 121707, 
+        "alias_SPA_V": [
+          "Pozole"
+        ], 
+        "ne_longitude": -104.757, 
+        "longitude": -104.767, 
+        "parent_woeid": 12599950, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.567, 
+        "sw_longitude": -104.777, 
+        "fullname": "El Pozole, Durango, Canatlan, Mexico", 
+        "sw_latitude": 24.558
+      }, 
+      "id": 121707
+    }
+  ]
+}

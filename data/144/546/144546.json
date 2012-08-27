@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.426, 
+              20.791
+            ], 
+            [
+              -104.426, 
+              20.809
+            ], 
+            [
+              -104.407, 
+              20.809
+            ], 
+            [
+              -104.407, 
+              20.791
+            ], 
+            [
+              -104.426, 
+              20.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.809, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          112058, 
+          121830, 
+          122177, 
+          122550, 
+          126886, 
+          136601
+        ], 
+        "woeid": 144546, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -104.407, 
+        "longitude": -104.417, 
+        "parent_woeid": 12600588, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.800, 
+        "sw_longitude": -104.426, 
+        "fullname": "San Miguel, Nayarit, Amatlan de Canas, Mexico", 
+        "sw_latitude": 20.791
+      }, 
+      "id": 144546
+    }
+  ]
+}

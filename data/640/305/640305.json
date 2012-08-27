@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.429, 
+              52.365
+            ], 
+            [
+              11.429, 
+              52.400
+            ], 
+            [
+              11.522, 
+              52.400
+            ], 
+            [
+              11.522, 
+              52.365
+            ], 
+            [
+              11.429, 
+              52.365
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640305, 
+        "name": "Born", 
+        "adjacent_woeid": [
+          645079, 
+          645445, 
+          663092, 
+          667530, 
+          671404, 
+          685249, 
+          691136
+        ], 
+        "ne_latitude": 52.400, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.522, 
+        "longitude": 11.465, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12626684, 
+        "latitude": 52.376, 
+        "sw_longitude": 11.429, 
+        "fullname": "Born, Saxony-Anhalt, Ohrekreis, Germany", 
+        "sw_latitude": 52.365
+      }, 
+      "id": 640305
+    }
+  ]
+}

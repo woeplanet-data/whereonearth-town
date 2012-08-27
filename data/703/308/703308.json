@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.546, 
+              49.467
+            ], 
+            [
+              11.546, 
+              49.488
+            ], 
+            [
+              11.565, 
+              49.488
+            ], 
+            [
+              11.565, 
+              49.467
+            ], 
+            [
+              11.546, 
+              49.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703308, 
+        "name": "Waizenfeld", 
+        "adjacent_woeid": [
+          633645, 
+          655886, 
+          657531, 
+          658820, 
+          675451, 
+          696286, 
+          699058, 
+          708171
+        ], 
+        "ne_latitude": 49.488, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.565, 
+        "longitude": 11.555, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12634488, 
+        "latitude": 49.477, 
+        "sw_longitude": 11.546, 
+        "fullname": "Waizenfeld, Bavaria, Nurnberger Land, Germany", 
+        "sw_latitude": 49.467
+      }, 
+      "id": 703308
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.378, 
+              49.345
+            ], 
+            [
+              6.378, 
+              49.381
+            ], 
+            [
+              6.417, 
+              49.381
+            ], 
+            [
+              6.417, 
+              49.345
+            ], 
+            [
+              6.378, 
+              49.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627612, 
+        "name": "Ste.-Marguerite", 
+        "adjacent_woeid": [
+          594482, 
+          605119, 
+          612007, 
+          630442, 
+          20212892
+        ], 
+        "ne_latitude": 49.381, 
+        "ne_longitude": 6.417, 
+        "longitude": 6.402, 
+        "parent_woeid": 12666869, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Marguerite"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:40Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.361, 
+        "sw_longitude": 6.378, 
+        "fullname": "Ste.-Marguerite, Lorraine, Moselle, France", 
+        "sw_latitude": 49.345
+      }, 
+      "id": 627612
+    }
+  ]
+}

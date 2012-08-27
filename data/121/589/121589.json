@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.207, 
+              27.061
+            ], 
+            [
+              -105.207, 
+              27.073
+            ], 
+            [
+              -105.193, 
+              27.073
+            ], 
+            [
+              -105.193, 
+              27.061
+            ], 
+            [
+              -105.207, 
+              27.061
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.073, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          113908, 
+          141146, 
+          143579, 
+          143694, 
+          145605
+        ], 
+        "woeid": 121589, 
+        "alias_SPA_V": [
+          "Porvenir"
+        ], 
+        "ne_longitude": -105.193, 
+        "longitude": -105.200, 
+        "parent_woeid": 12599858, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.067, 
+        "sw_longitude": -105.207, 
+        "fullname": "El Porvenir, Chihuahua, Lopez, Mexico", 
+        "sw_latitude": 27.061
+      }, 
+      "id": 121589
+    }
+  ]
+}

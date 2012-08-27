@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.676, 
+              21.708
+            ], 
+            [
+              -100.676, 
+              21.726
+            ], 
+            [
+              -100.657, 
+              21.726
+            ], 
+            [
+              -100.657, 
+              21.708
+            ], 
+            [
+              -100.676, 
+              21.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.726, 
+        "name": "El Fuerte", 
+        "adjacent_woeid": [
+          126742, 
+          129707, 
+          146507, 
+          147018, 
+          150934
+        ], 
+        "woeid": 120301, 
+        "alias_SPA_V": [
+          "Fuerte"
+        ], 
+        "ne_longitude": -100.657, 
+        "longitude": -100.667, 
+        "parent_woeid": 12601503, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.717, 
+        "sw_longitude": -100.676, 
+        "fullname": "El Fuerte, San Luis Potosi, Santa Maria del Rio, Mexico", 
+        "sw_latitude": 21.708
+      }, 
+      "id": 120301
+    }
+  ]
+}

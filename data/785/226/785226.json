@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.478, 
+              47.202
+            ], 
+            [
+              9.478, 
+              47.218
+            ], 
+            [
+              9.501, 
+              47.218
+            ], 
+            [
+              9.501, 
+              47.202
+            ], 
+            [
+              9.478, 
+              47.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 785226, 
+        "name": "Haag", 
+        "adjacent_woeid": [
+          781950, 
+          782527, 
+          784005, 
+          20101830
+        ], 
+        "ne_latitude": 47.218, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.501, 
+        "longitude": 9.490, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:21Z", 
+        "parent_woeid": 12684334, 
+        "latitude": 47.210, 
+        "sw_longitude": 9.478, 
+        "fullname": "Haag, Canton of St. Gallen, Werdenberg, Switzerland", 
+        "sw_latitude": 47.202
+      }, 
+      "id": 785226
+    }
+  ]
+}

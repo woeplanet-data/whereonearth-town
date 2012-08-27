@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.570, 
+              37.122
+            ], 
+            [
+              -3.570, 
+              37.142
+            ], 
+            [
+              -3.546, 
+              37.142
+            ], 
+            [
+              -3.546, 
+              37.122
+            ], 
+            [
+              -3.570, 
+              37.122
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.142, 
+        "name": "Barrio de la Vega", 
+        "adjacent_woeid": [
+          753553, 
+          762463, 
+          23413854
+        ], 
+        "woeid": 753877, 
+        "alias_SPA_V": [
+          "La Vega"
+        ], 
+        "ne_longitude": -3.546, 
+        "longitude": -3.559, 
+        "parent_woeid": 12688956, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.136, 
+        "sw_longitude": -3.570, 
+        "fullname": "Barrio de la Vega, Andalusia, Granada, Spain", 
+        "sw_latitude": 37.122
+      }, 
+      "id": 753877
+    }
+  ]
+}

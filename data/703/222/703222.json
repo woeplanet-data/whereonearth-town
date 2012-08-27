@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.372, 
+              50.749
+            ], 
+            [
+              10.372, 
+              50.786
+            ], 
+            [
+              10.400, 
+              50.786
+            ], 
+            [
+              10.400, 
+              50.749
+            ], 
+            [
+              10.372, 
+              50.749
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703222, 
+        "name": "Wahles", 
+        "adjacent_woeid": [
+          649314, 
+          659650, 
+          707045, 
+          707660
+        ], 
+        "ne_latitude": 50.786, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.400, 
+        "longitude": 10.384, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12624966, 
+        "latitude": 50.768, 
+        "sw_longitude": 10.372, 
+        "fullname": "Wahles, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.749
+      }, 
+      "id": 703222
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.809, 
+              51.224
+            ], 
+            [
+              3.809, 
+              51.248
+            ], 
+            [
+              3.855, 
+              51.248
+            ], 
+            [
+              3.855, 
+              51.224
+            ], 
+            [
+              3.809, 
+              51.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 734632, 
+        "name": "Westdorpe", 
+        "adjacent_woeid": [
+          727395, 
+          728863, 
+          733180, 
+          735111
+        ], 
+        "ne_latitude": 51.248, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.855, 
+        "longitude": 3.828, 
+        "placetype": "Town", 
+        "iso": "NL", 
+        "date_indexed": "2010-12-02T18:17:46Z", 
+        "parent_woeid": 12592379, 
+        "latitude": 51.233, 
+        "sw_longitude": 3.809, 
+        "fullname": "Westdorpe, Zeeland, Terneuzen, Netherlands", 
+        "sw_latitude": 51.224
+      }, 
+      "id": 734632
+    }
+  ]
+}

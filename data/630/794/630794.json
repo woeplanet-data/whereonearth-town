@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.674, 
+              45.762
+            ], 
+            [
+              0.674, 
+              45.805
+            ], 
+            [
+              0.715, 
+              45.805
+            ], 
+            [
+              0.715, 
+              45.762
+            ], 
+            [
+              0.674, 
+              45.762
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630794, 
+        "name": "Verneuil", 
+        "adjacent_woeid": [
+          607429, 
+          610467, 
+          618033, 
+          631148
+        ], 
+        "ne_latitude": 45.805, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.715, 
+        "longitude": 0.694, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "parent_woeid": 12672263, 
+        "latitude": 45.781, 
+        "sw_longitude": 0.674, 
+        "fullname": "Verneuil, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.762
+      }, 
+      "id": 630794
+    }
+  ]
+}

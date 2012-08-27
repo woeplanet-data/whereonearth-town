@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.653, 
+              44.439
+            ], 
+            [
+              1.653, 
+              44.487
+            ], 
+            [
+              1.682, 
+              44.487
+            ], 
+            [
+              1.682, 
+              44.439
+            ], 
+            [
+              1.653, 
+              44.439
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623521, 
+        "name": "St.-Cirq-Lapopie", 
+        "adjacent_woeid": [
+          579342, 
+          581487, 
+          586711, 
+          587811, 
+          589972, 
+          606826, 
+          628898
+        ], 
+        "ne_latitude": 44.487, 
+        "ne_longitude": 1.682, 
+        "longitude": 1.671, 
+        "parent_woeid": 12665434, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saintcirqlapopie"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.464, 
+        "sw_longitude": 1.653, 
+        "fullname": "St.-Cirq-Lapopie, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.439
+      }, 
+      "id": 623521
+    }
+  ]
+}

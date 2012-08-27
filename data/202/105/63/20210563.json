@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.325, 
+              45.663
+            ], 
+            [
+              6.325, 
+              45.672
+            ], 
+            [
+              6.338, 
+              45.672
+            ], 
+            [
+              6.338, 
+              45.663
+            ], 
+            [
+              6.325, 
+              45.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210563, 
+        "name": "Gemilly", 
+        "adjacent_woeid": [
+          592865, 
+          611071, 
+          616816, 
+          630868
+        ], 
+        "ne_latitude": 45.672, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.338, 
+        "longitude": 6.332, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "parent_woeid": 12663667, 
+        "latitude": 45.668, 
+        "sw_longitude": 6.325, 
+        "fullname": "Gemilly, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.663
+      }, 
+      "id": 20210563
+    }
+  ]
+}

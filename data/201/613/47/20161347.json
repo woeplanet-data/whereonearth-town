@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.414, 
+              52.922
+            ], 
+            [
+              12.414, 
+              52.959
+            ], 
+            [
+              12.442, 
+              52.959
+            ], 
+            [
+              12.442, 
+              52.922
+            ], 
+            [
+              12.414, 
+              52.922
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20161347, 
+        "name": "Waldkolonie", 
+        "adjacent_woeid": [
+          636813, 
+          658703, 
+          697527, 
+          29352512
+        ], 
+        "ne_latitude": 52.959, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.442, 
+        "longitude": 12.431, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 24547283, 
+        "latitude": 52.938, 
+        "sw_longitude": 12.414, 
+        "fullname": "Waldkolonie, Brandenburg, Ostprignitz-Ruppin, Germany", 
+        "sw_latitude": 52.922
+      }, 
+      "id": 20161347
+    }
+  ]
+}

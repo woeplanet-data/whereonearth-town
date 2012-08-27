@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.449, 
+              55.942
+            ], 
+            [
+              12.449, 
+              55.962
+            ], 
+            [
+              12.484, 
+              55.962
+            ], 
+            [
+              12.484, 
+              55.942
+            ], 
+            [
+              12.449, 
+              55.942
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555136, 
+        "name": "Langstrup", 
+        "adjacent_woeid": [
+          552768, 
+          554050, 
+          555326, 
+          557298
+        ], 
+        "ne_latitude": 55.962, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.484, 
+        "longitude": 12.466, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:55Z", 
+        "parent_woeid": 28583798, 
+        "latitude": 55.952, 
+        "sw_longitude": 12.449, 
+        "fullname": "Langstrup, Hovedstaden, Fredensborg, Denmark", 
+        "sw_latitude": 55.942
+      }, 
+      "id": 555136
+    }
+  ]
+}

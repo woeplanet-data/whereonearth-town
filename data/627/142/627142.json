@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.859, 
+              45.805
+            ], 
+            [
+              3.859, 
+              45.826
+            ], 
+            [
+              3.879, 
+              45.826
+            ], 
+            [
+              3.879, 
+              45.805
+            ], 
+            [
+              3.859, 
+              45.805
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627142, 
+        "name": "St.-Thurin", 
+        "adjacent_woeid": [
+          575548, 
+          584319, 
+          624995, 
+          625179, 
+          625730
+        ], 
+        "ne_latitude": 45.826, 
+        "alias_ENG_V": [
+          "Saint Thurin-sur Anzon"
+        ], 
+        "ne_longitude": 3.879, 
+        "longitude": 3.872, 
+        "parent_woeid": 12670045, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Thurin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.816, 
+        "sw_longitude": 3.859, 
+        "fullname": "St.-Thurin, St Thurin-sur Anzon, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.805
+      }, 
+      "id": 627142
+    }
+  ]
+}

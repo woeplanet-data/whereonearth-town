@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.276, 
+              49.849
+            ], 
+            [
+              10.276, 
+              49.879
+            ], 
+            [
+              10.309, 
+              49.879
+            ], 
+            [
+              10.309, 
+              49.849
+            ], 
+            [
+              10.276, 
+              49.849
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688745, 
+        "name": "Rimbach", 
+        "adjacent_woeid": [
+          644740, 
+          647008, 
+          650267, 
+          663970, 
+          668693, 
+          682490
+        ], 
+        "ne_latitude": 49.879, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.309, 
+        "longitude": 10.294, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:42Z", 
+        "parent_woeid": 12635587, 
+        "latitude": 49.864, 
+        "sw_longitude": 10.276, 
+        "fullname": "Rimbach, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.849
+      }, 
+      "id": 688745
+    }
+  ]
+}

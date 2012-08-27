@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.728, 
+              48.129
+            ], 
+            [
+              -65.728, 
+              48.253
+            ], 
+            [
+              -65.540, 
+              48.253
+            ], 
+            [
+              -65.540, 
+              48.129
+            ], 
+            [
+              -65.728, 
+              48.129
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394480, 
+        "name": "St.-Alphonse", 
+        "adjacent_woeid": [
+          127, 
+          1613, 
+          3611, 
+          3617, 
+          23394291, 
+          29374150
+        ], 
+        "ne_latitude": 48.253, 
+        "ne_longitude": -65.540, 
+        "longitude": -65.632, 
+        "parent_woeid": 29375051, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Alphonse"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.182, 
+        "sw_longitude": -65.728, 
+        "fullname": "St.-Alphonse, Quebec, Bonaventure, Canada", 
+        "sw_latitude": 48.129
+      }, 
+      "id": 23394480
+    }
+  ]
+}

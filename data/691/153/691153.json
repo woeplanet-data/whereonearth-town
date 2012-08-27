@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.785, 
+              49.617
+            ], 
+            [
+              10.785, 
+              49.638
+            ], 
+            [
+              10.811, 
+              49.638
+            ], 
+            [
+              10.811, 
+              49.617
+            ], 
+            [
+              10.785, 
+              49.617
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 691153, 
+        "name": "Sauerheim", 
+        "adjacent_woeid": [
+          675461, 
+          681679, 
+          688274, 
+          695194
+        ], 
+        "ne_latitude": 49.638, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.811, 
+        "longitude": 10.800, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12634463, 
+        "latitude": 49.625, 
+        "sw_longitude": 10.785, 
+        "fullname": "Sauerheim, Bavaria, Erlangen-H\u00f6chstadt, Germany", 
+        "sw_latitude": 49.617
+      }, 
+      "id": 691153
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.190, 
+              13.456
+            ], 
+            [
+              -88.190, 
+              13.489
+            ], 
+            [
+              -88.156, 
+              13.489
+            ], 
+            [
+              -88.156, 
+              13.456
+            ], 
+            [
+              -88.190, 
+              13.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.489, 
+        "name": "San Miquel", 
+        "adjacent_woeid": [
+          77044, 
+          77058, 
+          77061, 
+          77110, 
+          77470, 
+          77964, 
+          78096, 
+          78297, 
+          79093, 
+          79347, 
+          79458, 
+          79479, 
+          79601, 
+          79810, 
+          80126, 
+          80184, 
+          26809440, 
+          26809448, 
+          26809449, 
+          26809451, 
+          26809454, 
+          26809455
+        ], 
+        "woeid": 79759, 
+        "alias_SPA_V": [
+          "S Miquel"
+        ], 
+        "ne_longitude": -88.156, 
+        "longitude": -88.173, 
+        "parent_woeid": 26808679, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.472, 
+        "sw_longitude": -88.190, 
+        "fullname": "San Miquel, San Miguel, San Miguel, El Salvador", 
+        "sw_latitude": 13.456
+      }, 
+      "id": 79759
+    }
+  ]
+}

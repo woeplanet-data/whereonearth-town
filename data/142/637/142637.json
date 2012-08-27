@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.343, 
+              23.458
+            ], 
+            [
+              -99.343, 
+              23.476
+            ], 
+            [
+              -99.323, 
+              23.476
+            ], 
+            [
+              -99.323, 
+              23.458
+            ], 
+            [
+              -99.343, 
+              23.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.476, 
+        "name": "San Francisco de Zorrilla", 
+        "adjacent_woeid": [
+          116479, 
+          126014, 
+          143568, 
+          143906, 
+          144041, 
+          145494
+        ], 
+        "woeid": 142637, 
+        "alias_SPA_V": [
+          "S Francisco de Zorrilla"
+        ], 
+        "ne_longitude": -99.323, 
+        "longitude": -99.333, 
+        "parent_woeid": 12601649, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.467, 
+        "sw_longitude": -99.343, 
+        "fullname": "San Francisco de Zorrilla, Tamaulipas, Jaumave, Mexico", 
+        "sw_latitude": 23.458
+      }, 
+      "id": 142637
+    }
+  ]
+}

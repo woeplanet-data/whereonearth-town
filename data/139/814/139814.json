@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.801, 
+              23.183
+            ], 
+            [
+              -97.801, 
+              23.201
+            ], 
+            [
+              -97.782, 
+              23.201
+            ], 
+            [
+              -97.782, 
+              23.183
+            ], 
+            [
+              -97.801, 
+              23.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.201, 
+        "name": "Rancho Nuevo", 
+        "adjacent_woeid": [
+          123329, 
+          127112, 
+          129664, 
+          134850, 
+          145229
+        ], 
+        "woeid": 139814, 
+        "alias_SPA_V": [
+          "Nuevo"
+        ], 
+        "ne_longitude": -97.782, 
+        "longitude": -97.792, 
+        "parent_woeid": 12601633, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.192, 
+        "sw_longitude": -97.801, 
+        "fullname": "Rancho Nuevo, Tamaulipas, Aldama, Mexico", 
+        "sw_latitude": 23.183
+      }, 
+      "id": 139814
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.446, 
+              40.119
+            ], 
+            [
+              -79.446, 
+              40.137
+            ], 
+            [
+              -79.422, 
+              40.137
+            ], 
+            [
+              -79.422, 
+              40.119
+            ], 
+            [
+              -79.446, 
+              40.119
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2351759, 
+        "name": "Acme", 
+        "adjacent_woeid": [
+          2384225, 
+          2455375, 
+          2519171, 
+          28744664
+        ], 
+        "ne_latitude": 40.137, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -79.422, 
+        "longitude": -79.434, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:34:31Z", 
+        "parent_woeid": 12589792, 
+        "latitude": 40.128, 
+        "sw_longitude": -79.446, 
+        "fullname": "Acme, Pennsylvania, Westmoreland, United States", 
+        "sw_latitude": 40.119
+      }, 
+      "id": 2351759
+    }
+  ]
+}

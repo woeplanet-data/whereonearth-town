@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.475, 
+              -33.607
+            ], 
+            [
+              -71.475, 
+              -33.593
+            ], 
+            [
+              -71.458, 
+              -33.593
+            ], 
+            [
+              -71.458, 
+              -33.607
+            ], 
+            [
+              -71.475, 
+              -33.607
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.593, 
+        "name": "Leyda", 
+        "adjacent_woeid": [
+          347396, 
+          347719, 
+          348588, 
+          349037, 
+          349449
+        ], 
+        "woeid": 348310, 
+        "alias_SPA_V": [
+          "Estacion Leyda"
+        ], 
+        "ne_longitude": -71.458, 
+        "longitude": -71.467, 
+        "parent_woeid": 26794345, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:28Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.600, 
+        "sw_longitude": -71.475, 
+        "fullname": "Leyda, Valparaiso Region, San Antonio Province, Chile", 
+        "sw_latitude": -33.607
+      }, 
+      "id": 348310
+    }
+  ]
+}

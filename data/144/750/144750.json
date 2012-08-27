@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.210, 
+              20.491
+            ], 
+            [
+              -99.210, 
+              20.509
+            ], 
+            [
+              -99.190, 
+              20.509
+            ], 
+            [
+              -99.190, 
+              20.491
+            ], 
+            [
+              -99.210, 
+              20.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.509, 
+        "name": "San Nicol\u00e1s", 
+        "adjacent_woeid": [
+          121099, 
+          125516, 
+          132706, 
+          144028
+        ], 
+        "woeid": 144750, 
+        "alias_SPA_V": [
+          "S Nicol\u00e1s"
+        ], 
+        "ne_longitude": -99.190, 
+        "longitude": -99.200, 
+        "parent_woeid": 12600139, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "S. Nicolas"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.500, 
+        "sw_longitude": -99.210, 
+        "fullname": "San Nicol\u00e1s, Hidalgo, Ixmiquilpan, Mexico", 
+        "sw_latitude": 20.491
+      }, 
+      "id": 144750
+    }
+  ]
+}

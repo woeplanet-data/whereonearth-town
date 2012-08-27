@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.460, 
+              25.941
+            ], 
+            [
+              -111.460, 
+              25.959
+            ], 
+            [
+              -111.440, 
+              25.959
+            ], 
+            [
+              -111.440, 
+              25.941
+            ], 
+            [
+              -111.460, 
+              25.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.959, 
+        "name": "Las Parras", 
+        "adjacent_woeid": [
+          131419, 
+          131812, 
+          131962, 
+          134613, 
+          137854, 
+          140387, 
+          144933
+        ], 
+        "woeid": 130762, 
+        "alias_SPA_V": [
+          "Parras"
+        ], 
+        "ne_longitude": -111.440, 
+        "longitude": -111.450, 
+        "parent_woeid": 24550696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.950, 
+        "sw_longitude": -111.460, 
+        "fullname": "Las Parras, Baja California Sur, Loreto, Mexico", 
+        "sw_latitude": 25.941
+      }, 
+      "id": 130762
+    }
+  ]
+}

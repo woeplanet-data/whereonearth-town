@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.135, 
+              44.761
+            ], 
+            [
+              2.135, 
+              44.796
+            ], 
+            [
+              2.172, 
+              44.796
+            ], 
+            [
+              2.172, 
+              44.761
+            ], 
+            [
+              2.135, 
+              44.761
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624532, 
+        "name": "St.-Hilaire", 
+        "adjacent_woeid": [
+          579628, 
+          596781, 
+          601738, 
+          615708, 
+          618591, 
+          624969
+        ], 
+        "ne_latitude": 44.796, 
+        "ne_longitude": 2.172, 
+        "longitude": 2.154, 
+        "parent_woeid": 12652624, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hilaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.776, 
+        "sw_longitude": 2.135, 
+        "fullname": "St.-Hilaire, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.761
+      }, 
+      "id": 624532
+    }
+  ]
+}

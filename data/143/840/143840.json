@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.093, 
+              22.608
+            ], 
+            [
+              -104.093, 
+              22.626
+            ], 
+            [
+              -104.073, 
+              22.626
+            ], 
+            [
+              -104.073, 
+              22.608
+            ], 
+            [
+              -104.093, 
+              22.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.626, 
+        "name": "San Juan Capistrano", 
+        "adjacent_woeid": [
+          112071, 
+          123965, 
+          125123, 
+          125125, 
+          125925, 
+          146347
+        ], 
+        "woeid": 143840, 
+        "alias_SPA_V": [
+          "S Juan Capistrano"
+        ], 
+        "ne_longitude": -104.073, 
+        "longitude": -104.083, 
+        "parent_woeid": 12602080, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.617, 
+        "sw_longitude": -104.093, 
+        "fullname": "San Juan Capistrano, Zacatecas, Valparaiso, Mexico", 
+        "sw_latitude": 22.608
+      }, 
+      "id": 143840
+    }
+  ]
+}

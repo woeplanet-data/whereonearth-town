@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.129, 
+              48.732
+            ], 
+            [
+              10.129, 
+              48.779
+            ], 
+            [
+              10.174, 
+              48.779
+            ], 
+            [
+              10.174, 
+              48.732
+            ], 
+            [
+              10.129, 
+              48.732
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682731, 
+        "name": "Ochsenberg", 
+        "adjacent_woeid": [
+          663807, 
+          680147, 
+          689826, 
+          20160452
+        ], 
+        "ne_latitude": 48.779, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.174, 
+        "longitude": 10.145, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12624200, 
+        "latitude": 48.746, 
+        "sw_longitude": 10.129, 
+        "fullname": "Ochsenberg, Baden-Wurttemberg, Heidenheim, Germany", 
+        "sw_latitude": 48.732
+      }, 
+      "id": 682731
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              51.498
+            ], 
+            [
+              12.345, 
+              51.516
+            ], 
+            [
+              12.374, 
+              51.516
+            ], 
+            [
+              12.374, 
+              51.498
+            ], 
+            [
+              12.345, 
+              51.498
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709204, 
+        "name": "Zschepen", 
+        "adjacent_woeid": [
+          637434, 
+          641335, 
+          641391, 
+          644936, 
+          661302, 
+          694411
+        ], 
+        "ne_latitude": 51.516, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.374, 
+        "longitude": 12.359, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12636569, 
+        "latitude": 51.507, 
+        "sw_longitude": 12.345, 
+        "fullname": "Zschepen, Saxony, Landkreis Delitzsch, Germany", 
+        "sw_latitude": 51.498
+      }, 
+      "id": 709204
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.777, 
+              52.513
+            ], 
+            [
+              12.777, 
+              52.560
+            ], 
+            [
+              12.814, 
+              52.560
+            ], 
+            [
+              12.814, 
+              52.513
+            ], 
+            [
+              12.777, 
+              52.513
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679220, 
+        "name": "Niebede", 
+        "adjacent_woeid": [
+          653075, 
+          686383, 
+          693571, 
+          699928, 
+          703099
+        ], 
+        "ne_latitude": 52.560, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.814, 
+        "longitude": 12.791, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12633190, 
+        "latitude": 52.544, 
+        "sw_longitude": 12.777, 
+        "fullname": "Niebede, Brandenburg, Havelland, Germany", 
+        "sw_latitude": 52.513
+      }, 
+      "id": 679220
+    }
+  ]
+}

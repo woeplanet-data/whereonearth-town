@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.210, 
+              23.191
+            ], 
+            [
+              -100.210, 
+              23.209
+            ], 
+            [
+              -100.190, 
+              23.209
+            ], 
+            [
+              -100.190, 
+              23.191
+            ], 
+            [
+              -100.210, 
+              23.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.209, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          111793, 
+          115448, 
+          126983, 
+          128337, 
+          129330, 
+          129559, 
+          133617, 
+          137446, 
+          142074
+        ], 
+        "woeid": 142799, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -100.190, 
+        "longitude": -100.200, 
+        "parent_woeid": 12601486, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.200, 
+        "sw_longitude": -100.210, 
+        "fullname": "San Ignacio, San Luis Potosi, Guadalcazar, Mexico", 
+        "sw_latitude": 23.191
+      }, 
+      "id": 142799
+    }
+  ]
+}

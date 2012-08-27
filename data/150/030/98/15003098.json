@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.106, 
+              43.094
+            ], 
+            [
+              2.106, 
+              43.122
+            ], 
+            [
+              2.143, 
+              43.122
+            ], 
+            [
+              2.143, 
+              43.094
+            ], 
+            [
+              2.106, 
+              43.094
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003098, 
+        "name": "Routier", 
+        "adjacent_woeid": [
+          575635, 
+          582176, 
+          582754, 
+          601729, 
+          609597, 
+          615831, 
+          20203138
+        ], 
+        "ne_latitude": 43.122, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.143, 
+        "longitude": 2.125, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12673082, 
+        "latitude": 43.108, 
+        "sw_longitude": 2.106, 
+        "fullname": "Routier, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 43.094
+      }, 
+      "id": 15003098
+    }
+  ]
+}

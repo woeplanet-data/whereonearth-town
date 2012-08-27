@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.889, 
+              50.888
+            ], 
+            [
+              12.889, 
+              50.921
+            ], 
+            [
+              12.969, 
+              50.921
+            ], 
+            [
+              12.969, 
+              50.888
+            ], 
+            [
+              12.889, 
+              50.888
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23410783, 
+        "name": "Lichtenau", 
+        "adjacent_woeid": [
+          635977, 
+          642636, 
+          643134, 
+          643196, 
+          650206, 
+          651562, 
+          656726, 
+          657524, 
+          675688, 
+          681669, 
+          683874, 
+          698714
+        ], 
+        "ne_latitude": 50.921, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.969, 
+        "longitude": 12.920, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:11Z", 
+        "parent_woeid": 12636541, 
+        "latitude": 50.900, 
+        "sw_longitude": 12.889, 
+        "fullname": "Lichtenau, Saxony, Landkreis Mittweida, Germany", 
+        "sw_latitude": 50.888
+      }, 
+      "id": 23410783
+    }
+  ]
+}

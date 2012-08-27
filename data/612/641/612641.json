@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.612, 
+              42.928
+            ], 
+            [
+              1.612, 
+              42.967
+            ], 
+            [
+              1.664, 
+              42.967
+            ], 
+            [
+              1.664, 
+              42.928
+            ], 
+            [
+              1.612, 
+              42.928
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612641, 
+        "name": "Montgaillard", 
+        "adjacent_woeid": [
+          590878, 
+          591246, 
+          617907, 
+          622543, 
+          626276, 
+          29331448, 
+          29332010
+        ], 
+        "ne_latitude": 42.967, 
+        "ne_longitude": 1.664, 
+        "longitude": 1.630, 
+        "parent_woeid": 12667085, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Montgailhard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.942, 
+        "sw_longitude": 1.612, 
+        "fullname": "Montgaillard, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 42.928
+      }, 
+      "id": 612641
+    }
+  ]
+}

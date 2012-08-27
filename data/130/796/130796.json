@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.201, 
+              27.667
+            ], 
+            [
+              -105.201, 
+              27.685
+            ], 
+            [
+              -105.180, 
+              27.685
+            ], 
+            [
+              -105.180, 
+              27.667
+            ], 
+            [
+              -105.201, 
+              27.667
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.685, 
+        "name": "Las Pilas", 
+        "adjacent_woeid": [
+          115793, 
+          116539, 
+          127909, 
+          135035, 
+          137483, 
+          140786
+        ], 
+        "woeid": 130796, 
+        "alias_SPA_V": [
+          "Rancho Las Pilas"
+        ], 
+        "ne_longitude": -105.180, 
+        "longitude": -105.190, 
+        "parent_woeid": 12599829, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.676, 
+        "sw_longitude": -105.201, 
+        "fullname": "Las Pilas, Chihuahua, Camargo, Mexico", 
+        "sw_latitude": 27.667
+      }, 
+      "id": 130796
+    }
+  ]
+}

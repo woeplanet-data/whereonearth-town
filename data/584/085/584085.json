@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.855, 
+              48.972
+            ], 
+            [
+              2.855, 
+              49.020
+            ], 
+            [
+              2.912, 
+              49.020
+            ], 
+            [
+              2.912, 
+              48.972
+            ], 
+            [
+              2.855, 
+              48.972
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584085, 
+        "name": "Chambry", 
+        "adjacent_woeid": [
+          578136, 
+          587812, 
+          615972, 
+          617112
+        ], 
+        "ne_latitude": 49.020, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.912, 
+        "longitude": 2.891, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12640863, 
+        "latitude": 48.995, 
+        "sw_longitude": 2.855, 
+        "fullname": "Chambry, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.972
+      }, 
+      "id": 584085
+    }
+  ]
+}

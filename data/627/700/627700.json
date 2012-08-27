@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.546, 
+              45.931
+            ], 
+            [
+              4.546, 
+              45.986
+            ], 
+            [
+              4.576, 
+              45.986
+            ], 
+            [
+              4.576, 
+              45.931
+            ], 
+            [
+              4.546, 
+              45.931
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627700, 
+        "name": "Ste.-Paule", 
+        "adjacent_woeid": [
+          586405, 
+          607804, 
+          619587, 
+          625110, 
+          20210172, 
+          29329873
+        ], 
+        "ne_latitude": 45.986, 
+        "ne_longitude": 4.576, 
+        "longitude": 4.566, 
+        "parent_woeid": 22756948, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Paule"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.961, 
+        "sw_longitude": 4.546, 
+        "fullname": "Ste.-Paule, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 45.931
+      }, 
+      "id": 627700
+    }
+  ]
+}

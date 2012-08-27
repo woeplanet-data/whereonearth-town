@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.063, 
+              48.421
+            ], 
+            [
+              2.063, 
+              48.458
+            ], 
+            [
+              2.110, 
+              48.458
+            ], 
+            [
+              2.110, 
+              48.421
+            ], 
+            [
+              2.063, 
+              48.421
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624522, 
+        "name": "St.-Hilaire", 
+        "adjacent_woeid": [
+          580521, 
+          581414, 
+          581959, 
+          594051, 
+          613472, 
+          615174, 
+          20219230
+        ], 
+        "ne_latitude": 48.458, 
+        "ne_longitude": 2.110, 
+        "longitude": 2.077, 
+        "parent_woeid": 12652622, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hilaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.434, 
+        "sw_longitude": 2.063, 
+        "fullname": "St.-Hilaire, Ile-de-France, Essonne, France", 
+        "sw_latitude": 48.421
+      }, 
+      "id": 624522
+    }
+  ]
+}

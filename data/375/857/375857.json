@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.813, 
+              -0.343
+            ], 
+            [
+              -77.813, 
+              -0.329
+            ], 
+            [
+              -77.799, 
+              -0.329
+            ], 
+            [
+              -77.799, 
+              -0.343
+            ], 
+            [
+              -77.813, 
+              -0.343
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -0.329, 
+        "name": "El Chaco", 
+        "adjacent_woeid": [
+          373407, 
+          373503, 
+          375118, 
+          375772, 
+          375990, 
+          376151, 
+          376233, 
+          376269
+        ], 
+        "woeid": 375857, 
+        "alias_SPA_V": [
+          "Chaco"
+        ], 
+        "ne_longitude": -77.799, 
+        "longitude": -77.806, 
+        "parent_woeid": 26809936, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.336, 
+        "sw_longitude": -77.813, 
+        "fullname": "El Chaco, Napo, El Chaco, Ecuador", 
+        "sw_latitude": -0.343
+      }, 
+      "id": 375857
+    }
+  ]
+}

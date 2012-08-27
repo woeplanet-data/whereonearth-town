@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.260, 
+              25.491
+            ], 
+            [
+              -105.260, 
+              25.509
+            ], 
+            [
+              -105.240, 
+              25.509
+            ], 
+            [
+              -105.240, 
+              25.491
+            ], 
+            [
+              -105.260, 
+              25.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.509, 
+        "name": "General Escobedo", 
+        "adjacent_woeid": [
+          116340, 
+          122966, 
+          123143, 
+          125355, 
+          138162, 
+          142066
+        ], 
+        "woeid": 123977, 
+        "alias_SPA_V": [
+          "Escobera"
+        ], 
+        "ne_longitude": -105.240, 
+        "longitude": -105.250, 
+        "parent_woeid": 12599955, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.500, 
+        "sw_longitude": -105.260, 
+        "fullname": "General Escobedo, Durango, El Oro, Mexico", 
+        "sw_latitude": 25.491
+      }, 
+      "id": 123977
+    }
+  ]
+}

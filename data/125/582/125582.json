@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.826, 
+              19.891
+            ], 
+            [
+              -97.826, 
+              19.909
+            ], 
+            [
+              -97.807, 
+              19.909
+            ], 
+            [
+              -97.807, 
+              19.891
+            ], 
+            [
+              -97.826, 
+              19.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.909, 
+        "name": "Ixtolco de Morelos", 
+        "adjacent_woeid": [
+          115915, 
+          117735, 
+          125185, 
+          142292, 
+          148944
+        ], 
+        "woeid": 125582, 
+        "alias_SPA_V": [
+          "Ixtolco"
+        ], 
+        "ne_longitude": -97.807, 
+        "longitude": -97.817, 
+        "parent_woeid": 12601281, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.900, 
+        "sw_longitude": -97.826, 
+        "fullname": "Ixtolco de Morelos, Puebla, Cuautempan, Mexico", 
+        "sw_latitude": 19.891
+      }, 
+      "id": 125582
+    }
+  ]
+}

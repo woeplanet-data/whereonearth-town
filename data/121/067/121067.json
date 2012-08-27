@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.926, 
+              21.291
+            ], 
+            [
+              -104.926, 
+              21.309
+            ], 
+            [
+              -104.907, 
+              21.309
+            ], 
+            [
+              -104.907, 
+              21.291
+            ], 
+            [
+              -104.926, 
+              21.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.309, 
+        "name": "El Naranjo", 
+        "adjacent_woeid": [
+          111131, 
+          117120, 
+          121904, 
+          133790, 
+          148967
+        ], 
+        "woeid": 121067, 
+        "alias_SPA_V": [
+          "Naranjos"
+        ], 
+        "ne_longitude": -104.907, 
+        "longitude": -104.917, 
+        "parent_woeid": 12600590, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.300, 
+        "sw_longitude": -104.926, 
+        "fullname": "El Naranjo, Nayarit, Compostela, Mexico", 
+        "sw_latitude": 21.291
+      }, 
+      "id": 121067
+    }
+  ]
+}

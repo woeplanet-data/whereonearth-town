@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.927, 
+              28.341
+            ], 
+            [
+              -107.927, 
+              28.359
+            ], 
+            [
+              -107.906, 
+              28.359
+            ], 
+            [
+              -107.906, 
+              28.341
+            ], 
+            [
+              -107.927, 
+              28.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.359, 
+        "name": "El Pinito", 
+        "adjacent_woeid": [
+          130110, 
+          130299, 
+          132414, 
+          140490, 
+          149794, 
+          149934, 
+          150262, 
+          151438
+        ], 
+        "woeid": 121478, 
+        "alias_SPA_V": [
+          "Pinito"
+        ], 
+        "ne_longitude": -107.906, 
+        "longitude": -107.917, 
+        "parent_woeid": 12599849, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.350, 
+        "sw_longitude": -107.927, 
+        "fullname": "El Pinito, Chihuahua, Guerrero, Mexico", 
+        "sw_latitude": 28.341
+      }, 
+      "id": 121478
+    }
+  ]
+}

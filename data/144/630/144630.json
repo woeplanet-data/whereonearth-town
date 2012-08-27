@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.593, 
+              20.058
+            ], 
+            [
+              -99.593, 
+              20.076
+            ], 
+            [
+              -99.574, 
+              20.076
+            ], 
+            [
+              -99.574, 
+              20.058
+            ], 
+            [
+              -99.593, 
+              20.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.076, 
+        "name": "San Miguel de la Victoria", 
+        "adjacent_woeid": [
+          114227, 
+          124791, 
+          135851, 
+          144359, 
+          147102, 
+          147826
+        ], 
+        "woeid": 144630, 
+        "alias_SPA_V": [
+          "S Miguel de la Victoria"
+        ], 
+        "ne_longitude": -99.574, 
+        "longitude": -99.583, 
+        "parent_woeid": 12600364, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.067, 
+        "sw_longitude": -99.593, 
+        "fullname": "San Miguel de la Victoria, Mexico, Jilotepec, Mexico", 
+        "sw_latitude": 20.058
+      }, 
+      "id": 144630
+    }
+  ]
+}

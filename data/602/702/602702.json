@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.853, 
+              45.888
+            ], 
+            [
+              1.853, 
+              45.906
+            ], 
+            [
+              1.879, 
+              45.906
+            ], 
+            [
+              1.879, 
+              45.888
+            ], 
+            [
+              1.853, 
+              45.888
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602702, 
+        "name": "Le Compeix", 
+        "adjacent_woeid": [
+          603738, 
+          613330, 
+          626229, 
+          626389
+        ], 
+        "ne_latitude": 45.906, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.879, 
+        "longitude": 1.866, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12655777, 
+        "latitude": 45.897, 
+        "sw_longitude": 1.853, 
+        "fullname": "Le Compeix, Limousin, Creuse, France", 
+        "sw_latitude": 45.888
+      }, 
+      "id": 602702
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.278, 
+              42.446
+            ], 
+            [
+              0.278, 
+              42.455
+            ], 
+            [
+              0.290, 
+              42.455
+            ], 
+            [
+              0.290, 
+              42.446
+            ], 
+            [
+              0.278, 
+              42.446
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.455, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          759555, 
+          760831, 
+          763100, 
+          772580, 
+          774162, 
+          778902
+        ], 
+        "woeid": 772915, 
+        "alias_SPA_V": [
+          "S Juan"
+        ], 
+        "ne_longitude": 0.290, 
+        "longitude": 0.284, 
+        "parent_woeid": 12689487, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.450, 
+        "sw_longitude": 0.278, 
+        "fullname": "San Juan, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.446
+      }, 
+      "id": 772915
+    }
+  ]
+}

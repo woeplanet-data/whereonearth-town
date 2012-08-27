@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.176, 
+              17.558
+            ], 
+            [
+              -91.176, 
+              17.576
+            ], 
+            [
+              -91.157, 
+              17.576
+            ], 
+            [
+              -91.157, 
+              17.558
+            ], 
+            [
+              -91.176, 
+              17.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.576, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          112242, 
+          114849, 
+          118892, 
+          122761, 
+          125976
+        ], 
+        "woeid": 146105, 
+        "alias_SPA_V": [
+          "Sta Elena"
+        ], 
+        "ne_longitude": -91.157, 
+        "longitude": -91.167, 
+        "parent_woeid": 12601615, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.567, 
+        "sw_longitude": -91.176, 
+        "fullname": "Santa Elena, Tabasco, Balancan, Mexico", 
+        "sw_latitude": 17.558
+      }, 
+      "id": 146105
+    }
+  ]
+}

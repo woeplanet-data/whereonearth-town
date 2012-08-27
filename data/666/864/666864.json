@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.923, 
+              53.858
+            ], 
+            [
+              10.923, 
+              53.896
+            ], 
+            [
+              10.954, 
+              53.896
+            ], 
+            [
+              10.954, 
+              53.858
+            ], 
+            [
+              10.923, 
+              53.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666864, 
+        "name": "Kleinfeld", 
+        "adjacent_woeid": [
+          654437, 
+          666310, 
+          673633, 
+          693553, 
+          698256, 
+          708504
+        ], 
+        "ne_latitude": 53.896, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.954, 
+        "longitude": 10.939, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12631079, 
+        "latitude": 53.871, 
+        "sw_longitude": 10.923, 
+        "fullname": "Kleinfeld, Mecklenburg-Vorpommern, Nordwestmecklenburg, Germany", 
+        "sw_latitude": 53.858
+      }, 
+      "id": 666864
+    }
+  ]
+}

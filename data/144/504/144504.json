@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.960, 
+              25.674
+            ], 
+            [
+              -102.960, 
+              25.692
+            ], 
+            [
+              -102.940, 
+              25.692
+            ], 
+            [
+              -102.940, 
+              25.674
+            ], 
+            [
+              -102.960, 
+              25.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.692, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          122518, 
+          125374, 
+          143712, 
+          147982, 
+          151570
+        ], 
+        "woeid": 144504, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -102.940, 
+        "longitude": -102.950, 
+        "parent_woeid": 12599918, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.683, 
+        "sw_longitude": -102.960, 
+        "fullname": "San Miguel, Coahuila de Zaragoza, San Pedro, Mexico", 
+        "sw_latitude": 25.674
+      }, 
+      "id": 144504
+    }
+  ]
+}

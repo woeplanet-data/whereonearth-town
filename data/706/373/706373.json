@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.664, 
+              49.973
+            ], 
+            [
+              9.664, 
+              50.005
+            ], 
+            [
+              9.705, 
+              50.005
+            ], 
+            [
+              9.705, 
+              49.973
+            ], 
+            [
+              9.664, 
+              49.973
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706373, 
+        "name": "Wiesenfeld", 
+        "adjacent_woeid": [
+          648455, 
+          651426, 
+          656893, 
+          657393, 
+          664892, 
+          688120, 
+          689294, 
+          695423
+        ], 
+        "ne_latitude": 50.005, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.705, 
+        "longitude": 9.683, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635633, 
+        "latitude": 49.990, 
+        "sw_longitude": 9.664, 
+        "fullname": "Wiesenfeld, Bavaria, Main-Spessart, Germany", 
+        "sw_latitude": 49.973
+      }, 
+      "id": 706373
+    }
+  ]
+}

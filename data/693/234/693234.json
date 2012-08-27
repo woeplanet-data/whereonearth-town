@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.878, 
+              50.143
+            ], 
+            [
+              10.878, 
+              50.161
+            ], 
+            [
+              10.908, 
+              50.161
+            ], 
+            [
+              10.908, 
+              50.143
+            ], 
+            [
+              10.878, 
+              50.143
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693234, 
+        "name": "Schottenstein", 
+        "adjacent_woeid": [
+          639797, 
+          642216, 
+          652826, 
+          692128, 
+          705167
+        ], 
+        "ne_latitude": 50.161, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.908, 
+        "longitude": 10.896, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12635291, 
+        "latitude": 50.153, 
+        "sw_longitude": 10.878, 
+        "fullname": "Schottenstein, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.143
+      }, 
+      "id": 693234
+    }
+  ]
+}

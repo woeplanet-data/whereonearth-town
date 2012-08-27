@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.880, 
+              48.845
+            ], 
+            [
+              12.880, 
+              48.872
+            ], 
+            [
+              12.900, 
+              48.872
+            ], 
+            [
+              12.900, 
+              48.845
+            ], 
+            [
+              12.880, 
+              48.845
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678486, 
+        "name": "Neuhausen", 
+        "adjacent_woeid": [
+          706510, 
+          707735, 
+          708647, 
+          29348505
+        ], 
+        "ne_latitude": 48.872, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.900, 
+        "longitude": 12.890, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12622844, 
+        "latitude": 48.861, 
+        "sw_longitude": 12.880, 
+        "fullname": "Neuhausen, Bavaria, Landkreis Deggendorf, Germany", 
+        "sw_latitude": 48.845
+      }, 
+      "id": 678486
+    }
+  ]
+}

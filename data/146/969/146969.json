@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.360, 
+              20.058
+            ], 
+            [
+              -98.360, 
+              20.076
+            ], 
+            [
+              -98.340, 
+              20.076
+            ], 
+            [
+              -98.340, 
+              20.058
+            ], 
+            [
+              -98.360, 
+              20.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.076, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          117800, 
+          132392, 
+          144800, 
+          144988, 
+          147024
+        ], 
+        "woeid": 146969, 
+        "alias_SPA_V": [
+          "Sta. Teresa"
+        ], 
+        "ne_longitude": -98.340, 
+        "longitude": -98.345, 
+        "parent_woeid": 12600185, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.068, 
+        "sw_longitude": -98.360, 
+        "fullname": "Santa Teresa, Hidalgo, Tulancingo de Bravo, Mexico", 
+        "sw_latitude": 20.058
+      }, 
+      "id": 146969
+    }
+  ]
+}

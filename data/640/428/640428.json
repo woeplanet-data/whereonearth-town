@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.378, 
+              52.282
+            ], 
+            [
+              10.378, 
+              52.315
+            ], 
+            [
+              10.428, 
+              52.315
+            ], 
+            [
+              10.428, 
+              52.282
+            ], 
+            [
+              10.378, 
+              52.282
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640428, 
+        "name": "Bortfeld", 
+        "adjacent_woeid": [
+          695574, 
+          702072, 
+          703208, 
+          704276
+        ], 
+        "ne_latitude": 52.315, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.428, 
+        "longitude": 10.407, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12630426, 
+        "latitude": 52.295, 
+        "sw_longitude": 10.378, 
+        "fullname": "Bortfeld, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.282
+      }, 
+      "id": 640428
+    }
+  ]
+}

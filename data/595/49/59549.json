@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.107, 
+              10.010
+            ], 
+            [
+              -84.107, 
+              10.024
+            ], 
+            [
+              -84.093, 
+              10.024
+            ], 
+            [
+              -84.093, 
+              10.010
+            ], 
+            [
+              -84.107, 
+              10.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.024, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          57669, 
+          57796, 
+          57808, 
+          58124, 
+          58256, 
+          58468, 
+          59091, 
+          59267, 
+          59362, 
+          59430, 
+          59434, 
+          59510, 
+          59512, 
+          59598, 
+          59689, 
+          59697, 
+          59880, 
+          59885, 
+          59891
+        ], 
+        "woeid": 59549, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -84.093, 
+        "longitude": -84.100, 
+        "parent_woeid": 26808954, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.017, 
+        "sw_longitude": -84.107, 
+        "fullname": "San Rafael, Heredia, San Rafael, Costa Rica", 
+        "sw_latitude": 10.010
+      }, 
+      "id": 59549
+    }
+  ]
+}

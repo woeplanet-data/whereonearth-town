@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.978, 
+              48.247
+            ], 
+            [
+              12.978, 
+              48.256
+            ], 
+            [
+              12.993, 
+              48.256
+            ], 
+            [
+              12.993, 
+              48.247
+            ], 
+            [
+              12.978, 
+              48.247
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673309, 
+        "name": "Machendorf", 
+        "adjacent_woeid": [
+          635446, 
+          660448, 
+          688943, 
+          697514, 
+          704565
+        ], 
+        "ne_latitude": 48.256, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.993, 
+        "longitude": 12.984, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:27Z", 
+        "parent_woeid": 12636599, 
+        "latitude": 48.252, 
+        "sw_longitude": 12.978, 
+        "fullname": "Machendorf, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.247
+      }, 
+      "id": 673309
+    }
+  ]
+}

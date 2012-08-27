@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.846, 
+              28.213
+            ], 
+            [
+              -16.846, 
+              28.241
+            ], 
+            [
+              -16.826, 
+              28.241
+            ], 
+            [
+              -16.826, 
+              28.213
+            ], 
+            [
+              -16.846, 
+              28.213
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.241, 
+        "name": "Puerto de Santiago", 
+        "adjacent_woeid": [
+          751763, 
+          779203, 
+          20220393, 
+          56065233
+        ], 
+        "woeid": 770977, 
+        "alias_SPA_V": [
+          "Pto. de Santiago"
+        ], 
+        "ne_longitude": -16.826, 
+        "longitude": -16.841, 
+        "parent_woeid": 12690198, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:17Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.231, 
+        "sw_longitude": -16.846, 
+        "fullname": "Puerto de Santiago, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.213
+      }, 
+      "id": 770977
+    }
+  ]
+}

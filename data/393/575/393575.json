@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.671, 
+              10.362
+            ], 
+            [
+              -68.671, 
+              10.371
+            ], 
+            [
+              -68.662, 
+              10.371
+            ], 
+            [
+              -68.662, 
+              10.362
+            ], 
+            [
+              -68.671, 
+              10.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.371, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          468129, 
+          468152, 
+          468281, 
+          468328, 
+          468374
+        ], 
+        "woeid": 393575, 
+        "alias_SPA_V": [
+          "S. Javier"
+        ], 
+        "ne_longitude": -68.662, 
+        "longitude": -68.667, 
+        "parent_woeid": 26804831, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.367, 
+        "sw_longitude": -68.671, 
+        "fullname": "San Javier, Yaracuy, San Felipe, Venezuela", 
+        "sw_latitude": 10.362
+      }, 
+      "id": 393575
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.382, 
+              47.521
+            ], 
+            [
+              9.382, 
+              47.530
+            ], 
+            [
+              9.395, 
+              47.530
+            ], 
+            [
+              9.395, 
+              47.521
+            ], 
+            [
+              9.382, 
+              47.521
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101540, 
+        "name": "Ebnet", 
+        "adjacent_woeid": [
+          20100846, 
+          20101769, 
+          20102977, 
+          20103816
+        ], 
+        "ne_latitude": 47.530, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.395, 
+        "longitude": 9.388, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12684282, 
+        "latitude": 47.525, 
+        "sw_longitude": 9.382, 
+        "fullname": "Ebnet, Canton of Thurgau, Arbon, Switzerland", 
+        "sw_latitude": 47.521
+      }, 
+      "id": 20101540
+    }
+  ]
+}

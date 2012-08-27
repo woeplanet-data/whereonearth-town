@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.426, 
+              19.224
+            ], 
+            [
+              -103.426, 
+              19.242
+            ], 
+            [
+              -103.407, 
+              19.242
+            ], 
+            [
+              -103.407, 
+              19.224
+            ], 
+            [
+              -103.426, 
+              19.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.242, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          113675, 
+          120311, 
+          127398, 
+          130331, 
+          136728
+        ], 
+        "woeid": 145977, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -103.407, 
+        "longitude": -103.417, 
+        "parent_woeid": 12600262, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.233, 
+        "sw_longitude": -103.426, 
+        "fullname": "Santa Cruz, Jalisco, Pihuamo, Mexico", 
+        "sw_latitude": 19.224
+      }, 
+      "id": 145977
+    }
+  ]
+}

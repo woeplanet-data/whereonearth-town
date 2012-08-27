@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.935, 
+              24.937
+            ], 
+            [
+              -106.935, 
+              24.955
+            ], 
+            [
+              -106.915, 
+              24.955
+            ], 
+            [
+              -106.915, 
+              24.937
+            ], 
+            [
+              -106.935, 
+              24.937
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.955, 
+        "name": "Coloma", 
+        "adjacent_woeid": [
+          111004, 
+          115670, 
+          116805, 
+          119541, 
+          148088
+        ], 
+        "woeid": 116800, 
+        "alias_SPA_V": [
+          "Colomo"
+        ], 
+        "ne_longitude": -106.915, 
+        "longitude": -106.925, 
+        "parent_woeid": 12599984, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.946, 
+        "sw_longitude": -106.935, 
+        "fullname": "Coloma, Durango, Tamazula, Mexico", 
+        "sw_latitude": 24.937
+      }, 
+      "id": 116800
+    }
+  ]
+}

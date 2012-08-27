@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.879, 
+              47.848
+            ], 
+            [
+              4.879, 
+              47.905
+            ], 
+            [
+              4.937, 
+              47.905
+            ], 
+            [
+              4.937, 
+              47.848
+            ], 
+            [
+              4.879, 
+              47.848
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 606381, 
+        "name": "Les Goulles", 
+        "adjacent_woeid": [
+          577017, 
+          594139, 
+          597648, 
+          608055, 
+          608904
+        ], 
+        "ne_latitude": 47.905, 
+        "ne_longitude": 4.937, 
+        "longitude": 4.906, 
+        "parent_woeid": 12647980, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lesgoul"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.882, 
+        "sw_longitude": 4.879, 
+        "fullname": "Les Goulles, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.848
+      }, 
+      "id": 606381
+    }
+  ]
+}

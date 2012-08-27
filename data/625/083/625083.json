@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.271, 
+              45.880
+            ], 
+            [
+              3.271, 
+              45.913
+            ], 
+            [
+              3.315, 
+              45.913
+            ], 
+            [
+              3.315, 
+              45.880
+            ], 
+            [
+              3.271, 
+              45.880
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625083, 
+        "name": "St.-Laure", 
+        "adjacent_woeid": [
+          589691, 
+          595685, 
+          20207010, 
+          20207012
+        ], 
+        "ne_latitude": 45.913, 
+        "ne_longitude": 3.315, 
+        "longitude": 3.291, 
+        "parent_woeid": 12652733, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Laure"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.902, 
+        "sw_longitude": 3.271, 
+        "fullname": "St.-Laure, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.880
+      }, 
+      "id": 625083
+    }
+  ]
+}

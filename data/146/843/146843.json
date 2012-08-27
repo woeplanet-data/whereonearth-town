@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.326, 
+              19.391
+            ], 
+            [
+              -104.326, 
+              19.409
+            ], 
+            [
+              -104.307, 
+              19.409
+            ], 
+            [
+              -104.307, 
+              19.391
+            ], 
+            [
+              -104.326, 
+              19.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.409, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          115482, 
+          117804, 
+          118072, 
+          119740, 
+          127599
+        ], 
+        "woeid": 146843, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -104.307, 
+        "longitude": -104.317, 
+        "parent_woeid": 12600224, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.400, 
+        "sw_longitude": -104.326, 
+        "fullname": "Santa Rosa, Jalisco, Cuautitlan de Garcia Barragan, Mexico", 
+        "sw_latitude": 19.391
+      }, 
+      "id": 146843
+    }
+  ]
+}

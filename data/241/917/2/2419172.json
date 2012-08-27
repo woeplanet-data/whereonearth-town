@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.223, 
+              45.639
+            ], 
+            [
+              -123.223, 
+              45.648
+            ], 
+            [
+              -123.210, 
+              45.648
+            ], 
+            [
+              -123.210, 
+              45.639
+            ], 
+            [
+              -123.223, 
+              45.639
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2419172, 
+        "name": "Hayward", 
+        "adjacent_woeid": [
+          2386775, 
+          2411394, 
+          2430630, 
+          2444876, 
+          2500724
+        ], 
+        "ne_latitude": 45.648, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.210, 
+        "longitude": -123.216, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:26:30Z", 
+        "parent_woeid": 12589725, 
+        "latitude": 45.643, 
+        "sw_longitude": -123.223, 
+        "fullname": "Hayward, Oregon, Washington, United States", 
+        "sw_latitude": 45.639
+      }, 
+      "id": 2419172
+    }
+  ]
+}

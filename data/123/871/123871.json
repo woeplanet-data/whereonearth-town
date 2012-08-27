@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.229, 
+              22.016
+            ], 
+            [
+              -100.229, 
+              22.034
+            ], 
+            [
+              -100.209, 
+              22.034
+            ], 
+            [
+              -100.209, 
+              22.016
+            ], 
+            [
+              -100.229, 
+              22.016
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123871, 
+        "name": "Gallinas", 
+        "adjacent_woeid": [
+          112175, 
+          116404, 
+          129711, 
+          133877, 
+          136245, 
+          142939
+        ], 
+        "ne_latitude": 22.034, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -100.209, 
+        "longitude": -100.219, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "parent_woeid": 12601494, 
+        "latitude": 22.025, 
+        "sw_longitude": -100.229, 
+        "fullname": "Gallinas, San Luis Potosi, Rioverde, Mexico", 
+        "sw_latitude": 22.016
+      }, 
+      "id": 123871
+    }
+  ]
+}

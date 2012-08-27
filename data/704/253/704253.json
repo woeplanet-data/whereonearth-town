@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.530, 
+              52.710
+            ], 
+            [
+              10.530, 
+              52.768
+            ], 
+            [
+              10.574, 
+              52.768
+            ], 
+            [
+              10.574, 
+              52.710
+            ], 
+            [
+              10.530, 
+              52.710
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704253, 
+        "name": "Weddersehl", 
+        "adjacent_woeid": [
+          633995, 
+          674184, 
+          688041, 
+          705970
+        ], 
+        "ne_latitude": 52.768, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.574, 
+        "longitude": 10.545, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:56Z", 
+        "parent_woeid": 12630286, 
+        "latitude": 52.732, 
+        "sw_longitude": 10.530, 
+        "fullname": "Weddersehl, Lower Saxony, Landkreis Gifhorn, Germany", 
+        "sw_latitude": 52.710
+      }, 
+      "id": 704253
+    }
+  ]
+}

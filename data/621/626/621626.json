@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.540, 
+              48.544
+            ], 
+            [
+              2.540, 
+              48.570
+            ], 
+            [
+              2.566, 
+              48.570
+            ], 
+            [
+              2.566, 
+              48.544
+            ], 
+            [
+              2.540, 
+              48.544
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621626, 
+        "name": "Seine-Port", 
+        "adjacent_woeid": [
+          580512, 
+          580513, 
+          613839, 
+          614445, 
+          628703
+        ], 
+        "ne_latitude": 48.570, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.566, 
+        "longitude": 2.551, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "parent_woeid": 12651825, 
+        "latitude": 48.557, 
+        "sw_longitude": 2.540, 
+        "fullname": "Seine-Port, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.544
+      }, 
+      "id": 621626
+    }
+  ]
+}

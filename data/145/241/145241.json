@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.910, 
+              22.608
+            ], 
+            [
+              -99.910, 
+              22.626
+            ], 
+            [
+              -99.890, 
+              22.626
+            ], 
+            [
+              -99.890, 
+              22.608
+            ], 
+            [
+              -99.910, 
+              22.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.626, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          111422, 
+          115723, 
+          120347, 
+          127699, 
+          135838, 
+          143322
+        ], 
+        "woeid": 145241, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -99.890, 
+        "longitude": -99.900, 
+        "parent_woeid": 12601480, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.617, 
+        "sw_longitude": -99.910, 
+        "fullname": "San Rafael, San Luis Potosi, Ciudad del Maiz, Mexico", 
+        "sw_latitude": 22.608
+      }, 
+      "id": 145241
+    }
+  ]
+}

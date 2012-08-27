@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.293, 
+              45.362
+            ], 
+            [
+              10.293, 
+              45.371
+            ], 
+            [
+              10.306, 
+              45.371
+            ], 
+            [
+              10.306, 
+              45.362
+            ], 
+            [
+              10.293, 
+              45.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20107833, 
+        "name": "Ponte Rosso", 
+        "adjacent_woeid": [
+          716726, 
+          20107257, 
+          20137193, 
+          29334245
+        ], 
+        "ne_latitude": 45.371, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.306, 
+        "longitude": 10.300, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:27:43Z", 
+        "parent_woeid": 12679549, 
+        "latitude": 45.366, 
+        "sw_longitude": 10.293, 
+        "fullname": "Ponte Rosso, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.362
+      }, 
+      "id": 20107833
+    }
+  ]
+}

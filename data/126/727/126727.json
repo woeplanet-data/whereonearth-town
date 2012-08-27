@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.144, 
+              29.658
+            ], 
+            [
+              -110.144, 
+              29.676
+            ], 
+            [
+              -110.123, 
+              29.676
+            ], 
+            [
+              -110.123, 
+              29.658
+            ], 
+            [
+              -110.144, 
+              29.658
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.676, 
+        "name": "La Capilla", 
+        "adjacent_woeid": [
+          112720, 
+          113283, 
+          116432, 
+          126385, 
+          147854
+        ], 
+        "woeid": 126727, 
+        "alias_SPA_V": [
+          "Capilla"
+        ], 
+        "ne_longitude": -110.123, 
+        "longitude": -110.133, 
+        "parent_woeid": 12601558, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.667, 
+        "sw_longitude": -110.144, 
+        "fullname": "La Capilla, Sonora, Baviacora, Mexico", 
+        "sw_latitude": 29.658
+      }, 
+      "id": 126727
+    }
+  ]
+}

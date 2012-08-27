@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.576, 
+              21.041
+            ], 
+            [
+              -98.576, 
+              21.059
+            ], 
+            [
+              -98.557, 
+              21.059
+            ], 
+            [
+              -98.557, 
+              21.041
+            ], 
+            [
+              -98.576, 
+              21.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.059, 
+        "name": "San Salvador", 
+        "adjacent_woeid": [
+          112232, 
+          116600, 
+          125501, 
+          135263, 
+          149618, 
+          149627
+        ], 
+        "woeid": 145380, 
+        "alias_SPA_V": [
+          "S Salvador"
+        ], 
+        "ne_longitude": -98.557, 
+        "longitude": -98.567, 
+        "parent_woeid": 12600181, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.050, 
+        "sw_longitude": -98.576, 
+        "fullname": "San Salvador, Hidalgo, Tlanchinol, Mexico", 
+        "sw_latitude": 21.041
+      }, 
+      "id": 145380
+    }
+  ]
+}

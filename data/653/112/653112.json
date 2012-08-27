@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.630, 
+              50.963
+            ], 
+            [
+              10.630, 
+              51.009
+            ], 
+            [
+              10.673, 
+              51.009
+            ], 
+            [
+              10.673, 
+              50.963
+            ], 
+            [
+              10.630, 
+              50.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 653112, 
+        "name": "Goldbach", 
+        "adjacent_woeid": [
+          646277, 
+          660555, 
+          675005, 
+          687951, 
+          700157, 
+          703898, 
+          704062, 
+          20160838
+        ], 
+        "ne_latitude": 51.009, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.673, 
+        "longitude": 10.658, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12625002, 
+        "latitude": 50.994, 
+        "sw_longitude": 10.630, 
+        "fullname": "Goldbach, Thuringia, Landkreis Gotha, Germany", 
+        "sw_latitude": 50.963
+      }, 
+      "id": 653112
+    }
+  ]
+}

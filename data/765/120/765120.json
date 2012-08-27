@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.658, 
+              42.780
+            ], 
+            [
+              0.658, 
+              42.836
+            ], 
+            [
+              0.767, 
+              42.836
+            ], 
+            [
+              0.767, 
+              42.780
+            ], 
+            [
+              0.658, 
+              42.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.836, 
+        "name": "Les", 
+        "adjacent_woeid": [
+          753299, 
+          754000, 
+          754783, 
+          755926, 
+          764553, 
+          777324, 
+          777408
+        ], 
+        "woeid": 765120, 
+        "alias_SPA_V": [
+          "Lesles"
+        ], 
+        "ne_longitude": 0.767, 
+        "longitude": 0.710, 
+        "parent_woeid": 12694013, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.810, 
+        "sw_longitude": 0.658, 
+        "fullname": "Les, Catalonia, Lleida, Spain", 
+        "sw_latitude": 42.780
+      }, 
+      "id": 765120
+    }
+  ]
+}

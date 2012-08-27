@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.527, 
+              29.524
+            ], 
+            [
+              -104.527, 
+              29.542
+            ], 
+            [
+              -104.506, 
+              29.542
+            ], 
+            [
+              -104.506, 
+              29.524
+            ], 
+            [
+              -104.527, 
+              29.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.542, 
+        "name": "Valverde", 
+        "adjacent_woeid": [
+          111756, 
+          120874, 
+          135986, 
+          137285, 
+          146929, 
+          149341
+        ], 
+        "woeid": 150554, 
+        "alias_SPA_V": [
+          "Balverdes"
+        ], 
+        "ne_longitude": -104.506, 
+        "longitude": -104.517, 
+        "parent_woeid": 12599871, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.533, 
+        "sw_longitude": -104.527, 
+        "fullname": "Valverde, Chihuahua, Ojinaga, Mexico", 
+        "sw_latitude": 29.524
+      }, 
+      "id": 150554
+    }
+  ]
+}

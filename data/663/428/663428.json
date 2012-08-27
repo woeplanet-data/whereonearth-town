@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.268, 
+              50.785
+            ], 
+            [
+              10.268, 
+              50.805
+            ], 
+            [
+              10.292, 
+              50.805
+            ], 
+            [
+              10.292, 
+              50.785
+            ], 
+            [
+              10.268, 
+              50.785
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 663428, 
+        "name": "Immelborn", 
+        "adjacent_woeid": [
+          643320, 
+          655407, 
+          664617, 
+          700316
+        ], 
+        "ne_latitude": 50.805, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.292, 
+        "longitude": 10.278, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:47Z", 
+        "parent_woeid": 12624786, 
+        "latitude": 50.792, 
+        "sw_longitude": 10.268, 
+        "fullname": "Immelborn, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.785
+      }, 
+      "id": 663428
+    }
+  ]
+}

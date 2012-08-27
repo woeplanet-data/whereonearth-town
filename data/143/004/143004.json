@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -112.047, 
+              26.196
+            ], 
+            [
+              -112.047, 
+              26.210
+            ], 
+            [
+              -112.031, 
+              26.210
+            ], 
+            [
+              -112.031, 
+              26.196
+            ], 
+            [
+              -112.047, 
+              26.196
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.210, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          117113, 
+          121464, 
+          128990, 
+          135063, 
+          143411
+        ], 
+        "woeid": 143004, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -112.031, 
+        "longitude": -112.039, 
+        "parent_woeid": 12599695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.203, 
+        "sw_longitude": -112.047, 
+        "fullname": "San Isidro, Baja California Sur, Comondu, Mexico", 
+        "sw_latitude": 26.196
+      }, 
+      "id": 143004
+    }
+  ]
+}

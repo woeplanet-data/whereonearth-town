@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.678, 
+              58.888
+            ], 
+            [
+              5.678, 
+              58.906
+            ], 
+            [
+              5.713, 
+              58.906
+            ], 
+            [
+              5.713, 
+              58.888
+            ], 
+            [
+              5.678, 
+              58.888
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "NOR", 
+        "woeid": 15000701, 
+        "name": "R\u00f8yneberg", 
+        "adjacent_woeid": [
+          858659, 
+          863435, 
+          864078, 
+          864145, 
+          864342, 
+          865609, 
+          15000994, 
+          29305148, 
+          55871703
+        ], 
+        "ne_latitude": 58.906, 
+        "ne_longitude": 5.713, 
+        "longitude": 5.695, 
+        "parent_woeid": 12593062, 
+        "placetype": "Town", 
+        "sw_longitude": 5.678, 
+        "date_indexed": "2010-12-02T10:20:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 58.897, 
+        "iso": "NO", 
+        "fullname": "R\u00f8yneberg, Rogaland Fylke, Sola Kommune, Norway", 
+        "alias_NOR_V": [
+          "R\u00f8ynebergs"
+        ], 
+        "sw_latitude": 58.888, 
+        "alias_NOR_S": [
+          "Roeyneberg"
+        ]
+      }, 
+      "id": 15000701
+    }
+  ]
+}

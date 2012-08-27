@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.643, 
+              45.880
+            ], 
+            [
+              5.643, 
+              45.898
+            ], 
+            [
+              5.669, 
+              45.898
+            ], 
+            [
+              5.669, 
+              45.880
+            ], 
+            [
+              5.643, 
+              45.880
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330289, 
+        "name": "Vogland", 
+        "adjacent_woeid": [
+          579200, 
+          609068, 
+          20207835, 
+          29330290
+        ], 
+        "ne_latitude": 45.898, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.669, 
+        "longitude": 5.656, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "parent_woeid": 12656792, 
+        "latitude": 45.889, 
+        "sw_longitude": 5.643, 
+        "fullname": "Vogland, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 45.880
+      }, 
+      "id": 29330289
+    }
+  ]
+}

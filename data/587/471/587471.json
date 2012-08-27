@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.703, 
+              48.137
+            ], 
+            [
+              0.703, 
+              48.183
+            ], 
+            [
+              0.766, 
+              48.183
+            ], 
+            [
+              0.766, 
+              48.137
+            ], 
+            [
+              0.703, 
+              48.137
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587471, 
+        "name": "Courgenard", 
+        "adjacent_woeid": [
+          587016, 
+          593698, 
+          624802, 
+          628355
+        ], 
+        "ne_latitude": 48.183, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.766, 
+        "longitude": 0.736, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "parent_woeid": 12660008, 
+        "latitude": 48.153, 
+        "sw_longitude": 0.703, 
+        "fullname": "Courgenard, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.137
+      }, 
+      "id": 587471
+    }
+  ]
+}

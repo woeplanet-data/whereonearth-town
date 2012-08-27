@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.660, 
+              22.974
+            ], 
+            [
+              -99.660, 
+              22.992
+            ], 
+            [
+              -99.640, 
+              22.992
+            ], 
+            [
+              -99.640, 
+              22.974
+            ], 
+            [
+              -99.660, 
+              22.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.992, 
+        "name": "La Laguna", 
+        "adjacent_woeid": [
+          123732, 
+          129486, 
+          131706, 
+          145232, 
+          146491, 
+          150177
+        ], 
+        "woeid": 127931, 
+        "alias_SPA_V": [
+          "Laguna"
+        ], 
+        "ne_longitude": -99.640, 
+        "longitude": -99.650, 
+        "parent_woeid": 12601670, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.983, 
+        "sw_longitude": -99.660, 
+        "fullname": "La Laguna, Tamaulipas, Tula, Mexico", 
+        "sw_latitude": 22.974
+      }, 
+      "id": 127931
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.393, 
+              45.684
+            ], 
+            [
+              5.393, 
+              45.713
+            ], 
+            [
+              5.425, 
+              45.713
+            ], 
+            [
+              5.425, 
+              45.684
+            ], 
+            [
+              5.393, 
+              45.684
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20209504, 
+        "name": "Chassin", 
+        "adjacent_woeid": [
+          576372, 
+          587910, 
+          615775, 
+          621907, 
+          628729, 
+          20209502, 
+          20209503
+        ], 
+        "ne_latitude": 45.713, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.425, 
+        "longitude": 5.412, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 20075139, 
+        "latitude": 45.696, 
+        "sw_longitude": 5.393, 
+        "fullname": "Chassin, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.684
+      }, 
+      "id": 20209504
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.853, 
+              41.566
+            ], 
+            [
+              -0.853, 
+              41.625
+            ], 
+            [
+              -0.797, 
+              41.625
+            ], 
+            [
+              -0.797, 
+              41.566
+            ], 
+            [
+              -0.853, 
+              41.566
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.625, 
+        "name": "Cartuja Baja", 
+        "adjacent_woeid": [
+          775749, 
+          20224881, 
+          20226404
+        ], 
+        "woeid": 756337, 
+        "alias_SPA_V": [
+          "Cartuja de Miraflores"
+        ], 
+        "ne_longitude": -0.797, 
+        "longitude": -0.824, 
+        "parent_woeid": 12690123, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.603, 
+        "sw_longitude": -0.853, 
+        "fullname": "Cartuja Baja, Aragon, Zaragoza, Spain", 
+        "sw_latitude": 41.566
+      }, 
+      "id": 756337
+    }
+  ]
+}

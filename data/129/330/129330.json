@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.027, 
+              23.141
+            ], 
+            [
+              -100.027, 
+              23.159
+            ], 
+            [
+              -100.007, 
+              23.159
+            ], 
+            [
+              -100.007, 
+              23.141
+            ], 
+            [
+              -100.027, 
+              23.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.159, 
+        "name": "La Tapona", 
+        "adjacent_woeid": [
+          111793, 
+          122295, 
+          122312, 
+          129559, 
+          129579, 
+          137437, 
+          142799, 
+          150710
+        ], 
+        "woeid": 129330, 
+        "alias_SPA_V": [
+          "Tapona"
+        ], 
+        "ne_longitude": -100.007, 
+        "longitude": -100.017, 
+        "parent_woeid": 12601637, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.150, 
+        "sw_longitude": -100.027, 
+        "fullname": "La Tapona, Tamaulipas, Bustamante, Mexico", 
+        "sw_latitude": 23.141
+      }, 
+      "id": 129330
+    }
+  ]
+}

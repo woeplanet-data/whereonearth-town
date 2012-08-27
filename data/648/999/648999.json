@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.118, 
+              50.038
+            ], 
+            [
+              10.118, 
+              50.077
+            ], 
+            [
+              10.153, 
+              50.077
+            ], 
+            [
+              10.153, 
+              50.038
+            ], 
+            [
+              10.118, 
+              50.038
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648999, 
+        "name": "Euerbach", 
+        "adjacent_woeid": [
+          649000, 
+          652006, 
+          669669, 
+          679984, 
+          680627, 
+          682590, 
+          685664, 
+          695441, 
+          704125
+        ], 
+        "ne_latitude": 50.077, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.153, 
+        "longitude": 10.137, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12635416, 
+        "latitude": 50.062, 
+        "sw_longitude": 10.118, 
+        "fullname": "Euerbach, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.038
+      }, 
+      "id": 648999
+    }
+  ]
+}

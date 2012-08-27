@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.197, 
+              46.805
+            ], 
+            [
+              -70.197, 
+              46.975
+            ], 
+            [
+              -69.946, 
+              46.975
+            ], 
+            [
+              -69.946, 
+              46.805
+            ], 
+            [
+              -70.197, 
+              46.805
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394590, 
+        "name": "St.-Marcel", 
+        "adjacent_woeid": [
+          1383, 
+          1443, 
+          23394527, 
+          23394531, 
+          29374500
+        ], 
+        "ne_latitude": 46.975, 
+        "ne_longitude": -69.946, 
+        "longitude": -70.054, 
+        "parent_woeid": 29375037, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Marcel"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.882, 
+        "sw_longitude": -70.197, 
+        "fullname": "St.-Marcel, Quebec, l'Islet, Canada", 
+        "sw_latitude": 46.805
+      }, 
+      "id": 23394590
+    }
+  ]
+}

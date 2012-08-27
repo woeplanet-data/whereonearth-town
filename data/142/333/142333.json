@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.960, 
+              21.958
+            ], 
+            [
+              -98.960, 
+              21.976
+            ], 
+            [
+              -98.940, 
+              21.976
+            ], 
+            [
+              -98.940, 
+              21.958
+            ], 
+            [
+              -98.960, 
+              21.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.976, 
+        "name": "San Felipe", 
+        "adjacent_woeid": [
+          111990, 
+          132404, 
+          143325, 
+          146802, 
+          148128, 
+          56074926
+        ], 
+        "woeid": 142333, 
+        "alias_SPA_V": [
+          "S Felipe"
+        ], 
+        "ne_longitude": -98.940, 
+        "longitude": -98.950, 
+        "parent_woeid": 12601483, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.967, 
+        "sw_longitude": -98.960, 
+        "fullname": "San Felipe, San Luis Potosi, Ciudad Valles, Mexico", 
+        "sw_latitude": 21.958
+      }, 
+      "id": 142333
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.406, 
+              11.136
+            ], 
+            [
+              -68.406, 
+              11.150
+            ], 
+            [
+              -68.392, 
+              11.150
+            ], 
+            [
+              -68.392, 
+              11.136
+            ], 
+            [
+              -68.406, 
+              11.136
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 11.150, 
+        "name": "San Juan de Los Cayos", 
+        "adjacent_woeid": [
+          395345, 
+          395878, 
+          468146, 
+          468582, 
+          469016
+        ], 
+        "woeid": 468548, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -68.392, 
+        "longitude": -68.399, 
+        "parent_woeid": 26805489, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.143, 
+        "sw_longitude": -68.406, 
+        "fullname": "San Juan de Los Cayos, Falcon, Acosta, Venezuela", 
+        "sw_latitude": 11.136
+      }, 
+      "id": 468548
+    }
+  ]
+}

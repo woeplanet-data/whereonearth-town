@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.356, 
+              43.241
+            ], 
+            [
+              0.356, 
+              43.250
+            ], 
+            [
+              0.369, 
+              43.250
+            ], 
+            [
+              0.369, 
+              43.241
+            ], 
+            [
+              0.356, 
+              43.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600896, 
+        "name": "Lahitte", 
+        "adjacent_woeid": [
+          580642, 
+          607953, 
+          612299, 
+          621791
+        ], 
+        "ne_latitude": 43.250, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.369, 
+        "longitude": 0.363, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12657328, 
+        "latitude": 43.245, 
+        "sw_longitude": 0.356, 
+        "fullname": "Lahitte, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.241
+      }, 
+      "id": 600896
+    }
+  ]
+}

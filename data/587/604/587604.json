@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.087, 
+              48.106
+            ], 
+            [
+              3.087, 
+              48.142
+            ], 
+            [
+              3.140, 
+              48.142
+            ], 
+            [
+              3.140, 
+              48.106
+            ], 
+            [
+              3.087, 
+              48.106
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587604, 
+        "name": "Courtoin", 
+        "adjacent_woeid": [
+          588873, 
+          589550, 
+          606833, 
+          630849, 
+          631864
+        ], 
+        "ne_latitude": 48.142, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.140, 
+        "longitude": 3.109, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12642430, 
+        "latitude": 48.124, 
+        "sw_longitude": 3.087, 
+        "fullname": "Courtoin, Burgundy, Yonne, France", 
+        "sw_latitude": 48.106
+      }, 
+      "id": 587604
+    }
+  ]
+}

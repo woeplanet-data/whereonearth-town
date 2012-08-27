@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.277, 
+              28.041
+            ], 
+            [
+              -106.277, 
+              28.059
+            ], 
+            [
+              -106.256, 
+              28.059
+            ], 
+            [
+              -106.256, 
+              28.041
+            ], 
+            [
+              -106.277, 
+              28.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.059, 
+        "name": "Los Mendoza", 
+        "adjacent_woeid": [
+          117039, 
+          117933, 
+          127824, 
+          141794, 
+          143811, 
+          146488
+        ], 
+        "woeid": 132115, 
+        "alias_SPA_V": [
+          "Mendoza"
+        ], 
+        "ne_longitude": -106.256, 
+        "longitude": -106.267, 
+        "parent_woeid": 12599880, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.050, 
+        "sw_longitude": -106.277, 
+        "fullname": "Los Mendoza, Chihuahua, Satevo, Mexico", 
+        "sw_latitude": 28.041
+      }, 
+      "id": 132115
+    }
+  ]
+}

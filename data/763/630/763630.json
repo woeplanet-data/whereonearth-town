@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.442, 
+              37.618
+            ], 
+            [
+              -1.442, 
+              37.649
+            ], 
+            [
+              -1.403, 
+              37.649
+            ], 
+            [
+              -1.403, 
+              37.618
+            ], 
+            [
+              -1.442, 
+              37.618
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.649, 
+        "name": "La Majada", 
+        "adjacent_woeid": [
+          761374, 
+          763027, 
+          763143, 
+          765074, 
+          765786, 
+          20224015, 
+          29369979
+        ], 
+        "woeid": 763630, 
+        "alias_SPA_V": [
+          "Majada"
+        ], 
+        "ne_longitude": -1.403, 
+        "longitude": -1.413, 
+        "parent_woeid": 12688151, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.631, 
+        "sw_longitude": -1.442, 
+        "fullname": "La Majada, Murcia, Murcia, Spain", 
+        "sw_latitude": 37.618
+      }, 
+      "id": 763630
+    }
+  ]
+}

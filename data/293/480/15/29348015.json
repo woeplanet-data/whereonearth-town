@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.230, 
+              48.358
+            ], 
+            [
+              12.230, 
+              48.377
+            ], 
+            [
+              12.257, 
+              48.377
+            ], 
+            [
+              12.257, 
+              48.358
+            ], 
+            [
+              12.230, 
+              48.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29348015, 
+        "name": "Viehweide", 
+        "adjacent_woeid": [
+          635852, 
+          638790, 
+          641593, 
+          667211, 
+          668844, 
+          682486, 
+          20154514, 
+          29348078
+        ], 
+        "ne_latitude": 48.377, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.257, 
+        "longitude": 12.243, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:32Z", 
+        "parent_woeid": 12622921, 
+        "latitude": 48.367, 
+        "sw_longitude": 12.230, 
+        "fullname": "Viehweide, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.358
+      }, 
+      "id": 29348015
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.110, 
+              38.674
+            ], 
+            [
+              -2.110, 
+              38.683
+            ], 
+            [
+              -2.099, 
+              38.683
+            ], 
+            [
+              -2.099, 
+              38.674
+            ], 
+            [
+              -2.110, 
+              38.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.683, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          756393, 
+          759440, 
+          759705, 
+          759793, 
+          761067, 
+          763753
+        ], 
+        "woeid": 773584, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -2.099, 
+        "longitude": -2.104, 
+        "parent_woeid": 12690217, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.679, 
+        "sw_longitude": -2.110, 
+        "fullname": "Santa Ana, Castille la Mancha, Albacete, Spain", 
+        "sw_latitude": 38.674
+      }, 
+      "id": 773584
+    }
+  ]
+}

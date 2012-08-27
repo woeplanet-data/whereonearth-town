@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.341, 
+              49.142
+            ], 
+            [
+              5.341, 
+              49.187
+            ], 
+            [
+              5.422, 
+              49.187
+            ], 
+            [
+              5.422, 
+              49.142
+            ], 
+            [
+              5.341, 
+              49.142
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630677, 
+        "name": "Verdun", 
+        "adjacent_woeid": [
+          579129, 
+          579154, 
+          579220, 
+          586241, 
+          588468, 
+          588742, 
+          589276, 
+          589567, 
+          590231, 
+          594382, 
+          613434, 
+          619036, 
+          622539, 
+          628464, 
+          630090, 
+          15003128
+        ], 
+        "ne_latitude": 49.187, 
+        "alias_ENG_V": [
+          "XVN"
+        ], 
+        "ne_longitude": 5.422, 
+        "longitude": 5.383, 
+        "parent_woeid": 12656146, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Verdun-sur-Meuse"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.165, 
+        "sw_longitude": 5.341, 
+        "fullname": "Verdun, Lorraine, Meuse, France", 
+        "sw_latitude": 49.142
+      }, 
+      "id": 630677
+    }
+  ]
+}

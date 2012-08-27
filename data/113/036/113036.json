@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.810, 
+              20.991
+            ], 
+            [
+              -100.810, 
+              21.009
+            ], 
+            [
+              -100.790, 
+              21.009
+            ], 
+            [
+              -100.790, 
+              20.991
+            ], 
+            [
+              -100.810, 
+              20.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.009, 
+        "name": "Banda", 
+        "adjacent_woeid": [
+          112675, 
+          124578, 
+          127118, 
+          129326, 
+          131884, 
+          132390
+        ], 
+        "woeid": 113036, 
+        "alias_SPA_V": [
+          "Bando"
+        ], 
+        "ne_longitude": -100.790, 
+        "longitude": -100.800, 
+        "parent_woeid": 12599991, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.000, 
+        "sw_longitude": -100.810, 
+        "fullname": "Banda, Guanajuato, Allende, Mexico", 
+        "sw_latitude": 20.991
+      }, 
+      "id": 113036
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.464, 
+              40.824
+            ], 
+            [
+              -77.464, 
+              40.973
+            ], 
+            [
+              -77.222, 
+              40.973
+            ], 
+            [
+              -77.222, 
+              40.824
+            ], 
+            [
+              -77.464, 
+              40.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745601, 
+        "name": "Haines", 
+        "adjacent_woeid": [
+          2362129, 
+          2379118, 
+          2390190, 
+          28745272, 
+          28745469, 
+          28745522
+        ], 
+        "ne_latitude": 40.973, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Haines Township"
+        ], 
+        "ne_longitude": -77.222, 
+        "longitude": -77.357, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589741, 
+        "latitude": 40.899, 
+        "sw_longitude": -77.464, 
+        "fullname": "Haines, Pennsylvania, Centre, United States", 
+        "sw_latitude": 40.824
+      }, 
+      "id": 28745601
+    }
+  ]
+}

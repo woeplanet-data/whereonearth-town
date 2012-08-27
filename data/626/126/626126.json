@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.443, 
+              43.361
+            ], 
+            [
+              0.443, 
+              43.388
+            ], 
+            [
+              0.487, 
+              43.388
+            ], 
+            [
+              0.487, 
+              43.361
+            ], 
+            [
+              0.443, 
+              43.361
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626126, 
+        "name": "St.-Ost", 
+        "adjacent_woeid": [
+          577219, 
+          588149, 
+          617278, 
+          627390, 
+          632386
+        ], 
+        "ne_latitude": 43.388, 
+        "ne_longitude": 0.487, 
+        "longitude": 0.470, 
+        "parent_woeid": 12671007, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ost"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.378, 
+        "sw_longitude": 0.443, 
+        "fullname": "St.-Ost, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.361
+      }, 
+      "id": 626126
+    }
+  ]
+}

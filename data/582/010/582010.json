@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.691, 
+              46.937
+            ], 
+            [
+              1.691, 
+              46.976
+            ], 
+            [
+              1.742, 
+              46.976
+            ], 
+            [
+              1.742, 
+              46.937
+            ], 
+            [
+              1.691, 
+              46.937
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 582010, 
+        "name": "Brion", 
+        "adjacent_woeid": [
+          581792, 
+          586435, 
+          597364, 
+          608192, 
+          632349
+        ], 
+        "ne_latitude": 46.976, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.742, 
+        "longitude": 1.728, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12639976, 
+        "latitude": 46.957, 
+        "sw_longitude": 1.691, 
+        "fullname": "Brion, Centre, Indre, France", 
+        "sw_latitude": 46.937
+      }, 
+      "id": 582010
+    }
+  ]
+}

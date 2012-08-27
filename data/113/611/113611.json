@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.111, 
+              30.691
+            ], 
+            [
+              -105.111, 
+              30.709
+            ], 
+            [
+              -105.089, 
+              30.709
+            ], 
+            [
+              -105.089, 
+              30.691
+            ], 
+            [
+              -105.111, 
+              30.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.709, 
+        "name": "Bosque Bonito", 
+        "adjacent_woeid": [
+          114110, 
+          120053, 
+          131380
+        ], 
+        "woeid": 113611, 
+        "alias_SPA_V": [
+          "Bosque"
+        ], 
+        "ne_longitude": -105.089, 
+        "longitude": -105.100, 
+        "parent_woeid": 12599846, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.700, 
+        "sw_longitude": -105.111, 
+        "fullname": "Bosque Bonito, Chihuahua, Guadalupe, Mexico", 
+        "sw_latitude": 30.691
+      }, 
+      "id": 113611
+    }
+  ]
+}

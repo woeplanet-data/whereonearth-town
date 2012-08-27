@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.376, 
+              20.524
+            ], 
+            [
+              -102.376, 
+              20.542
+            ], 
+            [
+              -102.357, 
+              20.542
+            ], 
+            [
+              -102.357, 
+              20.524
+            ], 
+            [
+              -102.376, 
+              20.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.542, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          112759, 
+          113410, 
+          127894, 
+          133395, 
+          133782
+        ], 
+        "woeid": 145508, 
+        "alias_SPA_V": [
+          "S Vicente"
+        ], 
+        "ne_longitude": -102.357, 
+        "longitude": -102.367, 
+        "parent_woeid": 12600209, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.533, 
+        "sw_longitude": -102.376, 
+        "fullname": "San Vicente, Jalisco, Ayotlan, Mexico", 
+        "sw_latitude": 20.524
+      }, 
+      "id": 145508
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              49.620
+            ], 
+            [
+              12.123, 
+              49.642
+            ], 
+            [
+              12.151, 
+              49.642
+            ], 
+            [
+              12.151, 
+              49.620
+            ], 
+            [
+              12.123, 
+              49.620
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689972, 
+        "name": "Rothenstadt", 
+        "adjacent_woeid": [
+          673447, 
+          673589, 
+          685181, 
+          686598, 
+          695762, 
+          700510, 
+          20158191
+        ], 
+        "ne_latitude": 49.642, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.151, 
+        "longitude": 12.139, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12634221, 
+        "latitude": 49.629, 
+        "sw_longitude": 12.123, 
+        "fullname": "Rothenstadt, Bavaria, Stadtkreis Weiden in der Oberpfalz, Germany", 
+        "sw_latitude": 49.620
+      }, 
+      "id": 689972
+    }
+  ]
+}

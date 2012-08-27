@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.164, 
+              14.667
+            ], 
+            [
+              -92.164, 
+              14.695
+            ], 
+            [
+              -92.141, 
+              14.695
+            ], 
+            [
+              -92.141, 
+              14.667
+            ], 
+            [
+              -92.164, 
+              14.667
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.695, 
+        "name": "Ciudad Hidalgo", 
+        "adjacent_woeid": [
+          116823, 
+          125357, 
+          125368
+        ], 
+        "woeid": 116553, 
+        "alias_SPA_V": [
+          "Suchiate"
+        ], 
+        "ne_longitude": -92.141, 
+        "longitude": -92.155, 
+        "parent_woeid": 12599796, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.678, 
+        "sw_longitude": -92.164, 
+        "fullname": "Ciudad Hidalgo, Chiapas, Suchiate, Mexico", 
+        "sw_latitude": 14.667
+      }, 
+      "id": 116553
+    }
+  ]
+}

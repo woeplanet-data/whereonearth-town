@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.054, 
+              48.159
+            ], 
+            [
+              0.054, 
+              48.195
+            ], 
+            [
+              0.097, 
+              48.195
+            ], 
+            [
+              0.097, 
+              48.159
+            ], 
+            [
+              0.054, 
+              48.159
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604771, 
+        "name": "Le Tronchet", 
+        "adjacent_woeid": [
+          576927, 
+          611431, 
+          624712, 
+          625428
+        ], 
+        "ne_latitude": 48.195, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.097, 
+        "longitude": 0.076, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "parent_woeid": 12665155, 
+        "latitude": 48.181, 
+        "sw_longitude": 0.054, 
+        "fullname": "Le Tronchet, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.159
+      }, 
+      "id": 604771
+    }
+  ]
+}

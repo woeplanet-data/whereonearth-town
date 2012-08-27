@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.205, 
+              0.195
+            ], 
+            [
+              -78.205, 
+              0.205
+            ], 
+            [
+              -78.195, 
+              0.205
+            ], 
+            [
+              -78.195, 
+              0.195
+            ], 
+            [
+              -78.205, 
+              0.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.205, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          374645, 
+          374824, 
+          374949, 
+          375738, 
+          375757, 
+          375925, 
+          375935, 
+          420048
+        ], 
+        "woeid": 374904, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -78.195, 
+        "longitude": -78.200, 
+        "parent_woeid": 26810466, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 0.200, 
+        "sw_longitude": -78.205, 
+        "fullname": "San Pablo, Imbabura, Otavalo, Ecuador", 
+        "sw_latitude": 0.195
+      }, 
+      "id": 374904
+    }
+  ]
+}

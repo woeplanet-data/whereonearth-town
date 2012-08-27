@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.710, 
+              21.291
+            ], 
+            [
+              -97.710, 
+              21.309
+            ], 
+            [
+              -97.690, 
+              21.309
+            ], 
+            [
+              -97.690, 
+              21.291
+            ], 
+            [
+              -97.710, 
+              21.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.309, 
+        "name": "La Galeana", 
+        "adjacent_woeid": [
+          110954, 
+          112061, 
+          115455, 
+          123177, 
+          148160, 
+          151475
+        ], 
+        "woeid": 127495, 
+        "alias_SPA_V": [
+          "Galeana"
+        ], 
+        "ne_longitude": -97.690, 
+        "longitude": -97.700, 
+        "parent_woeid": 12601732, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.300, 
+        "sw_longitude": -97.710, 
+        "fullname": "La Galeana, Veracruz-Llave, Amatlan Tuxpan, Mexico", 
+        "sw_latitude": 21.291
+      }, 
+      "id": 127495
+    }
+  ]
+}

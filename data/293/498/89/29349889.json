@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.111, 
+              51.894
+            ], 
+            [
+              10.111, 
+              51.912
+            ], 
+            [
+              10.140, 
+              51.912
+            ], 
+            [
+              10.140, 
+              51.894
+            ], 
+            [
+              10.111, 
+              51.894
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29349889, 
+        "name": "Siedlung Adenhausen", 
+        "adjacent_woeid": [
+          633322, 
+          638911, 
+          640331, 
+          654079, 
+          674407, 
+          20166227
+        ], 
+        "ne_latitude": 51.912, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.140, 
+        "longitude": 10.124, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:45Z", 
+        "parent_woeid": 12630361, 
+        "latitude": 51.904, 
+        "sw_longitude": 10.111, 
+        "fullname": "Siedlung Adenhausen, Lower Saxony, Landkreis Goslar, Germany", 
+        "sw_latitude": 51.894
+      }, 
+      "id": 29349889
+    }
+  ]
+}

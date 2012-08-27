@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.674, 
+              -1.290
+            ], 
+            [
+              -78.674, 
+              -1.276
+            ], 
+            [
+              -78.660, 
+              -1.276
+            ], 
+            [
+              -78.660, 
+              -1.290
+            ], 
+            [
+              -78.674, 
+              -1.290
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -1.276, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          370438, 
+          372776, 
+          372926, 
+          373988, 
+          374401, 
+          374413, 
+          376172
+        ], 
+        "woeid": 375080, 
+        "alias_SPA_V": [
+          "S. Rosa"
+        ], 
+        "ne_longitude": -78.660, 
+        "longitude": -78.667, 
+        "parent_woeid": 26810509, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.283, 
+        "sw_longitude": -78.674, 
+        "fullname": "Santa Rosa, Tungurahua, Ambato, Ecuador", 
+        "sw_latitude": -1.290
+      }, 
+      "id": 375080
+    }
+  ]
+}

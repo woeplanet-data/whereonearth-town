@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.024, 
+              43.860
+            ], 
+            [
+              1.024, 
+              43.909
+            ], 
+            [
+              1.080, 
+              43.909
+            ], 
+            [
+              1.080, 
+              43.860
+            ], 
+            [
+              1.024, 
+              43.860
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631365, 
+        "name": "Vigueron", 
+        "adjacent_woeid": [
+          579023, 
+          586592, 
+          621874, 
+          626836
+        ], 
+        "ne_latitude": 43.909, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.080, 
+        "longitude": 1.054, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12672391, 
+        "latitude": 43.885, 
+        "sw_longitude": 1.024, 
+        "fullname": "Vigueron, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.860
+      }, 
+      "id": 631365
+    }
+  ]
+}

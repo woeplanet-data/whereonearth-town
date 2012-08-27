@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.870, 
+              50.916
+            ], 
+            [
+              10.870, 
+              50.941
+            ], 
+            [
+              10.906, 
+              50.941
+            ], 
+            [
+              10.906, 
+              50.916
+            ], 
+            [
+              10.870, 
+              50.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 667109, 
+        "name": "Kleinrettbach", 
+        "adjacent_woeid": [
+          635317, 
+          651456, 
+          655165, 
+          663542
+        ], 
+        "ne_latitude": 50.941, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.906, 
+        "longitude": 10.885, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12625000, 
+        "latitude": 50.933, 
+        "sw_longitude": 10.870, 
+        "fullname": "Kleinrettbach, Thuringia, Landkreis Gotha, Germany", 
+        "sw_latitude": 50.916
+      }, 
+      "id": 667109
+    }
+  ]
+}

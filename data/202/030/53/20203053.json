@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.071, 
+              43.871
+            ], 
+            [
+              5.071, 
+              43.881
+            ], 
+            [
+              5.084, 
+              43.881
+            ], 
+            [
+              5.084, 
+              43.871
+            ], 
+            [
+              5.071, 
+              43.871
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20203053, 
+        "name": "Le Petit-Palais", 
+        "adjacent_woeid": [
+          600851, 
+          607652, 
+          20203051
+        ], 
+        "ne_latitude": 43.881, 
+        "ne_longitude": 5.084, 
+        "longitude": 5.077, 
+        "parent_woeid": 22756396, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Petit Palais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.875, 
+        "sw_longitude": 5.071, 
+        "fullname": "Le Petit-Palais, Provence-Alpes-Cote d'Azur, Vaucluse, France", 
+        "sw_latitude": 43.871
+      }, 
+      "id": 20203053
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.960, 
+              46.514
+            ], 
+            [
+              -70.960, 
+              46.624
+            ], 
+            [
+              -70.749, 
+              46.624
+            ], 
+            [
+              -70.749, 
+              46.514
+            ], 
+            [
+              -70.960, 
+              46.514
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1447, 
+        "name": "Ste.-Claire", 
+        "adjacent_woeid": [
+          1396, 
+          1562, 
+          1578, 
+          23394381, 
+          23396504, 
+          23396532
+        ], 
+        "ne_latitude": 46.624, 
+        "ne_longitude": -70.749, 
+        "longitude": -70.864, 
+        "parent_woeid": 29375160, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ste-Claire"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.601, 
+        "sw_longitude": -70.960, 
+        "fullname": "Ste.-Claire, Quebec, Bellechasse, Canada", 
+        "sw_latitude": 46.514
+      }, 
+      "id": 1447
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.482, 
+              45.577
+            ], 
+            [
+              2.482, 
+              45.602
+            ], 
+            [
+              2.506, 
+              45.602
+            ], 
+            [
+              2.506, 
+              45.577
+            ], 
+            [
+              2.482, 
+              45.577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621371, 
+        "name": "Savennes", 
+        "adjacent_woeid": [
+          586789, 
+          611146, 
+          622196, 
+          623876
+        ], 
+        "ne_latitude": 45.602, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.506, 
+        "longitude": 2.492, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12650924, 
+        "latitude": 45.590, 
+        "sw_longitude": 2.482, 
+        "fullname": "Savennes, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.577
+      }, 
+      "id": 621371
+    }
+  ]
+}

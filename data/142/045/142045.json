@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.337, 
+              19.811
+            ], 
+            [
+              -99.337, 
+              19.849
+            ], 
+            [
+              -99.314, 
+              19.849
+            ], 
+            [
+              -99.314, 
+              19.811
+            ], 
+            [
+              -99.337, 
+              19.811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.849, 
+        "name": "San Buenaventura", 
+        "adjacent_woeid": [
+          125109, 
+          129344, 
+          143647, 
+          144454, 
+          146550, 
+          26804432
+        ], 
+        "woeid": 142045, 
+        "alias_SPA_V": [
+          "S Buenaventura"
+        ], 
+        "ne_longitude": -99.314, 
+        "longitude": -99.325, 
+        "parent_woeid": 12600172, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.828, 
+        "sw_longitude": -99.337, 
+        "fullname": "San Buenaventura, Hidalgo, Tepeji del Rio de Ocampo, Mexico", 
+        "sw_latitude": 19.811
+      }, 
+      "id": 142045
+    }
+  ]
+}

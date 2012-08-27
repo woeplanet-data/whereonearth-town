@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.112, 
+              48.865
+            ], 
+            [
+              1.112, 
+              48.904
+            ], 
+            [
+              1.169, 
+              48.904
+            ], 
+            [
+              1.169, 
+              48.865
+            ], 
+            [
+              1.112, 
+              48.865
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003060, 
+        "name": "Corneuil", 
+        "adjacent_woeid": [
+          585380, 
+          587886, 
+          628546, 
+          20187494, 
+          20187533, 
+          29330732
+        ], 
+        "ne_latitude": 48.904, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.169, 
+        "longitude": 1.139, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12673051, 
+        "latitude": 48.881, 
+        "sw_longitude": 1.112, 
+        "fullname": "Corneuil, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.865
+      }, 
+      "id": 15003060
+    }
+  ]
+}

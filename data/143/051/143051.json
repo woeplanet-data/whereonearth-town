@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.610, 
+              25.841
+            ], 
+            [
+              -111.610, 
+              25.859
+            ], 
+            [
+              -111.590, 
+              25.859
+            ], 
+            [
+              -111.590, 
+              25.841
+            ], 
+            [
+              -111.610, 
+              25.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.859, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          130366, 
+          131812, 
+          140387, 
+          141407
+        ], 
+        "woeid": 143051, 
+        "alias_SPA_V": [
+          "S Javier"
+        ], 
+        "ne_longitude": -111.590, 
+        "longitude": -111.600, 
+        "parent_woeid": 24550696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.850, 
+        "sw_longitude": -111.610, 
+        "fullname": "San Javier, Baja California Sur, Loreto, Mexico", 
+        "sw_latitude": 25.841
+      }, 
+      "id": 143051
+    }
+  ]
+}

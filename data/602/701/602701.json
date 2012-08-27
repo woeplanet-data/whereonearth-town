@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.449, 
+              45.975
+            ], 
+            [
+              2.449, 
+              45.998
+            ], 
+            [
+              2.477, 
+              45.998
+            ], 
+            [
+              2.477, 
+              45.975
+            ], 
+            [
+              2.449, 
+              45.975
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602701, 
+        "name": "Le Compas", 
+        "adjacent_woeid": [
+          582125, 
+          582464, 
+          606811, 
+          620158, 
+          621918
+        ], 
+        "ne_latitude": 45.998, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.477, 
+        "longitude": 2.465, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12664794, 
+        "latitude": 45.986, 
+        "sw_longitude": 2.449, 
+        "fullname": "Le Compas, Limousin, Creuse, France", 
+        "sw_latitude": 45.975
+      }, 
+      "id": 602701
+    }
+  ]
+}

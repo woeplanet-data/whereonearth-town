@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.008, 
+              48.996
+            ], 
+            [
+              5.008, 
+              49.005
+            ], 
+            [
+              5.022, 
+              49.005
+            ], 
+            [
+              5.022, 
+              48.996
+            ], 
+            [
+              5.008, 
+              48.996
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20216883, 
+        "name": "Gumont", 
+        "adjacent_woeid": [
+          589424, 
+          593795, 
+          621718, 
+          29333262
+        ], 
+        "ne_latitude": 49.005, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.022, 
+        "longitude": 5.015, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "parent_woeid": 12643204, 
+        "latitude": 49.001, 
+        "sw_longitude": 5.008, 
+        "fullname": "Gumont, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.996
+      }, 
+      "id": 20216883
+    }
+  ]
+}

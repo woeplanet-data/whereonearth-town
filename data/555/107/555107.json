@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.265, 
+              54.752
+            ], 
+            [
+              11.265, 
+              54.768
+            ], 
+            [
+              11.291, 
+              54.768
+            ], 
+            [
+              11.291, 
+              54.752
+            ], 
+            [
+              11.265, 
+              54.752
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555107, 
+        "name": "Landet", 
+        "adjacent_woeid": [
+          551934, 
+          554969, 
+          555984, 
+          556118, 
+          557088
+        ], 
+        "ne_latitude": 54.768, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.291, 
+        "longitude": 11.278, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:30Z", 
+        "parent_woeid": 28583807, 
+        "latitude": 54.760, 
+        "sw_longitude": 11.265, 
+        "fullname": "Landet, Sjaelland, Lolland, Denmark", 
+        "sw_latitude": 54.752
+      }, 
+      "id": 555107
+    }
+  ]
+}

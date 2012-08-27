@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.380, 
+              20.145
+            ], 
+            [
+              -99.380, 
+              20.164
+            ], 
+            [
+              -99.361, 
+              20.164
+            ], 
+            [
+              -99.361, 
+              20.145
+            ], 
+            [
+              -99.380, 
+              20.145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.164, 
+        "name": "San Pedro Nextlalpan", 
+        "adjacent_woeid": [
+          112604, 
+          124791, 
+          142599, 
+          142702, 
+          145669, 
+          146530
+        ], 
+        "woeid": 145113, 
+        "alias_SPA_V": [
+          "S Pedro Nextlalpan"
+        ], 
+        "ne_longitude": -99.361, 
+        "longitude": -99.370, 
+        "parent_woeid": 12600173, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.154, 
+        "sw_longitude": -99.380, 
+        "fullname": "San Pedro Nextlalpan, Hidalgo, Tepetitlan, Mexico", 
+        "sw_latitude": 20.145
+      }, 
+      "id": 145113
+    }
+  ]
+}

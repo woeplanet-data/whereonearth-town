@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.043, 
+              46.229
+            ], 
+            [
+              6.043, 
+              46.238
+            ], 
+            [
+              6.057, 
+              46.238
+            ], 
+            [
+              6.057, 
+              46.229
+            ], 
+            [
+              6.043, 
+              46.229
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 782041, 
+        "name": "Cern", 
+        "adjacent_woeid": [
+          20101012, 
+          20103164
+        ], 
+        "ne_latitude": 46.238, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.057, 
+        "longitude": 6.050, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:50Z", 
+        "parent_woeid": 12683153, 
+        "latitude": 46.233, 
+        "sw_longitude": 6.043, 
+        "fullname": "Cern, Canton of Geneva, Geneva, Switzerland", 
+        "sw_latitude": 46.229
+      }, 
+      "id": 782041
+    }
+  ]
+}

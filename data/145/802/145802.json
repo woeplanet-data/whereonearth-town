@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.693, 
+              23.108
+            ], 
+            [
+              -109.693, 
+              23.126
+            ], 
+            [
+              -109.673, 
+              23.126
+            ], 
+            [
+              -109.673, 
+              23.108
+            ], 
+            [
+              -109.693, 
+              23.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.126, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          122329, 
+          127475, 
+          128610, 
+          145721, 
+          55897383, 
+          55897384
+        ], 
+        "woeid": 145802, 
+        "alias_SPA_V": [
+          "Sta Catarina"
+        ], 
+        "ne_longitude": -109.673, 
+        "longitude": -109.683, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.117, 
+        "sw_longitude": -109.693, 
+        "fullname": "Santa Catarina, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 23.108
+      }, 
+      "id": 145802
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.693, 
+              21.458
+            ], 
+            [
+              -97.693, 
+              21.476
+            ], 
+            [
+              -97.674, 
+              21.476
+            ], 
+            [
+              -97.674, 
+              21.458
+            ], 
+            [
+              -97.693, 
+              21.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.476, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          115919, 
+          116061, 
+          117843, 
+          122085, 
+          132818
+        ], 
+        "woeid": 144115, 
+        "alias_SPA_V": [
+          "S. Lorenzo"
+        ], 
+        "ne_longitude": -97.674, 
+        "longitude": -97.683, 
+        "parent_woeid": 12601874, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.467, 
+        "sw_longitude": -97.693, 
+        "fullname": "San Lorenzo, Veracruz-Llave, Tantima, Mexico", 
+        "sw_latitude": 21.458
+      }, 
+      "id": 144115
+    }
+  ]
+}

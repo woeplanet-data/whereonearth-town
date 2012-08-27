@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.493, 
+              47.657
+            ], 
+            [
+              2.493, 
+              47.724
+            ], 
+            [
+              2.583, 
+              47.724
+            ], 
+            [
+              2.583, 
+              47.657
+            ], 
+            [
+              2.493, 
+              47.657
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624461, 
+        "name": "St.-Gondon", 
+        "adjacent_woeid": [
+          588434, 
+          608210, 
+          612944, 
+          614253, 
+          617107, 
+          624026
+        ], 
+        "ne_latitude": 47.724, 
+        "ne_longitude": 2.583, 
+        "longitude": 2.541, 
+        "parent_woeid": 12646605, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gondon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.699, 
+        "sw_longitude": 2.493, 
+        "fullname": "St.-Gondon, Centre, Loiret, France", 
+        "sw_latitude": 47.657
+      }, 
+      "id": 624461
+    }
+  ]
+}

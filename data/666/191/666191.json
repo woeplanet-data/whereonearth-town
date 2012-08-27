@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              48.886
+            ], 
+            [
+              12.123, 
+              48.895
+            ], 
+            [
+              12.137, 
+              48.895
+            ], 
+            [
+              12.137, 
+              48.886
+            ], 
+            [
+              12.123, 
+              48.886
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666191, 
+        "name": "Klausen", 
+        "adjacent_woeid": [
+          645964, 
+          672877, 
+          681599, 
+          681730, 
+          682165, 
+          701168, 
+          704764
+        ], 
+        "ne_latitude": 48.895, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.137, 
+        "longitude": 12.130, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12623135, 
+        "latitude": 48.891, 
+        "sw_longitude": 12.123, 
+        "fullname": "Klausen, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.886
+      }, 
+      "id": 666191
+    }
+  ]
+}

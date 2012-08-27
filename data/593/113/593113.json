@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.547, 
+              48.218
+            ], 
+            [
+              5.547, 
+              48.278
+            ], 
+            [
+              5.640, 
+              48.278
+            ], 
+            [
+              5.640, 
+              48.218
+            ], 
+            [
+              5.547, 
+              48.218
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593113, 
+        "name": "Goncourt", 
+        "adjacent_woeid": [
+          583975, 
+          593110, 
+          594343, 
+          595173, 
+          608031, 
+          618079, 
+          621105, 
+          622361
+        ], 
+        "ne_latitude": 48.278, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.640, 
+        "longitude": 5.608, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:40Z", 
+        "parent_woeid": 12644592, 
+        "latitude": 48.240, 
+        "sw_longitude": 5.547, 
+        "fullname": "Goncourt, Champagne-Ardenne, Haute-Marne, France", 
+        "sw_latitude": 48.218
+      }, 
+      "id": 593113
+    }
+  ]
+}

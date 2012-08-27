@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.087, 
+              52.722
+            ], 
+            [
+              10.087, 
+              52.771
+            ], 
+            [
+              10.140, 
+              52.771
+            ], 
+            [
+              10.140, 
+              52.722
+            ], 
+            [
+              10.087, 
+              52.722
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23411700, 
+        "name": "Miele", 
+        "adjacent_woeid": [
+          634568, 
+          683174, 
+          687166, 
+          694651
+        ], 
+        "ne_latitude": 52.771, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.140, 
+        "longitude": 10.110, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:27Z", 
+        "parent_woeid": 12629606, 
+        "latitude": 52.754, 
+        "sw_longitude": 10.087, 
+        "fullname": "Miele, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.722
+      }, 
+      "id": 23411700
+    }
+  ]
+}

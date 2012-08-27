@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.189, 
+              49.001
+            ], 
+            [
+              -123.189, 
+              49.195
+            ], 
+            [
+              -122.885, 
+              49.195
+            ], 
+            [
+              -122.885, 
+              49.001
+            ], 
+            [
+              -123.189, 
+              49.001
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9824, 
+        "name": "Delta", 
+        "adjacent_woeid": [
+          9165, 
+          9274, 
+          9947, 
+          23404885, 
+          23405237
+        ], 
+        "ne_latitude": 49.195, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -122.885, 
+        "longitude": -123.060, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:09Z", 
+        "parent_woeid": 29375222, 
+        "latitude": 49.085, 
+        "sw_longitude": -123.189, 
+        "fullname": "Delta, British Columbia, Greater Vancouver, Canada", 
+        "sw_latitude": 49.001
+      }, 
+      "id": 9824
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.309, 
+              45.625
+            ], 
+            [
+              2.309, 
+              45.665
+            ], 
+            [
+              2.370, 
+              45.665
+            ], 
+            [
+              2.370, 
+              45.625
+            ], 
+            [
+              2.309, 
+              45.625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587567, 
+        "name": "Courteix", 
+        "adjacent_woeid": [
+          575604, 
+          587244, 
+          626230, 
+          626696
+        ], 
+        "ne_latitude": 45.665, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.370, 
+        "longitude": 2.342, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:47Z", 
+        "parent_woeid": 12660038, 
+        "latitude": 45.649, 
+        "sw_longitude": 2.309, 
+        "fullname": "Courteix, Limousin, Correze, France", 
+        "sw_latitude": 45.625
+      }, 
+      "id": 587567
+    }
+  ]
+}

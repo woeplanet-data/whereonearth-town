@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.478, 
+              43.255
+            ], 
+            [
+              1.478, 
+              43.295
+            ], 
+            [
+              1.516, 
+              43.295
+            ], 
+            [
+              1.516, 
+              43.255
+            ], 
+            [
+              1.478, 
+              43.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626669, 
+        "name": "St.-Quirc", 
+        "adjacent_woeid": [
+          592318, 
+          608253, 
+          20192827
+        ], 
+        "ne_latitude": 43.295, 
+        "ne_longitude": 1.516, 
+        "longitude": 1.502, 
+        "parent_woeid": 12671149, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Quirc"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.277, 
+        "sw_longitude": 1.478, 
+        "fullname": "St.-Quirc, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.255
+      }, 
+      "id": 626669
+    }
+  ]
+}

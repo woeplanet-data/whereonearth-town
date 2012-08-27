@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.284, 
+              21.691
+            ], 
+            [
+              -99.284, 
+              21.709
+            ], 
+            [
+              -99.265, 
+              21.709
+            ], 
+            [
+              -99.265, 
+              21.691
+            ], 
+            [
+              -99.284, 
+              21.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.709, 
+        "name": "El Trigo", 
+        "adjacent_woeid": [
+          127538, 
+          128340, 
+          148142, 
+          148145, 
+          148184
+        ], 
+        "woeid": 122830, 
+        "alias_SPA_V": [
+          "Trigo"
+        ], 
+        "ne_longitude": -99.265, 
+        "longitude": -99.274, 
+        "parent_woeid": 12601506, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.700, 
+        "sw_longitude": -99.284, 
+        "fullname": "El Trigo, San Luis Potosi, Tamasopo, Mexico", 
+        "sw_latitude": 21.691
+      }, 
+      "id": 122830
+    }
+  ]
+}

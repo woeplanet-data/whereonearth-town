@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.877, 
+              45.113
+            ], 
+            [
+              1.877, 
+              45.145
+            ], 
+            [
+              1.907, 
+              45.145
+            ], 
+            [
+              1.907, 
+              45.113
+            ], 
+            [
+              1.877, 
+              45.113
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623419, 
+        "name": "St.-Chamant", 
+        "adjacent_woeid": [
+          591601, 
+          614168, 
+          623308
+        ], 
+        "ne_latitude": 45.145, 
+        "ne_longitude": 1.907, 
+        "longitude": 1.894, 
+        "parent_woeid": 12666085, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Chamant"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.127, 
+        "sw_longitude": 1.877, 
+        "fullname": "St.-Chamant, Limousin, Correze, France", 
+        "sw_latitude": 45.113
+      }, 
+      "id": 623419
+    }
+  ]
+}

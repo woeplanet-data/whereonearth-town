@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.650, 
+              53.215
+            ], 
+            [
+              11.650, 
+              53.250
+            ], 
+            [
+              11.684, 
+              53.250
+            ], 
+            [
+              11.684, 
+              53.215
+            ], 
+            [
+              11.650, 
+              53.215
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666670, 
+        "name": "Klein Warnow", 
+        "adjacent_woeid": [
+          654750, 
+          662760, 
+          687230, 
+          20161409
+        ], 
+        "ne_latitude": 53.250, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.684, 
+        "longitude": 11.664, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 24547342, 
+        "latitude": 53.235, 
+        "sw_longitude": 11.650, 
+        "fullname": "Klein Warnow, Brandenburg, Prignitz, Germany", 
+        "sw_latitude": 53.215
+      }, 
+      "id": 666670
+    }
+  ]
+}

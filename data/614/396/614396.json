@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.756, 
+              48.289
+            ], 
+            [
+              0.756, 
+              48.348
+            ], 
+            [
+              0.859, 
+              48.348
+            ], 
+            [
+              0.859, 
+              48.289
+            ], 
+            [
+              0.756, 
+              48.289
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614396, 
+        "name": "Nogent-le-Rotrou", 
+        "adjacent_woeid": [
+          579331, 
+          583741, 
+          584330, 
+          586763, 
+          588471, 
+          596827, 
+          598908, 
+          609492, 
+          609998, 
+          614373, 
+          619088, 
+          622473, 
+          624599, 
+          624857, 
+          626493, 
+          628506, 
+          629412
+        ], 
+        "ne_latitude": 48.348, 
+        "ne_longitude": 0.859, 
+        "longitude": 0.822, 
+        "parent_woeid": 12647619, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Nogent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.321, 
+        "sw_longitude": 0.756, 
+        "fullname": "Nogent-le-Rotrou, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.289
+      }, 
+      "id": 614396
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.297, 
+              45.816
+            ], 
+            [
+              0.297, 
+              45.847
+            ], 
+            [
+              0.346, 
+              45.847
+            ], 
+            [
+              0.346, 
+              45.816
+            ], 
+            [
+              0.297, 
+              45.816
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627442, 
+        "name": "Ste.-Colombe", 
+        "adjacent_woeid": [
+          576785, 
+          599781, 
+          607147, 
+          622869, 
+          622974, 
+          20198596
+        ], 
+        "ne_latitude": 45.847, 
+        "ne_longitude": 0.346, 
+        "longitude": 0.318, 
+        "parent_woeid": 12671373, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Colombe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.833, 
+        "sw_longitude": 0.297, 
+        "fullname": "Ste.-Colombe, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.816
+      }, 
+      "id": 627442
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.009, 
+              50.005
+            ], 
+            [
+              11.009, 
+              50.029
+            ], 
+            [
+              11.038, 
+              50.029
+            ], 
+            [
+              11.038, 
+              50.005
+            ], 
+            [
+              11.009, 
+              50.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689566, 
+        "name": "Roschlaub", 
+        "adjacent_woeid": [
+          645433, 
+          667334, 
+          681595, 
+          681946, 
+          684367, 
+          684737, 
+          693866, 
+          701165
+        ], 
+        "ne_latitude": 50.029, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.038, 
+        "longitude": 11.025, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12635248, 
+        "latitude": 50.017, 
+        "sw_longitude": 11.009, 
+        "fullname": "Roschlaub, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 50.005
+      }, 
+      "id": 689566
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.378, 
+              47.830
+            ], 
+            [
+              4.378, 
+              47.901
+            ], 
+            [
+              4.429, 
+              47.901
+            ], 
+            [
+              4.429, 
+              47.830
+            ], 
+            [
+              4.378, 
+              47.830
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609800, 
+        "name": "Marcenay", 
+        "adjacent_woeid": [
+          580037, 
+          593820, 
+          601552, 
+          631648
+        ], 
+        "ne_latitude": 47.901, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.429, 
+        "longitude": 4.404, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12647315, 
+        "latitude": 47.863, 
+        "sw_longitude": 4.378, 
+        "fullname": "Marcenay, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.830
+      }, 
+      "id": 609800
+    }
+  ]
+}

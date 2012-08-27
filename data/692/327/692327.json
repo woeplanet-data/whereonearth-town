@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.405, 
+              53.735
+            ], 
+            [
+              10.405, 
+              53.758
+            ], 
+            [
+              10.429, 
+              53.758
+            ], 
+            [
+              10.429, 
+              53.735
+            ], 
+            [
+              10.405, 
+              53.735
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 692327, 
+        "name": "Schmachthagen", 
+        "adjacent_woeid": [
+          693339, 
+          697970, 
+          20164656, 
+          29350919
+        ], 
+        "ne_latitude": 53.758, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.429, 
+        "longitude": 10.418, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12631882, 
+        "latitude": 53.749, 
+        "sw_longitude": 10.405, 
+        "fullname": "Schmachthagen, Schleswig-Holstein, Stormarn, Germany", 
+        "sw_latitude": 53.735
+      }, 
+      "id": 692327
+    }
+  ]
+}

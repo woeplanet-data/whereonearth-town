@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.321, 
+              47.843
+            ], 
+            [
+              3.321, 
+              47.861
+            ], 
+            [
+              3.348, 
+              47.861
+            ], 
+            [
+              3.348, 
+              47.843
+            ], 
+            [
+              3.321, 
+              47.843
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332161, 
+        "name": "Le Petit-chaumont", 
+        "adjacent_woeid": [
+          584870, 
+          598158, 
+          607042, 
+          623065, 
+          20216308
+        ], 
+        "ne_latitude": 47.861, 
+        "ne_longitude": 3.348, 
+        "longitude": 3.335, 
+        "parent_woeid": 12641239, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chaumont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.852, 
+        "sw_longitude": 3.321, 
+        "fullname": "Le Petit-chaumont, Burgundy, Yonne, France", 
+        "sw_latitude": 47.843
+      }, 
+      "id": 29332161
+    }
+  ]
+}

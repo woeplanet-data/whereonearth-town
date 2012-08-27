@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.078, 
+              48.337
+            ], 
+            [
+              0.078, 
+              48.359
+            ], 
+            [
+              0.106, 
+              48.359
+            ], 
+            [
+              0.106, 
+              48.337
+            ], 
+            [
+              0.078, 
+              48.337
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614889, 
+        "name": "Oisseau-le-Petit", 
+        "adjacent_woeid": [
+          579542, 
+          579664, 
+          585609, 
+          592279, 
+          592762
+        ], 
+        "ne_latitude": 48.359, 
+        "ne_longitude": 0.106, 
+        "longitude": 0.090, 
+        "parent_woeid": 12664997, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Petit Oisseau"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.350, 
+        "sw_longitude": 0.078, 
+        "fullname": "Oisseau-le-Petit, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.337
+      }, 
+      "id": 614889
+    }
+  ]
+}

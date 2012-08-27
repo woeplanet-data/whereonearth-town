@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.970, 
+              42.926
+            ], 
+            [
+              0.970, 
+              42.978
+            ], 
+            [
+              0.999, 
+              42.978
+            ], 
+            [
+              0.999, 
+              42.926
+            ], 
+            [
+              0.970, 
+              42.926
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631837, 
+        "name": "Villeneuve", 
+        "adjacent_woeid": [
+          576537, 
+          577121, 
+          582541, 
+          20191382
+        ], 
+        "ne_latitude": 42.978, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.999, 
+        "longitude": 0.981, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12672523, 
+        "latitude": 42.938, 
+        "sw_longitude": 0.970, 
+        "fullname": "Villeneuve, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 42.926
+      }, 
+      "id": 631837
+    }
+  ]
+}

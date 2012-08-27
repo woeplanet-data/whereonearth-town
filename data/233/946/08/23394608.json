@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.281, 
+              45.485
+            ], 
+            [
+              -74.281, 
+              45.579
+            ], 
+            [
+              -74.124, 
+              45.579
+            ], 
+            [
+              -74.124, 
+              45.485
+            ], 
+            [
+              -74.281, 
+              45.485
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394608, 
+        "name": "St.-Placide", 
+        "adjacent_woeid": [
+          23395648, 
+          23396399, 
+          23396499, 
+          23396679, 
+          28752685, 
+          29374113, 
+          55959798
+        ], 
+        "ne_latitude": 45.579, 
+        "ne_longitude": -74.124, 
+        "longitude": -74.207, 
+        "parent_woeid": 29375061, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Placide"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.529, 
+        "sw_longitude": -74.281, 
+        "fullname": "St.-Placide, Quebec, Deux-Montagnes, Canada", 
+        "sw_latitude": 45.485
+      }, 
+      "id": 23394608
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.605, 
+              9.895
+            ], 
+            [
+              -84.605, 
+              9.905
+            ], 
+            [
+              -84.595, 
+              9.905
+            ], 
+            [
+              -84.595, 
+              9.895
+            ], 
+            [
+              -84.605, 
+              9.895
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.905, 
+        "name": "Ceiba", 
+        "adjacent_woeid": [
+          57753, 
+          57926, 
+          58530, 
+          58532, 
+          58757, 
+          59112
+        ], 
+        "woeid": 58032, 
+        "alias_SPA_V": [
+          "La Ceiba"
+        ], 
+        "ne_longitude": -84.595, 
+        "longitude": -84.600, 
+        "parent_woeid": 26808934, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.900, 
+        "sw_longitude": -84.605, 
+        "fullname": "Ceiba, Alajuela, Orotina, Costa Rica", 
+        "sw_latitude": 9.895
+      }, 
+      "id": 58032
+    }
+  ]
+}

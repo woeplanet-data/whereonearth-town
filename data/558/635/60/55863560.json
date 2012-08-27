@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.586, 
+              48.761
+            ], 
+            [
+              2.586, 
+              48.815
+            ], 
+            [
+              2.650, 
+              48.815
+            ], 
+            [
+              2.650, 
+              48.761
+            ], 
+            [
+              2.586, 
+              48.761
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863560, 
+        "name": "Pontault-Combault", 
+        "adjacent_woeid": [
+          589617, 
+          615453, 
+          619796, 
+          55863496, 
+          55863508, 
+          55863514, 
+          55863548
+        ], 
+        "ne_latitude": 48.815, 
+        "ne_longitude": 2.650, 
+        "longitude": 2.607, 
+        "parent_woeid": 12641973, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Combault"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.801, 
+        "sw_longitude": 2.586, 
+        "fullname": "Pontault-Combault, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.761
+      }, 
+      "id": 55863560
+    }
+  ]
+}

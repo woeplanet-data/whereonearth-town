@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.610, 
+              26.908
+            ], 
+            [
+              -100.610, 
+              26.926
+            ], 
+            [
+              -100.590, 
+              26.926
+            ], 
+            [
+              -100.590, 
+              26.908
+            ], 
+            [
+              -100.610, 
+              26.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.926, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          114633, 
+          128361, 
+          129931, 
+          130407, 
+          141231, 
+          150483
+        ], 
+        "woeid": 141533, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -100.590, 
+        "longitude": -100.600, 
+        "parent_woeid": 12599890, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.917, 
+        "sw_longitude": -100.610, 
+        "fullname": "San Antonio, Coahuila de Zaragoza, Candela, Mexico", 
+        "sw_latitude": 26.908
+      }, 
+      "id": 141533
+    }
+  ]
+}

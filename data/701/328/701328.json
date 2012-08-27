@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.885, 
+              49.974
+            ], 
+            [
+              10.885, 
+              49.983
+            ], 
+            [
+              10.903, 
+              49.983
+            ], 
+            [
+              10.903, 
+              49.974
+            ], 
+            [
+              10.885, 
+              49.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 701328, 
+        "name": "Unteroberndorf", 
+        "adjacent_woeid": [
+          643821, 
+          646302, 
+          709257, 
+          20156150
+        ], 
+        "ne_latitude": 49.983, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.903, 
+        "longitude": 10.892, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12635226, 
+        "latitude": 49.979, 
+        "sw_longitude": 10.885, 
+        "fullname": "Unteroberndorf, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.974
+      }, 
+      "id": 701328
+    }
+  ]
+}

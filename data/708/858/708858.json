@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.287, 
+              49.262
+            ], 
+            [
+              10.287, 
+              49.280
+            ], 
+            [
+              10.314, 
+              49.280
+            ], 
+            [
+              10.314, 
+              49.262
+            ], 
+            [
+              10.287, 
+              49.262
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 708858, 
+        "name": "Ziegelhaus", 
+        "adjacent_woeid": [
+          638398, 
+          667462, 
+          671068, 
+          708872
+        ], 
+        "ne_latitude": 49.280, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.314, 
+        "longitude": 10.301, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12634397, 
+        "latitude": 49.271, 
+        "sw_longitude": 10.287, 
+        "fullname": "Ziegelhaus, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.262
+      }, 
+      "id": 708858
+    }
+  ]
+}

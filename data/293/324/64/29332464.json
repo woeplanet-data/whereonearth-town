@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.234, 
+              47.387
+            ], 
+            [
+              4.234, 
+              47.405
+            ], 
+            [
+              4.261, 
+              47.405
+            ], 
+            [
+              4.261, 
+              47.387
+            ], 
+            [
+              4.234, 
+              47.387
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332464, 
+        "name": "Villards", 
+        "adjacent_woeid": [
+          575598, 
+          576431, 
+          588953, 
+          592652, 
+          595367, 
+          612793
+        ], 
+        "ne_latitude": 47.405, 
+        "ne_longitude": 4.261, 
+        "longitude": 4.248, 
+        "parent_woeid": 12642341, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Villars"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.396, 
+        "sw_longitude": 4.234, 
+        "fullname": "Villards, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.387
+      }, 
+      "id": 29332464
+    }
+  ]
+}

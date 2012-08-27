@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.543, 
+              47.183
+            ], 
+            [
+              4.543, 
+              47.234
+            ], 
+            [
+              4.573, 
+              47.234
+            ], 
+            [
+              4.573, 
+              47.183
+            ], 
+            [
+              4.543, 
+              47.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610853, 
+        "name": "Meilly-sur-Rouvres", 
+        "adjacent_woeid": [
+          585437, 
+          587792, 
+          590132, 
+          602910, 
+          609169, 
+          613746, 
+          620292, 
+          628536
+        ], 
+        "ne_latitude": 47.234, 
+        "ne_longitude": 4.573, 
+        "longitude": 4.560, 
+        "parent_woeid": 12648986, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Meilly"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.206, 
+        "sw_longitude": 4.543, 
+        "fullname": "Meilly-sur-Rouvres, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.183
+      }, 
+      "id": 610853
+    }
+  ]
+}

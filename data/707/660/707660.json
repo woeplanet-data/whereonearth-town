@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.352, 
+              50.774
+            ], 
+            [
+              10.352, 
+              50.792
+            ], 
+            [
+              10.381, 
+              50.792
+            ], 
+            [
+              10.381, 
+              50.774
+            ], 
+            [
+              10.352, 
+              50.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707660, 
+        "name": "Wolfsberg", 
+        "adjacent_woeid": [
+          636663, 
+          674598, 
+          703222, 
+          707045
+        ], 
+        "ne_latitude": 50.792, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.381, 
+        "longitude": 10.367, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 12624763, 
+        "latitude": 50.783, 
+        "sw_longitude": 10.352, 
+        "fullname": "Wolfsberg, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.774
+      }, 
+      "id": 707660
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.226, 
+              19.524
+            ], 
+            [
+              -99.226, 
+              19.542
+            ], 
+            [
+              -99.207, 
+              19.542
+            ], 
+            [
+              -99.207, 
+              19.524
+            ], 
+            [
+              -99.226, 
+              19.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.542, 
+        "name": "La Loma", 
+        "adjacent_woeid": [
+          114133, 
+          116568, 
+          143141, 
+          144449, 
+          150991
+        ], 
+        "woeid": 128098, 
+        "alias_SPA_V": [
+          "Loma"
+        ], 
+        "ne_longitude": -99.207, 
+        "longitude": -99.209, 
+        "parent_woeid": 12600423, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.537, 
+        "sw_longitude": -99.226, 
+        "fullname": "La Loma, Mexico, Tlalnepantla de Baz, Mexico", 
+        "sw_latitude": 19.524
+      }, 
+      "id": 128098
+    }
+  ]
+}

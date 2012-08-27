@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.123, 
+              42.836
+            ], 
+            [
+              -79.123, 
+              42.983
+            ], 
+            [
+              -78.908, 
+              42.983
+            ], 
+            [
+              -78.908, 
+              42.836
+            ], 
+            [
+              -79.123, 
+              42.836
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 4377, 
+        "name": "Fort Erie", 
+        "adjacent_woeid": [
+          518, 
+          23397348, 
+          23397429
+        ], 
+        "ne_latitude": 42.983, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Forterie"
+        ], 
+        "ne_longitude": -78.908, 
+        "longitude": -78.974, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375033, 
+        "latitude": 42.902, 
+        "sw_longitude": -79.123, 
+        "fullname": "Fort Erie, Ontario, Niagara, Canada", 
+        "sw_latitude": 42.836
+      }, 
+      "id": 4377
+    }
+  ]
+}

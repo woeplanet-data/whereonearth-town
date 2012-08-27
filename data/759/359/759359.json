@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.941, 
+              38.371
+            ], 
+            [
+              -3.941, 
+              38.444
+            ], 
+            [
+              -3.885, 
+              38.444
+            ], 
+            [
+              -3.885, 
+              38.371
+            ], 
+            [
+              -3.941, 
+              38.371
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 759359, 
+        "name": "El Hoyo", 
+        "adjacent_woeid": [
+          759160, 
+          762451, 
+          774737, 
+          778858
+        ], 
+        "ne_latitude": 38.444, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -3.885, 
+        "longitude": -3.920, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "parent_woeid": 12690352, 
+        "latitude": 38.409, 
+        "sw_longitude": -3.941, 
+        "fullname": "El Hoyo, Castille la Mancha, Ciudad Real, Spain", 
+        "sw_latitude": 38.371
+      }, 
+      "id": 759359
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.179, 
+              53.110
+            ], 
+            [
+              12.179, 
+              53.134
+            ], 
+            [
+              12.214, 
+              53.134
+            ], 
+            [
+              12.214, 
+              53.110
+            ], 
+            [
+              12.179, 
+              53.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678479, 
+        "name": "Neuhausen", 
+        "adjacent_woeid": [
+          642121, 
+          652536, 
+          665461, 
+          678578, 
+          691066
+        ], 
+        "ne_latitude": 53.134, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.214, 
+        "longitude": 12.196, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 24547303, 
+        "latitude": 53.129, 
+        "sw_longitude": 12.179, 
+        "fullname": "Neuhausen, Brandenburg, Prignitz, Germany", 
+        "sw_latitude": 53.110
+      }, 
+      "id": 678479
+    }
+  ]
+}

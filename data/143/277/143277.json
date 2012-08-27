@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.977, 
+              25.374
+            ], 
+            [
+              -99.977, 
+              25.392
+            ], 
+            [
+              -99.957, 
+              25.392
+            ], 
+            [
+              -99.957, 
+              25.374
+            ], 
+            [
+              -99.977, 
+              25.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.392, 
+        "name": "San Jose", 
+        "adjacent_woeid": [
+          119666, 
+          129479, 
+          129961, 
+          130715, 
+          132401, 
+          141576
+        ], 
+        "woeid": 143277, 
+        "alias_SPA_V": [
+          "S Jose"
+        ], 
+        "ne_longitude": -99.957, 
+        "longitude": -99.967, 
+        "parent_woeid": 12600613, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.383, 
+        "sw_longitude": -99.977, 
+        "fullname": "San Jose, Nuevo Leon, Cadereyta Jimenez, Mexico", 
+        "sw_latitude": 25.374
+      }, 
+      "id": 143277
+    }
+  ]
+}

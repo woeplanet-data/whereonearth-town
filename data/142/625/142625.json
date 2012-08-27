@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.177, 
+              24.874
+            ], 
+            [
+              -100.177, 
+              24.892
+            ], 
+            [
+              -100.157, 
+              24.892
+            ], 
+            [
+              -100.157, 
+              24.874
+            ], 
+            [
+              -100.177, 
+              24.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.892, 
+        "name": "San Francisco de los Blancos", 
+        "adjacent_woeid": [
+          118190, 
+          121638, 
+          132136, 
+          144171, 
+          146731
+        ], 
+        "woeid": 142625, 
+        "alias_SPA_V": [
+          "S Francisco de los Blancos"
+        ], 
+        "ne_longitude": -100.157, 
+        "longitude": -100.167, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.883, 
+        "sw_longitude": -100.177, 
+        "fullname": "San Francisco de los Blancos, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.874
+      }, 
+      "id": 142625
+    }
+  ]
+}

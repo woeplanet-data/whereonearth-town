@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.301, 
+              49.282
+            ], 
+            [
+              1.301, 
+              49.291
+            ], 
+            [
+              1.315, 
+              49.291
+            ], 
+            [
+              1.315, 
+              49.282
+            ], 
+            [
+              1.301, 
+              49.282
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20187854, 
+        "name": "Le Londe", 
+        "adjacent_woeid": [
+          575956, 
+          588541, 
+          591179, 
+          621759, 
+          630182, 
+          20187853, 
+          29330741
+        ], 
+        "ne_latitude": 49.291, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.315, 
+        "longitude": 1.308, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12637700, 
+        "latitude": 49.286, 
+        "sw_longitude": 1.301, 
+        "fullname": "Le Londe, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.282
+      }, 
+      "id": 20187854
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.543, 
+              21.279
+            ], 
+            [
+              -100.543, 
+              21.308
+            ], 
+            [
+              -100.495, 
+              21.308
+            ], 
+            [
+              -100.495, 
+              21.279
+            ], 
+            [
+              -100.543, 
+              21.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.308, 
+        "name": "San Luis de la Paz", 
+        "adjacent_woeid": [
+          120810, 
+          129693, 
+          133800, 
+          142945, 
+          144797
+        ], 
+        "woeid": 144253, 
+        "alias_SPA_V": [
+          "S Luis de la Paz"
+        ], 
+        "ne_longitude": -100.495, 
+        "longitude": -100.515, 
+        "parent_woeid": 12600021, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.299, 
+        "sw_longitude": -100.543, 
+        "fullname": "San Luis de la Paz, Guanajuato, San Luis de la Paz, Mexico", 
+        "sw_latitude": 21.279
+      }, 
+      "id": 144253
+    }
+  ]
+}

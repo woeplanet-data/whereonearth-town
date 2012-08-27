@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.533, 
+              50.147
+            ], 
+            [
+              11.533, 
+              50.172
+            ], 
+            [
+              11.561, 
+              50.172
+            ], 
+            [
+              11.561, 
+              50.147
+            ], 
+            [
+              11.533, 
+              50.147
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702559, 
+        "name": "Vogtendorf", 
+        "adjacent_woeid": [
+          638155, 
+          673446, 
+          684801, 
+          20172930
+        ], 
+        "ne_latitude": 50.172, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.561, 
+        "longitude": 11.550, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12635358, 
+        "latitude": 50.160, 
+        "sw_longitude": 11.533, 
+        "fullname": "Vogtendorf, Bavaria, Landkreis Kulmbach, Germany", 
+        "sw_latitude": 50.147
+      }, 
+      "id": 702559
+    }
+  ]
+}

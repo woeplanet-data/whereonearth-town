@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.104, 
+              52.411
+            ], 
+            [
+              12.104, 
+              52.457
+            ], 
+            [
+              12.149, 
+              52.457
+            ], 
+            [
+              12.149, 
+              52.411
+            ], 
+            [
+              12.104, 
+              52.411
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20163483, 
+        "name": "Genthin-Wald", 
+        "adjacent_woeid": [
+          661068, 
+          680035, 
+          691524
+        ], 
+        "ne_latitude": 52.457, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.149, 
+        "longitude": 12.124, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:52Z", 
+        "parent_woeid": 24547371, 
+        "latitude": 52.436, 
+        "sw_longitude": 12.104, 
+        "fullname": "Genthin-Wald, Saxony-Anhalt, Jerichower Land, Germany", 
+        "sw_latitude": 52.411
+      }, 
+      "id": 20163483
+    }
+  ]
+}

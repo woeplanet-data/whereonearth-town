@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.470, 
+              43.701
+            ], 
+            [
+              0.470, 
+              43.742
+            ], 
+            [
+              0.527, 
+              43.742
+            ], 
+            [
+              0.527, 
+              43.701
+            ], 
+            [
+              0.470, 
+              43.701
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625077, 
+        "name": "St.-Lary", 
+        "adjacent_woeid": [
+          576306, 
+          583332, 
+          583336, 
+          601824, 
+          615063
+        ], 
+        "ne_latitude": 43.742, 
+        "ne_longitude": 0.527, 
+        "longitude": 0.500, 
+        "parent_woeid": 12670713, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lary"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.724, 
+        "sw_longitude": 0.470, 
+        "fullname": "St.-Lary, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.701
+      }, 
+      "id": 625077
+    }
+  ]
+}

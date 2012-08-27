@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.483, 
+              44.609
+            ], 
+            [
+              5.483, 
+              44.646
+            ], 
+            [
+              5.554, 
+              44.646
+            ], 
+            [
+              5.554, 
+              44.609
+            ], 
+            [
+              5.483, 
+              44.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611642, 
+        "name": "Miscon", 
+        "adjacent_woeid": [
+          581083, 
+          607704, 
+          609103, 
+          618894
+        ], 
+        "ne_latitude": 44.646, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.554, 
+        "longitude": 5.523, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "parent_woeid": 12666741, 
+        "latitude": 44.627, 
+        "sw_longitude": 5.483, 
+        "fullname": "Miscon, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.609
+      }, 
+      "id": 611642
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.427, 
+              42.404
+            ], 
+            [
+              0.427, 
+              42.414
+            ], 
+            [
+              0.439, 
+              42.414
+            ], 
+            [
+              0.439, 
+              42.404
+            ], 
+            [
+              0.427, 
+              42.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.414, 
+        "name": "Santa Maura", 
+        "adjacent_woeid": [
+          751493, 
+          754535, 
+          760211, 
+          768285
+        ], 
+        "woeid": 20226065, 
+        "alias_SPA_V": [
+          "Sta Maura"
+        ], 
+        "ne_longitude": 0.439, 
+        "longitude": 0.433, 
+        "parent_woeid": 12689584, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.409, 
+        "sw_longitude": 0.427, 
+        "fullname": "Santa Maura, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.404
+      }, 
+      "id": 20226065
+    }
+  ]
+}

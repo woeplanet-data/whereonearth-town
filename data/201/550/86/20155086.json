@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.885, 
+              48.553
+            ], 
+            [
+              12.885, 
+              48.571
+            ], 
+            [
+              12.904, 
+              48.571
+            ], 
+            [
+              12.904, 
+              48.553
+            ], 
+            [
+              12.885, 
+              48.553
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20155086, 
+        "name": "Minihof", 
+        "adjacent_woeid": [
+          680955, 
+          20155087, 
+          20155088, 
+          29348169
+        ], 
+        "ne_latitude": 48.571, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.904, 
+        "longitude": 12.895, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12622987, 
+        "latitude": 48.559, 
+        "sw_longitude": 12.885, 
+        "fullname": "Minihof, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.553
+      }, 
+      "id": 20155086
+    }
+  ]
+}

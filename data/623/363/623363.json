@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.679, 
+              47.432
+            ], 
+            [
+              5.679, 
+              47.473
+            ], 
+            [
+              5.719, 
+              47.473
+            ], 
+            [
+              5.719, 
+              47.432
+            ], 
+            [
+              5.679, 
+              47.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623363, 
+        "name": "St.-Broing", 
+        "adjacent_woeid": [
+          589406, 
+          613885, 
+          621329, 
+          630476, 
+          20212392, 
+          20212408
+        ], 
+        "ne_latitude": 47.473, 
+        "ne_longitude": 5.719, 
+        "longitude": 5.700, 
+        "parent_woeid": 12652279, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Broing"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.448, 
+        "sw_longitude": 5.679, 
+        "fullname": "St.-Broing, Franche-Comte, Haute-Saone, France", 
+        "sw_latitude": 47.432
+      }, 
+      "id": 623363
+    }
+  ]
+}

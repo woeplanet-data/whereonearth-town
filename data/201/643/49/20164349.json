@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.242, 
+              53.923
+            ], 
+            [
+              10.242, 
+              53.932
+            ], 
+            [
+              10.258, 
+              53.932
+            ], 
+            [
+              10.258, 
+              53.923
+            ], 
+            [
+              10.242, 
+              53.923
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20164349, 
+        "name": "Rotenhahn", 
+        "adjacent_woeid": [
+          649202, 
+          660982, 
+          676371, 
+          29350704
+        ], 
+        "ne_latitude": 53.932, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.258, 
+        "longitude": 10.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:52Z", 
+        "parent_woeid": 12631693, 
+        "latitude": 53.927, 
+        "sw_longitude": 10.242, 
+        "fullname": "Rotenhahn, Schleswig-Holstein, Segeberg, Germany", 
+        "sw_latitude": 53.923
+      }, 
+      "id": 20164349
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.908, 
+              29.014
+            ], 
+            [
+              -100.908, 
+              29.028
+            ], 
+            [
+              -100.892, 
+              29.028
+            ], 
+            [
+              -100.892, 
+              29.014
+            ], 
+            [
+              -100.908, 
+              29.014
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.028, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          122020, 
+          131819, 
+          135054, 
+          135676, 
+          135865, 
+          137970, 
+          146123, 
+          55921027
+        ], 
+        "woeid": 142090, 
+        "alias_SPA_V": [
+          "S Carlos"
+        ], 
+        "ne_longitude": -100.892, 
+        "longitude": -100.900, 
+        "parent_woeid": 12599899, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.021, 
+        "sw_longitude": -100.908, 
+        "fullname": "San Carlos, Coahuila de Zaragoza, Jimenez, Mexico", 
+        "sw_latitude": 29.014
+      }, 
+      "id": 142090
+    }
+  ]
+}

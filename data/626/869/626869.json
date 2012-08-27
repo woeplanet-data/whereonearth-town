@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.385, 
+              47.336
+            ], 
+            [
+              5.385, 
+              47.381
+            ], 
+            [
+              5.431, 
+              47.381
+            ], 
+            [
+              5.431, 
+              47.336
+            ], 
+            [
+              5.385, 
+              47.336
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626869, 
+        "name": "St.-Sauveur", 
+        "adjacent_woeid": [
+          585658, 
+          589171, 
+          595406, 
+          610680, 
+          612886, 
+          628003
+        ], 
+        "ne_latitude": 47.381, 
+        "ne_longitude": 5.431, 
+        "longitude": 5.415, 
+        "parent_woeid": 12653204, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sauveur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.358, 
+        "sw_longitude": 5.385, 
+        "fullname": "St.-Sauveur, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.336
+      }, 
+      "id": 626869
+    }
+  ]
+}

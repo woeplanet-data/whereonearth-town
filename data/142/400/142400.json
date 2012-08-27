@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.793, 
+              21.558
+            ], 
+            [
+              -104.793, 
+              21.576
+            ], 
+            [
+              -104.774, 
+              21.576
+            ], 
+            [
+              -104.774, 
+              21.558
+            ], 
+            [
+              -104.793, 
+              21.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.576, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          114191, 
+          123718, 
+          134061, 
+          137038, 
+          144256, 
+          147069
+        ], 
+        "woeid": 142400, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -104.774, 
+        "longitude": -104.783, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.567, 
+        "sw_longitude": -104.793, 
+        "fullname": "San Fernando, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.558
+      }, 
+      "id": 142400
+    }
+  ]
+}

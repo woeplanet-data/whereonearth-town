@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.289, 
+              48.343
+            ], 
+            [
+              12.289, 
+              48.361
+            ], 
+            [
+              12.316, 
+              48.361
+            ], 
+            [
+              12.316, 
+              48.343
+            ], 
+            [
+              12.289, 
+              48.343
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20172375, 
+        "name": "Hub", 
+        "adjacent_woeid": [
+          665028, 
+          676858, 
+          692118, 
+          697408, 
+          20154519, 
+          20154546, 
+          20154547
+        ], 
+        "ne_latitude": 48.361, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.316, 
+        "longitude": 12.303, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:20Z", 
+        "parent_woeid": 12622926, 
+        "latitude": 48.352, 
+        "sw_longitude": 12.289, 
+        "fullname": "Hub, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.343
+      }, 
+      "id": 20172375
+    }
+  ]
+}

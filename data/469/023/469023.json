@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.957, 
+              10.193
+            ], 
+            [
+              -65.957, 
+              10.207
+            ], 
+            [
+              -65.943, 
+              10.207
+            ], 
+            [
+              -65.943, 
+              10.193
+            ], 
+            [
+              -65.957, 
+              10.193
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.207, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          381501, 
+          468273, 
+          468493, 
+          468545, 
+          468547, 
+          468593, 
+          468601
+        ], 
+        "woeid": 469023, 
+        "alias_SPA_V": [
+          "S. Fernando del Guapo"
+        ], 
+        "ne_longitude": -65.943, 
+        "longitude": -65.950, 
+        "parent_woeid": 26805187, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.200, 
+        "sw_longitude": -65.957, 
+        "fullname": "San Fernando, Miranda, Paez, Venezuela", 
+        "sw_latitude": 10.193
+      }, 
+      "id": 469023
+    }
+  ]
+}

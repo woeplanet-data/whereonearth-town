@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.360, 
+              28.908
+            ], 
+            [
+              -107.360, 
+              28.926
+            ], 
+            [
+              -107.340, 
+              28.926
+            ], 
+            [
+              -107.340, 
+              28.908
+            ], 
+            [
+              -107.360, 
+              28.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.926, 
+        "name": "San Blas", 
+        "adjacent_woeid": [
+          123724, 
+          124349, 
+          130297, 
+          139751, 
+          140886, 
+          149108
+        ], 
+        "woeid": 142030, 
+        "alias_SPA_V": [
+          "S Blas"
+        ], 
+        "ne_longitude": -107.340, 
+        "longitude": -107.350, 
+        "parent_woeid": 12599824, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.917, 
+        "sw_longitude": -107.360, 
+        "fullname": "San Blas, Chihuahua, Bachiniva, Mexico", 
+        "sw_latitude": 28.908
+      }, 
+      "id": 142030
+    }
+  ]
+}

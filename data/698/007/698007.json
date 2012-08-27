@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              53.364
+            ], 
+            [
+              12.345, 
+              53.406
+            ], 
+            [
+              12.376, 
+              53.406
+            ], 
+            [
+              12.376, 
+              53.364
+            ], 
+            [
+              12.345, 
+              53.364
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 698007, 
+        "name": "Stuer Vorwerk", 
+        "adjacent_woeid": [
+          634485, 
+          643814, 
+          677790, 
+          689196, 
+          698006, 
+          20165791
+        ], 
+        "ne_latitude": 53.406, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.376, 
+        "longitude": 12.355, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:28Z", 
+        "parent_woeid": 12630939, 
+        "latitude": 53.377, 
+        "sw_longitude": 12.345, 
+        "fullname": "Stuer Vorwerk, Mecklenburg-Vorpommern, M\u00fcritz, Germany", 
+        "sw_latitude": 53.364
+      }, 
+      "id": 698007
+    }
+  ]
+}

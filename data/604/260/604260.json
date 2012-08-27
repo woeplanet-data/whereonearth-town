@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.101, 
+              48.871
+            ], 
+            [
+              2.101, 
+              48.889
+            ], 
+            [
+              2.121, 
+              48.889
+            ], 
+            [
+              2.121, 
+              48.871
+            ], 
+            [
+              2.101, 
+              48.871
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604260, 
+        "name": "Le Port-Marly", 
+        "adjacent_woeid": [
+          587990, 
+          603882, 
+          610108, 
+          55863522
+        ], 
+        "ne_latitude": 48.889, 
+        "ne_longitude": 2.121, 
+        "longitude": 2.112, 
+        "parent_woeid": 20075318, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt-Marly"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.879, 
+        "sw_longitude": 2.101, 
+        "fullname": "Le Port-Marly, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.871
+      }, 
+      "id": 604260
+    }
+  ]
+}

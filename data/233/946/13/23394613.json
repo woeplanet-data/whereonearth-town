@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.496, 
+              46.561
+            ], 
+            [
+              -72.496, 
+              46.691
+            ], 
+            [
+              -72.337, 
+              46.691
+            ], 
+            [
+              -72.337, 
+              46.561
+            ], 
+            [
+              -72.496, 
+              46.561
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394613, 
+        "name": "St.-Stanislas", 
+        "adjacent_woeid": [
+          1576, 
+          23395686, 
+          23396413, 
+          23396488, 
+          23396599, 
+          29374206
+        ], 
+        "ne_latitude": 46.691, 
+        "ne_longitude": -72.337, 
+        "longitude": -72.388, 
+        "parent_woeid": 29375046, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Stanislas"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.617, 
+        "sw_longitude": -72.496, 
+        "fullname": "St.-Stanislas, Quebec, Les Chenaux, Canada", 
+        "sw_latitude": 46.561
+      }, 
+      "id": 23394613
+    }
+  ]
+}

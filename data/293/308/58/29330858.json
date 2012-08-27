@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.148, 
+              49.677
+            ], 
+            [
+              1.148, 
+              49.696
+            ], 
+            [
+              1.176, 
+              49.696
+            ], 
+            [
+              1.176, 
+              49.677
+            ], 
+            [
+              1.148, 
+              49.677
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330858, 
+        "name": "La Pommeraie", 
+        "adjacent_woeid": [
+          581535, 
+          597941, 
+          613049, 
+          622062, 
+          623740, 
+          625375, 
+          29330933
+        ], 
+        "ne_latitude": 49.696, 
+        "ne_longitude": 1.176, 
+        "longitude": 1.162, 
+        "parent_woeid": 12645091, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Pommeraye"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.687, 
+        "sw_longitude": 1.148, 
+        "fullname": "La Pommeraie, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.677
+      }, 
+      "id": 29330858
+    }
+  ]
+}

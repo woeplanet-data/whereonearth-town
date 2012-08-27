@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.707, 
+              46.118
+            ], 
+            [
+              -71.707, 
+              46.229
+            ], 
+            [
+              -71.549, 
+              46.229
+            ], 
+            [
+              -71.549, 
+              46.118
+            ], 
+            [
+              -71.707, 
+              46.118
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396597, 
+        "name": "St.-Pierre-Baptiste", 
+        "adjacent_woeid": [
+          715, 
+          23394384, 
+          23394410, 
+          23394549, 
+          23394575, 
+          23396659
+        ], 
+        "ne_latitude": 46.229, 
+        "ne_longitude": -71.549, 
+        "longitude": -71.640, 
+        "parent_woeid": 29375068, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pierre-Baptiste"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.170, 
+        "sw_longitude": -71.707, 
+        "fullname": "St.-Pierre-Baptiste, Quebec, L'\u00e9rable, Canada", 
+        "sw_latitude": 46.118
+      }, 
+      "id": 23396597
+    }
+  ]
+}

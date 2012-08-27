@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.275, 
+              56.456
+            ], 
+            [
+              10.275, 
+              56.475
+            ], 
+            [
+              10.309, 
+              56.475
+            ], 
+            [
+              10.309, 
+              56.456
+            ], 
+            [
+              10.275, 
+              56.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 553687, 
+        "name": "Grund", 
+        "adjacent_woeid": [
+          552405, 
+          553152, 
+          554215, 
+          29306579
+        ], 
+        "ne_latitude": 56.475, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.309, 
+        "longitude": 10.292, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:55Z", 
+        "parent_woeid": 28583810, 
+        "latitude": 56.466, 
+        "sw_longitude": 10.275, 
+        "fullname": "Grund, Midtjylland, Norddjurs, Denmark", 
+        "sw_latitude": 56.456
+      }, 
+      "id": 553687
+    }
+  ]
+}

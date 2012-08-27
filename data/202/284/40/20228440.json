@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -8.645, 
+              42.519
+            ], 
+            [
+              -8.645, 
+              42.534
+            ], 
+            [
+              -8.631, 
+              42.534
+            ], 
+            [
+              -8.631, 
+              42.519
+            ], 
+            [
+              -8.645, 
+              42.519
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.534, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          770516, 
+          770530, 
+          20223042, 
+          20225362, 
+          20227685, 
+          20228373, 
+          20228897, 
+          23413163, 
+          29371640, 
+          29371673, 
+          29371676, 
+          29372627
+        ], 
+        "woeid": 20228440, 
+        "alias_SPA_V": [
+          "San Antoni\u00f1o"
+        ], 
+        "ne_longitude": -8.631, 
+        "longitude": -8.639, 
+        "parent_woeid": 12694958, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "San Antonino"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.526, 
+        "sw_longitude": -8.645, 
+        "fullname": "San Antonio, Galicia, Pontevedra, Spain", 
+        "sw_latitude": 42.519
+      }, 
+      "id": 20228440
+    }
+  ]
+}

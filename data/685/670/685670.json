@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.082, 
+              49.938
+            ], 
+            [
+              12.082, 
+              49.959
+            ], 
+            [
+              12.098, 
+              49.959
+            ], 
+            [
+              12.098, 
+              49.938
+            ], 
+            [
+              12.082, 
+              49.938
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685670, 
+        "name": "Poppenreuth", 
+        "adjacent_woeid": [
+          657246, 
+          658907, 
+          691311, 
+          703324
+        ], 
+        "ne_latitude": 49.959, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.098, 
+        "longitude": 12.090, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12634351, 
+        "latitude": 49.948, 
+        "sw_longitude": 12.082, 
+        "fullname": "Poppenreuth, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 49.938
+      }, 
+      "id": 685670
+    }
+  ]
+}

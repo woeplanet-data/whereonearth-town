@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.078, 
+              35.126
+            ], 
+            [
+              -77.078, 
+              35.202
+            ], 
+            [
+              -77.002, 
+              35.202
+            ], 
+            [
+              -77.002, 
+              35.126
+            ], 
+            [
+              -77.078, 
+              35.126
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2405009, 
+        "name": "Forest", 
+        "adjacent_woeid": [
+          2361758, 
+          2391964, 
+          2465475, 
+          2485299
+        ], 
+        "ne_latitude": 35.202, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -77.002, 
+        "longitude": -77.040, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:25:19Z", 
+        "parent_woeid": 12589398, 
+        "latitude": 35.165, 
+        "sw_longitude": -77.078, 
+        "fullname": "Forest, North Carolina, Craven, United States", 
+        "sw_latitude": 35.126
+      }, 
+      "id": 2405009
+    }
+  ]
+}

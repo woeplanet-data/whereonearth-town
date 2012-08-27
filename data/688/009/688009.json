@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.085, 
+              51.587
+            ], 
+            [
+              10.085, 
+              51.627
+            ], 
+            [
+              10.121, 
+              51.627
+            ], 
+            [
+              10.121, 
+              51.587
+            ], 
+            [
+              10.085, 
+              51.587
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688009, 
+        "name": "Renshausen", 
+        "adjacent_woeid": [
+          639824, 
+          652588, 
+          661865, 
+          668711
+        ], 
+        "ne_latitude": 51.627, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.121, 
+        "longitude": 10.107, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12630334, 
+        "latitude": 51.605, 
+        "sw_longitude": 10.085, 
+        "fullname": "Renshausen, Lower Saxony, Gottingen, Germany", 
+        "sw_latitude": 51.587
+      }, 
+      "id": 688009
+    }
+  ]
+}

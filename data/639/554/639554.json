@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.908, 
+              50.343
+            ], 
+            [
+              8.908, 
+              50.388
+            ], 
+            [
+              8.942, 
+              50.388
+            ], 
+            [
+              8.942, 
+              50.343
+            ], 
+            [
+              8.908, 
+              50.343
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639554, 
+        "name": "Blofeld", 
+        "adjacent_woeid": [
+          638992, 
+          643875, 
+          670986, 
+          679255, 
+          680727
+        ], 
+        "ne_latitude": 50.388, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.942, 
+        "longitude": 8.925, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12632593, 
+        "latitude": 50.363, 
+        "sw_longitude": 8.908, 
+        "fullname": "Blofeld, Hesse, Wetteraukreis, Germany", 
+        "sw_latitude": 50.343
+      }, 
+      "id": 639554
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.789, 
+              49.995
+            ], 
+            [
+              6.789, 
+              50.018
+            ], 
+            [
+              6.820, 
+              50.018
+            ], 
+            [
+              6.820, 
+              49.995
+            ], 
+            [
+              6.789, 
+              49.995
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 676971, 
+        "name": "Musweiler", 
+        "adjacent_woeid": [
+          642471, 
+          663002, 
+          675341
+        ], 
+        "ne_latitude": 50.018, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.820, 
+        "longitude": 6.801, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:47Z", 
+        "parent_woeid": 12628953, 
+        "latitude": 50.011, 
+        "sw_longitude": 6.789, 
+        "fullname": "Musweiler, Rhineland-Palatinate, Bernkastel-Wittlich, Germany", 
+        "sw_latitude": 49.995
+      }, 
+      "id": 676971
+    }
+  ]
+}

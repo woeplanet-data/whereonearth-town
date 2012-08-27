@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.752, 
+              42.180
+            ], 
+            [
+              -2.752, 
+              42.245
+            ], 
+            [
+              -2.681, 
+              42.245
+            ], 
+            [
+              -2.681, 
+              42.180
+            ], 
+            [
+              -2.752, 
+              42.180
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.245, 
+        "name": "El Rasillo", 
+        "adjacent_woeid": [
+          752180, 
+          752493, 
+          754910, 
+          767608, 
+          768396, 
+          768954, 
+          769827, 
+          770725, 
+          775757, 
+          778072, 
+          778765
+        ], 
+        "woeid": 759639, 
+        "alias_SPA_V": [
+          "El Rasillo de Cameros"
+        ], 
+        "ne_longitude": -2.681, 
+        "longitude": -2.696, 
+        "parent_woeid": 12687889, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.193, 
+        "sw_longitude": -2.752, 
+        "fullname": "El Rasillo, La Rioja, Rioja, Spain", 
+        "sw_latitude": 42.180
+      }, 
+      "id": 759639
+    }
+  ]
+}

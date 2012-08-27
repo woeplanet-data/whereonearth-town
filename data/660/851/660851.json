@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.051, 
+              48.419
+            ], 
+            [
+              11.051, 
+              48.444
+            ], 
+            [
+              11.082, 
+              48.444
+            ], 
+            [
+              11.082, 
+              48.419
+            ], 
+            [
+              11.051, 
+              48.419
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660851, 
+        "name": "Hofgarten", 
+        "adjacent_woeid": [
+          654186, 
+          682216, 
+          698280, 
+          708436
+        ], 
+        "ne_latitude": 48.444, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.082, 
+        "longitude": 11.067, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12634729, 
+        "latitude": 48.433, 
+        "sw_longitude": 11.051, 
+        "fullname": "Hofgarten, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.419
+      }, 
+      "id": 660851
+    }
+  ]
+}

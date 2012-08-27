@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.384, 
+              47.488
+            ], 
+            [
+              8.384, 
+              47.506
+            ], 
+            [
+              8.411, 
+              47.506
+            ], 
+            [
+              8.411, 
+              47.488
+            ], 
+            [
+              8.384, 
+              47.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20104085, 
+        "name": "Schleinikon", 
+        "adjacent_woeid": [
+          783627, 
+          20101430, 
+          20104749
+        ], 
+        "ne_latitude": 47.506, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.411, 
+        "longitude": 8.397, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:43Z", 
+        "parent_woeid": 20075362, 
+        "latitude": 47.497, 
+        "sw_longitude": 8.384, 
+        "fullname": "Schleinikon, Canton of Zurich, Dielsdorf, Switzerland", 
+        "sw_latitude": 47.488
+      }, 
+      "id": 20104085
+    }
+  ]
+}

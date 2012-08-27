@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.250, 
+              48.663
+            ], 
+            [
+              10.250, 
+              48.708
+            ], 
+            [
+              10.292, 
+              48.708
+            ], 
+            [
+              10.292, 
+              48.663
+            ], 
+            [
+              10.250, 
+              48.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703205, 
+        "name": "Wahlberg", 
+        "adjacent_woeid": [
+          649922, 
+          683041, 
+          696420, 
+          697053
+        ], 
+        "ne_latitude": 48.708, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.292, 
+        "longitude": 10.267, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 12634813, 
+        "latitude": 48.683, 
+        "sw_longitude": 10.250, 
+        "fullname": "Wahlberg, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.663
+      }, 
+      "id": 703205
+    }
+  ]
+}

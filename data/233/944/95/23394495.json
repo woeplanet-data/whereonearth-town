@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.753, 
+              45.906
+            ], 
+            [
+              -72.753, 
+              46.013
+            ], 
+            [
+              -72.583, 
+              46.013
+            ], 
+            [
+              -72.583, 
+              45.906
+            ], 
+            [
+              -72.753, 
+              45.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394495, 
+        "name": "St.-Bonaventure", 
+        "adjacent_woeid": [
+          1507, 
+          23395582, 
+          23396517, 
+          23396530, 
+          23396565, 
+          23396595, 
+          23396618
+        ], 
+        "ne_latitude": 46.013, 
+        "ne_longitude": -72.583, 
+        "longitude": -72.683, 
+        "parent_woeid": 29375204, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Bonaventure"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.965, 
+        "sw_longitude": -72.753, 
+        "fullname": "St.-Bonaventure, Quebec, Drummond, Canada", 
+        "sw_latitude": 45.906
+      }, 
+      "id": 23394495
+    }
+  ]
+}

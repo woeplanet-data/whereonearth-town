@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.860, 
+              24.958
+            ], 
+            [
+              -103.860, 
+              24.976
+            ], 
+            [
+              -103.840, 
+              24.976
+            ], 
+            [
+              -103.840, 
+              24.958
+            ], 
+            [
+              -103.860, 
+              24.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.976, 
+        "name": "El Centro", 
+        "adjacent_woeid": [
+          111453, 
+          127413, 
+          130614, 
+          136085
+        ], 
+        "woeid": 119655, 
+        "alias_SPA_V": [
+          "Seccion El Centro"
+        ], 
+        "ne_longitude": -103.840, 
+        "longitude": -103.850, 
+        "parent_woeid": 12599953, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.967, 
+        "sw_longitude": -103.860, 
+        "fullname": "El Centro, Durango, Cuencame, Mexico", 
+        "sw_latitude": 24.958
+      }, 
+      "id": 119655
+    }
+  ]
+}

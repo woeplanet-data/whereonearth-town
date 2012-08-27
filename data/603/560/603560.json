@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.511, 
+              49.468
+            ], 
+            [
+              0.511, 
+              49.510
+            ], 
+            [
+              0.554, 
+              49.510
+            ], 
+            [
+              0.554, 
+              49.468
+            ], 
+            [
+              0.511, 
+              49.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603560, 
+        "name": "Le Mesnil", 
+        "adjacent_woeid": [
+          598337, 
+          624749
+        ], 
+        "ne_latitude": 49.510, 
+        "ne_longitude": 0.554, 
+        "longitude": 0.533, 
+        "parent_woeid": 12647173, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mesnil"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.500, 
+        "sw_longitude": 0.511, 
+        "fullname": "Le Mesnil, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.468
+      }, 
+      "id": 603560
+    }
+  ]
+}

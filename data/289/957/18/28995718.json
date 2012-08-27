@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.638, 
+              47.203
+            ], 
+            [
+              9.638, 
+              47.221
+            ], 
+            [
+              9.665, 
+              47.221
+            ], 
+            [
+              9.665, 
+              47.203
+            ], 
+            [
+              9.638, 
+              47.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995718, 
+        "name": "Heimat", 
+        "adjacent_woeid": [
+          551618, 
+          551620, 
+          28995717, 
+          28995719
+        ], 
+        "ne_latitude": 47.221, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.665, 
+        "longitude": 9.651, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12675610, 
+        "latitude": 47.212, 
+        "sw_longitude": 9.638, 
+        "fullname": "Heimat, Vorarlberg, Bludenz, Austria", 
+        "sw_latitude": 47.203
+      }, 
+      "id": 28995718
+    }
+  ]
+}

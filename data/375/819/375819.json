@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.855, 
+              1.142
+            ], 
+            [
+              -78.855, 
+              1.273
+            ], 
+            [
+              -78.726, 
+              1.273
+            ], 
+            [
+              -78.726, 
+              1.142
+            ], 
+            [
+              -78.855, 
+              1.142
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 1.273, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          369703, 
+          370267, 
+          370420, 
+          375524, 
+          375546, 
+          375777, 
+          375920, 
+          375965, 
+          376092
+        ], 
+        "woeid": 375819, 
+        "alias_SPA_V": [
+          "Pto S. Lorenzo"
+        ], 
+        "ne_longitude": -78.726, 
+        "longitude": -78.846, 
+        "parent_woeid": 26810560, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 1.263, 
+        "sw_longitude": -78.855, 
+        "fullname": "San Lorenzo, Esmeraldas, San Lorenzo, Ecuador", 
+        "sw_latitude": 1.142
+      }, 
+      "id": 375819
+    }
+  ]
+}

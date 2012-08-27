@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.618, 
+              50.578
+            ], 
+            [
+              10.618, 
+              50.641
+            ], 
+            [
+              10.733, 
+              50.641
+            ], 
+            [
+              10.733, 
+              50.578
+            ], 
+            [
+              10.618, 
+              50.578
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 698227, 
+        "name": "Suhl", 
+        "adjacent_woeid": [
+          633836, 
+          634380, 
+          634420, 
+          637766, 
+          644703, 
+          646961, 
+          650375, 
+          652554, 
+          653161, 
+          655360, 
+          658454, 
+          660333, 
+          673306, 
+          674508, 
+          681428, 
+          682320, 
+          689271, 
+          692166, 
+          708702
+        ], 
+        "ne_latitude": 50.641, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "ZSO"
+        ], 
+        "ne_longitude": 10.733, 
+        "longitude": 10.690, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:28Z", 
+        "parent_woeid": 12624638, 
+        "latitude": 50.610, 
+        "sw_longitude": 10.618, 
+        "fullname": "Suhl, Thuringia, Stadtkreis Suhl, Germany", 
+        "sw_latitude": 50.578
+      }, 
+      "id": 698227
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.193, 
+              45.725
+            ], 
+            [
+              2.193, 
+              45.751
+            ], 
+            [
+              2.217, 
+              45.751
+            ], 
+            [
+              2.217, 
+              45.725
+            ], 
+            [
+              2.193, 
+              45.725
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603469, 
+        "name": "Le Mas-d'Artige", 
+        "adjacent_woeid": [
+          586102, 
+          590793, 
+          622444
+        ], 
+        "ne_latitude": 45.751, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.217, 
+        "longitude": 2.205, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:04:01Z", 
+        "parent_woeid": 12664918, 
+        "latitude": 45.736, 
+        "sw_longitude": 2.193, 
+        "fullname": "Le Mas-d'Artige, Limousin, Creuse, France", 
+        "sw_latitude": 45.725
+      }, 
+      "id": 603469
+    }
+  ]
+}

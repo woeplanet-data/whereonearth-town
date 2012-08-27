@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.760, 
+              25.524
+            ], 
+            [
+              -107.760, 
+              25.542
+            ], 
+            [
+              -107.740, 
+              25.542
+            ], 
+            [
+              -107.740, 
+              25.524
+            ], 
+            [
+              -107.760, 
+              25.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.542, 
+        "name": "San Benito", 
+        "adjacent_woeid": [
+          118908, 
+          119003, 
+          121662, 
+          128554, 
+          135627, 
+          147639
+        ], 
+        "woeid": 141976, 
+        "alias_SPA_V": [
+          "S Benito"
+        ], 
+        "ne_longitude": -107.740, 
+        "longitude": -107.750, 
+        "parent_woeid": 12601539, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.533, 
+        "sw_longitude": -107.760, 
+        "fullname": "San Benito, Sinaloa, Mocorito, Mexico", 
+        "sw_latitude": 25.524
+      }, 
+      "id": 141976
+    }
+  ]
+}

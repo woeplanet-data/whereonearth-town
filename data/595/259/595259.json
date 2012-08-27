@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.823, 
+              47.453
+            ], 
+            [
+              3.823, 
+              47.486
+            ], 
+            [
+              3.862, 
+              47.486
+            ], 
+            [
+              3.862, 
+              47.453
+            ], 
+            [
+              3.823, 
+              47.453
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595259, 
+        "name": "Island", 
+        "adjacent_woeid": [
+          588884, 
+          610922, 
+          612888, 
+          622947, 
+          628332, 
+          630283
+        ], 
+        "ne_latitude": 47.486, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.862, 
+        "longitude": 3.846, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12641390, 
+        "latitude": 47.470, 
+        "sw_longitude": 3.823, 
+        "fullname": "Island, Burgundy, Yonne, France", 
+        "sw_latitude": 47.453
+      }, 
+      "id": 595259
+    }
+  ]
+}

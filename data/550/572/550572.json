@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.545, 
+              46.951
+            ], 
+            [
+              12.545, 
+              46.969
+            ], 
+            [
+              12.572, 
+              46.969
+            ], 
+            [
+              12.572, 
+              46.951
+            ], 
+            [
+              12.545, 
+              46.951
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550572, 
+        "name": "Feld", 
+        "adjacent_woeid": [
+          550808, 
+          550917, 
+          550926, 
+          551245, 
+          20095202, 
+          20097967
+        ], 
+        "ne_latitude": 46.969, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.572, 
+        "longitude": 12.559, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675383, 
+        "latitude": 46.960, 
+        "sw_longitude": 12.545, 
+        "fullname": "Feld, Tyrol, Lienz, Austria", 
+        "sw_latitude": 46.951
+      }, 
+      "id": 550572
+    }
+  ]
+}

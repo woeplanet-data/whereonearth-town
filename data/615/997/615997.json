@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.213, 
+              49.962
+            ], 
+            [
+              1.213, 
+              49.992
+            ], 
+            [
+              1.255, 
+              49.992
+            ], 
+            [
+              1.255, 
+              49.962
+            ], 
+            [
+              1.213, 
+              49.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615997, 
+        "name": "Penly", 
+        "adjacent_woeid": [
+          580064, 
+          582215, 
+          625713, 
+          630164
+        ], 
+        "ne_latitude": 49.992, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.255, 
+        "longitude": 1.234, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12646677, 
+        "latitude": 49.980, 
+        "sw_longitude": 1.213, 
+        "fullname": "Penly, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.962
+      }, 
+      "id": 615997
+    }
+  ]
+}

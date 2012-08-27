@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.126, 
+              41.520
+            ], 
+            [
+              -80.126, 
+              41.582
+            ], 
+            [
+              -80.038, 
+              41.582
+            ], 
+            [
+              -80.038, 
+              41.520
+            ], 
+            [
+              -80.126, 
+              41.520
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744713, 
+        "name": "East Fairfield", 
+        "adjacent_woeid": [
+          28744639, 
+          28744641, 
+          28744712, 
+          28744765, 
+          28744829, 
+          28744874
+        ], 
+        "ne_latitude": 41.582, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Fairfield Township"
+        ], 
+        "ne_longitude": -80.038, 
+        "longitude": -80.070, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589747, 
+        "latitude": 41.553, 
+        "sw_longitude": -80.126, 
+        "fullname": "East Fairfield, Pennsylvania, Crawford, United States", 
+        "sw_latitude": 41.520
+      }, 
+      "id": 28744713
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.780, 
+              49.754
+            ], 
+            [
+              1.780, 
+              49.772
+            ], 
+            [
+              1.808, 
+              49.772
+            ], 
+            [
+              1.808, 
+              49.754
+            ], 
+            [
+              1.780, 
+              49.754
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588750, 
+        "name": "Digeon", 
+        "adjacent_woeid": [
+          589976, 
+          591752, 
+          592521, 
+          613362, 
+          618630
+        ], 
+        "ne_latitude": 49.772, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.808, 
+        "longitude": 1.794, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "parent_woeid": 12659029, 
+        "latitude": 49.763, 
+        "sw_longitude": 1.780, 
+        "fullname": "Digeon, Picardie, Somme, France", 
+        "sw_latitude": 49.754
+      }, 
+      "id": 588750
+    }
+  ]
+}

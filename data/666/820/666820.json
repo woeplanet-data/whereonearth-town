@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.338, 
+              50.280
+            ], 
+            [
+              10.338, 
+              50.311
+            ], 
+            [
+              10.392, 
+              50.311
+            ], 
+            [
+              10.392, 
+              50.280
+            ], 
+            [
+              10.338, 
+              50.280
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666820, 
+        "name": "Kleineibstadt", 
+        "adjacent_woeid": [
+          654808, 
+          654890, 
+          690600, 
+          20156541
+        ], 
+        "ne_latitude": 50.311, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.392, 
+        "longitude": 10.372, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635518, 
+        "latitude": 50.295, 
+        "sw_longitude": 10.338, 
+        "fullname": "Kleineibstadt, Bavaria, Rh\u00f6n-Grabfeld, Germany", 
+        "sw_latitude": 50.280
+      }, 
+      "id": 666820
+    }
+  ]
+}

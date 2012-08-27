@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.477, 
+              24.608
+            ], 
+            [
+              -104.477, 
+              24.626
+            ], 
+            [
+              -104.457, 
+              24.626
+            ], 
+            [
+              -104.457, 
+              24.608
+            ], 
+            [
+              -104.477, 
+              24.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.626, 
+        "name": "El Saucito", 
+        "adjacent_woeid": [
+          111593, 
+          118912, 
+          131191, 
+          132072, 
+          135944, 
+          147442
+        ], 
+        "woeid": 122420, 
+        "alias_SPA_V": [
+          "Saucito"
+        ], 
+        "ne_longitude": -104.457, 
+        "longitude": -104.467, 
+        "parent_woeid": 12599978, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.617, 
+        "sw_longitude": -104.477, 
+        "fullname": "El Saucito, Durango, San Juan del Rio, Mexico", 
+        "sw_latitude": 24.608
+      }, 
+      "id": 122420
+    }
+  ]
+}

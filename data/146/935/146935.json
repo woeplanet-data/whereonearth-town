@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.777, 
+              25.991
+            ], 
+            [
+              -98.777, 
+              26.009
+            ], 
+            [
+              -98.757, 
+              26.009
+            ], 
+            [
+              -98.757, 
+              25.991
+            ], 
+            [
+              -98.777, 
+              25.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.009, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          126806, 
+          129502, 
+          134920, 
+          143259, 
+          146901
+        ], 
+        "woeid": 146935, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -98.757, 
+        "longitude": -98.767, 
+        "parent_woeid": 12600623, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.000, 
+        "sw_longitude": -98.777, 
+        "fullname": "Santa Teresa, Nuevo Leon, General Bravo, Mexico", 
+        "sw_latitude": 25.991
+      }, 
+      "id": 146935
+    }
+  ]
+}

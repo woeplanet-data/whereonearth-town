@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.948, 
+              19.625
+            ], 
+            [
+              -99.948, 
+              19.643
+            ], 
+            [
+              -99.929, 
+              19.643
+            ], 
+            [
+              -99.929, 
+              19.625
+            ], 
+            [
+              -99.948, 
+              19.625
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.643, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          120825, 
+          125959, 
+          129016, 
+          141875, 
+          145074, 
+          145100, 
+          55900361, 
+          55900365, 
+          55900366, 
+          55900368, 
+          55904976
+        ], 
+        "woeid": 145665, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -99.929, 
+        "longitude": -99.938, 
+        "parent_woeid": 12600392, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.634, 
+        "sw_longitude": -99.948, 
+        "fullname": "Santa Ana, Mexico, San Felipe del Progreso, Mexico", 
+        "sw_latitude": 19.625
+      }, 
+      "id": 145665
+    }
+  ]
+}

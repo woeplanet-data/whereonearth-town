@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.928, 
+              48.541
+            ], 
+            [
+              10.928, 
+              48.574
+            ], 
+            [
+              10.958, 
+              48.574
+            ], 
+            [
+              10.958, 
+              48.541
+            ], 
+            [
+              10.928, 
+              48.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704498, 
+        "name": "Weiden", 
+        "adjacent_woeid": [
+          636309, 
+          646508, 
+          661990, 
+          678668, 
+          699600
+        ], 
+        "ne_latitude": 48.574, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.958, 
+        "longitude": 10.948, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:56Z", 
+        "parent_woeid": 12634788, 
+        "latitude": 48.553, 
+        "sw_longitude": 10.928, 
+        "fullname": "Weiden, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.541
+      }, 
+      "id": 704498
+    }
+  ]
+}

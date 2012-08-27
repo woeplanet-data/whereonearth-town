@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.513, 
+              47.373
+            ], 
+            [
+              0.513, 
+              47.402
+            ], 
+            [
+              0.540, 
+              47.402
+            ], 
+            [
+              0.540, 
+              47.373
+            ], 
+            [
+              0.513, 
+              47.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20185943, 
+        "name": "Le Vieux Bourg", 
+        "adjacent_woeid": [
+          609091, 
+          610766, 
+          616085, 
+          20185925, 
+          20219382, 
+          29332257
+        ], 
+        "ne_latitude": 47.402, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.540, 
+        "longitude": 0.526, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12652433, 
+        "latitude": 47.384, 
+        "sw_longitude": 0.513, 
+        "fullname": "Le Vieux Bourg, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.373
+      }, 
+      "id": 20185943
+    }
+  ]
+}

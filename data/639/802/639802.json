@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.706, 
+              49.581
+            ], 
+            [
+              11.706, 
+              49.602
+            ], 
+            [
+              11.732, 
+              49.602
+            ], 
+            [
+              11.732, 
+              49.581
+            ], 
+            [
+              11.706, 
+              49.581
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639802, 
+        "name": "Boden", 
+        "adjacent_woeid": [
+          666710, 
+          679312, 
+          682576, 
+          692363, 
+          695026, 
+          704929, 
+          706106
+        ], 
+        "ne_latitude": 49.602, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.732, 
+        "longitude": 11.720, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12634225, 
+        "latitude": 49.594, 
+        "sw_longitude": 11.706, 
+        "fullname": "Boden, Bavaria, Amberg-Sulzbach, Germany", 
+        "sw_latitude": 49.581
+      }, 
+      "id": 639802
+    }
+  ]
+}

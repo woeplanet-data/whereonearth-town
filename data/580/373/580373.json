@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.119, 
+              49.806
+            ], 
+            [
+              1.119, 
+              49.815
+            ], 
+            [
+              1.133, 
+              49.815
+            ], 
+            [
+              1.133, 
+              49.806
+            ], 
+            [
+              1.119, 
+              49.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580373, 
+        "name": "Le Bois Hulin", 
+        "adjacent_woeid": [
+          588607, 
+          597450, 
+          597671, 
+          627526
+        ], 
+        "ne_latitude": 49.815, 
+        "ne_longitude": 1.133, 
+        "longitude": 1.126, 
+        "parent_woeid": 12646105, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bois-Hulin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.810, 
+        "sw_longitude": 1.119, 
+        "fullname": "Le Bois Hulin, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.806
+      }, 
+      "id": 580373
+    }
+  ]
+}

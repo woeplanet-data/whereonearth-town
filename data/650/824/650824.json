@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.515, 
+              49.234
+            ], 
+            [
+              9.515, 
+              49.252
+            ], 
+            [
+              9.542, 
+              49.252
+            ], 
+            [
+              9.542, 
+              49.234
+            ], 
+            [
+              9.515, 
+              49.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650824, 
+        "name": "Friedrichsruhe", 
+        "adjacent_woeid": [
+          675053, 
+          681728, 
+          684832, 
+          685295, 
+          697036, 
+          697543, 
+          699455, 
+          705826
+        ], 
+        "ne_latitude": 49.252, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.542, 
+        "longitude": 9.529, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12624142, 
+        "latitude": 49.243, 
+        "sw_longitude": 9.515, 
+        "fullname": "Friedrichsruhe, Baden-Wurttemberg, Hohenlohekreis, Germany", 
+        "sw_latitude": 49.234
+      }, 
+      "id": 650824
+    }
+  ]
+}

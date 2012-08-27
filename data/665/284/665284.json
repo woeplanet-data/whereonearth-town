@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.532, 
+              50.393
+            ], 
+            [
+              9.532, 
+              50.411
+            ], 
+            [
+              9.560, 
+              50.411
+            ], 
+            [
+              9.560, 
+              50.393
+            ], 
+            [
+              9.532, 
+              50.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665284, 
+        "name": "Kautz", 
+        "adjacent_woeid": [
+          651094, 
+          665197, 
+          670612, 
+          20162454
+        ], 
+        "ne_latitude": 50.411, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.560, 
+        "longitude": 9.546, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12632743, 
+        "latitude": 50.402, 
+        "sw_longitude": 9.532, 
+        "fullname": "Kautz, Hesse, Landkreis Fulda, Germany", 
+        "sw_latitude": 50.393
+      }, 
+      "id": 665284
+    }
+  ]
+}

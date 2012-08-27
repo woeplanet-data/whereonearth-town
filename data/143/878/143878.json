@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.643, 
+              26.191
+            ], 
+            [
+              -105.643, 
+              26.209
+            ], 
+            [
+              -105.623, 
+              26.209
+            ], 
+            [
+              -105.623, 
+              26.191
+            ], 
+            [
+              -105.643, 
+              26.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.209, 
+        "name": "San Juan de Heredia", 
+        "adjacent_woeid": [
+          112007, 
+          115714, 
+          122319, 
+          143569, 
+          145447, 
+          147539
+        ], 
+        "woeid": 143878, 
+        "alias_SPA_V": [
+          "S. Juan de Heredia"
+        ], 
+        "ne_longitude": -105.623, 
+        "longitude": -105.633, 
+        "parent_woeid": 12599975, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.200, 
+        "sw_longitude": -105.643, 
+        "fullname": "San Juan de Heredia, Durango, San Bernardo, Mexico", 
+        "sw_latitude": 26.191
+      }, 
+      "id": 143878
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.774, 
+              25.676
+            ], 
+            [
+              -97.774, 
+              25.690
+            ], 
+            [
+              -97.759, 
+              25.690
+            ], 
+            [
+              -97.759, 
+              25.676
+            ], 
+            [
+              -97.774, 
+              25.676
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.690, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          120975, 
+          124209, 
+          128537, 
+          130076, 
+          143270, 
+          150512
+        ], 
+        "woeid": 142889, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -97.759, 
+        "longitude": -97.767, 
+        "parent_woeid": 12601671, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.683, 
+        "sw_longitude": -97.774, 
+        "fullname": "San Isidro, Tamaulipas, Valle Hermoso, Mexico", 
+        "sw_latitude": 25.676
+      }, 
+      "id": 142889
+    }
+  ]
+}

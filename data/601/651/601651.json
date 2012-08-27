@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.260, 
+              43.190
+            ], 
+            [
+              1.260, 
+              43.217
+            ], 
+            [
+              1.300, 
+              43.217
+            ], 
+            [
+              1.300, 
+              43.190
+            ], 
+            [
+              1.260, 
+              43.190
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601651, 
+        "name": "Latour", 
+        "adjacent_woeid": [
+          578473, 
+          601431, 
+          608691, 
+          611050
+        ], 
+        "ne_latitude": 43.217, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.300, 
+        "longitude": 1.282, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12664557, 
+        "latitude": 43.201, 
+        "sw_longitude": 1.260, 
+        "fullname": "Latour, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.190
+      }, 
+      "id": 601651
+    }
+  ]
+}

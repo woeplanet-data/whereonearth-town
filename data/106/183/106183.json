@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.240, 
+              14.806
+            ], 
+            [
+              -84.240, 
+              15.465
+            ], 
+            [
+              -83.566, 
+              15.465
+            ], 
+            [
+              -83.566, 
+              14.806
+            ], 
+            [
+              -84.240, 
+              14.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.465, 
+        "name": "Puerto Lempira", 
+        "adjacent_woeid": [
+          98140, 
+          98283, 
+          107496, 
+          108066
+        ], 
+        "woeid": 106183, 
+        "alias_SPA_V": [
+          "Pto Lempira"
+        ], 
+        "ne_longitude": -83.566, 
+        "longitude": -83.777, 
+        "parent_woeid": 26813753, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.262, 
+        "sw_longitude": -84.240, 
+        "fullname": "Puerto Lempira, Gracias a Dios, Puerto Lempira, Honduras", 
+        "sw_latitude": 14.806
+      }, 
+      "id": 106183
+    }
+  ]
+}

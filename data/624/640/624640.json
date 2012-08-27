@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.260, 
+              45.916
+            ], 
+            [
+              3.260, 
+              45.952
+            ], 
+            [
+              3.286, 
+              45.952
+            ], 
+            [
+              3.286, 
+              45.916
+            ], 
+            [
+              3.260, 
+              45.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624640, 
+        "name": "St.-Ignat", 
+        "adjacent_woeid": [
+          627851, 
+          20207008, 
+          20207010, 
+          20207011, 
+          20207012
+        ], 
+        "ne_latitude": 45.952, 
+        "ne_longitude": 3.286, 
+        "longitude": 3.273, 
+        "parent_woeid": 12652636, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ignat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.923, 
+        "sw_longitude": 3.260, 
+        "fullname": "St.-Ignat, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.916
+      }, 
+      "id": 624640
+    }
+  ]
+}

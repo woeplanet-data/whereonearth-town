@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.041, 
+              48.385
+            ], 
+            [
+              0.041, 
+              48.395
+            ], 
+            [
+              0.055, 
+              48.395
+            ], 
+            [
+              0.055, 
+              48.385
+            ], 
+            [
+              0.041, 
+              48.385
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20184117, 
+        "name": "St.-James", 
+        "adjacent_woeid": [
+          579542, 
+          592762, 
+          594615, 
+          624317, 
+          29331066
+        ], 
+        "ne_latitude": 48.395, 
+        "ne_longitude": 0.055, 
+        "longitude": 0.048, 
+        "parent_woeid": 12645130, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-James"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.390, 
+        "sw_longitude": 0.041, 
+        "fullname": "St.-James, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.385
+      }, 
+      "id": 20184117
+    }
+  ]
+}

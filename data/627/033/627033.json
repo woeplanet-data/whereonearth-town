@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.657, 
+              43.746
+            ], 
+            [
+              1.657, 
+              43.788
+            ], 
+            [
+              1.701, 
+              43.788
+            ], 
+            [
+              1.701, 
+              43.746
+            ], 
+            [
+              1.657, 
+              43.746
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627033, 
+        "name": "St.-Sulpice", 
+        "adjacent_woeid": [
+          577709, 
+          579618, 
+          582547, 
+          587246, 
+          601847, 
+          608947, 
+          611411, 
+          612301, 
+          618693, 
+          619974, 
+          625284, 
+          22528002, 
+          29331861
+        ], 
+        "ne_latitude": 43.788, 
+        "ne_longitude": 1.701, 
+        "longitude": 1.686, 
+        "parent_woeid": 12671275, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sulpice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.774, 
+        "sw_longitude": 1.657, 
+        "fullname": "St.-Sulpice, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.746
+      }, 
+      "id": 627033
+    }
+  ]
+}

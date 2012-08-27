@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              48.477
+            ], 
+            [
+              12.123, 
+              48.489
+            ], 
+            [
+              12.144, 
+              48.489
+            ], 
+            [
+              12.144, 
+              48.477
+            ], 
+            [
+              12.123, 
+              48.477
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709344, 
+        "name": "Zweikirchen", 
+        "adjacent_woeid": [
+          635359, 
+          653847, 
+          656020, 
+          665567, 
+          675626, 
+          685893, 
+          696148, 
+          700981, 
+          706954
+        ], 
+        "ne_latitude": 48.489, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.144, 
+        "longitude": 12.132, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12622920, 
+        "latitude": 48.483, 
+        "sw_longitude": 12.123, 
+        "fullname": "Zweikirchen, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.477
+      }, 
+      "id": 709344
+    }
+  ]
+}

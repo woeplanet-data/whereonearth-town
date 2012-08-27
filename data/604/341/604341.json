@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.012, 
+              44.639
+            ], 
+            [
+              0.012, 
+              44.683
+            ], 
+            [
+              0.067, 
+              44.683
+            ], 
+            [
+              0.067, 
+              44.639
+            ], 
+            [
+              0.012, 
+              44.639
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604341, 
+        "name": "Le Puy", 
+        "adjacent_woeid": [
+          587680, 
+          624000, 
+          627041, 
+          29331742
+        ], 
+        "ne_latitude": 44.683, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.067, 
+        "longitude": 0.049, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12647624, 
+        "latitude": 44.658, 
+        "sw_longitude": 0.012, 
+        "fullname": "Le Puy, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.639
+      }, 
+      "id": 604341
+    }
+  ]
+}

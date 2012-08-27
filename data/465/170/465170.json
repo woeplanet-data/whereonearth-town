@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.542, 
+              -32.057
+            ], 
+            [
+              -58.542, 
+              -32.043
+            ], 
+            [
+              -58.525, 
+              -32.043
+            ], 
+            [
+              -58.525, 
+              -32.057
+            ], 
+            [
+              -58.542, 
+              -32.057
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -32.043, 
+        "name": "Colonia San Miguel", 
+        "adjacent_woeid": [
+          330749, 
+          331072, 
+          464687, 
+          464909, 
+          465165, 
+          22529044
+        ], 
+        "woeid": 465170, 
+        "alias_SPA_V": [
+          "Colonia S Miguel"
+        ], 
+        "ne_longitude": -58.525, 
+        "longitude": -58.533, 
+        "parent_woeid": 20070900, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -32.050, 
+        "sw_longitude": -58.542, 
+        "fullname": "Colonia San Miguel, Entre Rios, Colon, Argentina", 
+        "sw_latitude": -32.057
+      }, 
+      "id": 465170
+    }
+  ]
+}

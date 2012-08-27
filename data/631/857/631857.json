@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.413, 
+              43.189
+            ], 
+            [
+              1.413, 
+              43.219
+            ], 
+            [
+              1.452, 
+              43.219
+            ], 
+            [
+              1.452, 
+              43.189
+            ], 
+            [
+              1.413, 
+              43.189
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631857, 
+        "name": "Villeneuve-du-Latou", 
+        "adjacent_woeid": [
+          589311, 
+          592318, 
+          610096, 
+          627326, 
+          627744
+        ], 
+        "ne_latitude": 43.219, 
+        "ne_longitude": 1.452, 
+        "longitude": 1.433, 
+        "parent_woeid": 12672517, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Villeneuve-du Laton"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.204, 
+        "sw_longitude": 1.413, 
+        "fullname": "Villeneuve-du-Latou, Villeneuve, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.189
+      }, 
+      "id": 631857
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.500, 
+              48.454
+            ], 
+            [
+              -2.500, 
+              48.493
+            ], 
+            [
+              -2.461, 
+              48.493
+            ], 
+            [
+              -2.461, 
+              48.454
+            ], 
+            [
+              -2.500, 
+              48.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599504, 
+        "name": "La Poterie", 
+        "adjacent_woeid": [
+          614662, 
+          622760, 
+          629165
+        ], 
+        "ne_latitude": 48.493, 
+        "ne_longitude": -2.461, 
+        "longitude": -2.475, 
+        "parent_woeid": 12642167, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Poterei"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.475, 
+        "sw_longitude": -2.500, 
+        "fullname": "La Poterie, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.454
+      }, 
+      "id": 599504
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              20.277, 
+              48.070
+            ], 
+            [
+              20.277, 
+              48.125
+            ], 
+            [
+              20.350, 
+              48.125
+            ], 
+            [
+              20.350, 
+              48.070
+            ], 
+            [
+              20.277, 
+              48.070
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "HUN", 
+        "woeid": 803219, 
+        "name": "Balaton", 
+        "adjacent_woeid": [
+          803672, 
+          803680, 
+          804254, 
+          804404, 
+          804412, 
+          804893, 
+          808566, 
+          811060, 
+          812003
+        ], 
+        "ne_latitude": 48.125, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 20.350, 
+        "longitude": 20.306, 
+        "placetype": "Town", 
+        "iso": "HU", 
+        "date_indexed": "2010-12-02T09:55:57Z", 
+        "parent_woeid": 12594010, 
+        "latitude": 48.093, 
+        "sw_longitude": 20.277, 
+        "fullname": "Balaton, Heves, Balaton, Hungary", 
+        "sw_latitude": 48.070
+      }, 
+      "id": 803219
+    }
+  ]
+}

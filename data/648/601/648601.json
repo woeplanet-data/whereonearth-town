@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.451, 
+              48.528
+            ], 
+            [
+              8.451, 
+              48.565
+            ], 
+            [
+              8.487, 
+              48.565
+            ], 
+            [
+              8.487, 
+              48.528
+            ], 
+            [
+              8.451, 
+              48.528
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648601, 
+        "name": "Erzgrube", 
+        "adjacent_woeid": [
+          663241, 
+          664509, 
+          691731
+        ], 
+        "ne_latitude": 48.565, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.487, 
+        "longitude": 8.473, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12623310, 
+        "latitude": 48.549, 
+        "sw_longitude": 8.451, 
+        "fullname": "Erzgrube, Baden-Wurttemberg, Landkreis Freudenstadt, Germany", 
+        "sw_latitude": 48.528
+      }, 
+      "id": 648601
+    }
+  ]
+}

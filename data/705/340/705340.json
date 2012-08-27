@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.586, 
+              49.315
+            ], 
+            [
+              10.586, 
+              49.333
+            ], 
+            [
+              10.614, 
+              49.333
+            ], 
+            [
+              10.614, 
+              49.315
+            ], 
+            [
+              10.586, 
+              49.315
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705340, 
+        "name": "Wengenstadt", 
+        "adjacent_woeid": [
+          646740, 
+          655357, 
+          659091, 
+          681076
+        ], 
+        "ne_latitude": 49.333, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.614, 
+        "longitude": 10.600, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12634382, 
+        "latitude": 49.324, 
+        "sw_longitude": 10.586, 
+        "fullname": "Wengenstadt, Bavaria, Stadtkreis Ansbach, Germany", 
+        "sw_latitude": 49.315
+      }, 
+      "id": 705340
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.640, 
+              26.877
+            ], 
+            [
+              -99.640, 
+              26.889
+            ], 
+            [
+              -99.626, 
+              26.889
+            ], 
+            [
+              -99.626, 
+              26.877
+            ], 
+            [
+              -99.640, 
+              26.877
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.889, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          112300, 
+          135727, 
+          140041, 
+          142442, 
+          145190, 
+          145299, 
+          146760
+        ], 
+        "woeid": 145188, 
+        "alias_SPA_V": [
+          "S. Rafael"
+        ], 
+        "ne_longitude": -99.626, 
+        "longitude": -99.633, 
+        "parent_woeid": 12600646, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.883, 
+        "sw_longitude": -99.640, 
+        "fullname": "San Rafael, Nuevo Leon, Paras, Mexico", 
+        "sw_latitude": 26.877
+      }, 
+      "id": 145188
+    }
+  ]
+}

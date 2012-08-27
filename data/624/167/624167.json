@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.921, 
+              43.708
+            ], 
+            [
+              0.921, 
+              43.738
+            ], 
+            [
+              0.951, 
+              43.738
+            ], 
+            [
+              0.951, 
+              43.708
+            ], 
+            [
+              0.921, 
+              43.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624167, 
+        "name": "St.-Georges", 
+        "adjacent_woeid": [
+          600645, 
+          621066, 
+          622215, 
+          626123, 
+          627378
+        ], 
+        "ne_latitude": 43.738, 
+        "ne_longitude": 0.951, 
+        "longitude": 0.936, 
+        "parent_woeid": 12670483, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Georges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.728, 
+        "sw_longitude": 0.921, 
+        "fullname": "St.-Georges, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.708
+      }, 
+      "id": 624167
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.007, 
+              14.926
+            ], 
+            [
+              -92.007, 
+              14.940
+            ], 
+            [
+              -91.993, 
+              14.940
+            ], 
+            [
+              -91.993, 
+              14.926
+            ], 
+            [
+              -92.007, 
+              14.926
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.940, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          82219, 
+          82811, 
+          84417, 
+          86343, 
+          86487
+        ], 
+        "woeid": 85839, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -91.993, 
+        "longitude": -92.000, 
+        "parent_woeid": 26807155, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.933, 
+        "sw_longitude": -92.007, 
+        "fullname": "San Pablo, San Marcos, San Pablo, Guatemala", 
+        "sw_latitude": 14.926
+      }, 
+      "id": 85839
+    }
+  ]
+}

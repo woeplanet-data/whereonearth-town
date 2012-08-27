@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.507, 
+              14.660
+            ], 
+            [
+              -89.507, 
+              14.674
+            ], 
+            [
+              -89.493, 
+              14.674
+            ], 
+            [
+              -89.493, 
+              14.660
+            ], 
+            [
+              -89.507, 
+              14.660
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.674, 
+        "name": "San Jacinto", 
+        "adjacent_woeid": [
+          83194, 
+          85265, 
+          85697, 
+          85738, 
+          85982, 
+          86637
+        ], 
+        "woeid": 85652, 
+        "alias_SPA_V": [
+          "S Jacinto"
+        ], 
+        "ne_longitude": -89.493, 
+        "longitude": -89.500, 
+        "parent_woeid": 26806956, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.667, 
+        "sw_longitude": -89.507, 
+        "fullname": "San Jacinto, Chiquimula, San Jacinto, Guatemala", 
+        "sw_latitude": 14.660
+      }, 
+      "id": 85652
+    }
+  ]
+}

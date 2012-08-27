@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.488, 
+              50.309
+            ], 
+            [
+              10.488, 
+              50.364
+            ], 
+            [
+              10.526, 
+              50.364
+            ], 
+            [
+              10.526, 
+              50.309
+            ], 
+            [
+              10.488, 
+              50.309
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659198, 
+        "name": "Herbstadt", 
+        "adjacent_woeid": [
+          641086, 
+          649139, 
+          663672, 
+          683862
+        ], 
+        "ne_latitude": 50.364, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.526, 
+        "longitude": 10.501, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12635521, 
+        "latitude": 50.331, 
+        "sw_longitude": 10.488, 
+        "fullname": "Herbstadt, Bavaria, Rh\u00f6n-Grabfeld, Germany", 
+        "sw_latitude": 50.309
+      }, 
+      "id": 659198
+    }
+  ]
+}

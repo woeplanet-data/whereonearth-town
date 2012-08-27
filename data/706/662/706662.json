@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.210, 
+              49.665
+            ], 
+            [
+              10.210, 
+              49.701
+            ], 
+            [
+              10.251, 
+              49.701
+            ], 
+            [
+              10.251, 
+              49.665
+            ], 
+            [
+              10.210, 
+              49.665
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706662, 
+        "name": "Willanzheim", 
+        "adjacent_woeid": [
+          663113, 
+          675173, 
+          675949, 
+          699461, 
+          20156594
+        ], 
+        "ne_latitude": 49.701, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.251, 
+        "longitude": 10.232, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635590, 
+        "latitude": 49.680, 
+        "sw_longitude": 10.210, 
+        "fullname": "Willanzheim, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.665
+      }, 
+      "id": 706662
+    }
+  ]
+}

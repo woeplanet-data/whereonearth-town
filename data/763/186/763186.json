@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.326, 
+              38.615
+            ], 
+            [
+              -2.326, 
+              38.624
+            ], 
+            [
+              -2.314, 
+              38.624
+            ], 
+            [
+              -2.314, 
+              38.615
+            ], 
+            [
+              -2.326, 
+              38.615
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.624, 
+        "name": "La Casa Nueva", 
+        "adjacent_woeid": [
+          753168, 
+          756441, 
+          763693, 
+          765680, 
+          770029, 
+          771941, 
+          20225653
+        ], 
+        "woeid": 763186, 
+        "alias_SPA_V": [
+          "Casa Nueva"
+        ], 
+        "ne_longitude": -2.314, 
+        "longitude": -2.320, 
+        "parent_woeid": 12690269, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.619, 
+        "sw_longitude": -2.326, 
+        "fullname": "La Casa Nueva, Castille la Mancha, Albacete, Spain", 
+        "sw_latitude": 38.615
+      }, 
+      "id": 763186
+    }
+  ]
+}

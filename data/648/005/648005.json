@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.060, 
+              49.085
+            ], 
+            [
+              11.060, 
+              49.103
+            ], 
+            [
+              11.087, 
+              49.103
+            ], 
+            [
+              11.087, 
+              49.085
+            ], 
+            [
+              11.060, 
+              49.085
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648005, 
+        "name": "Engelreuth", 
+        "adjacent_woeid": [
+          665454, 
+          688249, 
+          690150, 
+          703835
+        ], 
+        "ne_latitude": 49.103, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.087, 
+        "longitude": 11.075, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12634567, 
+        "latitude": 49.094, 
+        "sw_longitude": 11.060, 
+        "fullname": "Engelreuth, Bavaria, Wei\u00dfenburg-Gunzenhausen, Germany", 
+        "sw_latitude": 49.085
+      }, 
+      "id": 648005
+    }
+  ]
+}

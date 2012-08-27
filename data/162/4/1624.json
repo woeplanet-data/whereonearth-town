@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.862, 
+              46.823
+            ], 
+            [
+              -70.862, 
+              46.915
+            ], 
+            [
+              -70.753, 
+              46.915
+            ], 
+            [
+              -70.753, 
+              46.823
+            ], 
+            [
+              -70.862, 
+              46.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1624, 
+        "name": "St.-Vallier", 
+        "adjacent_woeid": [
+          112, 
+          799, 
+          1603, 
+          23394562, 
+          23394598, 
+          29374198
+        ], 
+        "ne_latitude": 46.915, 
+        "ne_longitude": -70.753, 
+        "longitude": -70.824, 
+        "parent_woeid": 29375160, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Vallier"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.892, 
+        "sw_longitude": -70.862, 
+        "fullname": "St.-Vallier, Quebec, Bellechasse, Canada", 
+        "sw_latitude": 46.823
+      }, 
+      "id": 1624
+    }
+  ]
+}

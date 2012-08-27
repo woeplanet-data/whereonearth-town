@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.936, 
+              45.187
+            ], 
+            [
+              4.936, 
+              45.214
+            ], 
+            [
+              4.999, 
+              45.214
+            ], 
+            [
+              4.999, 
+              45.187
+            ], 
+            [
+              4.936, 
+              45.187
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623149, 
+        "name": "St.-Avit", 
+        "adjacent_woeid": [
+          578395, 
+          586171, 
+          613716, 
+          618873, 
+          623297, 
+          625564, 
+          628280
+        ], 
+        "ne_latitude": 45.214, 
+        "ne_longitude": 4.999, 
+        "longitude": 4.970, 
+        "parent_woeid": 12670172, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Avit"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.198, 
+        "sw_longitude": 4.936, 
+        "fullname": "St.-Avit, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 45.187
+      }, 
+      "id": 623149
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.587, 
+              51.045
+            ], 
+            [
+              10.587, 
+              51.091
+            ], 
+            [
+              10.625, 
+              51.091
+            ], 
+            [
+              10.625, 
+              51.045
+            ], 
+            [
+              10.587, 
+              51.045
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 655412, 
+        "name": "Grumbach", 
+        "adjacent_woeid": [
+          643335, 
+          659113, 
+          687494, 
+          700219, 
+          706238, 
+          709016
+        ], 
+        "ne_latitude": 51.091, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.625, 
+        "longitude": 10.616, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 12624820, 
+        "latitude": 51.065, 
+        "sw_longitude": 10.587, 
+        "fullname": "Grumbach, Thuringia, Unstrut-Hainich-Kreis, Germany", 
+        "sw_latitude": 51.045
+      }, 
+      "id": 655412
+    }
+  ]
+}

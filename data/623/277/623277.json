@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.400, 
+              48.392
+            ], 
+            [
+              6.400, 
+              48.444
+            ], 
+            [
+              6.453, 
+              48.444
+            ], 
+            [
+              6.453, 
+              48.392
+            ], 
+            [
+              6.400, 
+              48.392
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623277, 
+        "name": "St.-Boingt", 
+        "adjacent_woeid": [
+          588384, 
+          590134, 
+          620350, 
+          626702, 
+          630592
+        ], 
+        "ne_latitude": 48.444, 
+        "ne_longitude": 6.453, 
+        "longitude": 6.436, 
+        "parent_woeid": 12670216, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Boingt"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.432, 
+        "sw_longitude": 6.400, 
+        "fullname": "St.-Boingt, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.392
+      }, 
+      "id": 623277
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.841, 
+              40.882
+            ], 
+            [
+              -75.841, 
+              41.008
+            ], 
+            [
+              -75.702, 
+              41.008
+            ], 
+            [
+              -75.702, 
+              40.882
+            ], 
+            [
+              -75.841, 
+              40.882
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745569, 
+        "name": "Lehigh", 
+        "adjacent_woeid": [
+          2420881, 
+          28745474, 
+          28745532, 
+          28745624
+        ], 
+        "ne_latitude": 41.008, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lehigh Township"
+        ], 
+        "ne_longitude": -75.702, 
+        "longitude": -75.759, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589740, 
+        "latitude": 40.984, 
+        "sw_longitude": -75.841, 
+        "fullname": "Lehigh, Pennsylvania, Carbon, United States", 
+        "sw_latitude": 40.882
+      }, 
+      "id": 28745569
+    }
+  ]
+}

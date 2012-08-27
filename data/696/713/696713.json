@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.025, 
+              53.577
+            ], 
+            [
+              12.025, 
+              53.613
+            ], 
+            [
+              12.065, 
+              53.613
+            ], 
+            [
+              12.065, 
+              53.577
+            ], 
+            [
+              12.025, 
+              53.577
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696713, 
+        "name": "Steinbeck", 
+        "adjacent_woeid": [
+          644902, 
+          670176, 
+          708841
+        ], 
+        "ne_latitude": 53.613, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.065, 
+        "longitude": 12.040, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12631252, 
+        "latitude": 53.588, 
+        "sw_longitude": 12.025, 
+        "fullname": "Steinbeck, Mecklenburg-Vorpommern, Landkreis Parchim, Germany", 
+        "sw_latitude": 53.577
+      }, 
+      "id": 696713
+    }
+  ]
+}

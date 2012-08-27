@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              138.825, 
+              -35.113
+            ], 
+            [
+              138.825, 
+              -35.051
+            ], 
+            [
+              138.907, 
+              -35.051
+            ], 
+            [
+              138.907, 
+              -35.113
+            ], 
+            [
+              138.825, 
+              -35.113
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1104144, 
+        "name": "Mount Barker", 
+        "adjacent_woeid": [
+          1094205, 
+          1094350, 
+          1094473, 
+          1094620, 
+          1096934, 
+          1099518, 
+          1101830, 
+          1104390, 
+          1104454, 
+          1106135, 
+          1107155, 
+          28584293, 
+          28584780, 
+          28586285, 
+          28586286, 
+          28586772
+        ], 
+        "ne_latitude": -35.051, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Mt Barker"
+        ], 
+        "ne_longitude": 138.907, 
+        "longitude": 138.853, 
+        "placetype": "Town", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:44:23Z", 
+        "parent_woeid": 55864115, 
+        "latitude": -35.062, 
+        "sw_longitude": 138.825, 
+        "fullname": "Mount Barker, South Australia, Mount Barker, Australia", 
+        "sw_latitude": -35.113
+      }, 
+      "id": 1104144
+    }
+  ]
+}

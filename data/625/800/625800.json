@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.206, 
+              48.442
+            ], 
+            [
+              -2.206, 
+              48.472
+            ], 
+            [
+              -2.153, 
+              48.472
+            ], 
+            [
+              -2.153, 
+              48.442
+            ], 
+            [
+              -2.206, 
+              48.442
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625800, 
+        "name": "St.-Maudez", 
+        "adjacent_woeid": [
+          587105, 
+          598849, 
+          625992, 
+          631375
+        ], 
+        "ne_latitude": 48.472, 
+        "ne_longitude": -2.153, 
+        "longitude": -2.182, 
+        "parent_woeid": 12652934, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maudez"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.453, 
+        "sw_longitude": -2.206, 
+        "fullname": "St.-Maudez, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.442
+      }, 
+      "id": 625800
+    }
+  ]
+}

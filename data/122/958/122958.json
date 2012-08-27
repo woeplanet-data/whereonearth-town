@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.544, 
+              24.293
+            ], 
+            [
+              -106.544, 
+              24.311
+            ], 
+            [
+              -106.524, 
+              24.311
+            ], 
+            [
+              -106.524, 
+              24.293
+            ], 
+            [
+              -106.544, 
+              24.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.311, 
+        "name": "El Verano", 
+        "adjacent_woeid": [
+          116595, 
+          124321, 
+          127355, 
+          142914, 
+          148349
+        ], 
+        "woeid": 122958, 
+        "alias_SPA_V": [
+          "Verano"
+        ], 
+        "ne_longitude": -106.524, 
+        "longitude": -106.534, 
+        "parent_woeid": 12601532, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.302, 
+        "sw_longitude": -106.544, 
+        "fullname": "El Verano, Sinaloa, Cosala, Mexico", 
+        "sw_latitude": 24.293
+      }, 
+      "id": 122958
+    }
+  ]
+}

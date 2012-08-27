@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.193, 
+              17.341
+            ], 
+            [
+              -99.193, 
+              17.359
+            ], 
+            [
+              -99.174, 
+              17.359
+            ], 
+            [
+              -99.174, 
+              17.341
+            ], 
+            [
+              -99.193, 
+              17.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.359, 
+        "name": "El Naranjo", 
+        "adjacent_woeid": [
+          117066, 
+          125965, 
+          132930, 
+          138014, 
+          148823, 
+          149761
+        ], 
+        "woeid": 121082, 
+        "alias_SPA_V": [
+          "Naranjo"
+        ], 
+        "ne_longitude": -99.174, 
+        "longitude": -99.183, 
+        "parent_woeid": 12600087, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.350, 
+        "sw_longitude": -99.193, 
+        "fullname": "El Naranjo, Guerrero, Quechultenango, Mexico", 
+        "sw_latitude": 17.341
+      }, 
+      "id": 121082
+    }
+  ]
+}

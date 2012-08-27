@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.425, 
+              53.423
+            ], 
+            [
+              8.425, 
+              53.441
+            ], 
+            [
+              8.442, 
+              53.441
+            ], 
+            [
+              8.442, 
+              53.423
+            ], 
+            [
+              8.425, 
+              53.423
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20168590, 
+        "name": "Beckum", 
+        "adjacent_woeid": [
+          648768, 
+          657546, 
+          658139, 
+          689103, 
+          20168588
+        ], 
+        "ne_latitude": 53.441, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.442, 
+        "longitude": 8.433, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:20Z", 
+        "parent_woeid": 12630055, 
+        "latitude": 53.430, 
+        "sw_longitude": 8.425, 
+        "fullname": "Beckum, Lower Saxony, Wesermarsch, Germany", 
+        "sw_latitude": 53.423
+      }, 
+      "id": 20168590
+    }
+  ]
+}

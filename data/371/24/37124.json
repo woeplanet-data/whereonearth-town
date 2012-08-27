@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.431, 
+              51.238
+            ], 
+            [
+              0.431, 
+              51.271
+            ], 
+            [
+              0.452, 
+              51.271
+            ], 
+            [
+              0.452, 
+              51.238
+            ], 
+            [
+              0.431, 
+              51.238
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 37124, 
+        "name": "Teston", 
+        "adjacent_woeid": [
+          18895, 
+          25118, 
+          29859, 
+          39286, 
+          39637, 
+          41310
+        ], 
+        "ne_latitude": 51.271, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.452, 
+        "longitude": 0.441, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:20:13Z", 
+        "parent_woeid": 12695990, 
+        "latitude": 51.256, 
+        "sw_longitude": 0.431, 
+        "fullname": "Teston, England, Kent, United Kingdom", 
+        "sw_latitude": 51.238
+      }, 
+      "id": 37124
+    }
+  ]
+}

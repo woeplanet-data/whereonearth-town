@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.789, 
+              40.859
+            ], 
+            [
+              -4.789, 
+              40.915
+            ], 
+            [
+              -4.738, 
+              40.915
+            ], 
+            [
+              -4.738, 
+              40.859
+            ], 
+            [
+              -4.789, 
+              40.859
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.915, 
+        "name": "San Pascual", 
+        "adjacent_woeid": [
+          755317, 
+          759481, 
+          775458, 
+          778082
+        ], 
+        "woeid": 773240, 
+        "alias_SPA_V": [
+          "S. Pascual"
+        ], 
+        "ne_longitude": -4.738, 
+        "longitude": -4.758, 
+        "parent_woeid": 12691325, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.883, 
+        "sw_longitude": -4.789, 
+        "fullname": "San Pascual, Castille and Leon, Avila, Spain", 
+        "sw_latitude": 40.859
+      }, 
+      "id": 773240
+    }
+  ]
+}

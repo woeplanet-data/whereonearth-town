@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.209, 
+              49.332
+            ], 
+            [
+              0.209, 
+              49.374
+            ], 
+            [
+              0.254, 
+              49.374
+            ], 
+            [
+              0.254, 
+              49.332
+            ], 
+            [
+              0.209, 
+              49.332
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591779, 
+        "name": "Fourneville", 
+        "adjacent_woeid": [
+          592638, 
+          593143, 
+          604662, 
+          624084
+        ], 
+        "ne_latitude": 49.374, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.254, 
+        "longitude": 0.234, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12644086, 
+        "latitude": 49.356, 
+        "sw_longitude": 0.209, 
+        "fullname": "Fourneville, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.332
+      }, 
+      "id": 591779
+    }
+  ]
+}

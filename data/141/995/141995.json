@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.915, 
+              19.466
+            ], 
+            [
+              -98.915, 
+              19.484
+            ], 
+            [
+              -98.890, 
+              19.484
+            ], 
+            [
+              -98.890, 
+              19.466
+            ], 
+            [
+              -98.915, 
+              19.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.484, 
+        "name": "San Bernardino", 
+        "adjacent_woeid": [
+          115914, 
+          134021, 
+          144617, 
+          55903419, 
+          56068748
+        ], 
+        "woeid": 141995, 
+        "alias_SPA_V": [
+          "S. Bernardino"
+        ], 
+        "ne_longitude": -98.890, 
+        "longitude": -98.904, 
+        "parent_woeid": 12600418, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.475, 
+        "sw_longitude": -98.915, 
+        "fullname": "San Bernardino, Mexico, Texcoco, Mexico", 
+        "sw_latitude": 19.466
+      }, 
+      "id": 141995
+    }
+  ]
+}

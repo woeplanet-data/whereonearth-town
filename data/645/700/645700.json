@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.039, 
+              49.794
+            ], 
+            [
+              11.039, 
+              49.819
+            ], 
+            [
+              11.064, 
+              49.819
+            ], 
+            [
+              11.064, 
+              49.794
+            ], 
+            [
+              11.039, 
+              49.794
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645700, 
+        "name": "Dreuschendorf", 
+        "adjacent_woeid": [
+          655916, 
+          665601, 
+          696153, 
+          701591
+        ], 
+        "ne_latitude": 49.819, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.064, 
+        "longitude": 11.054, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12635229, 
+        "latitude": 49.807, 
+        "sw_longitude": 11.039, 
+        "fullname": "Dreuschendorf, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.794
+      }, 
+      "id": 645700
+    }
+  ]
+}

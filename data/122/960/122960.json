@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.160, 
+              23.341
+            ], 
+            [
+              -106.160, 
+              23.359
+            ], 
+            [
+              -106.140, 
+              23.359
+            ], 
+            [
+              -106.140, 
+              23.341
+            ], 
+            [
+              -106.160, 
+              23.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.359, 
+        "name": "El Verde", 
+        "adjacent_woeid": [
+          119145, 
+          124553, 
+          127013, 
+          132802, 
+          135940, 
+          144315, 
+          147622, 
+          151714
+        ], 
+        "woeid": 122960, 
+        "alias_SPA_V": [
+          "Verde"
+        ], 
+        "ne_longitude": -106.140, 
+        "longitude": -106.150, 
+        "parent_woeid": 12601531, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.350, 
+        "sw_longitude": -106.160, 
+        "fullname": "El Verde, Sinaloa, Concordia, Mexico", 
+        "sw_latitude": 23.341
+      }, 
+      "id": 122960
+    }
+  ]
+}

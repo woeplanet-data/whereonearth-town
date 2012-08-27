@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.594, 
+              30.274
+            ], 
+            [
+              -109.594, 
+              30.292
+            ], 
+            [
+              -109.573, 
+              30.292
+            ], 
+            [
+              -109.573, 
+              30.274
+            ], 
+            [
+              -109.594, 
+              30.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.292, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          125806, 
+          126353, 
+          131968, 
+          134273, 
+          134274, 
+          134275, 
+          26803006
+        ], 
+        "woeid": 147160, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -109.573, 
+        "longitude": -109.583, 
+        "parent_woeid": 12601586, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.283, 
+        "sw_longitude": -109.594, 
+        "fullname": "Santo Domingo, Sonora, Nacozari de Garcia, Mexico", 
+        "sw_latitude": 30.274
+      }, 
+      "id": 147160
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.426, 
+              20.608
+            ], 
+            [
+              -100.426, 
+              20.626
+            ], 
+            [
+              -100.407, 
+              20.626
+            ], 
+            [
+              -100.407, 
+              20.608
+            ], 
+            [
+              -100.426, 
+              20.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.626, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          113017, 
+          115033, 
+          120535, 
+          141217, 
+          143622, 
+          149540, 
+          55887920, 
+          55897075, 
+          55903790
+        ], 
+        "woeid": 144846, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -100.407, 
+        "longitude": -100.417, 
+        "parent_woeid": 12601457, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.616, 
+        "sw_longitude": -100.426, 
+        "fullname": "San Pablo, Queretaro de Arteaga, Queretaro, Mexico", 
+        "sw_latitude": 20.608
+      }, 
+      "id": 144846
+    }
+  ]
+}

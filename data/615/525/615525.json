@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.203, 
+              48.695
+            ], 
+            [
+              2.203, 
+              48.730
+            ], 
+            [
+              2.287, 
+              48.730
+            ], 
+            [
+              2.287, 
+              48.695
+            ], 
+            [
+              2.203, 
+              48.695
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615525, 
+        "name": "Palaiseau", 
+        "adjacent_woeid": [
+          584292, 
+          608540, 
+          55863486, 
+          55863531, 
+          55863553, 
+          55863602, 
+          55863607
+        ], 
+        "ne_latitude": 48.730, 
+        "ne_longitude": 2.287, 
+        "longitude": 2.246, 
+        "parent_woeid": 12650373, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Paliseau"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.713, 
+        "sw_longitude": 2.203, 
+        "fullname": "Palaiseau, Ile-de-France, Essonne, France", 
+        "sw_latitude": 48.695
+      }, 
+      "id": 615525
+    }
+  ]
+}

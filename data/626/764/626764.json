@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.347, 
+              45.478
+            ], 
+            [
+              5.347, 
+              45.492
+            ], 
+            [
+              5.380, 
+              45.492
+            ], 
+            [
+              5.380, 
+              45.478
+            ], 
+            [
+              5.347, 
+              45.478
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626764, 
+        "name": "St.-Romain", 
+        "adjacent_woeid": [
+          579202, 
+          589432, 
+          15003320, 
+          29330144
+        ], 
+        "ne_latitude": 45.492, 
+        "ne_longitude": 5.380, 
+        "longitude": 5.367, 
+        "parent_woeid": 12664175, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Romain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.483, 
+        "sw_longitude": 5.347, 
+        "fullname": "St.-Romain, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.478
+      }, 
+      "id": 626764
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.067, 
+              49.710
+            ], 
+            [
+              10.067, 
+              49.752
+            ], 
+            [
+              10.114, 
+              49.752
+            ], 
+            [
+              10.114, 
+              49.710
+            ], 
+            [
+              10.067, 
+              49.710
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 664671, 
+        "name": "Kaltensondheim", 
+        "adjacent_woeid": [
+          638760, 
+          648405, 
+          688048, 
+          705892
+        ], 
+        "ne_latitude": 49.752, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.114, 
+        "longitude": 10.088, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:47Z", 
+        "parent_woeid": 12635565, 
+        "latitude": 49.731, 
+        "sw_longitude": 10.067, 
+        "fullname": "Kaltensondheim, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.710
+      }, 
+      "id": 664671
+    }
+  ]
+}

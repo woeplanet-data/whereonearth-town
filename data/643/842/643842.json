@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.134, 
+              48.148
+            ], 
+            [
+              10.134, 
+              48.182
+            ], 
+            [
+              10.168, 
+              48.182
+            ], 
+            [
+              10.168, 
+              48.148
+            ], 
+            [
+              10.134, 
+              48.148
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 643842, 
+        "name": "Dattenhausen", 
+        "adjacent_woeid": [
+          638005, 
+          649702, 
+          659419, 
+          663326
+        ], 
+        "ne_latitude": 48.182, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.168, 
+        "longitude": 10.147, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:11Z", 
+        "parent_woeid": 12634853, 
+        "latitude": 48.173, 
+        "sw_longitude": 10.134, 
+        "fullname": "Dattenhausen, Bavaria, Landkreis Neu-Ulm, Germany", 
+        "sw_latitude": 48.148
+      }, 
+      "id": 643842
+    }
+  ]
+}

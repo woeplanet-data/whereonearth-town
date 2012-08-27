@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.170, 
+              27.930
+            ], 
+            [
+              -100.170, 
+              27.949
+            ], 
+            [
+              -100.149, 
+              27.949
+            ], 
+            [
+              -100.149, 
+              27.930
+            ], 
+            [
+              -100.170, 
+              27.930
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.949, 
+        "name": "San Enrique", 
+        "adjacent_woeid": [
+          114273, 
+          118319, 
+          118599, 
+          150877
+        ], 
+        "woeid": 142272, 
+        "alias_SPA_V": [
+          "S Enrique"
+        ], 
+        "ne_longitude": -100.149, 
+        "longitude": -100.159, 
+        "parent_woeid": 12599898, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.940, 
+        "sw_longitude": -100.170, 
+        "fullname": "San Enrique, Coahuila de Zaragoza, Hidalgo, Mexico", 
+        "sw_latitude": 27.930
+      }, 
+      "id": 142272
+    }
+  ]
+}

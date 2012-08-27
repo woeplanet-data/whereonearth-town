@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.464, 
+              37.788
+            ], 
+            [
+              -80.464, 
+              37.835
+            ], 
+            [
+              -80.410, 
+              37.835
+            ], 
+            [
+              -80.410, 
+              37.788
+            ], 
+            [
+              -80.464, 
+              37.788
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2438732, 
+        "name": "Lewisburg", 
+        "adjacent_woeid": [
+          2356434, 
+          2367429, 
+          2368261, 
+          2373169, 
+          2401551, 
+          2406886, 
+          2424376, 
+          2447105, 
+          2460750, 
+          2471653, 
+          2480170, 
+          2480863, 
+          2484320, 
+          2504473, 
+          2519597, 
+          2520833
+        ], 
+        "ne_latitude": 37.835, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "LWB"
+        ], 
+        "ne_longitude": -80.410, 
+        "longitude": -80.446, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:34Z", 
+        "parent_woeid": 12590491, 
+        "latitude": 37.802, 
+        "sw_longitude": -80.464, 
+        "fullname": "Lewisburg, West Virginia, Greenbrier, United States", 
+        "sw_latitude": 37.788
+      }, 
+      "id": 2438732
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.052, 
+              9.920
+            ], 
+            [
+              -84.052, 
+              9.934
+            ], 
+            [
+              -84.038, 
+              9.934
+            ], 
+            [
+              -84.038, 
+              9.920
+            ], 
+            [
+              -84.052, 
+              9.920
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.934, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          58350, 
+          22723664, 
+          22723666, 
+          22723667, 
+          22723670
+        ], 
+        "woeid": 59535, 
+        "alias_SPA_V": [
+          "S Pedro"
+        ], 
+        "ne_longitude": -84.038, 
+        "longitude": -84.045, 
+        "parent_woeid": 26808994, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.927, 
+        "sw_longitude": -84.052, 
+        "fullname": "San Pedro, San Jose, Curridabat, Costa Rica", 
+        "sw_latitude": 9.920
+      }, 
+      "id": 59535
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.451, 
+              -0.015
+            ], 
+            [
+              -78.451, 
+              0.003
+            ], 
+            [
+              -78.433, 
+              0.003
+            ], 
+            [
+              -78.433, 
+              -0.015
+            ], 
+            [
+              -78.451, 
+              -0.015
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 0.003, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          370009, 
+          373531, 
+          374040, 
+          374154, 
+          374260, 
+          374795, 
+          375779, 
+          375981
+        ], 
+        "woeid": 376229, 
+        "alias_SPA_V": [
+          "S. Antonio de Pichincha"
+        ], 
+        "ne_longitude": -78.433, 
+        "longitude": -78.442, 
+        "parent_woeid": 26810392, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -0.006, 
+        "sw_longitude": -78.451, 
+        "fullname": "San Antonio, Pichincha, Quito, Ecuador", 
+        "sw_latitude": -0.015
+      }, 
+      "id": 376229
+    }
+  ]
+}

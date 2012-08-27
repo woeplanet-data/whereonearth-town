@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.190, 
+              45.152
+            ], 
+            [
+              5.190, 
+              45.192
+            ], 
+            [
+              5.242, 
+              45.192
+            ], 
+            [
+              5.242, 
+              45.152
+            ], 
+            [
+              5.190, 
+              45.152
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622987, 
+        "name": "St.-Antoine-l'Abbaye", 
+        "adjacent_woeid": [
+          585144, 
+          588790, 
+          612191, 
+          612919, 
+          623015, 
+          623292, 
+          623303
+        ], 
+        "ne_latitude": 45.192, 
+        "ne_longitude": 5.242, 
+        "longitude": 5.216, 
+        "parent_woeid": 12670127, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Antoine-l'Abbaye"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.175, 
+        "sw_longitude": 5.190, 
+        "fullname": "St.-Antoine-l'Abbaye, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.152
+      }, 
+      "id": 622987
+    }
+  ]
+}

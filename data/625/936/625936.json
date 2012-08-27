@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.146, 
+              46.564
+            ], 
+            [
+              3.146, 
+              46.595
+            ], 
+            [
+              3.171, 
+              46.595
+            ], 
+            [
+              3.171, 
+              46.564
+            ], 
+            [
+              3.146, 
+              46.564
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625936, 
+        "name": "St.-Menoux", 
+        "adjacent_woeid": [
+          575471, 
+          577449, 
+          610036
+        ], 
+        "ne_latitude": 46.595, 
+        "ne_longitude": 3.171, 
+        "longitude": 3.159, 
+        "parent_woeid": 22755217, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Menoux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.584, 
+        "sw_longitude": 3.146, 
+        "fullname": "St.-Menoux, Auvergne, Allier, France", 
+        "sw_latitude": 46.564
+      }, 
+      "id": 625936
+    }
+  ]
+}

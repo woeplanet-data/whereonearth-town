@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.543, 
+              46.297
+            ], 
+            [
+              5.543, 
+              46.306
+            ], 
+            [
+              5.556, 
+              46.306
+            ], 
+            [
+              5.556, 
+              46.297
+            ], 
+            [
+              5.543, 
+              46.297
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20211783, 
+        "name": "Villette", 
+        "adjacent_woeid": [
+          586444, 
+          587065, 
+          20211782, 
+          29333517
+        ], 
+        "ne_latitude": 46.306, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.556, 
+        "longitude": 5.549, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:34Z", 
+        "parent_woeid": 12642169, 
+        "latitude": 46.302, 
+        "sw_longitude": 5.543, 
+        "fullname": "Villette, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.297
+      }, 
+      "id": 20211783
+    }
+  ]
+}

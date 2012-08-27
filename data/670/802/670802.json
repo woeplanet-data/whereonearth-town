@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.168, 
+              52.692
+            ], 
+            [
+              13.168, 
+              52.739
+            ], 
+            [
+              13.212, 
+              52.739
+            ], 
+            [
+              13.212, 
+              52.692
+            ], 
+            [
+              13.168, 
+              52.692
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670802, 
+        "name": "Leegebruch", 
+        "adjacent_woeid": [
+          636879, 
+          652269, 
+          683355, 
+          702153
+        ], 
+        "ne_latitude": 52.739, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.212, 
+        "longitude": 13.193, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:19Z", 
+        "parent_woeid": 12633345, 
+        "latitude": 52.724, 
+        "sw_longitude": 13.168, 
+        "fullname": "Leegebruch, Brandenburg, Oberhavel, Germany", 
+        "sw_latitude": 52.692
+      }, 
+      "id": 670802
+    }
+  ]
+}

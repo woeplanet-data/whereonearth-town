@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.377, 
+              50.080
+            ], 
+            [
+              8.377, 
+              50.126
+            ], 
+            [
+              8.419, 
+              50.126
+            ], 
+            [
+              8.419, 
+              50.080
+            ], 
+            [
+              8.377, 
+              50.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670184, 
+        "name": "Langenhain", 
+        "adjacent_woeid": [
+          672684, 
+          674152, 
+          703637, 
+          706556
+        ], 
+        "ne_latitude": 50.126, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.419, 
+        "longitude": 8.399, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12632619, 
+        "latitude": 50.106, 
+        "sw_longitude": 8.377, 
+        "fullname": "Langenhain, Hesse, Main-Taunus-Kreis, Germany", 
+        "sw_latitude": 50.080
+      }, 
+      "id": 670184
+    }
+  ]
+}

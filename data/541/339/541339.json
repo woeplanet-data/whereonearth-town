@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.841, 
+              48.267
+            ], 
+            [
+              15.841, 
+              48.285
+            ], 
+            [
+              15.868, 
+              48.285
+            ], 
+            [
+              15.868, 
+              48.267
+            ], 
+            [
+              15.841, 
+              48.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 541339, 
+        "name": "Diendorf", 
+        "adjacent_woeid": [
+          541461, 
+          541917, 
+          542581, 
+          543620, 
+          544001
+        ], 
+        "ne_latitude": 48.285, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.868, 
+        "longitude": 15.855, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:25Z", 
+        "parent_woeid": 12673754, 
+        "latitude": 48.276, 
+        "sw_longitude": 15.841, 
+        "fullname": "Diendorf, Lower Austria, Tulln, Austria", 
+        "sw_latitude": 48.267
+      }, 
+      "id": 541339
+    }
+  ]
+}

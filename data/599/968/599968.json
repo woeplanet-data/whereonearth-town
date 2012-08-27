@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.327, 
+              44.760
+            ], 
+            [
+              -0.327, 
+              44.794
+            ], 
+            [
+              -0.291, 
+              44.794
+            ], 
+            [
+              -0.291, 
+              44.760
+            ], 
+            [
+              -0.327, 
+              44.760
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599968, 
+        "name": "La Sauve", 
+        "adjacent_woeid": [
+          582785, 
+          583003, 
+          588265, 
+          590076, 
+          594546, 
+          625254
+        ], 
+        "ne_latitude": 44.794, 
+        "ne_longitude": -0.291, 
+        "longitude": -0.310, 
+        "parent_woeid": 12646634, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Sauve-Majeure"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.770, 
+        "sw_longitude": -0.327, 
+        "fullname": "La Sauve, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.760
+      }, 
+      "id": 599968
+    }
+  ]
+}

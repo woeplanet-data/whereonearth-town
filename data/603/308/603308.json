@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.923, 
+              46.801
+            ], 
+            [
+              5.923, 
+              46.835
+            ], 
+            [
+              5.966, 
+              46.835
+            ], 
+            [
+              5.966, 
+              46.801
+            ], 
+            [
+              5.923, 
+              46.801
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603308, 
+        "name": "Le Larderet", 
+        "adjacent_woeid": [
+          584562, 
+          603312, 
+          606988, 
+          630904
+        ], 
+        "ne_latitude": 46.835, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.966, 
+        "longitude": 5.947, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "parent_woeid": 12647376, 
+        "latitude": 46.817, 
+        "sw_longitude": 5.923, 
+        "fullname": "Le Larderet, Franche-Comte, Jura, France", 
+        "sw_latitude": 46.801
+      }, 
+      "id": 603308
+    }
+  ]
+}

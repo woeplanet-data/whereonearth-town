@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.299, 
+              48.020
+            ], 
+            [
+              2.299, 
+              48.030
+            ], 
+            [
+              2.315, 
+              48.030
+            ], 
+            [
+              2.315, 
+              48.020
+            ], 
+            [
+              2.299, 
+              48.020
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20187123, 
+        "name": "La Boule d'Or", 
+        "adjacent_woeid": [
+          584044, 
+          585470, 
+          586635, 
+          595210, 
+          613832, 
+          614272, 
+          621605, 
+          627885
+        ], 
+        "ne_latitude": 48.030, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.315, 
+        "longitude": 2.305, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12645969, 
+        "latitude": 48.025, 
+        "sw_longitude": 2.299, 
+        "fullname": "La Boule d'Or, Centre, Loiret, France", 
+        "sw_latitude": 48.020
+      }, 
+      "id": 20187123
+    }
+  ]
+}

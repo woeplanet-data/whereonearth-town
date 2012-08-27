@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.840, 
+              48.109
+            ], 
+            [
+              -2.840, 
+              48.139
+            ], 
+            [
+              -2.805, 
+              48.139
+            ], 
+            [
+              -2.805, 
+              48.109
+            ], 
+            [
+              -2.840, 
+              48.109
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624465, 
+        "name": "St.-Gonnery", 
+        "adjacent_woeid": [
+          588008, 
+          593933, 
+          594627, 
+          624241, 
+          625796
+        ], 
+        "ne_latitude": 48.139, 
+        "ne_longitude": -2.805, 
+        "longitude": -2.820, 
+        "parent_woeid": 12645205, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gonnery"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.127, 
+        "sw_longitude": -2.840, 
+        "fullname": "St.-Gonnery, Brittany, Morbihan, France", 
+        "sw_latitude": 48.109
+      }, 
+      "id": 624465
+    }
+  ]
+}

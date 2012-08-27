@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.325, 
+              54.339
+            ], 
+            [
+              10.325, 
+              54.365
+            ], 
+            [
+              10.351, 
+              54.365
+            ], 
+            [
+              10.351, 
+              54.339
+            ], 
+            [
+              10.325, 
+              54.339
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649181, 
+        "name": "Fahren", 
+        "adjacent_woeid": [
+          649668, 
+          653030, 
+          684293, 
+          697534, 
+          20165415
+        ], 
+        "ne_latitude": 54.365, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.351, 
+        "longitude": 10.340, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12632384, 
+        "latitude": 54.349, 
+        "sw_longitude": 10.325, 
+        "fullname": "Fahren, Schleswig-Holstein, Plon, Germany", 
+        "sw_latitude": 54.339
+      }, 
+      "id": 649181
+    }
+  ]
+}

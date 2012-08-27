@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.472, 
+              45.123
+            ], 
+            [
+              -0.472, 
+              45.167
+            ], 
+            [
+              -0.430, 
+              45.167
+            ], 
+            [
+              -0.430, 
+              45.123
+            ], 
+            [
+              -0.472, 
+              45.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626912, 
+        "name": "St.-Savin", 
+        "adjacent_woeid": [
+          580198, 
+          581223, 
+          582437, 
+          583466, 
+          585672, 
+          586074, 
+          589011, 
+          619050, 
+          621163, 
+          623454, 
+          625483, 
+          627341
+        ], 
+        "ne_latitude": 45.167, 
+        "ne_longitude": -0.430, 
+        "longitude": -0.446, 
+        "parent_woeid": 12653206, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Savin-de-Blay"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.139, 
+        "sw_longitude": -0.472, 
+        "fullname": "St.-Savin, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.123
+      }, 
+      "id": 626912
+    }
+  ]
+}

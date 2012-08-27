@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.490, 
+              49.311
+            ], 
+            [
+              10.490, 
+              49.331
+            ], 
+            [
+              10.506, 
+              49.331
+            ], 
+            [
+              10.506, 
+              49.311
+            ], 
+            [
+              10.490, 
+              49.311
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678011, 
+        "name": "Neudorf", 
+        "adjacent_woeid": [
+          645324, 
+          660197, 
+          663008, 
+          692337, 
+          696841, 
+          699469
+        ], 
+        "ne_latitude": 49.331, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.506, 
+        "longitude": 10.498, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12634382, 
+        "latitude": 49.317, 
+        "sw_longitude": 10.490, 
+        "fullname": "Neudorf, Bavaria, Stadtkreis Ansbach, Germany", 
+        "sw_latitude": 49.311
+      }, 
+      "id": 678011
+    }
+  ]
+}

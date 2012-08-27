@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.515, 
+              43.323
+            ], 
+            [
+              -3.515, 
+              43.332
+            ], 
+            [
+              -3.502, 
+              43.332
+            ], 
+            [
+              -3.502, 
+              43.323
+            ], 
+            [
+              -3.515, 
+              43.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.332, 
+        "name": "San Miguel de Aras", 
+        "adjacent_woeid": [
+          766848, 
+          768616, 
+          772678, 
+          773237, 
+          774270, 
+          56064773
+        ], 
+        "woeid": 773179, 
+        "alias_SPA_V": [
+          "S Miguel de Aras"
+        ], 
+        "ne_longitude": -3.502, 
+        "longitude": -3.509, 
+        "parent_woeid": 12688623, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.327, 
+        "sw_longitude": -3.515, 
+        "fullname": "San Miguel de Aras, Cantabria, Cantabria, Spain", 
+        "sw_latitude": 43.323
+      }, 
+      "id": 773179
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.083, 
+              17.917
+            ], 
+            [
+              -94.083, 
+              17.935
+            ], 
+            [
+              -94.064, 
+              17.935
+            ], 
+            [
+              -94.064, 
+              17.917
+            ], 
+            [
+              -94.083, 
+              17.917
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.935, 
+        "name": "El Plan", 
+        "adjacent_woeid": [
+          130176, 
+          132440, 
+          143585, 
+          148159, 
+          151555
+        ], 
+        "woeid": 121520, 
+        "alias_SPA_V": [
+          "Plan"
+        ], 
+        "ne_longitude": -94.064, 
+        "longitude": -94.074, 
+        "parent_woeid": 12601622, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.926, 
+        "sw_longitude": -94.083, 
+        "fullname": "El Plan, Tabasco, Huimanguillo, Mexico", 
+        "sw_latitude": 17.917
+      }, 
+      "id": 121520
+    }
+  ]
+}

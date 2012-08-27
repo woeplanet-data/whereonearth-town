@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.379, 
+              41.351
+            ], 
+            [
+              1.379, 
+              41.381
+            ], 
+            [
+              1.438, 
+              41.381
+            ], 
+            [
+              1.438, 
+              41.351
+            ], 
+            [
+              1.379, 
+              41.351
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.381, 
+        "name": "Las Poblas", 
+        "adjacent_woeid": [
+          770310, 
+          773967, 
+          20223470, 
+          20224626, 
+          29369537, 
+          29370215
+        ], 
+        "woeid": 764837, 
+        "alias_SPA_V": [
+          "Les Pobles"
+        ], 
+        "ne_longitude": 1.438, 
+        "longitude": 1.402, 
+        "parent_woeid": 12694137, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.362, 
+        "sw_longitude": 1.379, 
+        "fullname": "Las Poblas, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.351
+      }, 
+      "id": 764837
+    }
+  ]
+}

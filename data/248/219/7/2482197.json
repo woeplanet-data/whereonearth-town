@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.155, 
+              44.611
+            ], 
+            [
+              -123.155, 
+              44.621
+            ], 
+            [
+              -123.142, 
+              44.621
+            ], 
+            [
+              -123.142, 
+              44.611
+            ], 
+            [
+              -123.155, 
+              44.611
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2482197, 
+        "name": "Riverside", 
+        "adjacent_woeid": [
+          2407860, 
+          2413021, 
+          2413410, 
+          2466310
+        ], 
+        "ne_latitude": 44.621, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.142, 
+        "longitude": -123.148, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:30:50Z", 
+        "parent_woeid": 12589713, 
+        "latitude": 44.616, 
+        "sw_longitude": -123.155, 
+        "fullname": "Riverside, Oregon, Linn, United States", 
+        "sw_latitude": 44.611
+      }, 
+      "id": 2482197
+    }
+  ]
+}

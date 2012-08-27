@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -125.501, 
+              50.324
+            ], 
+            [
+              -125.501, 
+              50.342
+            ], 
+            [
+              -125.472, 
+              50.342
+            ], 
+            [
+              -125.472, 
+              50.324
+            ], 
+            [
+              -125.501, 
+              50.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9502, 
+        "name": "Rock Bay", 
+        "adjacent_woeid": [
+          9494, 
+          9496, 
+          9501, 
+          9504
+        ], 
+        "ne_latitude": 50.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -125.472, 
+        "longitude": -125.487, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:02Z", 
+        "parent_woeid": 29375117, 
+        "latitude": 50.333, 
+        "sw_longitude": -125.501, 
+        "fullname": "Rock Bay, British Columbia, Comox-Strathcona, Canada", 
+        "sw_latitude": 50.324
+      }, 
+      "id": 9502
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.234, 
+              47.308
+            ], 
+            [
+              1.234, 
+              47.327
+            ], 
+            [
+              1.261, 
+              47.327
+            ], 
+            [
+              1.261, 
+              47.308
+            ], 
+            [
+              1.234, 
+              47.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332285, 
+        "name": "Pernas", 
+        "adjacent_woeid": [
+          576096, 
+          583627, 
+          20186826, 
+          29332250, 
+          29332283, 
+          29332284
+        ], 
+        "ne_latitude": 47.327, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.261, 
+        "longitude": 1.247, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12637095, 
+        "latitude": 47.318, 
+        "sw_longitude": 1.234, 
+        "fullname": "Pernas, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.308
+      }, 
+      "id": 29332285
+    }
+  ]
+}

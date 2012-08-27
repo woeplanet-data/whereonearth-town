@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.383, 
+              46.468
+            ], 
+            [
+              -1.383, 
+              46.486
+            ], 
+            [
+              -1.356, 
+              46.486
+            ], 
+            [
+              -1.356, 
+              46.468
+            ], 
+            [
+              -1.383, 
+              46.468
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627004, 
+        "name": "St.-Sornin", 
+        "adjacent_woeid": [
+          597750, 
+          602506, 
+          603036, 
+          623660, 
+          627294
+        ], 
+        "ne_latitude": 46.486, 
+        "ne_longitude": -1.356, 
+        "longitude": -1.370, 
+        "parent_woeid": 12671253, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sornin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.478, 
+        "sw_longitude": -1.383, 
+        "fullname": "St.-Sornin, Pays de la Loire, Vendee, France", 
+        "sw_latitude": 46.468
+      }, 
+      "id": 627004
+    }
+  ]
+}

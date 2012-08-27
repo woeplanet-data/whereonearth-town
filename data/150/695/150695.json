@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.147, 
+              19.121
+            ], 
+            [
+              -96.147, 
+              19.155
+            ], 
+            [
+              -96.112, 
+              19.155
+            ], 
+            [
+              -96.112, 
+              19.121
+            ], 
+            [
+              -96.147, 
+              19.121
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.155, 
+        "name": "Veracruz", 
+        "adjacent_woeid": [
+          113496, 
+          120594, 
+          130062
+        ], 
+        "woeid": 150695, 
+        "alias_UNK_Q": [
+          "VER"
+        ], 
+        "alias_SPA_V": [
+          "Veracruz Llave"
+        ], 
+        "ne_longitude": -96.112, 
+        "longitude": -96.129, 
+        "parent_woeid": 2346293, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.138, 
+        "sw_longitude": -96.147, 
+        "fullname": "Veracruz, Veracruz-Llave, Boca del Rio, Mexico", 
+        "sw_latitude": 19.121
+      }, 
+      "id": 150695
+    }
+  ]
+}

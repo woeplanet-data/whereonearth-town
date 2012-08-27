@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.393, 
+              47.218
+            ], 
+            [
+              2.393, 
+              47.269
+            ], 
+            [
+              2.436, 
+              47.269
+            ], 
+            [
+              2.436, 
+              47.218
+            ], 
+            [
+              2.393, 
+              47.218
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626188, 
+        "name": "St.-Palais", 
+        "adjacent_woeid": [
+          575378, 
+          611196, 
+          618485, 
+          20184561
+        ], 
+        "ne_latitude": 47.269, 
+        "ne_longitude": 2.436, 
+        "longitude": 2.420, 
+        "parent_woeid": 12647921, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Palais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.233, 
+        "sw_longitude": 2.393, 
+        "fullname": "St.-Palais, Centre, Cher, France", 
+        "sw_latitude": 47.218
+      }, 
+      "id": 626188
+    }
+  ]
+}

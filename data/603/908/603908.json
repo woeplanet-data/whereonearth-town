@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.841, 
+              42.456
+            ], 
+            [
+              2.841, 
+              42.494
+            ], 
+            [
+              2.888, 
+              42.494
+            ], 
+            [
+              2.888, 
+              42.456
+            ], 
+            [
+              2.841, 
+              42.456
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603908, 
+        "name": "Le Perthus", 
+        "adjacent_woeid": [
+          596464, 
+          619549, 
+          29331878
+        ], 
+        "ne_latitude": 42.494, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.888, 
+        "longitude": 2.863, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12664992, 
+        "latitude": 42.466, 
+        "sw_longitude": 2.841, 
+        "fullname": "Le Perthus, Languedoc-Roussillon, Pyrenees-Orientales, France", 
+        "sw_latitude": 42.456
+      }, 
+      "id": 603908
+    }
+  ]
+}

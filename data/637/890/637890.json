@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.134, 
+              49.806
+            ], 
+            [
+              12.134, 
+              49.820
+            ], 
+            [
+              12.149, 
+              49.820
+            ], 
+            [
+              12.149, 
+              49.806
+            ], 
+            [
+              12.134, 
+              49.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637890, 
+        "name": "Berg", 
+        "adjacent_woeid": [
+          638377, 
+          652809, 
+          677018, 
+          680858, 
+          685321
+        ], 
+        "ne_latitude": 49.820, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.149, 
+        "longitude": 12.142, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:21Z", 
+        "parent_woeid": 12634297, 
+        "latitude": 49.814, 
+        "sw_longitude": 12.134, 
+        "fullname": "Berg, Bavaria, Landkreis Neustadt an der Waldnaab, Germany", 
+        "sw_latitude": 49.806
+      }, 
+      "id": 637890
+    }
+  ]
+}

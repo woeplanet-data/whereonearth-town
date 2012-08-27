@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.754, 
+              44.808
+            ], 
+            [
+              5.754, 
+              44.826
+            ], 
+            [
+              5.779, 
+              44.826
+            ], 
+            [
+              5.779, 
+              44.808
+            ], 
+            [
+              5.754, 
+              44.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624134, 
+        "name": "St.-Genis", 
+        "adjacent_woeid": [
+          586963, 
+          623208, 
+          624719, 
+          626919
+        ], 
+        "ne_latitude": 44.826, 
+        "ne_longitude": 5.779, 
+        "longitude": 5.767, 
+        "parent_woeid": 12666565, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Genis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.817, 
+        "sw_longitude": 5.754, 
+        "fullname": "St.-Genis, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 44.808
+      }, 
+      "id": 624134
+    }
+  ]
+}

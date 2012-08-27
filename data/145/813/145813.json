@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.155, 
+              18.964
+            ], 
+            [
+              -99.155, 
+              18.982
+            ], 
+            [
+              -99.135, 
+              18.982
+            ], 
+            [
+              -99.135, 
+              18.964
+            ], 
+            [
+              -99.155, 
+              18.964
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.982, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          111646, 
+          117724, 
+          126620, 
+          149000, 
+          149541, 
+          150493
+        ], 
+        "woeid": 145813, 
+        "alias_SPA_V": [
+          "Sta Catarina"
+        ], 
+        "ne_longitude": -99.135, 
+        "longitude": -99.145, 
+        "parent_woeid": 12600573, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.973, 
+        "sw_longitude": -99.155, 
+        "fullname": "Santa Catarina, Morelos, Tepoztlan, Mexico", 
+        "sw_latitude": 18.964
+      }, 
+      "id": 145813
+    }
+  ]
+}

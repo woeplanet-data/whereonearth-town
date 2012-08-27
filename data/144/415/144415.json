@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.260, 
+              20.191
+            ], 
+            [
+              -98.260, 
+              20.209
+            ], 
+            [
+              -98.240, 
+              20.209
+            ], 
+            [
+              -98.240, 
+              20.191
+            ], 
+            [
+              -98.260, 
+              20.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.209, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          128151, 
+          133453, 
+          144988, 
+          145687, 
+          151472
+        ], 
+        "woeid": 144415, 
+        "alias_SPA_V": [
+          "S. Mateo"
+        ], 
+        "ne_longitude": -98.240, 
+        "longitude": -98.250, 
+        "parent_woeid": 12600111, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.200, 
+        "sw_longitude": -98.260, 
+        "fullname": "San Mateo, Hidalgo, Acaxochitlan, Mexico", 
+        "sw_latitude": 20.191
+      }, 
+      "id": 144415
+    }
+  ]
+}

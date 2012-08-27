@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.987, 
+              49.324
+            ], 
+            [
+              10.987, 
+              49.333
+            ], 
+            [
+              11.012, 
+              49.333
+            ], 
+            [
+              11.012, 
+              49.324
+            ], 
+            [
+              10.987, 
+              49.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 701387, 
+        "name": "Unterreichenbach", 
+        "adjacent_woeid": [
+          655973, 
+          656084, 
+          682054
+        ], 
+        "ne_latitude": 49.333, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.012, 
+        "longitude": 10.995, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12634385, 
+        "latitude": 49.329, 
+        "sw_longitude": 10.987, 
+        "fullname": "Unterreichenbach, Bavaria, Stadtkreis Schwabach, Germany", 
+        "sw_latitude": 49.324
+      }, 
+      "id": 701387
+    }
+  ]
+}

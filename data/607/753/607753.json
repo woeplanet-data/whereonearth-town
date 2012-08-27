@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.180, 
+              43.343
+            ], 
+            [
+              -0.180, 
+              43.381
+            ], 
+            [
+              -0.131, 
+              43.381
+            ], 
+            [
+              -0.131, 
+              43.343
+            ], 
+            [
+              -0.180, 
+              43.343
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 607753, 
+        "name": "Lespourcy", 
+        "adjacent_woeid": [
+          575327, 
+          577941, 
+          608461, 
+          621568, 
+          621569, 
+          625103, 
+          629624
+        ], 
+        "ne_latitude": 43.381, 
+        "ne_longitude": -0.131, 
+        "longitude": -0.150, 
+        "parent_woeid": 12648156, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lespourey"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.360, 
+        "sw_longitude": -0.180, 
+        "fullname": "Lespourcy, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.343
+      }, 
+      "id": 607753
+    }
+  ]
+}

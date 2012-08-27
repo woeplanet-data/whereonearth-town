@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.910, 
+              50.321
+            ], 
+            [
+              10.910, 
+              50.355
+            ], 
+            [
+              10.936, 
+              50.355
+            ], 
+            [
+              10.936, 
+              50.321
+            ], 
+            [
+              10.910, 
+              50.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647294, 
+        "name": "Einzelberg", 
+        "adjacent_woeid": [
+          645796, 
+          675376, 
+          675764, 
+          678661, 
+          699448, 
+          699923
+        ], 
+        "ne_latitude": 50.355, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.936, 
+        "longitude": 10.925, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12635293, 
+        "latitude": 50.333, 
+        "sw_longitude": 10.910, 
+        "fullname": "Einzelberg, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.321
+      }, 
+      "id": 647294
+    }
+  ]
+}

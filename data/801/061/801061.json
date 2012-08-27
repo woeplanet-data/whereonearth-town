@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.583, 
+              49.043
+            ], 
+            [
+              16.583, 
+              49.066
+            ], 
+            [
+              16.625, 
+              49.066
+            ], 
+            [
+              16.625, 
+              49.043
+            ], 
+            [
+              16.583, 
+              49.043
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "CZE", 
+        "woeid": 801061, 
+        "name": "Vojkovice", 
+        "adjacent_woeid": [
+          789530, 
+          798457, 
+          29396770
+        ], 
+        "ne_latitude": 49.066, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.625, 
+        "longitude": 16.605, 
+        "placetype": "Town", 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:56:36Z", 
+        "parent_woeid": 12606516, 
+        "latitude": 49.054, 
+        "sw_longitude": 16.583, 
+        "fullname": "Vojkovice, Jihomoravsk\u00fd, Brno-Province, Czech Republic", 
+        "sw_latitude": 49.043
+      }, 
+      "id": 801061
+    }
+  ]
+}

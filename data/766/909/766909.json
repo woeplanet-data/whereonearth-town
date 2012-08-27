@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -17.820, 
+              28.597
+            ], 
+            [
+              -17.820, 
+              28.619
+            ], 
+            [
+              -17.771, 
+              28.619
+            ], 
+            [
+              -17.771, 
+              28.597
+            ], 
+            [
+              -17.820, 
+              28.597
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.619, 
+        "name": "Mazo", 
+        "adjacent_woeid": [
+          754890, 
+          754891, 
+          755523, 
+          759512, 
+          761009, 
+          764013, 
+          765445, 
+          765804, 
+          767548, 
+          772353, 
+          20224793, 
+          20225885, 
+          22763063, 
+          29372804, 
+          56065603, 
+          56065710, 
+          56065785
+        ], 
+        "woeid": 766909, 
+        "alias_SPA_V": [
+          "El Pueblo"
+        ], 
+        "ne_longitude": -17.771, 
+        "longitude": -17.780, 
+        "parent_woeid": 12690211, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.606, 
+        "sw_longitude": -17.820, 
+        "fullname": "Mazo, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.597
+      }, 
+      "id": 766909
+    }
+  ]
+}

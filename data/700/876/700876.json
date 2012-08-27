@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.101, 
+              48.169
+            ], 
+            [
+              10.101, 
+              48.180
+            ], 
+            [
+              10.115, 
+              48.180
+            ], 
+            [
+              10.115, 
+              48.169
+            ], 
+            [
+              10.101, 
+              48.169
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700876, 
+        "name": "Untereichen", 
+        "adjacent_woeid": [
+          659419, 
+          663326, 
+          680851, 
+          29348225
+        ], 
+        "ne_latitude": 48.180, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.115, 
+        "longitude": 10.108, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12634853, 
+        "latitude": 48.175, 
+        "sw_longitude": 10.101, 
+        "fullname": "Untereichen, Bavaria, Landkreis Neu-Ulm, Germany", 
+        "sw_latitude": 48.169
+      }, 
+      "id": 700876
+    }
+  ]
+}

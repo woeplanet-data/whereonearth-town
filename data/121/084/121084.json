@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.259, 
+              15.108
+            ], 
+            [
+              -92.259, 
+              15.126
+            ], 
+            [
+              -92.241, 
+              15.126
+            ], 
+            [
+              -92.241, 
+              15.108
+            ], 
+            [
+              -92.259, 
+              15.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.126, 
+        "name": "El Naranjo", 
+        "adjacent_woeid": [
+          111267, 
+          124296, 
+          130167, 
+          132825, 
+          133486, 
+          134725, 
+          149834
+        ], 
+        "woeid": 121084, 
+        "alias_SPA_V": [
+          "Naranjo"
+        ], 
+        "ne_longitude": -92.241, 
+        "longitude": -92.250, 
+        "parent_woeid": 12599798, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.117, 
+        "sw_longitude": -92.259, 
+        "fullname": "El Naranjo, Chiapas, Tapachula, Mexico", 
+        "sw_latitude": 15.108
+      }, 
+      "id": 121084
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.836, 
+              28.362
+            ], 
+            [
+              -16.836, 
+              28.371
+            ], 
+            [
+              -16.825, 
+              28.371
+            ], 
+            [
+              -16.825, 
+              28.362
+            ], 
+            [
+              -16.836, 
+              28.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.371, 
+        "name": "San Bernardo", 
+        "adjacent_woeid": [
+          759987, 
+          764093, 
+          29372759, 
+          29372783, 
+          29372809
+        ], 
+        "woeid": 20225780, 
+        "alias_SPA_V": [
+          "S Bernardo"
+        ], 
+        "ne_longitude": -16.825, 
+        "longitude": -16.830, 
+        "parent_woeid": 12690200, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.367, 
+        "sw_longitude": -16.836, 
+        "fullname": "San Bernardo, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.362
+      }, 
+      "id": 20225780
+    }
+  ]
+}

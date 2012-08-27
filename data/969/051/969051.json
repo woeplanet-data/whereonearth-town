@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.242, 
+              50.918
+            ], 
+            [
+              4.242, 
+              50.936
+            ], 
+            [
+              4.271, 
+              50.936
+            ], 
+            [
+              4.271, 
+              50.918
+            ], 
+            [
+              4.242, 
+              50.918
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 969051, 
+        "name": "Dorp", 
+        "adjacent_woeid": [
+          968008, 
+          968009, 
+          968396, 
+          971631, 
+          972193, 
+          974454, 
+          975244, 
+          977619
+        ], 
+        "ne_latitude": 50.936, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.271, 
+        "longitude": 4.256, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:31:57Z", 
+        "parent_woeid": 12602708, 
+        "latitude": 50.927, 
+        "sw_longitude": 4.242, 
+        "fullname": "Dorp, Vlaams Brabant, Halle-Vilvoorde, Belgium", 
+        "sw_latitude": 50.918
+      }, 
+      "id": 969051
+    }
+  ]
+}

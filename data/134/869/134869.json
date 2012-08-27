@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.093, 
+              16.891
+            ], 
+            [
+              -93.093, 
+              16.909
+            ], 
+            [
+              -93.074, 
+              16.909
+            ], 
+            [
+              -93.074, 
+              16.891
+            ], 
+            [
+              -93.093, 
+              16.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.909, 
+        "name": "Nuevo Usumacinta", 
+        "adjacent_woeid": [
+          112423, 
+          113514, 
+          114065, 
+          115912, 
+          147823
+        ], 
+        "woeid": 134869, 
+        "alias_SPA_V": [
+          "Usumacinta"
+        ], 
+        "ne_longitude": -93.074, 
+        "longitude": -93.083, 
+        "parent_woeid": 12599773, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.900, 
+        "sw_longitude": -93.093, 
+        "fullname": "Nuevo Usumacinta, Chiapas, Osumacinta, Mexico", 
+        "sw_latitude": 16.891
+      }, 
+      "id": 134869
+    }
+  ]
+}

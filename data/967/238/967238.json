@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.183, 
+              50.503
+            ], 
+            [
+              4.183, 
+              50.521
+            ], 
+            [
+              4.211, 
+              50.521
+            ], 
+            [
+              4.211, 
+              50.503
+            ], 
+            [
+              4.183, 
+              50.503
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 967238, 
+        "name": "Besonrieux", 
+        "adjacent_woeid": [
+          967524, 
+          969520, 
+          970529, 
+          971504, 
+          973957, 
+          974303
+        ], 
+        "ne_latitude": 50.521, 
+        "ne_longitude": 4.211, 
+        "longitude": 4.197, 
+        "parent_woeid": 12602470, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Besonrieu"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.512, 
+        "sw_longitude": 4.183, 
+        "fullname": "Besonrieux, Hainault, Soignies, Belgium", 
+        "sw_latitude": 50.503
+      }, 
+      "id": 967238
+    }
+  ]
+}

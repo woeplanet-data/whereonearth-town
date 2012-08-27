@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.595, 
+              46.144
+            ], 
+            [
+              -70.595, 
+              46.275
+            ], 
+            [
+              -70.379, 
+              46.275
+            ], 
+            [
+              -70.379, 
+              46.144
+            ], 
+            [
+              -70.595, 
+              46.144
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3488, 
+        "name": "St.-Prosper", 
+        "adjacent_woeid": [
+          1601, 
+          1628, 
+          23394489, 
+          23394515, 
+          23394547, 
+          23394586, 
+          23394603
+        ], 
+        "ne_latitude": 46.275, 
+        "ne_longitude": -70.379, 
+        "longitude": -70.485, 
+        "parent_woeid": 29375064, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Prosper"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.212, 
+        "sw_longitude": -70.595, 
+        "fullname": "St.-Prosper, Quebec, Les Etchemins, Canada", 
+        "sw_latitude": 46.144
+      }, 
+      "id": 3488
+    }
+  ]
+}

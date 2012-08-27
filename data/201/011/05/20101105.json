@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.809, 
+              47.512
+            ], 
+            [
+              8.809, 
+              47.530
+            ], 
+            [
+              8.836, 
+              47.530
+            ], 
+            [
+              8.836, 
+              47.512
+            ], 
+            [
+              8.809, 
+              47.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101105, 
+        "name": "Buech", 
+        "adjacent_woeid": [
+          782322, 
+          20100896, 
+          20101797, 
+          20102016, 
+          20103357, 
+          20104922
+        ], 
+        "ne_latitude": 47.530, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.836, 
+        "longitude": 8.822, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12684627, 
+        "latitude": 47.522, 
+        "sw_longitude": 8.809, 
+        "fullname": "Buech, Canton of Zurich, Winterthur, Switzerland", 
+        "alias_GER_V": [
+          "Buch"
+        ], 
+        "sw_latitude": 47.512
+      }, 
+      "id": 20101105
+    }
+  ]
+}

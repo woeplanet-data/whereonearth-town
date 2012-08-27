@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.472, 
+              50.154
+            ], 
+            [
+              1.472, 
+              50.194
+            ], 
+            [
+              1.512, 
+              50.194
+            ], 
+            [
+              1.512, 
+              50.154
+            ], 
+            [
+              1.472, 
+              50.154
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583476, 
+        "name": "Cayeux-sur-Mer", 
+        "adjacent_woeid": [
+          577262, 
+          582225, 
+          594487, 
+          595086, 
+          627189, 
+          20218630, 
+          20218631
+        ], 
+        "ne_latitude": 50.194, 
+        "ne_longitude": 1.512, 
+        "longitude": 1.492, 
+        "parent_woeid": 12657875, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cayeux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.183, 
+        "sw_longitude": 1.472, 
+        "fullname": "Cayeux-sur-Mer, Picardie, Somme, France", 
+        "sw_latitude": 50.154
+      }, 
+      "id": 583476
+    }
+  ]
+}

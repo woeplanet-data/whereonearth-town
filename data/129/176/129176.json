@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.843, 
+              16.808
+            ], 
+            [
+              -99.843, 
+              16.826
+            ], 
+            [
+              -99.824, 
+              16.826
+            ], 
+            [
+              -99.824, 
+              16.808
+            ], 
+            [
+              -99.843, 
+              16.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.826, 
+        "name": "La Sabana", 
+        "adjacent_woeid": [
+          125335, 
+          127001, 
+          129548, 
+          55886407
+        ], 
+        "woeid": 129176, 
+        "alias_SPA_V": [
+          "Sabana"
+        ], 
+        "ne_longitude": -99.824, 
+        "longitude": -99.833, 
+        "parent_woeid": 12600035, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.817, 
+        "sw_longitude": -99.843, 
+        "fullname": "La Sabana, Guerrero, Acapulco de Juarez, Mexico", 
+        "sw_latitude": 16.808
+      }, 
+      "id": 129176
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.754, 
+              43.578
+            ], 
+            [
+              1.754, 
+              43.611
+            ], 
+            [
+              1.781, 
+              43.611
+            ], 
+            [
+              1.781, 
+              43.578
+            ], 
+            [
+              1.754, 
+              43.578
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630555, 
+        "name": "Vendine", 
+        "adjacent_woeid": [
+          578032, 
+          591860, 
+          608696, 
+          631883
+        ], 
+        "ne_latitude": 43.611, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.781, 
+        "longitude": 1.768, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12672192, 
+        "latitude": 43.590, 
+        "sw_longitude": 1.754, 
+        "fullname": "Vendine, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.578
+      }, 
+      "id": 630555
+    }
+  ]
+}

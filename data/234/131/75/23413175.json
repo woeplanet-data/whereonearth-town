@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.872, 
+              43.270
+            ], 
+            [
+              -2.872, 
+              43.294
+            ], 
+            [
+              -2.852, 
+              43.294
+            ], 
+            [
+              -2.852, 
+              43.270
+            ], 
+            [
+              -2.872, 
+              43.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.294, 
+        "name": "San Martin de Arteaga", 
+        "adjacent_woeid": [
+          761397, 
+          761632, 
+          23413422, 
+          23414064, 
+          23416879, 
+          29371459
+        ], 
+        "woeid": 23413175, 
+        "alias_SPA_V": [
+          "S. Martin de Arteaga"
+        ], 
+        "ne_longitude": -2.852, 
+        "longitude": -2.863, 
+        "parent_woeid": 12695261, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.281, 
+        "sw_longitude": -2.872, 
+        "fullname": "San Martin de Arteaga, Basque Country, Biscay, Spain", 
+        "sw_latitude": 43.270
+      }, 
+      "id": 23413175
+    }
+  ]
+}

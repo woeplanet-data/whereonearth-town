@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.177, 
+              47.749
+            ], 
+            [
+              -0.177, 
+              47.785
+            ], 
+            [
+              -0.141, 
+              47.785
+            ], 
+            [
+              -0.141, 
+              47.749
+            ], 
+            [
+              -0.177, 
+              47.749
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003217, 
+        "name": "Le Bailleul", 
+        "adjacent_woeid": [
+          576796, 
+          588040, 
+          597434, 
+          608679, 
+          615645, 
+          631411
+        ], 
+        "ne_latitude": 47.785, 
+        "ne_longitude": -0.141, 
+        "longitude": -0.160, 
+        "parent_woeid": 12673177, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Baileul"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.769, 
+        "sw_longitude": -0.177, 
+        "fullname": "Le Bailleul, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 47.749
+      }, 
+      "id": 15003217
+    }
+  ]
+}

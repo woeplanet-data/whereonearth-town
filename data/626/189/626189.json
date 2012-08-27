@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.285, 
+              46.423
+            ], 
+            [
+              2.285, 
+              46.465
+            ], 
+            [
+              2.329, 
+              46.465
+            ], 
+            [
+              2.329, 
+              46.423
+            ], 
+            [
+              2.285, 
+              46.423
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626189, 
+        "name": "St.-Palais", 
+        "adjacent_woeid": [
+          611272, 
+          618066, 
+          622109, 
+          626505, 
+          626907, 
+          632387
+        ], 
+        "ne_latitude": 46.465, 
+        "ne_longitude": 2.329, 
+        "longitude": 2.299, 
+        "parent_woeid": 22755171, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Palais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.439, 
+        "sw_longitude": 2.285, 
+        "fullname": "St.-Palais, Auvergne, Allier, France", 
+        "sw_latitude": 46.423
+      }, 
+      "id": 626189
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.579, 
+              40.446
+            ], 
+            [
+              -5.579, 
+              40.479
+            ], 
+            [
+              -5.531, 
+              40.479
+            ], 
+            [
+              -5.531, 
+              40.446
+            ], 
+            [
+              -5.579, 
+              40.446
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.479, 
+        "name": "La Magdalena", 
+        "adjacent_woeid": [
+          762900, 
+          764633, 
+          766964
+        ], 
+        "woeid": 753898, 
+        "alias_SPA_V": [
+          "Barrio la Magdalena"
+        ], 
+        "ne_longitude": -5.531, 
+        "longitude": -5.538, 
+        "parent_woeid": 12692449, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.449, 
+        "sw_longitude": -5.579, 
+        "fullname": "La Magdalena, Castille and Leon, Salamanca, Spain", 
+        "sw_latitude": 40.446
+      }, 
+      "id": 753898
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.034, 
+              48.840
+            ], 
+            [
+              10.034, 
+              48.850
+            ], 
+            [
+              10.048, 
+              48.850
+            ], 
+            [
+              10.048, 
+              48.840
+            ], 
+            [
+              10.034, 
+              48.840
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682127, 
+        "name": "Oberrombach", 
+        "adjacent_woeid": [
+          657065, 
+          660871, 
+          687088, 
+          701433
+        ], 
+        "ne_latitude": 48.850, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.048, 
+        "longitude": 10.041, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12624242, 
+        "latitude": 48.845, 
+        "sw_longitude": 10.034, 
+        "fullname": "Oberrombach, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.840
+      }, 
+      "id": 682127
+    }
+  ]
+}

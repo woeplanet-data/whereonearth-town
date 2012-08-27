@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              48.441
+            ], 
+            [
+              12.123, 
+              48.459
+            ], 
+            [
+              12.150, 
+              48.459
+            ], 
+            [
+              12.150, 
+              48.441
+            ], 
+            [
+              12.123, 
+              48.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 655835, 
+        "name": "Gundihausen", 
+        "adjacent_woeid": [
+          665567, 
+          670285, 
+          676791, 
+          687551, 
+          698624, 
+          20154535, 
+          29347812
+        ], 
+        "ne_latitude": 48.459, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.150, 
+        "longitude": 12.137, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 12622923, 
+        "latitude": 48.450, 
+        "sw_longitude": 12.123, 
+        "fullname": "Gundihausen, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.441
+      }, 
+      "id": 655835
+    }
+  ]
+}

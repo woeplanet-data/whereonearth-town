@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.902, 
+              51.693
+            ], 
+            [
+              11.902, 
+              51.702
+            ], 
+            [
+              11.917, 
+              51.702
+            ], 
+            [
+              11.917, 
+              51.693
+            ], 
+            [
+              11.902, 
+              51.693
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 684765, 
+        "name": "Pfaffendorf", 
+        "adjacent_woeid": [
+          645036, 
+          646475, 
+          685049, 
+          707967
+        ], 
+        "ne_latitude": 51.702, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.917, 
+        "longitude": 11.909, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:21Z", 
+        "parent_woeid": 12626002, 
+        "latitude": 51.698, 
+        "sw_longitude": 11.902, 
+        "fullname": "Pfaffendorf, Saxony-Anhalt, Kothen, Germany", 
+        "sw_latitude": 51.693
+      }, 
+      "id": 684765
+    }
+  ]
+}

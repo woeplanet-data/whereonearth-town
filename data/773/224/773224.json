@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.517, 
+              40.982
+            ], 
+            [
+              -5.517, 
+              41.003
+            ], 
+            [
+              -5.490, 
+              41.003
+            ], 
+            [
+              -5.490, 
+              40.982
+            ], 
+            [
+              -5.517, 
+              40.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.003, 
+        "name": "San Morales", 
+        "adjacent_woeid": [
+          20220398, 
+          22661146, 
+          56064905
+        ], 
+        "woeid": 773224, 
+        "alias_SPA_V": [
+          "S. Morales"
+        ], 
+        "ne_longitude": -5.490, 
+        "longitude": -5.503, 
+        "parent_woeid": 12692416, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.993, 
+        "sw_longitude": -5.517, 
+        "fullname": "San Morales, Castille and Leon, Salamanca, Spain", 
+        "sw_latitude": 40.982
+      }, 
+      "id": 773224
+    }
+  ]
+}

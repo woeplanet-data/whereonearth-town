@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.347, 
+              54.321
+            ], 
+            [
+              10.347, 
+              54.342
+            ], 
+            [
+              10.372, 
+              54.342
+            ], 
+            [
+              10.372, 
+              54.321
+            ], 
+            [
+              10.347, 
+              54.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 643128, 
+        "name": "Charlottental", 
+        "alias_ENG_P": [
+          "Charlottenthal"
+        ], 
+        "ne_latitude": 54.342, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.372, 
+        "longitude": 10.358, 
+        "placetype": "Town", 
+        "adjacent_woeid": [
+          690844, 
+          692151, 
+          697534
+        ], 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:21Z", 
+        "parent_woeid": 12632442, 
+        "latitude": 54.333, 
+        "sw_longitude": 10.347, 
+        "fullname": "Charlottental, Charlottenthal, Schleswig-Holstein, Plon, Germany", 
+        "sw_latitude": 54.321
+      }, 
+      "id": 643128
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.365, 
+              51.365
+            ], 
+            [
+              10.365, 
+              51.403
+            ], 
+            [
+              10.399, 
+              51.403
+            ], 
+            [
+              10.399, 
+              51.365
+            ], 
+            [
+              10.365, 
+              51.365
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658041, 
+        "name": "Hausen", 
+        "adjacent_woeid": [
+          641072, 
+          652293, 
+          666738
+        ], 
+        "ne_latitude": 51.403, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.399, 
+        "longitude": 10.380, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12624674, 
+        "latitude": 51.381, 
+        "sw_longitude": 10.365, 
+        "fullname": "Hausen, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.365
+      }, 
+      "id": 658041
+    }
+  ]
+}

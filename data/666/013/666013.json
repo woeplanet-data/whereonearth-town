@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.110, 
+              53.529
+            ], 
+            [
+              8.110, 
+              53.537
+            ], 
+            [
+              8.123, 
+              53.537
+            ], 
+            [
+              8.123, 
+              53.529
+            ], 
+            [
+              8.110, 
+              53.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666013, 
+        "name": "Kirchreihe", 
+        "adjacent_woeid": [
+          633261, 
+          649394, 
+          649397, 
+          670310, 
+          703008
+        ], 
+        "ne_latitude": 53.537, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.123, 
+        "longitude": 8.117, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:13Z", 
+        "parent_woeid": 12629825, 
+        "latitude": 53.533, 
+        "sw_longitude": 8.110, 
+        "fullname": "Kirchreihe, Lower Saxony, Stadtkreis Wilhelmshaven, Germany", 
+        "sw_latitude": 53.529
+      }, 
+      "id": 666013
+    }
+  ]
+}

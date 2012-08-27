@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.871, 
+              48.128
+            ], 
+            [
+              10.871, 
+              48.176
+            ], 
+            [
+              10.902, 
+              48.176
+            ], 
+            [
+              10.902, 
+              48.128
+            ], 
+            [
+              10.871, 
+              48.128
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671583, 
+        "name": "Lichtenberg", 
+        "adjacent_woeid": [
+          638581, 
+          656917, 
+          693484, 
+          22662201
+        ], 
+        "ne_latitude": 48.176, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.902, 
+        "longitude": 10.883, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:41Z", 
+        "parent_woeid": 12634644, 
+        "latitude": 48.150, 
+        "sw_longitude": 10.871, 
+        "fullname": "Lichtenberg, Bavaria, Landkreis Landsberg am Lech, Germany", 
+        "sw_latitude": 48.128
+      }, 
+      "id": 671583
+    }
+  ]
+}

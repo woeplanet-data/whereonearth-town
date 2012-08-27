@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.486, 
+              45.510
+            ], 
+            [
+              6.486, 
+              45.519
+            ], 
+            [
+              6.499, 
+              45.519
+            ], 
+            [
+              6.499, 
+              45.510
+            ], 
+            [
+              6.486, 
+              45.510
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593504, 
+        "name": "Grand Coeur", 
+        "adjacent_woeid": [
+          579087, 
+          616292, 
+          22657552, 
+          29330043
+        ], 
+        "ne_latitude": 45.519, 
+        "ne_longitude": 6.499, 
+        "longitude": 6.492, 
+        "parent_woeid": 12654947, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Grand-Coeur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.515, 
+        "sw_longitude": 6.486, 
+        "fullname": "Grand Coeur, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.510
+      }, 
+      "id": 593504
+    }
+  ]
+}

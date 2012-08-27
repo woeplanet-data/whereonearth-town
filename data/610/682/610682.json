@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.779, 
+              49.023
+            ], 
+            [
+              6.779, 
+              49.059
+            ], 
+            [
+              6.833, 
+              49.059
+            ], 
+            [
+              6.833, 
+              49.023
+            ], 
+            [
+              6.779, 
+              49.023
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610682, 
+        "name": "Maxstadt", 
+        "adjacent_woeid": [
+          575845, 
+          578267, 
+          579856, 
+          601283, 
+          629866
+        ], 
+        "ne_latitude": 49.059, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.833, 
+        "longitude": 6.795, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 12666467, 
+        "latitude": 49.042, 
+        "sw_longitude": 6.779, 
+        "fullname": "Maxstadt, Lorraine, Moselle, France", 
+        "sw_latitude": 49.023
+      }, 
+      "id": 610682
+    }
+  ]
+}

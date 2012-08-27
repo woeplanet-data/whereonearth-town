@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.984, 
+              43.288
+            ], 
+            [
+              0.984, 
+              43.325
+            ], 
+            [
+              1.042, 
+              43.325
+            ], 
+            [
+              1.042, 
+              43.288
+            ], 
+            [
+              0.984, 
+              43.288
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583275, 
+        "name": "Castelnau-Picampeau", 
+        "adjacent_woeid": [
+          583315, 
+          592275, 
+          609052, 
+          612973, 
+          617767, 
+          29331455
+        ], 
+        "ne_latitude": 43.325, 
+        "ne_longitude": 1.042, 
+        "longitude": 1.016, 
+        "parent_woeid": 12658453, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Castelnau"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.305, 
+        "sw_longitude": 0.984, 
+        "fullname": "Castelnau-Picampeau, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.288
+      }, 
+      "id": 583275
+    }
+  ]
+}

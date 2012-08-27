@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.305, 
+              46.296
+            ], 
+            [
+              6.305, 
+              46.307
+            ], 
+            [
+              6.321, 
+              46.307
+            ], 
+            [
+              6.321, 
+              46.296
+            ], 
+            [
+              6.305, 
+              46.296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20211041, 
+        "name": "Chilly", 
+        "adjacent_woeid": [
+          577958, 
+          608439, 
+          20211040, 
+          20211047
+        ], 
+        "ne_latitude": 46.307, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.321, 
+        "longitude": 6.314, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "parent_woeid": 12660650, 
+        "latitude": 46.302, 
+        "sw_longitude": 6.305, 
+        "fullname": "Chilly, Rhone-Alpes, Haute-Savoie, France", 
+        "sw_latitude": 46.296
+      }, 
+      "id": 20211041
+    }
+  ]
+}

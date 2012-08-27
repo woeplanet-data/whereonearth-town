@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.066, 
+              20.861
+            ], 
+            [
+              -99.066, 
+              20.880
+            ], 
+            [
+              -99.047, 
+              20.880
+            ], 
+            [
+              -99.047, 
+              20.861
+            ], 
+            [
+              -99.066, 
+              20.861
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.880, 
+        "name": "Quetzalapa", 
+        "adjacent_woeid": [
+          113473, 
+          119549, 
+          125538, 
+          134984, 
+          146444, 
+          147181, 
+          149563
+        ], 
+        "woeid": 138052, 
+        "alias_SPA_V": [
+          "Quetzalapan"
+        ], 
+        "ne_longitude": -99.047, 
+        "longitude": -99.057, 
+        "parent_woeid": 12600140, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.871, 
+        "sw_longitude": -99.066, 
+        "fullname": "Quetzalapa, Hidalgo, Jacala de Ledezma, Mexico", 
+        "sw_latitude": 20.861
+      }, 
+      "id": 138052
+    }
+  ]
+}

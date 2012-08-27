@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.713, 
+              24.227
+            ], 
+            [
+              -103.713, 
+              24.245
+            ], 
+            [
+              -103.693, 
+              24.245
+            ], 
+            [
+              -103.693, 
+              24.227
+            ], 
+            [
+              -103.713, 
+              24.227
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.245, 
+        "name": "San Antonio de los Garcias", 
+        "adjacent_woeid": [
+          125358, 
+          129020, 
+          135462, 
+          138150, 
+          141480, 
+          143539, 
+          144313, 
+          150606
+        ], 
+        "woeid": 141819, 
+        "alias_SPA_V": [
+          "S. Antonio de los Garcias"
+        ], 
+        "ne_longitude": -103.693, 
+        "longitude": -103.703, 
+        "parent_woeid": 12599953, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.236, 
+        "sw_longitude": -103.713, 
+        "fullname": "San Antonio de los Garcias, Durango, Cuencame, Mexico", 
+        "sw_latitude": 24.227
+      }, 
+      "id": 141819
+    }
+  ]
+}

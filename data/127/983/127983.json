@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.408, 
+              21.060
+            ], 
+            [
+              -97.408, 
+              21.074
+            ], 
+            [
+              -97.392, 
+              21.074
+            ], 
+            [
+              -97.392, 
+              21.060
+            ], 
+            [
+              -97.408, 
+              21.060
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.074, 
+        "name": "La Laja", 
+        "adjacent_woeid": [
+          112996, 
+          126101, 
+          136156, 
+          148117, 
+          150272
+        ], 
+        "woeid": 127983, 
+        "alias_SPA_V": [
+          "Laja"
+        ], 
+        "ne_longitude": -97.392, 
+        "longitude": -97.400, 
+        "parent_woeid": 12601909, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.067, 
+        "sw_longitude": -97.408, 
+        "fullname": "La Laja, Veracruz-Llave, Tuxpam, Mexico", 
+        "sw_latitude": 21.060
+      }, 
+      "id": 127983
+    }
+  ]
+}

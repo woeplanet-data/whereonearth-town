@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.749, 
+              50.687
+            ], 
+            [
+              12.749, 
+              50.697
+            ], 
+            [
+              12.774, 
+              50.697
+            ], 
+            [
+              12.774, 
+              50.687
+            ], 
+            [
+              12.749, 
+              50.687
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675456, 
+        "name": "Mitteldorf", 
+        "adjacent_woeid": [
+          651267, 
+          661139, 
+          679180, 
+          681011
+        ], 
+        "ne_latitude": 50.697, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.774, 
+        "longitude": 12.768, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:41Z", 
+        "parent_woeid": 12636548, 
+        "latitude": 50.692, 
+        "sw_longitude": 12.749, 
+        "fullname": "Mitteldorf, Saxony, Landkreis Stollberg, Germany", 
+        "sw_latitude": 50.687
+      }, 
+      "id": 675456
+    }
+  ]
+}

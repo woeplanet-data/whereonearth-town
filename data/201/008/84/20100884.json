@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.879, 
+              47.415
+            ], 
+            [
+              8.879, 
+              47.424
+            ], 
+            [
+              8.893, 
+              47.424
+            ], 
+            [
+              8.893, 
+              47.415
+            ], 
+            [
+              8.879, 
+              47.415
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20100884, 
+        "name": "Berg", 
+        "adjacent_woeid": [
+          20101227, 
+          20101920, 
+          20103266, 
+          20103443, 
+          20104234, 
+          20104378, 
+          28996783, 
+          28996823
+        ], 
+        "ne_latitude": 47.424, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.893, 
+        "longitude": 8.886, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12683549, 
+        "latitude": 47.420, 
+        "sw_longitude": 8.879, 
+        "fullname": "Berg, Canton of Zurich, Winterthur, Switzerland", 
+        "sw_latitude": 47.415
+      }, 
+      "id": 20100884
+    }
+  ]
+}

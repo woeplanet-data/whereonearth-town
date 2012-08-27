@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.160, 
+              25.091
+            ], 
+            [
+              -105.160, 
+              25.109
+            ], 
+            [
+              -105.140, 
+              25.109
+            ], 
+            [
+              -105.140, 
+              25.091
+            ], 
+            [
+              -105.160, 
+              25.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.109, 
+        "name": "El Salvador", 
+        "adjacent_woeid": [
+          113679, 
+          126335, 
+          126638, 
+          135543, 
+          142473, 
+          142787
+        ], 
+        "woeid": 122359, 
+        "alias_SPA_V": [
+          "Salvador"
+        ], 
+        "ne_longitude": -105.140, 
+        "longitude": -105.150, 
+        "parent_woeid": 12599982, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.100, 
+        "sw_longitude": -105.160, 
+        "fullname": "El Salvador, Durango, Santiago Papasquiaro, Mexico", 
+        "sw_latitude": 25.091
+      }, 
+      "id": 122359
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.206, 
+              48.276
+            ], 
+            [
+              10.206, 
+              48.302
+            ], 
+            [
+              10.229, 
+              48.302
+            ], 
+            [
+              10.229, 
+              48.276
+            ], 
+            [
+              10.206, 
+              48.276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638686, 
+        "name": "Biberach", 
+        "adjacent_woeid": [
+          635608, 
+          641856, 
+          663549, 
+          674991, 
+          691850
+        ], 
+        "ne_latitude": 48.302, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.229, 
+        "longitude": 10.219, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:44Z", 
+        "parent_woeid": 12634864, 
+        "latitude": 48.288, 
+        "sw_longitude": 10.206, 
+        "fullname": "Biberach, Bavaria, Landkreis Neu-Ulm, Germany", 
+        "sw_latitude": 48.276
+      }, 
+      "id": 638686
+    }
+  ]
+}

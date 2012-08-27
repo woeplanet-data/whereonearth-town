@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.618, 
+              47.379
+            ], 
+            [
+              3.618, 
+              47.388
+            ], 
+            [
+              3.632, 
+              47.388
+            ], 
+            [
+              3.632, 
+              47.379
+            ], 
+            [
+              3.618, 
+              47.379
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584157, 
+        "name": "Champagne", 
+        "adjacent_woeid": [
+          575879, 
+          611319, 
+          628168, 
+          631343, 
+          15002947
+        ], 
+        "ne_latitude": 47.388, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.632, 
+        "longitude": 3.625, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12640899, 
+        "latitude": 47.383, 
+        "sw_longitude": 3.618, 
+        "fullname": "Champagne, Burgundy, Nievre, France", 
+        "sw_latitude": 47.379
+      }, 
+      "id": 584157
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.324, 
+              48.514
+            ], 
+            [
+              1.324, 
+              48.532
+            ], 
+            [
+              1.351, 
+              48.532
+            ], 
+            [
+              1.351, 
+              48.514
+            ], 
+            [
+              1.324, 
+              48.514
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332040, 
+        "name": "La Croix", 
+        "adjacent_woeid": [
+          579939, 
+          588481, 
+          603366, 
+          630728
+        ], 
+        "ne_latitude": 48.532, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.351, 
+        "longitude": 1.338, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12636791, 
+        "latitude": 48.523, 
+        "sw_longitude": 1.324, 
+        "fullname": "La Croix, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.514
+      }, 
+      "id": 29332040
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.791, 
+              50.337
+            ], 
+            [
+              11.791, 
+              50.359
+            ], 
+            [
+              11.818, 
+              50.359
+            ], 
+            [
+              11.818, 
+              50.337
+            ], 
+            [
+              11.791, 
+              50.337
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 692103, 
+        "name": "Schlegel", 
+        "adjacent_woeid": [
+          640767, 
+          641730, 
+          645386, 
+          694735, 
+          696782
+        ], 
+        "ne_latitude": 50.359, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.818, 
+        "longitude": 11.800, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:01Z", 
+        "parent_woeid": 12635308, 
+        "latitude": 50.348, 
+        "sw_longitude": 11.791, 
+        "fullname": "Schlegel, Bavaria, Landkreis Hof, Germany", 
+        "sw_latitude": 50.337
+      }, 
+      "id": 692103
+    }
+  ]
+}

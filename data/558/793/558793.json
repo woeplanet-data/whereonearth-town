@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.123, 
+              56.723
+            ], 
+            [
+              10.123, 
+              56.750
+            ], 
+            [
+              10.172, 
+              56.750
+            ], 
+            [
+              10.172, 
+              56.723
+            ], 
+            [
+              10.123, 
+              56.723
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 558793, 
+        "name": "Visborg", 
+        "adjacent_woeid": [
+          552719, 
+          557041
+        ], 
+        "ne_latitude": 56.750, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.172, 
+        "longitude": 10.148, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:10Z", 
+        "parent_woeid": 28583809, 
+        "latitude": 56.737, 
+        "sw_longitude": 10.123, 
+        "fullname": "Visborg, Nordjylland, Mariagerfjord, Denmark", 
+        "sw_latitude": 56.723
+      }, 
+      "id": 558793
+    }
+  ]
+}

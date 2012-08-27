@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.039, 
+              43.654
+            ], 
+            [
+              -0.039, 
+              43.699
+            ], 
+            [
+              0.014, 
+              43.699
+            ], 
+            [
+              0.014, 
+              43.654
+            ], 
+            [
+              -0.039, 
+              43.654
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628235, 
+        "name": "Termes-d'Armagnac", 
+        "adjacent_woeid": [
+          581495, 
+          592274, 
+          595352, 
+          617772, 
+          621056, 
+          622412, 
+          628102
+        ], 
+        "ne_latitude": 43.699, 
+        "ne_longitude": 0.014, 
+        "longitude": -0.010, 
+        "parent_woeid": 12671571, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Thermes-d'Armagnac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.672, 
+        "sw_longitude": -0.039, 
+        "fullname": "Termes-d'Armagnac, Termes, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.654
+      }, 
+      "id": 628235
+    }
+  ]
+}

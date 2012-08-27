@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.678, 
+              47.763
+            ], 
+            [
+              5.678, 
+              47.783
+            ], 
+            [
+              5.718, 
+              47.783
+            ], 
+            [
+              5.718, 
+              47.763
+            ], 
+            [
+              5.678, 
+              47.763
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599568, 
+        "name": "La Quarte", 
+        "adjacent_woeid": [
+          582084, 
+          585306, 
+          599773, 
+          615338, 
+          618034
+        ], 
+        "ne_latitude": 47.783, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.718, 
+        "longitude": 5.695, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "parent_woeid": 12646555, 
+        "latitude": 47.775, 
+        "sw_longitude": 5.678, 
+        "fullname": "La Quarte, Franche-Comte, Haute-Saone, France", 
+        "sw_latitude": 47.763
+      }, 
+      "id": 599568
+    }
+  ]
+}

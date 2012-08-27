@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.190, 
+              42.117
+            ], 
+            [
+              0.190, 
+              42.180
+            ], 
+            [
+              0.240, 
+              42.180
+            ], 
+            [
+              0.240, 
+              42.117
+            ], 
+            [
+              0.190, 
+              42.117
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.180, 
+        "name": "Grado", 
+        "adjacent_woeid": [
+          753159, 
+          758227, 
+          767235, 
+          15003552, 
+          29369513
+        ], 
+        "woeid": 22661458, 
+        "alias_SPA_V": [
+          "El Grado"
+        ], 
+        "ne_longitude": 0.240, 
+        "longitude": 0.223, 
+        "parent_woeid": 12689489, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:24Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.151, 
+        "sw_longitude": 0.190, 
+        "fullname": "Grado, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.117
+      }, 
+      "id": 22661458
+    }
+  ]
+}

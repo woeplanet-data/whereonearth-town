@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.303, 
+              49.495
+            ], 
+            [
+              1.303, 
+              49.528
+            ], 
+            [
+              1.337, 
+              49.528
+            ], 
+            [
+              1.337, 
+              49.495
+            ], 
+            [
+              1.303, 
+              49.495
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583345, 
+        "name": "Catenay", 
+        "adjacent_woeid": [
+          580097, 
+          580458, 
+          622809, 
+          624306
+        ], 
+        "ne_latitude": 49.528, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.337, 
+        "longitude": 1.321, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12640546, 
+        "latitude": 49.514, 
+        "sw_longitude": 1.303, 
+        "fullname": "Catenay, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.495
+      }, 
+      "id": 583345
+    }
+  ]
+}

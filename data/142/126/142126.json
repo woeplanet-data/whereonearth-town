@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.143, 
+              20.408
+            ], 
+            [
+              -98.143, 
+              20.426
+            ], 
+            [
+              -98.124, 
+              20.426
+            ], 
+            [
+              -98.124, 
+              20.408
+            ], 
+            [
+              -98.143, 
+              20.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.426, 
+        "name": "San Clemente", 
+        "adjacent_woeid": [
+          112633, 
+          117794, 
+          118883, 
+          141963, 
+          142754, 
+          144414, 
+          149556
+        ], 
+        "woeid": 142126, 
+        "alias_SPA_V": [
+          "S Clemente"
+        ], 
+        "ne_longitude": -98.124, 
+        "longitude": -98.133, 
+        "parent_woeid": 12600136, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.417, 
+        "sw_longitude": -98.143, 
+        "fullname": "San Clemente, Hidalgo, Huehuetla, Mexico", 
+        "sw_latitude": 20.408
+      }, 
+      "id": 142126
+    }
+  ]
+}

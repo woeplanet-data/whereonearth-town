@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.482, 
+              48.469
+            ], 
+            [
+              3.482, 
+              48.517
+            ], 
+            [
+              3.524, 
+              48.517
+            ], 
+            [
+              3.524, 
+              48.469
+            ], 
+            [
+              3.482, 
+              48.469
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614404, 
+        "name": "Nogent-sur-Seine", 
+        "adjacent_woeid": [
+          576146, 
+          581661, 
+          591377, 
+          591468, 
+          592001, 
+          593179, 
+          603547, 
+          608220, 
+          609875, 
+          610143, 
+          619882, 
+          622630, 
+          622742, 
+          623054, 
+          628585, 
+          631797, 
+          632243
+        ], 
+        "ne_latitude": 48.517, 
+        "ne_longitude": 3.524, 
+        "longitude": 3.502, 
+        "parent_woeid": 12638363, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Nogent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.493, 
+        "sw_longitude": 3.482, 
+        "fullname": "Nogent-sur-Seine, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.469
+      }, 
+      "id": 614404
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.298, 
+              49.179
+            ], 
+            [
+              3.298, 
+              49.197
+            ], 
+            [
+              3.326, 
+              49.197
+            ], 
+            [
+              3.326, 
+              49.179
+            ], 
+            [
+              3.298, 
+              49.179
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333408, 
+        "name": "Nanteuil", 
+        "adjacent_woeid": [
+          601646, 
+          612688, 
+          620356, 
+          631115
+        ], 
+        "ne_latitude": 49.197, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.326, 
+        "longitude": 3.312, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "parent_woeid": 12672337, 
+        "latitude": 49.188, 
+        "sw_longitude": 3.298, 
+        "fullname": "Nanteuil, Picardie, Aisne, France", 
+        "sw_latitude": 49.179
+      }, 
+      "id": 29333408
+    }
+  ]
+}

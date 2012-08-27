@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.229, 
+              25.529
+            ], 
+            [
+              -100.229, 
+              25.547
+            ], 
+            [
+              -100.209, 
+              25.547
+            ], 
+            [
+              -100.209, 
+              25.529
+            ], 
+            [
+              -100.229, 
+              25.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.547, 
+        "name": "Los Cristales", 
+        "adjacent_woeid": [
+          119665, 
+          128858, 
+          139143, 
+          140390, 
+          145368, 
+          145678
+        ], 
+        "woeid": 131783, 
+        "alias_SPA_V": [
+          "Cristales"
+        ], 
+        "ne_longitude": -100.209, 
+        "longitude": -100.219, 
+        "parent_woeid": 12600645, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.538, 
+        "sw_longitude": -100.229, 
+        "fullname": "Los Cristales, Nuevo Leon, Monterrey, Mexico", 
+        "sw_latitude": 25.529
+      }, 
+      "id": 131783
+    }
+  ]
+}

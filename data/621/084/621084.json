@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.091, 
+              43.360
+            ], 
+            [
+              0.091, 
+              43.404
+            ], 
+            [
+              0.142, 
+              43.404
+            ], 
+            [
+              0.142, 
+              43.360
+            ], 
+            [
+              0.091, 
+              43.360
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 621084, 
+        "name": "Sarriac-Bigorre", 
+        "adjacent_woeid": [
+          576774, 
+          578522, 
+          582734, 
+          607943, 
+          621573
+        ], 
+        "ne_latitude": 43.404, 
+        "ne_longitude": 0.142, 
+        "longitude": 0.128, 
+        "parent_woeid": 12669475, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sarriac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.383, 
+        "sw_longitude": 0.091, 
+        "fullname": "Sarriac-Bigorre, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.360
+      }, 
+      "id": 621084
+    }
+  ]
+}

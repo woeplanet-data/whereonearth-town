@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.522, 
+              44.363
+            ], 
+            [
+              1.522, 
+              44.398
+            ], 
+            [
+              1.556, 
+              44.398
+            ], 
+            [
+              1.556, 
+              44.363
+            ], 
+            [
+              1.522, 
+              44.363
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600662, 
+        "name": "Laburgade", 
+        "adjacent_woeid": [
+          577222, 
+          585990, 
+          587828, 
+          591064
+        ], 
+        "ne_latitude": 44.398, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.556, 
+        "longitude": 1.541, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12664194, 
+        "latitude": 44.387, 
+        "sw_longitude": 1.522, 
+        "fullname": "Laburgade, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.363
+      }, 
+      "id": 600662
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.943, 
+              21.758
+            ], 
+            [
+              -100.943, 
+              21.776
+            ], 
+            [
+              -100.924, 
+              21.776
+            ], 
+            [
+              -100.924, 
+              21.758
+            ], 
+            [
+              -100.943, 
+              21.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.776, 
+        "name": "El Tejocote", 
+        "adjacent_woeid": [
+          122529, 
+          124028, 
+          130882, 
+          133280, 
+          150849
+        ], 
+        "woeid": 122658, 
+        "alias_SPA_V": [
+          "Tejocote"
+        ], 
+        "ne_longitude": -100.924, 
+        "longitude": -100.933, 
+        "parent_woeid": 12601522, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.767, 
+        "sw_longitude": -100.943, 
+        "fullname": "El Tejocote, San Luis Potosi, Villa de Reyes, Mexico", 
+        "sw_latitude": 21.758
+      }, 
+      "id": 122658
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.648, 
+              24.378
+            ], 
+            [
+              -105.648, 
+              24.392
+            ], 
+            [
+              -105.632, 
+              24.392
+            ], 
+            [
+              -105.632, 
+              24.378
+            ], 
+            [
+              -105.648, 
+              24.378
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.392, 
+        "name": "El Casco", 
+        "adjacent_woeid": [
+          111187, 
+          128178, 
+          129045, 
+          133791, 
+          145489
+        ], 
+        "woeid": 119601, 
+        "alias_SPA_V": [
+          "Casco"
+        ], 
+        "ne_longitude": -105.632, 
+        "longitude": -105.640, 
+        "parent_woeid": 12599976, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.385, 
+        "sw_longitude": -105.648, 
+        "fullname": "El Casco, Durango, San Dimas, Mexico", 
+        "sw_latitude": 24.378
+      }, 
+      "id": 119601
+    }
+  ]
+}

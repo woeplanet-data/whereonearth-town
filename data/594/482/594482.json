@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.371, 
+              49.369
+            ], 
+            [
+              6.371, 
+              49.400
+            ], 
+            [
+              6.414, 
+              49.400
+            ], 
+            [
+              6.414, 
+              49.369
+            ], 
+            [
+              6.371, 
+              49.369
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 594482, 
+        "name": "Haute Sierck", 
+        "adjacent_woeid": [
+          596079, 
+          596307, 
+          605119, 
+          627612, 
+          20212891, 
+          20212892, 
+          20212905
+        ], 
+        "ne_latitude": 49.400, 
+        "ne_longitude": 6.414, 
+        "longitude": 6.391, 
+        "parent_woeid": 12662658, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Obersierck"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.390, 
+        "sw_longitude": 6.371, 
+        "fullname": "Haute Sierck, Lorraine, Moselle, France", 
+        "sw_latitude": 49.369
+      }, 
+      "id": 594482
+    }
+  ]
+}

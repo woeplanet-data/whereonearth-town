@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.980, 
+              47.413
+            ], 
+            [
+              3.980, 
+              47.446
+            ], 
+            [
+              4.016, 
+              47.446
+            ], 
+            [
+              4.016, 
+              47.413
+            ], 
+            [
+              3.980, 
+              47.413
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623330, 
+        "name": "St.-Brancher", 
+        "adjacent_woeid": [
+          577488, 
+          578890, 
+          582470, 
+          623058, 
+          29332210
+        ], 
+        "ne_latitude": 47.446, 
+        "ne_longitude": 4.016, 
+        "longitude": 3.997, 
+        "parent_woeid": 12637807, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Brancher"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.426, 
+        "sw_longitude": 3.980, 
+        "fullname": "St.-Brancher, Burgundy, Yonne, France", 
+        "sw_latitude": 47.413
+      }, 
+      "id": 623330
+    }
+  ]
+}

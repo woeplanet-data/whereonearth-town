@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.501, 
+              40.636
+            ], 
+            [
+              -3.501, 
+              40.654
+            ], 
+            [
+              -3.483, 
+              40.654
+            ], 
+            [
+              -3.483, 
+              40.636
+            ], 
+            [
+              -3.501, 
+              40.636
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.654, 
+        "name": "Ciudad Santo Domingo", 
+        "adjacent_woeid": [
+          751614, 
+          29370610, 
+          29370782, 
+          29370795, 
+          29370833, 
+          55866053
+        ], 
+        "woeid": 779292, 
+        "alias_SPA_V": [
+          "Ciudad Sto Domingo"
+        ], 
+        "ne_longitude": -3.483, 
+        "longitude": -3.492, 
+        "parent_woeid": 12688004, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.645, 
+        "sw_longitude": -3.501, 
+        "fullname": "Ciudad Santo Domingo, Madrid, Madrid, Spain", 
+        "sw_latitude": 40.636
+      }, 
+      "id": 779292
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.578, 
+              49.007
+            ], 
+            [
+              3.578, 
+              49.038
+            ], 
+            [
+              3.604, 
+              49.038
+            ], 
+            [
+              3.604, 
+              49.007
+            ], 
+            [
+              3.578, 
+              49.007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622774, 
+        "name": "St.-Agnan", 
+        "adjacent_woeid": [
+          578449, 
+          583561, 
+          587591, 
+          597502, 
+          612715, 
+          622276, 
+          29333440
+        ], 
+        "ne_latitude": 49.038, 
+        "ne_longitude": 3.604, 
+        "longitude": 3.596, 
+        "parent_woeid": 22757629, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Agnan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.021, 
+        "sw_longitude": 3.578, 
+        "fullname": "St.-Agnan, Picardie, Aisne, France", 
+        "sw_latitude": 49.007
+      }, 
+      "id": 622774
+    }
+  ]
+}

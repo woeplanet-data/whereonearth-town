@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.658, 
+              46.434
+            ], 
+            [
+              1.658, 
+              46.474
+            ], 
+            [
+              1.681, 
+              46.474
+            ], 
+            [
+              1.681, 
+              46.434
+            ], 
+            [
+              1.658, 
+              46.434
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15002976, 
+        "name": "St.-Plantaire", 
+        "adjacent_woeid": [
+          580720, 
+          588076, 
+          588338, 
+          588430, 
+          608773, 
+          20185608, 
+          20185645
+        ], 
+        "ne_latitude": 46.474, 
+        "ne_longitude": 1.681, 
+        "longitude": 1.671, 
+        "parent_woeid": 12652650, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Plantaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.460, 
+        "sw_longitude": 1.658, 
+        "fullname": "St.-Plantaire, Centre, Indre, France", 
+        "sw_latitude": 46.434
+      }, 
+      "id": 15002976
+    }
+  ]
+}

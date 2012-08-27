@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.003, 
+              49.983
+            ], 
+            [
+              11.003, 
+              50.017
+            ], 
+            [
+              11.031, 
+              50.017
+            ], 
+            [
+              11.031, 
+              49.983
+            ], 
+            [
+              11.003, 
+              49.983
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693866, 
+        "name": "Schweisdorf", 
+        "adjacent_woeid": [
+          642532, 
+          681946, 
+          684367, 
+          689566, 
+          706929
+        ], 
+        "ne_latitude": 50.017, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.031, 
+        "longitude": 11.016, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12635248, 
+        "latitude": 50.004, 
+        "sw_longitude": 11.003, 
+        "fullname": "Schweisdorf, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.983
+      }, 
+      "id": 693866
+    }
+  ]
+}

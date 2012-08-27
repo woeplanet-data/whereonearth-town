@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.760, 
+              28.058
+            ], 
+            [
+              -110.760, 
+              28.076
+            ], 
+            [
+              -110.740, 
+              28.076
+            ], 
+            [
+              -110.740, 
+              28.058
+            ], 
+            [
+              -110.760, 
+              28.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.076, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          122897, 
+          133213, 
+          134102, 
+          135359, 
+          143493
+        ], 
+        "woeid": 141516, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -110.740, 
+        "longitude": -110.750, 
+        "parent_woeid": 12601568, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.067, 
+        "sw_longitude": -110.760, 
+        "fullname": "San Antonio, Sonora, Empalme, Mexico", 
+        "sw_latitude": 28.058
+      }, 
+      "id": 141516
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.408, 
+              49.095
+            ], 
+            [
+              1.408, 
+              49.119
+            ], 
+            [
+              1.468, 
+              49.119
+            ], 
+            [
+              1.468, 
+              49.095
+            ], 
+            [
+              1.408, 
+              49.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625028, 
+        "name": "St.-Just", 
+        "adjacent_woeid": [
+          597521, 
+          618027, 
+          623940, 
+          626403
+        ], 
+        "ne_latitude": 49.119, 
+        "ne_longitude": 1.468, 
+        "longitude": 1.440, 
+        "parent_woeid": 12652725, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Just"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.108, 
+        "sw_longitude": 1.408, 
+        "fullname": "St.-Just, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.095
+      }, 
+      "id": 625028
+    }
+  ]
+}

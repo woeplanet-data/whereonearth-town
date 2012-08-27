@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.793, 
+              23.158
+            ], 
+            [
+              -98.793, 
+              23.176
+            ], 
+            [
+              -98.773, 
+              23.176
+            ], 
+            [
+              -98.773, 
+              23.158
+            ], 
+            [
+              -98.793, 
+              23.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123748, 
+        "name": "Francisco Villa", 
+        "adjacent_woeid": [
+          119914, 
+          123437, 
+          125372, 
+          151018
+        ], 
+        "ne_latitude": 23.176, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -98.773, 
+        "longitude": -98.783, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "parent_woeid": 12601651, 
+        "latitude": 23.167, 
+        "sw_longitude": -98.793, 
+        "fullname": "Francisco Villa, Tamaulipas, Llera, Mexico", 
+        "sw_latitude": 23.158
+      }, 
+      "id": 123748
+    }
+  ]
+}

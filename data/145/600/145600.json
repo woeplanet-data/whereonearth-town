@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.727, 
+              28.141
+            ], 
+            [
+              -100.727, 
+              28.159
+            ], 
+            [
+              -100.706, 
+              28.159
+            ], 
+            [
+              -100.706, 
+              28.141
+            ], 
+            [
+              -100.727, 
+              28.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.159, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          111585, 
+          124178, 
+          140771, 
+          145479, 
+          146629, 
+          150884, 
+          150909
+        ], 
+        "woeid": 145600, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -100.706, 
+        "longitude": -100.717, 
+        "parent_woeid": 12599922, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.150, 
+        "sw_longitude": -100.727, 
+        "fullname": "Santa Ana, Coahuila de Zaragoza, Villa Union, Mexico", 
+        "sw_latitude": 28.141
+      }, 
+      "id": 145600
+    }
+  ]
+}

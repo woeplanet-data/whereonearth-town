@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.540, 
+              26.811
+            ], 
+            [
+              -99.540, 
+              26.823
+            ], 
+            [
+              -99.526, 
+              26.823
+            ], 
+            [
+              -99.526, 
+              26.811
+            ], 
+            [
+              -99.540, 
+              26.811
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.823, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          113721, 
+          124576, 
+          142061, 
+          142442, 
+          145188, 
+          146760
+        ], 
+        "woeid": 145190, 
+        "alias_SPA_V": [
+          "S. Rafael"
+        ], 
+        "ne_longitude": -99.526, 
+        "longitude": -99.533, 
+        "parent_woeid": 12601646, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.817, 
+        "sw_longitude": -99.540, 
+        "fullname": "San Rafael, Tamaulipas, Guerrero, Mexico", 
+        "sw_latitude": 26.811
+      }, 
+      "id": 145190
+    }
+  ]
+}

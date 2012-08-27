@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.123, 
+              44.376
+            ], 
+            [
+              -123.123, 
+              44.392
+            ], 
+            [
+              -123.096, 
+              44.392
+            ], 
+            [
+              -123.096, 
+              44.376
+            ], 
+            [
+              -123.123, 
+              44.376
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2416466, 
+        "name": "Halsey", 
+        "adjacent_woeid": [
+          2352640, 
+          2367151, 
+          2370567, 
+          2385382, 
+          2387369, 
+          2402722, 
+          2418034, 
+          2439847, 
+          2453006, 
+          2460131, 
+          2470454, 
+          2492045, 
+          2499055, 
+          2509085
+        ], 
+        "ne_latitude": 44.392, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.096, 
+        "longitude": -123.110, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:11Z", 
+        "parent_woeid": 12589713, 
+        "latitude": 44.384, 
+        "sw_longitude": -123.123, 
+        "fullname": "Halsey, Oregon, Linn, United States", 
+        "sw_latitude": 44.376
+      }, 
+      "id": 2416466
+    }
+  ]
+}

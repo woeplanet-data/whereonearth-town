@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.177, 
+              25.374
+            ], 
+            [
+              -111.177, 
+              25.392
+            ], 
+            [
+              -111.157, 
+              25.392
+            ], 
+            [
+              -111.157, 
+              25.374
+            ], 
+            [
+              -111.177, 
+              25.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.392, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          111448, 
+          141574, 
+          142893, 
+          145317
+        ], 
+        "woeid": 143719, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -111.157, 
+        "longitude": -111.167, 
+        "parent_woeid": 12599695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.383, 
+        "sw_longitude": -111.177, 
+        "fullname": "San Juan, Baja California Sur, Comondu, Mexico", 
+        "sw_latitude": 25.374
+      }, 
+      "id": 143719
+    }
+  ]
+}

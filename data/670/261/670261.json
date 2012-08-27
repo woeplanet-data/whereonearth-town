@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.812, 
+              47.727
+            ], 
+            [
+              7.812, 
+              47.751
+            ], 
+            [
+              7.833, 
+              47.751
+            ], 
+            [
+              7.833, 
+              47.727
+            ], 
+            [
+              7.812, 
+              47.727
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670261, 
+        "name": "Langensee", 
+        "adjacent_woeid": [
+          647464, 
+          661544, 
+          686660, 
+          693561
+        ], 
+        "ne_latitude": 47.751, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.833, 
+        "longitude": 7.819, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12623560, 
+        "latitude": 47.742, 
+        "sw_longitude": 7.812, 
+        "fullname": "Langensee, Baden-Wurttemberg, Lorrach, Germany", 
+        "sw_latitude": 47.727
+      }, 
+      "id": 670261
+    }
+  ]
+}

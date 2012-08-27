@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.035, 
+              48.404
+            ], 
+            [
+              -3.035, 
+              48.467
+            ], 
+            [
+              -2.967, 
+              48.467
+            ], 
+            [
+              -2.967, 
+              48.404
+            ], 
+            [
+              -3.035, 
+              48.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624426, 
+        "name": "St.-Gildas", 
+        "adjacent_woeid": [
+          580759, 
+          603325, 
+          604941, 
+          621795, 
+          623593, 
+          624010
+        ], 
+        "ne_latitude": 48.467, 
+        "ne_longitude": -2.967, 
+        "longitude": -3.002, 
+        "parent_woeid": 12652577, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gildas"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.423, 
+        "sw_longitude": -3.035, 
+        "fullname": "St.-Gildas, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.404
+      }, 
+      "id": 624426
+    }
+  ]
+}

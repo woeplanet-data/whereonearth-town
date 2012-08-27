@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.314, 
+              45.228
+            ], 
+            [
+              1.314, 
+              45.246
+            ], 
+            [
+              1.340, 
+              45.246
+            ], 
+            [
+              1.340, 
+              45.228
+            ], 
+            [
+              1.314, 
+              45.228
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332502, 
+        "name": "Le Temple", 
+        "adjacent_woeid": [
+          608741, 
+          616109, 
+          623634, 
+          626749
+        ], 
+        "ne_latitude": 45.246, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.340, 
+        "longitude": 1.327, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12656010, 
+        "latitude": 45.237, 
+        "sw_longitude": 1.314, 
+        "fullname": "Le Temple, Limousin, Correze, France", 
+        "sw_latitude": 45.228
+      }, 
+      "id": 29332502
+    }
+  ]
+}

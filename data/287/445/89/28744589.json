@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.180, 
+              41.303
+            ], 
+            [
+              -80.180, 
+              41.371
+            ], 
+            [
+              -80.102, 
+              41.371
+            ], 
+            [
+              -80.102, 
+              41.303
+            ], 
+            [
+              -80.180, 
+              41.303
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744589, 
+        "name": "Lake", 
+        "adjacent_woeid": [
+          2384526, 
+          2401798, 
+          2459064, 
+          28744590, 
+          28744689, 
+          28744926
+        ], 
+        "ne_latitude": 41.371, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lk Township"
+        ], 
+        "ne_longitude": -80.102, 
+        "longitude": -80.138, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589770, 
+        "latitude": 41.335, 
+        "sw_longitude": -80.180, 
+        "fullname": "Lake, Pennsylvania, Mercer, United States", 
+        "sw_latitude": 41.303
+      }, 
+      "id": 28744589
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.724, 
+              49.979
+            ], 
+            [
+              2.724, 
+              50.025
+            ], 
+            [
+              2.766, 
+              50.025
+            ], 
+            [
+              2.766, 
+              49.979
+            ], 
+            [
+              2.724, 
+              49.979
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609611, 
+        "name": "Mametz", 
+        "adjacent_woeid": [
+          578514, 
+          583110, 
+          586846, 
+          592145, 
+          612309
+        ], 
+        "ne_latitude": 50.025, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.766, 
+        "longitude": 2.736, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "parent_woeid": 12666113, 
+        "latitude": 49.997, 
+        "sw_longitude": 2.724, 
+        "fullname": "Mametz, Picardie, Somme, France", 
+        "sw_latitude": 49.979
+      }, 
+      "id": 609611
+    }
+  ]
+}

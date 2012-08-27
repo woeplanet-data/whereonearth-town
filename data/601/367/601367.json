@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.843, 
+              47.324
+            ], 
+            [
+              4.843, 
+              47.356
+            ], 
+            [
+              4.897, 
+              47.356
+            ], 
+            [
+              4.897, 
+              47.324
+            ], 
+            [
+              4.843, 
+              47.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601367, 
+        "name": "Lantenay", 
+        "adjacent_woeid": [
+          576011, 
+          615760, 
+          618000, 
+          630472
+        ], 
+        "ne_latitude": 47.356, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.897, 
+        "longitude": 4.867, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12647010, 
+        "latitude": 47.342, 
+        "sw_longitude": 4.843, 
+        "fullname": "Lantenay, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.324
+      }, 
+      "id": 601367
+    }
+  ]
+}

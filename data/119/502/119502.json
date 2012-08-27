@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.610, 
+              19.274
+            ], 
+            [
+              -99.610, 
+              19.292
+            ], 
+            [
+              -99.590, 
+              19.292
+            ], 
+            [
+              -99.590, 
+              19.274
+            ], 
+            [
+              -99.610, 
+              19.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.292, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          127008, 
+          142048, 
+          143106, 
+          144157, 
+          144436, 
+          55901154, 
+          55901157, 
+          55901227
+        ], 
+        "woeid": 119502, 
+        "alias_SPA_V": [
+          "Carmen"
+        ], 
+        "ne_longitude": -99.590, 
+        "longitude": -99.600, 
+        "parent_woeid": 12600374, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.283, 
+        "sw_longitude": -99.610, 
+        "fullname": "El Carmen, Mexico, Metepec, Mexico", 
+        "sw_latitude": 19.274
+      }, 
+      "id": 119502
+    }
+  ]
+}

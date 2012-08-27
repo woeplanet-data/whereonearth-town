@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.960, 
+              20.708
+            ], 
+            [
+              -98.960, 
+              20.726
+            ], 
+            [
+              -98.940, 
+              20.726
+            ], 
+            [
+              -98.940, 
+              20.708
+            ], 
+            [
+              -98.960, 
+              20.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.726, 
+        "name": "San Juan Amajaque", 
+        "adjacent_woeid": [
+          111884, 
+          116410, 
+          124011, 
+          125538, 
+          133464
+        ], 
+        "woeid": 143804, 
+        "alias_SPA_V": [
+          "S Juan Amajaque"
+        ], 
+        "ne_longitude": -98.940, 
+        "longitude": -98.950, 
+        "parent_woeid": 12600129, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.717, 
+        "sw_longitude": -98.960, 
+        "fullname": "San Juan Amajaque, Hidalgo, Eloxochitlan, Mexico", 
+        "sw_latitude": 20.708
+      }, 
+      "id": 143804
+    }
+  ]
+}

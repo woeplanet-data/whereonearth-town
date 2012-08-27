@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.427, 
+              23.341
+            ], 
+            [
+              -106.427, 
+              23.359
+            ], 
+            [
+              -106.407, 
+              23.359
+            ], 
+            [
+              -106.407, 
+              23.341
+            ], 
+            [
+              -106.427, 
+              23.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.359, 
+        "name": "El Habal", 
+        "adjacent_woeid": [
+          121743, 
+          121777, 
+          128457, 
+          133021, 
+          137403, 
+          145228
+        ], 
+        "woeid": 120446, 
+        "alias_SPA_V": [
+          "Habal"
+        ], 
+        "ne_longitude": -106.407, 
+        "longitude": -106.417, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.350, 
+        "sw_longitude": -106.427, 
+        "fullname": "El Habal, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.341
+      }, 
+      "id": 120446
+    }
+  ]
+}

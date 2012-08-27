@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.207, 
+              45.987
+            ], 
+            [
+              1.207, 
+              46.012
+            ], 
+            [
+              1.231, 
+              46.012
+            ], 
+            [
+              1.231, 
+              45.987
+            ], 
+            [
+              1.207, 
+              45.987
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628606, 
+        "name": "Thouron", 
+        "adjacent_woeid": [
+          586678, 
+          624910, 
+          20190402, 
+          29332831
+        ], 
+        "ne_latitude": 46.012, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.231, 
+        "longitude": 1.218, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12663716, 
+        "latitude": 45.999, 
+        "sw_longitude": 1.207, 
+        "fullname": "Thouron, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.987
+      }, 
+      "id": 628606
+    }
+  ]
+}

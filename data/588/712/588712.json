@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.089, 
+              47.912
+            ], 
+            [
+              3.089, 
+              47.941
+            ], 
+            [
+              3.120, 
+              47.941
+            ], 
+            [
+              3.120, 
+              47.912
+            ], 
+            [
+              3.089, 
+              47.912
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588712, 
+        "name": "Dicy", 
+        "adjacent_woeid": [
+          585515, 
+          589067, 
+          612461, 
+          618207, 
+          631689
+        ], 
+        "ne_latitude": 47.941, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.120, 
+        "longitude": 3.107, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12642915, 
+        "latitude": 47.933, 
+        "sw_longitude": 3.089, 
+        "fullname": "Dicy, Burgundy, Yonne, France", 
+        "sw_latitude": 47.912
+      }, 
+      "id": 588712
+    }
+  ]
+}

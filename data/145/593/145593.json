@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.140, 
+              30.526
+            ], 
+            [
+              -111.140, 
+              30.550
+            ], 
+            [
+              -111.104, 
+              30.550
+            ], 
+            [
+              -111.104, 
+              30.526
+            ], 
+            [
+              -111.140, 
+              30.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.550, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          126355, 
+          126790, 
+          144083, 
+          145700, 
+          145701
+        ], 
+        "woeid": 145593, 
+        "alias_SPA_V": [
+          "Sta. Ana"
+        ], 
+        "ne_longitude": -111.104, 
+        "longitude": -111.122, 
+        "parent_woeid": 12601603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.543, 
+        "sw_longitude": -111.140, 
+        "fullname": "Santa Ana, Sonora, Santa Ana, Mexico", 
+        "sw_latitude": 30.526
+      }, 
+      "id": 145593
+    }
+  ]
+}

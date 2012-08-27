@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.843, 
+              25.758
+            ], 
+            [
+              -100.843, 
+              25.776
+            ], 
+            [
+              -100.823, 
+              25.776
+            ], 
+            [
+              -100.823, 
+              25.758
+            ], 
+            [
+              -100.843, 
+              25.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.776, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          121803, 
+          124856, 
+          125337, 
+          135038, 
+          139764, 
+          140748, 
+          145195, 
+          146382
+        ], 
+        "woeid": 141553, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -100.823, 
+        "longitude": -100.833, 
+        "parent_woeid": 12600622, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.767, 
+        "sw_longitude": -100.843, 
+        "fullname": "San Antonio, Nuevo Leon, Garcia, Mexico", 
+        "sw_latitude": 25.758
+      }, 
+      "id": 141553
+    }
+  ]
+}

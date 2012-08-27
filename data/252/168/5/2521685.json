@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.367, 
+              43.270
+            ], 
+            [
+              -123.367, 
+              43.288
+            ], 
+            [
+              -123.342, 
+              43.288
+            ], 
+            [
+              -123.342, 
+              43.270
+            ], 
+            [
+              -123.367, 
+              43.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2521685, 
+        "name": "Winchester", 
+        "adjacent_woeid": [
+          2359362, 
+          2482118, 
+          2522169, 
+          23417931
+        ], 
+        "ne_latitude": 43.288, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.342, 
+        "longitude": -123.354, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:32Z", 
+        "parent_woeid": 12589701, 
+        "latitude": 43.279, 
+        "sw_longitude": -123.367, 
+        "fullname": "Winchester, Oregon, Douglas, United States", 
+        "sw_latitude": 43.270
+      }, 
+      "id": 2521685
+    }
+  ]
+}

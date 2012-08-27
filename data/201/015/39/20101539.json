@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.248, 
+              47.492
+            ], 
+            [
+              9.248, 
+              47.511
+            ], 
+            [
+              9.275, 
+              47.511
+            ], 
+            [
+              9.275, 
+              47.492
+            ], 
+            [
+              9.248, 
+              47.492
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101539, 
+        "name": "Eberswil", 
+        "adjacent_woeid": [
+          20101922, 
+          20104330, 
+          22661601
+        ], 
+        "ne_latitude": 47.511, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.275, 
+        "longitude": 9.262, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12683648, 
+        "latitude": 47.502, 
+        "sw_longitude": 9.248, 
+        "fullname": "Eberswil, Canton of Thurgau, Bischofszell, Switzerland", 
+        "sw_latitude": 47.492
+      }, 
+      "id": 20101539
+    }
+  ]
+}

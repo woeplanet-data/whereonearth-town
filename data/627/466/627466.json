@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.235, 
+              46.554
+            ], 
+            [
+              5.235, 
+              46.582
+            ], 
+            [
+              5.257, 
+              46.582
+            ], 
+            [
+              5.257, 
+              46.554
+            ], 
+            [
+              5.235, 
+              46.554
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627466, 
+        "name": "Ste.-Croix", 
+        "adjacent_woeid": [
+          582160, 
+          592211, 
+          597508, 
+          613004, 
+          630099
+        ], 
+        "ne_latitude": 46.582, 
+        "ne_longitude": 5.257, 
+        "longitude": 5.247, 
+        "parent_woeid": 12653367, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Croix"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.572, 
+        "sw_longitude": 5.235, 
+        "fullname": "Ste.-Croix, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.554
+      }, 
+      "id": 627466
+    }
+  ]
+}

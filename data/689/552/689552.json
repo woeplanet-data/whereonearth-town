@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.226, 
+              50.698
+            ], 
+            [
+              10.226, 
+              50.750
+            ], 
+            [
+              10.260, 
+              50.750
+            ], 
+            [
+              10.260, 
+              50.698
+            ], 
+            [
+              10.226, 
+              50.698
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 689552, 
+        "name": "Rosa", 
+        "adjacent_woeid": [
+          643320, 
+          646371, 
+          652144, 
+          658916, 
+          689718, 
+          708982
+        ], 
+        "ne_latitude": 50.750, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.260, 
+        "longitude": 10.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12624955, 
+        "latitude": 50.712, 
+        "sw_longitude": 10.226, 
+        "fullname": "Rosa, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.698
+      }, 
+      "id": 689552
+    }
+  ]
+}

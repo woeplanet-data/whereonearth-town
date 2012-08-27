@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.627, 
+              27.724
+            ], 
+            [
+              -107.627, 
+              27.742
+            ], 
+            [
+              -107.606, 
+              27.742
+            ], 
+            [
+              -107.606, 
+              27.724
+            ], 
+            [
+              -107.627, 
+              27.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.742, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          117606, 
+          118048, 
+          124634, 
+          127908, 
+          136876, 
+          147631
+        ], 
+        "woeid": 142764, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -107.606, 
+        "longitude": -107.617, 
+        "parent_woeid": 12599827, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.733, 
+        "sw_longitude": -107.627, 
+        "fullname": "San Ignacio, Chihuahua, Bocoyna, Mexico", 
+        "sw_latitude": 27.724
+      }, 
+      "id": 142764
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.869, 
+              50.321
+            ], 
+            [
+              10.869, 
+              50.343
+            ], 
+            [
+              10.900, 
+              50.343
+            ], 
+            [
+              10.900, 
+              50.321
+            ], 
+            [
+              10.869, 
+              50.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 667217, 
+        "name": "Kleinwalbur", 
+        "adjacent_woeid": [
+          655251, 
+          675376, 
+          683995, 
+          20156288
+        ], 
+        "ne_latitude": 50.343, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.900, 
+        "longitude": 10.884, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635293, 
+        "latitude": 50.331, 
+        "sw_longitude": 10.869, 
+        "fullname": "Kleinwalbur, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.321
+      }, 
+      "id": 667217
+    }
+  ]
+}

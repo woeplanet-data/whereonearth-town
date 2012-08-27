@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.208, 
+              29.276
+            ], 
+            [
+              -110.208, 
+              29.290
+            ], 
+            [
+              -110.192, 
+              29.290
+            ], 
+            [
+              -110.192, 
+              29.276
+            ], 
+            [
+              -110.208, 
+              29.276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.290, 
+        "name": "Los Hornos", 
+        "adjacent_woeid": [
+          111766, 
+          111942, 
+          125134, 
+          127351, 
+          133237, 
+          137751, 
+          140374, 
+          144921
+        ], 
+        "woeid": 131963, 
+        "alias_SPA_V": [
+          "Hornos"
+        ], 
+        "ne_longitude": -110.192, 
+        "longitude": -110.200, 
+        "parent_woeid": 12601611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.283, 
+        "sw_longitude": -110.208, 
+        "fullname": "Los Hornos, Sonora, Ures, Mexico", 
+        "sw_latitude": 29.276
+      }, 
+      "id": 131963
+    }
+  ]
+}

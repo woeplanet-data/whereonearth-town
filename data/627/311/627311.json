@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.504, 
+              46.391
+            ], 
+            [
+              3.504, 
+              46.417
+            ], 
+            [
+              3.540, 
+              46.417
+            ], 
+            [
+              3.540, 
+              46.391
+            ], 
+            [
+              3.504, 
+              46.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627311, 
+        "name": "St.-Voir", 
+        "adjacent_woeid": [
+          593212, 
+          611074, 
+          628498, 
+          629321
+        ], 
+        "ne_latitude": 46.417, 
+        "ne_longitude": 3.540, 
+        "longitude": 3.519, 
+        "parent_woeid": 12647740, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Voir"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.407, 
+        "sw_longitude": 3.504, 
+        "fullname": "St.-Voir, Auvergne, Allier, France", 
+        "sw_latitude": 46.391
+      }, 
+      "id": 627311
+    }
+  ]
+}

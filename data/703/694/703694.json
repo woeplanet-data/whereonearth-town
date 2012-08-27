@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.469, 
+              50.712
+            ], 
+            [
+              9.469, 
+              50.768
+            ], 
+            [
+              9.505, 
+              50.768
+            ], 
+            [
+              9.505, 
+              50.712
+            ], 
+            [
+              9.469, 
+              50.712
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703694, 
+        "name": "Wallersdorf", 
+        "adjacent_woeid": [
+          651799, 
+          657832, 
+          20162403, 
+          20162466
+        ], 
+        "ne_latitude": 50.768, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.505, 
+        "longitude": 9.485, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:55Z", 
+        "parent_woeid": 12632723, 
+        "latitude": 50.750, 
+        "sw_longitude": 9.469, 
+        "fullname": "Wallersdorf, Hesse, Vogelbergkreis, Germany", 
+        "sw_latitude": 50.712
+      }, 
+      "id": 703694
+    }
+  ]
+}

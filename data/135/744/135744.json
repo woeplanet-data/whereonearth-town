@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.943, 
+              24.824
+            ], 
+            [
+              -98.943, 
+              24.842
+            ], 
+            [
+              -98.923, 
+              24.842
+            ], 
+            [
+              -98.923, 
+              24.824
+            ], 
+            [
+              -98.943, 
+              24.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.842, 
+        "name": "Palo Blanco", 
+        "adjacent_woeid": [
+          120350, 
+          121021, 
+          121404, 
+          122939, 
+          133844, 
+          143298
+        ], 
+        "woeid": 135744, 
+        "alias_SPA_V": [
+          "Rancho Palos Blancos"
+        ], 
+        "ne_longitude": -98.923, 
+        "longitude": -98.933, 
+        "parent_woeid": 12601636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.833, 
+        "sw_longitude": -98.943, 
+        "fullname": "Palo Blanco, Tamaulipas, Burgos, Mexico", 
+        "sw_latitude": 24.824
+      }, 
+      "id": 135744
+    }
+  ]
+}

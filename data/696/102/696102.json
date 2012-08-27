@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.227, 
+              50.796
+            ], 
+            [
+              10.227, 
+              50.804
+            ], 
+            [
+              10.240, 
+              50.804
+            ], 
+            [
+              10.240, 
+              50.796
+            ], 
+            [
+              10.227, 
+              50.796
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696102, 
+        "name": "St. Pauli", 
+        "adjacent_woeid": [
+          664617, 
+          670161, 
+          706555
+        ], 
+        "ne_latitude": 50.804, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.240, 
+        "longitude": 10.233, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:13Z", 
+        "parent_woeid": 12624764, 
+        "latitude": 50.800, 
+        "sw_longitude": 10.227, 
+        "fullname": "St. Pauli, Thuringia, Wartburgkreis, Germany", 
+        "alias_GER_V": [
+          "St Pauli"
+        ], 
+        "sw_latitude": 50.796
+      }, 
+      "id": 696102
+    }
+  ]
+}

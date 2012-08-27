@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.578, 
+              50.324
+            ], 
+            [
+              5.578, 
+              50.333
+            ], 
+            [
+              5.593, 
+              50.333
+            ], 
+            [
+              5.593, 
+              50.324
+            ], 
+            [
+              5.578, 
+              50.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 972603, 
+        "name": "La Forge", 
+        "adjacent_woeid": [
+          969524, 
+          971179, 
+          974590, 
+          976307, 
+          29374997
+        ], 
+        "ne_latitude": 50.333, 
+        "ne_longitude": 5.593, 
+        "longitude": 5.585, 
+        "parent_woeid": 12602397, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Laforge"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:11Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.328, 
+        "sw_longitude": 5.578, 
+        "fullname": "La Forge, Luxemburg, Marche-en-Famenne, Belgium", 
+        "sw_latitude": 50.324
+      }, 
+      "id": 972603
+    }
+  ]
+}

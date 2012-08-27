@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.878, 
+              45.875
+            ], 
+            [
+              0.878, 
+              45.909
+            ], 
+            [
+              0.926, 
+              45.909
+            ], 
+            [
+              0.926, 
+              45.875
+            ], 
+            [
+              0.878, 
+              45.875
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625021, 
+        "name": "St.-Junien", 
+        "adjacent_woeid": [
+          581984, 
+          583767, 
+          583843, 
+          590228, 
+          598073, 
+          615023, 
+          619653, 
+          620624, 
+          621186, 
+          623355, 
+          625181, 
+          625621, 
+          627242, 
+          20190477, 
+          20198940, 
+          29331231, 
+          55867324
+        ], 
+        "ne_latitude": 45.909, 
+        "ne_longitude": 0.926, 
+        "longitude": 0.901, 
+        "parent_woeid": 12657808, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Junien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.887, 
+        "sw_longitude": 0.878, 
+        "fullname": "St.-Junien, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.875
+      }, 
+      "id": 625021
+    }
+  ]
+}

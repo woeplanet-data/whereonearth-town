@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.199, 
+              45.678
+            ], 
+            [
+              7.199, 
+              45.765
+            ], 
+            [
+              7.240, 
+              45.765
+            ], 
+            [
+              7.240, 
+              45.678
+            ], 
+            [
+              7.199, 
+              45.678
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 724482, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          710470, 
+          722938, 
+          725749, 
+          20119783, 
+          20126893, 
+          20135691, 
+          20141450, 
+          29334468
+        ], 
+        "ne_latitude": 45.765, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.240, 
+        "longitude": 7.227, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:27:20Z", 
+        "parent_woeid": 20076009, 
+        "latitude": 45.709, 
+        "sw_longitude": 7.199, 
+        "fullname": "St.-Pierre, Valle d'Aosta, Aosta, Italy", 
+        "sw_latitude": 45.678, 
+        "alias_ITA_V": [
+          "Saint-Pierre"
+        ]
+      }, 
+      "id": 724482
+    }
+  ]
+}

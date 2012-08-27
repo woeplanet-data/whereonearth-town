@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.377, 
+              29.808
+            ], 
+            [
+              -106.377, 
+              29.826
+            ], 
+            [
+              -106.356, 
+              29.826
+            ], 
+            [
+              -106.356, 
+              29.808
+            ], 
+            [
+              -106.377, 
+              29.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.826, 
+        "name": "El Gallego", 
+        "adjacent_woeid": [
+          116910, 
+          118515, 
+          120053, 
+          124309, 
+          130965, 
+          132411, 
+          140651, 
+          150449
+        ], 
+        "woeid": 120313, 
+        "alias_SPA_V": [
+          "Gallego"
+        ], 
+        "ne_longitude": -106.356, 
+        "longitude": -106.367, 
+        "parent_woeid": 12599819, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.817, 
+        "sw_longitude": -106.377, 
+        "fullname": "El Gallego, Chihuahua, Ahumada, Mexico", 
+        "sw_latitude": 29.808
+      }, 
+      "id": 120313
+    }
+  ]
+}

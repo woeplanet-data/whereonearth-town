@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.560, 
+              39.017
+            ], 
+            [
+              -1.560, 
+              39.127
+            ], 
+            [
+              -1.437, 
+              39.127
+            ], 
+            [
+              -1.437, 
+              39.017
+            ], 
+            [
+              -1.560, 
+              39.017
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.127, 
+        "name": "Pozo Lorente", 
+        "adjacent_woeid": [
+          751635, 
+          756483, 
+          762198, 
+          762867, 
+          763960, 
+          768800, 
+          778631
+        ], 
+        "woeid": 770664, 
+        "alias_SPA_V": [
+          "Pozo-Lorente"
+        ], 
+        "ne_longitude": -1.437, 
+        "longitude": -1.506, 
+        "parent_woeid": 12690274, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.077, 
+        "sw_longitude": -1.560, 
+        "fullname": "Pozo Lorente, Castille la Mancha, Albacete, Spain", 
+        "sw_latitude": 39.017
+      }, 
+      "id": 770664
+    }
+  ]
+}

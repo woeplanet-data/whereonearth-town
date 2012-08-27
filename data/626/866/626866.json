@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.954, 
+              48.506
+            ], 
+            [
+              6.954, 
+              48.544
+            ], 
+            [
+              6.995, 
+              48.544
+            ], 
+            [
+              6.995, 
+              48.506
+            ], 
+            [
+              6.954, 
+              48.506
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626866, 
+        "name": "St.-Sauveur", 
+        "adjacent_woeid": [
+          576152, 
+          579997, 
+          581733, 
+          593556, 
+          615748, 
+          616320, 
+          629787
+        ], 
+        "ne_latitude": 48.544, 
+        "ne_longitude": 6.995, 
+        "longitude": 6.974, 
+        "parent_woeid": 12671220, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sauveur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.534, 
+        "sw_longitude": 6.954, 
+        "fullname": "St.-Sauveur, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.506
+      }, 
+      "id": 626866
+    }
+  ]
+}

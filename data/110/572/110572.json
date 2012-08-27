@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.845, 
+              14.524
+            ], 
+            [
+              -60.845, 
+              14.542
+            ], 
+            [
+              -60.826, 
+              14.542
+            ], 
+            [
+              -60.826, 
+              14.524
+            ], 
+            [
+              -60.845, 
+              14.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 110572, 
+        "name": "Le Vauclin", 
+        "adjacent_woeid": [
+          110426, 
+          110530, 
+          110558, 
+          110559, 
+          110561, 
+          110584, 
+          110781, 
+          110800
+        ], 
+        "ne_latitude": 14.542, 
+        "ne_longitude": -60.826, 
+        "longitude": -60.835, 
+        "parent_woeid": 24551349, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vauclin"
+        ], 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.533, 
+        "sw_longitude": -60.845, 
+        "fullname": "Le Vauclin, Marin, Le Vauclin, Martinique", 
+        "sw_latitude": 14.524
+      }, 
+      "id": 110572
+    }
+  ]
+}

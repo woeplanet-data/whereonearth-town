@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.587, 
+              49.985
+            ], 
+            [
+              9.587, 
+              50.061
+            ], 
+            [
+              9.627, 
+              50.061
+            ], 
+            [
+              9.627, 
+              49.985
+            ], 
+            [
+              9.587, 
+              49.985
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696651, 
+        "name": "Steinbach", 
+        "adjacent_woeid": [
+          656893, 
+          688120, 
+          690718, 
+          694518, 
+          695423
+        ], 
+        "ne_latitude": 50.061, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.627, 
+        "longitude": 9.606, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12636137, 
+        "latitude": 50.008, 
+        "sw_longitude": 9.587, 
+        "fullname": "Steinbach, Bavaria, Main-Spessart, Germany", 
+        "sw_latitude": 49.985
+      }, 
+      "id": 696651
+    }
+  ]
+}

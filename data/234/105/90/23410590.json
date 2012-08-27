@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.239, 
+              43.114
+            ], 
+            [
+              6.239, 
+              43.128
+            ], 
+            [
+              6.260, 
+              43.128
+            ], 
+            [
+              6.260, 
+              43.114
+            ], 
+            [
+              6.239, 
+              43.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23410590, 
+        "name": "Port Miramar", 
+        "adjacent_woeid": [
+          586058, 
+          598107, 
+          55867286
+        ], 
+        "ne_latitude": 43.128, 
+        "ne_longitude": 6.260, 
+        "longitude": 6.245, 
+        "parent_woeid": 12663890, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt Miramar"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.123, 
+        "sw_longitude": 6.239, 
+        "fullname": "Port Miramar, Provence-Alpes-Cote d'Azur, Var, France", 
+        "sw_latitude": 43.114
+      }, 
+      "id": 23410590
+    }
+  ]
+}

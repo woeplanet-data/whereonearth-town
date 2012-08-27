@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.741, 
+              49.214
+            ], 
+            [
+              1.741, 
+              49.254
+            ], 
+            [
+              1.783, 
+              49.254
+            ], 
+            [
+              1.783, 
+              49.214
+            ], 
+            [
+              1.741, 
+              49.214
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630220, 
+        "name": "Vaudancourt", 
+        "adjacent_woeid": [
+          581337, 
+          612826, 
+          615721, 
+          20218170
+        ], 
+        "ne_latitude": 49.254, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.783, 
+        "longitude": 1.756, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "parent_woeid": 22757562, 
+        "latitude": 49.234, 
+        "sw_longitude": 1.741, 
+        "fullname": "Vaudancourt, Picardie, Oise, France", 
+        "sw_latitude": 49.214
+      }, 
+      "id": 630220
+    }
+  ]
+}

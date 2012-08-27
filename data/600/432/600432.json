@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.070, 
+              48.545
+            ], 
+            [
+              1.070, 
+              48.563
+            ], 
+            [
+              1.098, 
+              48.563
+            ], 
+            [
+              1.098, 
+              48.545
+            ], 
+            [
+              1.070, 
+              48.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600432, 
+        "name": "La Ville-aux-Nonains", 
+        "adjacent_woeid": [
+          579050, 
+          588760, 
+          595468, 
+          598545
+        ], 
+        "ne_latitude": 48.563, 
+        "ne_longitude": 1.098, 
+        "longitude": 1.084, 
+        "parent_woeid": 12646233, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Ville aux Nonains"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.554, 
+        "sw_longitude": 1.070, 
+        "fullname": "La Ville-aux-Nonains, La Ville, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.545
+      }, 
+      "id": 600432
+    }
+  ]
+}

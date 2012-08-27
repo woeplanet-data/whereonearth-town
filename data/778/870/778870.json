@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.131, 
+              40.620
+            ], 
+            [
+              -1.131, 
+              40.720
+            ], 
+            [
+              -1.032, 
+              40.720
+            ], 
+            [
+              -1.032, 
+              40.620
+            ], 
+            [
+              -1.131, 
+              40.620
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.720, 
+        "name": "Visiedo", 
+        "adjacent_woeid": [
+          752028, 
+          752280, 
+          752874, 
+          755578, 
+          765168, 
+          769335, 
+          769921, 
+          771869, 
+          772273
+        ], 
+        "woeid": 778870, 
+        "alias_SPA_V": [
+          "Viziedo"
+        ], 
+        "ne_longitude": -1.032, 
+        "longitude": -1.098, 
+        "parent_woeid": 12689831, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.683, 
+        "sw_longitude": -1.131, 
+        "fullname": "Visiedo, Aragon, Teruel, Spain", 
+        "sw_latitude": 40.620
+      }, 
+      "id": 778870
+    }
+  ]
+}

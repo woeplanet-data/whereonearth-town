@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.830, 
+              10.306
+            ], 
+            [
+              -85.830, 
+              10.320
+            ], 
+            [
+              -85.815, 
+              10.320
+            ], 
+            [
+              -85.815, 
+              10.306
+            ], 
+            [
+              -85.830, 
+              10.306
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.320, 
+        "name": "Puerto Viejo", 
+        "adjacent_woeid": [
+          59921, 
+          58177, 
+          58471
+        ], 
+        "woeid": 59151, 
+        "alias_SPA_V": [
+          "Pto Viejo"
+        ], 
+        "ne_longitude": -85.815, 
+        "longitude": -85.823, 
+        "parent_woeid": 26809289, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.313, 
+        "sw_longitude": -85.830, 
+        "fullname": "Puerto Viejo, Guanacaste, Santa Cruz, Costa Rica", 
+        "sw_latitude": 10.306
+      }, 
+      "id": 59151
+    }
+  ]
+}

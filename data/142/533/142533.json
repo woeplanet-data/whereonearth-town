@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.126, 
+              20.374
+            ], 
+            [
+              -105.126, 
+              20.392
+            ], 
+            [
+              -105.107, 
+              20.392
+            ], 
+            [
+              -105.107, 
+              20.374
+            ], 
+            [
+              -105.126, 
+              20.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.392, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          117182, 
+          117183, 
+          117726, 
+          122844, 
+          130520
+        ], 
+        "woeid": 142533, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -105.107, 
+        "longitude": -105.117, 
+        "parent_woeid": 12600278, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.383, 
+        "sw_longitude": -105.126, 
+        "fullname": "San Francisco, Jalisco, Talpa de Allende, Mexico", 
+        "sw_latitude": 20.374
+      }, 
+      "id": 142533
+    }
+  ]
+}

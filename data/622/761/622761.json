@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.329, 
+              43.186
+            ], 
+            [
+              -0.329, 
+              43.220
+            ], 
+            [
+              -0.275, 
+              43.220
+            ], 
+            [
+              -0.275, 
+              43.186
+            ], 
+            [
+              -0.329, 
+              43.186
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622761, 
+        "name": "St.-Abit", 
+        "adjacent_woeid": [
+          576749, 
+          580311, 
+          580863, 
+          615658
+        ], 
+        "ne_latitude": 43.220, 
+        "ne_longitude": -0.275, 
+        "longitude": -0.296, 
+        "parent_woeid": 12652131, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Abit"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.207, 
+        "sw_longitude": -0.329, 
+        "fullname": "St.-Abit, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.186
+      }, 
+      "id": 622761
+    }
+  ]
+}

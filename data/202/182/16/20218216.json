@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.014, 
+              49.306
+            ], 
+            [
+              2.014, 
+              49.315
+            ], 
+            [
+              2.028, 
+              49.315
+            ], 
+            [
+              2.028, 
+              49.306
+            ], 
+            [
+              2.014, 
+              49.306
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20218216, 
+        "name": "La Longue Rue", 
+        "adjacent_woeid": [
+          578757, 
+          592025, 
+          599247, 
+          617667, 
+          629817, 
+          20218218, 
+          20218219, 
+          29333356
+        ], 
+        "ne_latitude": 49.315, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.028, 
+        "longitude": 2.021, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 22755588, 
+        "latitude": 49.310, 
+        "sw_longitude": 2.014, 
+        "fullname": "La Longue Rue, Picardie, Oise, France", 
+        "sw_latitude": 49.306
+      }, 
+      "id": 20218216
+    }
+  ]
+}

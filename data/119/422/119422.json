@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.093, 
+              20.224
+            ], 
+            [
+              -102.093, 
+              20.242
+            ], 
+            [
+              -102.074, 
+              20.242
+            ], 
+            [
+              -102.074, 
+              20.224
+            ], 
+            [
+              -102.093, 
+              20.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.242, 
+        "name": "El Capricho", 
+        "adjacent_woeid": [
+          119013, 
+          127812, 
+          128466, 
+          130232, 
+          136057, 
+          140732
+        ], 
+        "woeid": 119422, 
+        "alias_SPA_V": [
+          "El Ranchito"
+        ], 
+        "ne_longitude": -102.074, 
+        "longitude": -102.083, 
+        "parent_woeid": 12600489, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.233, 
+        "sw_longitude": -102.093, 
+        "fullname": "El Capricho, Michoacan de Ocampo, La Piedad, Mexico", 
+        "sw_latitude": 20.224
+      }, 
+      "id": 119422
+    }
+  ]
+}

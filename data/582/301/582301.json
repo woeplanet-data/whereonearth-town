@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.132, 
+              50.272
+            ], 
+            [
+              3.132, 
+              50.310
+            ], 
+            [
+              3.178, 
+              50.310
+            ], 
+            [
+              3.178, 
+              50.272
+            ], 
+            [
+              3.132, 
+              50.272
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 582301, 
+        "name": "Bugnicourt", 
+        "adjacent_woeid": [
+          582206, 
+          589869, 
+          592066, 
+          631989
+        ], 
+        "ne_latitude": 50.310, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.178, 
+        "longitude": 3.157, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "parent_woeid": 12658009, 
+        "latitude": 50.292, 
+        "sw_longitude": 3.132, 
+        "fullname": "Bugnicourt, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.272
+      }, 
+      "id": 582301
+    }
+  ]
+}

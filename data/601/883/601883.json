@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.234, 
+              43.377
+            ], 
+            [
+              1.234, 
+              43.421
+            ], 
+            [
+              1.279, 
+              43.421
+            ], 
+            [
+              1.279, 
+              43.377
+            ], 
+            [
+              1.234, 
+              43.377
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601883, 
+        "name": "Lavernose-Lacasse", 
+        "adjacent_woeid": [
+          579310, 
+          602874, 
+          607929, 
+          608489, 
+          624535, 
+          29331586
+        ], 
+        "ne_latitude": 43.421, 
+        "ne_longitude": 1.279, 
+        "longitude": 1.262, 
+        "parent_woeid": 12664204, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lavernose"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.396, 
+        "sw_longitude": 1.234, 
+        "fullname": "Lavernose-Lacasse, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.377
+      }, 
+      "id": 601883
+    }
+  ]
+}

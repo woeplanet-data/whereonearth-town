@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.649, 
+              49.055
+            ], 
+            [
+              1.649, 
+              49.079
+            ], 
+            [
+              1.681, 
+              49.079
+            ], 
+            [
+              1.681, 
+              49.055
+            ], 
+            [
+              1.649, 
+              49.055
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611741, 
+        "name": "Moisson", 
+        "adjacent_woeid": [
+          584490, 
+          594478, 
+          601773, 
+          613544
+        ], 
+        "ne_latitude": 49.079, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.681, 
+        "longitude": 1.667, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12649253, 
+        "latitude": 49.074, 
+        "sw_longitude": 1.649, 
+        "fullname": "Moisson, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 49.055
+      }, 
+      "id": 611741
+    }
+  ]
+}

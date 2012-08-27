@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.345, 
+              18.293
+            ], 
+            [
+              -99.345, 
+              18.312
+            ], 
+            [
+              -99.325, 
+              18.312
+            ], 
+            [
+              -99.325, 
+              18.293
+            ], 
+            [
+              -99.345, 
+              18.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.312, 
+        "name": "Huitzuco", 
+        "adjacent_woeid": [
+          112612, 
+          112664, 
+          137061, 
+          149388, 
+          55885645, 
+          55902742
+        ], 
+        "woeid": 125282, 
+        "alias_SPA_V": [
+          "Ciudad Huitzuco"
+        ], 
+        "ne_longitude": -99.325, 
+        "longitude": -99.335, 
+        "parent_woeid": 12600069, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.303, 
+        "sw_longitude": -99.345, 
+        "fullname": "Huitzuco, Guerrero, Huitzuco de Los Figueroa, Mexico", 
+        "sw_latitude": 18.293
+      }, 
+      "id": 125282
+    }
+  ]
+}

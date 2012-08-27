@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.792, 
+              45.063
+            ], 
+            [
+              3.792, 
+              45.088
+            ], 
+            [
+              3.806, 
+              45.088
+            ], 
+            [
+              3.806, 
+              45.063
+            ], 
+            [
+              3.792, 
+              45.063
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627243, 
+        "name": "St.-Vidal", 
+        "adjacent_woeid": [
+          580822, 
+          593687, 
+          20206560, 
+          22657510, 
+          29332593
+        ], 
+        "ne_latitude": 45.088, 
+        "ne_longitude": 3.806, 
+        "longitude": 3.799, 
+        "parent_woeid": 22755288, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vidal"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.074, 
+        "sw_longitude": 3.792, 
+        "fullname": "St.-Vidal, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.063
+      }, 
+      "id": 627243
+    }
+  ]
+}

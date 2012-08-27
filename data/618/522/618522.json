@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.623, 
+              50.309
+            ], 
+            [
+              1.623, 
+              50.350
+            ], 
+            [
+              1.660, 
+              50.350
+            ], 
+            [
+              1.660, 
+              50.309
+            ], 
+            [
+              1.623, 
+              50.309
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 618522, 
+        "name": "Quend", 
+        "adjacent_woeid": [
+          586482, 
+          586701, 
+          611874, 
+          632078, 
+          632765
+        ], 
+        "ne_latitude": 50.350, 
+        "ne_longitude": 1.660, 
+        "longitude": 1.639, 
+        "parent_woeid": 12666811, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Quend-le-Jeune"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.316, 
+        "sw_longitude": 1.623, 
+        "fullname": "Quend, Picardie, Somme, France", 
+        "sw_latitude": 50.309
+      }, 
+      "id": 618522
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.397, 
+              22.010
+            ], 
+            [
+              -100.397, 
+              22.024
+            ], 
+            [
+              -100.382, 
+              22.024
+            ], 
+            [
+              -100.382, 
+              22.010
+            ], 
+            [
+              -100.397, 
+              22.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.024, 
+        "name": "Paso de San Antonio", 
+        "adjacent_woeid": [
+          113771, 
+          133877, 
+          135082, 
+          146074, 
+          148190
+        ], 
+        "woeid": 136165, 
+        "alias_SPA_V": [
+          "Paso de S Antonio"
+        ], 
+        "ne_longitude": -100.382, 
+        "longitude": -100.389, 
+        "parent_woeid": 12601494, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.017, 
+        "sw_longitude": -100.397, 
+        "fullname": "Paso de San Antonio, San Luis Potosi, Rioverde, Mexico", 
+        "sw_latitude": 22.010
+      }, 
+      "id": 136165
+    }
+  ]
+}

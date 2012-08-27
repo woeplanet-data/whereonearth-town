@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.715, 
+              51.831
+            ], 
+            [
+              10.715, 
+              51.874
+            ], 
+            [
+              10.747, 
+              51.874
+            ], 
+            [
+              10.747, 
+              51.831
+            ], 
+            [
+              10.715, 
+              51.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 643784, 
+        "name": "Darlingerode", 
+        "adjacent_woeid": [
+          645807, 
+          692387, 
+          702077
+        ], 
+        "ne_latitude": 51.874, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.747, 
+        "longitude": 10.734, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12626941, 
+        "latitude": 51.850, 
+        "sw_longitude": 10.715, 
+        "fullname": "Darlingerode, Saxony-Anhalt, Landkreis Wernigerode, Germany", 
+        "sw_latitude": 51.831
+      }, 
+      "id": 643784
+    }
+  ]
+}

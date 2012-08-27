@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.876, 
+              20.308
+            ], 
+            [
+              -96.876, 
+              20.326
+            ], 
+            [
+              -96.857, 
+              20.326
+            ], 
+            [
+              -96.857, 
+              20.308
+            ], 
+            [
+              -96.876, 
+              20.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.326, 
+        "name": "Monte Gordo", 
+        "adjacent_woeid": [
+          119300, 
+          127604, 
+          133315, 
+          134397, 
+          150049
+        ], 
+        "woeid": 133984, 
+        "alias_SPA_V": [
+          "Mte Gordo"
+        ], 
+        "ne_longitude": -96.857, 
+        "longitude": -96.867, 
+        "parent_woeid": 12601877, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.317, 
+        "sw_longitude": -96.876, 
+        "fullname": "Monte Gordo, Veracruz-Llave, Tecolutla, Mexico", 
+        "sw_latitude": 20.308
+      }, 
+      "id": 133984
+    }
+  ]
+}

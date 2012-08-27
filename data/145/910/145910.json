@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.663, 
+              26.817
+            ], 
+            [
+              -109.663, 
+              26.835
+            ], 
+            [
+              -109.643, 
+              26.835
+            ], 
+            [
+              -109.643, 
+              26.817
+            ], 
+            [
+              -109.663, 
+              26.817
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.835, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          119529, 
+          122547, 
+          123571, 
+          126212, 
+          137376
+        ], 
+        "woeid": 145910, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -109.643, 
+        "longitude": -109.653, 
+        "parent_woeid": 12601577, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.826, 
+        "sw_longitude": -109.663, 
+        "fullname": "Santa Cruz, Sonora, Huatabampo, Mexico", 
+        "sw_latitude": 26.817
+      }, 
+      "id": 145910
+    }
+  ]
+}

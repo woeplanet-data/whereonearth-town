@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.843, 
+              46.844
+            ], 
+            [
+              1.843, 
+              46.875
+            ], 
+            [
+              1.887, 
+              46.875
+            ], 
+            [
+              1.887, 
+              46.844
+            ], 
+            [
+              1.843, 
+              46.844
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627516, 
+        "name": "Ste.-Fauste", 
+        "adjacent_woeid": [
+          582043, 
+          588792, 
+          610183, 
+          614240, 
+          628516, 
+          632664
+        ], 
+        "ne_latitude": 46.875, 
+        "ne_longitude": 1.887, 
+        "longitude": 1.866, 
+        "parent_woeid": 12636739, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Fauste"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.857, 
+        "sw_longitude": 1.843, 
+        "fullname": "Ste.-Fauste, Centre, Indre, France", 
+        "sw_latitude": 46.844
+      }, 
+      "id": 627516
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.535, 
+              44.294
+            ], 
+            [
+              5.535, 
+              44.344
+            ], 
+            [
+              5.580, 
+              44.344
+            ], 
+            [
+              5.580, 
+              44.294
+            ], 
+            [
+              5.535, 
+              44.294
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601763, 
+        "name": "Laux-Montaux", 
+        "adjacent_woeid": [
+          585291, 
+          600622, 
+          612828, 
+          620461, 
+          622416, 
+          622935, 
+          631606
+        ], 
+        "ne_latitude": 44.344, 
+        "ne_longitude": 5.580, 
+        "longitude": 5.550, 
+        "parent_woeid": 12659224, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Laux-Montau"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.318, 
+        "sw_longitude": 5.535, 
+        "fullname": "Laux-Montaux, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.294
+      }, 
+      "id": 601763
+    }
+  ]
+}

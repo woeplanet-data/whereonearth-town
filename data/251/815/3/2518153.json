@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.466, 
+              43.277
+            ], 
+            [
+              -75.466, 
+              43.398
+            ], 
+            [
+              -75.313, 
+              43.398
+            ], 
+            [
+              -75.313, 
+              43.277
+            ], 
+            [
+              -75.466, 
+              43.277
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2518153, 
+        "name": "Westernville", 
+        "adjacent_woeid": [
+          2357656, 
+          2363947, 
+          2366903, 
+          2374125, 
+          2395574, 
+          2407491, 
+          2423113, 
+          2434836, 
+          2437765, 
+          2437787, 
+          2480118, 
+          2481118, 
+          2484260, 
+          2499702, 
+          2500157, 
+          2516725
+        ], 
+        "ne_latitude": 43.398, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Western, Town of"
+        ], 
+        "ne_longitude": -75.313, 
+        "longitude": -75.382, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:02Z", 
+        "parent_woeid": 12589344, 
+        "latitude": 43.307, 
+        "sw_longitude": -75.466, 
+        "fullname": "Westernville, New York, Oneida, United States", 
+        "sw_latitude": 43.277
+      }, 
+      "id": 2518153
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.088, 
+              10.345
+            ], 
+            [
+              -85.088, 
+              10.355
+            ], 
+            [
+              -85.079, 
+              10.355
+            ], 
+            [
+              -85.079, 
+              10.345
+            ], 
+            [
+              -85.088, 
+              10.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.355, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          58708, 
+          58487, 
+          58512, 
+          59185, 
+          57896, 
+          59810, 
+          58513, 
+          59742
+        ], 
+        "woeid": 59495, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -85.079, 
+        "longitude": -85.083, 
+        "parent_woeid": 26809218, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.350, 
+        "sw_longitude": -85.088, 
+        "fullname": "San Miguel, Guanacaste, Ca\u00f1as, Costa Rica", 
+        "sw_latitude": 10.345
+      }, 
+      "id": 59495
+    }
+  ]
+}

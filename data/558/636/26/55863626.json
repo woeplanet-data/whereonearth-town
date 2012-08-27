@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.089, 
+              49.451
+            ], 
+            [
+              1.089, 
+              49.489
+            ], 
+            [
+              1.146, 
+              49.489
+            ], 
+            [
+              1.146, 
+              49.451
+            ], 
+            [
+              1.089, 
+              49.451
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863626, 
+        "name": "Bois-Guillaume", 
+        "adjacent_woeid": [
+          594992, 
+          595269, 
+          20188381, 
+          55863425, 
+          55863585, 
+          55863627
+        ], 
+        "ne_latitude": 49.489, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.146, 
+        "longitude": 1.118, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 20074878, 
+        "latitude": 49.470, 
+        "sw_longitude": 1.089, 
+        "fullname": "Bois-Guillaume, Rouen, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.451
+      }, 
+      "id": 55863626
+    }
+  ]
+}

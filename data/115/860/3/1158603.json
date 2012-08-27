@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              123.491, 
+              9.691
+            ], 
+            [
+              123.491, 
+              9.709
+            ], 
+            [
+              123.509, 
+              9.709
+            ], 
+            [
+              123.509, 
+              9.691
+            ], 
+            [
+              123.491, 
+              9.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1158603, 
+        "name": "Alcoy", 
+        "adjacent_woeid": [
+          1164359, 
+          1170138, 
+          1198765, 
+          1199117
+        ], 
+        "ne_latitude": 9.709, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 123.509, 
+        "longitude": 123.500, 
+        "placetype": "Town", 
+        "iso": "PH", 
+        "date_indexed": "2010-12-02T09:56:47Z", 
+        "parent_woeid": 2346676, 
+        "latitude": 9.700, 
+        "sw_longitude": 123.491, 
+        "fullname": "Alcoy, Central Visayas, Cebu, Philippines", 
+        "sw_latitude": 9.691
+      }, 
+      "id": 1158603
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.873, 
+              40.530
+            ], 
+            [
+              -76.873, 
+              40.591
+            ], 
+            [
+              -76.735, 
+              40.591
+            ], 
+            [
+              -76.735, 
+              40.530
+            ], 
+            [
+              -76.873, 
+              40.530
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28340010, 
+        "name": "Washington", 
+        "adjacent_woeid": [
+          2375625, 
+          2442771, 
+          2481404, 
+          28340000, 
+          28340006, 
+          28745212, 
+          28745368
+        ], 
+        "ne_latitude": 40.591, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Washington Township"
+        ], 
+        "ne_longitude": -76.735, 
+        "longitude": -76.773, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589749, 
+        "latitude": 40.568, 
+        "sw_longitude": -76.873, 
+        "fullname": "Washington, Pennsylvania, Dauphin, United States", 
+        "sw_latitude": 40.530
+      }, 
+      "id": 28340010
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.508, 
+              -29.363
+            ], 
+            [
+              -65.508, 
+              -29.345
+            ], 
+            [
+              -65.487, 
+              -29.345
+            ], 
+            [
+              -65.487, 
+              -29.363
+            ], 
+            [
+              -65.508, 
+              -29.363
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -29.345, 
+        "name": "El Cercado", 
+        "adjacent_woeid": [
+          465851, 
+          466147, 
+          466388, 
+          468850, 
+          26795676
+        ], 
+        "woeid": 468849, 
+        "alias_SPA_V": [
+          "Cercado"
+        ], 
+        "ne_longitude": -65.487, 
+        "longitude": -65.498, 
+        "parent_woeid": 20070640, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -29.354, 
+        "sw_longitude": -65.508, 
+        "fullname": "El Cercado, Catamarca, La Paz, Argentina", 
+        "sw_latitude": -29.363
+      }, 
+      "id": 468849
+    }
+  ]
+}

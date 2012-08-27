@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.432, 
+              15.367
+            ], 
+            [
+              -90.432, 
+              15.381
+            ], 
+            [
+              -90.417, 
+              15.381
+            ], 
+            [
+              -90.417, 
+              15.367
+            ], 
+            [
+              -90.432, 
+              15.367
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.381, 
+        "name": "Santa Cruz Verapaz", 
+        "adjacent_woeid": [
+          81909, 
+          85576, 
+          85623, 
+          86334
+        ], 
+        "woeid": 85981, 
+        "alias_SPA_V": [
+          "Sta Cruz Verapaz"
+        ], 
+        "ne_longitude": -90.417, 
+        "longitude": -90.425, 
+        "parent_woeid": 26806920, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "S. Cristobal"
+        ], 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.374, 
+        "sw_longitude": -90.432, 
+        "fullname": "Santa Cruz Verapaz, Alta Verapaz, Santa Cruz Verapaz, Guatemala", 
+        "sw_latitude": 15.367
+      }, 
+      "id": 85981
+    }
+  ]
+}

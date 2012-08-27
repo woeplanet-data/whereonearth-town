@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.749, 
+              50.915
+            ], 
+            [
+              12.749, 
+              50.941
+            ], 
+            [
+              12.785, 
+              50.941
+            ], 
+            [
+              12.785, 
+              50.915
+            ], 
+            [
+              12.749, 
+              50.915
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658961, 
+        "name": "Helsdorf", 
+        "adjacent_woeid": [
+          635500, 
+          638417, 
+          643178, 
+          688976
+        ], 
+        "ne_latitude": 50.941, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.785, 
+        "longitude": 12.767, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12636540, 
+        "latitude": 50.933, 
+        "sw_longitude": 12.749, 
+        "fullname": "Helsdorf, Saxony, Landkreis Mittweida, Germany", 
+        "sw_latitude": 50.915
+      }, 
+      "id": 658961
+    }
+  ]
+}

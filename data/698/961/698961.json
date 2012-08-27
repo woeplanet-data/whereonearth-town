@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.431, 
+              51.118
+            ], 
+            [
+              11.431, 
+              51.152
+            ], 
+            [
+              11.466, 
+              51.152
+            ], 
+            [
+              11.466, 
+              51.118
+            ], 
+            [
+              11.431, 
+              51.118
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 698961, 
+        "name": "Teutleben", 
+        "adjacent_woeid": [
+          648846, 
+          657265, 
+          659398, 
+          675299
+        ], 
+        "ne_latitude": 51.152, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.466, 
+        "longitude": 11.451, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12625050, 
+        "latitude": 51.134, 
+        "sw_longitude": 11.431, 
+        "fullname": "Teutleben, Thuringia, Sommerda, Germany", 
+        "sw_latitude": 51.118
+      }, 
+      "id": 698961
+    }
+  ]
+}

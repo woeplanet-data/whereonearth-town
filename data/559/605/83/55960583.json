@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.831, 
+              34.308
+            ], 
+            [
+              -99.831, 
+              34.326
+            ], 
+            [
+              -99.809, 
+              34.326
+            ], 
+            [
+              -99.809, 
+              34.308
+            ], 
+            [
+              -99.831, 
+              34.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 55960583, 
+        "name": "Acme", 
+        "adjacent_woeid": [
+          2375217, 
+          2412068, 
+          2445594, 
+          2461050, 
+          2518876
+        ], 
+        "ne_latitude": 34.326, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -99.809, 
+        "longitude": -99.820, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:02Z", 
+        "parent_woeid": 12590105, 
+        "latitude": 34.317, 
+        "sw_longitude": -99.831, 
+        "fullname": "Acme, Texas, Hardeman, United States", 
+        "sw_latitude": 34.308
+      }, 
+      "id": 55960583
+    }
+  ]
+}

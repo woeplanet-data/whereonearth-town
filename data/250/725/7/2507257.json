@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.638, 
+              39.705
+            ], 
+            [
+              -89.638, 
+              39.723
+            ], 
+            [
+              -89.614, 
+              39.723
+            ], 
+            [
+              -89.614, 
+              39.705
+            ], 
+            [
+              -89.638, 
+              39.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2507257, 
+        "name": "Toronto", 
+        "adjacent_woeid": [
+          2360645, 
+          2432068, 
+          2458178, 
+          2497037
+        ], 
+        "ne_latitude": 39.723, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -89.614, 
+        "longitude": -89.626, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:32:36Z", 
+        "parent_woeid": 12588160, 
+        "latitude": 39.714, 
+        "sw_longitude": -89.638, 
+        "fullname": "Toronto, Illinois, Sangamon, United States", 
+        "sw_latitude": 39.705
+      }, 
+      "id": 2507257
+    }
+  ]
+}

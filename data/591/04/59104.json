@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.440, 
+              10.110
+            ], 
+            [
+              -85.440, 
+              10.123
+            ], 
+            [
+              -85.426, 
+              10.123
+            ], 
+            [
+              -85.426, 
+              10.110
+            ], 
+            [
+              -85.440, 
+              10.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.123, 
+        "name": "Potrero", 
+        "adjacent_woeid": [
+          58007, 
+          58193, 
+          58737, 
+          58760, 
+          58761, 
+          58997, 
+          59087, 
+          59962
+        ], 
+        "woeid": 59104, 
+        "alias_SPA_V": [
+          "El Potrero"
+        ], 
+        "ne_longitude": -85.426, 
+        "longitude": -85.433, 
+        "parent_woeid": 26809072, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.117, 
+        "sw_longitude": -85.440, 
+        "fullname": "Potrero, Guanacaste, Nicoya, Costa Rica", 
+        "sw_latitude": 10.110
+      }, 
+      "id": 59104
+    }
+  ]
+}

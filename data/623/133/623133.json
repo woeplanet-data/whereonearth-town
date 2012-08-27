@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.352, 
+              45.220
+            ], 
+            [
+              1.352, 
+              45.248
+            ], 
+            [
+              1.379, 
+              45.248
+            ], 
+            [
+              1.379, 
+              45.220
+            ], 
+            [
+              1.352, 
+              45.220
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623133, 
+        "name": "St.-Aulaire", 
+        "adjacent_woeid": [
+          616109, 
+          623634, 
+          633061, 
+          29332507, 
+          56097706
+        ], 
+        "ne_latitude": 45.248, 
+        "ne_longitude": 1.379, 
+        "longitude": 1.373, 
+        "parent_woeid": 12663440, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Aulaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.231, 
+        "sw_longitude": 1.352, 
+        "fullname": "St.-Aulaire, Limousin, Correze, France", 
+        "sw_latitude": 45.220
+      }, 
+      "id": 623133
+    }
+  ]
+}

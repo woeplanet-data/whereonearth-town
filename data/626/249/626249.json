@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.283, 
+              47.268
+            ], 
+            [
+              0.283, 
+              47.316
+            ], 
+            [
+              0.317, 
+              47.316
+            ], 
+            [
+              0.317, 
+              47.268
+            ], 
+            [
+              0.283, 
+              47.268
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626249, 
+        "name": "St.-Patrice", 
+        "adjacent_woeid": [
+          581715, 
+          595209, 
+          597565, 
+          619468, 
+          626019, 
+          20185997
+        ], 
+        "ne_latitude": 47.316, 
+        "ne_longitude": 0.317, 
+        "longitude": 0.302, 
+        "parent_woeid": 20074818, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Patrice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.285, 
+        "sw_longitude": 0.283, 
+        "fullname": "St.-Patrice, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.268
+      }, 
+      "id": 626249
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.997, 
+              9.892
+            ], 
+            [
+              -64.997, 
+              9.910
+            ], 
+            [
+              -64.978, 
+              9.910
+            ], 
+            [
+              -64.978, 
+              9.892
+            ], 
+            [
+              -64.997, 
+              9.892
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.910, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          392669, 
+          395458, 
+          395775, 
+          468208, 
+          468352, 
+          468578
+        ], 
+        "woeid": 395781, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -64.978, 
+        "longitude": -64.988, 
+        "parent_woeid": 26805738, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.901, 
+        "sw_longitude": -64.997, 
+        "fullname": "San Miguel, Anzoategui, Fernando de Pe\u00f1alver, Venezuela", 
+        "sw_latitude": 9.892
+      }, 
+      "id": 395781
+    }
+  ]
+}

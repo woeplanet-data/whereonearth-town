@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.011, 
+              48.078
+            ], 
+            [
+              0.011, 
+              48.122
+            ], 
+            [
+              0.054, 
+              48.122
+            ], 
+            [
+              0.054, 
+              48.078
+            ], 
+            [
+              0.011, 
+              48.078
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588905, 
+        "name": "Domfront-en-Champagne", 
+        "adjacent_woeid": [
+          588246, 
+          597535, 
+          599091, 
+          601826, 
+          611431, 
+          627727
+        ], 
+        "ne_latitude": 48.122, 
+        "ne_longitude": 0.054, 
+        "longitude": 0.026, 
+        "parent_woeid": 12660550, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Domfront-En"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.105, 
+        "sw_longitude": 0.011, 
+        "fullname": "Domfront-en-Champagne, Domfront, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.078
+      }, 
+      "id": 588905
+    }
+  ]
+}

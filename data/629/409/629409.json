@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.481, 
+              46.381
+            ], 
+            [
+              4.481, 
+              46.402
+            ], 
+            [
+              4.510, 
+              46.402
+            ], 
+            [
+              4.510, 
+              46.381
+            ], 
+            [
+              4.481, 
+              46.381
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 629409, 
+        "name": "Trivy", 
+        "adjacent_woeid": [
+          588268, 
+          588956, 
+          597456, 
+          611337, 
+          622242, 
+          630861
+        ], 
+        "ne_latitude": 46.402, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.510, 
+        "longitude": 4.492, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12653865, 
+        "latitude": 46.387, 
+        "sw_longitude": 4.481, 
+        "fullname": "Trivy, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.381
+      }, 
+      "id": 629409
+    }
+  ]
+}

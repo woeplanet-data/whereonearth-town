@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.177, 
+              42.655
+            ], 
+            [
+              -73.177, 
+              42.733
+            ], 
+            [
+              -73.059, 
+              42.733
+            ], 
+            [
+              -73.059, 
+              42.655
+            ], 
+            [
+              -73.177, 
+              42.655
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2460561, 
+        "name": "North Adams", 
+        "adjacent_woeid": [
+          2351905, 
+          2393827, 
+          2404564, 
+          2498842, 
+          2520919, 
+          23417594
+        ], 
+        "ne_latitude": 42.733, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "N Adams"
+        ], 
+        "ne_longitude": -73.059, 
+        "longitude": -73.115, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:58Z", 
+        "parent_woeid": 12588701, 
+        "latitude": 42.700, 
+        "sw_longitude": -73.177, 
+        "fullname": "North Adams, Massachusetts, Berkshire, United States", 
+        "sw_latitude": 42.655
+      }, 
+      "id": 2460561
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.609, 
+              24.165
+            ], 
+            [
+              -99.609, 
+              24.184
+            ], 
+            [
+              -99.589, 
+              24.184
+            ], 
+            [
+              -99.589, 
+              24.165
+            ], 
+            [
+              -99.609, 
+              24.165
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.184, 
+        "name": "Hacienda de la Mesa", 
+        "adjacent_woeid": [
+          113569, 
+          117243, 
+          119780, 
+          125405, 
+          131544, 
+          142918, 
+          148995, 
+          149435, 
+          151688
+        ], 
+        "woeid": 124663, 
+        "alias_SPA_V": [
+          "Mesa"
+        ], 
+        "ne_longitude": -99.589, 
+        "longitude": -99.599, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.175, 
+        "sw_longitude": -99.609, 
+        "fullname": "Hacienda de la Mesa, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.165
+      }, 
+      "id": 124663
+    }
+  ]
+}

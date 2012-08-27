@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.879, 
+              43.564
+            ], 
+            [
+              0.879, 
+              43.611
+            ], 
+            [
+              0.950, 
+              43.611
+            ], 
+            [
+              0.950, 
+              43.564
+            ], 
+            [
+              0.879, 
+              43.564
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610596, 
+        "name": "Maurens", 
+        "adjacent_woeid": [
+          591961, 
+          592941, 
+          600888, 
+          612818
+        ], 
+        "ne_latitude": 43.611, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.950, 
+        "longitude": 0.917, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12666439, 
+        "latitude": 43.595, 
+        "sw_longitude": 0.879, 
+        "fullname": "Maurens, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.564
+      }, 
+      "id": 610596
+    }
+  ]
+}

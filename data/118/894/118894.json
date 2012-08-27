@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.760, 
+              23.324
+            ], 
+            [
+              -99.760, 
+              23.342
+            ], 
+            [
+              -99.740, 
+              23.342
+            ], 
+            [
+              -99.740, 
+              23.324
+            ], 
+            [
+              -99.760, 
+              23.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.342, 
+        "name": "El Aguacate", 
+        "adjacent_woeid": [
+          114118, 
+          123613, 
+          129579, 
+          135663, 
+          137017, 
+          140653, 
+          145226
+        ], 
+        "woeid": 118894, 
+        "alias_SPA_V": [
+          "Aguacate"
+        ], 
+        "ne_longitude": -99.740, 
+        "longitude": -99.750, 
+        "parent_woeid": 12601637, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.333, 
+        "sw_longitude": -99.760, 
+        "fullname": "El Aguacate, Tamaulipas, Bustamante, Mexico", 
+        "sw_latitude": 23.324
+      }, 
+      "id": 118894
+    }
+  ]
+}

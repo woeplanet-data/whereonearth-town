@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.585, 
+              47.010
+            ], 
+            [
+              0.585, 
+              47.045
+            ], 
+            [
+              0.622, 
+              47.045
+            ], 
+            [
+              0.622, 
+              47.010
+            ], 
+            [
+              0.585, 
+              47.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597304, 
+        "name": "La Celle-St.-Avant", 
+        "adjacent_woeid": [
+          589157, 
+          609293, 
+          609786, 
+          614699, 
+          20186110
+        ], 
+        "ne_latitude": 47.045, 
+        "ne_longitude": 0.622, 
+        "longitude": 0.605, 
+        "parent_woeid": 12645976, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Celle-St-Avant"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.023, 
+        "sw_longitude": 0.585, 
+        "fullname": "La Celle-St.-Avant, La Celle, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.010
+      }, 
+      "id": 597304
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.554, 
+              24.421
+            ], 
+            [
+              -111.554, 
+              24.439
+            ], 
+            [
+              -111.534, 
+              24.439
+            ], 
+            [
+              -111.534, 
+              24.421
+            ], 
+            [
+              -111.554, 
+              24.421
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.439, 
+        "name": "Puerto Charley", 
+        "adjacent_woeid": [
+          130845, 
+          130908, 
+          137809, 
+          142758, 
+          146727
+        ], 
+        "woeid": 137812, 
+        "alias_SPA_V": [
+          "Pto Charley"
+        ], 
+        "ne_longitude": -111.534, 
+        "longitude": -111.544, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.430, 
+        "sw_longitude": -111.554, 
+        "fullname": "Puerto Charley, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 24.421
+      }, 
+      "id": 137812
+    }
+  ]
+}

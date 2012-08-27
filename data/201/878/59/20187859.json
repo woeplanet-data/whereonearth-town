@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.093, 
+              49.203
+            ], 
+            [
+              1.093, 
+              49.224
+            ], 
+            [
+              1.124, 
+              49.224
+            ], 
+            [
+              1.124, 
+              49.203
+            ], 
+            [
+              1.093, 
+              49.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20187859, 
+        "name": "La Vacherie", 
+        "adjacent_woeid": [
+          587765, 
+          612319, 
+          627881
+        ], 
+        "ne_latitude": 49.224, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.124, 
+        "longitude": 1.109, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12653481, 
+        "latitude": 49.209, 
+        "sw_longitude": 1.093, 
+        "fullname": "La Vacherie, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.203
+      }, 
+      "id": 20187859
+    }
+  ]
+}

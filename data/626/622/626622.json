@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.770, 
+              44.294
+            ], 
+            [
+              1.770, 
+              44.322
+            ], 
+            [
+              1.814, 
+              44.322
+            ], 
+            [
+              1.814, 
+              44.294
+            ], 
+            [
+              1.770, 
+              44.294
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626622, 
+        "name": "St.-Projet", 
+        "adjacent_woeid": [
+          578819, 
+          608856, 
+          618436, 
+          620617, 
+          631141, 
+          20194950
+        ], 
+        "ne_latitude": 44.322, 
+        "ne_longitude": 1.814, 
+        "longitude": 1.791, 
+        "parent_woeid": 12671136, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Projet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.304, 
+        "sw_longitude": 1.770, 
+        "fullname": "St.-Projet, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 44.294
+      }, 
+      "id": 626622
+    }
+  ]
+}

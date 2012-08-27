@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.971, 
+              49.146
+            ], 
+            [
+              12.971, 
+              49.176
+            ], 
+            [
+              13.012, 
+              49.176
+            ], 
+            [
+              13.012, 
+              49.146
+            ], 
+            [
+              12.971, 
+              49.146
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20155483, 
+        "name": "Eck", 
+        "adjacent_woeid": [
+          683975, 
+          688580, 
+          699754, 
+          20172190
+        ], 
+        "ne_latitude": 49.176, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.012, 
+        "longitude": 12.990, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:04Z", 
+        "parent_woeid": 12623065, 
+        "latitude": 49.163, 
+        "sw_longitude": 12.971, 
+        "fullname": "Eck, Bavaria, Landkreis Cham, Germany", 
+        "sw_latitude": 49.146
+      }, 
+      "id": 20155483
+    }
+  ]
+}

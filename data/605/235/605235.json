@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.095, 
+              43.561
+            ], 
+            [
+              3.095, 
+              43.598
+            ], 
+            [
+              3.123, 
+              43.598
+            ], 
+            [
+              3.123, 
+              43.561
+            ], 
+            [
+              3.095, 
+              43.561
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605235, 
+        "name": "Les Aires", 
+        "adjacent_woeid": [
+          582580, 
+          594689, 
+          20203890, 
+          29331728
+        ], 
+        "ne_latitude": 43.598, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.123, 
+        "longitude": 3.106, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12665275, 
+        "latitude": 43.583, 
+        "sw_longitude": 3.095, 
+        "fullname": "Les Aires, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.561
+      }, 
+      "id": 605235
+    }
+  ]
+}

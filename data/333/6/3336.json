@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.381, 
+              46.632
+            ], 
+            [
+              -75.381, 
+              46.861
+            ], 
+            [
+              -75.106, 
+              46.861
+            ], 
+            [
+              -75.106, 
+              46.632
+            ], 
+            [
+              -75.381, 
+              46.632
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3336, 
+        "name": "Lac-St.-Paul", 
+        "adjacent_woeid": [
+          23394435, 
+          23394686, 
+          29374512
+        ], 
+        "ne_latitude": 46.861, 
+        "ne_longitude": -75.106, 
+        "longitude": -75.318, 
+        "parent_woeid": 29375197, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lac-St-Paul"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.712, 
+        "sw_longitude": -75.381, 
+        "fullname": "Lac-St.-Paul, Quebec, Antoine-Labelle, Canada", 
+        "sw_latitude": 46.632
+      }, 
+      "id": 3336
+    }
+  ]
+}

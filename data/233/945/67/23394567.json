@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.882, 
+              47.963
+            ], 
+            [
+              -68.882, 
+              48.142
+            ], 
+            [
+              -68.681, 
+              48.142
+            ], 
+            [
+              -68.681, 
+              47.963
+            ], 
+            [
+              -68.882, 
+              47.963
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394567, 
+        "name": "St.-Guy", 
+        "adjacent_woeid": [
+          23394366, 
+          23394395, 
+          23394546, 
+          23394596, 
+          23396543, 
+          23396581
+        ], 
+        "ne_latitude": 48.142, 
+        "ne_longitude": -68.681, 
+        "longitude": -68.804, 
+        "parent_woeid": 29375035, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Guy"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.046, 
+        "sw_longitude": -68.882, 
+        "fullname": "St.-Guy, Quebec, Les Basques, Canada", 
+        "sw_latitude": 47.963
+      }, 
+      "id": 23394567
+    }
+  ]
+}

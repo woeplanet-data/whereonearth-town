@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.429, 
+              47.387
+            ], 
+            [
+              -0.429, 
+              47.414
+            ], 
+            [
+              -0.402, 
+              47.414
+            ], 
+            [
+              -0.402, 
+              47.387
+            ], 
+            [
+              -0.429, 
+              47.387
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627024, 
+        "name": "St.-Sulpice", 
+        "adjacent_woeid": [
+          580106, 
+          598022, 
+          626852
+        ], 
+        "ne_latitude": 47.414, 
+        "ne_longitude": -0.402, 
+        "longitude": -0.419, 
+        "parent_woeid": 12671270, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sulpice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.400, 
+        "sw_longitude": -0.429, 
+        "fullname": "St.-Sulpice, Pays de la Loire, Maine-et-Loire, France", 
+        "sw_latitude": 47.387
+      }, 
+      "id": 627024
+    }
+  ]
+}

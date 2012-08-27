@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.011, 
+              42.990
+            ], 
+            [
+              3.011, 
+              43.056
+            ], 
+            [
+              3.073, 
+              43.056
+            ], 
+            [
+              3.073, 
+              42.990
+            ], 
+            [
+              3.011, 
+              42.990
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617550, 
+        "name": "Port-la-Nouvelle", 
+        "adjacent_woeid": [
+          593895, 
+          598324, 
+          601413, 
+          607815, 
+          613894, 
+          616393, 
+          622126, 
+          20203331
+        ], 
+        "ne_latitude": 43.056, 
+        "ne_longitude": 3.073, 
+        "longitude": 3.040, 
+        "parent_woeid": 12663858, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt-la-Nouvelle"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.023, 
+        "sw_longitude": 3.011, 
+        "fullname": "Port-la-Nouvelle, Languedoc-Roussillon, Aude, France", 
+        "sw_latitude": 42.990
+      }, 
+      "id": 617550
+    }
+  ]
+}

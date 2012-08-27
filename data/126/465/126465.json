@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.111, 
+              31.241
+            ], 
+            [
+              -111.111, 
+              31.259
+            ], 
+            [
+              -111.089, 
+              31.259
+            ], 
+            [
+              -111.089, 
+              31.241
+            ], 
+            [
+              -111.111, 
+              31.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 126465, 
+        "name": "La Bellota", 
+        "adjacent_woeid": [
+          112385, 
+          126372, 
+          138255
+        ], 
+        "ne_latitude": 31.259, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -111.089, 
+        "longitude": -111.100, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "parent_woeid": 12601588, 
+        "latitude": 31.250, 
+        "sw_longitude": -111.111, 
+        "fullname": "La Bellota, Sonora, Nogales, Mexico", 
+        "sw_latitude": 31.241
+      }, 
+      "id": 126465
+    }
+  ]
+}

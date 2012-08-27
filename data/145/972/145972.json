@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.976, 
+              20.074
+            ], 
+            [
+              -96.976, 
+              20.092
+            ], 
+            [
+              -96.957, 
+              20.092
+            ], 
+            [
+              -96.957, 
+              20.074
+            ], 
+            [
+              -96.976, 
+              20.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.092, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          121163, 
+          121276, 
+          135884, 
+          136172, 
+          150596, 
+          55892685
+        ], 
+        "woeid": 145972, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -96.957, 
+        "longitude": -96.967, 
+        "parent_woeid": 12601831, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.083, 
+        "sw_longitude": -96.976, 
+        "fullname": "Santa Cruz, Veracruz-Llave, Misantla, Mexico", 
+        "sw_latitude": 20.074
+      }, 
+      "id": 145972
+    }
+  ]
+}

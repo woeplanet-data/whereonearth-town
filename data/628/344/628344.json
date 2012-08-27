@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.021, 
+              46.044
+            ], 
+            [
+              0.021, 
+              46.062
+            ], 
+            [
+              0.055, 
+              46.062
+            ], 
+            [
+              0.055, 
+              46.044
+            ], 
+            [
+              0.021, 
+              46.044
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628344, 
+        "name": "Theil-Rabier", 
+        "adjacent_woeid": [
+          589610, 
+          598950, 
+          616693, 
+          20198318, 
+          29331307
+        ], 
+        "ne_latitude": 46.062, 
+        "ne_longitude": 0.055, 
+        "longitude": 0.037, 
+        "parent_woeid": 12671605, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Theil"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.051, 
+        "sw_longitude": 0.021, 
+        "fullname": "Theil-Rabier, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 46.044
+      }, 
+      "id": 628344
+    }
+  ]
+}

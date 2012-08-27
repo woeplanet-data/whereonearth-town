@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.732, 
+              49.568
+            ], 
+            [
+              10.732, 
+              49.585
+            ], 
+            [
+              10.760, 
+              49.585
+            ], 
+            [
+              10.760, 
+              49.568
+            ], 
+            [
+              10.732, 
+              49.568
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646225, 
+        "name": "Ebersbach", 
+        "adjacent_woeid": [
+          646403, 
+          680769, 
+          698621
+        ], 
+        "ne_latitude": 49.585, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.760, 
+        "longitude": 10.746, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12634534, 
+        "latitude": 49.577, 
+        "sw_longitude": 10.732, 
+        "fullname": "Ebersbach, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.568
+      }, 
+      "id": 646225
+    }
+  ]
+}

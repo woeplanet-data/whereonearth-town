@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.891, 
+              43.581
+            ], 
+            [
+              -80.891, 
+              43.599
+            ], 
+            [
+              -80.866, 
+              43.599
+            ], 
+            [
+              -80.866, 
+              43.581
+            ], 
+            [
+              -80.891, 
+              43.581
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23401036, 
+        "name": "Newton", 
+        "adjacent_woeid": [
+          998, 
+          23397237, 
+          23401543, 
+          23401654, 
+          29374610
+        ], 
+        "ne_latitude": 43.599, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -80.866, 
+        "longitude": -80.879, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375152, 
+        "latitude": 43.590, 
+        "sw_longitude": -80.891, 
+        "fullname": "Newton, Ontario, Perth, Canada", 
+        "sw_latitude": 43.581
+      }, 
+      "id": 23401036
+    }
+  ]
+}

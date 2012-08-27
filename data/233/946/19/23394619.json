@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.795, 
+              45.168
+            ], 
+            [
+              -73.795, 
+              45.259
+            ], 
+            [
+              -73.670, 
+              45.259
+            ], 
+            [
+              -73.670, 
+              45.168
+            ], 
+            [
+              -73.795, 
+              45.168
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394619, 
+        "name": "St.-Urbain-Premier", 
+        "adjacent_woeid": [
+          1470, 
+          3561, 
+          3568, 
+          23395693, 
+          23396516, 
+          29374868
+        ], 
+        "ne_latitude": 45.259, 
+        "ne_longitude": -73.670, 
+        "longitude": -73.741, 
+        "parent_woeid": 29375171, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Urbain-Premier"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.222, 
+        "sw_longitude": -73.795, 
+        "fullname": "St.-Urbain-Premier, Quebec, Beauharnois-Salaberry, Canada", 
+        "sw_latitude": 45.168
+      }, 
+      "id": 23394619
+    }
+  ]
+}

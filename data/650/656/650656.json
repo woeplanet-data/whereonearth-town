@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.432, 
+              50.705
+            ], 
+            [
+              13.432, 
+              50.751
+            ], 
+            [
+              13.481, 
+              50.751
+            ], 
+            [
+              13.481, 
+              50.705
+            ], 
+            [
+              13.432, 
+              50.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650656, 
+        "name": "Friedebach", 
+        "adjacent_woeid": [
+          643003, 
+          643195, 
+          645213, 
+          685100, 
+          702583
+        ], 
+        "ne_latitude": 50.751, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.481, 
+        "longitude": 13.455, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12625599, 
+        "latitude": 50.730, 
+        "sw_longitude": 13.432, 
+        "fullname": "Friedebach, Saxony, Landkreis Freiberg, Germany", 
+        "sw_latitude": 50.705
+      }, 
+      "id": 650656
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.125, 
+              43.143
+            ], 
+            [
+              1.125, 
+              43.163
+            ], 
+            [
+              1.161, 
+              43.163
+            ], 
+            [
+              1.161, 
+              43.143
+            ], 
+            [
+              1.125, 
+              43.143
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612359, 
+        "name": "Montberaud", 
+        "adjacent_woeid": [
+          593336, 
+          600893, 
+          604084, 
+          623446
+        ], 
+        "ne_latitude": 43.163, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.161, 
+        "longitude": 1.143, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12666978, 
+        "latitude": 43.155, 
+        "sw_longitude": 1.125, 
+        "fullname": "Montberaud, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.143
+      }, 
+      "id": 612359
+    }
+  ]
+}

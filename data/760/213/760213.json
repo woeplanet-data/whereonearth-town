@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.995, 
+              41.487
+            ], 
+            [
+              0.995, 
+              41.505
+            ], 
+            [
+              1.014, 
+              41.505
+            ], 
+            [
+              1.014, 
+              41.487
+            ], 
+            [
+              0.995, 
+              41.487
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.505, 
+        "name": "Espluga Calva", 
+        "adjacent_woeid": [
+          761215, 
+          766366, 
+          768786, 
+          768787, 
+          774355, 
+          778812
+        ], 
+        "woeid": 760213, 
+        "alias_SPA_V": [
+          "L'espluga Calba"
+        ], 
+        "ne_longitude": 1.014, 
+        "longitude": 1.004, 
+        "parent_woeid": 12693980, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.496, 
+        "sw_longitude": 0.995, 
+        "fullname": "Espluga Calva, Catalonia, Lleida, Spain", 
+        "sw_latitude": 41.487
+      }, 
+      "id": 760213
+    }
+  ]
+}

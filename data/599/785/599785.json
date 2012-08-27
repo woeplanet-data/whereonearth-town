@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.190, 
+              44.907
+            ], 
+            [
+              4.190, 
+              44.946
+            ], 
+            [
+              4.269, 
+              44.946
+            ], 
+            [
+              4.269, 
+              44.907
+            ], 
+            [
+              4.190, 
+              44.907
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599785, 
+        "name": "La Rochette", 
+        "adjacent_woeid": [
+          580375, 
+          580801, 
+          585171, 
+          606139, 
+          623557
+        ], 
+        "ne_latitude": 44.946, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.269, 
+        "longitude": 4.241, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "parent_woeid": 22756749, 
+        "latitude": 44.916, 
+        "sw_longitude": 4.190, 
+        "fullname": "La Rochette, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 44.907
+      }, 
+      "id": 599785
+    }
+  ]
+}

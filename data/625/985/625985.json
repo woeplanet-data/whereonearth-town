@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.405, 
+              49.110
+            ], 
+            [
+              -1.405, 
+              49.164
+            ], 
+            [
+              -1.358, 
+              49.164
+            ], 
+            [
+              -1.358, 
+              49.110
+            ], 
+            [
+              -1.405, 
+              49.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625985, 
+        "name": "St.-Michel-de-la-Pierre", 
+        "adjacent_woeid": [
+          603643, 
+          612472, 
+          623098
+        ], 
+        "ne_latitude": 49.164, 
+        "alias_ENG_V": [
+          "Saint-Michel"
+        ], 
+        "ne_longitude": -1.358, 
+        "longitude": -1.385, 
+        "parent_woeid": 12652983, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Michel-de-la-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.139, 
+        "sw_longitude": -1.405, 
+        "fullname": "St.-Michel-de-la-Pierre, St-Michel, Basse-Normandie, Manche, France", 
+        "sw_latitude": 49.110
+      }, 
+      "id": 625985
+    }
+  ]
+}

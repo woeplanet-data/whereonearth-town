@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.378, 
+              49.439
+            ], 
+            [
+              11.378, 
+              49.459
+            ], 
+            [
+              11.401, 
+              49.459
+            ], 
+            [
+              11.401, 
+              49.439
+            ], 
+            [
+              11.378, 
+              49.439
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646613, 
+        "name": "Egensbach", 
+        "adjacent_woeid": [
+          648164, 
+          663790, 
+          667381, 
+          686261, 
+          693309
+        ], 
+        "ne_latitude": 49.459, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.401, 
+        "longitude": 11.392, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12634486, 
+        "latitude": 49.445, 
+        "sw_longitude": 11.378, 
+        "fullname": "Egensbach, Bavaria, Nurnberger Land, Germany", 
+        "sw_latitude": 49.439
+      }, 
+      "id": 646613
+    }
+  ]
+}

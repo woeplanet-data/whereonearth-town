@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.469, 
+              42.683
+            ], 
+            [
+              -2.469, 
+              42.716
+            ], 
+            [
+              -2.412, 
+              42.716
+            ], 
+            [
+              -2.412, 
+              42.683
+            ], 
+            [
+              -2.469, 
+              42.683
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.716, 
+        "name": "Corres", 
+        "adjacent_woeid": [
+          752561, 
+          752582, 
+          755034, 
+          766296, 
+          769018, 
+          772346
+        ], 
+        "woeid": 758103, 
+        "alias_SPA_V": [
+          "Korres"
+        ], 
+        "ne_longitude": -2.412, 
+        "longitude": -2.434, 
+        "parent_woeid": 12695020, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.699, 
+        "sw_longitude": -2.469, 
+        "fullname": "Corres, Basque Country, Alava, Spain", 
+        "sw_latitude": 42.683
+      }, 
+      "id": 758103
+    }
+  ]
+}

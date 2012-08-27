@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.433, 
+              23.237
+            ], 
+            [
+              -106.433, 
+              23.255
+            ], 
+            [
+              -106.414, 
+              23.255
+            ], 
+            [
+              -106.414, 
+              23.237
+            ], 
+            [
+              -106.433, 
+              23.237
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.255, 
+        "name": "El Pueblo Nuevo", 
+        "adjacent_woeid": [
+          119145, 
+          119607, 
+          120446, 
+          121892, 
+          122936, 
+          128457, 
+          137403, 
+          147622
+        ], 
+        "woeid": 121743, 
+        "alias_SPA_V": [
+          "Pueblo Nuevo"
+        ], 
+        "ne_longitude": -106.414, 
+        "longitude": -106.424, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.246, 
+        "sw_longitude": -106.433, 
+        "fullname": "El Pueblo Nuevo, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.237
+      }, 
+      "id": 121743
+    }
+  ]
+}

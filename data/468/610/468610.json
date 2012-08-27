@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.466, 
+              11.407
+            ], 
+            [
+              -69.466, 
+              11.425
+            ], 
+            [
+              -69.447, 
+              11.425
+            ], 
+            [
+              -69.447, 
+              11.407
+            ], 
+            [
+              -69.466, 
+              11.407
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 11.425, 
+        "name": "Guaibacoa", 
+        "adjacent_woeid": [
+          381510, 
+          388811, 
+          395779, 
+          468124, 
+          468283
+        ], 
+        "woeid": 468610, 
+        "alias_SPA_V": [
+          "Guayabacoa"
+        ], 
+        "ne_longitude": -69.447, 
+        "longitude": -69.456, 
+        "parent_woeid": 26805480, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.416, 
+        "sw_longitude": -69.466, 
+        "fullname": "Guaibacoa, Falcon, Colina, Venezuela", 
+        "sw_latitude": 11.407
+      }, 
+      "id": 468610
+    }
+  ]
+}

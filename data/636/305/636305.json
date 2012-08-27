@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.100, 
+              49.801
+            ], 
+            [
+              12.100, 
+              49.810
+            ], 
+            [
+              12.114, 
+              49.810
+            ], 
+            [
+              12.114, 
+              49.801
+            ], 
+            [
+              12.100, 
+              49.801
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 636305, 
+        "name": "Bach", 
+        "adjacent_woeid": [
+          652186, 
+          652809, 
+          680514, 
+          686204, 
+          697014, 
+          706524
+        ], 
+        "ne_latitude": 49.810, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.114, 
+        "longitude": 12.107, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12634297, 
+        "latitude": 49.806, 
+        "sw_longitude": 12.100, 
+        "fullname": "Bach, Bavaria, Landkreis Neustadt an der Waldnaab, Germany", 
+        "sw_latitude": 49.801
+      }, 
+      "id": 636305
+    }
+  ]
+}

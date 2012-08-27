@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.813, 
+              45.594
+            ], 
+            [
+              0.813, 
+              45.625
+            ], 
+            [
+              0.845, 
+              45.625
+            ], 
+            [
+              0.845, 
+              45.594
+            ], 
+            [
+              0.813, 
+              45.594
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 616011, 
+        "name": "Pensol", 
+        "adjacent_woeid": [
+          575336, 
+          610360, 
+          611452, 
+          29332848
+        ], 
+        "ne_latitude": 45.625, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.845, 
+        "longitude": 0.826, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "parent_woeid": 12668097, 
+        "latitude": 45.610, 
+        "sw_longitude": 0.813, 
+        "fullname": "Pensol, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.594
+      }, 
+      "id": 616011
+    }
+  ]
+}

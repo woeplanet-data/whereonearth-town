@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.286, 
+              49.155
+            ], 
+            [
+              10.286, 
+              49.170
+            ], 
+            [
+              10.311, 
+              49.170
+            ], 
+            [
+              10.311, 
+              49.155
+            ], 
+            [
+              10.286, 
+              49.155
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648614, 
+        "name": "Esbach", 
+        "adjacent_woeid": [
+          660957, 
+          664623, 
+          676286, 
+          695408, 
+          700002
+        ], 
+        "ne_latitude": 49.170, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.311, 
+        "longitude": 10.302, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12634400, 
+        "latitude": 49.165, 
+        "sw_longitude": 10.286, 
+        "fullname": "Esbach, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.155
+      }, 
+      "id": 648614
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.641, 
+              8.504
+            ], 
+            [
+              -61.641, 
+              8.522
+            ], 
+            [
+              -61.623, 
+              8.522
+            ], 
+            [
+              -61.623, 
+              8.504
+            ], 
+            [
+              -61.641, 
+              8.504
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.522, 
+        "name": "Manoa", 
+        "adjacent_woeid": [
+          395399, 
+          395432, 
+          395534, 
+          395880, 
+          468327
+        ], 
+        "woeid": 395652, 
+        "alias_SPA_V": [
+          "Imataca"
+        ], 
+        "ne_longitude": -61.623, 
+        "longitude": -61.632, 
+        "parent_woeid": 26804781, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 8.513, 
+        "sw_longitude": -61.641, 
+        "fullname": "Manoa, Delta Amacuro, Casacoima, Venezuela", 
+        "sw_latitude": 8.504
+      }, 
+      "id": 395652
+    }
+  ]
+}

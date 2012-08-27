@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.045, 
+              49.342
+            ], 
+            [
+              0.045, 
+              49.370
+            ], 
+            [
+              0.093, 
+              49.370
+            ], 
+            [
+              0.093, 
+              49.342
+            ], 
+            [
+              0.045, 
+              49.342
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588564, 
+        "name": "Deauville", 
+        "adjacent_woeid": [
+          578743, 
+          579264, 
+          580271, 
+          617375, 
+          623032, 
+          628893, 
+          628913, 
+          629480
+        ], 
+        "ne_latitude": 49.370, 
+        "ne_longitude": 0.093, 
+        "longitude": 0.079, 
+        "parent_woeid": 12642855, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Deauville-les-Bains"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.359, 
+        "sw_longitude": 0.045, 
+        "fullname": "Deauville, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.342
+      }, 
+      "id": 588564
+    }
+  ]
+}

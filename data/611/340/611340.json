@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.675, 
+              47.671
+            ], 
+            [
+              4.675, 
+              47.698
+            ], 
+            [
+              4.718, 
+              47.698
+            ], 
+            [
+              4.718, 
+              47.671
+            ], 
+            [
+              4.675, 
+              47.671
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 611340, 
+        "name": "Meulson", 
+        "adjacent_woeid": [
+          578787, 
+          579126, 
+          587125, 
+          610659
+        ], 
+        "ne_latitude": 47.698, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.718, 
+        "longitude": 4.697, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "parent_woeid": 12649150, 
+        "latitude": 47.688, 
+        "sw_longitude": 4.675, 
+        "fullname": "Meulson, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.671
+      }, 
+      "id": 611340
+    }
+  ]
+}

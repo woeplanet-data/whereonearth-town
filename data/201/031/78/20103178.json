@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.304, 
+              47.544
+            ], 
+            [
+              9.304, 
+              47.562
+            ], 
+            [
+              9.331, 
+              47.562
+            ], 
+            [
+              9.331, 
+              47.544
+            ], 
+            [
+              9.304, 
+              47.544
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20103178, 
+        "name": "Moos", 
+        "adjacent_woeid": [
+          781617, 
+          20100770, 
+          20101325, 
+          20102088, 
+          20104431
+        ], 
+        "ne_latitude": 47.562, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.331, 
+        "longitude": 9.317, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 20075553, 
+        "latitude": 47.553, 
+        "sw_longitude": 9.304, 
+        "fullname": "Moos, Canton of Thurgau, Arbon, Switzerland", 
+        "sw_latitude": 47.544
+      }, 
+      "id": 20103178
+    }
+  ]
+}

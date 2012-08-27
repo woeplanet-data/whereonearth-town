@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.560, 
+              28.841
+            ], 
+            [
+              -111.560, 
+              28.859
+            ], 
+            [
+              -111.540, 
+              28.859
+            ], 
+            [
+              -111.540, 
+              28.841
+            ], 
+            [
+              -111.560, 
+              28.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.859, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          113870, 
+          133595, 
+          142848, 
+          144468, 
+          146125
+        ], 
+        "woeid": 146078, 
+        "alias_SPA_V": [
+          "Sta. Elena"
+        ], 
+        "ne_longitude": -111.540, 
+        "longitude": -111.550, 
+        "parent_woeid": 12601574, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.850, 
+        "sw_longitude": -111.560, 
+        "fullname": "Santa Elena, Sonora, Hermosillo, Mexico", 
+        "sw_latitude": 28.841
+      }, 
+      "id": 146078
+    }
+  ]
+}

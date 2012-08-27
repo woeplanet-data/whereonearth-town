@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.452, 
+              50.233
+            ], 
+            [
+              11.452, 
+              50.257
+            ], 
+            [
+              11.483, 
+              50.257
+            ], 
+            [
+              11.483, 
+              50.233
+            ], 
+            [
+              11.452, 
+              50.233
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652433, 
+        "name": "Geuser", 
+        "adjacent_woeid": [
+          634555, 
+          645309, 
+          675434, 
+          681071, 
+          687474
+        ], 
+        "ne_latitude": 50.257, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.483, 
+        "longitude": 11.469, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:51Z", 
+        "parent_woeid": 12635341, 
+        "latitude": 50.244, 
+        "sw_longitude": 11.452, 
+        "fullname": "Geuser, Bavaria, Landkreis Kronach, Germany", 
+        "sw_latitude": 50.233
+      }, 
+      "id": 652433
+    }
+  ]
+}

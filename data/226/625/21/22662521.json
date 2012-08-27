@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.958, 
+              50.265
+            ], 
+            [
+              8.958, 
+              50.277
+            ], 
+            [
+              8.978, 
+              50.277
+            ], 
+            [
+              8.978, 
+              50.265
+            ], 
+            [
+              8.958, 
+              50.265
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 22662521, 
+        "name": "Waldsiedlung", 
+        "adjacent_woeid": [
+          656693, 
+          672024, 
+          680816, 
+          689475
+        ], 
+        "ne_latitude": 50.277, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.978, 
+        "longitude": 8.966, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:19Z", 
+        "parent_woeid": 12632573, 
+        "latitude": 50.269, 
+        "sw_longitude": 8.958, 
+        "fullname": "Waldsiedlung, Hesse, Wetteraukreis, Germany", 
+        "sw_latitude": 50.265
+      }, 
+      "id": 22662521
+    }
+  ]
+}

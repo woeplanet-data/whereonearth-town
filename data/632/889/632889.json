@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.490, 
+              50.906
+            ], 
+            [
+              2.490, 
+              50.950
+            ], 
+            [
+              2.531, 
+              50.950
+            ], 
+            [
+              2.531, 
+              50.906
+            ], 
+            [
+              2.490, 
+              50.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 632889, 
+        "name": "West-Cappel", 
+        "adjacent_woeid": [
+          577993, 
+          594183, 
+          618482, 
+          619289, 
+          632999
+        ], 
+        "ne_latitude": 50.950, 
+        "ne_longitude": 2.531, 
+        "longitude": 2.508, 
+        "parent_woeid": 12672832, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "W-Cappel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.929, 
+        "sw_longitude": 2.490, 
+        "fullname": "West-Cappel, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.906
+      }, 
+      "id": 632889
+    }
+  ]
+}

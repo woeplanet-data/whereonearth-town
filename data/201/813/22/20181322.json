@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.365, 
+              48.336
+            ], 
+            [
+              0.365, 
+              48.345
+            ], 
+            [
+              0.379, 
+              48.345
+            ], 
+            [
+              0.379, 
+              48.336
+            ], 
+            [
+              0.365, 
+              48.336
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20181322, 
+        "name": "Le Magasin", 
+        "adjacent_woeid": [
+          586661, 
+          615116, 
+          616740, 
+          625293, 
+          626714
+        ], 
+        "ne_latitude": 48.345, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.379, 
+        "longitude": 0.372, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12671161, 
+        "latitude": 48.341, 
+        "sw_longitude": 0.365, 
+        "fullname": "Le Magasin, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.336
+      }, 
+      "id": 20181322
+    }
+  ]
+}

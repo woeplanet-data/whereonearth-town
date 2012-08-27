@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.203, 
+              38.727
+            ], 
+            [
+              0.203, 
+              38.746
+            ], 
+            [
+              0.227, 
+              38.746
+            ], 
+            [
+              0.227, 
+              38.727
+            ], 
+            [
+              0.203, 
+              38.727
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 29370100, 
+        "name": "La Guardia Park", 
+        "adjacent_woeid": [
+          23413811, 
+          29370089, 
+          29370098, 
+          29370099, 
+          29370102, 
+          29370108
+        ], 
+        "ne_latitude": 38.746, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.227, 
+        "longitude": 0.215, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:39Z", 
+        "parent_woeid": 23388442, 
+        "latitude": 38.737, 
+        "sw_longitude": 0.203, 
+        "fullname": "La Guardia Park, Valencia, Alicante, Spain", 
+        "sw_latitude": 38.727
+      }, 
+      "id": 29370100
+    }
+  ]
+}

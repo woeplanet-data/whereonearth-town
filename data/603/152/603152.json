@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.011, 
+              49.371
+            ], 
+            [
+              1.011, 
+              49.435
+            ], 
+            [
+              1.078, 
+              49.435
+            ], 
+            [
+              1.078, 
+              49.371
+            ], 
+            [
+              1.011, 
+              49.371
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603152, 
+        "name": "Le Grand-Quevilly", 
+        "adjacent_woeid": [
+          582955, 
+          603982, 
+          620108, 
+          623921, 
+          55863557, 
+          55863576
+        ], 
+        "ne_latitude": 49.435, 
+        "ne_longitude": 1.078, 
+        "longitude": 1.051, 
+        "parent_woeid": 12642929, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Quevilly le Grand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.408, 
+        "sw_longitude": 1.011, 
+        "fullname": "Le Grand-Quevilly, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.371
+      }, 
+      "id": 603152
+    }
+  ]
+}

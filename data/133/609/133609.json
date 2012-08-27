@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.660, 
+              21.458
+            ], 
+            [
+              -104.660, 
+              21.476
+            ], 
+            [
+              -104.640, 
+              21.476
+            ], 
+            [
+              -104.640, 
+              21.458
+            ], 
+            [
+              -104.660, 
+              21.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.476, 
+        "name": "Miguel Hidalgo", 
+        "adjacent_woeid": [
+          113670, 
+          133855, 
+          133872, 
+          144256
+        ], 
+        "woeid": 133609, 
+        "alias_SPA_V": [
+          "El Salado"
+        ], 
+        "ne_longitude": -104.640, 
+        "longitude": -104.650, 
+        "parent_woeid": 12600600, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.467, 
+        "sw_longitude": -104.660, 
+        "fullname": "Miguel Hidalgo, Nayarit, Santa Maria del Oro, Mexico", 
+        "sw_latitude": 21.458
+      }, 
+      "id": 133609
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.583, 
+              49.250
+            ], 
+            [
+              0.583, 
+              49.285
+            ], 
+            [
+              0.638, 
+              49.285
+            ], 
+            [
+              0.638, 
+              49.250
+            ], 
+            [
+              0.583, 
+              49.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626464, 
+        "name": "St.-Pierre-des-Ifs", 
+        "adjacent_woeid": [
+          623493, 
+          623929, 
+          624486, 
+          626353
+        ], 
+        "ne_latitude": 49.285, 
+        "alias_ENG_V": [
+          "Saint-Pierre"
+        ], 
+        "ne_longitude": 0.638, 
+        "longitude": 0.621, 
+        "parent_woeid": 12653097, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pierre-des-Ifs"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.270, 
+        "sw_longitude": 0.583, 
+        "fullname": "St.-Pierre-des-Ifs, St-Pierre, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.250
+      }, 
+      "id": 626464
+    }
+  ]
+}

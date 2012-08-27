@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.637, 
+              45.989
+            ], 
+            [
+              -0.637, 
+              46.006
+            ], 
+            [
+              -0.620, 
+              46.006
+            ], 
+            [
+              -0.620, 
+              45.989
+            ], 
+            [
+              -0.637, 
+              45.989
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625332, 
+        "name": "St.-Loup", 
+        "adjacent_woeid": [
+          584489, 
+          601146, 
+          20199433, 
+          20199612
+        ], 
+        "ne_latitude": 46.006, 
+        "ne_longitude": -0.620, 
+        "longitude": -0.625, 
+        "parent_woeid": 12670789, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Loup-de-Saintonge"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.000, 
+        "sw_longitude": -0.637, 
+        "fullname": "St.-Loup, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.989
+      }, 
+      "id": 625332
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.465, 
+              50.285
+            ], 
+            [
+              3.465, 
+              50.328
+            ], 
+            [
+              3.522, 
+              50.328
+            ], 
+            [
+              3.522, 
+              50.285
+            ], 
+            [
+              3.465, 
+              50.285
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609330, 
+        "name": "Maing", 
+        "adjacent_woeid": [
+          576831, 
+          590526, 
+          611876, 
+          618146, 
+          618540, 
+          628432, 
+          629405, 
+          629845
+        ], 
+        "ne_latitude": 50.328, 
+        "ne_longitude": 3.522, 
+        "longitude": 3.484, 
+        "parent_woeid": 12666032, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Naing"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.308, 
+        "sw_longitude": 3.465, 
+        "fullname": "Maing, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.285
+      }, 
+      "id": 609330
+    }
+  ]
+}

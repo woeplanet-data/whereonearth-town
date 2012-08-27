@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.609, 
+              15.715
+            ], 
+            [
+              -88.609, 
+              15.738
+            ], 
+            [
+              -88.585, 
+              15.738
+            ], 
+            [
+              -88.585, 
+              15.715
+            ], 
+            [
+              -88.609, 
+              15.715
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.738, 
+        "name": "Puerto Barrios", 
+        "adjacent_woeid": [
+          82317, 
+          83006, 
+          85211
+        ], 
+        "woeid": 85209, 
+        "alias_UNK_Q": [
+          "PBR"
+        ], 
+        "alias_SPA_V": [
+          "Pto Barrios"
+        ], 
+        "ne_longitude": -88.585, 
+        "longitude": -88.597, 
+        "parent_woeid": 26807030, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.727, 
+        "sw_longitude": -88.609, 
+        "fullname": "Puerto Barrios, Izabal, Puerto Barrios, Guatemala", 
+        "sw_latitude": 15.715
+      }, 
+      "id": 85209
+    }
+  ]
+}

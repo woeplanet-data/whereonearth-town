@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.035, 
+              48.004
+            ], 
+            [
+              -1.035, 
+              48.059
+            ], 
+            [
+              -1.010, 
+              48.059
+            ], 
+            [
+              -1.010, 
+              48.004
+            ], 
+            [
+              -1.035, 
+              48.004
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623669, 
+        "name": "St.-Cyr-le-Gravelais", 
+        "adjacent_woeid": [
+          578690, 
+          598596, 
+          603909, 
+          612831, 
+          620457
+        ], 
+        "ne_latitude": 48.059, 
+        "ne_longitude": -1.010, 
+        "longitude": -1.026, 
+        "parent_woeid": 12652354, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cyr-le-Gravelais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.035, 
+        "sw_longitude": -1.035, 
+        "fullname": "St.-Cyr-le-Gravelais, Pays de la Loire, Mayenne, France", 
+        "sw_latitude": 48.004
+      }, 
+      "id": 623669
+    }
+  ]
+}

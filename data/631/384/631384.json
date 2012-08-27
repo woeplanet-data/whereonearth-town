@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.245, 
+              45.174
+            ], 
+            [
+              1.245, 
+              45.213
+            ], 
+            [
+              1.267, 
+              45.213
+            ], 
+            [
+              1.267, 
+              45.174
+            ], 
+            [
+              1.245, 
+              45.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 631384, 
+        "name": "Villac", 
+        "adjacent_woeid": [
+          577780, 
+          578821, 
+          581972, 
+          585138, 
+          600443, 
+          608741, 
+          616400, 
+          621386
+        ], 
+        "ne_latitude": 45.213, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.267, 
+        "longitude": 1.253, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12640008, 
+        "latitude": 45.188, 
+        "sw_longitude": 1.245, 
+        "fullname": "Villac, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.174
+      }, 
+      "id": 631384
+    }
+  ]
+}

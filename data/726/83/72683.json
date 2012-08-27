@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.744, 
+              18.564
+            ], 
+            [
+              -71.744, 
+              18.578
+            ], 
+            [
+              -71.730, 
+              18.578
+            ], 
+            [
+              -71.730, 
+              18.564
+            ], 
+            [
+              -71.744, 
+              18.564
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.578, 
+        "name": "La Descubierta", 
+        "adjacent_woeid": [
+          71976, 
+          74204, 
+          74924
+        ], 
+        "woeid": 72683, 
+        "alias_SPA_V": [
+          "Descubierta"
+        ], 
+        "ne_longitude": -71.730, 
+        "longitude": -71.737, 
+        "parent_woeid": 2345179, 
+        "placetype": "Town", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.571, 
+        "sw_longitude": -71.744, 
+        "fullname": "La Descubierta, Independencia, Dominican Republic", 
+        "sw_latitude": 18.564
+      }, 
+      "id": 72683
+    }
+  ]
+}

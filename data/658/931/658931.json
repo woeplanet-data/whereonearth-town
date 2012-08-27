@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.326, 
+              51.275
+            ], 
+            [
+              10.326, 
+              51.322
+            ], 
+            [
+              10.373, 
+              51.322
+            ], 
+            [
+              10.373, 
+              51.275
+            ], 
+            [
+              10.326, 
+              51.275
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658931, 
+        "name": "Helmsdorf", 
+        "adjacent_woeid": [
+          635241, 
+          641026, 
+          695042, 
+          708696
+        ], 
+        "ne_latitude": 51.322, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.373, 
+        "longitude": 10.351, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12624677, 
+        "latitude": 51.298, 
+        "sw_longitude": 10.326, 
+        "fullname": "Helmsdorf, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.275
+      }, 
+      "id": 658931
+    }
+  ]
+}

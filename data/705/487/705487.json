@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.255, 
+              50.218
+            ], 
+            [
+              10.255, 
+              50.254
+            ], 
+            [
+              10.283, 
+              50.254
+            ], 
+            [
+              10.283, 
+              50.218
+            ], 
+            [
+              10.255, 
+              50.218
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705487, 
+        "name": "Wermerichshausen", 
+        "adjacent_woeid": [
+          641751, 
+          650640, 
+          655271, 
+          667241, 
+          685668, 
+          694623, 
+          704451
+        ], 
+        "ne_latitude": 50.254, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.283, 
+        "longitude": 10.273, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12635501, 
+        "latitude": 50.240, 
+        "sw_longitude": 10.255, 
+        "fullname": "Wermerichshausen, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.218
+      }, 
+      "id": 705487
+    }
+  ]
+}

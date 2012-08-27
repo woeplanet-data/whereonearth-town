@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.377, 
+              49.201
+            ], 
+            [
+              10.377, 
+              49.210
+            ], 
+            [
+              10.391, 
+              49.210
+            ], 
+            [
+              10.391, 
+              49.201
+            ], 
+            [
+              10.377, 
+              49.201
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 643105, 
+        "name": "Charhof", 
+        "adjacent_woeid": [
+          639065, 
+          639308, 
+          696671, 
+          706952
+        ], 
+        "ne_latitude": 49.210, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.391, 
+        "longitude": 10.384, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12634400, 
+        "latitude": 49.206, 
+        "sw_longitude": 10.377, 
+        "fullname": "Charhof, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.201
+      }, 
+      "id": 643105
+    }
+  ]
+}

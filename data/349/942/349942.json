@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.381, 
+              -53.305
+            ], 
+            [
+              -70.381, 
+              -53.286
+            ], 
+            [
+              -70.349, 
+              -53.286
+            ], 
+            [
+              -70.349, 
+              -53.305
+            ], 
+            [
+              -70.381, 
+              -53.305
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -53.286, 
+        "name": "Porvenir", 
+        "adjacent_woeid": [
+          349995, 
+          350017, 
+          350180, 
+          350365, 
+          350422
+        ], 
+        "woeid": 349942, 
+        "alias_SPA_V": [
+          "Ciudad de Porvenir"
+        ], 
+        "ne_longitude": -70.349, 
+        "longitude": -70.365, 
+        "parent_woeid": 26794229, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -53.296, 
+        "sw_longitude": -70.381, 
+        "fullname": "Porvenir, Magallanes and Antartica Chilena Region, Tierra del Fuego Province, Chile", 
+        "sw_latitude": -53.305
+      }, 
+      "id": 349942
+    }
+  ]
+}

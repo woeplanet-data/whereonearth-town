@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.493, 
+              25.224
+            ], 
+            [
+              -100.493, 
+              25.242
+            ], 
+            [
+              -100.473, 
+              25.242
+            ], 
+            [
+              -100.473, 
+              25.224
+            ], 
+            [
+              -100.493, 
+              25.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.242, 
+        "name": "Ciruelo", 
+        "adjacent_woeid": [
+          127282, 
+          133365, 
+          139146, 
+          145730, 
+          146666
+        ], 
+        "woeid": 116513, 
+        "alias_SPA_V": [
+          "Ciruela"
+        ], 
+        "ne_longitude": -100.473, 
+        "longitude": -100.483, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.233, 
+        "sw_longitude": -100.493, 
+        "fullname": "Ciruelo, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 25.224
+      }, 
+      "id": 116513
+    }
+  ]
+}

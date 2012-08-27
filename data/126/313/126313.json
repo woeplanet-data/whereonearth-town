@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.460, 
+              21.024
+            ], 
+            [
+              -100.460, 
+              21.042
+            ], 
+            [
+              -100.440, 
+              21.042
+            ], 
+            [
+              -100.440, 
+              21.024
+            ], 
+            [
+              -100.460, 
+              21.024
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.042, 
+        "name": "La Alameda", 
+        "adjacent_woeid": [
+          119802, 
+          123880, 
+          127479, 
+          129545, 
+          135141, 
+          143507
+        ], 
+        "woeid": 126313, 
+        "alias_SPA_V": [
+          "Alameda"
+        ], 
+        "ne_longitude": -100.440, 
+        "longitude": -100.450, 
+        "parent_woeid": 12600020, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.033, 
+        "sw_longitude": -100.460, 
+        "fullname": "La Alameda, Guanajuato, San Jose Iturbide, Mexico", 
+        "sw_latitude": 21.024
+      }, 
+      "id": 126313
+    }
+  ]
+}

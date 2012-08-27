@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.222, 
+              37.683
+            ], 
+            [
+              13.222, 
+              37.733
+            ], 
+            [
+              13.326, 
+              37.733
+            ], 
+            [
+              13.326, 
+              37.683
+            ], 
+            [
+              13.222, 
+              37.683
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 711007, 
+        "name": "Bisacquino", 
+        "adjacent_woeid": [
+          710086, 
+          711907, 
+          714033, 
+          714556, 
+          716218
+        ], 
+        "ne_latitude": 37.733, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.326, 
+        "longitude": 13.262, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:26:12Z", 
+        "parent_woeid": 12676808, 
+        "latitude": 37.701, 
+        "sw_longitude": 13.222, 
+        "fullname": "Bisacquino, Sicily, Palermo, Italy", 
+        "sw_latitude": 37.683
+      }, 
+      "id": 711007
+    }
+  ]
+}

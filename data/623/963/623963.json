@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.092, 
+              45.403
+            ], 
+            [
+              0.092, 
+              45.438
+            ], 
+            [
+              0.125, 
+              45.438
+            ], 
+            [
+              0.125, 
+              45.403
+            ], 
+            [
+              0.092, 
+              45.403
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623963, 
+        "name": "St.-Eutrope", 
+        "adjacent_woeid": [
+          587470, 
+          614477, 
+          616060, 
+          625113, 
+          29331276
+        ], 
+        "ne_latitude": 45.438, 
+        "ne_longitude": 0.125, 
+        "longitude": 0.110, 
+        "parent_woeid": 12670390, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Eutrope"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.419, 
+        "sw_longitude": 0.092, 
+        "fullname": "St.-Eutrope, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.403
+      }, 
+      "id": 623963
+    }
+  ]
+}

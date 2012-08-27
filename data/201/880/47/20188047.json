@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.123, 
+              48.793
+            ], 
+            [
+              1.123, 
+              48.802
+            ], 
+            [
+              1.137, 
+              48.802
+            ], 
+            [
+              1.137, 
+              48.793
+            ], 
+            [
+              1.123, 
+              48.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20188047, 
+        "name": "La Brosse", 
+        "adjacent_woeid": [
+          589210, 
+          615599, 
+          20188049, 
+          20188050, 
+          22657026
+        ], 
+        "ne_latitude": 48.802, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.137, 
+        "longitude": 1.130, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12643100, 
+        "latitude": 48.798, 
+        "sw_longitude": 1.123, 
+        "fullname": "La Brosse, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.793
+      }, 
+      "id": 20188047
+    }
+  ]
+}

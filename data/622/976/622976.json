@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.211, 
+              45.490
+            ], 
+            [
+              2.211, 
+              45.522
+            ], 
+            [
+              2.253, 
+              45.522
+            ], 
+            [
+              2.253, 
+              45.490
+            ], 
+            [
+              2.211, 
+              45.490
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622976, 
+        "name": "St.-Angel", 
+        "adjacent_woeid": [
+          575776, 
+          585374, 
+          586628, 
+          615550, 
+          629883, 
+          20189085
+        ], 
+        "ne_latitude": 45.522, 
+        "ne_longitude": 2.253, 
+        "longitude": 2.232, 
+        "parent_woeid": 12657334, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Angel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.503, 
+        "sw_longitude": 2.211, 
+        "fullname": "St.-Angel, Limousin, Correze, France", 
+        "sw_latitude": 45.490
+      }, 
+      "id": 622976
+    }
+  ]
+}

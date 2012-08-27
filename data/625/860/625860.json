@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.222, 
+              45.687
+            ], 
+            [
+              1.222, 
+              45.711
+            ], 
+            [
+              1.245, 
+              45.711
+            ], 
+            [
+              1.245, 
+              45.687
+            ], 
+            [
+              1.222, 
+              45.687
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625860, 
+        "name": "St.-Maurice-les-Brousses", 
+        "adjacent_woeid": [
+          595404, 
+          595643, 
+          624855, 
+          29332843
+        ], 
+        "ne_latitude": 45.711, 
+        "ne_longitude": 1.245, 
+        "longitude": 1.237, 
+        "parent_woeid": 12665339, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maurice-les-Brousses"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.700, 
+        "sw_longitude": 1.222, 
+        "fullname": "St.-Maurice-les-Brousses, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.687
+      }, 
+      "id": 625860
+    }
+  ]
+}

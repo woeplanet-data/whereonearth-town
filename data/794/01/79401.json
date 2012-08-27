@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.963, 
+              13.416
+            ], 
+            [
+              -87.963, 
+              13.434
+            ], 
+            [
+              -87.944, 
+              13.434
+            ], 
+            [
+              -87.944, 
+              13.416
+            ], 
+            [
+              -87.963, 
+              13.416
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.434, 
+        "name": "San Alejo", 
+        "adjacent_woeid": [
+          76918, 
+          77331, 
+          79622, 
+          80186, 
+          80190, 
+          22722347, 
+          26809465
+        ], 
+        "woeid": 79401, 
+        "alias_SPA_V": [
+          "S Alejo"
+        ], 
+        "ne_longitude": -87.944, 
+        "longitude": -87.953, 
+        "parent_woeid": 26808649, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.425, 
+        "sw_longitude": -87.963, 
+        "fullname": "San Alejo, La Uni\u00f3n, San Alejo, El Salvador", 
+        "sw_latitude": 13.416
+      }, 
+      "id": 79401
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.368, 
+              50.157
+            ], 
+            [
+              11.368, 
+              50.186
+            ], 
+            [
+              11.400, 
+              50.186
+            ], 
+            [
+              11.400, 
+              50.157
+            ], 
+            [
+              11.368, 
+              50.157
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666001, 
+        "name": "Kirchleus", 
+        "adjacent_woeid": [
+          653479, 
+          655423, 
+          672697, 
+          681037, 
+          691924, 
+          700855, 
+          20156376, 
+          20172913, 
+          29348186
+        ], 
+        "ne_latitude": 50.186, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.400, 
+        "longitude": 11.385, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12635350, 
+        "latitude": 50.173, 
+        "sw_longitude": 11.368, 
+        "fullname": "Kirchleus, Bavaria, Landkreis Kulmbach, Germany", 
+        "sw_latitude": 50.157
+      }, 
+      "id": 666001
+    }
+  ]
+}

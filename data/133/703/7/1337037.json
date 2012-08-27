@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -13.510, 
+              10.917
+            ], 
+            [
+              -13.510, 
+              10.933
+            ], 
+            [
+              -13.494, 
+              10.933
+            ], 
+            [
+              -13.494, 
+              10.917
+            ], 
+            [
+              -13.510, 
+              10.917
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1337037, 
+        "name": "Kounsotami", 
+        "adjacent_woeid": [
+          1334159, 
+          1334398, 
+          1335899, 
+          1338725, 
+          1339179, 
+          1339292
+        ], 
+        "ne_latitude": 10.933, 
+        "ne_longitude": -13.494, 
+        "longitude": -13.502, 
+        "parent_woeid": 56061148, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Consotami"
+        ], 
+        "iso": "GN", 
+        "date_indexed": "2010-12-02T16:11:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.925, 
+        "sw_longitude": -13.510, 
+        "fullname": "Kounsotami, Kindia, Telimele, Guinea", 
+        "sw_latitude": 10.917
+      }, 
+      "id": 1337037
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              146.054, 
+              -33.603
+            ], 
+            [
+              146.054, 
+              -33.152
+            ], 
+            [
+              146.656, 
+              -33.152
+            ], 
+            [
+              146.656, 
+              -33.603
+            ], 
+            [
+              146.054, 
+              -33.603
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1103297, 
+        "name": "Lake Cargelligo", 
+        "adjacent_woeid": [
+          1094808, 
+          1095449, 
+          1095700, 
+          1099045, 
+          1099652, 
+          1101964, 
+          1104025, 
+          1104496, 
+          1105258, 
+          28584735, 
+          28585649, 
+          28585757, 
+          28587803, 
+          28587851, 
+          28645250
+        ], 
+        "ne_latitude": -33.152, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lk Cargellico"
+        ], 
+        "ne_longitude": 146.656, 
+        "longitude": 146.371, 
+        "placetype": "Town", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:43:42Z", 
+        "parent_woeid": 55863809, 
+        "latitude": -33.299, 
+        "sw_longitude": 146.054, 
+        "fullname": "Lake Cargelligo, New South Wales, Lachlan, Australia", 
+        "sw_latitude": -33.603
+      }, 
+      "id": 1103297
+    }
+  ]
+}

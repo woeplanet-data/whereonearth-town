@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.860, 
+              45.446
+            ], 
+            [
+              6.860, 
+              45.502
+            ], 
+            [
+              6.935, 
+              45.502
+            ], 
+            [
+              6.935, 
+              45.446
+            ], 
+            [
+              6.860, 
+              45.446
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628668, 
+        "name": "Tignes", 
+        "adjacent_woeid": [
+          581520, 
+          609171, 
+          611687, 
+          627542, 
+          629779, 
+          29330462
+        ], 
+        "ne_latitude": 45.502, 
+        "ne_longitude": 6.935, 
+        "longitude": 6.908, 
+        "parent_woeid": 12661721, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Tignes-sur-Boisses"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.471, 
+        "sw_longitude": 6.860, 
+        "fullname": "Tignes, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.446
+      }, 
+      "id": 628668
+    }
+  ]
+}

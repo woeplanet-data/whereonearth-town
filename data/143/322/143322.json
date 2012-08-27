@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.893, 
+              22.624
+            ], 
+            [
+              -99.893, 
+              22.642
+            ], 
+            [
+              -99.873, 
+              22.642
+            ], 
+            [
+              -99.873, 
+              22.624
+            ], 
+            [
+              -99.893, 
+              22.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.642, 
+        "name": "San Jos\u00e9", 
+        "adjacent_woeid": [
+          111422, 
+          127699, 
+          130245, 
+          133608, 
+          145241
+        ], 
+        "woeid": 143322, 
+        "alias_SPA_V": [
+          "S Jos\u00e9"
+        ], 
+        "ne_longitude": -99.873, 
+        "longitude": -99.883, 
+        "parent_woeid": 12601480, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "S. Jose"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.633, 
+        "sw_longitude": -99.893, 
+        "fullname": "San Jos\u00e9, San Luis Potosi, Ciudad del Maiz, Mexico", 
+        "sw_latitude": 22.624
+      }, 
+      "id": 143322
+    }
+  ]
+}

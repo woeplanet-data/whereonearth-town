@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.010, 
+              36.742
+            ], 
+            [
+              -5.010, 
+              36.845
+            ], 
+            [
+              -4.927, 
+              36.845
+            ], 
+            [
+              -4.927, 
+              36.742
+            ], 
+            [
+              -5.010, 
+              36.742
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 36.845, 
+        "name": "Burgo", 
+        "adjacent_woeid": [
+          752768, 
+          755938, 
+          756425, 
+          772179, 
+          774460, 
+          778991, 
+          20224180
+        ], 
+        "woeid": 755074, 
+        "alias_SPA_V": [
+          "El Burgo"
+        ], 
+        "ne_longitude": -4.927, 
+        "longitude": -4.948, 
+        "parent_woeid": 12689220, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:11Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.791, 
+        "sw_longitude": -5.010, 
+        "fullname": "Burgo, Andalusia, Malaga, Spain", 
+        "sw_latitude": 36.742
+      }, 
+      "id": 755074
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.169, 
+              46.867
+            ], 
+            [
+              1.169, 
+              46.912
+            ], 
+            [
+              1.214, 
+              46.912
+            ], 
+            [
+              1.214, 
+              46.867
+            ], 
+            [
+              1.169, 
+              46.867
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 632193, 
+        "name": "Villiers", 
+        "adjacent_woeid": [
+          576696, 
+          586286, 
+          613731, 
+          615837, 
+          621192
+        ], 
+        "ne_latitude": 46.912, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.214, 
+        "longitude": 1.185, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12647699, 
+        "latitude": 46.888, 
+        "sw_longitude": 1.169, 
+        "fullname": "Villiers, Centre, Indre, France", 
+        "sw_latitude": 46.867
+      }, 
+      "id": 632193
+    }
+  ]
+}

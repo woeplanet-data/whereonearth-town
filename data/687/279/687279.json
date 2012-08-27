@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.984, 
+              48.328
+            ], 
+            [
+              10.984, 
+              48.349
+            ], 
+            [
+              11.013, 
+              48.349
+            ], 
+            [
+              11.013, 
+              48.328
+            ], 
+            [
+              10.984, 
+              48.328
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687279, 
+        "name": "Rederzhausen", 
+        "adjacent_woeid": [
+          662743, 
+          683977, 
+          29345871, 
+          29347437
+        ], 
+        "ne_latitude": 48.349, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.013, 
+        "longitude": 11.003, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:35Z", 
+        "parent_woeid": 12634733, 
+        "latitude": 48.339, 
+        "sw_longitude": 10.984, 
+        "fullname": "Rederzhausen, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.328
+      }, 
+      "id": 687279
+    }
+  ]
+}

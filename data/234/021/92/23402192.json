@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.670, 
+              50.431
+            ], 
+            [
+              -99.670, 
+              50.449
+            ], 
+            [
+              -99.641, 
+              50.449
+            ], 
+            [
+              -99.641, 
+              50.431
+            ], 
+            [
+              -99.670, 
+              50.431
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23402192, 
+        "name": "Mountain Road", 
+        "adjacent_woeid": [
+          23402528, 
+          23402540, 
+          23402638, 
+          23402649, 
+          29373722
+        ], 
+        "ne_latitude": 50.449, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Mtn Road"
+        ], 
+        "ne_longitude": -99.641, 
+        "longitude": -99.656, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375231, 
+        "latitude": 50.440, 
+        "sw_longitude": -99.670, 
+        "fullname": "Mountain Road, Manitoba, Manitoba, Canada", 
+        "sw_latitude": 50.431
+      }, 
+      "id": 23402192
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.828, 
+              47.255
+            ], 
+            [
+              1.828, 
+              47.282
+            ], 
+            [
+              1.854, 
+              47.282
+            ], 
+            [
+              1.854, 
+              47.255
+            ], 
+            [
+              1.828, 
+              47.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20187046, 
+        "name": "St.-Loup", 
+        "adjacent_woeid": [
+          576185, 
+          601251, 
+          609768, 
+          625015, 
+          20187050
+        ], 
+        "ne_latitude": 47.282, 
+        "ne_longitude": 1.854, 
+        "longitude": 1.839, 
+        "parent_woeid": 12646093, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Loup-sur-Cher"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.265, 
+        "sw_longitude": 1.828, 
+        "fullname": "St.-Loup, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.255
+      }, 
+      "id": 20187046
+    }
+  ]
+}

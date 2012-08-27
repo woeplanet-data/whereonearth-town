@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.498, 
+              46.414
+            ], 
+            [
+              -71.498, 
+              46.610
+            ], 
+            [
+              -71.263, 
+              46.610
+            ], 
+            [
+              -71.263, 
+              46.414
+            ], 
+            [
+              -71.498, 
+              46.414
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396553, 
+        "name": "St.-Gilles", 
+        "adjacent_woeid": [
+          1384, 
+          3465, 
+          23394601, 
+          23394682, 
+          23396584
+        ], 
+        "ne_latitude": 46.610, 
+        "ne_longitude": -71.263, 
+        "longitude": -71.364, 
+        "parent_woeid": 29375213, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Gilles"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.511, 
+        "sw_longitude": -71.498, 
+        "fullname": "St.-Gilles, Quebec, Lotbini\u00e8re, Canada", 
+        "sw_latitude": 46.414
+      }, 
+      "id": 23396553
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.752, 
+              38.516
+            ], 
+            [
+              -4.752, 
+              38.610
+            ], 
+            [
+              -4.606, 
+              38.610
+            ], 
+            [
+              -4.606, 
+              38.516
+            ], 
+            [
+              -4.752, 
+              38.516
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.610, 
+        "name": "San Benito", 
+        "adjacent_woeid": [
+          759352, 
+          760735, 
+          764224, 
+          776496, 
+          777239, 
+          15003524, 
+          20221938, 
+          20223661, 
+          20226806, 
+          29371026
+        ], 
+        "woeid": 772687, 
+        "alias_SPA_V": [
+          "S. Benito"
+        ], 
+        "ne_longitude": -4.606, 
+        "longitude": -4.680, 
+        "parent_woeid": 12690312, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.566, 
+        "sw_longitude": -4.752, 
+        "fullname": "San Benito, Castille la Mancha, Ciudad Real, Spain", 
+        "sw_latitude": 38.516
+      }, 
+      "id": 772687
+    }
+  ]
+}

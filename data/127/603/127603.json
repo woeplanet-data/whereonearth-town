@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.243, 
+              16.691
+            ], 
+            [
+              -98.243, 
+              16.709
+            ], 
+            [
+              -98.224, 
+              16.709
+            ], 
+            [
+              -98.224, 
+              16.691
+            ], 
+            [
+              -98.243, 
+              16.691
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.709, 
+        "name": "La Guadalupe", 
+        "adjacent_woeid": [
+          111369, 
+          117604, 
+          127010, 
+          151526
+        ], 
+        "woeid": 127603, 
+        "alias_SPA_V": [
+          "Guadalupe"
+        ], 
+        "ne_longitude": -98.224, 
+        "longitude": -98.233, 
+        "parent_woeid": 12600082, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.700, 
+        "sw_longitude": -98.243, 
+        "fullname": "La Guadalupe, Guerrero, Ometepec, Mexico", 
+        "sw_latitude": 16.691
+      }, 
+      "id": 127603
+    }
+  ]
+}

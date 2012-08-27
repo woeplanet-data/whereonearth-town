@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.519, 
+              44.105
+            ], 
+            [
+              2.519, 
+              44.127
+            ], 
+            [
+              2.546, 
+              44.127
+            ], 
+            [
+              2.546, 
+              44.105
+            ], 
+            [
+              2.519, 
+              44.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600004, 
+        "name": "La Selve", 
+        "adjacent_woeid": [
+          577333, 
+          589305, 
+          20192566, 
+          20192576, 
+          29331960
+        ], 
+        "ne_latitude": 44.127, 
+        "ne_longitude": 2.546, 
+        "longitude": 2.534, 
+        "parent_woeid": 12661951, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Selve"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.112, 
+        "sw_longitude": 2.519, 
+        "fullname": "La Selve, Midi-Pyrenees, Aveyron, France", 
+        "sw_latitude": 44.105
+      }, 
+      "id": 600004
+    }
+  ]
+}

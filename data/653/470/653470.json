@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.892, 
+              50.187
+            ], 
+            [
+              10.892, 
+              50.210
+            ], 
+            [
+              10.917, 
+              50.210
+            ], 
+            [
+              10.917, 
+              50.187
+            ], 
+            [
+              10.892, 
+              50.187
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 653470, 
+        "name": "Gossenberg", 
+        "adjacent_woeid": [
+          669180, 
+          704183, 
+          707415, 
+          707453, 
+          708889
+        ], 
+        "ne_latitude": 50.210, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.917, 
+        "longitude": 10.904, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:57Z", 
+        "parent_woeid": 12635290, 
+        "latitude": 50.197, 
+        "sw_longitude": 10.892, 
+        "fullname": "Gossenberg, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.187
+      }, 
+      "id": 653470
+    }
+  ]
+}

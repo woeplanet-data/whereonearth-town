@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.865, 
+              24.692
+            ], 
+            [
+              -99.865, 
+              24.710
+            ], 
+            [
+              -99.845, 
+              24.710
+            ], 
+            [
+              -99.845, 
+              24.692
+            ], 
+            [
+              -99.865, 
+              24.692
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.710, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          117921, 
+          121295, 
+          131465, 
+          135070, 
+          144311, 
+          146671
+        ], 
+        "woeid": 146781, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -99.845, 
+        "longitude": -99.855, 
+        "parent_woeid": 12600633, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.701, 
+        "sw_longitude": -99.865, 
+        "fullname": "Santa Rosa, Nuevo Leon, Iturbide, Mexico", 
+        "sw_latitude": 24.692
+      }, 
+      "id": 146781
+    }
+  ]
+}

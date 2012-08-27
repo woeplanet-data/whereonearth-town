@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.216, 
+              48.914
+            ], 
+            [
+              4.216, 
+              48.969
+            ], 
+            [
+              4.276, 
+              48.969
+            ], 
+            [
+              4.276, 
+              48.914
+            ], 
+            [
+              4.216, 
+              48.914
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626365, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          584265, 
+          610506, 
+          628437, 
+          632031
+        ], 
+        "ne_latitude": 48.969, 
+        "ne_longitude": 4.276, 
+        "longitude": 4.244, 
+        "parent_woeid": 12653113, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.945, 
+        "sw_longitude": 4.216, 
+        "fullname": "St.-Pierre, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 48.914
+      }, 
+      "id": 626365
+    }
+  ]
+}

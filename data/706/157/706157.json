@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.370, 
+              49.874
+            ], 
+            [
+              10.370, 
+              49.894
+            ], 
+            [
+              10.402, 
+              49.894
+            ], 
+            [
+              10.402, 
+              49.874
+            ], 
+            [
+              10.370, 
+              49.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706157, 
+        "name": "Wiebelsberg", 
+        "adjacent_woeid": [
+          646120, 
+          677001, 
+          691411
+        ], 
+        "ne_latitude": 49.894, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.402, 
+        "longitude": 10.388, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635426, 
+        "latitude": 49.879, 
+        "sw_longitude": 10.370, 
+        "fullname": "Wiebelsberg, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.874
+      }, 
+      "id": 706157
+    }
+  ]
+}

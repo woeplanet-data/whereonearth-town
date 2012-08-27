@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.048, 
+              43.161
+            ], 
+            [
+              -4.048, 
+              43.170
+            ], 
+            [
+              -4.035, 
+              43.170
+            ], 
+            [
+              -4.035, 
+              43.161
+            ], 
+            [
+              -4.048, 
+              43.161
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.170, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          762085, 
+          764052, 
+          773469, 
+          774575, 
+          20228005, 
+          29371539, 
+          29372560
+        ], 
+        "woeid": 773657, 
+        "alias_SPA_V": [
+          "Sta Cruz"
+        ], 
+        "ne_longitude": -4.035, 
+        "longitude": -4.041, 
+        "parent_woeid": 12688567, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.165, 
+        "sw_longitude": -4.048, 
+        "fullname": "Santa Cruz, Cantabria, Cantabria, Spain", 
+        "sw_latitude": 43.161
+      }, 
+      "id": 773657
+    }
+  ]
+}

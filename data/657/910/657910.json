@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.898, 
+              49.574
+            ], 
+            [
+              10.898, 
+              49.604
+            ], 
+            [
+              10.926, 
+              49.604
+            ], 
+            [
+              10.926, 
+              49.574
+            ], 
+            [
+              10.898, 
+              49.574
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657910, 
+        "name": "Haundorf", 
+        "adjacent_woeid": [
+          638634, 
+          668352, 
+          697241, 
+          701255
+        ], 
+        "ne_latitude": 49.604, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.926, 
+        "longitude": 10.918, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12634451, 
+        "latitude": 49.589, 
+        "sw_longitude": 10.898, 
+        "fullname": "Haundorf, Bavaria, Erlangen-H\u00f6chstadt, Germany", 
+        "sw_latitude": 49.574
+      }, 
+      "id": 657910
+    }
+  ]
+}

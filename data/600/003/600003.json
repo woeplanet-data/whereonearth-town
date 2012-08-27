@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.876, 
+              48.048
+            ], 
+            [
+              2.876, 
+              48.078
+            ], 
+            [
+              2.904, 
+              48.078
+            ], 
+            [
+              2.904, 
+              48.048
+            ], 
+            [
+              2.876, 
+              48.048
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600003, 
+        "name": "La Selle-sur-le-Bied", 
+        "adjacent_woeid": [
+          593821, 
+          608845, 
+          611126, 
+          616163, 
+          625330
+        ], 
+        "ne_latitude": 48.078, 
+        "ne_longitude": 2.904, 
+        "longitude": 2.892, 
+        "parent_woeid": 12646645, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Selle-le Bied"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.065, 
+        "sw_longitude": 2.876, 
+        "fullname": "La Selle-sur-le-Bied, Centre, Loiret, France", 
+        "sw_latitude": 48.048
+      }, 
+      "id": 600003
+    }
+  ]
+}

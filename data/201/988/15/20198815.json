@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.641, 
+              45.999
+            ], 
+            [
+              0.641, 
+              46.008
+            ], 
+            [
+              0.654, 
+              46.008
+            ], 
+            [
+              0.654, 
+              45.999
+            ], 
+            [
+              0.641, 
+              45.999
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20198815, 
+        "name": "La Parlie", 
+        "adjacent_woeid": [
+          576240, 
+          594832, 
+          20198816, 
+          29331265
+        ], 
+        "ne_latitude": 46.008, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.654, 
+        "longitude": 0.647, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12655321, 
+        "latitude": 46.003, 
+        "sw_longitude": 0.641, 
+        "fullname": "La Parlie, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.999
+      }, 
+      "id": 20198815
+    }
+  ]
+}

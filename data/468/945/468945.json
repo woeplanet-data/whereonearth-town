@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -55.225, 
+              -27.807
+            ], 
+            [
+              -55.225, 
+              -27.793
+            ], 
+            [
+              -55.209, 
+              -27.793
+            ], 
+            [
+              -55.209, 
+              -27.807
+            ], 
+            [
+              -55.225, 
+              -27.807
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -27.793, 
+        "name": "Los Galpones", 
+        "adjacent_woeid": [
+          465315, 
+          465590, 
+          465604, 
+          465639, 
+          465854
+        ], 
+        "woeid": 468945, 
+        "alias_SPA_V": [
+          "Galpones"
+        ], 
+        "ne_longitude": -55.209, 
+        "longitude": -55.217, 
+        "parent_woeid": 20070725, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -27.800, 
+        "sw_longitude": -55.225, 
+        "fullname": "Los Galpones, Misiones, San Javier, Argentina", 
+        "sw_latitude": -27.807
+      }, 
+      "id": 468945
+    }
+  ]
+}

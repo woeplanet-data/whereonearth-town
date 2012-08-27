@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.956, 
+              49.267
+            ], 
+            [
+              11.956, 
+              49.276
+            ], 
+            [
+              11.970, 
+              49.276
+            ], 
+            [
+              11.970, 
+              49.267
+            ], 
+            [
+              11.956, 
+              49.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 685101, 
+        "name": "Pilsheim", 
+        "adjacent_woeid": [
+          646747, 
+          651665, 
+          660527, 
+          679553, 
+          700686, 
+          20158292, 
+          20173200
+        ], 
+        "ne_latitude": 49.276, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.970, 
+        "longitude": 11.963, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:27Z", 
+        "parent_woeid": 12634301, 
+        "latitude": 49.271, 
+        "sw_longitude": 11.956, 
+        "fullname": "Pilsheim, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.267
+      }, 
+      "id": 685101
+    }
+  ]
+}

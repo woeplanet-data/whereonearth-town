@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.143, 
+              23.774
+            ], 
+            [
+              -110.143, 
+              23.792
+            ], 
+            [
+              -110.123, 
+              23.792
+            ], 
+            [
+              -110.123, 
+              23.774
+            ], 
+            [
+              -110.143, 
+              23.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.792, 
+        "name": "El Triunfo", 
+        "adjacent_woeid": [
+          122345, 
+          129630, 
+          141766, 
+          142021, 
+          146681, 
+          146793
+        ], 
+        "woeid": 122834, 
+        "alias_SPA_V": [
+          "Triunfo"
+        ], 
+        "ne_longitude": -110.123, 
+        "longitude": -110.133, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.783, 
+        "sw_longitude": -110.143, 
+        "fullname": "El Triunfo, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 23.774
+      }, 
+      "id": 122834
+    }
+  ]
+}

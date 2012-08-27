@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.115, 
+              44.345
+            ], 
+            [
+              1.115, 
+              44.354
+            ], 
+            [
+              1.127, 
+              44.354
+            ], 
+            [
+              1.127, 
+              44.345
+            ], 
+            [
+              1.115, 
+              44.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20193896, 
+        "name": "Moulin-Bessou", 
+        "adjacent_woeid": [
+          579213, 
+          579234, 
+          581108, 
+          587323, 
+          605033, 
+          627470, 
+          629976
+        ], 
+        "ne_latitude": 44.354, 
+        "ne_longitude": 1.127, 
+        "longitude": 1.121, 
+        "parent_woeid": 12672023, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Moulin Bessou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.349, 
+        "sw_longitude": 1.115, 
+        "fullname": "Moulin-Bessou, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.345
+      }, 
+      "id": 20193896
+    }
+  ]
+}

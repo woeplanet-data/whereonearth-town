@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.426, 
+              21.391
+            ], 
+            [
+              -100.426, 
+              21.409
+            ], 
+            [
+              -100.407, 
+              21.409
+            ], 
+            [
+              -100.407, 
+              21.391
+            ], 
+            [
+              -100.426, 
+              21.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.409, 
+        "name": "San Juan de Los Rangeles", 
+        "adjacent_woeid": [
+          111616, 
+          129693, 
+          133652, 
+          135354
+        ], 
+        "woeid": 143901, 
+        "alias_SPA_V": [
+          "S Juan de Los Rangeles"
+        ], 
+        "ne_longitude": -100.407, 
+        "longitude": -100.417, 
+        "parent_woeid": 12600021, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.400, 
+        "sw_longitude": -100.426, 
+        "fullname": "San Juan de Los Rangeles, Guanajuato, San Luis de la Paz, Mexico", 
+        "sw_latitude": 21.391
+      }, 
+      "id": 143901
+    }
+  ]
+}

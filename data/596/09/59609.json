@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.193, 
+              9.924
+            ], 
+            [
+              -84.193, 
+              9.942
+            ], 
+            [
+              -84.174, 
+              9.942
+            ], 
+            [
+              -84.174, 
+              9.924
+            ], 
+            [
+              -84.193, 
+              9.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.942, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          58104, 
+          58298, 
+          58468, 
+          58518, 
+          59114, 
+          59303, 
+          59693, 
+          22723819
+        ], 
+        "woeid": 59609, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -84.174, 
+        "longitude": -84.183, 
+        "parent_woeid": 26809254, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.933, 
+        "sw_longitude": -84.193, 
+        "fullname": "Santa Ana, San Jose, Santa Ana, Costa Rica", 
+        "sw_latitude": 9.924
+      }, 
+      "id": 59609
+    }
+  ]
+}

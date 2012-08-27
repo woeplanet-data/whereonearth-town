@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.111, 
+              42.613
+            ], 
+            [
+              1.111, 
+              42.653
+            ], 
+            [
+              1.137, 
+              42.653
+            ], 
+            [
+              1.137, 
+              42.613
+            ], 
+            [
+              1.111, 
+              42.613
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.653, 
+        "name": "Esterri d'Aneu", 
+        "adjacent_woeid": [
+          752268, 
+          760227, 
+          762869, 
+          765258, 
+          774469, 
+          774802, 
+          774844, 
+          776691, 
+          22661461, 
+          22661471
+        ], 
+        "woeid": 760311, 
+        "alias_SPA_V": [
+          "Esterri de Aneu"
+        ], 
+        "ne_longitude": 1.137, 
+        "longitude": 1.123, 
+        "parent_woeid": 12693984, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.629, 
+        "sw_longitude": 1.111, 
+        "fullname": "Esterri d'Aneu, Catalonia, Lleida, Spain", 
+        "sw_latitude": 42.613
+      }, 
+      "id": 760311
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.956, 
+              10.256
+            ], 
+            [
+              -67.956, 
+              10.270
+            ], 
+            [
+              -67.942, 
+              10.270
+            ], 
+            [
+              -67.942, 
+              10.256
+            ], 
+            [
+              -67.956, 
+              10.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.270, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          390820, 
+          395143, 
+          395272, 
+          468267, 
+          468293, 
+          468380, 
+          468414, 
+          468416, 
+          468569, 
+          469022
+        ], 
+        "woeid": 468334, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -67.942, 
+        "longitude": -67.949, 
+        "parent_woeid": 26805539, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.263, 
+        "sw_longitude": -67.956, 
+        "fullname": "San Diego, Carabobo, San Diego, Venezuela", 
+        "sw_latitude": 10.256
+      }, 
+      "id": 468334
+    }
+  ]
+}

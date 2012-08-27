@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.438, 
+              9.895
+            ], 
+            [
+              -84.438, 
+              9.905
+            ], 
+            [
+              -84.429, 
+              9.905
+            ], 
+            [
+              -84.429, 
+              9.895
+            ], 
+            [
+              -84.438, 
+              9.895
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.905, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          57684, 
+          58204, 
+          58299, 
+          59160, 
+          59532
+        ], 
+        "woeid": 59514, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -84.429, 
+        "longitude": -84.433, 
+        "parent_woeid": 26809223, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.900, 
+        "sw_longitude": -84.438, 
+        "fullname": "San Pablo, San Jose, Turrubares, Costa Rica", 
+        "sw_latitude": 9.895
+      }, 
+      "id": 59514
+    }
+  ]
+}

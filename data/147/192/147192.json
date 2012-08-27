@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.726, 
+              18.374
+            ], 
+            [
+              -100.726, 
+              18.392
+            ], 
+            [
+              -100.707, 
+              18.392
+            ], 
+            [
+              -100.707, 
+              18.374
+            ], 
+            [
+              -100.726, 
+              18.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.392, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          116535, 
+          117588, 
+          120405, 
+          120531, 
+          124460, 
+          130048, 
+          147994
+        ], 
+        "woeid": 147192, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -100.707, 
+        "longitude": -100.717, 
+        "parent_woeid": 12600058, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.383, 
+        "sw_longitude": -100.726, 
+        "fullname": "Santo Domingo, Guerrero, Coyuca de Catalan, Mexico", 
+        "sw_latitude": 18.374
+      }, 
+      "id": 147192
+    }
+  ]
+}

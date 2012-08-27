@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.580, 
+              46.926
+            ], 
+            [
+              12.580, 
+              46.944
+            ], 
+            [
+              12.606, 
+              46.944
+            ], 
+            [
+              12.606, 
+              46.926
+            ], 
+            [
+              12.580, 
+              46.926
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551020, 
+        "name": "Oberpeischlach", 
+        "adjacent_woeid": [
+          550926, 
+          551006, 
+          551245, 
+          551336
+        ], 
+        "ne_latitude": 46.944, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.606, 
+        "longitude": 12.593, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675411, 
+        "latitude": 46.935, 
+        "sw_longitude": 12.580, 
+        "fullname": "Oberpeischlach, Tyrol, Lienz, Austria", 
+        "sw_latitude": 46.926
+      }, 
+      "id": 551020
+    }
+  ]
+}

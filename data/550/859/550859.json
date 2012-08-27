@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.937, 
+              47.074
+            ], 
+            [
+              10.937, 
+              47.092
+            ], 
+            [
+              10.963, 
+              47.092
+            ], 
+            [
+              10.963, 
+              47.074
+            ], 
+            [
+              10.937, 
+              47.074
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550859, 
+        "name": "Lehn", 
+        "adjacent_woeid": [
+          550527, 
+          550819, 
+          551024, 
+          28995899, 
+          56073029
+        ], 
+        "ne_latitude": 47.092, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.963, 
+        "longitude": 10.950, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:40Z", 
+        "parent_woeid": 12675357, 
+        "latitude": 47.083, 
+        "sw_longitude": 10.937, 
+        "fullname": "Lehn, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.074
+      }, 
+      "id": 550859
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.516, 
+              -31.653
+            ], 
+            [
+              -58.516, 
+              -31.600
+            ], 
+            [
+              -58.466, 
+              -31.600
+            ], 
+            [
+              -58.466, 
+              -31.653
+            ], 
+            [
+              -58.516, 
+              -31.653
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -31.600, 
+        "name": "San Salvador", 
+        "adjacent_woeid": [
+          332475, 
+          332524, 
+          464687, 
+          465442, 
+          466677, 
+          466935, 
+          466959, 
+          467583, 
+          467733, 
+          22529160, 
+          56040174
+        ], 
+        "woeid": 332898, 
+        "alias_SPA_V": [
+          "S. Salvador"
+        ], 
+        "ne_longitude": -58.466, 
+        "longitude": -58.508, 
+        "parent_woeid": 20070899, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -31.626, 
+        "sw_longitude": -58.516, 
+        "fullname": "San Salvador, Entre Rios, San Salvador, Argentina", 
+        "sw_latitude": -31.653
+      }, 
+      "id": 332898
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.320, 
+              48.347
+            ], 
+            [
+              0.320, 
+              48.370
+            ], 
+            [
+              0.363, 
+              48.370
+            ], 
+            [
+              0.363, 
+              48.347
+            ], 
+            [
+              0.320, 
+              48.347
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625293, 
+        "name": "St.-Longis", 
+        "adjacent_woeid": [
+          575553, 
+          615605, 
+          616740, 
+          631062, 
+          631404, 
+          15003219, 
+          20181322, 
+          29331218
+        ], 
+        "ne_latitude": 48.370, 
+        "ne_longitude": 0.363, 
+        "longitude": 0.348, 
+        "parent_woeid": 12670782, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Longis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.355, 
+        "sw_longitude": 0.320, 
+        "fullname": "St.-Longis, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.347
+      }, 
+      "id": 625293
+    }
+  ]
+}

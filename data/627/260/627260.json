@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.737, 
+              43.428
+            ], 
+            [
+              1.737, 
+              43.458
+            ], 
+            [
+              1.773, 
+              43.458
+            ], 
+            [
+              1.773, 
+              43.428
+            ], 
+            [
+              1.737, 
+              43.428
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627260, 
+        "name": "St.-Vincent", 
+        "adjacent_woeid": [
+          578887, 
+          583716, 
+          609080, 
+          629118, 
+          629910
+        ], 
+        "ne_latitude": 43.458, 
+        "ne_longitude": 1.773, 
+        "longitude": 1.758, 
+        "parent_woeid": 12671340, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vincent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.439, 
+        "sw_longitude": 1.737, 
+        "fullname": "St.-Vincent, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.428
+      }, 
+      "id": 627260
+    }
+  ]
+}

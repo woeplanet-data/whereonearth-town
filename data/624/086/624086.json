@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.278, 
+              46.105
+            ], 
+            [
+              0.278, 
+              46.132
+            ], 
+            [
+              0.302, 
+              46.132
+            ], 
+            [
+              0.302, 
+              46.105
+            ], 
+            [
+              0.278, 
+              46.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624086, 
+        "name": "St.-Gaudent", 
+        "adjacent_woeid": [
+          592650, 
+          608310, 
+          626406, 
+          626914, 
+          632669, 
+          29330615
+        ], 
+        "ne_latitude": 46.132, 
+        "ne_longitude": 0.302, 
+        "longitude": 0.289, 
+        "parent_woeid": 12659868, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Gaudens"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.116, 
+        "sw_longitude": 0.278, 
+        "fullname": "St.-Gaudent, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.105
+      }, 
+      "id": 624086
+    }
+  ]
+}

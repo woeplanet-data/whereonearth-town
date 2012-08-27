@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.678, 
+              48.973
+            ], 
+            [
+              2.678, 
+              49.000
+            ], 
+            [
+              2.704, 
+              49.000
+            ], 
+            [
+              2.704, 
+              48.973
+            ], 
+            [
+              2.678, 
+              48.973
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625943, 
+        "name": "St.-Mesmes", 
+        "adjacent_woeid": [
+          586669, 
+          611299, 
+          613886, 
+          628471, 
+          632350
+        ], 
+        "ne_latitude": 49.000, 
+        "ne_longitude": 2.704, 
+        "longitude": 2.696, 
+        "parent_woeid": 12652972, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mesmes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.984, 
+        "sw_longitude": 2.678, 
+        "fullname": "St.-Mesmes, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.973
+      }, 
+      "id": 625943
+    }
+  ]
+}

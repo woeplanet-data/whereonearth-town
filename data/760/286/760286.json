@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.105, 
+              41.860
+            ], 
+            [
+              2.105, 
+              41.878
+            ], 
+            [
+              2.123, 
+              41.878
+            ], 
+            [
+              2.123, 
+              41.860
+            ], 
+            [
+              2.105, 
+              41.860
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.878, 
+        "name": "Estany", 
+        "adjacent_woeid": [
+          766375, 
+          767520, 
+          767930, 
+          773845, 
+          23414431
+        ], 
+        "woeid": 760286, 
+        "alias_SPA_V": [
+          "L'estany"
+        ], 
+        "ne_longitude": 2.123, 
+        "longitude": 2.114, 
+        "parent_woeid": 12693458, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.869, 
+        "sw_longitude": 2.105, 
+        "fullname": "Estany, Catalonia, Barcelona, Spain", 
+        "sw_latitude": 41.860
+      }, 
+      "id": 760286
+    }
+  ]
+}

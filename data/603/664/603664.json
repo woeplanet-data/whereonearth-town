@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.904, 
+              49.240
+            ], 
+            [
+              -0.904, 
+              49.253
+            ], 
+            [
+              -0.873, 
+              49.253
+            ], 
+            [
+              -0.873, 
+              49.240
+            ], 
+            [
+              -0.904, 
+              49.240
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603664, 
+        "name": "Le Molay", 
+        "adjacent_woeid": [
+          577968, 
+          578489, 
+          583647, 
+          595258, 
+          620986, 
+          629344, 
+          22527893
+        ], 
+        "ne_latitude": 49.253, 
+        "ne_longitude": -0.873, 
+        "longitude": -0.883, 
+        "parent_woeid": 12646461, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Molay"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.250, 
+        "sw_longitude": -0.904, 
+        "fullname": "Le Molay, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.240
+      }, 
+      "id": 603664
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.059, 
+              45.797
+            ], 
+            [
+              -73.059, 
+              45.905
+            ], 
+            [
+              -72.921, 
+              45.905
+            ], 
+            [
+              -72.921, 
+              45.797
+            ], 
+            [
+              -73.059, 
+              45.797
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396575, 
+        "name": "St.-Louis", 
+        "adjacent_woeid": [
+          3519, 
+          23394493, 
+          23394591, 
+          23394662
+        ], 
+        "ne_latitude": 45.905, 
+        "ne_longitude": -72.921, 
+        "longitude": -72.978, 
+        "parent_woeid": 29375183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Louis"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.854, 
+        "sw_longitude": -73.059, 
+        "fullname": "St.-Louis, Quebec, Les Maskoutains, Canada", 
+        "sw_latitude": 45.797
+      }, 
+      "id": 23396575
+    }
+  ]
+}

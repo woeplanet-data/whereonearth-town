@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.506, 
+              21.823
+            ], 
+            [
+              -98.506, 
+              21.841
+            ], 
+            [
+              -98.486, 
+              21.841
+            ], 
+            [
+              -98.486, 
+              21.823
+            ], 
+            [
+              -98.506, 
+              21.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.841, 
+        "name": "Palo Prieto", 
+        "adjacent_woeid": [
+          111957, 
+          120454, 
+          120599, 
+          136224, 
+          148183
+        ], 
+        "woeid": 135801, 
+        "alias_SPA_V": [
+          "Palmar Prieto"
+        ], 
+        "ne_longitude": -98.486, 
+        "longitude": -98.496, 
+        "parent_woeid": 12601501, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.832, 
+        "sw_longitude": -98.506, 
+        "fullname": "Palo Prieto, San Luis Potosi, San Vicente Tancuayalab, Mexico", 
+        "sw_latitude": 21.823
+      }, 
+      "id": 135801
+    }
+  ]
+}

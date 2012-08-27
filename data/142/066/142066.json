@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.267, 
+              25.483
+            ], 
+            [
+              -105.267, 
+              25.501
+            ], 
+            [
+              -105.247, 
+              25.501
+            ], 
+            [
+              -105.247, 
+              25.483
+            ], 
+            [
+              -105.267, 
+              25.483
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.501, 
+        "name": "San Carlos", 
+        "adjacent_woeid": [
+          122966, 
+          123143, 
+          123977, 
+          127508, 
+          137256
+        ], 
+        "woeid": 142066, 
+        "alias_SPA_V": [
+          "S. Carlos"
+        ], 
+        "ne_longitude": -105.247, 
+        "longitude": -105.257, 
+        "parent_woeid": 12599955, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.492, 
+        "sw_longitude": -105.267, 
+        "fullname": "San Carlos, Durango, El Oro, Mexico", 
+        "sw_latitude": 25.483
+      }, 
+      "id": 142066
+    }
+  ]
+}

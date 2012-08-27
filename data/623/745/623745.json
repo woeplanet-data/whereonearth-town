@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.197, 
+              48.543
+            ], 
+            [
+              -4.197, 
+              48.578
+            ], 
+            [
+              -4.165, 
+              48.578
+            ], 
+            [
+              -4.165, 
+              48.543
+            ], 
+            [
+              -4.197, 
+              48.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623745, 
+        "name": "St.-Derrien", 
+        "adjacent_woeid": [
+          601280, 
+          616990, 
+          617023, 
+          626948, 
+          627312, 
+          20176716
+        ], 
+        "ne_latitude": 48.578, 
+        "ne_longitude": -4.165, 
+        "longitude": -4.183, 
+        "parent_woeid": 12652391, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Derrien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.548, 
+        "sw_longitude": -4.197, 
+        "fullname": "St.-Derrien, Brittany, Finistere, France", 
+        "sw_latitude": 48.543
+      }, 
+      "id": 623745
+    }
+  ]
+}

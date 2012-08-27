@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.169, 
+              49.747
+            ], 
+            [
+              1.169, 
+              49.767
+            ], 
+            [
+              1.203, 
+              49.767
+            ], 
+            [
+              1.203, 
+              49.747
+            ], 
+            [
+              1.169, 
+              49.747
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20219403, 
+        "name": "Mathonville", 
+        "adjacent_woeid": [
+          602454, 
+          613653, 
+          615130, 
+          624508
+        ], 
+        "ne_latitude": 49.767, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.203, 
+        "longitude": 1.182, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12649768, 
+        "latitude": 49.760, 
+        "sw_longitude": 1.169, 
+        "fullname": "Mathonville, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.747
+      }, 
+      "id": 20219403
+    }
+  ]
+}

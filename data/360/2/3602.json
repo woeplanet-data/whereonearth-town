@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.540, 
+              48.542
+            ], 
+            [
+              -67.540, 
+              48.697
+            ], 
+            [
+              -67.306, 
+              48.697
+            ], 
+            [
+              -67.306, 
+              48.542
+            ], 
+            [
+              -67.540, 
+              48.542
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3602, 
+        "name": "St.-Vianney", 
+        "adjacent_woeid": [
+          3601, 
+          3605, 
+          23394543, 
+          23396612
+        ], 
+        "ne_latitude": 48.697, 
+        "ne_longitude": -67.306, 
+        "longitude": -67.410, 
+        "parent_woeid": 29375200, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Vianney"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.615, 
+        "sw_longitude": -67.540, 
+        "fullname": "St.-Vianney, Quebec, La Matap\u00e9dia, Canada", 
+        "sw_latitude": 48.542
+      }, 
+      "id": 3602
+    }
+  ]
+}

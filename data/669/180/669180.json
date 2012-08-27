@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.859, 
+              50.187
+            ], 
+            [
+              10.859, 
+              50.222
+            ], 
+            [
+              10.893, 
+              50.222
+            ], 
+            [
+              10.893, 
+              50.187
+            ], 
+            [
+              10.859, 
+              50.187
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 669180, 
+        "name": "Krumbach", 
+        "adjacent_woeid": [
+          653470, 
+          678824, 
+          698537, 
+          704183, 
+          707415
+        ], 
+        "ne_latitude": 50.222, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.893, 
+        "longitude": 10.877, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:07Z", 
+        "parent_woeid": 12635296, 
+        "latitude": 50.205, 
+        "sw_longitude": 10.859, 
+        "fullname": "Krumbach, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.187
+      }, 
+      "id": 669180
+    }
+  ]
+}

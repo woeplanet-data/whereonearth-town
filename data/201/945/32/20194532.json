@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.023, 
+              43.693
+            ], 
+            [
+              2.023, 
+              43.702
+            ], 
+            [
+              2.035, 
+              43.702
+            ], 
+            [
+              2.035, 
+              43.693
+            ], 
+            [
+              2.023, 
+              43.693
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20194532, 
+        "name": "St.-Martin", 
+        "adjacent_woeid": [
+          582129, 
+          588405, 
+          611650, 
+          613438, 
+          618415, 
+          29331473
+        ], 
+        "ne_latitude": 43.702, 
+        "ne_longitude": 2.035, 
+        "longitude": 2.029, 
+        "parent_woeid": 12667338, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Martin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.697, 
+        "sw_longitude": 2.023, 
+        "fullname": "St.-Martin, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.693
+      }, 
+      "id": 20194532
+    }
+  ]
+}

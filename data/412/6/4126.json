@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.321, 
+              43.106
+            ], 
+            [
+              -79.321, 
+              43.244
+            ], 
+            [
+              -79.178, 
+              43.244
+            ], 
+            [
+              -79.178, 
+              43.106
+            ], 
+            [
+              -79.321, 
+              43.106
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 4126, 
+        "name": "St. Catharines", 
+        "adjacent_woeid": [
+          79, 
+          518, 
+          1800, 
+          23397007, 
+          23397069, 
+          23397130, 
+          23397305, 
+          23397679, 
+          23398611, 
+          23399851
+        ], 
+        "ne_latitude": 43.244, 
+        "alias_ENG_V": [
+          "Stcatharines"
+        ], 
+        "ne_longitude": -79.178, 
+        "longitude": -79.249, 
+        "parent_woeid": 29375033, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Catharines"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.156, 
+        "sw_longitude": -79.321, 
+        "fullname": "St. Catharines, Ontario, Niagara, Canada", 
+        "sw_latitude": 43.106
+      }, 
+      "id": 4126
+    }
+  ]
+}

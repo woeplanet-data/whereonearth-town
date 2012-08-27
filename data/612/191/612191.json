@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.178, 
+              45.118
+            ], 
+            [
+              5.178, 
+              45.165
+            ], 
+            [
+              5.226, 
+              45.165
+            ], 
+            [
+              5.226, 
+              45.118
+            ], 
+            [
+              5.178, 
+              45.118
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612191, 
+        "name": "Montagne", 
+        "adjacent_woeid": [
+          612919, 
+          615717, 
+          622987, 
+          623292, 
+          625081, 
+          29330103
+        ], 
+        "ne_latitude": 45.165, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.226, 
+        "longitude": 5.192, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "parent_woeid": 20075140, 
+        "latitude": 45.141, 
+        "sw_longitude": 5.178, 
+        "fullname": "Montagne, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.118
+      }, 
+      "id": 612191
+    }
+  ]
+}

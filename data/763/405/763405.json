@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.189, 
+              42.539
+            ], 
+            [
+              0.189, 
+              42.548
+            ], 
+            [
+              0.201, 
+              42.548
+            ], 
+            [
+              0.201, 
+              42.539
+            ], 
+            [
+              0.189, 
+              42.539
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.548, 
+        "name": "La Fortunada", 
+        "adjacent_woeid": [
+          753441, 
+          757308, 
+          758116, 
+          772487, 
+          773769, 
+          774162
+        ], 
+        "woeid": 763405, 
+        "alias_SPA_V": [
+          "Lafortunada"
+        ], 
+        "ne_longitude": 0.201, 
+        "longitude": 0.195, 
+        "parent_woeid": 12689573, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.544, 
+        "sw_longitude": 0.189, 
+        "fullname": "La Fortunada, Aragon, Huesca, Spain", 
+        "sw_latitude": 42.539
+      }, 
+      "id": 763405
+    }
+  ]
+}

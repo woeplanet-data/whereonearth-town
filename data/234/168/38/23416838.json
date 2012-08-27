@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.142, 
+              36.765
+            ], 
+            [
+              -5.142, 
+              36.774
+            ], 
+            [
+              -5.131, 
+              36.774
+            ], 
+            [
+              -5.131, 
+              36.765
+            ], 
+            [
+              -5.142, 
+              36.765
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 36.774, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          753067, 
+          20223344, 
+          20225143
+        ], 
+        "woeid": 23416838, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -5.131, 
+        "longitude": -5.140, 
+        "parent_woeid": 12689272, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 36.768, 
+        "sw_longitude": -5.142, 
+        "fullname": "San Diego, Andalusia, Malaga, Spain", 
+        "sw_latitude": 36.765
+      }, 
+      "id": 23416838
+    }
+  ]
+}

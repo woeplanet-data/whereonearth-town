@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.321, 
+              44.042
+            ], 
+            [
+              4.321, 
+              44.060
+            ], 
+            [
+              4.346, 
+              44.060
+            ], 
+            [
+              4.346, 
+              44.042
+            ], 
+            [
+              4.321, 
+              44.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331647, 
+        "name": "Champ des Baumes", 
+        "adjacent_woeid": [
+          575492, 
+          579237, 
+          592485, 
+          600586, 
+          622003, 
+          20203482, 
+          20203485
+        ], 
+        "ne_latitude": 44.060, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.346, 
+        "longitude": 4.334, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12654927, 
+        "latitude": 44.051, 
+        "sw_longitude": 4.321, 
+        "fullname": "Champ des Baumes, Languedoc-Roussillon, Gard, France", 
+        "sw_latitude": 44.042
+      }, 
+      "id": 29331647
+    }
+  ]
+}

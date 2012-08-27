@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.356, 
+              39.787
+            ], 
+            [
+              -77.356, 
+              39.857
+            ], 
+            [
+              -77.284, 
+              39.857
+            ], 
+            [
+              -77.284, 
+              39.787
+            ], 
+            [
+              -77.356, 
+              39.787
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745618, 
+        "name": "Highland", 
+        "adjacent_woeid": [
+          28745179, 
+          28745309, 
+          28745554, 
+          28745627
+        ], 
+        "ne_latitude": 39.857, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Highland Township"
+        ], 
+        "ne_longitude": -77.284, 
+        "longitude": -77.335, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589728, 
+        "latitude": 39.807, 
+        "sw_longitude": -77.356, 
+        "fullname": "Highland, Pennsylvania, Adams, United States", 
+        "sw_latitude": 39.787
+      }, 
+      "id": 28745618
+    }
+  ]
+}

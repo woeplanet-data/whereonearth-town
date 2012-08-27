@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.009, 
+              48.488
+            ], 
+            [
+              10.009, 
+              48.525
+            ], 
+            [
+              10.043, 
+              48.525
+            ], 
+            [
+              10.043, 
+              48.488
+            ], 
+            [
+              10.009, 
+              48.488
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 638375, 
+        "name": "Bernstadt", 
+        "adjacent_woeid": [
+          633758, 
+          636722, 
+          637566, 
+          640399, 
+          641106, 
+          661979, 
+          662499, 
+          670078, 
+          677348
+        ], 
+        "ne_latitude": 48.525, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.043, 
+        "longitude": 10.027, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:44Z", 
+        "parent_woeid": 12623687, 
+        "latitude": 48.499, 
+        "sw_longitude": 10.009, 
+        "fullname": "Bernstadt, Baden-Wurttemberg, Alb-Donau-Kreis, Germany", 
+        "sw_latitude": 48.488
+      }, 
+      "id": 638375
+    }
+  ]
+}

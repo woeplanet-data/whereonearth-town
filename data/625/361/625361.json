@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.124, 
+              48.621
+            ], 
+            [
+              -2.124, 
+              48.645
+            ], 
+            [
+              -2.078, 
+              48.645
+            ], 
+            [
+              -2.078, 
+              48.621
+            ], 
+            [
+              -2.124, 
+              48.621
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625361, 
+        "name": "St.-Lunaire", 
+        "adjacent_woeid": [
+          623342, 
+          20177605, 
+          20177610, 
+          29330722
+        ], 
+        "ne_latitude": 48.645, 
+        "ne_longitude": -2.078, 
+        "longitude": -2.107, 
+        "parent_woeid": 20074722, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lunaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.634, 
+        "sw_longitude": -2.124, 
+        "fullname": "St.-Lunaire, Brittany, Ille-et-Vilaine, France", 
+        "sw_latitude": 48.621
+      }, 
+      "id": 625361
+    }
+  ]
+}

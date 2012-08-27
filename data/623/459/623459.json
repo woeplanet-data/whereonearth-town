@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.523, 
+              46.249
+            ], 
+            [
+              4.523, 
+              46.276
+            ], 
+            [
+              4.553, 
+              46.276
+            ], 
+            [
+              4.553, 
+              46.249
+            ], 
+            [
+              4.523, 
+              46.249
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623459, 
+        "name": "St.-Christophe", 
+        "adjacent_woeid": [
+          615375, 
+          623305, 
+          625401, 
+          626510, 
+          629040
+        ], 
+        "ne_latitude": 46.276, 
+        "ne_longitude": 4.553, 
+        "longitude": 4.543, 
+        "parent_woeid": 22757534, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Christophe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.262, 
+        "sw_longitude": 4.523, 
+        "fullname": "St.-Christophe, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 46.249
+      }, 
+      "id": 623459
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.706, 
+              46.338
+            ], 
+            [
+              -0.706, 
+              46.359
+            ], 
+            [
+              -0.679, 
+              46.359
+            ], 
+            [
+              -0.679, 
+              46.338
+            ], 
+            [
+              -0.706, 
+              46.338
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626972, 
+        "name": "St.-Sigismond", 
+        "adjacent_woeid": [
+          576421, 
+          588469, 
+          603498, 
+          608027, 
+          627430
+        ], 
+        "ne_latitude": 46.359, 
+        "ne_longitude": -0.679, 
+        "longitude": -0.691, 
+        "parent_woeid": 12671241, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sigismond"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.350, 
+        "sw_longitude": -0.706, 
+        "fullname": "St.-Sigismond, Pays de la Loire, Vendee, France", 
+        "sw_latitude": 46.338
+      }, 
+      "id": 626972
+    }
+  ]
+}

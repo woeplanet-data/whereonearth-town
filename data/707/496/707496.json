@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.795, 
+              50.409
+            ], 
+            [
+              8.795, 
+              50.448
+            ], 
+            [
+              8.845, 
+              50.448
+            ], 
+            [
+              8.845, 
+              50.409
+            ], 
+            [
+              8.795, 
+              50.409
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707496, 
+        "name": "Wohnbach", 
+        "adjacent_woeid": [
+          638409, 
+          680629, 
+          683340, 
+          29348952
+        ], 
+        "ne_latitude": 50.448, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.845, 
+        "longitude": 8.828, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12632594, 
+        "latitude": 50.429, 
+        "sw_longitude": 8.795, 
+        "fullname": "Wohnbach, Hesse, Wetteraukreis, Germany", 
+        "sw_latitude": 50.409
+      }, 
+      "id": 707496
+    }
+  ]
+}

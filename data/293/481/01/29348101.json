@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.650, 
+              48.339
+            ], 
+            [
+              12.650, 
+              48.357
+            ], 
+            [
+              12.677, 
+              48.357
+            ], 
+            [
+              12.677, 
+              48.339
+            ], 
+            [
+              12.650, 
+              48.339
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29348101, 
+        "name": "Herrnholz", 
+        "adjacent_woeid": [
+          640826, 
+          666816, 
+          20152112, 
+          29348099
+        ], 
+        "ne_latitude": 48.357, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.677, 
+        "longitude": 12.664, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:32Z", 
+        "parent_woeid": 12623005, 
+        "latitude": 48.348, 
+        "sw_longitude": 12.650, 
+        "fullname": "Herrnholz, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.339
+      }, 
+      "id": 29348101
+    }
+  ]
+}

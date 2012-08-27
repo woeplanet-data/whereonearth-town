@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.330, 
+              53.585
+            ], 
+            [
+              11.330, 
+              53.614
+            ], 
+            [
+              11.366, 
+              53.614
+            ], 
+            [
+              11.366, 
+              53.585
+            ], 
+            [
+              11.330, 
+              53.585
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666570, 
+        "name": "Klein Rogahn", 
+        "adjacent_woeid": [
+          653386, 
+          654664, 
+          678793
+        ], 
+        "ne_latitude": 53.614, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.366, 
+        "longitude": 11.347, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12630749, 
+        "latitude": 53.606, 
+        "sw_longitude": 11.330, 
+        "fullname": "Klein Rogahn, Mecklenburg-Vorpommern, Landkreis Ludwigslust, Germany", 
+        "sw_latitude": 53.585
+      }, 
+      "id": 666570
+    }
+  ]
+}

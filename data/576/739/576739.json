@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.456, 
+              43.984
+            ], 
+            [
+              3.456, 
+              44.007
+            ], 
+            [
+              3.491, 
+              44.007
+            ], 
+            [
+              3.491, 
+              43.984
+            ], 
+            [
+              3.456, 
+              43.984
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 576739, 
+        "name": "Arrigas", 
+        "adjacent_woeid": [
+          576725, 
+          577274, 
+          580141, 
+          29331660
+        ], 
+        "ne_latitude": 44.007, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.491, 
+        "longitude": 3.481, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12655558, 
+        "latitude": 43.989, 
+        "sw_longitude": 3.456, 
+        "fullname": "Arrigas, Languedoc-Roussillon, Gard, France", 
+        "sw_latitude": 43.984
+      }, 
+      "id": 576739
+    }
+  ]
+}

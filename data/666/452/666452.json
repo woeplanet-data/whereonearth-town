@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.601, 
+              52.417
+            ], 
+            [
+              12.601, 
+              52.460
+            ], 
+            [
+              12.648, 
+              52.460
+            ], 
+            [
+              12.648, 
+              52.417
+            ], 
+            [
+              12.601, 
+              52.417
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666452, 
+        "name": "Klein Kreutz", 
+        "adjacent_woeid": [
+          653207, 
+          676366, 
+          690636, 
+          705606, 
+          708304
+        ], 
+        "ne_latitude": 52.460, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.648, 
+        "longitude": 12.629, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12632870, 
+        "latitude": 52.436, 
+        "sw_longitude": 12.601, 
+        "fullname": "Klein Kreutz, Brandenburg, Stadtkreis Brandenburg an der Havel, Germany", 
+        "alias_GER_V": [
+          "Klein Kreuz"
+        ], 
+        "sw_latitude": 52.417
+      }, 
+      "id": 666452
+    }
+  ]
+}

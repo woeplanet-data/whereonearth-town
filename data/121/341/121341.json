@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.841, 
+              23.072
+            ], 
+            [
+              -109.841, 
+              23.090
+            ], 
+            [
+              -109.821, 
+              23.090
+            ], 
+            [
+              -109.821, 
+              23.072
+            ], 
+            [
+              -109.841, 
+              23.072
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.090, 
+        "name": "El Paraje", 
+        "adjacent_woeid": [
+          114635, 
+          122875, 
+          128212, 
+          128602, 
+          144186, 
+          145057, 
+          145721
+        ], 
+        "woeid": 121341, 
+        "alias_SPA_V": [
+          "Paraje"
+        ], 
+        "ne_longitude": -109.821, 
+        "longitude": -109.831, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.081, 
+        "sw_longitude": -109.841, 
+        "fullname": "El Paraje, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 23.072
+      }, 
+      "id": 121341
+    }
+  ]
+}

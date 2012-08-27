@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.995, 
+              19.333
+            ], 
+            [
+              -98.995, 
+              19.390
+            ], 
+            [
+              -98.929, 
+              19.390
+            ], 
+            [
+              -98.929, 
+              19.333
+            ], 
+            [
+              -98.995, 
+              19.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.390, 
+        "name": "Los Reyes", 
+        "adjacent_woeid": [
+          116036, 
+          116564, 
+          125547, 
+          125548, 
+          133499, 
+          145851, 
+          148439, 
+          149559, 
+          151160, 
+          151658
+        ], 
+        "woeid": 132372, 
+        "alias_SPA_V": [
+          "Los Reyes acaquilpan"
+        ], 
+        "ne_longitude": -98.929, 
+        "longitude": -98.962, 
+        "parent_woeid": 2346278, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.360, 
+        "sw_longitude": -98.995, 
+        "fullname": "Los Reyes, Mexico, La Paz, Mexico", 
+        "sw_latitude": 19.333
+      }, 
+      "id": 132372
+    }
+  ]
+}

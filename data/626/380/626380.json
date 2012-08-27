@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.640, 
+              43.609
+            ], 
+            [
+              1.640, 
+              43.643
+            ], 
+            [
+              1.676, 
+              43.643
+            ], 
+            [
+              1.676, 
+              43.609
+            ], 
+            [
+              1.640, 
+              43.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626380, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          592515, 
+          601809, 
+          625457
+        ], 
+        "ne_latitude": 43.643, 
+        "ne_longitude": 1.676, 
+        "longitude": 1.649, 
+        "parent_woeid": 12671101, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.631, 
+        "sw_longitude": 1.640, 
+        "fullname": "St.-Pierre, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.609
+      }, 
+      "id": 626380
+    }
+  ]
+}

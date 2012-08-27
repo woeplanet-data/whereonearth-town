@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.430, 
+              43.858
+            ], 
+            [
+              0.430, 
+              43.896
+            ], 
+            [
+              0.485, 
+              43.896
+            ], 
+            [
+              0.485, 
+              43.858
+            ], 
+            [
+              0.430, 
+              43.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626628, 
+        "name": "St.-Puy", 
+        "adjacent_woeid": [
+          575532, 
+          599974, 
+          601563, 
+          609279, 
+          610402, 
+          626125
+        ], 
+        "ne_latitude": 43.896, 
+        "ne_longitude": 0.485, 
+        "longitude": 0.458, 
+        "parent_woeid": 12671138, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Puy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.878, 
+        "sw_longitude": 0.430, 
+        "fullname": "St.-Puy, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.858
+      }, 
+      "id": 626628
+    }
+  ]
+}

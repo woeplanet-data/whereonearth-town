@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.816, 
+              26.310
+            ], 
+            [
+              -104.816, 
+              26.329
+            ], 
+            [
+              -104.796, 
+              26.329
+            ], 
+            [
+              -104.796, 
+              26.310
+            ], 
+            [
+              -104.816, 
+              26.310
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.329, 
+        "name": "San Fermin", 
+        "adjacent_woeid": [
+          121569, 
+          127077, 
+          129674, 
+          142772, 
+          143813, 
+          150836, 
+          150878
+        ], 
+        "woeid": 142387, 
+        "alias_SPA_V": [
+          "S Fermin"
+        ], 
+        "ne_longitude": -104.796, 
+        "longitude": -104.806, 
+        "parent_woeid": 12599960, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.319, 
+        "sw_longitude": -104.816, 
+        "fullname": "San Fermin, Durango, Hidalgo, Mexico", 
+        "sw_latitude": 26.310
+      }, 
+      "id": 142387
+    }
+  ]
+}

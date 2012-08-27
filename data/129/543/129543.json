@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.793, 
+              21.108
+            ], 
+            [
+              -100.793, 
+              21.126
+            ], 
+            [
+              -100.774, 
+              21.126
+            ], 
+            [
+              -100.774, 
+              21.108
+            ], 
+            [
+              -100.793, 
+              21.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.126, 
+        "name": "La Venta", 
+        "adjacent_woeid": [
+          125727, 
+          126578, 
+          131884, 
+          141831, 
+          149035
+        ], 
+        "woeid": 129543, 
+        "alias_SPA_V": [
+          "Venta"
+        ], 
+        "ne_longitude": -100.774, 
+        "longitude": -100.783, 
+        "parent_woeid": 12600002, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.117, 
+        "sw_longitude": -100.793, 
+        "fullname": "La Venta, Guanajuato, Dolores Hidalgo, Mexico", 
+        "sw_latitude": 21.108
+      }, 
+      "id": 129543
+    }
+  ]
+}

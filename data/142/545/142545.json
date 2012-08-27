@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.193, 
+              19.708
+            ], 
+            [
+              -103.193, 
+              19.726
+            ], 
+            [
+              -103.174, 
+              19.726
+            ], 
+            [
+              -103.174, 
+              19.708
+            ], 
+            [
+              -103.193, 
+              19.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.726, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          117178, 
+          127526, 
+          134496, 
+          141693, 
+          145514, 
+          55897222
+        ], 
+        "woeid": 142545, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -103.174, 
+        "longitude": -103.183, 
+        "parent_woeid": 12600279, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.717, 
+        "sw_longitude": -103.193, 
+        "fullname": "San Francisco, Jalisco, Tamazula de Gordiano, Mexico", 
+        "sw_latitude": 19.708
+      }, 
+      "id": 142545
+    }
+  ]
+}

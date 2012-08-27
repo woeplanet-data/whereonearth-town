@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -65.256, 
+              -27.662
+            ], 
+            [
+              -65.256, 
+              -27.644
+            ], 
+            [
+              -65.235, 
+              -27.644
+            ], 
+            [
+              -65.235, 
+              -27.662
+            ], 
+            [
+              -65.256, 
+              -27.662
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -27.644, 
+        "name": "La Madrid", 
+        "adjacent_woeid": [
+          332923, 
+          465553, 
+          465887, 
+          466501, 
+          468880
+        ], 
+        "woeid": 467283, 
+        "alias_SPA_V": [
+          "General Lamadrid"
+        ], 
+        "ne_longitude": -65.235, 
+        "longitude": -65.245, 
+        "parent_woeid": 20070868, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:03Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -27.653, 
+        "sw_longitude": -65.256, 
+        "fullname": "La Madrid, Tucuman, Graneros, Argentina", 
+        "sw_latitude": -27.662
+      }, 
+      "id": 467283
+    }
+  ]
+}

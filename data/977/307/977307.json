@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.145, 
+              50.445
+            ], 
+            [
+              4.145, 
+              50.463
+            ], 
+            [
+              4.174, 
+              50.463
+            ], 
+            [
+              4.174, 
+              50.445
+            ], 
+            [
+              4.145, 
+              50.445
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977307, 
+        "name": "St.-Vaast", 
+        "adjacent_woeid": [
+          970539, 
+          975515, 
+          977950, 
+          29374907
+        ], 
+        "ne_latitude": 50.463, 
+        "ne_longitude": 4.174, 
+        "longitude": 4.160, 
+        "parent_woeid": 12602470, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Vaast"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.454, 
+        "sw_longitude": 4.145, 
+        "fullname": "St.-Vaast, Hainault, Soignies, Belgium", 
+        "sw_latitude": 50.445
+      }, 
+      "id": 977307
+    }
+  ]
+}

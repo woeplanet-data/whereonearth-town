@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              24.617, 
+              61.706
+            ], 
+            [
+              24.617, 
+              61.745
+            ], 
+            [
+              24.699, 
+              61.745
+            ], 
+            [
+              24.699, 
+              61.706
+            ], 
+            [
+              24.617, 
+              61.706
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FIN", 
+        "woeid": 573740, 
+        "name": "Talviainen", 
+        "adjacent_woeid": [
+          564593, 
+          564950, 
+          566425, 
+          568719, 
+          568734, 
+          570697, 
+          571374, 
+          572273, 
+          572619, 
+          574374, 
+          574732, 
+          23408864, 
+          23409065, 
+          23409663, 
+          25947090, 
+          25947133, 
+          25947998
+        ], 
+        "ne_latitude": 61.745, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 24.699, 
+        "longitude": 24.658, 
+        "placetype": "Town", 
+        "iso": "FI", 
+        "date_indexed": "2010-12-02T16:40:56Z", 
+        "alias_FIN_V": [
+          "Talviaistaipale"
+        ], 
+        "parent_woeid": 12590677, 
+        "latitude": 61.725, 
+        "sw_longitude": 24.617, 
+        "fullname": "Talviainen, Western Finland, Pirkanmaan maakunta, Finland", 
+        "sw_latitude": 61.706
+      }, 
+      "id": 573740
+    }
+  ]
+}

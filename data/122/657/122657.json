@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.043, 
+              20.608
+            ], 
+            [
+              -100.043, 
+              20.626
+            ], 
+            [
+              -100.024, 
+              20.626
+            ], 
+            [
+              -100.024, 
+              20.608
+            ], 
+            [
+              -100.043, 
+              20.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.626, 
+        "name": "El Tejocote", 
+        "adjacent_woeid": [
+          111689, 
+          120319, 
+          123802, 
+          127487, 
+          127987, 
+          130160
+        ], 
+        "woeid": 122657, 
+        "alias_SPA_V": [
+          "Tejolote"
+        ], 
+        "ne_longitude": -100.024, 
+        "longitude": -100.033, 
+        "parent_woeid": 12601460, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.617, 
+        "sw_longitude": -100.043, 
+        "fullname": "El Tejocote, Queretaro de Arteaga, Tequisquiapan, Mexico", 
+        "sw_latitude": 20.608
+      }, 
+      "id": 122657
+    }
+  ]
+}

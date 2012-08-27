@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.515, 
+              48.254
+            ], 
+            [
+              10.515, 
+              48.272
+            ], 
+            [
+              10.542, 
+              48.272
+            ], 
+            [
+              10.542, 
+              48.254
+            ], 
+            [
+              10.515, 
+              48.254
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658876, 
+        "name": "Hellersberg", 
+        "adjacent_woeid": [
+          637202, 
+          674737, 
+          676990, 
+          677032
+        ], 
+        "ne_latitude": 48.272, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.542, 
+        "longitude": 10.529, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12634852, 
+        "latitude": 48.263, 
+        "sw_longitude": 10.515, 
+        "fullname": "Hellersberg, Bavaria, Landkreis G\u00fcnzburg, Germany", 
+        "sw_latitude": 48.254
+      }, 
+      "id": 658876
+    }
+  ]
+}

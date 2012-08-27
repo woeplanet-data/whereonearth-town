@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.500, 
+              48.505
+            ], 
+            [
+              11.500, 
+              48.525
+            ], 
+            [
+              11.523, 
+              48.525
+            ], 
+            [
+              11.523, 
+              48.505
+            ], 
+            [
+              11.500, 
+              48.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687815, 
+        "name": "Reisgang", 
+        "adjacent_woeid": [
+          659689, 
+          685840, 
+          29347850
+        ], 
+        "ne_latitude": 48.525, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.523, 
+        "longitude": 11.509, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:41Z", 
+        "parent_woeid": 12634673, 
+        "latitude": 48.515, 
+        "sw_longitude": 11.500, 
+        "fullname": "Reisgang, Bavaria, Landkreis Pfaffenhofen an der Ilm, Germany", 
+        "sw_latitude": 48.505
+      }, 
+      "id": 687815
+    }
+  ]
+}

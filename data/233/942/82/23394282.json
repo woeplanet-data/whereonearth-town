@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.556, 
+              45.570
+            ], 
+            [
+              -74.556, 
+              45.760
+            ], 
+            [
+              -74.328, 
+              45.760
+            ], 
+            [
+              -74.328, 
+              45.570
+            ], 
+            [
+              -74.556, 
+              45.570
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394282, 
+        "name": "Chatham", 
+        "adjacent_woeid": [
+          176, 
+          606, 
+          1391, 
+          1611, 
+          3526, 
+          3540, 
+          23394557, 
+          23394672, 
+          23396945, 
+          23397084
+        ], 
+        "ne_latitude": 45.760, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -74.328, 
+        "longitude": -74.442, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "parent_woeid": 29375247, 
+        "latitude": 45.665, 
+        "sw_longitude": -74.556, 
+        "fullname": "Chatham, Quebec, Argenteuil, Canada", 
+        "sw_latitude": 45.570
+      }, 
+      "id": 23394282
+    }
+  ]
+}

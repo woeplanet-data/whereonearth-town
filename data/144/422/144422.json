@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.339, 
+              27.060
+            ], 
+            [
+              -106.339, 
+              27.078
+            ], 
+            [
+              -106.319, 
+              27.078
+            ], 
+            [
+              -106.319, 
+              27.060
+            ], 
+            [
+              -106.339, 
+              27.060
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.078, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          111597, 
+          113008, 
+          113057, 
+          122876, 
+          126106, 
+          130301
+        ], 
+        "woeid": 144422, 
+        "alias_SPA_V": [
+          "S Mateo"
+        ], 
+        "ne_longitude": -106.319, 
+        "longitude": -106.329, 
+        "parent_woeid": 12599840, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.069, 
+        "sw_longitude": -106.339, 
+        "fullname": "San Mateo, Chihuahua, El Tule, Mexico", 
+        "sw_latitude": 27.060
+      }, 
+      "id": 144422
+    }
+  ]
+}

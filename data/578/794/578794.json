@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.995, 
+              43.628
+            ], 
+            [
+              0.995, 
+              43.664
+            ], 
+            [
+              1.040, 
+              43.664
+            ], 
+            [
+              1.040, 
+              43.628
+            ], 
+            [
+              0.995, 
+              43.628
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578794, 
+        "name": "Beaupuy", 
+        "adjacent_woeid": [
+          586247, 
+          611844, 
+          618919, 
+          619966
+        ], 
+        "ne_latitude": 43.664, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.040, 
+        "longitude": 1.005, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12656539, 
+        "latitude": 43.643, 
+        "sw_longitude": 0.995, 
+        "fullname": "Beaupuy, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.628
+      }, 
+      "id": 578794
+    }
+  ]
+}

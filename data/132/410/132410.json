@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.377, 
+              23.874
+            ], 
+            [
+              -99.377, 
+              23.892
+            ], 
+            [
+              -99.357, 
+              23.892
+            ], 
+            [
+              -99.357, 
+              23.874
+            ], 
+            [
+              -99.377, 
+              23.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.892, 
+        "name": "Los San Pedro", 
+        "adjacent_woeid": [
+          117243, 
+          119585, 
+          121208, 
+          126485, 
+          134544, 
+          149435, 
+          150751
+        ], 
+        "woeid": 132410, 
+        "alias_SPA_V": [
+          "Los S. Pedro"
+        ], 
+        "ne_longitude": -99.357, 
+        "longitude": -99.367, 
+        "parent_woeid": 12601672, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.883, 
+        "sw_longitude": -99.377, 
+        "fullname": "Los San Pedro, Tamaulipas, Victoria, Mexico", 
+        "sw_latitude": 23.874
+      }, 
+      "id": 132410
+    }
+  ]
+}

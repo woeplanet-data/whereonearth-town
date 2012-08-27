@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.330, 
+              22.101
+            ], 
+            [
+              -105.330, 
+              22.119
+            ], 
+            [
+              -105.310, 
+              22.119
+            ], 
+            [
+              -105.310, 
+              22.101
+            ], 
+            [
+              -105.330, 
+              22.101
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.119, 
+        "name": "San Miguelito", 
+        "adjacent_woeid": [
+          112216, 
+          120863, 
+          121435, 
+          136492, 
+          137592
+        ], 
+        "woeid": 144715, 
+        "alias_SPA_V": [
+          "S. Miguelito"
+        ], 
+        "ne_longitude": -105.310, 
+        "longitude": -105.320, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.110, 
+        "sw_longitude": -105.330, 
+        "fullname": "San Miguelito, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 22.101
+      }, 
+      "id": 144715
+    }
+  ]
+}

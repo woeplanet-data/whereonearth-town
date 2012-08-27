@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.559, 
+              39.839
+            ], 
+            [
+              -75.559, 
+              39.912
+            ], 
+            [
+              -75.465, 
+              39.912
+            ], 
+            [
+              -75.465, 
+              39.839
+            ], 
+            [
+              -75.559, 
+              39.839
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745185, 
+        "name": "Concord", 
+        "adjacent_woeid": [
+          2361032, 
+          2368195, 
+          2384040, 
+          2384054, 
+          2391696, 
+          2515551, 
+          28745635
+        ], 
+        "ne_latitude": 39.912, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Concord Township"
+        ], 
+        "ne_longitude": -75.465, 
+        "longitude": -75.510, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589750, 
+        "latitude": 39.868, 
+        "sw_longitude": -75.559, 
+        "fullname": "Concord, Pennsylvania, Delaware, United States", 
+        "sw_latitude": 39.839
+      }, 
+      "id": 28745185
+    }
+  ]
+}

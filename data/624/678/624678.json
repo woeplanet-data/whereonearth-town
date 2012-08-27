@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.626, 
+              45.388
+            ], 
+            [
+              1.626, 
+              45.411
+            ], 
+            [
+              1.656, 
+              45.411
+            ], 
+            [
+              1.656, 
+              45.388
+            ], 
+            [
+              1.626, 
+              45.388
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624678, 
+        "name": "St.-Jal", 
+        "adjacent_woeid": [
+          590052, 
+          600875, 
+          616553, 
+          29332620
+        ], 
+        "ne_latitude": 45.411, 
+        "ne_longitude": 1.656, 
+        "longitude": 1.643, 
+        "parent_woeid": 12665460, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Jal"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.397, 
+        "sw_longitude": 1.626, 
+        "fullname": "St.-Jal, Limousin, Correze, France", 
+        "sw_latitude": 45.388
+      }, 
+      "id": 624678
+    }
+  ]
+}

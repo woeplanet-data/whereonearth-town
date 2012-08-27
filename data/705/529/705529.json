@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.235, 
+              50.962
+            ], 
+            [
+              12.235, 
+              50.988
+            ], 
+            [
+              12.256, 
+              50.988
+            ], 
+            [
+              12.256, 
+              50.962
+            ], 
+            [
+              12.235, 
+              50.962
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705529, 
+        "name": "Wernsdorf", 
+        "adjacent_woeid": [
+          641359, 
+          677224, 
+          681580, 
+          689029
+        ], 
+        "ne_latitude": 50.988, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.256, 
+        "longitude": 12.249, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12625558, 
+        "latitude": 50.975, 
+        "sw_longitude": 12.235, 
+        "fullname": "Wernsdorf, Thuringia, Altenburg, Germany", 
+        "sw_latitude": 50.962
+      }, 
+      "id": 705529
+    }
+  ]
+}

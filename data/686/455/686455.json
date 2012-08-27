@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.111, 
+              54.439
+            ], 
+            [
+              10.111, 
+              54.457
+            ], 
+            [
+              10.142, 
+              54.457
+            ], 
+            [
+              10.142, 
+              54.439
+            ], 
+            [
+              10.111, 
+              54.439
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 686455, 
+        "name": "Rabendorf", 
+        "adjacent_woeid": [
+          691497, 
+          695933, 
+          20164082, 
+          29351440
+        ], 
+        "ne_latitude": 54.457, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.142, 
+        "longitude": 10.126, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:35Z", 
+        "parent_woeid": 12631455, 
+        "latitude": 54.448, 
+        "sw_longitude": 10.111, 
+        "fullname": "Rabendorf, Schleswig-Holstein, Rendsburg, Germany", 
+        "sw_latitude": 54.439
+      }, 
+      "id": 686455
+    }
+  ]
+}

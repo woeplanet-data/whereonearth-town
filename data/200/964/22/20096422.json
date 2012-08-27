@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.667, 
+              47.195
+            ], 
+            [
+              10.667, 
+              47.213
+            ], 
+            [
+              10.694, 
+              47.213
+            ], 
+            [
+              10.694, 
+              47.195
+            ], 
+            [
+              10.667, 
+              47.195
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20096422, 
+        "name": "Mils-Au", 
+        "adjacent_woeid": [
+          550659, 
+          550753, 
+          550754, 
+          550914
+        ], 
+        "ne_latitude": 47.213, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.694, 
+        "longitude": 10.681, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:28Z", 
+        "parent_woeid": 12675566, 
+        "latitude": 47.204, 
+        "sw_longitude": 10.667, 
+        "fullname": "Mils-Au, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.195
+      }, 
+      "id": 20096422
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.325, 
+              51.239
+            ], 
+            [
+              1.325, 
+              51.249
+            ], 
+            [
+              1.339, 
+              51.249
+            ], 
+            [
+              1.339, 
+              51.239
+            ], 
+            [
+              1.325, 
+              51.239
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 22246, 
+        "name": "Ham", 
+        "adjacent_woeid": [
+          12478, 
+          19226, 
+          20196, 
+          22091, 
+          30606, 
+          41000, 
+          41163
+        ], 
+        "ne_latitude": 51.249, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.339, 
+        "longitude": 1.332, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:21Z", 
+        "parent_woeid": 12695988, 
+        "latitude": 51.244, 
+        "sw_longitude": 1.325, 
+        "fullname": "Ham, England, Kent, United Kingdom", 
+        "sw_latitude": 51.239
+      }, 
+      "id": 22246
+    }
+  ]
+}

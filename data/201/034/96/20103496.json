@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.724, 
+              47.340
+            ], 
+            [
+              8.724, 
+              47.350
+            ], 
+            [
+              8.743, 
+              47.350
+            ], 
+            [
+              8.743, 
+              47.340
+            ], 
+            [
+              8.724, 
+              47.340
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20103496, 
+        "name": "Oberuster", 
+        "adjacent_woeid": [
+          20102151, 
+          20103346, 
+          20103548, 
+          20104353
+        ], 
+        "ne_latitude": 47.350, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.743, 
+        "longitude": 8.731, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12683596, 
+        "latitude": 47.345, 
+        "sw_longitude": 8.724, 
+        "fullname": "Oberuster, Canton of Zurich, Uster, Switzerland", 
+        "sw_latitude": 47.340
+      }, 
+      "id": 20103496
+    }
+  ]
+}

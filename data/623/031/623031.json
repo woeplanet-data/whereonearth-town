@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.648, 
+              49.512
+            ], 
+            [
+              0.648, 
+              49.554
+            ], 
+            [
+              0.682, 
+              49.554
+            ], 
+            [
+              0.682, 
+              49.512
+            ], 
+            [
+              0.648, 
+              49.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623031, 
+        "name": "St.-Arnoult", 
+        "adjacent_woeid": [
+          576237, 
+          593411, 
+          610556, 
+          624438, 
+          626079, 
+          631945, 
+          20219405
+        ], 
+        "ne_latitude": 49.554, 
+        "ne_longitude": 0.682, 
+        "longitude": 0.667, 
+        "parent_woeid": 12645271, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Arnoult"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.528, 
+        "sw_longitude": 0.648, 
+        "fullname": "St.-Arnoult, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.512
+      }, 
+      "id": 623031
+    }
+  ]
+}

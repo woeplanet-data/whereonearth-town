@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.294, 
+              46.354
+            ], 
+            [
+              -87.294, 
+              46.372
+            ], 
+            [
+              -87.268, 
+              46.372
+            ], 
+            [
+              -87.268, 
+              46.354
+            ], 
+            [
+              -87.294, 
+              46.354
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28743767, 
+        "name": "West Branch", 
+        "adjacent_woeid": [
+          2375069, 
+          2375880, 
+          2473370, 
+          2524489, 
+          28743799
+        ], 
+        "ne_latitude": 46.372, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "W Br"
+        ], 
+        "ne_longitude": -87.268, 
+        "longitude": -87.281, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:35:50Z", 
+        "parent_woeid": 12588765, 
+        "latitude": 46.363, 
+        "sw_longitude": -87.294, 
+        "fullname": "West Branch, Michigan, Marquette, United States", 
+        "sw_latitude": 46.354
+      }, 
+      "id": 28743767
+    }
+  ]
+}

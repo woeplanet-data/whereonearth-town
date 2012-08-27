@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.372, 
+              13.655
+            ], 
+            [
+              -87.372, 
+              13.673
+            ], 
+            [
+              -87.353, 
+              13.673
+            ], 
+            [
+              -87.353, 
+              13.655
+            ], 
+            [
+              -87.372, 
+              13.655
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.673, 
+        "name": "San Antonio de Flores", 
+        "adjacent_woeid": [
+          103610, 
+          105434, 
+          105756, 
+          106550, 
+          106819, 
+          107513
+        ], 
+        "woeid": 106668, 
+        "alias_SPA_V": [
+          "S Antonio de Flores"
+        ], 
+        "ne_longitude": -87.353, 
+        "longitude": -87.362, 
+        "parent_woeid": 26813764, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.664, 
+        "sw_longitude": -87.372, 
+        "fullname": "San Antonio de Flores, Choluteca, San Antonio de Flores, Honduras", 
+        "sw_latitude": 13.655
+      }, 
+      "id": 106668
+    }
+  ]
+}

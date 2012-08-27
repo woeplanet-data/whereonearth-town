@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.910, 
+              18.891
+            ], 
+            [
+              -99.910, 
+              18.909
+            ], 
+            [
+              -99.890, 
+              18.909
+            ], 
+            [
+              -99.890, 
+              18.891
+            ], 
+            [
+              -99.910, 
+              18.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.909, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          111006, 
+          114757, 
+          125568, 
+          141391, 
+          145142, 
+          149019
+        ], 
+        "woeid": 142553, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -99.890, 
+        "longitude": -99.900, 
+        "parent_woeid": 12600321, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.900, 
+        "sw_longitude": -99.910, 
+        "fullname": "San Francisco, Mexico, Almoloya de Alquisiras, Mexico", 
+        "sw_latitude": 18.891
+      }, 
+      "id": 142553
+    }
+  ]
+}

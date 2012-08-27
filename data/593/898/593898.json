@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.617, 
+              45.037
+            ], 
+            [
+              0.617, 
+              45.073
+            ], 
+            [
+              0.652, 
+              45.073
+            ], 
+            [
+              0.652, 
+              45.037
+            ], 
+            [
+              0.617, 
+              45.037
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593898, 
+        "name": "Grun-Bordas", 
+        "adjacent_woeid": [
+          580772, 
+          581317, 
+          587920, 
+          589134, 
+          609739, 
+          625892, 
+          626278
+        ], 
+        "ne_latitude": 45.073, 
+        "ne_longitude": 0.652, 
+        "longitude": 0.635, 
+        "parent_woeid": 12639370, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Grun"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.056, 
+        "sw_longitude": 0.617, 
+        "fullname": "Grun-Bordas, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.037
+      }, 
+      "id": 593898
+    }
+  ]
+}

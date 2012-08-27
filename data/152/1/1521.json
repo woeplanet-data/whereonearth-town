@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.657, 
+              45.879
+            ], 
+            [
+              -73.657, 
+              46.014
+            ], 
+            [
+              -73.496, 
+              46.014
+            ], 
+            [
+              -73.496, 
+              45.879
+            ], 
+            [
+              -73.657, 
+              45.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1521, 
+        "name": "St.-Jacques", 
+        "adjacent_woeid": [
+          343, 
+          23394287, 
+          23396490, 
+          23396533, 
+          23396574, 
+          29374323, 
+          29374650
+        ], 
+        "ne_latitude": 46.014, 
+        "ne_longitude": -73.496, 
+        "longitude": -73.573, 
+        "parent_woeid": 29375133, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jacques"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.946, 
+        "sw_longitude": -73.657, 
+        "fullname": "St.-Jacques, Quebec, Montcalm, Canada", 
+        "sw_latitude": 45.879
+      }, 
+      "id": 1521
+    }
+  ]
+}

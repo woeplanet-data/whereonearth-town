@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.258, 
+              20.670
+            ], 
+            [
+              -103.258, 
+              20.688
+            ], 
+            [
+              -103.239, 
+              20.688
+            ], 
+            [
+              -103.239, 
+              20.670
+            ], 
+            [
+              -103.258, 
+              20.670
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.688, 
+        "name": "San Gaspar", 
+        "adjacent_woeid": [
+          116790, 
+          117590, 
+          127102
+        ], 
+        "woeid": 142715, 
+        "alias_SPA_V": [
+          "S. Gaspar de las Flores"
+        ], 
+        "ne_longitude": -103.239, 
+        "longitude": -103.248, 
+        "parent_woeid": 12600295, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.679, 
+        "sw_longitude": -103.258, 
+        "fullname": "San Gaspar, Jalisco, Tonala, Mexico", 
+        "sw_latitude": 20.670
+      }, 
+      "id": 142715
+    }
+  ]
+}

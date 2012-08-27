@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.327, 
+              40.076
+            ], 
+            [
+              -75.327, 
+              40.143
+            ], 
+            [
+              -75.260, 
+              40.143
+            ], 
+            [
+              -75.260, 
+              40.076
+            ], 
+            [
+              -75.327, 
+              40.076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745157, 
+        "name": "Plymouth", 
+        "adjacent_woeid": [
+          2364838, 
+          2415591, 
+          2516849, 
+          2519735, 
+          23417996, 
+          28340094, 
+          28745154, 
+          28745158
+        ], 
+        "ne_latitude": 40.143, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Plymouth Township"
+        ], 
+        "ne_longitude": -75.260, 
+        "longitude": -75.308, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589773, 
+        "latitude": 40.129, 
+        "sw_longitude": -75.327, 
+        "fullname": "Plymouth, Pennsylvania, Montgomery, United States", 
+        "sw_latitude": 40.076
+      }, 
+      "id": 28745157
+    }
+  ]
+}

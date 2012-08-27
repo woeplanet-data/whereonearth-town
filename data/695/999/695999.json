@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.573, 
+              50.444
+            ], 
+            [
+              10.573, 
+              50.467
+            ], 
+            [
+              10.620, 
+              50.467
+            ], 
+            [
+              10.620, 
+              50.444
+            ], 
+            [
+              10.573, 
+              50.444
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 695999, 
+        "name": "St. Bernhard", 
+        "adjacent_woeid": [
+          637570, 
+          644767, 
+          680641, 
+          688175
+        ], 
+        "ne_latitude": 50.467, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.620, 
+        "longitude": 10.597, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12625126, 
+        "latitude": 50.461, 
+        "sw_longitude": 10.573, 
+        "fullname": "St. Bernhard, Thuringia, Landkreis Hildburghausen, Germany", 
+        "alias_GER_V": [
+          "St Bernhard"
+        ], 
+        "sw_latitude": 50.444
+      }, 
+      "id": 695999
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.993, 
+              23.808
+            ], 
+            [
+              -99.993, 
+              23.826
+            ], 
+            [
+              -99.973, 
+              23.826
+            ], 
+            [
+              -99.973, 
+              23.808
+            ], 
+            [
+              -99.993, 
+              23.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.826, 
+        "name": "San Juan de la Cruz", 
+        "adjacent_woeid": [
+          111100, 
+          126052, 
+          126502, 
+          141872, 
+          146318, 
+          148233
+        ], 
+        "woeid": 143882, 
+        "alias_SPA_V": [
+          "S Juan de la Cruz"
+        ], 
+        "ne_longitude": -99.973, 
+        "longitude": -99.983, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.817, 
+        "sw_longitude": -99.993, 
+        "fullname": "San Juan de la Cruz, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.808
+      }, 
+      "id": 143882
+    }
+  ]
+}

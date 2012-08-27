@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.463, 
+              18.006
+            ], 
+            [
+              -94.463, 
+              18.024
+            ], 
+            [
+              -94.444, 
+              18.024
+            ], 
+            [
+              -94.444, 
+              18.006
+            ], 
+            [
+              -94.463, 
+              18.006
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.024, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          132932, 
+          134304, 
+          141714, 
+          149321, 
+          26802996
+        ], 
+        "woeid": 142564, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -94.444, 
+        "longitude": -94.453, 
+        "parent_woeid": 12601830, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.015, 
+        "sw_longitude": -94.463, 
+        "fullname": "San Francisco, Veracruz-Llave, Minatitlan, Mexico", 
+        "sw_latitude": 18.006
+      }, 
+      "id": 142564
+    }
+  ]
+}

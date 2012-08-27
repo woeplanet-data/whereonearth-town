@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.673, 
+              40.784
+            ], 
+            [
+              0.673, 
+              40.845
+            ], 
+            [
+              0.739, 
+              40.845
+            ], 
+            [
+              0.739, 
+              40.784
+            ], 
+            [
+              0.673, 
+              40.784
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.845, 
+        "name": "Ampolla", 
+        "adjacent_woeid": [
+          763004, 
+          763189, 
+          769980, 
+          779255, 
+          20220548, 
+          20221278, 
+          20222596, 
+          22661071
+        ], 
+        "woeid": 763005, 
+        "alias_SPA_V": [
+          "La Ampolla"
+        ], 
+        "ne_longitude": 0.739, 
+        "longitude": 0.711, 
+        "parent_woeid": 12694151, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.812, 
+        "sw_longitude": 0.673, 
+        "fullname": "Ampolla, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 40.784
+      }, 
+      "id": 763005
+    }
+  ]
+}

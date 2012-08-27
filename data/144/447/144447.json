@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.110, 
+              17.391
+            ], 
+            [
+              -97.110, 
+              17.409
+            ], 
+            [
+              -97.090, 
+              17.409
+            ], 
+            [
+              -97.090, 
+              17.391
+            ], 
+            [
+              -97.110, 
+              17.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.409, 
+        "name": "San Mateo Sosola", 
+        "adjacent_woeid": [
+          132673, 
+          143137, 
+          145823, 
+          146571, 
+          147074, 
+          151696
+        ], 
+        "woeid": 144447, 
+        "alias_SPA_V": [
+          "Sosola S. Mateo"
+        ], 
+        "ne_longitude": -97.090, 
+        "longitude": -97.100, 
+        "parent_woeid": 12600819, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.400, 
+        "sw_longitude": -97.110, 
+        "fullname": "San Mateo Sosola, Oaxaca, San Jeronimo Sosola, Mexico", 
+        "sw_latitude": 17.391
+      }, 
+      "id": 144447
+    }
+  ]
+}

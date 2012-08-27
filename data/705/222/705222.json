@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.137, 
+              53.021
+            ], 
+            [
+              13.137, 
+              53.054
+            ], 
+            [
+              13.165, 
+              53.054
+            ], 
+            [
+              13.165, 
+              53.021
+            ], 
+            [
+              13.137, 
+              53.021
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705222, 
+        "name": "Wendefeld", 
+        "adjacent_woeid": [
+          634771, 
+          678743, 
+          678749, 
+          687125, 
+          707730
+        ], 
+        "ne_latitude": 53.054, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.165, 
+        "longitude": 13.159, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 24547260, 
+        "latitude": 53.035, 
+        "sw_longitude": 13.137, 
+        "fullname": "Wendefeld, Brandenburg, Oberhavel, Germany", 
+        "sw_latitude": 53.021
+      }, 
+      "id": 705222
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.371, 
+              24.469
+            ], 
+            [
+              -103.371, 
+              24.481
+            ], 
+            [
+              -103.358, 
+              24.481
+            ], 
+            [
+              -103.358, 
+              24.469
+            ], 
+            [
+              -103.371, 
+              24.469
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.481, 
+        "name": "Santa Clara", 
+        "adjacent_woeid": [
+          116557, 
+          118201, 
+          121085, 
+          123991, 
+          125700, 
+          134494, 
+          134576, 
+          136445, 
+          140639, 
+          141128, 
+          141806, 
+          144259, 
+          145539, 
+          149893
+        ], 
+        "woeid": 145892, 
+        "alias_SPA_V": [
+          "Sta. Clara"
+        ], 
+        "ne_longitude": -103.358, 
+        "longitude": -103.364, 
+        "parent_woeid": 12599981, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.475, 
+        "sw_longitude": -103.371, 
+        "fullname": "Santa Clara, Durango, Santa Clara, Mexico", 
+        "sw_latitude": 24.469
+      }, 
+      "id": 145892
+    }
+  ]
+}

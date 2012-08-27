@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.209, 
+              50.585
+            ], 
+            [
+              10.209, 
+              50.625
+            ], 
+            [
+              10.240, 
+              50.625
+            ], 
+            [
+              10.240, 
+              50.585
+            ], 
+            [
+              10.209, 
+              50.585
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 681531, 
+        "name": "Oberkatz", 
+        "adjacent_woeid": [
+          635651, 
+          651725, 
+          682923, 
+          701126, 
+          707482
+        ], 
+        "ne_latitude": 50.625, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.240, 
+        "longitude": 10.224, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:07Z", 
+        "parent_woeid": 12624945, 
+        "latitude": 50.605, 
+        "sw_longitude": 10.209, 
+        "fullname": "Oberkatz, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.585
+      }, 
+      "id": 681531
+    }
+  ]
+}

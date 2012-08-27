@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.530, 
+              49.040
+            ], 
+            [
+              1.530, 
+              49.081
+            ], 
+            [
+              1.569, 
+              49.081
+            ], 
+            [
+              1.569, 
+              49.040
+            ], 
+            [
+              1.530, 
+              49.040
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608134, 
+        "name": "Limetz-Villez", 
+        "adjacent_woeid": [
+          579282, 
+          586096, 
+          592959, 
+          593098, 
+          617573, 
+          627569, 
+          629400
+        ], 
+        "ne_latitude": 49.081, 
+        "ne_longitude": 1.569, 
+        "longitude": 1.547, 
+        "parent_woeid": 12648254, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Limetz"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.061, 
+        "sw_longitude": 1.530, 
+        "fullname": "Limetz-Villez, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 49.040
+      }, 
+      "id": 608134
+    }
+  ]
+}

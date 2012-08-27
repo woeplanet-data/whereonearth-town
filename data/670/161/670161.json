@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.201, 
+              50.761
+            ], 
+            [
+              10.201, 
+              50.809
+            ], 
+            [
+              10.230, 
+              50.809
+            ], 
+            [
+              10.230, 
+              50.761
+            ], 
+            [
+              10.201, 
+              50.761
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 670161, 
+        "name": "Langenfeld", 
+        "adjacent_woeid": [
+          638373, 
+          643320, 
+          659317, 
+          661434, 
+          664617, 
+          671006, 
+          696102, 
+          701847, 
+          704679
+        ], 
+        "ne_latitude": 50.809, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.230, 
+        "longitude": 10.213, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12624764, 
+        "latitude": 50.792, 
+        "sw_longitude": 10.201, 
+        "fullname": "Langenfeld, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.761
+      }, 
+      "id": 670161
+    }
+  ]
+}

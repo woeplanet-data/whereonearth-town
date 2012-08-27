@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.805, 
+              50.298
+            ], 
+            [
+              6.805, 
+              50.322
+            ], 
+            [
+              6.838, 
+              50.322
+            ], 
+            [
+              6.838, 
+              50.298
+            ], 
+            [
+              6.805, 
+              50.298
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640295, 
+        "name": "Borler", 
+        "adjacent_woeid": [
+          639806, 
+          640150, 
+          680254, 
+          694557
+        ], 
+        "ne_latitude": 50.322, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.838, 
+        "longitude": 6.827, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12629305, 
+        "latitude": 50.313, 
+        "sw_longitude": 6.805, 
+        "fullname": "Borler, Rhineland-Palatinate, Landkreis Daun, Germany", 
+        "sw_latitude": 50.298
+      }, 
+      "id": 640295
+    }
+  ]
+}

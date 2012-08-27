@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.309, 
+              50.392
+            ], 
+            [
+              11.309, 
+              50.422
+            ], 
+            [
+              11.359, 
+              50.422
+            ], 
+            [
+              11.359, 
+              50.392
+            ], 
+            [
+              11.309, 
+              50.392
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660369, 
+        "name": "Hirschfeld", 
+        "adjacent_woeid": [
+          641945, 
+          650176, 
+          650693, 
+          689954, 
+          706902
+        ], 
+        "ne_latitude": 50.422, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.359, 
+        "longitude": 11.336, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12636097, 
+        "latitude": 50.414, 
+        "sw_longitude": 11.309, 
+        "fullname": "Hirschfeld, Bavaria, Landkreis Kronach, Germany", 
+        "sw_latitude": 50.392
+      }, 
+      "id": 660369
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.265, 
+              48.284
+            ], 
+            [
+              2.265, 
+              48.308
+            ], 
+            [
+              2.295, 
+              48.308
+            ], 
+            [
+              2.295, 
+              48.284
+            ], 
+            [
+              2.265, 
+              48.284
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609343, 
+        "name": "Mainvilliers", 
+        "adjacent_woeid": [
+          577149, 
+          580145, 
+          580239, 
+          593597, 
+          614875
+        ], 
+        "ne_latitude": 48.308, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.295, 
+        "longitude": 2.280, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12644761, 
+        "latitude": 48.300, 
+        "sw_longitude": 2.265, 
+        "fullname": "Mainvilliers, Centre, Loiret, France", 
+        "sw_latitude": 48.284
+      }, 
+      "id": 609343
+    }
+  ]
+}

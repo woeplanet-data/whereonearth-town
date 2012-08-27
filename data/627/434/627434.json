@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.750, 
+              49.793
+            ], 
+            [
+              0.750, 
+              49.808
+            ], 
+            [
+              0.775, 
+              49.808
+            ], 
+            [
+              0.775, 
+              49.793
+            ], 
+            [
+              0.750, 
+              49.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627434, 
+        "name": "Ste. Colombe", 
+        "adjacent_woeid": [
+          576141, 
+          589217, 
+          589896, 
+          594532, 
+          603594, 
+          616870
+        ], 
+        "ne_latitude": 49.808, 
+        "ne_longitude": 0.775, 
+        "longitude": 0.761, 
+        "parent_woeid": 12645192, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ste Colombe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.798, 
+        "sw_longitude": 0.750, 
+        "fullname": "Ste. Colombe, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.793
+      }, 
+      "id": 627434
+    }
+  ]
+}

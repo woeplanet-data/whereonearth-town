@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.577, 
+              44.849
+            ], 
+            [
+              5.577, 
+              44.894
+            ], 
+            [
+              5.606, 
+              44.894
+            ], 
+            [
+              5.606, 
+              44.849
+            ], 
+            [
+              5.577, 
+              44.849
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626014, 
+        "name": "St.-Michel-les-Portes", 
+        "adjacent_woeid": [
+          585820, 
+          593740, 
+          596800, 
+          619793, 
+          625604
+        ], 
+        "ne_latitude": 44.894, 
+        "ne_longitude": 5.606, 
+        "longitude": 5.596, 
+        "parent_woeid": 12665469, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Michel-les-Portes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.870, 
+        "sw_longitude": 5.577, 
+        "fullname": "St.-Michel-les-Portes, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 44.849
+      }, 
+      "id": 626014
+    }
+  ]
+}

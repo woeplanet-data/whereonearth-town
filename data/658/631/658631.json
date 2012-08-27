@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.111, 
+              47.725
+            ], 
+            [
+              11.111, 
+              47.748
+            ], 
+            [
+              11.142, 
+              47.748
+            ], 
+            [
+              11.142, 
+              47.725
+            ], 
+            [
+              11.111, 
+              47.725
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658631, 
+        "name": "Heimgarten", 
+        "adjacent_woeid": [
+          644035, 
+          653930, 
+          658202, 
+          681068, 
+          692723, 
+          698737, 
+          700872
+        ], 
+        "ne_latitude": 47.748, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.142, 
+        "longitude": 11.122, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:35Z", 
+        "parent_woeid": 12634694, 
+        "latitude": 47.738, 
+        "sw_longitude": 11.111, 
+        "fullname": "Heimgarten, Bavaria, Weilheim-Schongau, Germany", 
+        "sw_latitude": 47.725
+      }, 
+      "id": 658631
+    }
+  ]
+}

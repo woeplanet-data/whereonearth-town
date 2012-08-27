@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.444, 
+              30.908
+            ], 
+            [
+              -111.444, 
+              30.926
+            ], 
+            [
+              -111.423, 
+              30.926
+            ], 
+            [
+              -111.423, 
+              30.908
+            ], 
+            [
+              -111.444, 
+              30.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.926, 
+        "name": "La Reforma", 
+        "adjacent_woeid": [
+          126402, 
+          144920, 
+          147329, 
+          150168
+        ], 
+        "woeid": 129104, 
+        "alias_SPA_V": [
+          "Reforma"
+        ], 
+        "ne_longitude": -111.423, 
+        "longitude": -111.433, 
+        "parent_woeid": 12601610, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.917, 
+        "sw_longitude": -111.444, 
+        "fullname": "La Reforma, Sonora, Tubutama, Mexico", 
+        "sw_latitude": 30.908
+      }, 
+      "id": 129104
+    }
+  ]
+}

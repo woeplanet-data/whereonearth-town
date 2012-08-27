@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.099, 
+              49.886
+            ], 
+            [
+              10.099, 
+              49.908
+            ], 
+            [
+              10.147, 
+              49.908
+            ], 
+            [
+              10.147, 
+              49.886
+            ], 
+            [
+              10.099, 
+              49.886
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 644792, 
+        "name": "Dipbach", 
+        "adjacent_woeid": [
+          658567, 
+          682004, 
+          683302, 
+          686271, 
+          700889
+        ], 
+        "ne_latitude": 49.908, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.147, 
+        "longitude": 10.125, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:12Z", 
+        "parent_woeid": 12635477, 
+        "latitude": 49.898, 
+        "sw_longitude": 10.099, 
+        "fullname": "Dipbach, Bavaria, Wurzburg, Germany", 
+        "sw_latitude": 49.886
+      }, 
+      "id": 644792
+    }
+  ]
+}

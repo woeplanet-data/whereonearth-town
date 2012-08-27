@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.144, 
+              47.368
+            ], 
+            [
+              11.144, 
+              47.386
+            ], 
+            [
+              11.171, 
+              47.386
+            ], 
+            [
+              11.171, 
+              47.368
+            ], 
+            [
+              11.144, 
+              47.368
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550601, 
+        "name": "Gasse", 
+        "adjacent_woeid": [
+          550803, 
+          551392, 
+          28995868
+        ], 
+        "ne_latitude": 47.386, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.171, 
+        "longitude": 11.157, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675331, 
+        "latitude": 47.377, 
+        "sw_longitude": 11.144, 
+        "fullname": "Gasse, Tyrol, Innsbruck-Land, Austria", 
+        "sw_latitude": 47.368
+      }, 
+      "id": 550601
+    }
+  ]
+}

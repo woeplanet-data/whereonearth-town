@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.709, 
+              48.401
+            ], 
+            [
+              15.709, 
+              48.419
+            ], 
+            [
+              15.736, 
+              48.419
+            ], 
+            [
+              15.736, 
+              48.401
+            ], 
+            [
+              15.709, 
+              48.401
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 541935, 
+        "name": "Grunddorf", 
+        "adjacent_woeid": [
+          541301, 
+          541371, 
+          542255, 
+          543729, 
+          543959
+        ], 
+        "ne_latitude": 48.419, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.736, 
+        "longitude": 15.722, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:32Z", 
+        "parent_woeid": 12673948, 
+        "latitude": 48.410, 
+        "sw_longitude": 15.709, 
+        "fullname": "Grunddorf, Lower Austria, Krems Land, Austria", 
+        "sw_latitude": 48.401
+      }, 
+      "id": 541935
+    }
+  ]
+}

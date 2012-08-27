@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.726, 
+              53.716
+            ], 
+            [
+              10.726, 
+              53.750
+            ], 
+            [
+              10.760, 
+              53.750
+            ], 
+            [
+              10.760, 
+              53.716
+            ], 
+            [
+              10.726, 
+              53.716
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 642101, 
+        "name": "Buchholz", 
+        "adjacent_woeid": [
+          647232, 
+          666322, 
+          685443
+        ], 
+        "ne_latitude": 53.750, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.760, 
+        "longitude": 10.742, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12632040, 
+        "latitude": 53.733, 
+        "sw_longitude": 10.726, 
+        "fullname": "Buchholz, Schleswig-Holstein, Herzogtum Lauenburg, Germany", 
+        "sw_latitude": 53.716
+      }, 
+      "id": 642101
+    }
+  ]
+}

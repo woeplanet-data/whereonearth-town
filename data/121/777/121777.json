@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.477, 
+              23.524
+            ], 
+            [
+              -106.477, 
+              23.542
+            ], 
+            [
+              -106.457, 
+              23.542
+            ], 
+            [
+              -106.457, 
+              23.524
+            ], 
+            [
+              -106.477, 
+              23.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.542, 
+        "name": "El Quelite", 
+        "adjacent_woeid": [
+          117585, 
+          120408, 
+          120446, 
+          122129, 
+          128457, 
+          133021, 
+          135624
+        ], 
+        "woeid": 121777, 
+        "alias_SPA_V": [
+          "Quelite"
+        ], 
+        "ne_longitude": -106.457, 
+        "longitude": -106.467, 
+        "parent_woeid": 12601538, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.533, 
+        "sw_longitude": -106.477, 
+        "fullname": "El Quelite, Sinaloa, Mazatlan, Mexico", 
+        "sw_latitude": 23.524
+      }, 
+      "id": 121777
+    }
+  ]
+}

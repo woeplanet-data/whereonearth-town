@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.005, 
+              49.345
+            ], 
+            [
+              10.005, 
+              49.375
+            ], 
+            [
+              10.026, 
+              49.375
+            ], 
+            [
+              10.026, 
+              49.345
+            ], 
+            [
+              10.005, 
+              49.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 668874, 
+        "name": "Kreuzfeld", 
+        "adjacent_woeid": [
+          640567, 
+          656245, 
+          658603, 
+          668581, 
+          681077, 
+          688173, 
+          695723
+        ], 
+        "ne_latitude": 49.375, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.026, 
+        "longitude": 10.012, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:06Z", 
+        "parent_woeid": 12624161, 
+        "latitude": 49.364, 
+        "sw_longitude": 10.005, 
+        "fullname": "Kreuzfeld, Baden-Wurttemberg, Landkreis Schw\u00e4bisch Hall, Germany", 
+        "sw_latitude": 49.345
+      }, 
+      "id": 668874
+    }
+  ]
+}

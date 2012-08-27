@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.900, 
+              15.187
+            ], 
+            [
+              -87.900, 
+              15.205
+            ], 
+            [
+              -87.881, 
+              15.205
+            ], 
+            [
+              -87.881, 
+              15.187
+            ], 
+            [
+              -87.900, 
+              15.187
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.205, 
+        "name": "Santa Rita", 
+        "adjacent_woeid": [
+          100720, 
+          101172, 
+          106043, 
+          107278, 
+          108030
+        ], 
+        "woeid": 107367, 
+        "alias_SPA_V": [
+          "Sta Rita"
+        ], 
+        "ne_longitude": -87.881, 
+        "longitude": -87.890, 
+        "parent_woeid": 26813834, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.196, 
+        "sw_longitude": -87.900, 
+        "fullname": "Santa Rita, Yoro, Santa Rita, Honduras", 
+        "sw_latitude": 15.187
+      }, 
+      "id": 107367
+    }
+  ]
+}

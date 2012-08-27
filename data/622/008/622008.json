@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.280, 
+              47.703
+            ], 
+            [
+              6.280, 
+              47.747
+            ], 
+            [
+              6.312, 
+              47.747
+            ], 
+            [
+              6.312, 
+              47.703
+            ], 
+            [
+              6.280, 
+              47.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622008, 
+        "name": "Servigney", 
+        "adjacent_woeid": [
+          582099, 
+          592616, 
+          609299, 
+          632450
+        ], 
+        "ne_latitude": 47.747, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.312, 
+        "longitude": 6.299, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 12651922, 
+        "latitude": 47.723, 
+        "sw_longitude": 6.280, 
+        "fullname": "Servigney, Franche-Comte, Haute-Saone, France", 
+        "sw_latitude": 47.703
+      }, 
+      "id": 622008
+    }
+  ]
+}

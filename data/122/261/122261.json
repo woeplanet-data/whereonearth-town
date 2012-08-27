@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.122, 
+              23.839
+            ], 
+            [
+              -98.122, 
+              23.853
+            ], 
+            [
+              -98.106, 
+              23.853
+            ], 
+            [
+              -98.106, 
+              23.839
+            ], 
+            [
+              -98.122, 
+              23.839
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.853, 
+        "name": "El Saladito", 
+        "adjacent_woeid": [
+          128743, 
+          134477, 
+          143531, 
+          147809, 
+          148126, 
+          150705
+        ], 
+        "woeid": 122261, 
+        "alias_SPA_V": [
+          "Saladito"
+        ], 
+        "ne_longitude": -98.106, 
+        "longitude": -98.114, 
+        "parent_woeid": 12601668, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.846, 
+        "sw_longitude": -98.122, 
+        "fullname": "El Saladito, Tamaulipas, Soto la Marina, Mexico", 
+        "sw_latitude": 23.839
+      }, 
+      "id": 122261
+    }
+  ]
+}

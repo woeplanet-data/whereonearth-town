@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.443, 
+              17.958
+            ], 
+            [
+              -95.443, 
+              17.976
+            ], 
+            [
+              -95.424, 
+              17.976
+            ], 
+            [
+              -95.424, 
+              17.958
+            ], 
+            [
+              -95.443, 
+              17.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.976, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          110915, 
+          113129, 
+          132485, 
+          141403, 
+          147032, 
+          26797949
+        ], 
+        "woeid": 144860, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -95.424, 
+        "longitude": -95.433, 
+        "parent_woeid": 12601811, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.967, 
+        "sw_longitude": -95.443, 
+        "fullname": "San Pablo, Veracruz-Llave, Juan Rodriguez Clara, Mexico", 
+        "sw_latitude": 17.958
+      }, 
+      "id": 144860
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.163, 
+              49.078
+            ], 
+            [
+              12.163, 
+              49.094
+            ], 
+            [
+              12.182, 
+              49.094
+            ], 
+            [
+              12.182, 
+              49.078
+            ], 
+            [
+              12.163, 
+              49.078
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 699101, 
+        "name": "Thanhausen", 
+        "adjacent_woeid": [
+          651240, 
+          653275, 
+          658128, 
+          684504, 
+          690975
+        ], 
+        "ne_latitude": 49.094, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.182, 
+        "longitude": 12.172, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12623136, 
+        "latitude": 49.082, 
+        "sw_longitude": 12.163, 
+        "fullname": "Thanhausen, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 49.078
+      }, 
+      "id": 699101
+    }
+  ]
+}

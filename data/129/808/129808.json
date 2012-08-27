@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.393, 
+              22.158
+            ], 
+            [
+              -100.393, 
+              22.176
+            ], 
+            [
+              -100.373, 
+              22.176
+            ], 
+            [
+              -100.373, 
+              22.158
+            ], 
+            [
+              -100.393, 
+              22.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.176, 
+        "name": "Laguna de Santo Domingo", 
+        "adjacent_woeid": [
+          113769, 
+          133877, 
+          134118, 
+          135082, 
+          144375, 
+          145803
+        ], 
+        "woeid": 129808, 
+        "alias_SPA_V": [
+          "Laguna Sto. Domingo"
+        ], 
+        "ne_longitude": -100.373, 
+        "longitude": -100.383, 
+        "parent_woeid": 12601500, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.167, 
+        "sw_longitude": -100.393, 
+        "fullname": "Laguna de Santo Domingo, San Luis Potosi, San Nicolas Tolentino, Mexico", 
+        "sw_latitude": 22.158
+      }, 
+      "id": 129808
+    }
+  ]
+}

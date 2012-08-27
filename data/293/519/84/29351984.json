@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.702, 
+              54.321
+            ], 
+            [
+              9.702, 
+              54.339
+            ], 
+            [
+              9.733, 
+              54.339
+            ], 
+            [
+              9.733, 
+              54.321
+            ], 
+            [
+              9.702, 
+              54.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29351984, 
+        "name": "Rader Insel", 
+        "adjacent_woeid": [
+          29351077, 
+          29351154
+        ], 
+        "ne_latitude": 54.339, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.733, 
+        "longitude": 9.717, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:59Z", 
+        "parent_woeid": 12631441, 
+        "latitude": 54.330, 
+        "sw_longitude": 9.702, 
+        "fullname": "Rader Insel, Schleswig-Holstein, Rendsburg, Germany", 
+        "sw_latitude": 54.321
+      }, 
+      "id": 29351984
+    }
+  ]
+}

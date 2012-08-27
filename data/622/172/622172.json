@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.228, 
+              48.716
+            ], 
+            [
+              5.228, 
+              48.756
+            ], 
+            [
+              5.257, 
+              48.756
+            ], 
+            [
+              5.257, 
+              48.716
+            ], 
+            [
+              5.228, 
+              48.716
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622172, 
+        "name": "Silmont", 
+        "adjacent_woeid": [
+          588199, 
+          593978, 
+          608533, 
+          619199, 
+          628041
+        ], 
+        "ne_latitude": 48.756, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.257, 
+        "longitude": 5.245, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "parent_woeid": 12669801, 
+        "latitude": 48.735, 
+        "sw_longitude": 5.228, 
+        "fullname": "Silmont, Lorraine, Meuse, France", 
+        "sw_latitude": 48.716
+      }, 
+      "id": 622172
+    }
+  ]
+}

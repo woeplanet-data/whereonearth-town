@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.720, 
+              16.415
+            ], 
+            [
+              -93.720, 
+              16.433
+            ], 
+            [
+              -93.701, 
+              16.433
+            ], 
+            [
+              -93.701, 
+              16.415
+            ], 
+            [
+              -93.720, 
+              16.415
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.433, 
+        "name": "San Clemente", 
+        "adjacent_woeid": [
+          113704, 
+          113852, 
+          117617, 
+          121635, 
+          126621, 
+          131468, 
+          150385
+        ], 
+        "woeid": 142128, 
+        "alias_SPA_V": [
+          "S Clemente"
+        ], 
+        "ne_longitude": -93.701, 
+        "longitude": -93.710, 
+        "parent_woeid": 12599751, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.424, 
+        "sw_longitude": -93.720, 
+        "fullname": "San Clemente, Chiapas, Jiquipilas, Mexico", 
+        "sw_latitude": 16.415
+      }, 
+      "id": 142128
+    }
+  ]
+}

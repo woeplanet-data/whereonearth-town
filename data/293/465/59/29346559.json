@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.253, 
+              47.823
+            ], 
+            [
+              12.253, 
+              47.841
+            ], 
+            [
+              12.280, 
+              47.841
+            ], 
+            [
+              12.280, 
+              47.823
+            ], 
+            [
+              12.253, 
+              47.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29346559, 
+        "name": "Wall", 
+        "adjacent_woeid": [
+          667806, 
+          669849, 
+          684256, 
+          695360, 
+          698013, 
+          29346557, 
+          29346558
+        ], 
+        "ne_latitude": 47.841, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.280, 
+        "longitude": 12.266, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:26Z", 
+        "parent_woeid": 12622785, 
+        "latitude": 47.832, 
+        "sw_longitude": 12.253, 
+        "fullname": "Wall, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.823
+      }, 
+      "id": 29346559
+    }
+  ]
+}

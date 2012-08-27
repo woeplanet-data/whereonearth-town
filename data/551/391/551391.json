@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.632, 
+              47.296
+            ], 
+            [
+              11.632, 
+              47.314
+            ], 
+            [
+              11.659, 
+              47.314
+            ], 
+            [
+              11.659, 
+              47.296
+            ], 
+            [
+              11.632, 
+              47.296
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551391, 
+        "name": "Weer", 
+        "adjacent_woeid": [
+          551064, 
+          20096054, 
+          20097935, 
+          20098038
+        ], 
+        "ne_latitude": 47.314, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.659, 
+        "longitude": 11.645, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675575, 
+        "latitude": 47.305, 
+        "sw_longitude": 11.632, 
+        "fullname": "Weer, Tyrol, Schwaz, Austria", 
+        "sw_latitude": 47.296
+      }, 
+      "id": 551391
+    }
+  ]
+}

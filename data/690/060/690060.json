@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.906, 
+              50.358
+            ], 
+            [
+              10.906, 
+              50.397
+            ], 
+            [
+              10.944, 
+              50.397
+            ], 
+            [
+              10.944, 
+              50.358
+            ], 
+            [
+              10.906, 
+              50.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 690060, 
+        "name": "Rottenbach", 
+        "adjacent_woeid": [
+          653395, 
+          658363, 
+          659150, 
+          675376, 
+          699923
+        ], 
+        "ne_latitude": 50.397, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.944, 
+        "longitude": 10.926, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:48Z", 
+        "parent_woeid": 12635292, 
+        "latitude": 50.380, 
+        "sw_longitude": 10.906, 
+        "fullname": "Rottenbach, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.358
+      }, 
+      "id": 690060
+    }
+  ]
+}

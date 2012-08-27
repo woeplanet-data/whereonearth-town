@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.454, 
+              49.704
+            ], 
+            [
+              0.454, 
+              49.715
+            ], 
+            [
+              0.468, 
+              49.715
+            ], 
+            [
+              0.468, 
+              49.704
+            ], 
+            [
+              0.454, 
+              49.704
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599871, 
+        "name": "La Roussie", 
+        "adjacent_woeid": [
+          578923, 
+          586879, 
+          628456, 
+          29330860
+        ], 
+        "ne_latitude": 49.715, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.468, 
+        "longitude": 0.461, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12638474, 
+        "latitude": 49.709, 
+        "sw_longitude": 0.454, 
+        "fullname": "La Roussie, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.704
+      }, 
+      "id": 599871
+    }
+  ]
+}

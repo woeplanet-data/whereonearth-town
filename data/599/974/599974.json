@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.498, 
+              43.829
+            ], 
+            [
+              0.498, 
+              43.871
+            ], 
+            [
+              0.532, 
+              43.871
+            ], 
+            [
+              0.532, 
+              43.829
+            ], 
+            [
+              0.498, 
+              43.829
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599974, 
+        "name": "La Sauvetat", 
+        "adjacent_woeid": [
+          601072, 
+          601563, 
+          610402, 
+          619079, 
+          626628, 
+          627717
+        ], 
+        "ne_latitude": 43.871, 
+        "ne_longitude": 0.532, 
+        "longitude": 0.524, 
+        "parent_woeid": 12664022, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Souvetat"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.855, 
+        "sw_longitude": 0.498, 
+        "fullname": "La Sauvetat, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.829
+      }, 
+      "id": 599974
+    }
+  ]
+}

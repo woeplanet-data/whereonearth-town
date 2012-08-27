@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.900, 
+              20.250
+            ], 
+            [
+              -103.900, 
+              20.268
+            ], 
+            [
+              -103.881, 
+              20.268
+            ], 
+            [
+              -103.881, 
+              20.250
+            ], 
+            [
+              -103.900, 
+              20.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.268, 
+        "name": "Los Ailes", 
+        "adjacent_woeid": [
+          112766, 
+          114255, 
+          127633, 
+          135704, 
+          146967, 
+          149286, 
+          150930
+        ], 
+        "woeid": 131446, 
+        "alias_SPA_V": [
+          "Ailes"
+        ], 
+        "ne_longitude": -103.881, 
+        "longitude": -103.890, 
+        "parent_woeid": 12600283, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.259, 
+        "sw_longitude": -103.900, 
+        "fullname": "Los Ailes, Jalisco, Tecolotlan, Mexico", 
+        "sw_latitude": 20.250
+      }, 
+      "id": 131446
+    }
+  ]
+}

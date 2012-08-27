@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.027, 
+              44.227
+            ], 
+            [
+              0.027, 
+              44.285
+            ], 
+            [
+              0.078, 
+              44.285
+            ], 
+            [
+              0.078, 
+              44.227
+            ], 
+            [
+              0.027, 
+              44.227
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617249, 
+        "name": "Pompogne", 
+        "adjacent_woeid": [
+          590571, 
+          616661, 
+          621235, 
+          15002900
+        ], 
+        "ne_latitude": 44.285, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.078, 
+        "longitude": 0.054, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12650796, 
+        "latitude": 44.258, 
+        "sw_longitude": 0.027, 
+        "fullname": "Pompogne, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.227
+      }, 
+      "id": 617249
+    }
+  ]
+}

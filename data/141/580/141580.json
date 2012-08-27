@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.743, 
+              25.224
+            ], 
+            [
+              -106.743, 
+              25.242
+            ], 
+            [
+              -106.723, 
+              25.242
+            ], 
+            [
+              -106.723, 
+              25.224
+            ], 
+            [
+              -106.743, 
+              25.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.242, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          120091, 
+          121484, 
+          127719, 
+          140583, 
+          147546, 
+          150530
+        ], 
+        "woeid": 141580, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -106.723, 
+        "longitude": -106.733, 
+        "parent_woeid": 12599987, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.233, 
+        "sw_longitude": -106.743, 
+        "fullname": "San Antonio, Durango, Topia, Mexico", 
+        "sw_latitude": 25.224
+      }, 
+      "id": 141580
+    }
+  ]
+}

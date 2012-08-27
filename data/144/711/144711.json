@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.910, 
+              18.774
+            ], 
+            [
+              -99.910, 
+              18.792
+            ], 
+            [
+              -99.890, 
+              18.792
+            ], 
+            [
+              -99.890, 
+              18.774
+            ], 
+            [
+              -99.910, 
+              18.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.792, 
+        "name": "San Miguelito", 
+        "adjacent_woeid": [
+          112773, 
+          114757, 
+          126891, 
+          133460, 
+          144693, 
+          145980
+        ], 
+        "woeid": 144711, 
+        "alias_SPA_V": [
+          "S Miguelito"
+        ], 
+        "ne_longitude": -99.890, 
+        "longitude": -99.900, 
+        "parent_woeid": 12600399, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.783, 
+        "sw_longitude": -99.910, 
+        "fullname": "San Miguelito, Mexico, Sultepec, Mexico", 
+        "sw_latitude": 18.774
+      }, 
+      "id": 144711
+    }
+  ]
+}

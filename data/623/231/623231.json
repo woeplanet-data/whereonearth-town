@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.512, 
+              50.066
+            ], 
+            [
+              3.512, 
+              50.087
+            ], 
+            [
+              3.558, 
+              50.087
+            ], 
+            [
+              3.558, 
+              50.066
+            ], 
+            [
+              3.512, 
+              50.066
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623231, 
+        "name": "St.-Benin", 
+        "adjacent_woeid": [
+          589954, 
+          594927, 
+          627013
+        ], 
+        "ne_latitude": 50.087, 
+        "ne_longitude": 3.558, 
+        "longitude": 3.531, 
+        "parent_woeid": 12670202, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Benin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.077, 
+        "sw_longitude": 3.512, 
+        "fullname": "St.-Benin, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.066
+      }, 
+      "id": 623231
+    }
+  ]
+}

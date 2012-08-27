@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.326, 
+              15.041
+            ], 
+            [
+              -92.326, 
+              15.059
+            ], 
+            [
+              -92.307, 
+              15.059
+            ], 
+            [
+              -92.307, 
+              15.041
+            ], 
+            [
+              -92.326, 
+              15.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.059, 
+        "name": "La Esmeralda", 
+        "adjacent_woeid": [
+          119622, 
+          122103, 
+          125409, 
+          129099, 
+          148894, 
+          150383, 
+          151698
+        ], 
+        "woeid": 127281, 
+        "alias_SPA_V": [
+          "Esmeralda"
+        ], 
+        "ne_longitude": -92.307, 
+        "longitude": -92.317, 
+        "parent_woeid": 12599798, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.050, 
+        "sw_longitude": -92.326, 
+        "fullname": "La Esmeralda, Chiapas, Tapachula, Mexico", 
+        "sw_latitude": 15.041
+      }, 
+      "id": 127281
+    }
+  ]
+}

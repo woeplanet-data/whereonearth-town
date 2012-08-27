@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.256, 
+              43.994
+            ], 
+            [
+              1.256, 
+              44.031
+            ], 
+            [
+              1.304, 
+              44.031
+            ], 
+            [
+              1.304, 
+              43.994
+            ], 
+            [
+              1.256, 
+              43.994
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612366, 
+        "name": "Montbeton", 
+        "adjacent_woeid": [
+          589950, 
+          600746, 
+          20195047
+        ], 
+        "ne_latitude": 44.031, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.304, 
+        "longitude": 1.284, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12666982, 
+        "latitude": 44.011, 
+        "sw_longitude": 1.256, 
+        "fullname": "Montbeton, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.994
+      }, 
+      "id": 612366
+    }
+  ]
+}

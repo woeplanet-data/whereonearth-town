@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.127, 
+              25.841
+            ], 
+            [
+              -106.127, 
+              25.859
+            ], 
+            [
+              -106.107, 
+              25.859
+            ], 
+            [
+              -106.107, 
+              25.841
+            ], 
+            [
+              -106.127, 
+              25.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.859, 
+        "name": "El Salitre", 
+        "adjacent_woeid": [
+          111243, 
+          113427, 
+          135828, 
+          139169, 
+          140389, 
+          144934
+        ], 
+        "woeid": 122286, 
+        "alias_SPA_V": [
+          "Salitre"
+        ], 
+        "ne_longitude": -106.107, 
+        "longitude": -106.117, 
+        "parent_woeid": 12599959, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.850, 
+        "sw_longitude": -106.127, 
+        "fullname": "El Salitre, Durango, Guanacevi, Mexico", 
+        "sw_latitude": 25.841
+      }, 
+      "id": 122286
+    }
+  ]
+}

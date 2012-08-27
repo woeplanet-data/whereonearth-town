@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.415, 
+              37.906
+            ], 
+            [
+              -5.415, 
+              38.055
+            ], 
+            [
+              -5.255, 
+              38.055
+            ], 
+            [
+              -5.255, 
+              37.906
+            ], 
+            [
+              -5.415, 
+              37.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.055, 
+        "name": "San Calixto", 
+        "adjacent_woeid": [
+          752844, 
+          763162, 
+          763163, 
+          765884, 
+          20225318
+        ], 
+        "woeid": 772700, 
+        "alias_SPA_V": [
+          "S. Calixto"
+        ], 
+        "ne_longitude": -5.255, 
+        "longitude": -5.331, 
+        "parent_woeid": 12688807, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.953, 
+        "sw_longitude": -5.415, 
+        "fullname": "San Calixto, Andalusia, Cordoba, Spain", 
+        "sw_latitude": 37.906
+      }, 
+      "id": 772700
+    }
+  ]
+}

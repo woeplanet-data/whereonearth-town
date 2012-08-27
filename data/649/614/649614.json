@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.424, 
+              49.145
+            ], 
+            [
+              10.424, 
+              49.163
+            ], 
+            [
+              10.451, 
+              49.163
+            ], 
+            [
+              10.451, 
+              49.145
+            ], 
+            [
+              10.424, 
+              49.145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649614, 
+        "name": "Fetschendorf", 
+        "adjacent_woeid": [
+          672604, 
+          681781, 
+          20158666, 
+          29348718
+        ], 
+        "ne_latitude": 49.163, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.451, 
+        "longitude": 10.438, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12636027, 
+        "latitude": 49.154, 
+        "sw_longitude": 10.424, 
+        "fullname": "Fetschendorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.145
+      }, 
+      "id": 649614
+    }
+  ]
+}

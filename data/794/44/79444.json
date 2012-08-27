@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.785, 
+              14.010
+            ], 
+            [
+              -88.785, 
+              14.024
+            ], 
+            [
+              -88.770, 
+              14.024
+            ], 
+            [
+              -88.770, 
+              14.010
+            ], 
+            [
+              -88.785, 
+              14.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.024, 
+        "name": "San Antonio de La Cruz", 
+        "adjacent_woeid": [
+          76871, 
+          78364, 
+          79143, 
+          79152, 
+          79577, 
+          79630, 
+          26809408, 
+          26809413
+        ], 
+        "woeid": 79444, 
+        "alias_SPA_V": [
+          "S Antonio de La Cruz"
+        ], 
+        "ne_longitude": -88.770, 
+        "longitude": -88.778, 
+        "parent_woeid": 26808564, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.017, 
+        "sw_longitude": -88.785, 
+        "fullname": "San Antonio de La Cruz, Chalatenango, San Antonio de la Cruz, El Salvador", 
+        "sw_latitude": 14.010
+      }, 
+      "id": 79444
+    }
+  ]
+}

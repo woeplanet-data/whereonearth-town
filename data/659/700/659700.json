@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.661, 
+              48.523
+            ], 
+            [
+              10.661, 
+              48.548
+            ], 
+            [
+              10.682, 
+              48.548
+            ], 
+            [
+              10.682, 
+              48.523
+            ], 
+            [
+              10.661, 
+              48.523
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659700, 
+        "name": "Hettlingen", 
+        "adjacent_woeid": [
+          652172, 
+          674162, 
+          675735, 
+          689199
+        ], 
+        "ne_latitude": 48.548, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.682, 
+        "longitude": 10.667, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12634815, 
+        "latitude": 48.533, 
+        "sw_longitude": 10.661, 
+        "fullname": "Hettlingen, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.523
+      }, 
+      "id": 659700
+    }
+  ]
+}

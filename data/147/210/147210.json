@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -114.089, 
+              28.268
+            ], 
+            [
+              -114.089, 
+              28.286
+            ], 
+            [
+              -114.068, 
+              28.286
+            ], 
+            [
+              -114.068, 
+              28.268
+            ], 
+            [
+              -114.089, 
+              28.268
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.286, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          114222, 
+          130087, 
+          130750, 
+          137897, 
+          144594
+        ], 
+        "woeid": 147210, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -114.068, 
+        "longitude": -114.078, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.277, 
+        "sw_longitude": -114.089, 
+        "fullname": "Santo Domingo, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 28.268
+      }, 
+      "id": 147210
+    }
+  ]
+}

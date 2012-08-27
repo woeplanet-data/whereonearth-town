@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.596, 
+              45.077
+            ], 
+            [
+              -0.596, 
+              45.103
+            ], 
+            [
+              -0.564, 
+              45.103
+            ], 
+            [
+              -0.564, 
+              45.077
+            ], 
+            [
+              -0.596, 
+              45.077
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627149, 
+        "name": "St.-Trojan", 
+        "adjacent_woeid": [
+          579477, 
+          611821, 
+          620855, 
+          623505, 
+          628304
+        ], 
+        "ne_latitude": 45.103, 
+        "ne_longitude": -0.564, 
+        "longitude": -0.581, 
+        "parent_woeid": 12653269, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Trojan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.090, 
+        "sw_longitude": -0.596, 
+        "fullname": "St.-Trojan, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.077
+      }, 
+      "id": 627149
+    }
+  ]
+}

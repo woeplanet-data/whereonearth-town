@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.141, 
+              48.467
+            ], 
+            [
+              11.141, 
+              48.491
+            ], 
+            [
+              11.170, 
+              48.491
+            ], 
+            [
+              11.170, 
+              48.467
+            ], 
+            [
+              11.141, 
+              48.467
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 701736, 
+        "name": "Unterwittelsbach", 
+        "adjacent_woeid": [
+          655025, 
+          682644, 
+          700996, 
+          703336
+        ], 
+        "ne_latitude": 48.491, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.170, 
+        "longitude": 11.156, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12634729, 
+        "latitude": 48.476, 
+        "sw_longitude": 11.141, 
+        "fullname": "Unterwittelsbach, Bavaria, Aichach-Friedberg, Germany", 
+        "sw_latitude": 48.467
+      }, 
+      "id": 701736
+    }
+  ]
+}

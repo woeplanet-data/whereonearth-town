@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.345, 
+              48.925
+            ], 
+            [
+              -1.345, 
+              48.958
+            ], 
+            [
+              -1.311, 
+              48.958
+            ], 
+            [
+              -1.311, 
+              48.925
+            ], 
+            [
+              -1.345, 
+              48.925
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623727, 
+        "name": "St.-Denis-le-Gast", 
+        "adjacent_woeid": [
+          593807, 
+          594241, 
+          596700, 
+          605142, 
+          619894, 
+          625602
+        ], 
+        "ne_latitude": 48.958, 
+        "ne_longitude": -1.311, 
+        "longitude": -1.329, 
+        "parent_woeid": 12652376, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Denis-le-Gast"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.940, 
+        "sw_longitude": -1.345, 
+        "fullname": "St.-Denis-le-Gast, Basse-Normandie, Manche, France", 
+        "sw_latitude": 48.925
+      }, 
+      "id": 623727
+    }
+  ]
+}

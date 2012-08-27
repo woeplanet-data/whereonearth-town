@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.260, 
+              51.292
+            ], 
+            [
+              10.260, 
+              51.340
+            ], 
+            [
+              10.305, 
+              51.340
+            ], 
+            [
+              10.305, 
+              51.292
+            ], 
+            [
+              10.260, 
+              51.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 665311, 
+        "name": "Kefferhausen", 
+        "adjacent_woeid": [
+          659804, 
+          668868, 
+          703102
+        ], 
+        "ne_latitude": 51.340, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.305, 
+        "longitude": 10.287, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:53Z", 
+        "parent_woeid": 12624685, 
+        "latitude": 51.312, 
+        "sw_longitude": 10.260, 
+        "fullname": "Kefferhausen, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.292
+      }, 
+      "id": 665311
+    }
+  ]
+}

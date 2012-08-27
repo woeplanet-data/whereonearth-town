@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.060, 
+              21.974
+            ], 
+            [
+              -105.060, 
+              21.992
+            ], 
+            [
+              -105.040, 
+              21.992
+            ], 
+            [
+              -105.040, 
+              21.974
+            ], 
+            [
+              -105.060, 
+              21.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.992, 
+        "name": "San Diego Naranjo", 
+        "adjacent_woeid": [
+          117572, 
+          121711, 
+          122951, 
+          129813, 
+          133883, 
+          144113, 
+          146145
+        ], 
+        "woeid": 142236, 
+        "alias_SPA_V": [
+          "S. Diego Naranjo"
+        ], 
+        "ne_longitude": -105.040, 
+        "longitude": -105.050, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.983, 
+        "sw_longitude": -105.060, 
+        "fullname": "San Diego Naranjo, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 21.974
+      }, 
+      "id": 142236
+    }
+  ]
+}

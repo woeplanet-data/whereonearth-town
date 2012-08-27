@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.217, 
+              50.647
+            ], 
+            [
+              5.217, 
+              50.665
+            ], 
+            [
+              5.245, 
+              50.665
+            ], 
+            [
+              5.245, 
+              50.647
+            ], 
+            [
+              5.217, 
+              50.647
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977706, 
+        "name": "Termogne", 
+        "adjacent_woeid": [
+          968178, 
+          971366, 
+          973471, 
+          976598, 
+          978596
+        ], 
+        "ne_latitude": 50.665, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.245, 
+        "longitude": 5.231, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "parent_woeid": 12602706, 
+        "latitude": 50.656, 
+        "sw_longitude": 5.217, 
+        "fullname": "Termogne, Liege, Waremme, Belgium", 
+        "sw_latitude": 50.647
+      }, 
+      "id": 977706
+    }
+  ]
+}

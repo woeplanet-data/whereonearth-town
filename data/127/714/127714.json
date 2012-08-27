@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.327, 
+              27.324
+            ], 
+            [
+              -106.327, 
+              27.342
+            ], 
+            [
+              -106.306, 
+              27.342
+            ], 
+            [
+              -106.306, 
+              27.324
+            ], 
+            [
+              -106.327, 
+              27.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.342, 
+        "name": "La Huerta", 
+        "adjacent_woeid": [
+          118903, 
+          122700, 
+          143065, 
+          144791, 
+          55887768
+        ], 
+        "woeid": 127714, 
+        "alias_SPA_V": [
+          "Huerta"
+        ], 
+        "ne_longitude": -106.306, 
+        "longitude": -106.317, 
+        "parent_woeid": 12599875, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.333, 
+        "sw_longitude": -106.327, 
+        "fullname": "La Huerta, Chihuahua, Rosario, Mexico", 
+        "sw_latitude": 27.324
+      }, 
+      "id": 127714
+    }
+  ]
+}

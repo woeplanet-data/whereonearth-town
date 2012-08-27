@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.548, 
+              50.639
+            ], 
+            [
+              12.548, 
+              50.652
+            ], 
+            [
+              12.562, 
+              50.652
+            ], 
+            [
+              12.562, 
+              50.639
+            ], 
+            [
+              12.548, 
+              50.639
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706351, 
+        "name": "Wiesen", 
+        "adjacent_woeid": [
+          643401, 
+          656123, 
+          692795, 
+          704906, 
+          706364
+        ], 
+        "ne_latitude": 50.652, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.562, 
+        "longitude": 12.555, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12636461, 
+        "latitude": 50.646, 
+        "sw_longitude": 12.548, 
+        "fullname": "Wiesen, Saxony, Zwickauer Land, Germany", 
+        "sw_latitude": 50.639
+      }, 
+      "id": 706351
+    }
+  ]
+}

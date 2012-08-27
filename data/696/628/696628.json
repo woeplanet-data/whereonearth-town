@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.205, 
+              51.401
+            ], 
+            [
+              10.205, 
+              51.440
+            ], 
+            [
+              10.251, 
+              51.440
+            ], 
+            [
+              10.251, 
+              51.401
+            ], 
+            [
+              10.205, 
+              51.401
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696628, 
+        "name": "Steinbach", 
+        "adjacent_woeid": [
+          638249, 
+          639823, 
+          662885, 
+          687701, 
+          706961
+        ], 
+        "ne_latitude": 51.440, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.251, 
+        "longitude": 10.217, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12624710, 
+        "latitude": 51.417, 
+        "sw_longitude": 10.205, 
+        "fullname": "Steinbach, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.401
+      }, 
+      "id": 696628
+    }
+  ]
+}

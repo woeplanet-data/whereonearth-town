@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.364, 
+              44.416
+            ], 
+            [
+              5.364, 
+              44.466
+            ], 
+            [
+              5.441, 
+              44.466
+            ], 
+            [
+              5.441, 
+              44.416
+            ], 
+            [
+              5.364, 
+              44.416
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587055, 
+        "name": "Cornillac", 
+        "adjacent_woeid": [
+          587063, 
+          597593, 
+          619136, 
+          620083, 
+          630648, 
+          15003316
+        ], 
+        "ne_latitude": 44.466, 
+        "ne_longitude": 5.441, 
+        "longitude": 5.387, 
+        "parent_woeid": 12659881, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cornillic"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.443, 
+        "sw_longitude": 5.364, 
+        "fullname": "Cornillac, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.416
+      }, 
+      "id": 587055
+    }
+  ]
+}

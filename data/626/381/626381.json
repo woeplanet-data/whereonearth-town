@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.031, 
+              43.353
+            ], 
+            [
+              5.031, 
+              43.388
+            ], 
+            [
+              5.072, 
+              43.388
+            ], 
+            [
+              5.072, 
+              43.353
+            ], 
+            [
+              5.031, 
+              43.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626381, 
+        "name": "St.-Pierre", 
+        "adjacent_woeid": [
+          583132, 
+          597913, 
+          601869, 
+          617438, 
+          20202768
+        ], 
+        "ne_latitude": 43.388, 
+        "ne_longitude": 5.072, 
+        "longitude": 5.053, 
+        "parent_woeid": 12655785, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.370, 
+        "sw_longitude": 5.031, 
+        "fullname": "St.-Pierre, Provence-Alpes-Cote d'Azur, Bouches-du-Rhone, France", 
+        "sw_latitude": 43.353
+      }, 
+      "id": 626381
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.957, 
+              49.285
+            ], 
+            [
+              12.957, 
+              49.325
+            ], 
+            [
+              12.993, 
+              49.325
+            ], 
+            [
+              12.993, 
+              49.285
+            ], 
+            [
+              12.957, 
+              49.285
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 704065, 
+        "name": "Warzenried", 
+        "adjacent_woeid": [
+          654785, 
+          660141, 
+          660746, 
+          663882, 
+          691260, 
+          696149
+        ], 
+        "ne_latitude": 49.325, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.993, 
+        "longitude": 12.969, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:56Z", 
+        "parent_woeid": 12623069, 
+        "latitude": 49.295, 
+        "sw_longitude": 12.957, 
+        "fullname": "Warzenried, Bavaria, Landkreis Cham, Germany", 
+        "sw_latitude": 49.285
+      }, 
+      "id": 704065
+    }
+  ]
+}

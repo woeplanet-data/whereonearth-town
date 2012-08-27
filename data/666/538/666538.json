@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.009, 
+              53.362
+            ], 
+            [
+              12.009, 
+              53.400
+            ], 
+            [
+              12.049, 
+              53.400
+            ], 
+            [
+              12.049, 
+              53.362
+            ], 
+            [
+              12.009, 
+              53.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666538, 
+        "name": "Klein Pankow", 
+        "adjacent_woeid": [
+          642732, 
+          654640, 
+          663956, 
+          668743, 
+          677741, 
+          687286, 
+          706784
+        ], 
+        "ne_latitude": 53.400, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.049, 
+        "longitude": 12.031, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12631208, 
+        "latitude": 53.377, 
+        "sw_longitude": 12.009, 
+        "fullname": "Klein Pankow, Mecklenburg-Vorpommern, Landkreis Parchim, Germany", 
+        "sw_latitude": 53.362
+      }, 
+      "id": 666538
+    }
+  ]
+}

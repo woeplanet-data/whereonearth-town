@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.000, 
+              15.575
+            ], 
+            [
+              -87.000, 
+              15.981
+            ], 
+            [
+              -86.577, 
+              15.981
+            ], 
+            [
+              -86.577, 
+              15.575
+            ], 
+            [
+              -87.000, 
+              15.575
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.981, 
+        "name": "La Ceiba", 
+        "adjacent_woeid": [
+          101100, 
+          102434, 
+          105533
+        ], 
+        "woeid": 102638, 
+        "alias_UNK_Q": [
+          "LCE"
+        ], 
+        "alias_SPA_V": [
+          "Ceiba"
+        ], 
+        "ne_longitude": -86.577, 
+        "longitude": -86.788, 
+        "parent_woeid": 26813683, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.778, 
+        "sw_longitude": -87.000, 
+        "fullname": "La Ceiba, Atl\u00e1ntida, La Ceiba, Honduras", 
+        "sw_latitude": 15.575
+      }, 
+      "id": 102638
+    }
+  ]
+}

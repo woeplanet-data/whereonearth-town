@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.043, 
+              25.958
+            ], 
+            [
+              -106.043, 
+              25.976
+            ], 
+            [
+              -106.023, 
+              25.976
+            ], 
+            [
+              -106.023, 
+              25.958
+            ], 
+            [
+              -106.043, 
+              25.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.976, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          111243, 
+          115432, 
+          119575, 
+          122286, 
+          124426, 
+          126869, 
+          139169
+        ], 
+        "woeid": 144934, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -106.023, 
+        "longitude": -106.033, 
+        "parent_woeid": 12599959, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.967, 
+        "sw_longitude": -106.043, 
+        "fullname": "San Pedro, Durango, Guanacevi, Mexico", 
+        "sw_latitude": 25.958
+      }, 
+      "id": 144934
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.157, 
+              15.642
+            ], 
+            [
+              -88.157, 
+              16.049
+            ], 
+            [
+              -87.735, 
+              16.049
+            ], 
+            [
+              -87.735, 
+              15.642
+            ], 
+            [
+              -88.157, 
+              15.642
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.049, 
+        "name": "Puerto Cortez", 
+        "adjacent_woeid": [
+          98951, 
+          100720, 
+          101172, 
+          105539, 
+          107697, 
+          107880
+        ], 
+        "woeid": 106176, 
+        "alias_SPA_V": [
+          "Pto Cortez"
+        ], 
+        "ne_longitude": -87.735, 
+        "longitude": -87.946, 
+        "parent_woeid": 26813752, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.845, 
+        "sw_longitude": -88.157, 
+        "fullname": "Puerto Cortez, Cort\u00e9s, Puerto Cort\u00e9s, Honduras", 
+        "sw_latitude": 15.642
+      }, 
+      "id": 106176
+    }
+  ]
+}

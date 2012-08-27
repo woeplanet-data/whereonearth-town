@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.809, 
+              15.924
+            ], 
+            [
+              -93.809, 
+              15.942
+            ], 
+            [
+              -93.791, 
+              15.942
+            ], 
+            [
+              -93.791, 
+              15.924
+            ], 
+            [
+              -93.809, 
+              15.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.942, 
+        "name": "Puerto Arista", 
+        "adjacent_woeid": [
+          112379, 
+          113961, 
+          119518, 
+          127947, 
+          128818
+        ], 
+        "woeid": 137801, 
+        "alias_SPA_V": [
+          "Pto Arista"
+        ], 
+        "ne_longitude": -93.791, 
+        "longitude": -93.800, 
+        "parent_woeid": 12599805, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.933, 
+        "sw_longitude": -93.809, 
+        "fullname": "Puerto Arista, Chiapas, Tonala, Mexico", 
+        "sw_latitude": 15.924
+      }, 
+      "id": 137801
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.409, 
+              -32.723
+            ], 
+            [
+              -63.409, 
+              -32.705
+            ], 
+            [
+              -63.388, 
+              -32.705
+            ], 
+            [
+              -63.388, 
+              -32.723
+            ], 
+            [
+              -63.409, 
+              -32.723
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -32.705, 
+        "name": "Ticino", 
+        "adjacent_woeid": [
+          331000, 
+          466064, 
+          467209, 
+          467933
+        ], 
+        "woeid": 467912, 
+        "alias_SPA_V": [
+          "Ticinio"
+        ], 
+        "ne_longitude": -63.388, 
+        "longitude": -63.398, 
+        "parent_woeid": 20070933, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:41:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -32.714, 
+        "sw_longitude": -63.409, 
+        "fullname": "Ticino, Cordoba, Gral San Martin, Argentina", 
+        "sw_latitude": -32.723
+      }, 
+      "id": 467912
+    }
+  ]
+}

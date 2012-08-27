@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.293, 
+              49.313
+            ], 
+            [
+              -123.293, 
+              49.407
+            ], 
+            [
+              -123.117, 
+              49.407
+            ], 
+            [
+              -123.117, 
+              49.313
+            ], 
+            [
+              -123.293, 
+              49.313
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23405764, 
+        "name": "West Vancouver", 
+        "adjacent_woeid": [
+          9786, 
+          9790, 
+          9794
+        ], 
+        "ne_latitude": 49.407, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Westvancouver"
+        ], 
+        "ne_longitude": -123.117, 
+        "longitude": -123.160, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:54Z", 
+        "parent_woeid": 29375222, 
+        "latitude": 49.331, 
+        "sw_longitude": -123.293, 
+        "fullname": "West Vancouver, British Columbia, Greater Vancouver, Canada", 
+        "sw_latitude": 49.313
+      }, 
+      "id": 23405764
+    }
+  ]
+}

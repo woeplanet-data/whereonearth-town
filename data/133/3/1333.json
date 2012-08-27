@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.485, 
+              43.829
+            ], 
+            [
+              -79.485, 
+              43.978
+            ], 
+            [
+              -79.371, 
+              43.978
+            ], 
+            [
+              -79.371, 
+              43.829
+            ], 
+            [
+              -79.485, 
+              43.829
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1333, 
+        "name": "Richmond Hill", 
+        "adjacent_woeid": [
+          33, 
+          768, 
+          935, 
+          1761, 
+          23396899, 
+          23396909, 
+          23398635, 
+          23399654, 
+          29374061
+        ], 
+        "ne_latitude": 43.978, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -79.371, 
+        "longitude": -79.379, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "parent_woeid": 29375112, 
+        "latitude": 43.847, 
+        "sw_longitude": -79.485, 
+        "fullname": "Richmond Hill, Ontario, York, Canada", 
+        "sw_latitude": 43.829
+      }, 
+      "id": 1333
+    }
+  ]
+}

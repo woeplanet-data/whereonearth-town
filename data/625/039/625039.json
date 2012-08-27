@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.980, 
+              45.575
+            ], 
+            [
+              4.980, 
+              45.601
+            ], 
+            [
+              5.018, 
+              45.601
+            ], 
+            [
+              5.018, 
+              45.575
+            ], 
+            [
+              4.980, 
+              45.575
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625039, 
+        "name": "St.-Just-Chaleyssin", 
+        "adjacent_woeid": [
+          603877, 
+          609110, 
+          615439, 
+          629846, 
+          20209590, 
+          29330173
+        ], 
+        "ne_latitude": 45.601, 
+        "ne_longitude": 5.018, 
+        "longitude": 5.002, 
+        "parent_woeid": 12670703, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Just-Chaleyssin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.585, 
+        "sw_longitude": 4.980, 
+        "fullname": "St.-Just-Chaleyssin, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.575
+      }, 
+      "id": 625039
+    }
+  ]
+}

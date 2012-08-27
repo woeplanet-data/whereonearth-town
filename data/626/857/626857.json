@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.114, 
+              44.845
+            ], 
+            [
+              2.114, 
+              44.883
+            ], 
+            [
+              2.150, 
+              44.883
+            ], 
+            [
+              2.150, 
+              44.845
+            ], 
+            [
+              2.114, 
+              44.845
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626857, 
+        "name": "St.-Saury", 
+        "adjacent_woeid": [
+          582726, 
+          593021, 
+          596781, 
+          615708, 
+          620193, 
+          622220
+        ], 
+        "ne_latitude": 44.883, 
+        "ne_longitude": 2.150, 
+        "longitude": 2.140, 
+        "parent_woeid": 12653195, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Saury"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.868, 
+        "sw_longitude": 2.114, 
+        "fullname": "St.-Saury, Auvergne, Cantal, France", 
+        "sw_latitude": 44.845
+      }, 
+      "id": 626857
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.985, 
+              49.435
+            ], 
+            [
+              1.985, 
+              49.465
+            ], 
+            [
+              2.045, 
+              49.465
+            ], 
+            [
+              2.045, 
+              49.435
+            ], 
+            [
+              1.985, 
+              49.435
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603713, 
+        "name": "Le Mont-St.-Adrien", 
+        "adjacent_woeid": [
+          591730, 
+          593079, 
+          621408, 
+          624340, 
+          626253, 
+          29333337, 
+          29333581
+        ], 
+        "ne_latitude": 49.465, 
+        "ne_longitude": 2.045, 
+        "longitude": 2.005, 
+        "parent_woeid": 22756652, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Mont-Saint-Adrien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.446, 
+        "sw_longitude": 1.985, 
+        "fullname": "Le Mont-St.-Adrien, Picardie, Oise, France", 
+        "sw_latitude": 49.435
+      }, 
+      "id": 603713
+    }
+  ]
+}

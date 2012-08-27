@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.123, 
+              49.374
+            ], 
+            [
+              10.123, 
+              49.388
+            ], 
+            [
+              10.142, 
+              49.388
+            ], 
+            [
+              10.142, 
+              49.374
+            ], 
+            [
+              10.123, 
+              49.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659009, 
+        "name": "Hemmendorf", 
+        "adjacent_woeid": [
+          639927, 
+          671506, 
+          688264, 
+          693693, 
+          702772, 
+          20158726
+        ], 
+        "ne_latitude": 49.388, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.142, 
+        "longitude": 10.135, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12634422, 
+        "latitude": 49.381, 
+        "sw_longitude": 10.123, 
+        "fullname": "Hemmendorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.374
+      }, 
+      "id": 659009
+    }
+  ]
+}

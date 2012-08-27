@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.407, 
+              52.681
+            ], 
+            [
+              12.407, 
+              52.700
+            ], 
+            [
+              12.437, 
+              52.700
+            ], 
+            [
+              12.437, 
+              52.681
+            ], 
+            [
+              12.407, 
+              52.681
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707400, 
+        "name": "Witzke", 
+        "adjacent_woeid": [
+          644421, 
+          647756, 
+          672340, 
+          693093, 
+          704133
+        ], 
+        "ne_latitude": 52.700, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.437, 
+        "longitude": 12.423, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 24547157, 
+        "latitude": 52.690, 
+        "sw_longitude": 12.407, 
+        "fullname": "Witzke, Brandenburg, Havelland, Germany", 
+        "sw_latitude": 52.681
+      }, 
+      "id": 707400
+    }
+  ]
+}

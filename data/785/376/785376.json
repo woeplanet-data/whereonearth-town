@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.241, 
+              47.120
+            ], 
+            [
+              8.241, 
+              47.138
+            ], 
+            [
+              8.269, 
+              47.138
+            ], 
+            [
+              8.269, 
+              47.120
+            ], 
+            [
+              8.241, 
+              47.120
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 785376, 
+        "name": "Rain", 
+        "adjacent_woeid": [
+          782369, 
+          782759, 
+          782777, 
+          783912, 
+          783935, 
+          784167, 
+          20100895, 
+          20103061, 
+          20104573, 
+          28996993
+        ], 
+        "ne_latitude": 47.138, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.269, 
+        "longitude": 8.257, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:21Z", 
+        "parent_woeid": 12685072, 
+        "latitude": 47.129, 
+        "sw_longitude": 8.241, 
+        "fullname": "Rain, Canton of Lucerne, Hochdorf, Switzerland", 
+        "sw_latitude": 47.120
+      }, 
+      "id": 785376
+    }
+  ]
+}

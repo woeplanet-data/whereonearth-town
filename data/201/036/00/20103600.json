@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.371, 
+              47.122
+            ], 
+            [
+              8.371, 
+              47.140
+            ], 
+            [
+              8.398, 
+              47.140
+            ], 
+            [
+              8.398, 
+              47.122
+            ], 
+            [
+              8.371, 
+              47.122
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20103600, 
+        "name": "Pfaffwil", 
+        "adjacent_woeid": [
+          20101701, 
+          20102238
+        ], 
+        "ne_latitude": 47.140, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.398, 
+        "longitude": 8.385, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:36Z", 
+        "parent_woeid": 12683730, 
+        "latitude": 47.131, 
+        "sw_longitude": 8.371, 
+        "fullname": "Pfaffwil, Canton of Lucerne, Hochdorf, Switzerland", 
+        "sw_latitude": 47.122
+      }, 
+      "id": 20103600
+    }
+  ]
+}

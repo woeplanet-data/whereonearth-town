@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.943, 
+              27.008
+            ], 
+            [
+              -105.943, 
+              27.026
+            ], 
+            [
+              -105.923, 
+              27.026
+            ], 
+            [
+              -105.923, 
+              27.008
+            ], 
+            [
+              -105.943, 
+              27.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.026, 
+        "name": "Las Cruces", 
+        "adjacent_woeid": [
+          127715, 
+          129252, 
+          136576, 
+          147164
+        ], 
+        "woeid": 130212, 
+        "alias_SPA_V": [
+          "Cruces"
+        ], 
+        "ne_longitude": -105.923, 
+        "longitude": -105.933, 
+        "parent_woeid": 12599850, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.017, 
+        "sw_longitude": -105.943, 
+        "fullname": "Las Cruces, Chihuahua, Hidalgo del Parral, Mexico", 
+        "sw_latitude": 27.008
+      }, 
+      "id": 130212
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.378, 
+              43.192
+            ], 
+            [
+              1.378, 
+              43.224
+            ], 
+            [
+              1.402, 
+              43.224
+            ], 
+            [
+              1.402, 
+              43.192
+            ], 
+            [
+              1.378, 
+              43.192
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627744, 
+        "name": "Ste.-Suzanne", 
+        "adjacent_woeid": [
+          582919, 
+          583078, 
+          601431, 
+          610436, 
+          622120, 
+          627326, 
+          631857
+        ], 
+        "ne_latitude": 43.224, 
+        "ne_longitude": 1.402, 
+        "longitude": 1.386, 
+        "parent_woeid": 12671455, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Suzanne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.210, 
+        "sw_longitude": 1.378, 
+        "fullname": "Ste.-Suzanne, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.192
+      }, 
+      "id": 627744
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.577, 
+              47.454
+            ], 
+            [
+              9.577, 
+              47.464
+            ], 
+            [
+              9.591, 
+              47.464
+            ], 
+            [
+              9.591, 
+              47.454
+            ], 
+            [
+              9.577, 
+              47.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20101037, 
+        "name": "Brenden", 
+        "adjacent_woeid": [
+          20100690, 
+          20102249, 
+          20104901
+        ], 
+        "ne_latitude": 47.464, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.591, 
+        "longitude": 9.584, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12685001, 
+        "latitude": 47.459, 
+        "sw_longitude": 9.577, 
+        "fullname": "Brenden, Canton of Appenzell Outer-Rhodes, Vorderland, Switzerland", 
+        "sw_latitude": 47.454
+      }, 
+      "id": 20101037
+    }
+  ]
+}

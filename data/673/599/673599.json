@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.696, 
+              49.269
+            ], 
+            [
+              10.696, 
+              49.289
+            ], 
+            [
+              10.713, 
+              49.289
+            ], 
+            [
+              10.713, 
+              49.269
+            ], 
+            [
+              10.696, 
+              49.269
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 673599, 
+        "name": "Malmersdorf", 
+        "adjacent_woeid": [
+          642791, 
+          659380, 
+          663429, 
+          703785
+        ], 
+        "ne_latitude": 49.289, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.713, 
+        "longitude": 10.707, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:34Z", 
+        "parent_woeid": 12634411, 
+        "latitude": 49.279, 
+        "sw_longitude": 10.696, 
+        "fullname": "Malmersdorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.269
+      }, 
+      "id": 673599
+    }
+  ]
+}

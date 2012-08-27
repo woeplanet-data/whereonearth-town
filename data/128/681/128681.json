@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.727, 
+              23.674
+            ], 
+            [
+              -100.727, 
+              23.692
+            ], 
+            [
+              -100.707, 
+              23.692
+            ], 
+            [
+              -100.707, 
+              23.674
+            ], 
+            [
+              -100.727, 
+              23.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.692, 
+        "name": "La Paz", 
+        "adjacent_woeid": [
+          111774, 
+          112312, 
+          115243, 
+          125783, 
+          126144, 
+          126486, 
+          132192, 
+          133169, 
+          135074, 
+          150645
+        ], 
+        "woeid": 128681, 
+        "alias_SPA_V": [
+          "Villa de la Paz"
+        ], 
+        "ne_longitude": -100.707, 
+        "longitude": -100.708, 
+        "parent_woeid": 12601520, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.679, 
+        "sw_longitude": -100.727, 
+        "fullname": "La Paz, San Luis Potosi, Villa de la Paz, Mexico", 
+        "sw_latitude": 23.674
+      }, 
+      "id": 128681
+    }
+  ]
+}

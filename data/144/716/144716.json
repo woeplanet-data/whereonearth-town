@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.348, 
+              23.863
+            ], 
+            [
+              -100.348, 
+              23.881
+            ], 
+            [
+              -100.328, 
+              23.881
+            ], 
+            [
+              -100.328, 
+              23.863
+            ], 
+            [
+              -100.348, 
+              23.863
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.881, 
+        "name": "San Miguelito", 
+        "adjacent_woeid": [
+          117027, 
+          122036, 
+          130478, 
+          146186, 
+          146950
+        ], 
+        "woeid": 144716, 
+        "alias_SPA_V": [
+          "S Miguelito"
+        ], 
+        "ne_longitude": -100.328, 
+        "longitude": -100.338, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.872, 
+        "sw_longitude": -100.348, 
+        "fullname": "San Miguelito, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.863
+      }, 
+      "id": 144716
+    }
+  ]
+}

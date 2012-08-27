@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.933, 
+              51.705
+            ], 
+            [
+              13.933, 
+              51.740
+            ], 
+            [
+              13.962, 
+              51.740
+            ], 
+            [
+              13.962, 
+              51.705
+            ], 
+            [
+              13.933, 
+              51.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705433, 
+        "name": "Werchow", 
+        "adjacent_woeid": [
+          642962, 
+          685349, 
+          694610, 
+          709373
+        ], 
+        "ne_latitude": 51.740, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.962, 
+        "longitude": 13.952, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 24547267, 
+        "latitude": 51.724, 
+        "sw_longitude": 13.933, 
+        "fullname": "Werchow, Brandenburg, Oberspreewald-Lausitz, Germany", 
+        "sw_latitude": 51.705
+      }, 
+      "id": 705433
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.798, 
+              38.997
+            ], 
+            [
+              -77.798, 
+              39.006
+            ], 
+            [
+              -77.786, 
+              39.006
+            ], 
+            [
+              -77.786, 
+              38.997
+            ], 
+            [
+              -77.798, 
+              38.997
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2486981, 
+        "name": "St. Louis", 
+        "adjacent_woeid": [
+          2357141, 
+          2438144, 
+          2478630, 
+          2510029, 
+          2521010
+        ], 
+        "ne_latitude": 39.006, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Saint Louis"
+        ], 
+        "ne_longitude": -77.786, 
+        "longitude": -77.792, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:31:14Z", 
+        "parent_woeid": 12590376, 
+        "latitude": 39.002, 
+        "sw_longitude": -77.798, 
+        "fullname": "St. Louis, Virginia, Loudoun, United States", 
+        "sw_latitude": 38.997
+      }, 
+      "id": 2486981
+    }
+  ]
+}

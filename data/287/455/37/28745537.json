@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.108, 
+              39.208
+            ], 
+            [
+              -75.108, 
+              39.347
+            ], 
+            [
+              -74.977, 
+              39.347
+            ], 
+            [
+              -74.977, 
+              39.208
+            ], 
+            [
+              -75.108, 
+              39.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745537, 
+        "name": "Commercial", 
+        "adjacent_woeid": [
+          2364725, 
+          2419712, 
+          2437913, 
+          2446995, 
+          28745242, 
+          28745539
+        ], 
+        "ne_latitude": 39.347, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Commercial Twp"
+        ], 
+        "ne_longitude": -74.977, 
+        "longitude": -75.043, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589263, 
+        "latitude": 39.278, 
+        "sw_longitude": -75.108, 
+        "fullname": "Commercial, New Jersey, Cumberland, United States", 
+        "sw_latitude": 39.208
+      }, 
+      "id": 28745537
+    }
+  ]
+}

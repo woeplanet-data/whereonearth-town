@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.109, 
+              45.265
+            ], 
+            [
+              -1.109, 
+              45.274
+            ], 
+            [
+              -1.096, 
+              45.274
+            ], 
+            [
+              -1.096, 
+              45.265
+            ], 
+            [
+              -1.109, 
+              45.265
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624653, 
+        "name": "St.-Isidore", 
+        "adjacent_woeid": [
+          595000, 
+          602763, 
+          612261, 
+          613917
+        ], 
+        "ne_latitude": 45.274, 
+        "ne_longitude": -1.096, 
+        "longitude": -1.101, 
+        "parent_woeid": 12649864, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Isidore"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.270, 
+        "sw_longitude": -1.109, 
+        "fullname": "St.-Isidore, Aquitaine, Gironde, France", 
+        "sw_latitude": 45.265
+      }, 
+      "id": 624653
+    }
+  ]
+}

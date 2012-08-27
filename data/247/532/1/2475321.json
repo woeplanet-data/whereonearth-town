@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.063, 
+              29.676
+            ], 
+            [
+              -94.063, 
+              30.016
+            ], 
+            [
+              -93.830, 
+              30.016
+            ], 
+            [
+              -93.830, 
+              29.676
+            ], 
+            [
+              -94.063, 
+              29.676
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2475321, 
+        "name": "Port Arthur", 
+        "adjacent_woeid": [
+          2360899, 
+          2368872, 
+          2373698, 
+          2415029, 
+          2415358, 
+          2421964, 
+          2429582, 
+          2435598, 
+          2457504, 
+          2469675, 
+          2475304, 
+          2475441, 
+          2486281, 
+          2486282, 
+          2512734, 
+          2517614, 
+          28340411
+        ], 
+        "ne_latitude": 30.016, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Pt. Arthur"
+        ], 
+        "ne_longitude": -93.830, 
+        "longitude": -93.929, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:06Z", 
+        "parent_woeid": 12590129, 
+        "latitude": 29.899, 
+        "sw_longitude": -94.063, 
+        "fullname": "Port Arthur, Texas, Jefferson, United States", 
+        "sw_latitude": 29.676
+      }, 
+      "id": 2475321
+    }
+  ]
+}

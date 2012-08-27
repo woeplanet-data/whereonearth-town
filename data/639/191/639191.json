@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.414, 
+              50.178
+            ], 
+            [
+              10.414, 
+              50.228
+            ], 
+            [
+              10.453, 
+              50.228
+            ], 
+            [
+              10.453, 
+              50.178
+            ], 
+            [
+              10.414, 
+              50.178
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 639191, 
+        "name": "Birnfeld", 
+        "adjacent_woeid": [
+          635893, 
+          665769, 
+          671032, 
+          673487, 
+          677143, 
+          681629, 
+          706007, 
+          706027
+        ], 
+        "ne_latitude": 50.228, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.453, 
+        "longitude": 10.428, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:45Z", 
+        "parent_woeid": 12635433, 
+        "latitude": 50.201, 
+        "sw_longitude": 10.414, 
+        "fullname": "Birnfeld, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.178
+      }, 
+      "id": 639191
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.776, 
+              24.779
+            ], 
+            [
+              -111.776, 
+              24.797
+            ], 
+            [
+              -111.756, 
+              24.797
+            ], 
+            [
+              -111.756, 
+              24.779
+            ], 
+            [
+              -111.776, 
+              24.779
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.797, 
+        "name": "El Refugio", 
+        "adjacent_woeid": [
+          113385, 
+          116541, 
+          127466, 
+          137809, 
+          142091, 
+          146727, 
+          150896
+        ], 
+        "woeid": 121995, 
+        "alias_SPA_V": [
+          "Refugio"
+        ], 
+        "ne_longitude": -111.756, 
+        "longitude": -111.766, 
+        "parent_woeid": 12599695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.788, 
+        "sw_longitude": -111.776, 
+        "fullname": "El Refugio, Baja California Sur, Comondu, Mexico", 
+        "sw_latitude": 24.779
+      }, 
+      "id": 121995
+    }
+  ]
+}

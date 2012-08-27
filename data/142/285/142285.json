@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.293, 
+              20.008
+            ], 
+            [
+              -102.293, 
+              20.026
+            ], 
+            [
+              -102.274, 
+              20.026
+            ], 
+            [
+              -102.274, 
+              20.008
+            ], 
+            [
+              -102.293, 
+              20.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.026, 
+        "name": "San Esteban", 
+        "adjacent_woeid": [
+          112376, 
+          120730, 
+          131996, 
+          140914, 
+          55893118, 
+          56075052, 
+          56075054, 
+          56075055
+        ], 
+        "woeid": 142285, 
+        "alias_SPA_V": [
+          "S. Esteban"
+        ], 
+        "ne_longitude": -102.274, 
+        "longitude": -102.283, 
+        "parent_woeid": 12600548, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.017, 
+        "sw_longitude": -102.293, 
+        "fullname": "San Esteban, Michoacan de Ocampo, Zamora, Mexico", 
+        "sw_latitude": 20.008
+      }, 
+      "id": 142285
+    }
+  ]
+}

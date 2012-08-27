@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.856, 
+              49.697
+            ], 
+            [
+              3.856, 
+              49.752
+            ], 
+            [
+              3.896, 
+              49.752
+            ], 
+            [
+              3.896, 
+              49.697
+            ], 
+            [
+              3.856, 
+              49.697
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626536, 
+        "name": "St.-Pierremont", 
+        "adjacent_woeid": [
+          580868, 
+          589356, 
+          593190, 
+          599240, 
+          612776, 
+          628144
+        ], 
+        "ne_latitude": 49.752, 
+        "ne_longitude": 3.896, 
+        "longitude": 3.881, 
+        "parent_woeid": 22757795, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierremont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:40Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.723, 
+        "sw_longitude": 3.856, 
+        "fullname": "St.-Pierremont, Picardie, Aisne, France", 
+        "sw_latitude": 49.697
+      }, 
+      "id": 626536
+    }
+  ]
+}

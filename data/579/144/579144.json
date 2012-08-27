@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.758, 
+              49.673
+            ], 
+            [
+              1.758, 
+              49.685
+            ], 
+            [
+              1.772, 
+              49.685
+            ], 
+            [
+              1.772, 
+              49.673
+            ], 
+            [
+              1.758, 
+              49.673
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579144, 
+        "name": "Belleville", 
+        "adjacent_woeid": [
+          580180, 
+          587946, 
+          594650, 
+          599232, 
+          611768
+        ], 
+        "ne_latitude": 49.685, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.772, 
+        "longitude": 1.765, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "parent_woeid": 22755662, 
+        "latitude": 49.678, 
+        "sw_longitude": 1.758, 
+        "fullname": "Belleville, Picardie, Oise, France", 
+        "sw_latitude": 49.673
+      }, 
+      "id": 579144
+    }
+  ]
+}

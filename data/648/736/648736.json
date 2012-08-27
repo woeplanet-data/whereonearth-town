@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.481, 
+              48.772
+            ], 
+            [
+              12.481, 
+              48.800
+            ], 
+            [
+              12.503, 
+              48.800
+            ], 
+            [
+              12.503, 
+              48.772
+            ], 
+            [
+              12.481, 
+              48.772
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648736, 
+        "name": "Eschlbach", 
+        "adjacent_woeid": [
+          658105, 
+          675043, 
+          20155220, 
+          20172591
+        ], 
+        "ne_latitude": 48.800, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.503, 
+        "longitude": 12.493, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12623027, 
+        "latitude": 48.787, 
+        "sw_longitude": 12.481, 
+        "fullname": "Eschlbach, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 48.772
+      }, 
+      "id": 648736
+    }
+  ]
+}

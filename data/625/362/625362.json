@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.300, 
+              48.418
+            ], 
+            [
+              1.300, 
+              48.448
+            ], 
+            [
+              1.324, 
+              48.448
+            ], 
+            [
+              1.324, 
+              48.418
+            ], 
+            [
+              1.300, 
+              48.418
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625362, 
+        "name": "St.-Luperce", 
+        "adjacent_woeid": [
+          579427, 
+          585402, 
+          608746, 
+          20184964, 
+          29332402
+        ], 
+        "ne_latitude": 48.448, 
+        "ne_longitude": 1.324, 
+        "longitude": 1.317, 
+        "parent_woeid": 12645038, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Luperce"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.435, 
+        "sw_longitude": 1.300, 
+        "fullname": "St.-Luperce, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.418
+      }, 
+      "id": 625362
+    }
+  ]
+}

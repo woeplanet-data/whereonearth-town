@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.560, 
+              27.608
+            ], 
+            [
+              -103.560, 
+              27.626
+            ], 
+            [
+              -103.540, 
+              27.626
+            ], 
+            [
+              -103.540, 
+              27.608
+            ], 
+            [
+              -103.560, 
+              27.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.626, 
+        "name": "El Perdido", 
+        "adjacent_woeid": [
+          117054, 
+          118560, 
+          118800, 
+          119017, 
+          119472, 
+          127778, 
+          130694
+        ], 
+        "woeid": 121426, 
+        "alias_SPA_V": [
+          "Rancho El Perdido"
+        ], 
+        "ne_longitude": -103.540, 
+        "longitude": -103.550, 
+        "parent_woeid": 12599919, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.617, 
+        "sw_longitude": -103.560, 
+        "fullname": "El Perdido, Coahuila de Zaragoza, Sierra Mojada, Mexico", 
+        "sw_latitude": 27.608
+      }, 
+      "id": 121426
+    }
+  ]
+}

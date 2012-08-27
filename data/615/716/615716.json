@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.428, 
+              46.432
+            ], 
+            [
+              1.428, 
+              46.474
+            ], 
+            [
+              1.452, 
+              46.474
+            ], 
+            [
+              1.452, 
+              46.432
+            ], 
+            [
+              1.428, 
+              46.432
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615716, 
+        "name": "Parnac", 
+        "adjacent_woeid": [
+          596439, 
+          597636, 
+          620242, 
+          624436, 
+          20185478
+        ], 
+        "ne_latitude": 46.474, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.452, 
+        "longitude": 1.442, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12650425, 
+        "latitude": 46.453, 
+        "sw_longitude": 1.428, 
+        "fullname": "Parnac, Centre, Indre, France", 
+        "sw_latitude": 46.432
+      }, 
+      "id": 615716
+    }
+  ]
+}

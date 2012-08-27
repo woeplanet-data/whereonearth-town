@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -115.474, 
+              30.054
+            ], 
+            [
+              -115.474, 
+              30.072
+            ], 
+            [
+              -115.452, 
+              30.072
+            ], 
+            [
+              -115.452, 
+              30.054
+            ], 
+            [
+              -115.474, 
+              30.054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.072, 
+        "name": "El Aguajito", 
+        "adjacent_woeid": [
+          119098, 
+          119923, 
+          122202, 
+          122212, 
+          123327, 
+          133804
+        ], 
+        "woeid": 118924, 
+        "alias_SPA_V": [
+          "Aguajito"
+        ], 
+        "ne_longitude": -115.452, 
+        "longitude": -115.463, 
+        "parent_woeid": 12599691, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.063, 
+        "sw_longitude": -115.474, 
+        "fullname": "El Aguajito, Baja California, Ensenada, Mexico", 
+        "sw_latitude": 30.054
+      }, 
+      "id": 118924
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.552, 
+              20.301
+            ], 
+            [
+              -102.552, 
+              20.319
+            ], 
+            [
+              -102.533, 
+              20.319
+            ], 
+            [
+              -102.533, 
+              20.301
+            ], 
+            [
+              -102.552, 
+              20.301
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.319, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          119035, 
+          119498, 
+          120356, 
+          131710, 
+          132276, 
+          146331, 
+          150997, 
+          55889219
+        ], 
+        "woeid": 141679, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -102.533, 
+        "longitude": -102.542, 
+        "parent_woeid": 12600249, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.310, 
+        "sw_longitude": -102.552, 
+        "fullname": "San Antonio, Jalisco, La Barca, Mexico", 
+        "sw_latitude": 20.301
+      }, 
+      "id": 141679
+    }
+  ]
+}

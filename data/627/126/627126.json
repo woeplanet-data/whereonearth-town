@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.051, 
+              43.494
+            ], 
+            [
+              1.051, 
+              43.537
+            ], 
+            [
+              1.118, 
+              43.537
+            ], 
+            [
+              1.118, 
+              43.494
+            ], 
+            [
+              1.051, 
+              43.494
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627126, 
+        "name": "St.-Thomas", 
+        "adjacent_woeid": [
+          577306, 
+          580728, 
+          581539, 
+          589629, 
+          620613, 
+          622087, 
+          627536
+        ], 
+        "ne_latitude": 43.537, 
+        "ne_longitude": 1.118, 
+        "longitude": 1.083, 
+        "parent_woeid": 12671296, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Thomas"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.514, 
+        "sw_longitude": 1.051, 
+        "fullname": "St.-Thomas, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.494
+      }, 
+      "id": 627126
+    }
+  ]
+}

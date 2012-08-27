@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.544, 
+              29.108
+            ], 
+            [
+              -103.544, 
+              29.126
+            ], 
+            [
+              -103.523, 
+              29.126
+            ], 
+            [
+              -103.523, 
+              29.108
+            ], 
+            [
+              -103.544, 
+              29.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.126, 
+        "name": "Santa Helena", 
+        "adjacent_woeid": [
+          118523, 
+          118634, 
+          123234, 
+          132907, 
+          146111
+        ], 
+        "woeid": 146213, 
+        "alias_SPA_V": [
+          "Sta Helena"
+        ], 
+        "ne_longitude": -103.523, 
+        "longitude": -103.533, 
+        "parent_woeid": 12599861, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.117, 
+        "sw_longitude": -103.544, 
+        "fullname": "Santa Helena, Chihuahua, Manuel Benavides, Mexico", 
+        "sw_latitude": 29.108
+      }, 
+      "id": 146213
+    }
+  ]
+}

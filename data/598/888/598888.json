@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.025, 
+              50.401
+            ], 
+            [
+              2.025, 
+              50.420
+            ], 
+            [
+              2.053, 
+              50.420
+            ], 
+            [
+              2.053, 
+              50.401
+            ], 
+            [
+              2.025, 
+              50.401
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598888, 
+        "name": "La Loge", 
+        "adjacent_woeid": [
+          583472, 
+          595025, 
+          632811
+        ], 
+        "ne_latitude": 50.420, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.053, 
+        "longitude": 2.040, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 12663770, 
+        "latitude": 50.411, 
+        "sw_longitude": 2.025, 
+        "fullname": "La Loge, Nord-Pas-de-Calais, Pas-de-Calais, France", 
+        "sw_latitude": 50.401
+      }, 
+      "id": 598888
+    }
+  ]
+}

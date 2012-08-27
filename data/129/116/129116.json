@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.010, 
+              21.608
+            ], 
+            [
+              -105.010, 
+              21.626
+            ], 
+            [
+              -104.990, 
+              21.626
+            ], 
+            [
+              -104.990, 
+              21.608
+            ], 
+            [
+              -105.010, 
+              21.608
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.626, 
+        "name": "La Resolana", 
+        "adjacent_woeid": [
+          113370, 
+          113883, 
+          120231, 
+          120658, 
+          126186, 
+          127664, 
+          143748
+        ], 
+        "woeid": 129116, 
+        "alias_SPA_V": [
+          "Presa el Ingenio"
+        ], 
+        "ne_longitude": -104.990, 
+        "longitude": -105.000, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.617, 
+        "sw_longitude": -105.010, 
+        "fullname": "La Resolana, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.608
+      }, 
+      "id": 129116
+    }
+  ]
+}

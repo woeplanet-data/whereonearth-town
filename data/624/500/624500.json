@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.429, 
+              43.664
+            ], 
+            [
+              3.429, 
+              43.701
+            ], 
+            [
+              3.472, 
+              43.701
+            ], 
+            [
+              3.472, 
+              43.664
+            ], 
+            [
+              3.429, 
+              43.664
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624500, 
+        "name": "St.-Guiraud", 
+        "adjacent_woeid": [
+          595576, 
+          623989, 
+          624753, 
+          626845, 
+          15003103, 
+          29331733
+        ], 
+        "ne_latitude": 43.701, 
+        "ne_longitude": 3.472, 
+        "longitude": 3.455, 
+        "parent_woeid": 12670538, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Guiraud"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.676, 
+        "sw_longitude": 3.429, 
+        "fullname": "St.-Guiraud, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.664
+      }, 
+      "id": 624500
+    }
+  ]
+}

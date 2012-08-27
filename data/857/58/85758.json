@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.741, 
+              15.026
+            ], 
+            [
+              -91.741, 
+              15.040
+            ], 
+            [
+              -91.726, 
+              15.040
+            ], 
+            [
+              -91.726, 
+              15.026
+            ], 
+            [
+              -91.741, 
+              15.026
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.040, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          81942, 
+          85036, 
+          85351, 
+          85867, 
+          86213
+        ], 
+        "woeid": 85758, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -91.726, 
+        "longitude": -91.733, 
+        "parent_woeid": 26807154, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.033, 
+        "sw_longitude": -91.741, 
+        "fullname": "San Lorenzo, San Marcos, San Lorenzo, Guatemala", 
+        "sw_latitude": 15.026
+      }, 
+      "id": 85758
+    }
+  ]
+}

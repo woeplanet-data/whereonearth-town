@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.204, 
+              49.160
+            ], 
+            [
+              4.204, 
+              49.192
+            ], 
+            [
+              4.253, 
+              49.192
+            ], 
+            [
+              4.253, 
+              49.160
+            ], 
+            [
+              4.204, 
+              49.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628625, 
+        "name": "Val-de-Vesle", 
+        "adjacent_woeid": [
+          578768, 
+          579001, 
+          607113, 
+          618134, 
+          618179, 
+          621805, 
+          632049
+        ], 
+        "ne_latitude": 49.192, 
+        "ne_longitude": 4.253, 
+        "longitude": 4.219, 
+        "parent_woeid": 12642372, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Thuizy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.177, 
+        "sw_longitude": 4.204, 
+        "fullname": "Val-de-Vesle, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.160
+      }, 
+      "id": 628625
+    }
+  ]
+}

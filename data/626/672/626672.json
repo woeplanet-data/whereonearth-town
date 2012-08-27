@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.350, 
+              46.251
+            ], 
+            [
+              4.350, 
+              46.279
+            ], 
+            [
+              4.381, 
+              46.279
+            ], 
+            [
+              4.381, 
+              46.251
+            ], 
+            [
+              4.350, 
+              46.251
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626672, 
+        "name": "St.-Racho", 
+        "adjacent_woeid": [
+          575525, 
+          576147, 
+          585055, 
+          613757, 
+          623567, 
+          630097
+        ], 
+        "ne_latitude": 46.279, 
+        "ne_longitude": 4.381, 
+        "longitude": 4.367, 
+        "parent_woeid": 12653156, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Racho"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.265, 
+        "sw_longitude": 4.350, 
+        "fullname": "St.-Racho, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.251
+      }, 
+      "id": 626672
+    }
+  ]
+}

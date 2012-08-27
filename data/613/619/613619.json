@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.871, 
+              43.512
+            ], 
+            [
+              1.871, 
+              43.550
+            ], 
+            [
+              1.908, 
+              43.550
+            ], 
+            [
+              1.908, 
+              43.512
+            ], 
+            [
+              1.871, 
+              43.512
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613619, 
+        "name": "Mouzens", 
+        "adjacent_woeid": [
+          575479, 
+          602398, 
+          618246, 
+          624916
+        ], 
+        "ne_latitude": 43.550, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.908, 
+        "longitude": 1.887, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12667388, 
+        "latitude": 43.529, 
+        "sw_longitude": 1.871, 
+        "fullname": "Mouzens, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.512
+      }, 
+      "id": 613619
+    }
+  ]
+}

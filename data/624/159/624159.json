@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.257, 
+              45.968
+            ], 
+            [
+              0.257, 
+              45.984
+            ], 
+            [
+              0.285, 
+              45.984
+            ], 
+            [
+              0.285, 
+              45.968
+            ], 
+            [
+              0.257, 
+              45.968
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624159, 
+        "name": "St.-Georges", 
+        "adjacent_woeid": [
+          575619, 
+          617642, 
+          617744
+        ], 
+        "ne_latitude": 45.984, 
+        "ne_longitude": 0.285, 
+        "longitude": 0.272, 
+        "parent_woeid": 12670480, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Georges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.973, 
+        "sw_longitude": 0.257, 
+        "fullname": "St.-Georges, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.968
+      }, 
+      "id": 624159
+    }
+  ]
+}

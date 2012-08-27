@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.226, 
+              20.741
+            ], 
+            [
+              -100.226, 
+              20.759
+            ], 
+            [
+              -100.207, 
+              20.759
+            ], 
+            [
+              -100.207, 
+              20.741
+            ], 
+            [
+              -100.226, 
+              20.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.759, 
+        "name": "Alfajayuca", 
+        "adjacent_woeid": [
+          112031, 
+          112660, 
+          120746, 
+          145256, 
+          55895204
+        ], 
+        "woeid": 111829, 
+        "alias_SPA_V": [
+          "Alfajayucan"
+        ], 
+        "ne_longitude": -100.207, 
+        "longitude": -100.217, 
+        "parent_woeid": 12601449, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.750, 
+        "sw_longitude": -100.226, 
+        "fullname": "Alfajayuca, Queretaro de Arteaga, El Marques, Mexico", 
+        "sw_latitude": 20.741
+      }, 
+      "id": 111829
+    }
+  ]
+}

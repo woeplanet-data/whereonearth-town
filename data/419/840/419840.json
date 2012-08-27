@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.822, 
+              -40.601
+            ], 
+            [
+              -67.822, 
+              -40.561
+            ], 
+            [
+              -67.745, 
+              -40.561
+            ], 
+            [
+              -67.745, 
+              -40.601
+            ], 
+            [
+              -67.822, 
+              -40.601
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -40.561, 
+        "name": "Sierra Colorado", 
+        "adjacent_woeid": [
+          330386, 
+          332506, 
+          332634, 
+          466587, 
+          466974, 
+          467174, 
+          467179, 
+          467308, 
+          467367, 
+          467447, 
+          26795870, 
+          26795872, 
+          56040094, 
+          56040158, 
+          56040182, 
+          56040283, 
+          56040646
+        ], 
+        "woeid": 419840, 
+        "alias_SPA_V": [
+          "Sierra Colorada"
+        ], 
+        "ne_longitude": -67.745, 
+        "longitude": -67.757, 
+        "parent_woeid": 20070728, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:42Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -40.588, 
+        "sw_longitude": -67.822, 
+        "fullname": "Sierra Colorado, Rio Negro, 9 de Julio, Argentina", 
+        "sw_latitude": -40.601
+      }, 
+      "id": 419840
+    }
+  ]
+}

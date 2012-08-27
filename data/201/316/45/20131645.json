@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.204, 
+              44.185
+            ], 
+            [
+              10.204, 
+              44.252
+            ], 
+            [
+              10.232, 
+              44.252
+            ], 
+            [
+              10.232, 
+              44.185
+            ], 
+            [
+              10.204, 
+              44.185
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20131645, 
+        "name": "Metra", 
+        "adjacent_woeid": [
+          20109873, 
+          20118785, 
+          20132773, 
+          20136608, 
+          20139155, 
+          20143669, 
+          22526789, 
+          29337217
+        ], 
+        "ne_latitude": 44.252, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.232, 
+        "longitude": 10.216, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:28:39Z", 
+        "parent_woeid": 12678114, 
+        "latitude": 44.206, 
+        "sw_longitude": 10.204, 
+        "fullname": "Metra, Tuscany, Lucca, Italy", 
+        "sw_latitude": 44.185
+      }, 
+      "id": 20131645
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.173, 
+              52.203
+            ], 
+            [
+              11.173, 
+              52.249
+            ], 
+            [
+              11.221, 
+              52.249
+            ], 
+            [
+              11.221, 
+              52.203
+            ], 
+            [
+              11.173, 
+              52.203
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647199, 
+        "name": "Eimersleben", 
+        "adjacent_woeid": [
+          648592, 
+          683781, 
+          702983
+        ], 
+        "ne_latitude": 52.249, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.221, 
+        "longitude": 11.199, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12626700, 
+        "latitude": 52.222, 
+        "sw_longitude": 11.173, 
+        "fullname": "Eimersleben, Saxony-Anhalt, Ohrekreis, Germany", 
+        "sw_latitude": 52.203
+      }, 
+      "id": 647199
+    }
+  ]
+}

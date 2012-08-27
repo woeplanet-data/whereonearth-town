@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.686, 
+              43.098
+            ], 
+            [
+              1.686, 
+              43.124
+            ], 
+            [
+              1.743, 
+              43.124
+            ], 
+            [
+              1.743, 
+              43.098
+            ], 
+            [
+              1.686, 
+              43.098
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622839, 
+        "name": "St.-Amadou", 
+        "adjacent_woeid": [
+          600141, 
+          602426, 
+          607242, 
+          608937, 
+          623995, 
+          20191094
+        ], 
+        "ne_latitude": 43.124, 
+        "ne_longitude": 1.743, 
+        "longitude": 1.723, 
+        "parent_woeid": 12670073, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Amadou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.111, 
+        "sw_longitude": 1.686, 
+        "fullname": "St.-Amadou, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.098
+      }, 
+      "id": 622839
+    }
+  ]
+}

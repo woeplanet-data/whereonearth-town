@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.276, 
+              20.141
+            ], 
+            [
+              -102.276, 
+              20.159
+            ], 
+            [
+              -102.257, 
+              20.159
+            ], 
+            [
+              -102.257, 
+              20.141
+            ], 
+            [
+              -102.276, 
+              20.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.159, 
+        "name": "Las Majadas", 
+        "adjacent_woeid": [
+          122306, 
+          128413, 
+          130592, 
+          143572, 
+          149422, 
+          150335
+        ], 
+        "woeid": 130584, 
+        "alias_SPA_V": [
+          "Las Mojadas"
+        ], 
+        "ne_longitude": -102.257, 
+        "longitude": -102.267, 
+        "parent_woeid": 12600470, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.150, 
+        "sw_longitude": -102.276, 
+        "fullname": "Las Majadas, Michoacan de Ocampo, Ecuandureo, Mexico", 
+        "sw_latitude": 20.141
+      }, 
+      "id": 130584
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.576, 
+              20.591
+            ], 
+            [
+              -98.576, 
+              20.609
+            ], 
+            [
+              -98.557, 
+              20.609
+            ], 
+            [
+              -98.557, 
+              20.591
+            ], 
+            [
+              -98.576, 
+              20.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.609, 
+        "name": "Carpinteros", 
+        "adjacent_woeid": [
+          116419, 
+          125080, 
+          135260, 
+          147183, 
+          149565, 
+          150286
+        ], 
+        "woeid": 114887, 
+        "alias_SPA_V": [
+          "Carpintero"
+        ], 
+        "ne_longitude": -98.557, 
+        "longitude": -98.567, 
+        "parent_woeid": 12600159, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.600, 
+        "sw_longitude": -98.576, 
+        "fullname": "Carpinteros, Hidalgo, San Agustin Metzquititlan, Mexico", 
+        "sw_latitude": 20.591
+      }, 
+      "id": 114887
+    }
+  ]
+}

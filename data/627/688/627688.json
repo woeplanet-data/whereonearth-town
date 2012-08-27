@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.298, 
+              47.459
+            ], 
+            [
+              2.298, 
+              47.520
+            ], 
+            [
+              2.358, 
+              47.520
+            ], 
+            [
+              2.358, 
+              47.459
+            ], 
+            [
+              2.298, 
+              47.459
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627688, 
+        "name": "Ste.-Montaine", 
+        "adjacent_woeid": [
+          582003, 
+          586208, 
+          589675, 
+          610963, 
+          622516
+        ], 
+        "ne_latitude": 47.520, 
+        "ne_longitude": 2.358, 
+        "longitude": 2.320, 
+        "parent_woeid": 12647876, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Montaine"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.490, 
+        "sw_longitude": 2.298, 
+        "fullname": "Ste.-Montaine, Centre, Cher, France", 
+        "sw_latitude": 47.459
+      }, 
+      "id": 627688
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.124, 
+              48.088
+            ], 
+            [
+              2.124, 
+              48.124
+            ], 
+            [
+              2.163, 
+              48.124
+            ], 
+            [
+              2.163, 
+              48.088
+            ], 
+            [
+              2.124, 
+              48.088
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597138, 
+        "name": "La Brosse", 
+        "adjacent_woeid": [
+          576994, 
+          585848, 
+          591923, 
+          609929, 
+          612760, 
+          620958
+        ], 
+        "ne_latitude": 48.124, 
+        "ne_longitude": 2.163, 
+        "longitude": 2.144, 
+        "parent_woeid": 12645930, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Labrosse"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.106, 
+        "sw_longitude": 2.124, 
+        "fullname": "La Brosse, Centre, Loiret, France", 
+        "sw_latitude": 48.088
+      }, 
+      "id": 597138
+    }
+  ]
+}

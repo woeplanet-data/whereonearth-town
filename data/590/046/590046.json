@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.785, 
+              43.249
+            ], 
+            [
+              0.785, 
+              43.275
+            ], 
+            [
+              0.831, 
+              43.275
+            ], 
+            [
+              0.831, 
+              43.249
+            ], 
+            [
+              0.785, 
+              43.249
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590046, 
+        "name": "Esparron", 
+        "adjacent_woeid": [
+          583184, 
+          583298, 
+          589944, 
+          608103, 
+          622904
+        ], 
+        "ne_latitude": 43.275, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.831, 
+        "longitude": 0.804, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12660999, 
+        "latitude": 43.266, 
+        "sw_longitude": 0.785, 
+        "fullname": "Esparron, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.249
+      }, 
+      "id": 590046
+    }
+  ]
+}

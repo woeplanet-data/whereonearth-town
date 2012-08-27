@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.577, 
+              23.808
+            ], 
+            [
+              -100.577, 
+              23.826
+            ], 
+            [
+              -100.557, 
+              23.826
+            ], 
+            [
+              -100.557, 
+              23.808
+            ], 
+            [
+              -100.577, 
+              23.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.826, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          122221, 
+          129871, 
+          142828, 
+          144835, 
+          146950, 
+          151543
+        ], 
+        "woeid": 144525, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -100.557, 
+        "longitude": -100.567, 
+        "parent_woeid": 12601476, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.817, 
+        "sw_longitude": -100.577, 
+        "fullname": "San Miguel, San Luis Potosi, Cedral, Mexico", 
+        "sw_latitude": 23.808
+      }, 
+      "id": 144525
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.253, 
+              44.858
+            ], 
+            [
+              0.253, 
+              44.876
+            ], 
+            [
+              0.279, 
+              44.876
+            ], 
+            [
+              0.279, 
+              44.858
+            ], 
+            [
+              0.253, 
+              44.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626047, 
+        "name": "St.-Nazaire", 
+        "adjacent_woeid": [
+          602929, 
+          623158, 
+          626407
+        ], 
+        "ne_latitude": 44.876, 
+        "ne_longitude": 0.279, 
+        "longitude": 0.265, 
+        "parent_woeid": 12652228, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Nazaire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.867, 
+        "sw_longitude": 0.253, 
+        "fullname": "St.-Nazaire, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.858
+      }, 
+      "id": 626047
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.372, 
+              46.571
+            ], 
+            [
+              -72.372, 
+              46.703
+            ], 
+            [
+              -72.230, 
+              46.703
+            ], 
+            [
+              -72.230, 
+              46.571
+            ], 
+            [
+              -72.372, 
+              46.571
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396599, 
+        "name": "St.-Prosper", 
+        "adjacent_woeid": [
+          1456, 
+          23394513, 
+          23394613, 
+          23394618, 
+          23396488, 
+          29374206
+        ], 
+        "ne_latitude": 46.703, 
+        "ne_longitude": -72.230, 
+        "longitude": -72.294, 
+        "parent_woeid": 29375046, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Prosper"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.615, 
+        "sw_longitude": -72.372, 
+        "fullname": "St.-Prosper, Quebec, Les Chenaux, Canada", 
+        "sw_latitude": 46.571
+      }, 
+      "id": 23396599
+    }
+  ]
+}

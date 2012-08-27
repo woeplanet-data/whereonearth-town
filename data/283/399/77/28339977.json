@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.508, 
+              40.093
+            ], 
+            [
+              -77.508, 
+              40.193
+            ], 
+            [
+              -77.390, 
+              40.193
+            ], 
+            [
+              -77.390, 
+              40.093
+            ], 
+            [
+              -77.508, 
+              40.093
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28339977, 
+        "name": "North Newton", 
+        "adjacent_woeid": [
+          2414006, 
+          2437890, 
+          2450244, 
+          2500606, 
+          23511291, 
+          28339982, 
+          28745216
+        ], 
+        "ne_latitude": 40.193, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "N Newton"
+        ], 
+        "ne_longitude": -77.390, 
+        "longitude": -77.434, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589748, 
+        "latitude": 40.142, 
+        "sw_longitude": -77.508, 
+        "fullname": "North Newton, Pennsylvania, Cumberland, United States", 
+        "sw_latitude": 40.093
+      }, 
+      "id": 28339977
+    }
+  ]
+}

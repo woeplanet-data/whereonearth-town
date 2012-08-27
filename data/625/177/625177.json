@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.868, 
+              44.852
+            ], 
+            [
+              1.868, 
+              44.876
+            ], 
+            [
+              1.900, 
+              44.876
+            ], 
+            [
+              1.900, 
+              44.852
+            ], 
+            [
+              1.868, 
+              44.852
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625177, 
+        "name": "St.-Laurent-les-Tours", 
+        "adjacent_woeid": [
+          579205, 
+          587028, 
+          591940, 
+          624853
+        ], 
+        "ne_latitude": 44.876, 
+        "alias_ENG_V": [
+          "Saint-Laurent"
+        ], 
+        "ne_longitude": 1.900, 
+        "longitude": 1.883, 
+        "parent_woeid": 12660156, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Laurent-les-Tours"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.866, 
+        "sw_longitude": 1.868, 
+        "fullname": "St.-Laurent-les-Tours, St-Laurent, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.852
+      }, 
+      "id": 625177
+    }
+  ]
+}

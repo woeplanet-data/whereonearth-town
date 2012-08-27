@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.234, 
+              49.188
+            ], 
+            [
+              10.234, 
+              49.207
+            ], 
+            [
+              10.257, 
+              49.207
+            ], 
+            [
+              10.257, 
+              49.188
+            ], 
+            [
+              10.234, 
+              49.188
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700597, 
+        "name": "Ungetsheim", 
+        "adjacent_woeid": [
+          640989, 
+          680791, 
+          700715, 
+          709279, 
+          20158681
+        ], 
+        "ne_latitude": 49.207, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.257, 
+        "longitude": 10.252, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12634400, 
+        "latitude": 49.200, 
+        "sw_longitude": 10.234, 
+        "fullname": "Ungetsheim, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.188
+      }, 
+      "id": 700597
+    }
+  ]
+}

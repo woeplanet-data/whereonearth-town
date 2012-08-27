@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.679, 
+              45.842
+            ], 
+            [
+              -73.679, 
+              45.897
+            ], 
+            [
+              -73.592, 
+              45.897
+            ], 
+            [
+              -73.592, 
+              45.842
+            ], 
+            [
+              -73.679, 
+              45.842
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394698, 
+        "name": "St.-Roch-Ouest", 
+        "adjacent_woeid": [
+          3512, 
+          23394287, 
+          23396541, 
+          29374330, 
+          29374650
+        ], 
+        "ne_latitude": 45.897, 
+        "ne_longitude": -73.592, 
+        "longitude": -73.671, 
+        "parent_woeid": 29375133, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Roch-Ouest"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.850, 
+        "sw_longitude": -73.679, 
+        "fullname": "St.-Roch-Ouest, Quebec, Montcalm, Canada", 
+        "sw_latitude": 45.842
+      }, 
+      "id": 23394698
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.928, 
+              45.983
+            ], 
+            [
+              2.928, 
+              46.011
+            ], 
+            [
+              2.945, 
+              46.011
+            ], 
+            [
+              2.945, 
+              45.983
+            ], 
+            [
+              2.928, 
+              45.983
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622975, 
+        "name": "St.-Angel", 
+        "adjacent_woeid": [
+          584983, 
+          20206834, 
+          20206842, 
+          20206845, 
+          20207037, 
+          20207040, 
+          29332698
+        ], 
+        "ne_latitude": 46.011, 
+        "ne_longitude": 2.945, 
+        "longitude": 2.935, 
+        "parent_woeid": 12652172, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Angel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.998, 
+        "sw_longitude": 2.928, 
+        "fullname": "St.-Angel, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.983
+      }, 
+      "id": 622975
+    }
+  ]
+}

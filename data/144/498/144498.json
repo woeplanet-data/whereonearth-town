@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.521, 
+              25.814
+            ], 
+            [
+              -97.521, 
+              25.832
+            ], 
+            [
+              -97.501, 
+              25.832
+            ], 
+            [
+              -97.501, 
+              25.814
+            ], 
+            [
+              -97.521, 
+              25.814
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.832, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          113462, 
+          121804, 
+          124204
+        ], 
+        "woeid": 144498, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -97.501, 
+        "longitude": -97.511, 
+        "parent_woeid": 12601653, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.823, 
+        "sw_longitude": -97.521, 
+        "fullname": "San Miguel, Tamaulipas, Matamoros, Mexico", 
+        "sw_latitude": 25.814
+      }, 
+      "id": 144498
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.138, 
+              50.305
+            ], 
+            [
+              9.138, 
+              50.345
+            ], 
+            [
+              9.180, 
+              50.345
+            ], 
+            [
+              9.180, 
+              50.305
+            ], 
+            [
+              9.138, 
+              50.305
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675145, 
+        "name": "Michelau", 
+        "adjacent_woeid": [
+          638987, 
+          645854, 
+          688777, 
+          707566
+        ], 
+        "ne_latitude": 50.345, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.180, 
+        "longitude": 9.166, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12632576, 
+        "latitude": 50.329, 
+        "sw_longitude": 9.138, 
+        "fullname": "Michelau, Hesse, Wetteraukreis, Germany", 
+        "sw_latitude": 50.305
+      }, 
+      "id": 675145
+    }
+  ]
+}

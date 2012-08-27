@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.105, 
+              50.273
+            ], 
+            [
+              10.105, 
+              50.323
+            ], 
+            [
+              10.135, 
+              50.323
+            ], 
+            [
+              10.135, 
+              50.273
+            ], 
+            [
+              10.105, 
+              50.273
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 679210, 
+        "name": "Nickersfelden", 
+        "adjacent_woeid": [
+          689859, 
+          700865, 
+          706903
+        ], 
+        "ne_latitude": 50.323, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.135, 
+        "longitude": 10.119, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:00Z", 
+        "parent_woeid": 12635491, 
+        "latitude": 50.291, 
+        "sw_longitude": 10.105, 
+        "fullname": "Nickersfelden, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.273
+      }, 
+      "id": 679210
+    }
+  ]
+}

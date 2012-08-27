@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.668, 
+              49.323
+            ], 
+            [
+              10.668, 
+              49.332
+            ], 
+            [
+              10.682, 
+              49.332
+            ], 
+            [
+              10.682, 
+              49.323
+            ], 
+            [
+              10.668, 
+              49.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650950, 
+        "name": "Frohnhof", 
+        "adjacent_woeid": [
+          650214, 
+          669459, 
+          699372, 
+          702229, 
+          708328
+        ], 
+        "ne_latitude": 49.332, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.682, 
+        "longitude": 10.675, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12634420, 
+        "latitude": 49.328, 
+        "sw_longitude": 10.668, 
+        "fullname": "Frohnhof, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.323
+      }, 
+      "id": 650950
+    }
+  ]
+}

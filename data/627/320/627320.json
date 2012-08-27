@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.553, 
+              49.080
+            ], 
+            [
+              2.553, 
+              49.121
+            ], 
+            [
+              2.587, 
+              49.121
+            ], 
+            [
+              2.587, 
+              49.080
+            ], 
+            [
+              2.553, 
+              49.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627320, 
+        "name": "St.-Witz", 
+        "adjacent_woeid": [
+          627883, 
+          630516, 
+          631968
+        ], 
+        "ne_latitude": 49.121, 
+        "ne_longitude": 2.587, 
+        "longitude": 2.568, 
+        "parent_woeid": 12653320, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Witz"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.092, 
+        "sw_longitude": 2.553, 
+        "fullname": "St.-Witz, Ile-de-France, Val-d'Oise, France", 
+        "sw_latitude": 49.080
+      }, 
+      "id": 627320
+    }
+  ]
+}

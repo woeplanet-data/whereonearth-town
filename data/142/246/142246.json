@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.939, 
+              24.095
+            ], 
+            [
+              -105.939, 
+              24.113
+            ], 
+            [
+              -105.919, 
+              24.113
+            ], 
+            [
+              -105.919, 
+              24.095
+            ], 
+            [
+              -105.939, 
+              24.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.113, 
+        "name": "San Dimas", 
+        "adjacent_woeid": [
+          114813, 
+          117274, 
+          130462, 
+          148398
+        ], 
+        "woeid": 142246, 
+        "alias_SPA_V": [
+          "S. Dimas"
+        ], 
+        "ne_longitude": -105.919, 
+        "longitude": -105.929, 
+        "parent_woeid": 12599976, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.104, 
+        "sw_longitude": -105.939, 
+        "fullname": "San Dimas, Durango, San Dimas, Mexico", 
+        "sw_latitude": 24.095
+      }, 
+      "id": 142246
+    }
+  ]
+}

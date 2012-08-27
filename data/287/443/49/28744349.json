@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.569, 
+              44.703
+            ], 
+            [
+              -85.569, 
+              44.721
+            ], 
+            [
+              -85.544, 
+              44.721
+            ], 
+            [
+              -85.544, 
+              44.703
+            ], 
+            [
+              -85.569, 
+              44.703
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744349, 
+        "name": "East Bay", 
+        "adjacent_woeid": [
+          2380223, 
+          2391677, 
+          2404010, 
+          2422257, 
+          28743833
+        ], 
+        "ne_latitude": 44.721, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "E Bay Township"
+        ], 
+        "ne_longitude": -85.544, 
+        "longitude": -85.557, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:35:50Z", 
+        "parent_woeid": 12588741, 
+        "latitude": 44.712, 
+        "sw_longitude": -85.569, 
+        "fullname": "East Bay, Michigan, Grand Traverse, United States", 
+        "sw_latitude": 44.703
+      }, 
+      "id": 28744349
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.677, 
+              45.846
+            ], 
+            [
+              1.677, 
+              45.867
+            ], 
+            [
+              1.697, 
+              45.867
+            ], 
+            [
+              1.697, 
+              45.846
+            ], 
+            [
+              1.677, 
+              45.846
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626036, 
+        "name": "St.-Moreil", 
+        "adjacent_woeid": [
+          577336, 
+          585458, 
+          603497, 
+          625000, 
+          625022, 
+          626597, 
+          20190620
+        ], 
+        "ne_latitude": 45.867, 
+        "ne_longitude": 1.697, 
+        "longitude": 1.687, 
+        "parent_woeid": 20074907, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Moreil"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.856, 
+        "sw_longitude": 1.677, 
+        "fullname": "St.-Moreil, Limousin, Creuse, France", 
+        "sw_latitude": 45.846
+      }, 
+      "id": 626036
+    }
+  ]
+}

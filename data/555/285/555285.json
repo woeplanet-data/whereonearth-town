@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.414, 
+              55.339
+            ], 
+            [
+              10.414, 
+              55.350
+            ], 
+            [
+              10.440, 
+              55.350
+            ], 
+            [
+              10.440, 
+              55.339
+            ], 
+            [
+              10.414, 
+              55.339
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555285, 
+        "name": "Lindved", 
+        "adjacent_woeid": [
+          551914, 
+          554086, 
+          554170, 
+          555731, 
+          556053, 
+          558840
+        ], 
+        "ne_latitude": 55.350, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.440, 
+        "longitude": 10.422, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:48Z", 
+        "parent_woeid": 12582683, 
+        "latitude": 55.344, 
+        "sw_longitude": 10.414, 
+        "fullname": "Lindved, Syddanmark, Odense, Denmark", 
+        "sw_latitude": 55.339
+      }, 
+      "id": 555285
+    }
+  ]
+}

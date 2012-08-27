@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.643, 
+              49.189
+            ], 
+            [
+              0.643, 
+              49.215
+            ], 
+            [
+              0.682, 
+              49.215
+            ], 
+            [
+              0.682, 
+              49.189
+            ], 
+            [
+              0.643, 
+              49.189
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626450, 
+        "name": "St.-Pierre-de-Salerne", 
+        "adjacent_woeid": [
+          577406, 
+          581819, 
+          608284, 
+          613304, 
+          614199, 
+          623649, 
+          15003057
+        ], 
+        "ne_latitude": 49.215, 
+        "ne_longitude": 0.682, 
+        "longitude": 0.661, 
+        "parent_woeid": 12653101, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre-de-Salerne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.202, 
+        "sw_longitude": 0.643, 
+        "fullname": "St.-Pierre-de-Salerne, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.189
+      }, 
+      "id": 626450
+    }
+  ]
+}

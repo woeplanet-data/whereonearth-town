@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.255, 
+              46.660
+            ], 
+            [
+              8.255, 
+              46.678
+            ], 
+            [
+              8.282, 
+              46.678
+            ], 
+            [
+              8.282, 
+              46.660
+            ], 
+            [
+              8.255, 
+              46.660
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 781850, 
+        "name": "Boden", 
+        "adjacent_woeid": [
+          782705, 
+          784116, 
+          20104561
+        ], 
+        "ne_latitude": 46.678, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.282, 
+        "longitude": 8.269, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:06Z", 
+        "parent_woeid": 12682996, 
+        "latitude": 46.669, 
+        "sw_longitude": 8.255, 
+        "fullname": "Boden, Canton of Berne, Oberhasli, Switzerland", 
+        "sw_latitude": 46.660
+      }, 
+      "id": 781850
+    }
+  ]
+}

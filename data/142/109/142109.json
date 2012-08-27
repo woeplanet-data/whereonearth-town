@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.643, 
+              21.424
+            ], 
+            [
+              -100.643, 
+              21.442
+            ], 
+            [
+              -100.624, 
+              21.442
+            ], 
+            [
+              -100.624, 
+              21.424
+            ], 
+            [
+              -100.643, 
+              21.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.442, 
+        "name": "San Cayetano", 
+        "adjacent_woeid": [
+          125822, 
+          125967, 
+          127589, 
+          129010, 
+          129231, 
+          137378, 
+          146885
+        ], 
+        "woeid": 142109, 
+        "alias_SPA_V": [
+          "S. Cayetano"
+        ], 
+        "ne_longitude": -100.624, 
+        "longitude": -100.633, 
+        "parent_woeid": 12600021, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.433, 
+        "sw_longitude": -100.643, 
+        "fullname": "San Cayetano, Guanajuato, San Luis de la Paz, Mexico", 
+        "sw_latitude": 21.424
+      }, 
+      "id": 142109
+    }
+  ]
+}

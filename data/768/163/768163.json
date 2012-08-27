@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.643, 
+              43.131
+            ], 
+            [
+              -1.643, 
+              43.166
+            ], 
+            [
+              -1.623, 
+              43.166
+            ], 
+            [
+              -1.623, 
+              43.131
+            ], 
+            [
+              -1.643, 
+              43.131
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.166, 
+        "name": "Narvarte", 
+        "adjacent_woeid": [
+          758782, 
+          758866, 
+          762666, 
+          765050, 
+          20222375, 
+          20225001, 
+          22661478
+        ], 
+        "woeid": 768163, 
+        "alias_SPA_V": [
+          "Narbarte"
+        ], 
+        "ne_longitude": -1.623, 
+        "longitude": -1.629, 
+        "parent_woeid": 12688231, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.134, 
+        "sw_longitude": -1.643, 
+        "fullname": "Narvarte, Navarre, Navarre, Spain", 
+        "sw_latitude": 43.131
+      }, 
+      "id": 768163
+    }
+  ]
+}

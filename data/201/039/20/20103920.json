@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.753, 
+              47.345
+            ], 
+            [
+              8.753, 
+              47.364
+            ], 
+            [
+              8.780, 
+              47.364
+            ], 
+            [
+              8.780, 
+              47.345
+            ], 
+            [
+              8.753, 
+              47.345
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20103920, 
+        "name": "Ruetschberg", 
+        "adjacent_woeid": [
+          783712, 
+          784150, 
+          20103548
+        ], 
+        "ne_latitude": 47.364, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.780, 
+        "longitude": 8.766, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:43Z", 
+        "parent_woeid": 12683732, 
+        "latitude": 47.355, 
+        "sw_longitude": 8.753, 
+        "fullname": "Ruetschberg, Canton of Zurich, Pf\u00e4ffikon, Switzerland", 
+        "sw_latitude": 47.345
+      }, 
+      "id": 20103920
+    }
+  ]
+}

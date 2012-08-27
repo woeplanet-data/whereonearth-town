@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.340, 
+              49.386
+            ], 
+            [
+              10.340, 
+              49.413
+            ], 
+            [
+              10.362, 
+              49.413
+            ], 
+            [
+              10.362, 
+              49.386
+            ], 
+            [
+              10.340, 
+              49.386
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 642575, 
+        "name": "Burghausen", 
+        "adjacent_woeid": [
+          639038, 
+          639062, 
+          642966, 
+          648506, 
+          685642, 
+          685958, 
+          20158693
+        ], 
+        "ne_latitude": 49.413, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.362, 
+        "longitude": 10.352, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12634436, 
+        "latitude": 49.403, 
+        "sw_longitude": 10.340, 
+        "fullname": "Burghausen, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.386
+      }, 
+      "id": 642575
+    }
+  ]
+}

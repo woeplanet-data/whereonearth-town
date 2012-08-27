@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.566, 
+              48.924
+            ], 
+            [
+              -0.566, 
+              48.948
+            ], 
+            [
+              -0.540, 
+              48.948
+            ], 
+            [
+              -0.540, 
+              48.924
+            ], 
+            [
+              -0.566, 
+              48.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625067, 
+        "name": "St.-Lambert", 
+        "adjacent_woeid": [
+          583443, 
+          588200, 
+          600478, 
+          626500, 
+          626688
+        ], 
+        "ne_latitude": 48.948, 
+        "ne_longitude": -0.540, 
+        "longitude": -0.550, 
+        "parent_woeid": 12652730, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lambert"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.937, 
+        "sw_longitude": -0.566, 
+        "fullname": "St.-Lambert, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 48.924
+      }, 
+      "id": 625067
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.527, 
+              22.824
+            ], 
+            [
+              -103.527, 
+              22.842
+            ], 
+            [
+              -103.507, 
+              22.842
+            ], 
+            [
+              -103.507, 
+              22.824
+            ], 
+            [
+              -103.527, 
+              22.824
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.842, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          114777, 
+          131280, 
+          144409, 
+          150145
+        ], 
+        "woeid": 144534, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -103.507, 
+        "longitude": -103.517, 
+        "parent_woeid": 12602080, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.833, 
+        "sw_longitude": -103.527, 
+        "fullname": "San Miguel, Zacatecas, Valparaiso, Mexico", 
+        "sw_latitude": 22.824
+      }, 
+      "id": 144534
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.652, 
+              44.253
+            ], 
+            [
+              5.652, 
+              44.308
+            ], 
+            [
+              5.694, 
+              44.308
+            ], 
+            [
+              5.694, 
+              44.253
+            ], 
+            [
+              5.652, 
+              44.253
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627448, 
+        "name": "Ste.-Colombe", 
+        "adjacent_woeid": [
+          577975, 
+          578245, 
+          595351, 
+          605436, 
+          615198
+        ], 
+        "ne_latitude": 44.308, 
+        "ne_longitude": 5.694, 
+        "longitude": 5.669, 
+        "parent_woeid": 22757756, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Colombe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.285, 
+        "sw_longitude": 5.652, 
+        "fullname": "Ste.-Colombe, Provence-Alpes-Cote d'Azur, Hautes-Alpes, France", 
+        "sw_latitude": 44.253
+      }, 
+      "id": 627448
+    }
+  ]
+}

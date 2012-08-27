@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.748, 
+              46.775
+            ], 
+            [
+              -0.748, 
+              46.806
+            ], 
+            [
+              -0.720, 
+              46.806
+            ], 
+            [
+              -0.720, 
+              46.775
+            ], 
+            [
+              -0.748, 
+              46.775
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625945, 
+        "name": "St.-Mesmin", 
+        "adjacent_woeid": [
+          578561, 
+          599477, 
+          612968, 
+          613013, 
+          622966
+        ], 
+        "ne_latitude": 46.806, 
+        "ne_longitude": -0.720, 
+        "longitude": -0.736, 
+        "parent_woeid": 12670947, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mesmin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.793, 
+        "sw_longitude": -0.748, 
+        "fullname": "St.-Mesmin, Pays de la Loire, Vendee, France", 
+        "sw_latitude": 46.775
+      }, 
+      "id": 625945
+    }
+  ]
+}

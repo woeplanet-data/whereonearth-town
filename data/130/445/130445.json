@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.126, 
+              21.741
+            ], 
+            [
+              -105.126, 
+              21.759
+            ], 
+            [
+              -105.107, 
+              21.759
+            ], 
+            [
+              -105.107, 
+              21.741
+            ], 
+            [
+              -105.126, 
+              21.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.759, 
+        "name": "Las Higueras", 
+        "adjacent_woeid": [
+          122766, 
+          131053, 
+          133879, 
+          134300, 
+          134406, 
+          142942, 
+          151709
+        ], 
+        "woeid": 130445, 
+        "alias_SPA_V": [
+          "Higueras"
+        ], 
+        "ne_longitude": -105.107, 
+        "longitude": -105.117, 
+        "parent_woeid": 12600601, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.750, 
+        "sw_longitude": -105.126, 
+        "fullname": "Las Higueras, Nayarit, Santiago Ixcuintla, Mexico", 
+        "sw_latitude": 21.741
+      }, 
+      "id": 130445
+    }
+  ]
+}

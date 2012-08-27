@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.803, 
+              48.550
+            ], 
+            [
+              12.803, 
+              48.572
+            ], 
+            [
+              12.828, 
+              48.572
+            ], 
+            [
+              12.828, 
+              48.550
+            ], 
+            [
+              12.803, 
+              48.550
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635521, 
+        "name": "Arnstorf", 
+        "adjacent_woeid": [
+          644623, 
+          646974, 
+          649248, 
+          664192, 
+          667812, 
+          669327, 
+          673570, 
+          686178, 
+          689695, 
+          692819, 
+          695088, 
+          696791, 
+          700018, 
+          706845, 
+          20154909, 
+          20154910, 
+          20154911, 
+          20154913, 
+          20154914, 
+          20172288, 
+          20172290, 
+          20172300
+        ], 
+        "ne_latitude": 48.572, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.828, 
+        "longitude": 12.818, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12622996, 
+        "latitude": 48.561, 
+        "sw_longitude": 12.803, 
+        "fullname": "Arnstorf, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.550
+      }, 
+      "id": 635521
+    }
+  ]
+}

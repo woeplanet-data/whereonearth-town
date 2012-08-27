@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.129, 
+              48.733
+            ], 
+            [
+              0.129, 
+              48.766
+            ], 
+            [
+              0.157, 
+              48.766
+            ], 
+            [
+              0.157, 
+              48.733
+            ], 
+            [
+              0.129, 
+              48.733
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604042, 
+        "name": "Le Pin-au-Haras", 
+        "adjacent_woeid": [
+          597767, 
+          602222, 
+          622164, 
+          631592
+        ], 
+        "ne_latitude": 48.766, 
+        "ne_longitude": 0.157, 
+        "longitude": 0.142, 
+        "parent_woeid": 12647559, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pin-au-Haras"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.746, 
+        "sw_longitude": 0.129, 
+        "fullname": "Le Pin-au-Haras, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.733
+      }, 
+      "id": 604042
+    }
+  ]
+}

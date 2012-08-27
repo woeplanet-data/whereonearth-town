@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.809, 
+              28.923
+            ], 
+            [
+              -102.809, 
+              28.941
+            ], 
+            [
+              -102.788, 
+              28.941
+            ], 
+            [
+              -102.788, 
+              28.923
+            ], 
+            [
+              -102.809, 
+              28.923
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.941, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          113586, 
+          120836, 
+          130298, 
+          132636, 
+          133283, 
+          140807
+        ], 
+        "woeid": 146876, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -102.788, 
+        "longitude": -102.798, 
+        "parent_woeid": 12599908, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.932, 
+        "sw_longitude": -102.809, 
+        "fullname": "Santa Rosa, Coahuila de Zaragoza, Ocampo, Mexico", 
+        "sw_latitude": 28.923
+      }, 
+      "id": 146876
+    }
+  ]
+}

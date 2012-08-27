@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.364, 
+              27.211
+            ], 
+            [
+              -106.364, 
+              27.225
+            ], 
+            [
+              -106.348, 
+              27.225
+            ], 
+            [
+              -106.348, 
+              27.211
+            ], 
+            [
+              -106.364, 
+              27.211
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.225, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          122700, 
+          125300, 
+          127714, 
+          130301, 
+          142767, 
+          150501, 
+          55887768
+        ], 
+        "woeid": 143065, 
+        "alias_SPA_V": [
+          "S Javier"
+        ], 
+        "ne_longitude": -106.348, 
+        "longitude": -106.356, 
+        "parent_woeid": 12599875, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.218, 
+        "sw_longitude": -106.364, 
+        "fullname": "San Javier, Chihuahua, Rosario, Mexico", 
+        "sw_latitude": 27.211
+      }, 
+      "id": 143065
+    }
+  ]
+}

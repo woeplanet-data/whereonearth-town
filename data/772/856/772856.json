@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.447, 
+              38.687
+            ], 
+            [
+              1.447, 
+              38.708
+            ], 
+            [
+              1.480, 
+              38.708
+            ], 
+            [
+              1.480, 
+              38.687
+            ], 
+            [
+              1.447, 
+              38.687
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.708, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          764228, 
+          15003448, 
+          20225933, 
+          22661066
+        ], 
+        "woeid": 772856, 
+        "alias_SPA_V": [
+          "S. Fernando"
+        ], 
+        "ne_longitude": 1.480, 
+        "longitude": 1.460, 
+        "parent_woeid": 12687731, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.699, 
+        "sw_longitude": 1.447, 
+        "fullname": "San Fernando, Balearic Islands, Baleares, Spain", 
+        "sw_latitude": 38.687
+      }, 
+      "id": 772856
+    }
+  ]
+}

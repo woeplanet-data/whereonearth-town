@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.126, 
+              19.391
+            ], 
+            [
+              -99.126, 
+              19.409
+            ], 
+            [
+              -99.107, 
+              19.409
+            ], 
+            [
+              -99.107, 
+              19.391
+            ], 
+            [
+              -99.126, 
+              19.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.409, 
+        "name": "Santa Anita", 
+        "adjacent_woeid": [
+          124122, 
+          131142, 
+          132676, 
+          150735
+        ], 
+        "woeid": 145726, 
+        "alias_SPA_V": [
+          "Sta. Anita"
+        ], 
+        "ne_longitude": -99.107, 
+        "longitude": -99.121, 
+        "parent_woeid": 12599941, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.401, 
+        "sw_longitude": -99.126, 
+        "fullname": "Santa Anita, Distrito Federal, Iztacalco, Mexico", 
+        "sw_latitude": 19.391
+      }, 
+      "id": 145726
+    }
+  ]
+}

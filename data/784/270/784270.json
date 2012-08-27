@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.583, 
+              46.212
+            ], 
+            [
+              7.583, 
+              46.230
+            ], 
+            [
+              7.609, 
+              46.230
+            ], 
+            [
+              7.609, 
+              46.212
+            ], 
+            [
+              7.583, 
+              46.212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 784270, 
+        "name": "St.-Luc", 
+        "adjacent_woeid": [
+          781702, 
+          782062, 
+          782405, 
+          784608, 
+          20101420, 
+          20102470, 
+          20102804, 
+          20103089
+        ], 
+        "ne_latitude": 46.230, 
+        "ne_longitude": 7.609, 
+        "longitude": 7.596, 
+        "parent_woeid": 56071077, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Luc"
+        ], 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:14Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.221, 
+        "sw_longitude": 7.583, 
+        "fullname": "St.-Luc, Canton of Valais, Sierre, Switzerland", 
+        "sw_latitude": 46.212
+      }, 
+      "id": 784270
+    }
+  ]
+}

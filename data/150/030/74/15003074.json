@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.225, 
+              48.958
+            ], 
+            [
+              1.225, 
+              48.984
+            ], 
+            [
+              1.254, 
+              48.984
+            ], 
+            [
+              1.254, 
+              48.958
+            ], 
+            [
+              1.225, 
+              48.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003074, 
+        "name": "St.-Luc", 
+        "adjacent_woeid": [
+          592422, 
+          604809, 
+          618074, 
+          15003063, 
+          15003066, 
+          20187523
+        ], 
+        "ne_latitude": 48.984, 
+        "ne_longitude": 1.254, 
+        "longitude": 1.240, 
+        "parent_woeid": 12673064, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Luc"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.977, 
+        "sw_longitude": 1.225, 
+        "fullname": "St.-Luc, Haute-Normandie, Eure, France", 
+        "sw_latitude": 48.958
+      }, 
+      "id": 15003074
+    }
+  ]
+}

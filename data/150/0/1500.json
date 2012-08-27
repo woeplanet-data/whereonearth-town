@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.778, 
+              45.985
+            ], 
+            [
+              -70.778, 
+              46.210
+            ], 
+            [
+              -70.568, 
+              46.210
+            ], 
+            [
+              -70.568, 
+              45.985
+            ], 
+            [
+              -70.778, 
+              45.985
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1500, 
+        "name": "St.-Georges", 
+        "adjacent_woeid": [
+          3490, 
+          3513, 
+          23394491, 
+          23394603, 
+          23395669, 
+          23396481, 
+          23396601, 
+          23396622, 
+          23396674, 
+          29374503
+        ], 
+        "ne_latitude": 46.210, 
+        "ne_longitude": -70.568, 
+        "longitude": -70.672, 
+        "parent_woeid": 29375138, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saintgeorgesdebeauce"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.124, 
+        "sw_longitude": -70.778, 
+        "fullname": "St.-Georges, Quebec, Beauce-Sartigan, Canada", 
+        "sw_latitude": 45.985
+      }, 
+      "id": 1500
+    }
+  ]
+}

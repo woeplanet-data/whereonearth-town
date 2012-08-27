@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.390, 
+              46.689
+            ], 
+            [
+              -72.390, 
+              46.854
+            ], 
+            [
+              -72.156, 
+              46.854
+            ], 
+            [
+              -72.156, 
+              46.689
+            ], 
+            [
+              -72.390, 
+              46.689
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394618, 
+        "name": "St.-Ubalde", 
+        "adjacent_woeid": [
+          1417, 
+          23394443, 
+          23395237, 
+          23396488, 
+          23396599, 
+          23396615
+        ], 
+        "ne_latitude": 46.854, 
+        "ne_longitude": -72.156, 
+        "longitude": -72.269, 
+        "parent_woeid": 29375087, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Ubald"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.755, 
+        "sw_longitude": -72.390, 
+        "fullname": "St.-Ubalde, Quebec, Portneuf, Canada", 
+        "sw_latitude": 46.689
+      }, 
+      "id": 23394618
+    }
+  ]
+}

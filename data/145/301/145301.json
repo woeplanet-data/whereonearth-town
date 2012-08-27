@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.193, 
+              20.108
+            ], 
+            [
+              -105.193, 
+              20.126
+            ], 
+            [
+              -105.174, 
+              20.126
+            ], 
+            [
+              -105.174, 
+              20.108
+            ], 
+            [
+              -105.193, 
+              20.108
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.126, 
+        "name": "San Rafael de los Moreno", 
+        "adjacent_woeid": [
+          113987, 
+          117182, 
+          117183, 
+          122754, 
+          130766, 
+          147025
+        ], 
+        "woeid": 145301, 
+        "alias_SPA_V": [
+          "S Rafael de los Moreno"
+        ], 
+        "ne_longitude": -105.174, 
+        "longitude": -105.183, 
+        "parent_woeid": 12600294, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.117, 
+        "sw_longitude": -105.193, 
+        "fullname": "San Rafael de los Moreno, Jalisco, Tomatlan, Mexico", 
+        "sw_latitude": 20.108
+      }, 
+      "id": 145301
+    }
+  ]
+}

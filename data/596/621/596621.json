@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.386, 
+              44.344
+            ], 
+            [
+              1.386, 
+              44.379
+            ], 
+            [
+              1.426, 
+              44.379
+            ], 
+            [
+              1.426, 
+              44.344
+            ], 
+            [
+              1.386, 
+              44.344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 596621, 
+        "name": "Lhospitalet", 
+        "adjacent_woeid": [
+          585990, 
+          591418, 
+          600567, 
+          603718, 
+          616081
+        ], 
+        "ne_latitude": 44.379, 
+        "ne_longitude": 1.426, 
+        "longitude": 1.407, 
+        "parent_woeid": 12663251, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "L'hospitalet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.360, 
+        "sw_longitude": 1.386, 
+        "fullname": "Lhospitalet, Midi-Pyrenees, Lot, France", 
+        "sw_latitude": 44.344
+      }, 
+      "id": 596621
+    }
+  ]
+}

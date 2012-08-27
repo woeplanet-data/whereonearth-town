@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.472, 
+              50.709
+            ], 
+            [
+              10.472, 
+              50.741
+            ], 
+            [
+              10.511, 
+              50.741
+            ], 
+            [
+              10.511, 
+              50.709
+            ], 
+            [
+              10.472, 
+              50.709
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635568, 
+        "name": "Asbach", 
+        "adjacent_woeid": [
+          677075, 
+          690083, 
+          697955, 
+          20173502
+        ], 
+        "ne_latitude": 50.741, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.511, 
+        "longitude": 10.487, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12624958, 
+        "latitude": 50.726, 
+        "sw_longitude": 10.472, 
+        "fullname": "Asbach, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.709
+      }, 
+      "id": 635568
+    }
+  ]
+}

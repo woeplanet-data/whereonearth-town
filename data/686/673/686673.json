@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.411, 
+              47.737
+            ], 
+            [
+              11.411, 
+              47.746
+            ], 
+            [
+              11.424, 
+              47.746
+            ], 
+            [
+              11.424, 
+              47.737
+            ], 
+            [
+              11.411, 
+              47.737
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 686673, 
+        "name": "Rain", 
+        "adjacent_woeid": [
+          661096, 
+          665711, 
+          670018, 
+          674371, 
+          20157325
+        ], 
+        "ne_latitude": 47.746, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.424, 
+        "longitude": 11.417, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:35Z", 
+        "parent_woeid": 12634706, 
+        "latitude": 47.741, 
+        "sw_longitude": 11.411, 
+        "fullname": "Rain, Bavaria, Weilheim-Schongau, Germany", 
+        "sw_latitude": 47.737
+      }, 
+      "id": 686673
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.170, 
+              40.030
+            ], 
+            [
+              -1.170, 
+              40.084
+            ], 
+            [
+              -1.087, 
+              40.084
+            ], 
+            [
+              -1.087, 
+              40.030
+            ], 
+            [
+              -1.170, 
+              40.030
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.084, 
+        "name": "Puebla de San Miguel", 
+        "adjacent_woeid": [
+          763773, 
+          766695, 
+          771922, 
+          774481
+        ], 
+        "woeid": 770859, 
+        "alias_SPA_V": [
+          "Puebla de S. Miguel"
+        ], 
+        "ne_longitude": -1.087, 
+        "longitude": -1.143, 
+        "parent_woeid": 12695739, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:17Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.045, 
+        "sw_longitude": -1.170, 
+        "fullname": "Puebla de San Miguel, Valencia, Valencia, Spain", 
+        "sw_latitude": 40.030
+      }, 
+      "id": 770859
+    }
+  ]
+}

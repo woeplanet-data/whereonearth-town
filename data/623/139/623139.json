@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.355, 
+              45.105
+            ], 
+            [
+              3.355, 
+              45.138
+            ], 
+            [
+              3.383, 
+              45.138
+            ], 
+            [
+              3.383, 
+              45.105
+            ], 
+            [
+              3.355, 
+              45.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623139, 
+        "name": "St.-Austremoine", 
+        "adjacent_woeid": [
+          576621, 
+          585423, 
+          588020, 
+          618725, 
+          623510
+        ], 
+        "ne_latitude": 45.138, 
+        "ne_longitude": 3.383, 
+        "longitude": 3.370, 
+        "parent_woeid": 22755134, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Austremoine"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.121, 
+        "sw_longitude": 3.355, 
+        "fullname": "St.-Austremoine, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 45.105
+      }, 
+      "id": 623139
+    }
+  ]
+}

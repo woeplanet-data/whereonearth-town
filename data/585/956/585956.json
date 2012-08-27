@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.047, 
+              45.223
+            ], 
+            [
+              1.047, 
+              45.253
+            ], 
+            [
+              1.071, 
+              45.253
+            ], 
+            [
+              1.071, 
+              45.223
+            ], 
+            [
+              1.047, 
+              45.223
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585956, 
+        "name": "Chourgnac", 
+        "adjacent_woeid": [
+          592290, 
+          627507, 
+          627696, 
+          628980
+        ], 
+        "ne_latitude": 45.253, 
+        "ne_longitude": 1.071, 
+        "longitude": 1.060, 
+        "parent_woeid": 12641695, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chourgnac D'ans"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.236, 
+        "sw_longitude": 1.047, 
+        "fullname": "Chourgnac, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.223
+      }, 
+      "id": 585956
+    }
+  ]
+}

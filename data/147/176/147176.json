@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.227, 
+              24.724
+            ], 
+            [
+              -100.227, 
+              24.742
+            ], 
+            [
+              -100.207, 
+              24.742
+            ], 
+            [
+              -100.207, 
+              24.724
+            ], 
+            [
+              -100.227, 
+              24.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.742, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          123837, 
+          128905, 
+          145347, 
+          146731, 
+          149741
+        ], 
+        "woeid": 147176, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -100.207, 
+        "longitude": -100.217, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.733, 
+        "sw_longitude": -100.227, 
+        "fullname": "Santo Domingo, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.724
+      }, 
+      "id": 147176
+    }
+  ]
+}

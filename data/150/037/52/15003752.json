@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.982, 
+              38.056
+            ], 
+            [
+              -0.982, 
+              38.090
+            ], 
+            [
+              -0.959, 
+              38.090
+            ], 
+            [
+              -0.959, 
+              38.056
+            ], 
+            [
+              -0.982, 
+              38.056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.090, 
+        "name": "Molino Ciudad", 
+        "adjacent_woeid": [
+          20221114, 
+          20222354, 
+          20225635
+        ], 
+        "woeid": 15003752, 
+        "alias_SPA_V": [
+          "Molino de la Ciudad"
+        ], 
+        "ne_longitude": -0.959, 
+        "longitude": -0.979, 
+        "parent_woeid": 12695362, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.077, 
+        "sw_longitude": -0.982, 
+        "fullname": "Molino Ciudad, Valencia, Alicante, Spain", 
+        "sw_latitude": 38.056
+      }, 
+      "id": 15003752
+    }
+  ]
+}

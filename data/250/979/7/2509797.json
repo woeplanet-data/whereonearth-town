@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.321, 
+              43.402
+            ], 
+            [
+              -123.321, 
+              43.411
+            ], 
+            [
+              -123.308, 
+              43.411
+            ], 
+            [
+              -123.308, 
+              43.402
+            ], 
+            [
+              -123.321, 
+              43.402
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2509797, 
+        "name": "Union Gap", 
+        "adjacent_woeid": [
+          2401231, 
+          2499580, 
+          2519957
+        ], 
+        "ne_latitude": 43.411, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.308, 
+        "longitude": -123.315, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:32:50Z", 
+        "parent_woeid": 12589701, 
+        "latitude": 43.407, 
+        "sw_longitude": -123.321, 
+        "fullname": "Union Gap, Oregon, Douglas, United States", 
+        "sw_latitude": 43.402
+      }, 
+      "id": 2509797
+    }
+  ]
+}

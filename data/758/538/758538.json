@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.890, 
+              37.286
+            ], 
+            [
+              -1.890, 
+              37.301
+            ], 
+            [
+              -1.869, 
+              37.301
+            ], 
+            [
+              -1.869, 
+              37.286
+            ], 
+            [
+              -1.890, 
+              37.286
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.301, 
+        "name": "Cuevas del Almanzora", 
+        "adjacent_woeid": [
+          752122, 
+          752546, 
+          755068, 
+          758945, 
+          759060, 
+          762403, 
+          762813, 
+          765651, 
+          771031, 
+          773597, 
+          777221, 
+          20221953, 
+          20222740, 
+          20223985, 
+          20227877, 
+          23414193
+        ], 
+        "woeid": 758538, 
+        "alias_SPA_V": [
+          "Cuevas de Vera"
+        ], 
+        "ne_longitude": -1.869, 
+        "longitude": -1.878, 
+        "parent_woeid": 12688659, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.291, 
+        "sw_longitude": -1.890, 
+        "fullname": "Cuevas del Almanzora, Andalusia, Almeria, Spain", 
+        "sw_latitude": 37.286
+      }, 
+      "id": 758538
+    }
+  ]
+}

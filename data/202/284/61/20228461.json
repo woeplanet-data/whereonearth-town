@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.887, 
+              37.416
+            ], 
+            [
+              -1.887, 
+              37.425
+            ], 
+            [
+              -1.875, 
+              37.425
+            ], 
+            [
+              -1.875, 
+              37.416
+            ], 
+            [
+              -1.887, 
+              37.416
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.425, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          752208, 
+          758945, 
+          759710, 
+          761669, 
+          761934, 
+          765940, 
+          770652, 
+          771882, 
+          776301
+        ], 
+        "woeid": 20228461, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -1.875, 
+        "longitude": -1.881, 
+        "parent_woeid": 12688674, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:37:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.420, 
+        "sw_longitude": -1.887, 
+        "fullname": "San Francisco, Andalusia, Almeria, Spain", 
+        "sw_latitude": 37.416
+      }, 
+      "id": 20228461
+    }
+  ]
+}

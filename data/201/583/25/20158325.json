@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.133, 
+              49.183
+            ], 
+            [
+              12.133, 
+              49.217
+            ], 
+            [
+              12.151, 
+              49.217
+            ], 
+            [
+              12.151, 
+              49.183
+            ], 
+            [
+              12.133, 
+              49.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20158325, 
+        "name": "Binkenhof", 
+        "adjacent_woeid": [
+          656617, 
+          664855, 
+          665223, 
+          674999
+        ], 
+        "ne_latitude": 49.217, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.151, 
+        "longitude": 12.139, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12634306, 
+        "latitude": 49.195, 
+        "sw_longitude": 12.133, 
+        "fullname": "Binkenhof, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.183
+      }, 
+      "id": 20158325
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.210, 
+              19.558
+            ], 
+            [
+              -98.210, 
+              19.576
+            ], 
+            [
+              -98.190, 
+              19.576
+            ], 
+            [
+              -98.190, 
+              19.558
+            ], 
+            [
+              -98.210, 
+              19.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.576, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          125171, 
+          144156, 
+          145900
+        ], 
+        "woeid": 144229, 
+        "alias_SPA_V": [
+          "S. Luis"
+        ], 
+        "ne_longitude": -98.190, 
+        "longitude": -98.200, 
+        "parent_woeid": 12601680, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.567, 
+        "sw_longitude": -98.210, 
+        "fullname": "San Luis, Tlaxcala, Atlangatepec, Mexico", 
+        "sw_latitude": 19.558
+      }, 
+      "id": 144229
+    }
+  ]
+}

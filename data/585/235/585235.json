@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.291, 
+              48.807
+            ], 
+            [
+              0.291, 
+              48.870
+            ], 
+            [
+              0.378, 
+              48.870
+            ], 
+            [
+              0.378, 
+              48.807
+            ], 
+            [
+              0.291, 
+              48.807
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585235, 
+        "name": "Chaumont", 
+        "adjacent_woeid": [
+          594799, 
+          604516, 
+          609923, 
+          614207, 
+          623968
+        ], 
+        "ne_latitude": 48.870, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.378, 
+        "longitude": 0.325, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "parent_woeid": 12641397, 
+        "latitude": 48.835, 
+        "sw_longitude": 0.291, 
+        "fullname": "Chaumont, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.807
+      }, 
+      "id": 585235
+    }
+  ]
+}

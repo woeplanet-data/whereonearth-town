@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.017, 
+              46.396
+            ], 
+            [
+              4.017, 
+              46.425
+            ], 
+            [
+              4.051, 
+              46.425
+            ], 
+            [
+              4.051, 
+              46.396
+            ], 
+            [
+              4.017, 
+              46.396
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627324, 
+        "name": "St.-Yan", 
+        "adjacent_woeid": [
+          584828, 
+          596610, 
+          612416, 
+          617143, 
+          630074, 
+          630911, 
+          15002959
+        ], 
+        "ne_latitude": 46.425, 
+        "ne_longitude": 4.051, 
+        "longitude": 4.037, 
+        "parent_woeid": 12653322, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Yan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.411, 
+        "sw_longitude": 4.017, 
+        "fullname": "St.-Yan, Burgundy, Saone-et-Loire, France", 
+        "sw_latitude": 46.396
+      }, 
+      "id": 627324
+    }
+  ]
+}

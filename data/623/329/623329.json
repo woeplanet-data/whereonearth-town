@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.870, 
+              47.267
+            ], 
+            [
+              2.870, 
+              47.303
+            ], 
+            [
+              2.901, 
+              47.303
+            ], 
+            [
+              2.901, 
+              47.267
+            ], 
+            [
+              2.870, 
+              47.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623329, 
+        "name": "St.-Bouize", 
+        "adjacent_woeid": [
+          587174, 
+          590928, 
+          594755, 
+          628337, 
+          632358, 
+          20184591
+        ], 
+        "ne_latitude": 47.303, 
+        "ne_longitude": 2.901, 
+        "longitude": 2.885, 
+        "parent_woeid": 12651193, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bouize"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.285, 
+        "sw_longitude": 2.870, 
+        "fullname": "St.-Bouize, Centre, Cher, France", 
+        "sw_latitude": 47.267
+      }, 
+      "id": 623329
+    }
+  ]
+}

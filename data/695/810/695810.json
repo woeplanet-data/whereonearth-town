@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.641, 
+              48.730
+            ], 
+            [
+              10.641, 
+              48.761
+            ], 
+            [
+              10.665, 
+              48.761
+            ], 
+            [
+              10.665, 
+              48.730
+            ], 
+            [
+              10.641, 
+              48.730
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 695810, 
+        "name": "Spielberg", 
+        "adjacent_woeid": [
+          642253, 
+          674327, 
+          683342, 
+          689301, 
+          691319, 
+          20157803
+        ], 
+        "ne_latitude": 48.761, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.665, 
+        "longitude": 10.650, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:49Z", 
+        "parent_woeid": 12634996, 
+        "latitude": 48.750, 
+        "sw_longitude": 10.641, 
+        "fullname": "Spielberg, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.730
+      }, 
+      "id": 695810
+    }
+  ]
+}

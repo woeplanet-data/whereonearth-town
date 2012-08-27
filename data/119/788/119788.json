@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.260, 
+              21.341
+            ], 
+            [
+              -98.260, 
+              21.359
+            ], 
+            [
+              -98.240, 
+              21.359
+            ], 
+            [
+              -98.240, 
+              21.341
+            ], 
+            [
+              -98.260, 
+              21.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.359, 
+        "name": "El Chote", 
+        "adjacent_woeid": [
+          111041, 
+          123845, 
+          133110, 
+          142696, 
+          148255
+        ], 
+        "woeid": 119788, 
+        "alias_SPA_V": [
+          "Chote"
+        ], 
+        "ne_longitude": -98.240, 
+        "longitude": -98.250, 
+        "parent_woeid": 12601875, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.350, 
+        "sw_longitude": -98.260, 
+        "fullname": "El Chote, Veracruz-Llave, Tantoyuca, Mexico", 
+        "sw_latitude": 21.341
+      }, 
+      "id": 119788
+    }
+  ]
+}

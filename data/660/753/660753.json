@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.441, 
+              48.982
+            ], 
+            [
+              12.441, 
+              49.002
+            ], 
+            [
+              12.467, 
+              49.002
+            ], 
+            [
+              12.467, 
+              48.982
+            ], 
+            [
+              12.441, 
+              48.982
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660753, 
+        "name": "Hofdorf", 
+        "adjacent_woeid": [
+          652927, 
+          663667, 
+          696200, 
+          699470, 
+          709050
+        ], 
+        "ne_latitude": 49.002, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.467, 
+        "longitude": 12.452, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12635800, 
+        "latitude": 48.989, 
+        "sw_longitude": 12.441, 
+        "fullname": "Hofdorf, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.982
+      }, 
+      "id": 660753
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              48.688
+            ], 
+            [
+              12.123, 
+              48.697
+            ], 
+            [
+              12.137, 
+              48.697
+            ], 
+            [
+              12.137, 
+              48.688
+            ], 
+            [
+              12.123, 
+              48.688
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 708926, 
+        "name": "Zieglstadl", 
+        "adjacent_woeid": [
+          646280, 
+          665854, 
+          681036, 
+          681138, 
+          686656, 
+          689316, 
+          700955, 
+          20154359, 
+          20154505
+        ], 
+        "ne_latitude": 48.697, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.137, 
+        "longitude": 12.130, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12622911, 
+        "latitude": 48.692, 
+        "sw_longitude": 12.123, 
+        "fullname": "Zieglstadl, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.688
+      }, 
+      "id": 708926
+    }
+  ]
+}

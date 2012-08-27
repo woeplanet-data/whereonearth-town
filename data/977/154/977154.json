@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.563, 
+              50.239
+            ], 
+            [
+              4.563, 
+              50.257
+            ], 
+            [
+              4.591, 
+              50.257
+            ], 
+            [
+              4.591, 
+              50.239
+            ], 
+            [
+              4.563, 
+              50.239
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977154, 
+        "name": "St.-Aubin", 
+        "adjacent_woeid": [
+          968287, 
+          969785, 
+          970987, 
+          974584, 
+          979075
+        ], 
+        "ne_latitude": 50.257, 
+        "ne_longitude": 4.591, 
+        "longitude": 4.577, 
+        "parent_woeid": 12602641, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Aubin"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.248, 
+        "sw_longitude": 4.563, 
+        "fullname": "St.-Aubin, Namur, Philippeville, Belgium", 
+        "sw_latitude": 50.239
+      }, 
+      "id": 977154
+    }
+  ]
+}

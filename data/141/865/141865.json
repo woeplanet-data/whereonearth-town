@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.485, 
+              23.051
+            ], 
+            [
+              -98.485, 
+              23.069
+            ], 
+            [
+              -98.465, 
+              23.069
+            ], 
+            [
+              -98.465, 
+              23.051
+            ], 
+            [
+              -98.485, 
+              23.051
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.069, 
+        "name": "San Antonio Nogalar", 
+        "adjacent_woeid": [
+          121727, 
+          123437, 
+          123696, 
+          124053, 
+          124058, 
+          131007, 
+          146270
+        ], 
+        "woeid": 141865, 
+        "alias_SPA_V": [
+          "S Antonio Nogalar"
+        ], 
+        "ne_longitude": -98.465, 
+        "longitude": -98.475, 
+        "parent_woeid": 12601644, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.060, 
+        "sw_longitude": -98.485, 
+        "fullname": "San Antonio Nogalar, Tamaulipas, Gonzalez, Mexico", 
+        "sw_latitude": 23.051
+      }, 
+      "id": 141865
+    }
+  ]
+}

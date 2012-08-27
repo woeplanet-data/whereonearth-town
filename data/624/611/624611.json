@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.042, 
+              45.902
+            ], 
+            [
+              3.042, 
+              45.920
+            ], 
+            [
+              3.068, 
+              45.920
+            ], 
+            [
+              3.068, 
+              45.902
+            ], 
+            [
+              3.042, 
+              45.902
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624611, 
+        "name": "St.-Hippolyte", 
+        "adjacent_woeid": [
+          584606, 
+          589720, 
+          20207028
+        ], 
+        "ne_latitude": 45.920, 
+        "ne_longitude": 3.068, 
+        "longitude": 3.055, 
+        "parent_woeid": 12641289, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hippolyte"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.911, 
+        "sw_longitude": 3.042, 
+        "fullname": "St.-Hippolyte, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.902
+      }, 
+      "id": 624611
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.656, 
+              48.545
+            ], 
+            [
+              -4.656, 
+              48.581
+            ], 
+            [
+              -4.579, 
+              48.581
+            ], 
+            [
+              -4.579, 
+              48.545
+            ], 
+            [
+              -4.656, 
+              48.545
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626177, 
+        "name": "St.-Pabu", 
+        "adjacent_woeid": [
+          601085, 
+          601133, 
+          617005, 
+          629164
+        ], 
+        "ne_latitude": 48.581, 
+        "ne_longitude": -4.579, 
+        "longitude": -4.603, 
+        "parent_woeid": 12645707, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pabu"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.566, 
+        "sw_longitude": -4.656, 
+        "fullname": "St.-Pabu, Brittany, Finistere, France", 
+        "sw_latitude": 48.545
+      }, 
+      "id": 626177
+    }
+  ]
+}

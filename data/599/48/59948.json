@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.305, 
+              9.995
+            ], 
+            [
+              -85.305, 
+              10.005
+            ], 
+            [
+              -85.295, 
+              10.005
+            ], 
+            [
+              -85.295, 
+              9.995
+            ], 
+            [
+              -85.305, 
+              9.995
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.005, 
+        "name": "Zapotal", 
+        "adjacent_woeid": [
+          57897, 
+          58491, 
+          58640, 
+          58815, 
+          59661
+        ], 
+        "woeid": 59948, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -85.295, 
+        "longitude": -85.300, 
+        "parent_woeid": 26809329, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.000, 
+        "sw_longitude": -85.305, 
+        "fullname": "Zapotal, Guanacaste, Nandayure, Costa Rica", 
+        "sw_latitude": 9.995
+      }, 
+      "id": 59948
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.987, 
+              14.562
+            ], 
+            [
+              -60.987, 
+              14.583
+            ], 
+            [
+              -60.965, 
+              14.583
+            ], 
+            [
+              -60.965, 
+              14.562
+            ], 
+            [
+              -60.987, 
+              14.562
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 110559, 
+        "name": "Le Lamentin", 
+        "adjacent_woeid": [
+          110325, 
+          110337, 
+          110360, 
+          110426, 
+          110533, 
+          110558, 
+          110572, 
+          110800
+        ], 
+        "ne_latitude": 14.583, 
+        "ne_longitude": -60.965, 
+        "longitude": -60.976, 
+        "parent_woeid": 24551339, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lamentin"
+        ], 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.573, 
+        "sw_longitude": -60.987, 
+        "fullname": "Le Lamentin, Marin, Ducos, Martinique", 
+        "sw_latitude": 14.562
+      }, 
+      "id": 110559
+    }
+  ]
+}

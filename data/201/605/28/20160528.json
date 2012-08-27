@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.289, 
+              48.806
+            ], 
+            [
+              8.289, 
+              48.828
+            ], 
+            [
+              8.321, 
+              48.828
+            ], 
+            [
+              8.321, 
+              48.806
+            ], 
+            [
+              8.289, 
+              48.806
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160528, 
+        "name": "Bad Rotenfels", 
+        "adjacent_woeid": [
+          675159, 
+          681877, 
+          706980
+        ], 
+        "ne_latitude": 48.828, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.321, 
+        "longitude": 8.309, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12623907, 
+        "latitude": 48.811, 
+        "sw_longitude": 8.289, 
+        "fullname": "Bad Rotenfels, Baden-Wurttemberg, Landkreis Rastatt, Germany", 
+        "sw_latitude": 48.806
+      }, 
+      "id": 20160528
+    }
+  ]
+}

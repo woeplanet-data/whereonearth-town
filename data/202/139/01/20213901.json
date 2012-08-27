@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.157, 
+              46.722
+            ], 
+            [
+              3.157, 
+              46.741
+            ], 
+            [
+              3.183, 
+              46.741
+            ], 
+            [
+              3.183, 
+              46.722
+            ], 
+            [
+              3.157, 
+              46.722
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20213901, 
+        "name": "St.-Imbert", 
+        "adjacent_woeid": [
+          577077, 
+          584493, 
+          619528, 
+          625276, 
+          629303
+        ], 
+        "ne_latitude": 46.741, 
+        "ne_longitude": 3.183, 
+        "longitude": 3.170, 
+        "parent_woeid": 12636935, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Imbert"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.731, 
+        "sw_longitude": 3.157, 
+        "fullname": "St.-Imbert, Burgundy, Nievre, France", 
+        "sw_latitude": 46.722
+      }, 
+      "id": 20213901
+    }
+  ]
+}

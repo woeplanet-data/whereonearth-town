@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.871, 
+              48.869
+            ], 
+            [
+              5.871, 
+              48.899
+            ], 
+            [
+              5.918, 
+              48.899
+            ], 
+            [
+              5.918, 
+              48.869
+            ], 
+            [
+              5.871, 
+              48.869
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608138, 
+        "name": "Limey-Remenauville", 
+        "adjacent_woeid": [
+          590361, 
+          590933, 
+          591180, 
+          608232, 
+          609613, 
+          614654, 
+          631296
+        ], 
+        "ne_latitude": 48.899, 
+        "ne_longitude": 5.918, 
+        "longitude": 5.897, 
+        "parent_woeid": 12665686, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Limey"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.887, 
+        "sw_longitude": 5.871, 
+        "fullname": "Limey-Remenauville, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.869
+      }, 
+      "id": 608138
+    }
+  ]
+}

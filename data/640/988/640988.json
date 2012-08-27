@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.452, 
+              49.454
+            ], 
+            [
+              10.452, 
+              49.489
+            ], 
+            [
+              10.481, 
+              49.489
+            ], 
+            [
+              10.481, 
+              49.454
+            ], 
+            [
+              10.452, 
+              49.454
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640988, 
+        "name": "Breitenau", 
+        "adjacent_woeid": [
+          663208, 
+          686908, 
+          695548
+        ], 
+        "ne_latitude": 49.489, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.481, 
+        "longitude": 10.472, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12634523, 
+        "latitude": 49.464, 
+        "sw_longitude": 10.452, 
+        "fullname": "Breitenau, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.454
+      }, 
+      "id": 640988
+    }
+  ]
+}

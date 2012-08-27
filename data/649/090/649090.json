@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.013, 
+              52.298
+            ], 
+            [
+              10.013, 
+              52.338
+            ], 
+            [
+              10.037, 
+              52.338
+            ], 
+            [
+              10.037, 
+              52.298
+            ], 
+            [
+              10.013, 
+              52.298
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649090, 
+        "name": "Evern", 
+        "adjacent_woeid": [
+          645065, 
+          656658, 
+          666484, 
+          688089, 
+          29349610
+        ], 
+        "ne_latitude": 52.338, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.037, 
+        "longitude": 10.024, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12629468, 
+        "latitude": 52.317, 
+        "sw_longitude": 10.013, 
+        "fullname": "Evern, Lower Saxony, Hanover, Germany", 
+        "sw_latitude": 52.298
+      }, 
+      "id": 649090
+    }
+  ]
+}

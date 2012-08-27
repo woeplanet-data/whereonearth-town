@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.056, 
+              45.543
+            ], 
+            [
+              -66.056, 
+              45.561
+            ], 
+            [
+              -66.030, 
+              45.561
+            ], 
+            [
+              -66.030, 
+              45.543
+            ], 
+            [
+              -66.056, 
+              45.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 29374800, 
+        "name": "Greenwich", 
+        "adjacent_woeid": [
+          23393453, 
+          23393715, 
+          23393729, 
+          29374474, 
+          29374723, 
+          29374754
+        ], 
+        "ne_latitude": 45.561, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -66.030, 
+        "longitude": -66.043, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:35Z", 
+        "parent_woeid": 29375192, 
+        "latitude": 45.552, 
+        "sw_longitude": -66.056, 
+        "fullname": "Greenwich, New Brunswick, Kings, Canada", 
+        "sw_latitude": 45.543
+      }, 
+      "id": 29374800
+    }
+  ]
+}

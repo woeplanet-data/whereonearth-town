@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.265, 
+              42.407
+            ], 
+            [
+              -74.265, 
+              42.551
+            ], 
+            [
+              -74.091, 
+              42.551
+            ], 
+            [
+              -74.091, 
+              42.407
+            ], 
+            [
+              -74.265, 
+              42.407
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2480236, 
+        "name": "Rensselaerville", 
+        "adjacent_woeid": [
+          2363074, 
+          2370241, 
+          2384104, 
+          2394723, 
+          2395514, 
+          2410167, 
+          2414563, 
+          2425743, 
+          2448994, 
+          2450301, 
+          2476526, 
+          2495989, 
+          2496905, 
+          2516924, 
+          2518094
+        ], 
+        "ne_latitude": 42.551, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Rensselaerville, Town of"
+        ], 
+        "ne_longitude": -74.091, 
+        "longitude": -74.139, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:14Z", 
+        "parent_woeid": 12589312, 
+        "latitude": 42.520, 
+        "sw_longitude": -74.265, 
+        "fullname": "Rensselaerville, New York, Albany, United States", 
+        "sw_latitude": 42.407
+      }, 
+      "id": 2480236
+    }
+  ]
+}

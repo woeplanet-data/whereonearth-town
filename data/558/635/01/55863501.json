@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.412, 
+              48.927
+            ], 
+            [
+              2.412, 
+              48.946
+            ], 
+            [
+              2.445, 
+              48.946
+            ], 
+            [
+              2.445, 
+              48.927
+            ], 
+            [
+              2.412, 
+              48.927
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863501, 
+        "name": "Le Bourget", 
+        "adjacent_woeid": [
+          55863466, 
+          55863467, 
+          55863493, 
+          55863500
+        ], 
+        "ne_latitude": 48.946, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.445, 
+        "longitude": 2.424, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "parent_woeid": 12647212, 
+        "latitude": 48.933, 
+        "sw_longitude": 2.412, 
+        "fullname": "Le Bourget, Ile-de-France, Seine-St.-Denis, France", 
+        "sw_latitude": 48.927
+      }, 
+      "id": 55863501
+    }
+  ]
+}

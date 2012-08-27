@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.812, 
+              48.667
+            ], 
+            [
+              2.812, 
+              48.676
+            ], 
+            [
+              2.826, 
+              48.676
+            ], 
+            [
+              2.826, 
+              48.667
+            ], 
+            [
+              2.812, 
+              48.667
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591574, 
+        "name": "Forest", 
+        "adjacent_woeid": [
+          585136, 
+          610611, 
+          615459, 
+          632456
+        ], 
+        "ne_latitude": 48.676, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.826, 
+        "longitude": 2.819, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:25Z", 
+        "parent_woeid": 12641389, 
+        "latitude": 48.672, 
+        "sw_longitude": 2.812, 
+        "fullname": "Forest, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.667
+      }, 
+      "id": 591574
+    }
+  ]
+}

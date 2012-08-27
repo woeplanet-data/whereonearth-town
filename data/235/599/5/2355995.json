@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.137, 
+              48.200
+            ], 
+            [
+              -122.137, 
+              48.209
+            ], 
+            [
+              -122.123, 
+              48.209
+            ], 
+            [
+              -122.123, 
+              48.200
+            ], 
+            [
+              -122.137, 
+              48.200
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2355995, 
+        "name": "Arlington Junction", 
+        "adjacent_woeid": [
+          2355982, 
+          2370899, 
+          2429989, 
+          2460445, 
+          2507576
+        ], 
+        "ne_latitude": 48.209, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Arlington Jct"
+        ], 
+        "ne_longitude": -122.123, 
+        "longitude": -122.130, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:22:16Z", 
+        "parent_woeid": 12590470, 
+        "latitude": 48.204, 
+        "sw_longitude": -122.137, 
+        "fullname": "Arlington Junction, Washington, Snohomish, United States", 
+        "sw_latitude": 48.200
+      }, 
+      "id": 2355995
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.453, 
+              45.470
+            ], 
+            [
+              10.453, 
+              45.511
+            ], 
+            [
+              10.486, 
+              45.511
+            ], 
+            [
+              10.486, 
+              45.470
+            ], 
+            [
+              10.453, 
+              45.470
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20143439, 
+        "name": "Sedena", 
+        "adjacent_woeid": [
+          715122, 
+          20110804, 
+          20111497, 
+          20132901
+        ], 
+        "ne_latitude": 45.511, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.486, 
+        "longitude": 10.473, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:15Z", 
+        "parent_woeid": 12678207, 
+        "latitude": 45.486, 
+        "sw_longitude": 10.453, 
+        "fullname": "Sedena, Lombardy, Brescia, Italy", 
+        "sw_latitude": 45.470
+      }, 
+      "id": 20143439
+    }
+  ]
+}

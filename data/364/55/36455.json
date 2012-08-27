@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.234, 
+              52.494
+            ], 
+            [
+              1.234, 
+              52.503
+            ], 
+            [
+              1.249, 
+              52.503
+            ], 
+            [
+              1.249, 
+              52.494
+            ], 
+            [
+              1.234, 
+              52.494
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 36455, 
+        "name": "Stratton St. Michael", 
+        "adjacent_woeid": [
+          27362, 
+          29360, 
+          37007, 
+          37155
+        ], 
+        "ne_latitude": 52.503, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Stratton St Michael"
+        ], 
+        "ne_longitude": 1.249, 
+        "longitude": 1.241, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:48Z", 
+        "parent_woeid": 12696029, 
+        "latitude": 52.498, 
+        "sw_longitude": 1.234, 
+        "fullname": "Stratton St. Michael, England, Norfolk, United Kingdom", 
+        "sw_latitude": 52.494
+      }, 
+      "id": 36455
+    }
+  ]
+}

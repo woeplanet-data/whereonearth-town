@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.066, 
+              51.235
+            ], 
+            [
+              1.066, 
+              51.244
+            ], 
+            [
+              1.080, 
+              51.244
+            ], 
+            [
+              1.080, 
+              51.235
+            ], 
+            [
+              1.066, 
+              51.235
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 36467, 
+        "name": "Street End", 
+        "adjacent_woeid": [
+          15713, 
+          27715, 
+          29633, 
+          31947
+        ], 
+        "ne_latitude": 51.244, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.080, 
+        "longitude": 1.073, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:48Z", 
+        "parent_woeid": 12695986, 
+        "latitude": 51.239, 
+        "sw_longitude": 1.066, 
+        "fullname": "Street End, England, Kent, United Kingdom", 
+        "sw_latitude": 51.235
+      }, 
+      "id": 36467
+    }
+  ]
+}

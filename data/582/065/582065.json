@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.151, 
+              47.381
+            ], 
+            [
+              5.151, 
+              47.430
+            ], 
+            [
+              5.185, 
+              47.430
+            ], 
+            [
+              5.185, 
+              47.381
+            ], 
+            [
+              5.151, 
+              47.381
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 582065, 
+        "name": "Brognon", 
+        "adjacent_woeid": [
+          579003, 
+          591665, 
+          622704, 
+          624923
+        ], 
+        "ne_latitude": 47.430, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.185, 
+        "longitude": 5.164, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12640003, 
+        "latitude": 47.404, 
+        "sw_longitude": 5.151, 
+        "fullname": "Brognon, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.381
+      }, 
+      "id": 582065
+    }
+  ]
+}

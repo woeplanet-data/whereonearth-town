@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.448, 
+              24.372
+            ], 
+            [
+              -103.448, 
+              24.390
+            ], 
+            [
+              -103.428, 
+              24.390
+            ], 
+            [
+              -103.428, 
+              24.372
+            ], 
+            [
+              -103.448, 
+              24.372
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.390, 
+        "name": "San Antonio de La Laguna", 
+        "adjacent_woeid": [
+          118201, 
+          125700, 
+          126069, 
+          133597, 
+          141805
+        ], 
+        "woeid": 141806, 
+        "alias_SPA_V": [
+          "S. Antonio de La Laguna"
+        ], 
+        "ne_longitude": -103.428, 
+        "longitude": -103.438, 
+        "parent_woeid": 12599981, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.381, 
+        "sw_longitude": -103.448, 
+        "fullname": "San Antonio de La Laguna, Durango, Santa Clara, Mexico", 
+        "sw_latitude": 24.372
+      }, 
+      "id": 141806
+    }
+  ]
+}

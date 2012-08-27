@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.638, 
+              10.095
+            ], 
+            [
+              -63.638, 
+              10.105
+            ], 
+            [
+              -63.629, 
+              10.105
+            ], 
+            [
+              -63.629, 
+              10.095
+            ], 
+            [
+              -63.638, 
+              10.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.105, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          393217, 
+          393324, 
+          395757, 
+          468218, 
+          26806901
+        ], 
+        "woeid": 393501, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -63.629, 
+        "longitude": -63.633, 
+        "parent_woeid": 26805167, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.100, 
+        "sw_longitude": -63.638, 
+        "fullname": "San Francisco, Monagas, Acosta, Venezuela", 
+        "sw_latitude": 10.095
+      }, 
+      "id": 393501
+    }
+  ]
+}

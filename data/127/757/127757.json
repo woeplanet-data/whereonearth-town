@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -96.160, 
+              18.591
+            ], 
+            [
+              -96.160, 
+              18.609
+            ], 
+            [
+              -96.140, 
+              18.609
+            ], 
+            [
+              -96.140, 
+              18.591
+            ], 
+            [
+              -96.160, 
+              18.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.609, 
+        "name": "La Isla", 
+        "adjacent_woeid": [
+          120050, 
+          121032, 
+          123035, 
+          123068, 
+          125887, 
+          132189, 
+          136354, 
+          151490
+        ], 
+        "woeid": 127757, 
+        "alias_SPA_V": [
+          "Isla"
+        ], 
+        "ne_longitude": -96.140, 
+        "longitude": -96.150, 
+        "parent_woeid": 12601892, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.600, 
+        "sw_longitude": -96.160, 
+        "fullname": "La Isla, Veracruz-Llave, Tierra Blanca, Mexico", 
+        "sw_latitude": 18.591
+      }, 
+      "id": 127757
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.593, 
+              49.506
+            ], 
+            [
+              11.593, 
+              49.522
+            ], 
+            [
+              11.613, 
+              49.522
+            ], 
+            [
+              11.613, 
+              49.506
+            ], 
+            [
+              11.593, 
+              49.506
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648380, 
+        "name": "Erkelsdorf", 
+        "adjacent_woeid": [
+          648509, 
+          648527, 
+          685072, 
+          708877
+        ], 
+        "ne_latitude": 49.522, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.613, 
+        "longitude": 11.605, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12636014, 
+        "latitude": 49.516, 
+        "sw_longitude": 11.593, 
+        "fullname": "Erkelsdorf, Bavaria, Amberg-Sulzbach, Germany", 
+        "sw_latitude": 49.506
+      }, 
+      "id": 648380
+    }
+  ]
+}

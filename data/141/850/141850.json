@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.810, 
+              28.591
+            ], 
+            [
+              -105.810, 
+              28.609
+            ], 
+            [
+              -105.790, 
+              28.609
+            ], 
+            [
+              -105.790, 
+              28.591
+            ], 
+            [
+              -105.810, 
+              28.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.609, 
+        "name": "San Antonio El Grande", 
+        "adjacent_woeid": [
+          118295, 
+          123740, 
+          128426, 
+          142223, 
+          142761
+        ], 
+        "woeid": 141850, 
+        "alias_SPA_V": [
+          "S. Antonio El Grande"
+        ], 
+        "ne_longitude": -105.790, 
+        "longitude": -105.800, 
+        "parent_woeid": 12599822, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.600, 
+        "sw_longitude": -105.810, 
+        "fullname": "San Antonio El Grande, Chihuahua, Aquiles Serdan, Mexico", 
+        "sw_latitude": 28.591
+      }, 
+      "id": 141850
+    }
+  ]
+}

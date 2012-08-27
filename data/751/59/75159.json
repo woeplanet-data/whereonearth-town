@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.083, 
+              19.544
+            ], 
+            [
+              -71.083, 
+              19.559
+            ], 
+            [
+              -71.067, 
+              19.559
+            ], 
+            [
+              -71.067, 
+              19.544
+            ], 
+            [
+              -71.083, 
+              19.544
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.559, 
+        "name": "Mao", 
+        "adjacent_woeid": [
+          71469, 
+          71619, 
+          73105, 
+          75066, 
+          76279, 
+          76321, 
+          76322
+        ], 
+        "woeid": 75159, 
+        "alias_SPA_V": [
+          "Valverde"
+        ], 
+        "ne_longitude": -71.067, 
+        "longitude": -71.075, 
+        "parent_woeid": 2345195, 
+        "placetype": "Town", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.552, 
+        "sw_longitude": -71.083, 
+        "fullname": "Mao, Valverde, Dominican Republic", 
+        "sw_latitude": 19.544
+      }, 
+      "id": 75159
+    }
+  ]
+}

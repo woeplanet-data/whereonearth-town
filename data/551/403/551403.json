@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.784, 
+              47.105
+            ], 
+            [
+              10.784, 
+              47.123
+            ], 
+            [
+              10.811, 
+              47.123
+            ], 
+            [
+              10.811, 
+              47.105
+            ], 
+            [
+              10.784, 
+              47.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551403, 
+        "name": "Wiese", 
+        "adjacent_woeid": [
+          551429, 
+          20095844, 
+          20095926, 
+          22527397, 
+          28995497, 
+          28996087
+        ], 
+        "ne_latitude": 47.123, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.811, 
+        "longitude": 10.796, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675390, 
+        "latitude": 47.115, 
+        "sw_longitude": 10.784, 
+        "fullname": "Wiese, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.105
+      }, 
+      "id": 551403
+    }
+  ]
+}

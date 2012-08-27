@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.983, 
+              49.290
+            ], 
+            [
+              10.983, 
+              49.318
+            ], 
+            [
+              11.009, 
+              49.318
+            ], 
+            [
+              11.009, 
+              49.290
+            ], 
+            [
+              10.983, 
+              49.290
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656084, 
+        "name": "Haag", 
+        "adjacent_woeid": [
+          664749, 
+          669351, 
+          682054, 
+          683937, 
+          691533, 
+          701387
+        ], 
+        "ne_latitude": 49.318, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.009, 
+        "longitude": 10.994, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:11Z", 
+        "parent_woeid": 12634540, 
+        "latitude": 49.305, 
+        "sw_longitude": 10.983, 
+        "fullname": "Haag, Bavaria, Landkreis Roth, Germany", 
+        "sw_latitude": 49.290
+      }, 
+      "id": 656084
+    }
+  ]
+}

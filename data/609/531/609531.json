@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.109, 
+              45.544
+            ], 
+            [
+              -0.109, 
+              45.570
+            ], 
+            [
+              -0.080, 
+              45.570
+            ], 
+            [
+              -0.080, 
+              45.544
+            ], 
+            [
+              -0.109, 
+              45.544
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 609531, 
+        "name": "Malaville", 
+        "adjacent_woeid": [
+          580005, 
+          580675, 
+          589857, 
+          614482, 
+          629026, 
+          20198262
+        ], 
+        "ne_latitude": 45.570, 
+        "ne_longitude": -0.080, 
+        "longitude": -0.096, 
+        "parent_woeid": 12666093, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mallaville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.558, 
+        "sw_longitude": -0.109, 
+        "fullname": "Malaville, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.544
+      }, 
+      "id": 609531
+    }
+  ]
+}

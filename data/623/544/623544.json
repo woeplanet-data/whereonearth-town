@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.451, 
+              45.889
+            ], 
+            [
+              0.451, 
+              45.917
+            ], 
+            [
+              0.482, 
+              45.917
+            ], 
+            [
+              0.482, 
+              45.889
+            ], 
+            [
+              0.451, 
+              45.889
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623544, 
+        "name": "St.-Claud", 
+        "adjacent_woeid": [
+          575812, 
+          584170, 
+          584516, 
+          584832, 
+          585331, 
+          603149, 
+          609041, 
+          614310, 
+          615752, 
+          620191, 
+          620434, 
+          624066, 
+          625117
+        ], 
+        "ne_latitude": 45.917, 
+        "ne_longitude": 0.482, 
+        "longitude": 0.466, 
+        "parent_woeid": 12670286, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Claud"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.895, 
+        "sw_longitude": 0.451, 
+        "fullname": "St.-Claud, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.889
+      }, 
+      "id": 623544
+    }
+  ]
+}

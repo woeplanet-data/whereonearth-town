@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.493, 
+              16.202
+            ], 
+            [
+              -61.493, 
+              16.218
+            ], 
+            [
+              -61.477, 
+              16.218
+            ], 
+            [
+              -61.477, 
+              16.202
+            ], 
+            [
+              -61.493, 
+              16.202
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 80728, 
+        "name": "Le Gosier", 
+        "adjacent_woeid": [
+          80500, 
+          80571, 
+          80648, 
+          80737, 
+          80787, 
+          80820, 
+          80895
+        ], 
+        "ne_latitude": 16.218, 
+        "ne_longitude": -61.477, 
+        "longitude": -61.485, 
+        "parent_woeid": 24551292, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Gosier"
+        ], 
+        "iso": "GP", 
+        "date_indexed": "2010-12-02T08:50:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.210, 
+        "sw_longitude": -61.493, 
+        "fullname": "Le Gosier, Pointe-\u00c0-Pitre, Gosier, Guadeloupe", 
+        "sw_latitude": 16.202
+      }, 
+      "id": 80728
+    }
+  ]
+}

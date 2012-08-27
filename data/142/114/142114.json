@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.670, 
+              20.070
+            ], 
+            [
+              -100.670, 
+              20.088
+            ], 
+            [
+              -100.650, 
+              20.088
+            ], 
+            [
+              -100.650, 
+              20.070
+            ], 
+            [
+              -100.670, 
+              20.070
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.088, 
+        "name": "San Cayetano", 
+        "adjacent_woeid": [
+          120556, 
+          124264, 
+          127213, 
+          141682, 
+          147146, 
+          55887498, 
+          55894859
+        ], 
+        "woeid": 142114, 
+        "alias_SPA_V": [
+          "S. Cayetano"
+        ], 
+        "ne_longitude": -100.650, 
+        "longitude": -100.660, 
+        "parent_woeid": 12599990, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.079, 
+        "sw_longitude": -100.670, 
+        "fullname": "San Cayetano, Guanajuato, Acambaro, Mexico", 
+        "sw_latitude": 20.070
+      }, 
+      "id": 142114
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.885, 
+              44.823
+            ], 
+            [
+              0.885, 
+              44.861
+            ], 
+            [
+              0.924, 
+              44.861
+            ], 
+            [
+              0.924, 
+              44.823
+            ], 
+            [
+              0.885, 
+              44.823
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602380, 
+        "name": "Le Buisson-de-Cadouin", 
+        "adjacent_woeid": [
+          575767, 
+          578740, 
+          579231, 
+          582620, 
+          582696, 
+          587698, 
+          600969, 
+          602362, 
+          611771, 
+          612020, 
+          615540, 
+          622212, 
+          622836, 
+          623422, 
+          623635, 
+          629253
+        ], 
+        "ne_latitude": 44.861, 
+        "ne_longitude": 0.924, 
+        "longitude": 0.910, 
+        "parent_woeid": 12638927, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Buisson-Cussac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.845, 
+        "sw_longitude": 0.885, 
+        "fullname": "Le Buisson-de-Cadouin, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.823
+      }, 
+      "id": 602380
+    }
+  ]
+}

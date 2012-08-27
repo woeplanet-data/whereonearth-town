@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.414, 
+              43.309
+            ], 
+            [
+              -80.414, 
+              43.472
+            ], 
+            [
+              -80.233, 
+              43.472
+            ], 
+            [
+              -80.233, 
+              43.309
+            ], 
+            [
+              -80.414, 
+              43.309
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 4350, 
+        "name": "Cambridge", 
+        "adjacent_woeid": [
+          79, 
+          4048, 
+          4051, 
+          4053, 
+          23397510, 
+          23399160, 
+          23401672, 
+          29374117
+        ], 
+        "ne_latitude": 43.472, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -80.233, 
+        "longitude": -80.315, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375060, 
+        "latitude": 43.361, 
+        "sw_longitude": -80.414, 
+        "fullname": "Cambridge, Ontario, Waterloo, Canada", 
+        "sw_latitude": 43.309
+      }, 
+      "id": 4350
+    }
+  ]
+}

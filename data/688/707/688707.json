@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.612, 
+              50.249
+            ], 
+            [
+              10.612, 
+              50.285
+            ], 
+            [
+              10.665, 
+              50.285
+            ], 
+            [
+              10.665, 
+              50.249
+            ], 
+            [
+              10.612, 
+              50.249
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 688707, 
+        "name": "Rieth", 
+        "adjacent_woeid": [
+          633827, 
+          658887, 
+          693794, 
+          708998
+        ], 
+        "ne_latitude": 50.285, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.665, 
+        "longitude": 10.634, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:42Z", 
+        "parent_woeid": 12625110, 
+        "latitude": 50.265, 
+        "sw_longitude": 10.612, 
+        "fullname": "Rieth, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.249
+      }, 
+      "id": 688707
+    }
+  ]
+}

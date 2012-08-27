@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.731, 
+              46.076
+            ], 
+            [
+              -0.731, 
+              46.098
+            ], 
+            [
+              -0.698, 
+              46.098
+            ], 
+            [
+              -0.698, 
+              46.076
+            ], 
+            [
+              -0.731, 
+              46.076
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625472, 
+        "name": "St.-Mard", 
+        "adjacent_woeid": [
+          20199580, 
+          20199584, 
+          20199588, 
+          20199590, 
+          20199593, 
+          29331098
+        ], 
+        "ne_latitude": 46.098, 
+        "ne_longitude": -0.698, 
+        "longitude": -0.712, 
+        "parent_woeid": 12670826, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.085, 
+        "sw_longitude": -0.731, 
+        "fullname": "St.-Mard, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 46.076
+      }, 
+      "id": 625472
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.032, 
+              52.204
+            ], 
+            [
+              11.032, 
+              52.258
+            ], 
+            [
+              11.082, 
+              52.258
+            ], 
+            [
+              11.082, 
+              52.204
+            ], 
+            [
+              11.032, 
+              52.204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 636433, 
+        "name": "Bad Helmstedt", 
+        "adjacent_woeid": [
+          637425, 
+          657239, 
+          676262, 
+          703323
+        ], 
+        "ne_latitude": 52.258, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.082, 
+        "longitude": 11.066, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12630374, 
+        "latitude": 52.236, 
+        "sw_longitude": 11.032, 
+        "fullname": "Bad Helmstedt, Lower Saxony, Landkreis Helmstedt, Germany", 
+        "sw_latitude": 52.204
+      }, 
+      "id": 636433
+    }
+  ]
+}

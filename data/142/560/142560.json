@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.776, 
+              18.241
+            ], 
+            [
+              -91.776, 
+              18.259
+            ], 
+            [
+              -91.757, 
+              18.259
+            ], 
+            [
+              -91.757, 
+              18.241
+            ], 
+            [
+              -91.776, 
+              18.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.259, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          120693, 
+          141493, 
+          143185, 
+          146205, 
+          146725, 
+          146732
+        ], 
+        "woeid": 142560, 
+        "alias_SPA_V": [
+          "S. Francisco"
+        ], 
+        "ne_longitude": -91.757, 
+        "longitude": -91.767, 
+        "parent_woeid": 12599701, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.250, 
+        "sw_longitude": -91.776, 
+        "fullname": "San Francisco, Campeche, Carmen, Mexico", 
+        "sw_latitude": 18.241
+      }, 
+      "id": 142560
+    }
+  ]
+}

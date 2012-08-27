@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.640, 
+              45.860
+            ], 
+            [
+              2.640, 
+              45.894
+            ], 
+            [
+              2.671, 
+              45.894
+            ], 
+            [
+              2.671, 
+              45.860
+            ], 
+            [
+              2.640, 
+              45.860
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601165, 
+        "name": "Landogne", 
+        "adjacent_woeid": [
+          586736, 
+          599795, 
+          632271, 
+          20207095
+        ], 
+        "ne_latitude": 45.894, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.671, 
+        "longitude": 2.657, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12646948, 
+        "latitude": 45.878, 
+        "sw_longitude": 2.640, 
+        "fullname": "Landogne, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.860
+      }, 
+      "id": 601165
+    }
+  ]
+}

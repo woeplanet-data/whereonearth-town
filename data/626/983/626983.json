@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.041, 
+              45.612
+            ], 
+            [
+              -0.041, 
+              45.642
+            ], 
+            [
+              -0.015, 
+              45.642
+            ], 
+            [
+              -0.015, 
+              45.612
+            ], 
+            [
+              -0.041, 
+              45.612
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626983, 
+        "name": "St.-Simeux", 
+        "adjacent_woeid": [
+          576098, 
+          584310, 
+          613374, 
+          613450, 
+          631097
+        ], 
+        "ne_latitude": 45.642, 
+        "ne_longitude": -0.015, 
+        "longitude": -0.027, 
+        "parent_woeid": 12671245, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Simeux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.625, 
+        "sw_longitude": -0.041, 
+        "fullname": "St.-Simeux, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.612
+      }, 
+      "id": 626983
+    }
+  ]
+}

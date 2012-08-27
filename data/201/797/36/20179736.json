@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.234, 
+              47.062
+            ], 
+            [
+              -1.234, 
+              47.084
+            ], 
+            [
+              -1.210, 
+              47.084
+            ], 
+            [
+              -1.210, 
+              47.062
+            ], 
+            [
+              -1.234, 
+              47.062
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20179736, 
+        "name": "L'Anerie", 
+        "adjacent_woeid": [
+          581364, 
+          592771, 
+          20179740, 
+          20219596, 
+          29330712
+        ], 
+        "ne_latitude": 47.084, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.210, 
+        "longitude": -1.228, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:15Z", 
+        "parent_woeid": 12662074, 
+        "latitude": 47.068, 
+        "sw_longitude": -1.234, 
+        "fullname": "L'Anerie, Pays de la Loire, Loire-Atlantique, France", 
+        "sw_latitude": 47.062
+      }, 
+      "id": 20179736
+    }
+  ]
+}

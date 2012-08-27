@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.458, 
+              16.267
+            ], 
+            [
+              -92.458, 
+              16.285
+            ], 
+            [
+              -92.439, 
+              16.285
+            ], 
+            [
+              -92.439, 
+              16.267
+            ], 
+            [
+              -92.458, 
+              16.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.285, 
+        "name": "San Francisco Pujiltic", 
+        "adjacent_woeid": [
+          125373, 
+          126692, 
+          136003, 
+          147838, 
+          150632
+        ], 
+        "woeid": 142665, 
+        "alias_SPA_V": [
+          "S Francisco Pujiltic"
+        ], 
+        "ne_longitude": -92.439, 
+        "longitude": -92.448, 
+        "parent_woeid": 12599813, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.276, 
+        "sw_longitude": -92.458, 
+        "fullname": "San Francisco Pujiltic, Chiapas, Venustiano Carranza, Mexico", 
+        "sw_latitude": 16.267
+      }, 
+      "id": 142665
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.312, 
+              48.655
+            ], 
+            [
+              -1.312, 
+              48.681
+            ], 
+            [
+              -1.278, 
+              48.681
+            ], 
+            [
+              -1.278, 
+              48.655
+            ], 
+            [
+              -1.312, 
+              48.655
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625313, 
+        "name": "St.-Loup", 
+        "adjacent_woeid": [
+          625662, 
+          626127, 
+          626666, 
+          626933
+        ], 
+        "ne_latitude": 48.681, 
+        "ne_longitude": -1.278, 
+        "longitude": -1.295, 
+        "parent_woeid": 12652798, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Loup"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.669, 
+        "sw_longitude": -1.312, 
+        "fullname": "St.-Loup, Basse-Normandie, Manche, France", 
+        "sw_latitude": 48.655
+      }, 
+      "id": 625313
+    }
+  ]
+}

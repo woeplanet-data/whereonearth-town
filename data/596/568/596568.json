@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.810, 
+              44.906
+            ], 
+            [
+              3.810, 
+              44.915
+            ], 
+            [
+              3.823, 
+              44.915
+            ], 
+            [
+              3.823, 
+              44.906
+            ], 
+            [
+              3.810, 
+              44.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 596568, 
+        "name": "L'Herm", 
+        "adjacent_woeid": [
+          579582, 
+          591750, 
+          602170, 
+          615344
+        ], 
+        "ne_latitude": 44.915, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.823, 
+        "longitude": 3.817, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 22754918, 
+        "latitude": 44.911, 
+        "sw_longitude": 3.810, 
+        "fullname": "L'Herm, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 44.906
+      }, 
+      "id": 596568
+    }
+  ]
+}

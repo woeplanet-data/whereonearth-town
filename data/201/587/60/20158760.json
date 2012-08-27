@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.242, 
+              49.235
+            ], 
+            [
+              10.242, 
+              49.245
+            ], 
+            [
+              10.264, 
+              49.245
+            ], 
+            [
+              10.264, 
+              49.235
+            ], 
+            [
+              10.242, 
+              49.235
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20158760, 
+        "name": "Ulrichshausen", 
+        "adjacent_woeid": [
+          640473, 
+          675577, 
+          687047, 
+          20158761, 
+          20173182, 
+          29348207
+        ], 
+        "ne_latitude": 49.245, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.264, 
+        "longitude": 10.253, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12634439, 
+        "latitude": 49.241, 
+        "sw_longitude": 10.242, 
+        "fullname": "Ulrichshausen, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.235
+      }, 
+      "id": 20158760
+    }
+  ]
+}

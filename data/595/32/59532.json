@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.455, 
+              9.879
+            ], 
+            [
+              -84.455, 
+              9.888
+            ], 
+            [
+              -84.445, 
+              9.888
+            ], 
+            [
+              -84.445, 
+              9.879
+            ], 
+            [
+              -84.455, 
+              9.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.888, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          57684, 
+          58204, 
+          58334, 
+          59055, 
+          59456, 
+          59483, 
+          59514
+        ], 
+        "woeid": 59532, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -84.445, 
+        "longitude": -84.450, 
+        "parent_woeid": 26809229, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.883, 
+        "sw_longitude": -84.455, 
+        "fullname": "San Pedro, San Jose, Turrubares, Costa Rica", 
+        "sw_latitude": 9.879
+      }, 
+      "id": 59532
+    }
+  ]
+}

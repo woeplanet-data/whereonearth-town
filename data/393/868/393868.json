@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.981, 
+              7.819
+            ], 
+            [
+              -71.981, 
+              7.828
+            ], 
+            [
+              -71.972, 
+              7.828
+            ], 
+            [
+              -71.972, 
+              7.819
+            ], 
+            [
+              -71.981, 
+              7.819
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 7.828, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          383325, 
+          383582, 
+          389669, 
+          393074, 
+          393292, 
+          468232, 
+          468491
+        ], 
+        "woeid": 393868, 
+        "alias_SPA_V": [
+          "S. Pablo"
+        ], 
+        "ne_longitude": -71.972, 
+        "longitude": -71.977, 
+        "parent_woeid": 26804969, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.824, 
+        "sw_longitude": -71.981, 
+        "fullname": "San Pablo, Tachira, Sucre, Venezuela", 
+        "sw_latitude": 7.819
+      }, 
+      "id": 393868
+    }
+  ]
+}

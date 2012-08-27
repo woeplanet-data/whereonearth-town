@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.160, 
+              18.991
+            ], 
+            [
+              -104.160, 
+              19.009
+            ], 
+            [
+              -104.140, 
+              19.009
+            ], 
+            [
+              -104.140, 
+              18.991
+            ], 
+            [
+              -104.160, 
+              18.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.009, 
+        "name": "San Buenaventura", 
+        "adjacent_woeid": [
+          111195, 
+          114667, 
+          119820, 
+          119863, 
+          123750, 
+          129151, 
+          150686
+        ], 
+        "woeid": 142049, 
+        "alias_SPA_V": [
+          "S Buenaventura"
+        ], 
+        "ne_longitude": -104.140, 
+        "longitude": -104.150, 
+        "parent_woeid": 12599930, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.000, 
+        "sw_longitude": -104.160, 
+        "fullname": "San Buenaventura, Colima, Manzanillo, Mexico", 
+        "sw_latitude": 18.991
+      }, 
+      "id": 142049
+    }
+  ]
+}

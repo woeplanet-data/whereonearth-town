@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.327, 
+              23.424
+            ], 
+            [
+              -99.327, 
+              23.442
+            ], 
+            [
+              -99.307, 
+              23.442
+            ], 
+            [
+              -99.307, 
+              23.424
+            ], 
+            [
+              -99.327, 
+              23.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.442, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          116479, 
+          119489, 
+          135492, 
+          142637, 
+          142926, 
+          143568
+        ], 
+        "woeid": 145494, 
+        "alias_SPA_V": [
+          "S. Vicente"
+        ], 
+        "ne_longitude": -99.307, 
+        "longitude": -99.317, 
+        "parent_woeid": 12601649, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.433, 
+        "sw_longitude": -99.327, 
+        "fullname": "San Vicente, Tamaulipas, Jaumave, Mexico", 
+        "sw_latitude": 23.424
+      }, 
+      "id": 145494
+    }
+  ]
+}

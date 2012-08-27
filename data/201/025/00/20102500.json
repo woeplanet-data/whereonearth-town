@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.606, 
+              46.538
+            ], 
+            [
+              6.606, 
+              46.547
+            ], 
+            [
+              6.619, 
+              46.547
+            ], 
+            [
+              6.619, 
+              46.538
+            ], 
+            [
+              6.606, 
+              46.538
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20102500, 
+        "name": "La Grangette", 
+        "adjacent_woeid": [
+          20101230, 
+          20102653, 
+          20103624
+        ], 
+        "ne_latitude": 46.547, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.619, 
+        "longitude": 6.612, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:19:58Z", 
+        "parent_woeid": 12682890, 
+        "latitude": 46.542, 
+        "sw_longitude": 6.606, 
+        "fullname": "La Grangette, Canton of Vaud, Lausanne, Switzerland", 
+        "sw_latitude": 46.538
+      }, 
+      "id": 20102500
+    }
+  ]
+}

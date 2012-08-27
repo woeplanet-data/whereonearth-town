@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.810, 
+              24.708
+            ], 
+            [
+              -102.810, 
+              24.726
+            ], 
+            [
+              -102.790, 
+              24.726
+            ], 
+            [
+              -102.790, 
+              24.708
+            ], 
+            [
+              -102.810, 
+              24.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.726, 
+        "name": "El Zacate", 
+        "adjacent_woeid": [
+          123428, 
+          123469, 
+          126438, 
+          128985, 
+          143877
+        ], 
+        "woeid": 123019, 
+        "alias_SPA_V": [
+          "Zacate"
+        ], 
+        "ne_longitude": -102.790, 
+        "longitude": -102.800, 
+        "parent_woeid": 12599977, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.717, 
+        "sw_longitude": -102.810, 
+        "fullname": "El Zacate, Durango, San Juan de Guadalupe, Mexico", 
+        "sw_latitude": 24.708
+      }, 
+      "id": 123019
+    }
+  ]
+}

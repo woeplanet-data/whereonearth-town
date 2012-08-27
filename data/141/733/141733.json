@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.718, 
+              17.526
+            ], 
+            [
+              -97.718, 
+              17.544
+            ], 
+            [
+              -97.699, 
+              17.544
+            ], 
+            [
+              -97.699, 
+              17.526
+            ], 
+            [
+              -97.718, 
+              17.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.544, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          115995, 
+          146570, 
+          149221, 
+          26797921, 
+          26797928, 
+          26802976
+        ], 
+        "woeid": 141733, 
+        "alias_SPA_V": [
+          "S. Antonino Monte Verde"
+        ], 
+        "ne_longitude": -97.699, 
+        "longitude": -97.709, 
+        "parent_woeid": 12600763, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.535, 
+        "sw_longitude": -97.718, 
+        "fullname": "San Antonio, Oaxaca, San Antonino Monte Verde, Mexico", 
+        "sw_latitude": 17.526
+      }, 
+      "id": 141733
+    }
+  ]
+}

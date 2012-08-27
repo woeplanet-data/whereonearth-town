@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.789, 
+              39.998
+            ], 
+            [
+              -123.789, 
+              40.007
+            ], 
+            [
+              -123.777, 
+              40.007
+            ], 
+            [
+              -123.777, 
+              39.998
+            ], 
+            [
+              -123.789, 
+              39.998
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2384488, 
+        "name": "Cooks Valley", 
+        "adjacent_woeid": [
+          2354600, 
+          2361733, 
+          2362476, 
+          2368817, 
+          2417962, 
+          2431589, 
+          2505877
+        ], 
+        "ne_latitude": 40.007, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Cooks Vly"
+        ], 
+        "ne_longitude": -123.777, 
+        "longitude": -123.783, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:24:06Z", 
+        "parent_woeid": 12587681, 
+        "latitude": 40.002, 
+        "sw_longitude": -123.789, 
+        "fullname": "Cooks Valley, California, Humboldt, United States", 
+        "sw_latitude": 39.998
+      }, 
+      "id": 2384488
+    }
+  ]
+}

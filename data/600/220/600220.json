@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.521, 
+              48.980
+            ], 
+            [
+              1.521, 
+              49.006
+            ], 
+            [
+              1.542, 
+              49.006
+            ], 
+            [
+              1.542, 
+              48.980
+            ], 
+            [
+              1.521, 
+              48.980
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600220, 
+        "name": "La Tuilerie", 
+        "adjacent_woeid": [
+          598676, 
+          600470, 
+          608470, 
+          624647, 
+          624648
+        ], 
+        "ne_latitude": 49.006, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.542, 
+        "longitude": 1.529, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:24Z", 
+        "parent_woeid": 12646687, 
+        "latitude": 48.997, 
+        "sw_longitude": 1.521, 
+        "fullname": "La Tuilerie, Ile-de-France, Yvelines, France", 
+        "sw_latitude": 48.980
+      }, 
+      "id": 600220
+    }
+  ]
+}

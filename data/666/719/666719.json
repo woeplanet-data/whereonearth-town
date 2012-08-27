@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.123, 
+              49.255
+            ], 
+            [
+              10.123, 
+              49.293
+            ], 
+            [
+              10.146, 
+              49.293
+            ], 
+            [
+              10.146, 
+              49.255
+            ], 
+            [
+              10.123, 
+              49.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666719, 
+        "name": "Kleinansbach", 
+        "adjacent_woeid": [
+          641236, 
+          658043, 
+          687479, 
+          688150, 
+          20158700, 
+          20173255
+        ], 
+        "ne_latitude": 49.293, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.146, 
+        "longitude": 10.140, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12624159, 
+        "latitude": 49.276, 
+        "sw_longitude": 10.123, 
+        "fullname": "Kleinansbach, Baden-Wurttemberg, Landkreis Schw\u00e4bisch Hall, Germany", 
+        "sw_latitude": 49.255
+      }, 
+      "id": 666719
+    }
+  ]
+}

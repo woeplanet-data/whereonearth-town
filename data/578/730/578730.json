@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.814, 
+              45.763
+            ], 
+            [
+              1.814, 
+              45.789
+            ], 
+            [
+              1.847, 
+              45.789
+            ], 
+            [
+              1.847, 
+              45.763
+            ], 
+            [
+              1.814, 
+              45.763
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578730, 
+        "name": "Beaumont-du-Lac", 
+        "adjacent_woeid": [
+          616551, 
+          622851, 
+          631118, 
+          20190840, 
+          20190867
+        ], 
+        "ne_latitude": 45.789, 
+        "ne_longitude": 1.847, 
+        "longitude": 1.834, 
+        "parent_woeid": 12656529, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Beaumont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.771, 
+        "sw_longitude": 1.814, 
+        "fullname": "Beaumont-du-Lac, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.763
+      }, 
+      "id": 578730
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.243, 
+              21.341
+            ], 
+            [
+              -100.243, 
+              21.359
+            ], 
+            [
+              -100.224, 
+              21.359
+            ], 
+            [
+              -100.224, 
+              21.341
+            ], 
+            [
+              -100.243, 
+              21.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.359, 
+        "name": "Milpillas del Pito", 
+        "adjacent_woeid": [
+          111616, 
+          116409, 
+          122463, 
+          135354, 
+          141338
+        ], 
+        "woeid": 133670, 
+        "alias_SPA_V": [
+          "Milpillas"
+        ], 
+        "ne_longitude": -100.224, 
+        "longitude": -100.233, 
+        "parent_woeid": 12600031, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.350, 
+        "sw_longitude": -100.243, 
+        "fullname": "Milpillas del Pito, Guanajuato, Victoria, Mexico", 
+        "sw_latitude": 21.341
+      }, 
+      "id": 133670
+    }
+  ]
+}

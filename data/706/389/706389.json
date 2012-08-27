@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.365, 
+              48.994
+            ], 
+            [
+              12.365, 
+              49.017
+            ], 
+            [
+              12.389, 
+              49.017
+            ], 
+            [
+              12.389, 
+              48.994
+            ], 
+            [
+              12.365, 
+              48.994
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706389, 
+        "name": "Wiesent", 
+        "adjacent_woeid": [
+          648913, 
+          665668, 
+          680747, 
+          703161, 
+          20156089
+        ], 
+        "ne_latitude": 49.017, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.389, 
+        "longitude": 12.378, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12623137, 
+        "latitude": 49.007, 
+        "sw_longitude": 12.365, 
+        "fullname": "Wiesent, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.994
+      }, 
+      "id": 706389
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.643, 
+              19.258
+            ], 
+            [
+              -103.643, 
+              19.276
+            ], 
+            [
+              -103.624, 
+              19.276
+            ], 
+            [
+              -103.624, 
+              19.258
+            ], 
+            [
+              -103.643, 
+              19.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.276, 
+        "name": "San Joaquin", 
+        "adjacent_woeid": [
+          113808, 
+          119836, 
+          120104, 
+          121345, 
+          122815, 
+          128585
+        ], 
+        "woeid": 143181, 
+        "alias_SPA_V": [
+          "S Joaquin"
+        ], 
+        "ne_longitude": -103.624, 
+        "longitude": -103.633, 
+        "parent_woeid": 12599928, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.267, 
+        "sw_longitude": -103.643, 
+        "fullname": "San Joaquin, Colima, Cuauhtemoc, Mexico", 
+        "sw_latitude": 19.258
+      }, 
+      "id": 143181
+    }
+  ]
+}

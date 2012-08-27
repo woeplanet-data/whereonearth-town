@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.102, 
+              37.943
+            ], 
+            [
+              -1.102, 
+              37.965
+            ], 
+            [
+              -1.081, 
+              37.965
+            ], 
+            [
+              -1.081, 
+              37.943
+            ], 
+            [
+              -1.102, 
+              37.943
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.965, 
+        "name": "Los Garres", 
+        "adjacent_woeid": [
+          752071, 
+          775456, 
+          23413869, 
+          23414850, 
+          23415191, 
+          29370229
+        ], 
+        "woeid": 765751, 
+        "alias_SPA_V": [
+          "Garres y Lages"
+        ], 
+        "ne_longitude": -1.081, 
+        "longitude": -1.091, 
+        "parent_woeid": 12688155, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.958, 
+        "sw_longitude": -1.102, 
+        "fullname": "Los Garres, Murcia, Murcia, Spain", 
+        "sw_latitude": 37.943
+      }, 
+      "id": 765751
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.408, 
+              44.325
+            ], 
+            [
+              5.408, 
+              44.364
+            ], 
+            [
+              5.435, 
+              44.364
+            ], 
+            [
+              5.435, 
+              44.325
+            ], 
+            [
+              5.408, 
+              44.325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605129, 
+        "name": "Lemps", 
+        "adjacent_woeid": [
+          579089, 
+          596801, 
+          612603, 
+          630648
+        ], 
+        "ne_latitude": 44.364, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.435, 
+        "longitude": 5.419, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "parent_woeid": 12665244, 
+        "latitude": 44.351, 
+        "sw_longitude": 5.408, 
+        "fullname": "Lemps, Rhone-Alpes, Drome, France", 
+        "sw_latitude": 44.325
+      }, 
+      "id": 605129
+    }
+  ]
+}

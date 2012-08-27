@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.806, 
+              50.695
+            ], 
+            [
+              5.806, 
+              50.714
+            ], 
+            [
+              5.835, 
+              50.714
+            ], 
+            [
+              5.835, 
+              50.695
+            ], 
+            [
+              5.806, 
+              50.695
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977206, 
+        "name": "St.-Jean Sart", 
+        "adjacent_woeid": [
+          968265, 
+          971198, 
+          971783, 
+          974839, 
+          20098290
+        ], 
+        "ne_latitude": 50.714, 
+        "ne_longitude": 5.835, 
+        "longitude": 5.820, 
+        "parent_woeid": 12602480, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Jean-Sart"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.705, 
+        "sw_longitude": 5.806, 
+        "fullname": "St.-Jean Sart, Liege, Verviers, Belgium", 
+        "sw_latitude": 50.695
+      }, 
+      "id": 977206
+    }
+  ]
+}

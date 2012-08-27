@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.846, 
+              51.985
+            ], 
+            [
+              10.846, 
+              52.046
+            ], 
+            [
+              10.883, 
+              52.046
+            ], 
+            [
+              10.883, 
+              51.985
+            ], 
+            [
+              10.846, 
+              51.985
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705736, 
+        "name": "Westerburg", 
+        "adjacent_woeid": [
+          636570, 
+          643767, 
+          689371, 
+          702523
+        ], 
+        "ne_latitude": 52.046, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.883, 
+        "longitude": 10.866, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 24547204, 
+        "latitude": 52.017, 
+        "sw_longitude": 10.846, 
+        "fullname": "Westerburg, Saxony-Anhalt, Landkreis Halberstadt, Germany", 
+        "sw_latitude": 51.985
+      }, 
+      "id": 705736
+    }
+  ]
+}

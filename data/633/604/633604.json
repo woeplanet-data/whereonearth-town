@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.480, 
+              53.743
+            ], 
+            [
+              10.480, 
+              53.774
+            ], 
+            [
+              10.505, 
+              53.774
+            ], 
+            [
+              10.505, 
+              53.743
+            ], 
+            [
+              10.480, 
+              53.743
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633604, 
+        "name": "Ahrensfelde", 
+        "adjacent_woeid": [
+          693398, 
+          694712, 
+          705705, 
+          708176
+        ], 
+        "ne_latitude": 53.774, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.505, 
+        "longitude": 10.493, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:18Z", 
+        "parent_woeid": 12631894, 
+        "latitude": 53.764, 
+        "sw_longitude": 10.480, 
+        "fullname": "Ahrensfelde, Schleswig-Holstein, Stormarn, Germany", 
+        "sw_latitude": 53.743
+      }, 
+      "id": 633604
+    }
+  ]
+}

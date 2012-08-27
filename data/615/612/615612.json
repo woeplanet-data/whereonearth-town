@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.870, 
+              50.005
+            ], 
+            [
+              3.870, 
+              50.027
+            ], 
+            [
+              3.889, 
+              50.027
+            ], 
+            [
+              3.889, 
+              50.005
+            ], 
+            [
+              3.870, 
+              50.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615612, 
+        "name": "Papleux", 
+        "adjacent_woeid": [
+          591221, 
+          591491, 
+          598186, 
+          20218122
+        ], 
+        "ne_latitude": 50.027, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.889, 
+        "longitude": 3.884, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 22757345, 
+        "latitude": 50.021, 
+        "sw_longitude": 3.870, 
+        "fullname": "Papleux, Picardie, Aisne, France", 
+        "sw_latitude": 50.005
+      }, 
+      "id": 615612
+    }
+  ]
+}

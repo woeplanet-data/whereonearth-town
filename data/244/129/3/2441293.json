@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.127, 
+              37.103
+            ], 
+            [
+              -84.127, 
+              37.152
+            ], 
+            [
+              -84.039, 
+              37.152
+            ], 
+            [
+              -84.039, 
+              37.103
+            ], 
+            [
+              -84.127, 
+              37.103
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2441293, 
+        "name": "London", 
+        "adjacent_woeid": [
+          2354936, 
+          2369603, 
+          2372473, 
+          2384931, 
+          2395337, 
+          2402315, 
+          2439294, 
+          2444669, 
+          2445336, 
+          2455531, 
+          2472072, 
+          2473220, 
+          2495699, 
+          2504232, 
+          23509298, 
+          23510224, 
+          28338666
+        ], 
+        "ne_latitude": 37.152, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "LOZ"
+        ], 
+        "ne_longitude": -84.039, 
+        "longitude": -84.084, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:37:34Z", 
+        "parent_woeid": 12588538, 
+        "latitude": 37.127, 
+        "sw_longitude": -84.127, 
+        "fullname": "London, Kentucky, Laurel, United States", 
+        "sw_latitude": 37.103
+      }, 
+      "id": 2441293
+    }
+  ]
+}

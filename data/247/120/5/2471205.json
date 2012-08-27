@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.846, 
+              39.777
+            ], 
+            [
+              -85.846, 
+              39.786
+            ], 
+            [
+              -85.834, 
+              39.786
+            ], 
+            [
+              -85.834, 
+              39.777
+            ], 
+            [
+              -85.846, 
+              39.777
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2471205, 
+        "name": "Philadelphia", 
+        "adjacent_woeid": [
+          2409442, 
+          2452697, 
+          2454880, 
+          2497991
+        ], 
+        "ne_latitude": 39.786, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -85.834, 
+        "longitude": -85.840, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:30:12Z", 
+        "parent_woeid": 12588209, 
+        "latitude": 39.782, 
+        "sw_longitude": -85.846, 
+        "fullname": "Philadelphia, Indiana, Hancock, United States", 
+        "sw_latitude": 39.777
+      }, 
+      "id": 2471205
+    }
+  ]
+}

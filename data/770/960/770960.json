@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -5.692, 
+              40.212
+            ], 
+            [
+              -5.692, 
+              40.310
+            ], 
+            [
+              -5.590, 
+              40.310
+            ], 
+            [
+              -5.590, 
+              40.212
+            ], 
+            [
+              -5.692, 
+              40.212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.310, 
+        "name": "Puerto Castilla", 
+        "adjacent_woeid": [
+          761578, 
+          764239, 
+          766088, 
+          768183, 
+          768221, 
+          768241, 
+          775631, 
+          779360, 
+          20226082
+        ], 
+        "woeid": 770960, 
+        "alias_SPA_V": [
+          "Pto. Castilla"
+        ], 
+        "ne_longitude": -5.590, 
+        "longitude": -5.630, 
+        "parent_woeid": 12691301, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:17Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.288, 
+        "sw_longitude": -5.692, 
+        "fullname": "Puerto Castilla, Castille and Leon, Avila, Spain", 
+        "sw_latitude": 40.212
+      }, 
+      "id": 770960
+    }
+  ]
+}

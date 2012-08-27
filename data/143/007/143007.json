@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.291, 
+              31.538
+            ], 
+            [
+              -106.291, 
+              31.559
+            ], 
+            [
+              -106.269, 
+              31.559
+            ], 
+            [
+              -106.269, 
+              31.538
+            ], 
+            [
+              -106.291, 
+              31.538
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.559, 
+        "name": "San Isidro", 
+        "adjacent_woeid": [
+          118838, 
+          130412, 
+          141364, 
+          147454, 
+          150057
+        ], 
+        "woeid": 143007, 
+        "alias_SPA_V": [
+          "S Isidro"
+        ], 
+        "ne_longitude": -106.269, 
+        "longitude": -106.280, 
+        "parent_woeid": 12599855, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.547, 
+        "sw_longitude": -106.291, 
+        "fullname": "San Isidro, Chihuahua, Juarez, Mexico", 
+        "sw_latitude": 31.538
+      }, 
+      "id": 143007
+    }
+  ]
+}

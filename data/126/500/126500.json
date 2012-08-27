@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.375, 
+              24.879
+            ], 
+            [
+              -105.375, 
+              24.897
+            ], 
+            [
+              -105.355, 
+              24.897
+            ], 
+            [
+              -105.355, 
+              24.879
+            ], 
+            [
+              -105.375, 
+              24.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.897, 
+        "name": "La Bolsa", 
+        "adjacent_woeid": [
+          112315, 
+          123728, 
+          131232, 
+          142905, 
+          144781
+        ], 
+        "woeid": 126500, 
+        "alias_SPA_V": [
+          "Bolsa"
+        ], 
+        "ne_longitude": -105.355, 
+        "longitude": -105.365, 
+        "parent_woeid": 12599982, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.888, 
+        "sw_longitude": -105.375, 
+        "fullname": "La Bolsa, Durango, Santiago Papasquiaro, Mexico", 
+        "sw_latitude": 24.879
+      }, 
+      "id": 126500
+    }
+  ]
+}

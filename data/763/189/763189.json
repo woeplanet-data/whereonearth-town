@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.724, 
+              40.693
+            ], 
+            [
+              0.724, 
+              40.776
+            ], 
+            [
+              0.791, 
+              40.776
+            ], 
+            [
+              0.791, 
+              40.693
+            ], 
+            [
+              0.724, 
+              40.693
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.776, 
+        "name": "La Cava", 
+        "adjacent_woeid": [
+          751890, 
+          752399, 
+          763005, 
+          779252, 
+          779255, 
+          20222976, 
+          20226554, 
+          22661071
+        ], 
+        "woeid": 763189, 
+        "alias_SPA_V": [
+          "La Caba"
+        ], 
+        "ne_longitude": 0.791, 
+        "longitude": 0.741, 
+        "parent_woeid": 12694190, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.717, 
+        "sw_longitude": 0.724, 
+        "fullname": "La Cava, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 40.693
+      }, 
+      "id": 763189
+    }
+  ]
+}

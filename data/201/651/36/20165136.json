@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.765, 
+              54.090
+            ], 
+            [
+              10.765, 
+              54.122
+            ], 
+            [
+              10.802, 
+              54.122
+            ], 
+            [
+              10.802, 
+              54.090
+            ], 
+            [
+              10.765, 
+              54.090
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20165136, 
+        "name": "Rogerfelde", 
+        "adjacent_woeid": [
+          653258, 
+          689195, 
+          694947, 
+          20165139
+        ], 
+        "ne_latitude": 54.122, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.802, 
+        "longitude": 10.778, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:59Z", 
+        "parent_woeid": 12632288, 
+        "latitude": 54.110, 
+        "sw_longitude": 10.765, 
+        "fullname": "Rogerfelde, Schleswig-Holstein, Ostholstein, Germany", 
+        "sw_latitude": 54.090
+      }, 
+      "id": 20165136
+    }
+  ]
+}

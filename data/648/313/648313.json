@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.051, 
+              49.466
+            ], 
+            [
+              10.051, 
+              49.493
+            ], 
+            [
+              10.081, 
+              49.493
+            ], 
+            [
+              10.081, 
+              49.466
+            ], 
+            [
+              10.051, 
+              49.466
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648313, 
+        "name": "Erdbach", 
+        "adjacent_woeid": [
+          635387, 
+          643323, 
+          650371, 
+          650574, 
+          679908, 
+          687715, 
+          691956
+        ], 
+        "ne_latitude": 49.493, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.081, 
+        "longitude": 10.064, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12624176, 
+        "latitude": 49.479, 
+        "sw_longitude": 10.051, 
+        "fullname": "Erdbach, Baden-Wurttemberg, Main-Tauber-Kreis, Germany", 
+        "sw_latitude": 49.466
+      }, 
+      "id": 648313
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.143, 
+              17.758
+            ], 
+            [
+              -91.143, 
+              17.776
+            ], 
+            [
+              -91.124, 
+              17.776
+            ], 
+            [
+              -91.124, 
+              17.758
+            ], 
+            [
+              -91.143, 
+              17.758
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.776, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          112454, 
+          114849, 
+          117789, 
+          119444, 
+          120093, 
+          127135, 
+          137599, 
+          144593
+        ], 
+        "woeid": 145001, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -91.124, 
+        "longitude": -91.133, 
+        "parent_woeid": 12601615, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.767, 
+        "sw_longitude": -91.143, 
+        "fullname": "San Pedro, Tabasco, Balancan, Mexico", 
+        "sw_latitude": 17.758
+      }, 
+      "id": 145001
+    }
+  ]
+}

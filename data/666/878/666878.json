@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.066, 
+              50.239
+            ], 
+            [
+              11.066, 
+              50.265
+            ], 
+            [
+              11.101, 
+              50.265
+            ], 
+            [
+              11.101, 
+              50.239
+            ], 
+            [
+              11.066, 
+              50.239
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666878, 
+        "name": "Kleingarnstadt", 
+        "adjacent_woeid": [
+          633644, 
+          638768, 
+          639607, 
+          654991, 
+          681199, 
+          682527
+        ], 
+        "ne_latitude": 50.265, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.101, 
+        "longitude": 11.082, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12636090, 
+        "latitude": 50.254, 
+        "sw_longitude": 11.066, 
+        "fullname": "Kleingarnstadt, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.239
+      }, 
+      "id": 666878
+    }
+  ]
+}

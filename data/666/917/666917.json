@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.127, 
+              49.470
+            ], 
+            [
+              10.127, 
+              49.497
+            ], 
+            [
+              10.162, 
+              49.497
+            ], 
+            [
+              10.162, 
+              49.470
+            ], 
+            [
+              10.127, 
+              49.470
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666917, 
+        "name": "Kleinharbach", 
+        "adjacent_woeid": [
+          648271, 
+          655019, 
+          661431, 
+          670272, 
+          687432
+        ], 
+        "ne_latitude": 49.497, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.162, 
+        "longitude": 10.145, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12634530, 
+        "latitude": 49.484, 
+        "sw_longitude": 10.127, 
+        "fullname": "Kleinharbach, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.470
+      }, 
+      "id": 666917
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.600, 
+              44.207
+            ], 
+            [
+              4.600, 
+              44.254
+            ], 
+            [
+              4.675, 
+              44.254
+            ], 
+            [
+              4.675, 
+              44.207
+            ], 
+            [
+              4.600, 
+              44.207
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622831, 
+        "name": "St.-Alexandre", 
+        "adjacent_woeid": [
+          583141, 
+          624406, 
+          626049, 
+          630568
+        ], 
+        "ne_latitude": 44.254, 
+        "ne_longitude": 4.675, 
+        "longitude": 4.622, 
+        "parent_woeid": 12670070, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Alexandre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.228, 
+        "sw_longitude": 4.600, 
+        "fullname": "St.-Alexandre, Languedoc-Roussillon, Gard, France", 
+        "sw_latitude": 44.207
+      }, 
+      "id": 622831
+    }
+  ]
+}

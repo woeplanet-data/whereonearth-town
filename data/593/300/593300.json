@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.365, 
+              45.405
+            ], 
+            [
+              0.365, 
+              45.433
+            ], 
+            [
+              0.395, 
+              45.433
+            ], 
+            [
+              0.395, 
+              45.405
+            ], 
+            [
+              0.365, 
+              45.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593300, 
+        "name": "Gout-Rossignol", 
+        "adjacent_woeid": [
+          585629, 
+          591402, 
+          599768, 
+          627477, 
+          20195352
+        ], 
+        "ne_latitude": 45.433, 
+        "ne_longitude": 0.395, 
+        "longitude": 0.384, 
+        "parent_woeid": 12644663, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Go\u00fbts-Rossignol"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.414, 
+        "sw_longitude": 0.365, 
+        "fullname": "Gout-Rossignol, Gouts, Aquitaine, Dordogne, France", 
+        "alias_FRE_S": [
+          "Gouts-Rossignol"
+        ], 
+        "sw_latitude": 45.405
+      }, 
+      "id": 593300
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.829, 
+              10.433
+            ], 
+            [
+              -66.829, 
+              10.451
+            ], 
+            [
+              -66.811, 
+              10.451
+            ], 
+            [
+              -66.811, 
+              10.433
+            ], 
+            [
+              -66.829, 
+              10.433
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.451, 
+        "name": "El Hatillo", 
+        "adjacent_woeid": [
+          381516, 
+          381579, 
+          389457, 
+          392358, 
+          26808453, 
+          26808459
+        ], 
+        "woeid": 384555, 
+        "alias_SPA_V": [
+          "Urb Alto Hatillo"
+        ], 
+        "ne_longitude": -66.811, 
+        "longitude": -66.820, 
+        "parent_woeid": 26805210, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.442, 
+        "sw_longitude": -66.829, 
+        "fullname": "El Hatillo, Miranda, El Hatillo, Venezuela", 
+        "sw_latitude": 10.433
+      }, 
+      "id": 384555
+    }
+  ]
+}

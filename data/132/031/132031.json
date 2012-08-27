@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.776, 
+              19.224
+            ], 
+            [
+              -103.776, 
+              19.242
+            ], 
+            [
+              -103.757, 
+              19.242
+            ], 
+            [
+              -103.757, 
+              19.224
+            ], 
+            [
+              -103.776, 
+              19.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.242, 
+        "name": "Los Limones", 
+        "adjacent_woeid": [
+          117321, 
+          119738, 
+          126184, 
+          126315, 
+          131278, 
+          132125, 
+          134558
+        ], 
+        "woeid": 132031, 
+        "alias_SPA_V": [
+          "Limones"
+        ], 
+        "ne_longitude": -103.757, 
+        "longitude": -103.767, 
+        "parent_woeid": 12599925, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.233, 
+        "sw_longitude": -103.776, 
+        "fullname": "Los Limones, Colima, Colima, Mexico", 
+        "sw_latitude": 19.224
+      }, 
+      "id": 132031
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.264, 
+              45.314
+            ], 
+            [
+              0.264, 
+              45.332
+            ], 
+            [
+              0.294, 
+              45.332
+            ], 
+            [
+              0.294, 
+              45.314
+            ], 
+            [
+              0.264, 
+              45.314
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626307, 
+        "name": "St.-Paul-Lizonne", 
+        "adjacent_woeid": [
+          575749, 
+          581410, 
+          609033, 
+          626965
+        ], 
+        "ne_latitude": 45.332, 
+        "alias_ENG_V": [
+          "Saint-Paul"
+        ], 
+        "ne_longitude": 0.294, 
+        "longitude": 0.281, 
+        "parent_woeid": 12653048, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Paul-Lizonne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.320, 
+        "sw_longitude": 0.264, 
+        "fullname": "St.-Paul-Lizonne, St-Paul, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.314
+      }, 
+      "id": 626307
+    }
+  ]
+}

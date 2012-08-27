@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.902, 
+              46.852
+            ], 
+            [
+              10.902, 
+              46.871
+            ], 
+            [
+              10.929, 
+              46.871
+            ], 
+            [
+              10.929, 
+              46.852
+            ], 
+            [
+              10.902, 
+              46.852
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551355, 
+        "name": "Vent", 
+        "adjacent_woeid": [
+          550576, 
+          550916, 
+          550995, 
+          551232, 
+          551241, 
+          551421
+        ], 
+        "ne_latitude": 46.871, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.929, 
+        "longitude": 10.915, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675344, 
+        "latitude": 46.862, 
+        "sw_longitude": 10.902, 
+        "fullname": "Vent, Tyrol, Imst, Austria", 
+        "sw_latitude": 46.852
+      }, 
+      "id": 551355
+    }
+  ]
+}

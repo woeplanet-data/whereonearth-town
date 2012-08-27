@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.222, 
+              48.340
+            ], 
+            [
+              1.222, 
+              48.368
+            ], 
+            [
+              1.251, 
+              48.368
+            ], 
+            [
+              1.251, 
+              48.340
+            ], 
+            [
+              1.222, 
+              48.340
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602283, 
+        "name": "Le Breuil", 
+        "adjacent_woeid": [
+          605846, 
+          609237, 
+          609831, 
+          29332345
+        ], 
+        "ne_latitude": 48.368, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.251, 
+        "longitude": 1.240, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12640121, 
+        "latitude": 48.352, 
+        "sw_longitude": 1.222, 
+        "fullname": "Le Breuil, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.340
+      }, 
+      "id": 602283
+    }
+  ]
+}

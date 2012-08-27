@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.093, 
+              23.891
+            ], 
+            [
+              -99.093, 
+              23.909
+            ], 
+            [
+              -99.073, 
+              23.909
+            ], 
+            [
+              -99.073, 
+              23.891
+            ], 
+            [
+              -99.093, 
+              23.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.909, 
+        "name": "San Cayetano", 
+        "adjacent_woeid": [
+          112289, 
+          121201, 
+          129217, 
+          132586, 
+          133763, 
+          143521, 
+          143522
+        ], 
+        "woeid": 142100, 
+        "alias_SPA_V": [
+          "S Cayetano"
+        ], 
+        "ne_longitude": -99.073, 
+        "longitude": -99.083, 
+        "parent_woeid": 12601645, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.900, 
+        "sw_longitude": -99.093, 
+        "fullname": "San Cayetano, Tamaulipas, G\u00fc\u00e9mez, Mexico", 
+        "sw_latitude": 23.891
+      }, 
+      "id": 142100
+    }
+  ]
+}

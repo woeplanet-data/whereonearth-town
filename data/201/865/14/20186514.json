@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.220, 
+              47.646
+            ], 
+            [
+              1.220, 
+              47.655
+            ], 
+            [
+              1.234, 
+              47.655
+            ], 
+            [
+              1.234, 
+              47.646
+            ], 
+            [
+              1.220, 
+              47.646
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20186514, 
+        "name": "Grivelle", 
+        "adjacent_woeid": [
+          601147, 
+          623275, 
+          20186516, 
+          20219386
+        ], 
+        "ne_latitude": 47.655, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.234, 
+        "longitude": 1.227, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12652252, 
+        "latitude": 47.650, 
+        "sw_longitude": 1.220, 
+        "fullname": "Grivelle, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.646
+      }, 
+      "id": 20186514
+    }
+  ]
+}

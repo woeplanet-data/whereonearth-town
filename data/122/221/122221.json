@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.577, 
+              23.958
+            ], 
+            [
+              -100.577, 
+              23.976
+            ], 
+            [
+              -100.557, 
+              23.976
+            ], 
+            [
+              -100.557, 
+              23.958
+            ], 
+            [
+              -100.577, 
+              23.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.976, 
+        "name": "El Rucio", 
+        "adjacent_woeid": [
+          122036, 
+          133263, 
+          144105, 
+          144525, 
+          146950, 
+          151543
+        ], 
+        "woeid": 122221, 
+        "alias_SPA_V": [
+          "Rucio"
+        ], 
+        "ne_longitude": -100.557, 
+        "longitude": -100.567, 
+        "parent_woeid": 12601476, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.967, 
+        "sw_longitude": -100.577, 
+        "fullname": "El Rucio, San Luis Potosi, Cedral, Mexico", 
+        "sw_latitude": 23.958
+      }, 
+      "id": 122221
+    }
+  ]
+}

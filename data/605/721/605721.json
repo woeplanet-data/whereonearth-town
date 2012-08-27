@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.927, 
+              44.046
+            ], 
+            [
+              1.927, 
+              44.083
+            ], 
+            [
+              1.952, 
+              44.083
+            ], 
+            [
+              1.952, 
+              44.046
+            ], 
+            [
+              1.927, 
+              44.046
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605721, 
+        "name": "Les Cabannes", 
+        "adjacent_woeid": [
+          575874, 
+          600539, 
+          613622, 
+          632345
+        ], 
+        "ne_latitude": 44.083, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.952, 
+        "longitude": 1.940, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12665328, 
+        "latitude": 44.067, 
+        "sw_longitude": 1.927, 
+        "fullname": "Les Cabannes, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 44.046
+      }, 
+      "id": 605721
+    }
+  ]
+}

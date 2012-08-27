@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -87.965, 
+              14.052
+            ], 
+            [
+              -87.965, 
+              14.070
+            ], 
+            [
+              -87.946, 
+              14.070
+            ], 
+            [
+              -87.946, 
+              14.052
+            ], 
+            [
+              -87.965, 
+              14.052
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 14.070, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          98411, 
+          102912, 
+          105108, 
+          105190, 
+          105545
+        ], 
+        "woeid": 107213, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -87.946, 
+        "longitude": -87.955, 
+        "parent_woeid": 26813824, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.061, 
+        "sw_longitude": -87.965, 
+        "fullname": "Santa Ana, La Paz, Santa Ana, Honduras", 
+        "sw_latitude": 14.052
+      }, 
+      "id": 107213
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.981, 
+              48.095
+            ], 
+            [
+              3.981, 
+              48.142
+            ], 
+            [
+              4.017, 
+              48.142
+            ], 
+            [
+              4.017, 
+              48.095
+            ], 
+            [
+              3.981, 
+              48.095
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626344, 
+        "name": "St.-Phal", 
+        "adjacent_woeid": [
+          584117, 
+          587851, 
+          590730, 
+          595491, 
+          595527, 
+          29332901, 
+          29332946
+        ], 
+        "ne_latitude": 48.142, 
+        "ne_longitude": 4.017, 
+        "longitude": 3.998, 
+        "parent_woeid": 12650815, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Phal"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.121, 
+        "sw_longitude": 3.981, 
+        "fullname": "St.-Phal, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.095
+      }, 
+      "id": 626344
+    }
+  ]
+}

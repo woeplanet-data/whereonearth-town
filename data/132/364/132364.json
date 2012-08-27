@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.277, 
+              24.624
+            ], 
+            [
+              -106.277, 
+              24.642
+            ], 
+            [
+              -106.257, 
+              24.642
+            ], 
+            [
+              -106.257, 
+              24.624
+            ], 
+            [
+              -106.277, 
+              24.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.642, 
+        "name": "Los Reyes", 
+        "adjacent_woeid": [
+          121270, 
+          140573, 
+          146137, 
+          147847, 
+          151545, 
+          151641
+        ], 
+        "woeid": 132364, 
+        "alias_SPA_V": [
+          "Reyes"
+        ], 
+        "ne_longitude": -106.257, 
+        "longitude": -106.267, 
+        "parent_woeid": 12599984, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.633, 
+        "sw_longitude": -106.277, 
+        "fullname": "Los Reyes, Durango, Tamazula, Mexico", 
+        "sw_latitude": 24.624
+      }, 
+      "id": 132364
+    }
+  ]
+}

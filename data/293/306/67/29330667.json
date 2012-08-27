@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.036, 
+              45.984
+            ], 
+            [
+              -1.036, 
+              46.002
+            ], 
+            [
+              -1.008, 
+              46.002
+            ], 
+            [
+              -1.008, 
+              45.984
+            ], 
+            [
+              -1.036, 
+              45.984
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330667, 
+        "name": "Saint-Pierre", 
+        "adjacent_woeid": [
+          625128, 
+          626058, 
+          633070, 
+          29330679
+        ], 
+        "ne_latitude": 46.002, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.008, 
+        "longitude": -1.023, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "parent_woeid": 12659037, 
+        "latitude": 45.993, 
+        "sw_longitude": -1.036, 
+        "fullname": "Saint-Pierre, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.984
+      }, 
+      "id": 29330667
+    }
+  ]
+}

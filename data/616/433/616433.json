@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.067, 
+              44.968
+            ], 
+            [
+              1.067, 
+              45.007
+            ], 
+            [
+              1.095, 
+              45.007
+            ], 
+            [
+              1.095, 
+              44.968
+            ], 
+            [
+              1.067, 
+              44.968
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 616433, 
+        "name": "Peyzac-le-Moustier", 
+        "adjacent_woeid": [
+          603785, 
+          610196, 
+          621862, 
+          622223, 
+          625259, 
+          628021, 
+          629540
+        ], 
+        "ne_latitude": 45.007, 
+        "ne_longitude": 1.095, 
+        "longitude": 1.079, 
+        "parent_woeid": 12650567, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Peyzac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.991, 
+        "sw_longitude": 1.067, 
+        "fullname": "Peyzac-le-Moustier, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.968
+      }, 
+      "id": 616433
+    }
+  ]
+}

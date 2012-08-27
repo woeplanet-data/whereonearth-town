@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.027, 
+              30.241
+            ], 
+            [
+              -108.027, 
+              30.259
+            ], 
+            [
+              -108.006, 
+              30.259
+            ], 
+            [
+              -108.006, 
+              30.241
+            ], 
+            [
+              -108.027, 
+              30.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.259, 
+        "name": "San Diego", 
+        "adjacent_woeid": [
+          115094, 
+          116921, 
+          124169, 
+          133116, 
+          55913648
+        ], 
+        "woeid": 142217, 
+        "alias_SPA_V": [
+          "S Diego"
+        ], 
+        "ne_longitude": -108.006, 
+        "longitude": -108.017, 
+        "parent_woeid": 12599831, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.250, 
+        "sw_longitude": -108.027, 
+        "fullname": "San Diego, Chihuahua, Casas Grandes, Mexico", 
+        "sw_latitude": 30.241
+      }, 
+      "id": 142217
+    }
+  ]
+}

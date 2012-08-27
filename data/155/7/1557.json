@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.902, 
+              45.804
+            ], 
+            [
+              -73.902, 
+              45.912
+            ], 
+            [
+              -73.672, 
+              45.912
+            ], 
+            [
+              -73.672, 
+              45.804
+            ], 
+            [
+              -73.902, 
+              45.804
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1557, 
+        "name": "St.-Lin", 
+        "adjacent_woeid": [
+          3506, 
+          3512, 
+          23394281, 
+          29374330
+        ], 
+        "ne_latitude": 45.912, 
+        "ne_longitude": -73.672, 
+        "longitude": -73.787, 
+        "parent_woeid": 29375133, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Lin"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.858, 
+        "sw_longitude": -73.902, 
+        "fullname": "St.-Lin, Quebec, Montcalm, Canada", 
+        "sw_latitude": 45.804
+      }, 
+      "id": 1557
+    }
+  ]
+}

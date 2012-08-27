@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.747, 
+              47.181
+            ], 
+            [
+              10.747, 
+              47.199
+            ], 
+            [
+              10.774, 
+              47.199
+            ], 
+            [
+              10.774, 
+              47.181
+            ], 
+            [
+              10.747, 
+              47.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551128, 
+        "name": "Ried", 
+        "adjacent_woeid": [
+          550491, 
+          551007, 
+          551294, 
+          551382, 
+          28996092
+        ], 
+        "ne_latitude": 47.199, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.774, 
+        "longitude": 10.761, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675348, 
+        "latitude": 47.190, 
+        "sw_longitude": 10.747, 
+        "fullname": "Ried, Tyrol, Imst, Austria", 
+        "sw_latitude": 47.181
+      }, 
+      "id": 551128
+    }
+  ]
+}

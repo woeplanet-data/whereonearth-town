@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.858, 
+              45.815
+            ], 
+            [
+              -72.858, 
+              45.940
+            ], 
+            [
+              -72.699, 
+              45.940
+            ], 
+            [
+              -72.699, 
+              45.815
+            ], 
+            [
+              -72.858, 
+              45.815
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1507, 
+        "name": "St.-Guillaume", 
+        "adjacent_woeid": [
+          23394495, 
+          23394591, 
+          23395657, 
+          23396428, 
+          23396434, 
+          23396517, 
+          23396595
+        ], 
+        "ne_latitude": 45.940, 
+        "ne_longitude": -72.699, 
+        "longitude": -72.767, 
+        "parent_woeid": 29375204, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Guillaume"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.883, 
+        "sw_longitude": -72.858, 
+        "fullname": "St.-Guillaume, Quebec, Drummond, Canada", 
+        "sw_latitude": 45.815
+      }, 
+      "id": 1507
+    }
+  ]
+}

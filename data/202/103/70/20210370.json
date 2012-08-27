@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.691, 
+              45.209
+            ], 
+            [
+              6.691, 
+              45.218
+            ], 
+            [
+              6.704, 
+              45.218
+            ], 
+            [
+              6.704, 
+              45.209
+            ], 
+            [
+              6.691, 
+              45.209
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210370, 
+        "name": "Le Bourget", 
+        "adjacent_woeid": [
+          577367, 
+          577653, 
+          631491, 
+          20210362
+        ], 
+        "ne_latitude": 45.218, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.704, 
+        "longitude": 6.697, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 12657567, 
+        "latitude": 45.214, 
+        "sw_longitude": 6.691, 
+        "fullname": "Le Bourget, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.209
+      }, 
+      "id": 20210370
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.176, 
+              46.115
+            ], 
+            [
+              3.176, 
+              46.131
+            ], 
+            [
+              3.210, 
+              46.131
+            ], 
+            [
+              3.210, 
+              46.115
+            ], 
+            [
+              3.176, 
+              46.115
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610743, 
+        "name": "Mazerier", 
+        "adjacent_woeid": [
+          578982, 
+          595519, 
+          621227, 
+          623301
+        ], 
+        "ne_latitude": 46.131, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.210, 
+        "longitude": 3.190, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 22755127, 
+        "latitude": 46.125, 
+        "sw_longitude": 3.176, 
+        "fullname": "Mazerier, Auvergne, Allier, France", 
+        "sw_latitude": 46.115
+      }, 
+      "id": 610743
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.706, 
+              46.086
+            ], 
+            [
+              2.706, 
+              46.114
+            ], 
+            [
+              2.735, 
+              46.114
+            ], 
+            [
+              2.735, 
+              46.086
+            ], 
+            [
+              2.706, 
+              46.086
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 597311, 
+        "name": "La Cellette", 
+        "adjacent_woeid": [
+          593307, 
+          604357, 
+          625381
+        ], 
+        "ne_latitude": 46.114, 
+        "ne_longitude": 2.735, 
+        "longitude": 2.721, 
+        "parent_woeid": 12640624, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cellette"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.103, 
+        "sw_longitude": 2.706, 
+        "fullname": "La Cellette, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 46.086
+      }, 
+      "id": 597311
+    }
+  ]
+}

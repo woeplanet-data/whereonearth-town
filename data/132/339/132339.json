@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.611, 
+              25.626
+            ], 
+            [
+              -99.611, 
+              25.638
+            ], 
+            [
+              -99.598, 
+              25.638
+            ], 
+            [
+              -99.598, 
+              25.626
+            ], 
+            [
+              -99.611, 
+              25.626
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.638, 
+        "name": "Los Ramones", 
+        "adjacent_woeid": [
+          112353, 
+          113177, 
+          119578, 
+          123249, 
+          123932, 
+          141975, 
+          146134
+        ], 
+        "woeid": 132339, 
+        "alias_SPA_V": [
+          "Ramones"
+        ], 
+        "ne_longitude": -99.598, 
+        "longitude": -99.604, 
+        "parent_woeid": 12600639, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.632, 
+        "sw_longitude": -99.611, 
+        "fullname": "Los Ramones, Nuevo Leon, Los Ramones, Mexico", 
+        "sw_latitude": 25.626
+      }, 
+      "id": 132339
+    }
+  ]
+}

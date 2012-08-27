@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.326, 
+              21.274
+            ], 
+            [
+              -101.326, 
+              21.292
+            ], 
+            [
+              -101.307, 
+              21.292
+            ], 
+            [
+              -101.307, 
+              21.274
+            ], 
+            [
+              -101.326, 
+              21.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.292, 
+        "name": "San Juan de los Llanos", 
+        "adjacent_woeid": [
+          111964, 
+          120075, 
+          122551, 
+          131566, 
+          134870, 
+          145759
+        ], 
+        "woeid": 143898, 
+        "alias_SPA_V": [
+          "S Juan de los Llanos"
+        ], 
+        "ne_longitude": -101.307, 
+        "longitude": -101.317, 
+        "parent_woeid": 12600018, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.283, 
+        "sw_longitude": -101.326, 
+        "fullname": "San Juan de los Llanos, Guanajuato, San Felipe, Mexico", 
+        "sw_latitude": 21.274
+      }, 
+      "id": 143898
+    }
+  ]
+}

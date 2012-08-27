@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.327, 
+              22.181
+            ], 
+            [
+              -105.327, 
+              22.199
+            ], 
+            [
+              -105.307, 
+              22.199
+            ], 
+            [
+              -105.307, 
+              22.181
+            ], 
+            [
+              -105.327, 
+              22.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.199, 
+        "name": "El Pescadero", 
+        "adjacent_woeid": [
+          110918, 
+          112216, 
+          130047, 
+          130578, 
+          137592, 
+          144715
+        ], 
+        "woeid": 121435, 
+        "alias_SPA_V": [
+          "Pescadero"
+        ], 
+        "ne_longitude": -105.307, 
+        "longitude": -105.317, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.190, 
+        "sw_longitude": -105.327, 
+        "fullname": "El Pescadero, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 22.181
+      }, 
+      "id": 121435
+    }
+  ]
+}

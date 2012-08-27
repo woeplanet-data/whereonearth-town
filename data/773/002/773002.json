@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -6.607, 
+              42.510
+            ], 
+            [
+              -6.607, 
+              42.536
+            ], 
+            [
+              -6.572, 
+              42.536
+            ], 
+            [
+              -6.572, 
+              42.510
+            ], 
+            [
+              -6.607, 
+              42.510
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.536, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          755712, 
+          769035, 
+          772811, 
+          775574, 
+          776503, 
+          29372470
+        ], 
+        "woeid": 773002, 
+        "alias_SPA_V": [
+          "S. Lorenzo"
+        ], 
+        "ne_longitude": -6.572, 
+        "longitude": -6.591, 
+        "parent_woeid": 12691854, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.524, 
+        "sw_longitude": -6.607, 
+        "fullname": "San Lorenzo, Castille and Leon, Leon, Spain", 
+        "sw_latitude": 42.510
+      }, 
+      "id": 773002
+    }
+  ]
+}

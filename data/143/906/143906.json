@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.343, 
+              23.491
+            ], 
+            [
+              -99.343, 
+              23.509
+            ], 
+            [
+              -99.323, 
+              23.509
+            ], 
+            [
+              -99.323, 
+              23.491
+            ], 
+            [
+              -99.343, 
+              23.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.509, 
+        "name": "San Juan de Oriente", 
+        "adjacent_woeid": [
+          123737, 
+          126014, 
+          127262, 
+          127746, 
+          141616, 
+          142637, 
+          143568
+        ], 
+        "woeid": 143906, 
+        "alias_SPA_V": [
+          "S Juan de Oriente"
+        ], 
+        "ne_longitude": -99.323, 
+        "longitude": -99.333, 
+        "parent_woeid": 12601649, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.500, 
+        "sw_longitude": -99.343, 
+        "fullname": "San Juan de Oriente, Tamaulipas, Jaumave, Mexico", 
+        "sw_latitude": 23.491
+      }, 
+      "id": 143906
+    }
+  ]
+}

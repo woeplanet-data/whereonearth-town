@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.773, 
+              45.242
+            ], 
+            [
+              2.773, 
+              45.271
+            ], 
+            [
+              2.805, 
+              45.271
+            ], 
+            [
+              2.805, 
+              45.242
+            ], 
+            [
+              2.773, 
+              45.242
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626844, 
+        "name": "St.-Saturnin", 
+        "adjacent_woeid": [
+          585754, 
+          588728, 
+          601155, 
+          608949, 
+          609815, 
+          621598, 
+          623294, 
+          630829
+        ], 
+        "ne_latitude": 45.271, 
+        "ne_longitude": 2.805, 
+        "longitude": 2.794, 
+        "parent_woeid": 12645951, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Saturnin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.255, 
+        "sw_longitude": 2.773, 
+        "fullname": "St.-Saturnin, Auvergne, Cantal, France", 
+        "sw_latitude": 45.242
+      }, 
+      "id": 626844
+    }
+  ]
+}

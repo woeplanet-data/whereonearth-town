@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -85.595, 
+              10.248
+            ], 
+            [
+              -85.595, 
+              10.266
+            ], 
+            [
+              -85.576, 
+              10.266
+            ], 
+            [
+              -85.576, 
+              10.248
+            ], 
+            [
+              -85.595, 
+              10.248
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.266, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          57721, 
+          57752, 
+          57998, 
+          58174, 
+          58225, 
+          58331, 
+          58467, 
+          58541, 
+          58694, 
+          58865, 
+          58905, 
+          58969, 
+          59014, 
+          59708, 
+          59786, 
+          59828
+        ], 
+        "woeid": 59623, 
+        "alias_UNK_Q": [
+          "SZC"
+        ], 
+        "alias_SPA_V": [
+          "Sta Cruz"
+        ], 
+        "ne_longitude": -85.576, 
+        "longitude": -85.586, 
+        "parent_woeid": 26809258, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.257, 
+        "sw_longitude": -85.595, 
+        "fullname": "Santa Cruz, Guanacaste, Santa Cruz, Costa Rica", 
+        "sw_latitude": 10.248
+      }, 
+      "id": 59623
+    }
+  ]
+}

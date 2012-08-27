@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.143, 
+              25.724
+            ], 
+            [
+              -101.143, 
+              25.742
+            ], 
+            [
+              -101.123, 
+              25.742
+            ], 
+            [
+              -101.123, 
+              25.724
+            ], 
+            [
+              -101.143, 
+              25.724
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.742, 
+        "name": "Santa Rita del Muerto", 
+        "adjacent_woeid": [
+          121180, 
+          123205, 
+          139764, 
+          143908, 
+          145917
+        ], 
+        "woeid": 146735, 
+        "alias_SPA_V": [
+          "Sta Rita del Muerto"
+        ], 
+        "ne_longitude": -101.123, 
+        "longitude": -101.133, 
+        "parent_woeid": 12599912, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.733, 
+        "sw_longitude": -101.143, 
+        "fullname": "Santa Rita del Muerto, Coahuila de Zaragoza, Ramos Arizpe, Mexico", 
+        "sw_latitude": 25.724
+      }, 
+      "id": 146735
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.365, 
+              45.383
+            ], 
+            [
+              0.365, 
+              45.411
+            ], 
+            [
+              0.391, 
+              45.411
+            ], 
+            [
+              0.391, 
+              45.383
+            ], 
+            [
+              0.365, 
+              45.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585629, 
+        "name": "Cherval", 
+        "adjacent_woeid": [
+          591402, 
+          593300, 
+          593732, 
+          600136, 
+          625521, 
+          20195352
+        ], 
+        "ne_latitude": 45.411, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.391, 
+        "longitude": 0.376, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12641552, 
+        "latitude": 45.395, 
+        "sw_longitude": 0.365, 
+        "fullname": "Cherval, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.383
+      }, 
+      "id": 585629
+    }
+  ]
+}

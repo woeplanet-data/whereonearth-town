@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.316, 
+              50.008
+            ], 
+            [
+              12.316, 
+              50.043
+            ], 
+            [
+              12.337, 
+              50.043
+            ], 
+            [
+              12.337, 
+              50.008
+            ], 
+            [
+              12.316, 
+              50.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 662905, 
+        "name": "Hundsbach", 
+        "adjacent_woeid": [
+          673643, 
+          676764, 
+          684398, 
+          692249
+        ], 
+        "ne_latitude": 50.043, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.337, 
+        "longitude": 12.329, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:40Z", 
+        "parent_woeid": 12634352, 
+        "latitude": 50.025, 
+        "sw_longitude": 12.316, 
+        "fullname": "Hundsbach, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 50.008
+      }, 
+      "id": 662905
+    }
+  ]
+}

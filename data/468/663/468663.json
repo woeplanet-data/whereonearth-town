@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.705, 
+              11.118
+            ], 
+            [
+              -69.705, 
+              11.136
+            ], 
+            [
+              -69.686, 
+              11.136
+            ], 
+            [
+              -69.686, 
+              11.118
+            ], 
+            [
+              -69.705, 
+              11.118
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 11.136, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          393336, 
+          468185, 
+          468477, 
+          468577, 
+          468622, 
+          468644
+        ], 
+        "woeid": 468663, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -69.686, 
+        "longitude": -69.695, 
+        "parent_woeid": 26805492, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.127, 
+        "sw_longitude": -69.705, 
+        "fullname": "San Luis, Falcon, Bolivar, Venezuela", 
+        "sw_latitude": 11.118
+      }, 
+      "id": 468663
+    }
+  ]
+}

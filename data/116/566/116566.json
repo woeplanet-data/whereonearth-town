@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.510, 
+              17.891
+            ], 
+            [
+              -92.510, 
+              17.909
+            ], 
+            [
+              -92.490, 
+              17.909
+            ], 
+            [
+              -92.490, 
+              17.891
+            ], 
+            [
+              -92.510, 
+              17.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.909, 
+        "name": "Ciudad Pemex", 
+        "adjacent_woeid": [
+          113384, 
+          113822, 
+          136237, 
+          143116, 
+          150725, 
+          55920121, 
+          55920123, 
+          55920156
+        ], 
+        "woeid": 116566, 
+        "alias_SPA_V": [
+          "Pemex"
+        ], 
+        "ne_longitude": -92.490, 
+        "longitude": -92.500, 
+        "parent_woeid": 12601626, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.900, 
+        "sw_longitude": -92.510, 
+        "fullname": "Ciudad Pemex, Tabasco, Macuspana, Mexico", 
+        "sw_latitude": 17.891
+      }, 
+      "id": 116566
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.388, 
+              49.966
+            ], 
+            [
+              10.388, 
+              50.007
+            ], 
+            [
+              10.414, 
+              50.007
+            ], 
+            [
+              10.414, 
+              49.966
+            ], 
+            [
+              10.388, 
+              49.966
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700204, 
+        "name": "Tugendorf", 
+        "adjacent_woeid": [
+          643680, 
+          646055, 
+          662281, 
+          667112, 
+          686270
+        ], 
+        "ne_latitude": 50.007, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.414, 
+        "longitude": 10.400, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 12635415, 
+        "latitude": 49.983, 
+        "sw_longitude": 10.388, 
+        "fullname": "Tugendorf, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.966
+      }, 
+      "id": 700204
+    }
+  ]
+}

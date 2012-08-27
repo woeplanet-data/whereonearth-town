@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.072, 
+              50.020
+            ], 
+            [
+              10.072, 
+              50.045
+            ], 
+            [
+              10.118, 
+              50.045
+            ], 
+            [
+              10.118, 
+              50.020
+            ], 
+            [
+              10.072, 
+              50.020
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646605, 
+        "name": "Egenhausen", 
+        "adjacent_woeid": [
+          640867, 
+          646384, 
+          664483, 
+          692098, 
+          692573, 
+          702063
+        ], 
+        "ne_latitude": 50.045, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.118, 
+        "longitude": 10.091, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12635438, 
+        "latitude": 50.032, 
+        "sw_longitude": 10.072, 
+        "fullname": "Egenhausen, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.020
+      }, 
+      "id": 646605
+    }
+  ]
+}

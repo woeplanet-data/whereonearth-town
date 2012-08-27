@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.929, 
+              43.645
+            ], 
+            [
+              0.929, 
+              43.677
+            ], 
+            [
+              0.960, 
+              43.677
+            ], 
+            [
+              0.960, 
+              43.645
+            ], 
+            [
+              0.929, 
+              43.645
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624392, 
+        "name": "St.-Germier", 
+        "adjacent_woeid": [
+          583357, 
+          589990, 
+          619966, 
+          622215, 
+          628610, 
+          628860
+        ], 
+        "ne_latitude": 43.677, 
+        "ne_longitude": 0.960, 
+        "longitude": 0.950, 
+        "parent_woeid": 12670512, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Germier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.667, 
+        "sw_longitude": 0.929, 
+        "fullname": "St.-Germier, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.645
+      }, 
+      "id": 624392
+    }
+  ]
+}

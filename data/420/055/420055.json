@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -79.040, 
+              -1.801
+            ], 
+            [
+              -79.040, 
+              -1.783
+            ], 
+            [
+              -79.022, 
+              -1.783
+            ], 
+            [
+              -79.022, 
+              -1.801
+            ], 
+            [
+              -79.040, 
+              -1.801
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -1.783, 
+        "name": "San Pablo", 
+        "adjacent_woeid": [
+          369814, 
+          374905, 
+          375850, 
+          376254, 
+          420037
+        ], 
+        "woeid": 420055, 
+        "alias_SPA_V": [
+          "S Pablo"
+        ], 
+        "ne_longitude": -79.022, 
+        "longitude": -79.031, 
+        "parent_woeid": 26810459, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -1.792, 
+        "sw_longitude": -79.040, 
+        "fullname": "San Pablo, Bolivar, San Miguel, Ecuador", 
+        "sw_latitude": -1.801
+      }, 
+      "id": 420055
+    }
+  ]
+}

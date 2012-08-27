@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.477, 
+              43.643
+            ], 
+            [
+              1.477, 
+              43.679
+            ], 
+            [
+              1.527, 
+              43.679
+            ], 
+            [
+              1.527, 
+              43.643
+            ], 
+            [
+              1.477, 
+              43.643
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624694, 
+        "name": "St.-Jean", 
+        "adjacent_woeid": [
+          620123, 
+          624123
+        ], 
+        "ne_latitude": 43.679, 
+        "ne_longitude": 1.527, 
+        "longitude": 1.505, 
+        "parent_woeid": 12670637, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Jean"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.665, 
+        "sw_longitude": 1.477, 
+        "fullname": "St.-Jean, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.643
+      }, 
+      "id": 624694
+    }
+  ]
+}

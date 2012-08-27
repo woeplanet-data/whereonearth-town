@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.091, 
+              38.887
+            ], 
+            [
+              -4.091, 
+              39.006
+            ], 
+            [
+              -3.901, 
+              39.006
+            ], 
+            [
+              -3.901, 
+              38.887
+            ], 
+            [
+              -4.091, 
+              38.887
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.006, 
+        "name": "Ciudad Real", 
+        "adjacent_woeid": [
+          751825, 
+          752161, 
+          753519, 
+          756309, 
+          764604, 
+          767166, 
+          770072, 
+          770398, 
+          770690, 
+          778338, 
+          15003518, 
+          20226603, 
+          20226658, 
+          29370559, 
+          55965639, 
+          56074160
+        ], 
+        "woeid": 757692, 
+        "alias_SPA_V": [
+          "Ciudadreal"
+        ], 
+        "ne_longitude": -3.901, 
+        "longitude": -3.930, 
+        "parent_woeid": 12690332, 
+        "placetype": "Town", 
+        "alias_POR_V": [
+          "Cidade Real"
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.984, 
+        "sw_longitude": -4.091, 
+        "fullname": "Ciudad Real, Castille la Mancha, Ciudad Real, Spain", 
+        "sw_latitude": 38.887
+      }, 
+      "id": 757692
+    }
+  ]
+}

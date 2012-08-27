@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.352, 
+              50.744
+            ], 
+            [
+              10.352, 
+              50.767
+            ], 
+            [
+              10.377, 
+              50.767
+            ], 
+            [
+              10.377, 
+              50.744
+            ], 
+            [
+              10.352, 
+              50.744
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707045, 
+        "name": "Winne", 
+        "adjacent_woeid": [
+          649314, 
+          674598, 
+          703222, 
+          707660
+        ], 
+        "ne_latitude": 50.767, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.377, 
+        "longitude": 10.363, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12624917, 
+        "latitude": 50.757, 
+        "sw_longitude": 10.352, 
+        "fullname": "Winne, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.744
+      }, 
+      "id": 707045
+    }
+  ]
+}

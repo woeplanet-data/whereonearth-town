@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.741, 
+              48.098
+            ], 
+            [
+              10.741, 
+              48.126
+            ], 
+            [
+              10.769, 
+              48.126
+            ], 
+            [
+              10.769, 
+              48.098
+            ], 
+            [
+              10.741, 
+              48.098
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693445, 
+        "name": "Schwabaich", 
+        "adjacent_woeid": [
+          649249, 
+          693475, 
+          705850, 
+          29348025
+        ], 
+        "ne_latitude": 48.126, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.769, 
+        "longitude": 10.753, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12634778, 
+        "latitude": 48.114, 
+        "sw_longitude": 10.741, 
+        "fullname": "Schwabaich, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.098
+      }, 
+      "id": 693445
+    }
+  ]
+}

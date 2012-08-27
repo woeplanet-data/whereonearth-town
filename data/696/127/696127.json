@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              48.209
+            ], 
+            [
+              12.123, 
+              48.227
+            ], 
+            [
+              12.144, 
+              48.227
+            ], 
+            [
+              12.144, 
+              48.209
+            ], 
+            [
+              12.123, 
+              48.209
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 696127, 
+        "name": "St. Wolfgang", 
+        "adjacent_woeid": [
+          645225, 
+          656101, 
+          662643, 
+          663719, 
+          670440, 
+          671194, 
+          687567, 
+          693053, 
+          693973, 
+          20152675, 
+          29347931
+        ], 
+        "ne_latitude": 48.227, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.144, 
+        "longitude": 12.136, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12635157, 
+        "latitude": 48.220, 
+        "sw_longitude": 12.123, 
+        "fullname": "St. Wolfgang, Bavaria, Landkreis Erding, Germany", 
+        "alias_GER_V": [
+          "St Wolfgang"
+        ], 
+        "sw_latitude": 48.209
+      }, 
+      "id": 696127
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.674, 
+              50.091
+            ], 
+            [
+              11.674, 
+              50.109
+            ], 
+            [
+              11.702, 
+              50.109
+            ], 
+            [
+              11.702, 
+              50.091
+            ], 
+            [
+              11.674, 
+              50.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 649307, 
+        "name": "Falls", 
+        "adjacent_woeid": [
+          640467, 
+          660891, 
+          673269, 
+          697785, 
+          708905
+        ], 
+        "ne_latitude": 50.109, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.702, 
+        "longitude": 11.688, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12635257, 
+        "latitude": 50.100, 
+        "sw_longitude": 11.674, 
+        "fullname": "Falls, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 50.091
+      }, 
+      "id": 649307
+    }
+  ]
+}

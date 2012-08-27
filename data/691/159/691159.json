@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.705, 
+              48.359
+            ], 
+            [
+              12.705, 
+              48.376
+            ], 
+            [
+              12.725, 
+              48.376
+            ], 
+            [
+              12.725, 
+              48.359
+            ], 
+            [
+              12.705, 
+              48.359
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 691159, 
+        "name": "Sauersberg", 
+        "adjacent_woeid": [
+          650387, 
+          656171, 
+          657054, 
+          668620, 
+          674385
+        ], 
+        "ne_latitude": 48.376, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.725, 
+        "longitude": 12.717, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:48Z", 
+        "parent_woeid": 12623010, 
+        "latitude": 48.367, 
+        "sw_longitude": 12.705, 
+        "fullname": "Sauersberg, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.359
+      }, 
+      "id": 691159
+    }
+  ]
+}

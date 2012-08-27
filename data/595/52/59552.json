@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -83.988, 
+              9.979
+            ], 
+            [
+              -83.988, 
+              9.988
+            ], 
+            [
+              -83.979, 
+              9.988
+            ], 
+            [
+              -83.979, 
+              9.979
+            ], 
+            [
+              -83.988, 
+              9.979
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.988, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          58247, 
+          59453, 
+          58010
+        ], 
+        "woeid": 59552, 
+        "alias_SPA_V": [
+          "S. Rafael"
+        ], 
+        "ne_longitude": -83.979, 
+        "longitude": -83.983, 
+        "parent_woeid": 26809240, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.983, 
+        "sw_longitude": -83.988, 
+        "fullname": "San Rafael, San Jose, V\u00e1squez de Coronado, Costa Rica", 
+        "sw_latitude": 9.979
+      }, 
+      "id": 59552
+    }
+  ]
+}

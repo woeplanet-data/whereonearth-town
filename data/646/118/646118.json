@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.273, 
+              52.319
+            ], 
+            [
+              10.273, 
+              52.358
+            ], 
+            [
+              10.310, 
+              52.358
+            ], 
+            [
+              10.310, 
+              52.319
+            ], 
+            [
+              10.273, 
+              52.319
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 646118, 
+        "name": "Duttenstedt", 
+        "adjacent_woeid": [
+          648843, 
+          674464, 
+          675741, 
+          696466
+        ], 
+        "ne_latitude": 52.358, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.310, 
+        "longitude": 10.295, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12630424, 
+        "latitude": 52.344, 
+        "sw_longitude": 10.273, 
+        "fullname": "Duttenstedt, Lower Saxony, Landkreis Peine, Germany", 
+        "sw_latitude": 52.319
+      }, 
+      "id": 646118
+    }
+  ]
+}

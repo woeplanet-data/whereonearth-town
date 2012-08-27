@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.569, 
+              45.565
+            ], 
+            [
+              5.569, 
+              45.591
+            ], 
+            [
+              5.593, 
+              45.591
+            ], 
+            [
+              5.593, 
+              45.565
+            ], 
+            [
+              5.569, 
+              45.565
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20209455, 
+        "name": "Leyssins", 
+        "adjacent_woeid": [
+          576325, 
+          585858, 
+          586920, 
+          590393, 
+          591004, 
+          593634, 
+          606402
+        ], 
+        "ne_latitude": 45.591, 
+        "ne_longitude": 5.593, 
+        "longitude": 5.585, 
+        "parent_woeid": 12656318, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bas Leyssin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.581, 
+        "sw_longitude": 5.569, 
+        "fullname": "Leyssins, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.565
+      }, 
+      "id": 20209455
+    }
+  ]
+}

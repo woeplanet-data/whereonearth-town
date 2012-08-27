@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.310, 
+              21.808
+            ], 
+            [
+              -103.310, 
+              21.826
+            ], 
+            [
+              -103.290, 
+              21.826
+            ], 
+            [
+              -103.290, 
+              21.808
+            ], 
+            [
+              -103.310, 
+              21.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.826, 
+        "name": "La Palma", 
+        "adjacent_woeid": [
+          125025, 
+          125699, 
+          131920, 
+          145560, 
+          148667, 
+          55920170, 
+          55920172
+        ], 
+        "woeid": 128573, 
+        "alias_SPA_V": [
+          "Palma"
+        ], 
+        "ne_longitude": -103.290, 
+        "longitude": -103.300, 
+        "parent_woeid": 12602078, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.817, 
+        "sw_longitude": -103.310, 
+        "fullname": "La Palma, Zacatecas, Tlaltenango de Sanchez Roman, Mexico", 
+        "sw_latitude": 21.808
+      }, 
+      "id": 128573
+    }
+  ]
+}

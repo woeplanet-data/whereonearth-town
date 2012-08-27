@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.671, 
+              45.949
+            ], 
+            [
+              1.671, 
+              45.959
+            ], 
+            [
+              1.685, 
+              45.959
+            ], 
+            [
+              1.685, 
+              45.949
+            ], 
+            [
+              1.671, 
+              45.949
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20189755, 
+        "name": "Les Bourdeix", 
+        "adjacent_woeid": [
+          598250, 
+          612378, 
+          622850, 
+          20189768
+        ], 
+        "ne_latitude": 45.959, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.685, 
+        "longitude": 1.678, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "parent_woeid": 12663650, 
+        "latitude": 45.954, 
+        "sw_longitude": 1.671, 
+        "fullname": "Les Bourdeix, Limousin, Creuse, France", 
+        "sw_latitude": 45.949
+      }, 
+      "id": 20189755
+    }
+  ]
+}

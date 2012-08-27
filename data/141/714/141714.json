@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -94.526, 
+              17.908
+            ], 
+            [
+              -94.526, 
+              17.926
+            ], 
+            [
+              -94.507, 
+              17.926
+            ], 
+            [
+              -94.507, 
+              17.908
+            ], 
+            [
+              -94.526, 
+              17.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.926, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          115262, 
+          115886, 
+          142156, 
+          142564, 
+          145103, 
+          146856, 
+          26802996
+        ], 
+        "woeid": 141714, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -94.507, 
+        "longitude": -94.517, 
+        "parent_woeid": 12601830, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.917, 
+        "sw_longitude": -94.526, 
+        "fullname": "San Antonio, Veracruz-Llave, Minatitlan, Mexico", 
+        "sw_latitude": 17.908
+      }, 
+      "id": 141714
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.308, 
+              56.421
+            ], 
+            [
+              10.308, 
+              56.441
+            ], 
+            [
+              10.343, 
+              56.441
+            ], 
+            [
+              10.343, 
+              56.421
+            ], 
+            [
+              10.308, 
+              56.421
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555261, 
+        "name": "Liltved", 
+        "adjacent_woeid": [
+          553152, 
+          556208, 
+          558604, 
+          20098727
+        ], 
+        "ne_latitude": 56.441, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.343, 
+        "longitude": 10.326, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:55Z", 
+        "parent_woeid": 28583810, 
+        "latitude": 56.431, 
+        "sw_longitude": 10.308, 
+        "fullname": "Liltved, Midtjylland, Norddjurs, Denmark", 
+        "sw_latitude": 56.421
+      }, 
+      "id": 555261
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.845, 
+              45.505
+            ], 
+            [
+              4.845, 
+              45.535
+            ], 
+            [
+              4.875, 
+              45.535
+            ], 
+            [
+              4.875, 
+              45.505
+            ], 
+            [
+              4.845, 
+              45.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627443, 
+        "name": "Ste.-Colombe", 
+        "adjacent_woeid": [
+          586777, 
+          592963, 
+          623673, 
+          626783, 
+          631201
+        ], 
+        "ne_latitude": 45.535, 
+        "ne_longitude": 4.875, 
+        "longitude": 4.867, 
+        "parent_woeid": 22755764, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Colombe"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.525, 
+        "sw_longitude": 4.845, 
+        "fullname": "Ste.-Colombe, Rhone-Alpes, Rhone, France", 
+        "sw_latitude": 45.505
+      }, 
+      "id": 627443
+    }
+  ]
+}

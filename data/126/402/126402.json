@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.461, 
+              30.908
+            ], 
+            [
+              -111.461, 
+              30.926
+            ], 
+            [
+              -111.439, 
+              30.926
+            ], 
+            [
+              -111.439, 
+              30.908
+            ], 
+            [
+              -111.461, 
+              30.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.926, 
+        "name": "La Aurora", 
+        "adjacent_woeid": [
+          129104, 
+          143673, 
+          147329, 
+          150168
+        ], 
+        "woeid": 126402, 
+        "alias_SPA_V": [
+          "Aurora"
+        ], 
+        "ne_longitude": -111.439, 
+        "longitude": -111.450, 
+        "parent_woeid": 12601610, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.917, 
+        "sw_longitude": -111.461, 
+        "fullname": "La Aurora, Sonora, Tubutama, Mexico", 
+        "sw_latitude": 30.908
+      }, 
+      "id": 126402
+    }
+  ]
+}

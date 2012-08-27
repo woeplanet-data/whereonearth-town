@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.258, 
+              23.937
+            ], 
+            [
+              -110.258, 
+              23.951
+            ], 
+            [
+              -110.243, 
+              23.951
+            ], 
+            [
+              -110.243, 
+              23.937
+            ], 
+            [
+              -110.258, 
+              23.937
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.951, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          119560, 
+          119647, 
+          122345, 
+          124416, 
+          129557, 
+          130246, 
+          132294, 
+          142021, 
+          146681
+        ], 
+        "woeid": 145022, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -110.243, 
+        "longitude": -110.250, 
+        "parent_woeid": 12599696, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.944, 
+        "sw_longitude": -110.258, 
+        "fullname": "San Pedro, Baja California Sur, La Paz, Mexico", 
+        "sw_latitude": 23.937
+      }, 
+      "id": 145022
+    }
+  ]
+}

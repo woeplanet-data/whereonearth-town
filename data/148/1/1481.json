@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.927, 
+              45.525
+            ], 
+            [
+              -73.927, 
+              45.559
+            ], 
+            [
+              -73.881, 
+              45.559
+            ], 
+            [
+              -73.881, 
+              45.525
+            ], 
+            [
+              -73.927, 
+              45.525
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1481, 
+        "name": "Deux-Montagnes", 
+        "adjacent_woeid": [
+          1218, 
+          3523, 
+          4386, 
+          4389, 
+          23396686, 
+          23396690, 
+          29374078
+        ], 
+        "ne_latitude": 45.559, 
+        "ne_longitude": -73.881, 
+        "longitude": -73.893, 
+        "parent_woeid": 29375061, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St.-Eustache-sur-le-Lac"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.541, 
+        "sw_longitude": -73.927, 
+        "fullname": "Deux-Montagnes, Quebec, Deux-Montagnes, Canada", 
+        "sw_latitude": 45.525
+      }, 
+      "id": 1481
+    }
+  ]
+}

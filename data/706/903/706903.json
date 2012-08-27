@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.096, 
+              50.247
+            ], 
+            [
+              10.096, 
+              50.281
+            ], 
+            [
+              10.133, 
+              50.281
+            ], 
+            [
+              10.133, 
+              50.247
+            ], 
+            [
+              10.096, 
+              50.247
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706903, 
+        "name": "Windheim", 
+        "adjacent_woeid": [
+          642580, 
+          654913, 
+          656132, 
+          661449, 
+          679210, 
+          687473, 
+          689859
+        ], 
+        "ne_latitude": 50.281, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.133, 
+        "longitude": 10.111, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12635501, 
+        "latitude": 50.268, 
+        "sw_longitude": 10.096, 
+        "fullname": "Windheim, Bavaria, Landkreis Bad Kissingen, Germany", 
+        "sw_latitude": 50.247
+      }, 
+      "id": 706903
+    }
+  ]
+}

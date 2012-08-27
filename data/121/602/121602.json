@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.693, 
+              25.058
+            ], 
+            [
+              -99.693, 
+              25.076
+            ], 
+            [
+              -99.673, 
+              25.076
+            ], 
+            [
+              -99.673, 
+              25.058
+            ], 
+            [
+              -99.693, 
+              25.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.076, 
+        "name": "El Porvenir", 
+        "adjacent_woeid": [
+          119390, 
+          125157, 
+          127298, 
+          128351, 
+          131311, 
+          135743
+        ], 
+        "woeid": 121602, 
+        "alias_SPA_V": [
+          "Porvenir"
+        ], 
+        "ne_longitude": -99.673, 
+        "longitude": -99.683, 
+        "parent_woeid": 12600644, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.067, 
+        "sw_longitude": -99.693, 
+        "fullname": "El Porvenir, Nuevo Leon, Montemorelos, Mexico", 
+        "sw_latitude": 25.058
+      }, 
+      "id": 121602
+    }
+  ]
+}

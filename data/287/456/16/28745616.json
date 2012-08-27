@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.296, 
+              39.872
+            ], 
+            [
+              -77.296, 
+              39.973
+            ], 
+            [
+              -77.153, 
+              39.973
+            ], 
+            [
+              -77.153, 
+              39.872
+            ], 
+            [
+              -77.296, 
+              39.872
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745616, 
+        "name": "Butler", 
+        "adjacent_woeid": [
+          2361342, 
+          2425744, 
+          2503481, 
+          28745309, 
+          28745554
+        ], 
+        "ne_latitude": 39.973, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Butler Township"
+        ], 
+        "ne_longitude": -77.153, 
+        "longitude": -77.234, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589728, 
+        "latitude": 39.924, 
+        "sw_longitude": -77.296, 
+        "fullname": "Butler, Pennsylvania, Adams, United States", 
+        "sw_latitude": 39.872
+      }, 
+      "id": 28745616
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.393, 
+              45.848
+            ], 
+            [
+              -73.393, 
+              45.967
+            ], 
+            [
+              -73.258, 
+              45.967
+            ], 
+            [
+              -73.258, 
+              45.848
+            ], 
+            [
+              -73.393, 
+              45.848
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396676, 
+        "name": "St.-Antoine-de-Lavaltrie", 
+        "adjacent_woeid": [
+          343, 
+          838, 
+          23394616, 
+          23396567, 
+          23396640, 
+          23396680
+        ], 
+        "ne_latitude": 45.967, 
+        "ne_longitude": -73.258, 
+        "longitude": -73.317, 
+        "parent_woeid": 29375202, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Antoine-de-Lavaltrie"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.908, 
+        "sw_longitude": -73.393, 
+        "fullname": "St.-Antoine-de-Lavaltrie, Quebec, d'Autray, Canada", 
+        "sw_latitude": 45.848
+      }, 
+      "id": 23396676
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.661, 
+              47.583
+            ], 
+            [
+              11.661, 
+              47.631
+            ], 
+            [
+              11.708, 
+              47.631
+            ], 
+            [
+              11.708, 
+              47.583
+            ], 
+            [
+              11.661, 
+              47.583
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20153006, 
+        "name": "Bayerwald", 
+        "adjacent_woeid": [
+          652739, 
+          661397, 
+          20153009, 
+          20153011, 
+          29346230
+        ], 
+        "ne_latitude": 47.631, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.708, 
+        "longitude": 11.682, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:29Z", 
+        "parent_woeid": 12635188, 
+        "latitude": 47.616, 
+        "sw_longitude": 11.661, 
+        "fullname": "Bayerwald, Bavaria, Landkreis Miesbach, Germany", 
+        "sw_latitude": 47.583
+      }, 
+      "id": 20153006
+    }
+  ]
+}

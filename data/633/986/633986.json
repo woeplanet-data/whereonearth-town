@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.752, 
+              49.271
+            ], 
+            [
+              11.752, 
+              49.322
+            ], 
+            [
+              11.792, 
+              49.322
+            ], 
+            [
+              11.792, 
+              49.271
+            ], 
+            [
+              11.752, 
+              49.271
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 633986, 
+        "name": "Allersburg", 
+        "adjacent_woeid": [
+          633808, 
+          638085, 
+          638339, 
+          673607, 
+          686872
+        ], 
+        "ne_latitude": 49.322, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.792, 
+        "longitude": 11.780, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:24Z", 
+        "parent_woeid": 12634233, 
+        "latitude": 49.308, 
+        "sw_longitude": 11.752, 
+        "fullname": "Allersburg, Bavaria, Amberg-Sulzbach, Germany", 
+        "sw_latitude": 49.271
+      }, 
+      "id": 633986
+    }
+  ]
+}

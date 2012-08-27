@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.299, 
+              48.701
+            ], 
+            [
+              15.299, 
+              48.719
+            ], 
+            [
+              15.327, 
+              48.719
+            ], 
+            [
+              15.327, 
+              48.701
+            ], 
+            [
+              15.299, 
+              48.701
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 543501, 
+        "name": "Reinsbach", 
+        "adjacent_woeid": [
+          541696, 
+          541862, 
+          543943, 
+          544025, 
+          544566
+        ], 
+        "ne_latitude": 48.719, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.327, 
+        "longitude": 15.313, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:41Z", 
+        "parent_woeid": 12673700, 
+        "latitude": 48.710, 
+        "sw_longitude": 15.299, 
+        "fullname": "Reinsbach, Lower Austria, Zwettl, Austria", 
+        "sw_latitude": 48.701
+      }, 
+      "id": 543501
+    }
+  ]
+}

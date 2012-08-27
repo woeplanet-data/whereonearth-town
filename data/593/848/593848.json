@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.579, 
+              47.014
+            ], 
+            [
+              3.579, 
+              47.023
+            ], 
+            [
+              3.593, 
+              47.023
+            ], 
+            [
+              3.593, 
+              47.014
+            ], 
+            [
+              3.579, 
+              47.014
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593848, 
+        "name": "Grond", 
+        "adjacent_woeid": [
+          579849, 
+          620307, 
+          628724, 
+          20214030
+        ], 
+        "ne_latitude": 47.023, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.593, 
+        "longitude": 3.586, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "parent_woeid": 12639153, 
+        "latitude": 47.019, 
+        "sw_longitude": 3.579, 
+        "fullname": "Grond, Burgundy, Nievre, France", 
+        "sw_latitude": 47.014
+      }, 
+      "id": 593848
+    }
+  ]
+}

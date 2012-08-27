@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.639, 
+              49.148
+            ], 
+            [
+              2.639, 
+              49.202
+            ], 
+            [
+              2.684, 
+              49.202
+            ], 
+            [
+              2.684, 
+              49.148
+            ], 
+            [
+              2.639, 
+              49.148
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580804, 
+        "name": "Borest", 
+        "adjacent_woeid": [
+          578105, 
+          580761, 
+          591334, 
+          612128, 
+          612543
+        ], 
+        "ne_latitude": 49.202, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.684, 
+        "longitude": 2.671, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "parent_woeid": 22755696, 
+        "latitude": 49.181, 
+        "sw_longitude": 2.639, 
+        "fullname": "Borest, Picardie, Oise, France", 
+        "sw_latitude": 49.148
+      }, 
+      "id": 580804
+    }
+  ]
+}

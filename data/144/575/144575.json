@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -93.210, 
+              18.224
+            ], 
+            [
+              -93.210, 
+              18.242
+            ], 
+            [
+              -93.190, 
+              18.242
+            ], 
+            [
+              -93.190, 
+              18.224
+            ], 
+            [
+              -93.210, 
+              18.224
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.242, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          111818, 
+          112754, 
+          118026, 
+          122367, 
+          142556, 
+          148496, 
+          55894065
+        ], 
+        "woeid": 144575, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -93.190, 
+        "longitude": -93.200, 
+        "parent_woeid": 12601619, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.233, 
+        "sw_longitude": -93.210, 
+        "fullname": "San Miguel, Tabasco, Comalcalco, Mexico", 
+        "sw_latitude": 18.224
+      }, 
+      "id": 144575
+    }
+  ]
+}

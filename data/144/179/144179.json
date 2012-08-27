@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.193, 
+              19.258
+            ], 
+            [
+              -100.193, 
+              19.276
+            ], 
+            [
+              -100.174, 
+              19.276
+            ], 
+            [
+              -100.174, 
+              19.258
+            ], 
+            [
+              -100.193, 
+              19.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.276, 
+        "name": "San Lucas", 
+        "adjacent_woeid": [
+          117058, 
+          125552, 
+          142549, 
+          143142, 
+          143775, 
+          150492
+        ], 
+        "woeid": 144179, 
+        "alias_SPA_V": [
+          "S Lucas"
+        ], 
+        "ne_longitude": -100.174, 
+        "longitude": -100.183, 
+        "parent_woeid": 12600350, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.267, 
+        "sw_longitude": -100.193, 
+        "fullname": "San Lucas, Mexico, Donato Guerra, Mexico", 
+        "sw_latitude": 19.258
+      }, 
+      "id": 144179
+    }
+  ]
+}

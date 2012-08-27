@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.138, 
+              51.168
+            ], 
+            [
+              16.138, 
+              51.235
+            ], 
+            [
+              16.195, 
+              51.235
+            ], 
+            [
+              16.195, 
+              51.168
+            ], 
+            [
+              16.138, 
+              51.168
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "POL", 
+        "woeid": 504173, 
+        "name": "Legnica", 
+        "adjacent_woeid": [
+          502449, 
+          503194, 
+          504174, 
+          506968, 
+          507592, 
+          509540, 
+          511792, 
+          517117, 
+          523513, 
+          24931233, 
+          24931364, 
+          24932815, 
+          24933297, 
+          24933764, 
+          24934551, 
+          24935904, 
+          24936817, 
+          24939323
+        ], 
+        "ne_latitude": 51.235, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.195, 
+        "longitude": 16.161, 
+        "placetype": "Town", 
+        "iso": "PL", 
+        "date_indexed": "2010-12-02T12:11:34Z", 
+        "parent_woeid": 12591144, 
+        "latitude": 51.212, 
+        "sw_longitude": 16.138, 
+        "fullname": "Legnica, Lower Silesia, Legnica, Poland", 
+        "alias_GER_Q": [
+          "Liegnitz"
+        ], 
+        "sw_latitude": 51.168
+      }, 
+      "id": 504173
+    }
+  ]
+}

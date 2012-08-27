@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.293, 
+              19.908
+            ], 
+            [
+              -104.293, 
+              19.926
+            ], 
+            [
+              -104.274, 
+              19.926
+            ], 
+            [
+              -104.274, 
+              19.908
+            ], 
+            [
+              -104.293, 
+              19.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.926, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          111386, 
+          118844, 
+          127994, 
+          129320, 
+          130815, 
+          150378
+        ], 
+        "woeid": 146833, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -104.274, 
+        "longitude": -104.283, 
+        "parent_woeid": 12600304, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.917, 
+        "sw_longitude": -104.293, 
+        "fullname": "Santa Rosa, Jalisco, Union de Tula, Mexico", 
+        "sw_latitude": 19.908
+      }, 
+      "id": 146833
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.568, 
+              48.351
+            ], 
+            [
+              11.568, 
+              48.375
+            ], 
+            [
+              11.589, 
+              48.375
+            ], 
+            [
+              11.589, 
+              48.351
+            ], 
+            [
+              11.568, 
+              48.351
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705321, 
+        "name": "Weng", 
+        "adjacent_woeid": [
+          635358, 
+          654895, 
+          663984, 
+          666827, 
+          700806
+        ], 
+        "ne_latitude": 48.375, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.589, 
+        "longitude": 11.580, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12635167, 
+        "latitude": 48.360, 
+        "sw_longitude": 11.568, 
+        "fullname": "Weng, Bavaria, Landkreis Freising, Germany", 
+        "sw_latitude": 48.351
+      }, 
+      "id": 705321
+    }
+  ]
+}

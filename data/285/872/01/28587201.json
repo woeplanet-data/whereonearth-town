@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              150.090, 
+              -22.914
+            ], 
+            [
+              150.090, 
+              -22.316
+            ], 
+            [
+              150.835, 
+              -22.316
+            ], 
+            [
+              150.835, 
+              -22.914
+            ], 
+            [
+              150.090, 
+              -22.914
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28587201, 
+        "name": "Shoalwater", 
+        "adjacent_woeid": [
+          1100881, 
+          1103241, 
+          1105667, 
+          28587378, 
+          28587913, 
+          28588416
+        ], 
+        "ne_latitude": -22.316, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Shoalwater Bay"
+        ], 
+        "ne_longitude": 150.835, 
+        "longitude": 150.091, 
+        "placetype": "Town", 
+        "iso": "AU", 
+        "date_indexed": "2010-12-02T17:44:46Z", 
+        "parent_woeid": 56072972, 
+        "latitude": -22.628, 
+        "sw_longitude": 150.090, 
+        "fullname": "Shoalwater, Queensland, Livingstone, Australia", 
+        "sw_latitude": -22.914
+      }, 
+      "id": 28587201
+    }
+  ]
+}

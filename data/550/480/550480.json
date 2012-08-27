@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.614, 
+              46.780
+            ], 
+            [
+              12.614, 
+              46.798
+            ], 
+            [
+              12.641, 
+              46.798
+            ], 
+            [
+              12.641, 
+              46.780
+            ], 
+            [
+              12.614, 
+              46.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 550480, 
+        "name": "Bichl", 
+        "adjacent_woeid": [
+          550615, 
+          550624, 
+          550924, 
+          550979, 
+          551325
+        ], 
+        "ne_latitude": 46.798, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.641, 
+        "longitude": 12.627, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675359, 
+        "latitude": 46.789, 
+        "sw_longitude": 12.614, 
+        "fullname": "Bichl, Tyrol, Lienz, Austria", 
+        "sw_latitude": 46.780
+      }, 
+      "id": 550480
+    }
+  ]
+}

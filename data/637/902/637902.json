@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.151, 
+              48.361
+            ], 
+            [
+              10.151, 
+              48.373
+            ], 
+            [
+              10.165, 
+              48.373
+            ], 
+            [
+              10.165, 
+              48.361
+            ], 
+            [
+              10.151, 
+              48.361
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637902, 
+        "name": "Berg", 
+        "adjacent_woeid": [
+          638608, 
+          664357, 
+          687112, 
+          689853
+        ], 
+        "ne_latitude": 48.373, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.165, 
+        "longitude": 10.158, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12634863, 
+        "latitude": 48.366, 
+        "sw_longitude": 10.151, 
+        "fullname": "Berg, Bavaria, Landkreis Neu-Ulm, Germany", 
+        "sw_latitude": 48.361
+      }, 
+      "id": 637902
+    }
+  ]
+}

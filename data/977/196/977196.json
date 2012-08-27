@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.854, 
+              50.344
+            ], 
+            [
+              5.854, 
+              50.353
+            ], 
+            [
+              5.868, 
+              50.353
+            ], 
+            [
+              5.868, 
+              50.344
+            ], 
+            [
+              5.854, 
+              50.344
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 977196, 
+        "name": "St.-Jacques", 
+        "adjacent_woeid": [
+          966920, 
+          967177, 
+          969744, 
+          975960
+        ], 
+        "ne_latitude": 50.353, 
+        "ne_longitude": 5.868, 
+        "longitude": 5.861, 
+        "parent_woeid": 12602361, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Jacques"
+        ], 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.348, 
+        "sw_longitude": 5.854, 
+        "fullname": "St.-Jacques, Liege, Verviers, Belgium", 
+        "sw_latitude": 50.344
+      }, 
+      "id": 977196
+    }
+  ]
+}

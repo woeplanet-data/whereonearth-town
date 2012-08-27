@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.447, 
+              47.505
+            ], 
+            [
+              10.447, 
+              47.523
+            ], 
+            [
+              10.474, 
+              47.523
+            ], 
+            [
+              10.474, 
+              47.505
+            ], 
+            [
+              10.447, 
+              47.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 551184, 
+        "name": "Schattwald", 
+        "adjacent_woeid": [
+          550774, 
+          551275, 
+          551437, 
+          20095150, 
+          28996089
+        ], 
+        "ne_latitude": 47.523, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.474, 
+        "longitude": 10.461, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:20Z", 
+        "parent_woeid": 12675512, 
+        "latitude": 47.514, 
+        "sw_longitude": 10.447, 
+        "fullname": "Schattwald, Tyrol, Reutte, Austria", 
+        "sw_latitude": 47.505
+      }, 
+      "id": 551184
+    }
+  ]
+}

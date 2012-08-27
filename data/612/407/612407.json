@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.046, 
+              44.846
+            ], 
+            [
+              0.046, 
+              44.878
+            ], 
+            [
+              0.076, 
+              44.878
+            ], 
+            [
+              0.076, 
+              44.846
+            ], 
+            [
+              0.046, 
+              44.846
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612407, 
+        "name": "Montcaret", 
+        "adjacent_woeid": [
+          580707, 
+          601074, 
+          612985, 
+          625990, 
+          626957, 
+          20195818, 
+          29331627
+        ], 
+        "ne_latitude": 44.878, 
+        "ne_longitude": 0.076, 
+        "longitude": 0.069, 
+        "parent_woeid": 12649290, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Moncaret"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.859, 
+        "sw_longitude": 0.046, 
+        "fullname": "Montcaret, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.846
+      }, 
+      "id": 612407
+    }
+  ]
+}

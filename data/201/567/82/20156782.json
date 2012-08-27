@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.271, 
+              48.302
+            ], 
+            [
+              11.271, 
+              48.316
+            ], 
+            [
+              11.295, 
+              48.316
+            ], 
+            [
+              11.295, 
+              48.302
+            ], 
+            [
+              11.271, 
+              48.302
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20156782, 
+        "name": "Altstetten", 
+        "adjacent_woeid": [
+          639875, 
+          664844, 
+          703616, 
+          705180
+        ], 
+        "ne_latitude": 48.316, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.295, 
+        "longitude": 11.283, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:04Z", 
+        "parent_woeid": 12635071, 
+        "latitude": 48.305, 
+        "sw_longitude": 11.271, 
+        "fullname": "Altstetten, Bavaria, Landkreis Dachau, Germany", 
+        "sw_latitude": 48.302
+      }, 
+      "id": 20156782
+    }
+  ]
+}

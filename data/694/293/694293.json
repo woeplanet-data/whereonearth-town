@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.499, 
+              48.757
+            ], 
+            [
+              12.499, 
+              48.775
+            ], 
+            [
+              12.526, 
+              48.775
+            ], 
+            [
+              12.526, 
+              48.757
+            ], 
+            [
+              12.499, 
+              48.757
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 694293, 
+        "name": "Seibersdorf", 
+        "adjacent_woeid": [
+          634655, 
+          686174, 
+          20155220, 
+          20155391
+        ], 
+        "ne_latitude": 48.775, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.526, 
+        "longitude": 12.512, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12623027, 
+        "latitude": 48.766, 
+        "sw_longitude": 12.499, 
+        "fullname": "Seibersdorf, Bavaria, Straubing-Bogen, Germany", 
+        "sw_latitude": 48.757
+      }, 
+      "id": 694293
+    }
+  ]
+}

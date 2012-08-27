@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.827, 
+              24.291
+            ], 
+            [
+              -105.827, 
+              24.309
+            ], 
+            [
+              -105.807, 
+              24.309
+            ], 
+            [
+              -105.807, 
+              24.291
+            ], 
+            [
+              -105.827, 
+              24.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.309, 
+        "name": "Santa Rita", 
+        "adjacent_woeid": [
+          123964, 
+          124096, 
+          129428, 
+          130717, 
+          131498, 
+          145489
+        ], 
+        "woeid": 146676, 
+        "alias_SPA_V": [
+          "Sta Rita"
+        ], 
+        "ne_longitude": -105.807, 
+        "longitude": -105.817, 
+        "parent_woeid": 12599976, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.300, 
+        "sw_longitude": -105.827, 
+        "fullname": "Santa Rita, Durango, San Dimas, Mexico", 
+        "sw_latitude": 24.291
+      }, 
+      "id": 146676
+    }
+  ]
+}

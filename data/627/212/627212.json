@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.013, 
+              48.297
+            ], 
+            [
+              0.013, 
+              48.347
+            ], 
+            [
+              0.063, 
+              48.347
+            ], 
+            [
+              0.063, 
+              48.297
+            ], 
+            [
+              0.013, 
+              48.297
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627212, 
+        "name": "St.-Victeur", 
+        "adjacent_woeid": [
+          576926, 
+          592279, 
+          592762, 
+          626140
+        ], 
+        "ne_latitude": 48.347, 
+        "ne_longitude": 0.063, 
+        "longitude": 0.038, 
+        "parent_woeid": 12671320, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Victeur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.322, 
+        "sw_longitude": 0.013, 
+        "fullname": "St.-Victeur, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.297
+      }, 
+      "id": 627212
+    }
+  ]
+}

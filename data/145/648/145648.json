@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.560, 
+              18.641
+            ], 
+            [
+              -97.560, 
+              18.659
+            ], 
+            [
+              -97.540, 
+              18.659
+            ], 
+            [
+              -97.540, 
+              18.641
+            ], 
+            [
+              -97.560, 
+              18.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.659, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          112818, 
+          143630, 
+          143658, 
+          144270, 
+          144342, 
+          147093, 
+          148852
+        ], 
+        "woeid": 145648, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -97.540, 
+        "longitude": -97.550, 
+        "parent_woeid": 12601404, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.650, 
+        "sw_longitude": -97.560, 
+        "fullname": "Santa Ana, Puebla, Tlacotepec de Benito Juarez, Mexico", 
+        "sw_latitude": 18.641
+      }, 
+      "id": 145648
+    }
+  ]
+}

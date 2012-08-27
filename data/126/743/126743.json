@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.993, 
+              23.391
+            ], 
+            [
+              -99.993, 
+              23.409
+            ], 
+            [
+              -99.973, 
+              23.409
+            ], 
+            [
+              -99.973, 
+              23.391
+            ], 
+            [
+              -99.993, 
+              23.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.409, 
+        "name": "La Cardona", 
+        "adjacent_woeid": [
+          111793, 
+          119391, 
+          120726, 
+          121956, 
+          130049, 
+          141825
+        ], 
+        "woeid": 126743, 
+        "alias_SPA_V": [
+          "Cardona"
+        ], 
+        "ne_longitude": -99.973, 
+        "longitude": -99.983, 
+        "parent_woeid": 12600642, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.400, 
+        "sw_longitude": -99.993, 
+        "fullname": "La Cardona, Nuevo Leon, Mier y Noriega, Mexico", 
+        "sw_latitude": 23.391
+      }, 
+      "id": 126743
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.043, 
+              23.841
+            ], 
+            [
+              -103.043, 
+              23.859
+            ], 
+            [
+              -103.023, 
+              23.859
+            ], 
+            [
+              -103.023, 
+              23.841
+            ], 
+            [
+              -103.043, 
+              23.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.859, 
+        "name": "Las Esperanzas", 
+        "adjacent_woeid": [
+          120307, 
+          131414, 
+          132338, 
+          140805
+        ], 
+        "woeid": 130343, 
+        "alias_SPA_V": [
+          "Esperanza"
+        ], 
+        "ne_longitude": -103.023, 
+        "longitude": -103.033, 
+        "parent_woeid": 12602070, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.850, 
+        "sw_longitude": -103.043, 
+        "fullname": "Las Esperanzas, Zacatecas, Rio Grande, Mexico", 
+        "sw_latitude": 23.841
+      }, 
+      "id": 130343
+    }
+  ]
+}

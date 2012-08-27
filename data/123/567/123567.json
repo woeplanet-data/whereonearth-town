@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -90.676, 
+              17.808
+            ], 
+            [
+              -90.676, 
+              17.826
+            ], 
+            [
+              -90.657, 
+              17.826
+            ], 
+            [
+              -90.657, 
+              17.808
+            ], 
+            [
+              -90.676, 
+              17.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123567, 
+        "name": "Estrella del Sur", 
+        "adjacent_woeid": [
+          112242, 
+          112454, 
+          122752, 
+          125976, 
+          134804, 
+          144578
+        ], 
+        "ne_latitude": 17.826, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -90.657, 
+        "longitude": -90.667, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "parent_woeid": 24550698, 
+        "latitude": 17.817, 
+        "sw_longitude": -90.676, 
+        "fullname": "Estrella del Sur, Campeche, Candelaria, Mexico", 
+        "sw_latitude": 17.808
+      }, 
+      "id": 123567
+    }
+  ]
+}

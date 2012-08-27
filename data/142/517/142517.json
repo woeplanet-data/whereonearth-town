@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.177, 
+              22.008
+            ], 
+            [
+              -101.177, 
+              22.026
+            ], 
+            [
+              -101.157, 
+              22.026
+            ], 
+            [
+              -101.157, 
+              22.008
+            ], 
+            [
+              -101.177, 
+              22.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.026, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          113455, 
+          123276, 
+          135200, 
+          141762, 
+          147017, 
+          147391, 
+          148920, 
+          149278
+        ], 
+        "woeid": 142517, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -101.157, 
+        "longitude": -101.167, 
+        "parent_woeid": 12601518, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.017, 
+        "sw_longitude": -101.177, 
+        "fullname": "San Francisco, San Luis Potosi, Villa de Arriaga, Mexico", 
+        "sw_latitude": 22.008
+      }, 
+      "id": 142517
+    }
+  ]
+}

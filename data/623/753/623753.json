@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.602, 
+              47.326
+            ], 
+            [
+              3.602, 
+              47.363
+            ], 
+            [
+              3.635, 
+              47.363
+            ], 
+            [
+              3.635, 
+              47.326
+            ], 
+            [
+              3.602, 
+              47.326
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623753, 
+        "name": "St.-Didier", 
+        "adjacent_woeid": [
+          588799, 
+          597873, 
+          609128, 
+          15002947
+        ], 
+        "ne_latitude": 47.363, 
+        "ne_longitude": 3.635, 
+        "longitude": 3.620, 
+        "parent_woeid": 12652401, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Didier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.350, 
+        "sw_longitude": 3.602, 
+        "fullname": "St.-Didier, Burgundy, Nievre, France", 
+        "sw_latitude": 47.326
+      }, 
+      "id": 623753
+    }
+  ]
+}

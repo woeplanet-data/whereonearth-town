@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.627, 
+              49.742
+            ], 
+            [
+              10.627, 
+              49.751
+            ], 
+            [
+              10.641, 
+              49.751
+            ], 
+            [
+              10.641, 
+              49.742
+            ], 
+            [
+              10.627, 
+              49.742
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635784, 
+        "name": "Attelsdorf", 
+        "adjacent_woeid": [
+          647739, 
+          652808, 
+          685750, 
+          699350
+        ], 
+        "ne_latitude": 49.751, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.641, 
+        "longitude": 10.634, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12635256, 
+        "latitude": 49.747, 
+        "sw_longitude": 10.627, 
+        "fullname": "Attelsdorf, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.742
+      }, 
+      "id": 635784
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.793, 
+              50.404
+            ], 
+            [
+              10.793, 
+              50.430
+            ], 
+            [
+              10.828, 
+              50.430
+            ], 
+            [
+              10.828, 
+              50.404
+            ], 
+            [
+              10.793, 
+              50.404
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 667463, 
+        "name": "Kloster Veilsdorf", 
+        "adjacent_woeid": [
+          642455, 
+          653496, 
+          659606, 
+          691269
+        ], 
+        "ne_latitude": 50.430, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.828, 
+        "longitude": 10.811, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12625130, 
+        "latitude": 50.417, 
+        "sw_longitude": 10.793, 
+        "fullname": "Kloster Veilsdorf, Thuringia, Landkreis Hildburghausen, Germany", 
+        "sw_latitude": 50.404
+      }, 
+      "id": 667463
+    }
+  ]
+}

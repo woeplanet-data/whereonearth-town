@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.336, 
+              51.531
+            ], 
+            [
+              10.336, 
+              51.586
+            ], 
+            [
+              10.372, 
+              51.586
+            ], 
+            [
+              10.372, 
+              51.531
+            ], 
+            [
+              10.336, 
+              51.531
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641350, 
+        "name": "Brochthausen", 
+        "adjacent_woeid": [
+          651087, 
+          659926, 
+          664330, 
+          670177, 
+          709375
+        ], 
+        "ne_latitude": 51.586, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.372, 
+        "longitude": 10.360, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12630327, 
+        "latitude": 51.550, 
+        "sw_longitude": 10.336, 
+        "fullname": "Brochthausen, Lower Saxony, Gottingen, Germany", 
+        "sw_latitude": 51.531
+      }, 
+      "id": 641350
+    }
+  ]
+}

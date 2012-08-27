@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.145, 
+              43.284
+            ], 
+            [
+              1.145, 
+              43.325
+            ], 
+            [
+              1.186, 
+              43.325
+            ], 
+            [
+              1.186, 
+              43.284
+            ], 
+            [
+              1.145, 
+              43.284
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600812, 
+        "name": "Lafitte-Vigordane", 
+        "adjacent_woeid": [
+          593650, 
+          616431, 
+          620794, 
+          623820, 
+          20192774
+        ], 
+        "ne_latitude": 43.325, 
+        "ne_longitude": 1.186, 
+        "longitude": 1.167, 
+        "parent_woeid": 12664255, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Laffitte-Vigordanne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.303, 
+        "sw_longitude": 1.145, 
+        "fullname": "Lafitte-Vigordane, Lafitte, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.284
+      }, 
+      "id": 600812
+    }
+  ]
+}

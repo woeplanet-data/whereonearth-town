@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.338, 
+              25.746
+            ], 
+            [
+              -98.338, 
+              25.764
+            ], 
+            [
+              -98.318, 
+              25.764
+            ], 
+            [
+              -98.318, 
+              25.746
+            ], 
+            [
+              -98.338, 
+              25.746
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.764, 
+        "name": "El Tajito", 
+        "adjacent_woeid": [
+          119356, 
+          120882, 
+          121598, 
+          125821, 
+          129119, 
+          131023, 
+          145918, 
+          150996
+        ], 
+        "woeid": 122561, 
+        "alias_SPA_V": [
+          "Tajito"
+        ], 
+        "ne_longitude": -98.318, 
+        "longitude": -98.328, 
+        "parent_woeid": 12601663, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.755, 
+        "sw_longitude": -98.338, 
+        "fullname": "El Tajito, Tamaulipas, Reynosa, Mexico", 
+        "sw_latitude": 25.746
+      }, 
+      "id": 122561
+    }
+  ]
+}

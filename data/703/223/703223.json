@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.276, 
+              50.712
+            ], 
+            [
+              7.276, 
+              50.721
+            ], 
+            [
+              7.291, 
+              50.721
+            ], 
+            [
+              7.291, 
+              50.712
+            ], 
+            [
+              7.276, 
+              50.712
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 703223, 
+        "name": "Wahlfeld", 
+        "adjacent_woeid": [
+          647301, 
+          682005, 
+          701922, 
+          20169815, 
+          20169816, 
+          20169822
+        ], 
+        "ne_latitude": 50.721, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.291, 
+        "longitude": 7.283, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:11Z", 
+        "parent_woeid": 12624368, 
+        "latitude": 50.717, 
+        "sw_longitude": 7.276, 
+        "fullname": "Wahlfeld, North Rhine-Westphalia, Rhein-Sieg-Kreis, Germany", 
+        "sw_latitude": 50.712
+      }, 
+      "id": 703223
+    }
+  ]
+}

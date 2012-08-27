@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.502, 
+              49.029
+            ], 
+            [
+              0.502, 
+              49.061
+            ], 
+            [
+              0.549, 
+              49.061
+            ], 
+            [
+              0.549, 
+              49.029
+            ], 
+            [
+              0.502, 
+              49.029
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 593499, 
+        "name": "Grand-Camp", 
+        "adjacent_woeid": [
+          582977, 
+          582995, 
+          590876, 
+          623100, 
+          626643, 
+          627224
+        ], 
+        "ne_latitude": 49.061, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.549, 
+        "longitude": 0.527, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12644728, 
+        "latitude": 49.046, 
+        "sw_longitude": 0.502, 
+        "fullname": "Grand-Camp, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.029
+      }, 
+      "id": 593499
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.789, 
+              48.142
+            ], 
+            [
+              5.789, 
+              48.161
+            ], 
+            [
+              5.817, 
+              48.161
+            ], 
+            [
+              5.817, 
+              48.142
+            ], 
+            [
+              5.789, 
+              48.142
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333418, 
+        "name": "La Rouillie", 
+        "adjacent_woeid": [
+          587729, 
+          600234, 
+          610320, 
+          626161
+        ], 
+        "ne_latitude": 48.161, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.817, 
+        "longitude": 5.803, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "parent_woeid": 12664080, 
+        "latitude": 48.152, 
+        "sw_longitude": 5.789, 
+        "fullname": "La Rouillie, Lorraine, Vosges, France", 
+        "sw_latitude": 48.142
+      }, 
+      "id": 29333418
+    }
+  ]
+}

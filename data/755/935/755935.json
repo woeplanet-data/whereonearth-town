@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.197, 
+              40.526
+            ], 
+            [
+              0.197, 
+              40.593
+            ], 
+            [
+              0.288, 
+              40.593
+            ], 
+            [
+              0.288, 
+              40.526
+            ], 
+            [
+              0.197, 
+              40.526
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.593, 
+        "name": "Canet lo Roig", 
+        "adjacent_woeid": [
+          757506, 
+          763195, 
+          772204, 
+          773362, 
+          775965, 
+          776839, 
+          779221
+        ], 
+        "woeid": 755935, 
+        "alias_SPA_V": [
+          "Carnet Lo Roig"
+        ], 
+        "ne_longitude": 0.288, 
+        "longitude": 0.244, 
+        "parent_woeid": 12695439, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:18Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.552, 
+        "sw_longitude": 0.197, 
+        "fullname": "Canet lo Roig, Valencia, Castellon, Spain", 
+        "sw_latitude": 40.526
+      }, 
+      "id": 755935
+    }
+  ]
+}

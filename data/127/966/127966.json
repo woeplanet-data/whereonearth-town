@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.260, 
+              21.524
+            ], 
+            [
+              -101.260, 
+              21.542
+            ], 
+            [
+              -101.240, 
+              21.542
+            ], 
+            [
+              -101.240, 
+              21.524
+            ], 
+            [
+              -101.260, 
+              21.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.542, 
+        "name": "La Lagunita", 
+        "adjacent_woeid": [
+          127801, 
+          141642, 
+          141956, 
+          142356, 
+          145027, 
+          145759
+        ], 
+        "woeid": 127966, 
+        "alias_SPA_V": [
+          "Lagunitas"
+        ], 
+        "ne_longitude": -101.240, 
+        "longitude": -101.250, 
+        "parent_woeid": 12600018, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.533, 
+        "sw_longitude": -101.260, 
+        "fullname": "La Lagunita, Guanajuato, San Felipe, Mexico", 
+        "sw_latitude": 21.524
+      }, 
+      "id": 127966
+    }
+  ]
+}

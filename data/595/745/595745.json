@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.380, 
+              48.082
+            ], 
+            [
+              1.380, 
+              48.091
+            ], 
+            [
+              1.394, 
+              48.091
+            ], 
+            [
+              1.394, 
+              48.082
+            ], 
+            [
+              1.380, 
+              48.082
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 595745, 
+        "name": "Jumeaux", 
+        "adjacent_woeid": [
+          589004, 
+          595387, 
+          609076, 
+          20185004
+        ], 
+        "ne_latitude": 48.091, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.394, 
+        "longitude": 1.389, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12645438, 
+        "latitude": 48.086, 
+        "sw_longitude": 1.380, 
+        "fullname": "Jumeaux, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.082
+      }, 
+      "id": 595745
+    }
+  ]
+}

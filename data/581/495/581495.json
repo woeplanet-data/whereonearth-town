@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.009, 
+              43.675
+            ], 
+            [
+              0.009, 
+              43.704
+            ], 
+            [
+              0.049, 
+              43.704
+            ], 
+            [
+              0.049, 
+              43.675
+            ], 
+            [
+              0.009, 
+              43.675
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 581495, 
+        "name": "Bouzon-Gellenave", 
+        "adjacent_woeid": [
+          579679, 
+          592274, 
+          617772, 
+          620547, 
+          622412, 
+          628235
+        ], 
+        "ne_latitude": 43.704, 
+        "ne_longitude": 0.049, 
+        "longitude": 0.031, 
+        "parent_woeid": 12657686, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bouzon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.689, 
+        "sw_longitude": 0.009, 
+        "fullname": "Bouzon-Gellenave, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.675
+      }, 
+      "id": 581495
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.172, 
+              22.352
+            ], 
+            [
+              -105.172, 
+              22.370
+            ], 
+            [
+              -105.152, 
+              22.370
+            ], 
+            [
+              -105.152, 
+              22.352
+            ], 
+            [
+              -105.172, 
+              22.352
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.370, 
+        "name": "San Pedro de Honor", 
+        "adjacent_woeid": [
+          118293, 
+          121225, 
+          122211, 
+          127965, 
+          130823, 
+          142221, 
+          144538
+        ], 
+        "woeid": 145052, 
+        "alias_SPA_V": [
+          "S Pedro de Honor"
+        ], 
+        "ne_longitude": -105.152, 
+        "longitude": -105.162, 
+        "parent_woeid": 12600586, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.361, 
+        "sw_longitude": -105.172, 
+        "fullname": "San Pedro de Honor, Nayarit, Acaponeta, Mexico", 
+        "sw_latitude": 22.352
+      }, 
+      "id": 145052
+    }
+  ]
+}

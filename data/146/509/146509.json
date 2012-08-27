@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.393, 
+              25.008
+            ], 
+            [
+              -100.393, 
+              25.026
+            ], 
+            [
+              -100.373, 
+              25.026
+            ], 
+            [
+              -100.373, 
+              25.008
+            ], 
+            [
+              -100.393, 
+              25.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.026, 
+        "name": "Santa Maria del Socorro", 
+        "adjacent_woeid": [
+          116335, 
+          128687, 
+          129425, 
+          142650, 
+          144827
+        ], 
+        "woeid": 146509, 
+        "alias_SPA_V": [
+          "Sta Maria del Socorro"
+        ], 
+        "ne_longitude": -100.373, 
+        "longitude": -100.383, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.017, 
+        "sw_longitude": -100.393, 
+        "fullname": "Santa Maria del Socorro, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 25.008
+      }, 
+      "id": 146509
+    }
+  ]
+}

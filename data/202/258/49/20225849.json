@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.308, 
+              41.681
+            ], 
+            [
+              0.308, 
+              41.690
+            ], 
+            [
+              0.320, 
+              41.690
+            ], 
+            [
+              0.320, 
+              41.681
+            ], 
+            [
+              0.308, 
+              41.681
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.690, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          769793, 
+          776875, 
+          15003574, 
+          20226062
+        ], 
+        "woeid": 20225849, 
+        "alias_SPA_V": [
+          "S Miguel"
+        ], 
+        "ne_longitude": 0.320, 
+        "longitude": 0.314, 
+        "parent_woeid": 12689440, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.684, 
+        "sw_longitude": 0.308, 
+        "fullname": "San Miguel, Aragon, Huesca, Spain", 
+        "sw_latitude": 41.681
+      }, 
+      "id": 20225849
+    }
+  ]
+}

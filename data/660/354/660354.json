@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.601, 
+              50.337
+            ], 
+            [
+              11.601, 
+              50.356
+            ], 
+            [
+              11.619, 
+              50.356
+            ], 
+            [
+              11.619, 
+              50.337
+            ], 
+            [
+              11.601, 
+              50.337
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660354, 
+        "name": "Hirschberglein", 
+        "adjacent_woeid": [
+          652249, 
+          652308, 
+          672303, 
+          696700
+        ], 
+        "ne_latitude": 50.356, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.619, 
+        "longitude": 11.612, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12635305, 
+        "latitude": 50.344, 
+        "sw_longitude": 11.601, 
+        "fullname": "Hirschberglein, Bavaria, Landkreis Hof, Germany", 
+        "sw_latitude": 50.337
+      }, 
+      "id": 660354
+    }
+  ]
+}

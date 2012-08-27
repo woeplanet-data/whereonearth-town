@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.389, 
+              24.382
+            ], 
+            [
+              -98.389, 
+              24.401
+            ], 
+            [
+              -98.369, 
+              24.401
+            ], 
+            [
+              -98.369, 
+              24.382
+            ], 
+            [
+              -98.389, 
+              24.382
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.401, 
+        "name": "El Encinal", 
+        "adjacent_woeid": [
+          110910, 
+          118720, 
+          119173, 
+          131836, 
+          146995, 
+          148669, 
+          150070
+        ], 
+        "woeid": 120194, 
+        "alias_SPA_V": [
+          "Encinal"
+        ], 
+        "ne_longitude": -98.369, 
+        "longitude": -98.379, 
+        "parent_woeid": 12601650, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.392, 
+        "sw_longitude": -98.389, 
+        "fullname": "El Encinal, Tamaulipas, Jimenez, Mexico", 
+        "sw_latitude": 24.382
+      }, 
+      "id": 120194
+    }
+  ]
+}

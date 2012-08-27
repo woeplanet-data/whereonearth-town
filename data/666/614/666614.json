@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.713, 
+              53.270
+            ], 
+            [
+              13.713, 
+              53.301
+            ], 
+            [
+              13.752, 
+              53.301
+            ], 
+            [
+              13.752, 
+              53.270
+            ], 
+            [
+              13.713, 
+              53.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666614, 
+        "name": "Klein Sperrenwalde", 
+        "adjacent_woeid": [
+          637427, 
+          653201, 
+          654709, 
+          669000
+        ], 
+        "ne_latitude": 53.301, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.752, 
+        "longitude": 13.732, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 24547194, 
+        "latitude": 53.286, 
+        "sw_longitude": 13.713, 
+        "fullname": "Klein Sperrenwalde, Brandenburg, Uckermark, Germany", 
+        "sw_latitude": 53.270
+      }, 
+      "id": 666614
+    }
+  ]
+}

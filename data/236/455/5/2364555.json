@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.633, 
+              39.874
+            ], 
+            [
+              -75.633, 
+              39.929
+            ], 
+            [
+              -75.563, 
+              39.929
+            ], 
+            [
+              -75.563, 
+              39.874
+            ], 
+            [
+              -75.633, 
+              39.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2364555, 
+        "name": "Birmingham", 
+        "adjacent_woeid": [
+          28339941, 
+          28745201, 
+          28745625
+        ], 
+        "ne_latitude": 39.929, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Birmingham Twp"
+        ], 
+        "ne_longitude": -75.563, 
+        "longitude": -75.601, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:36:19Z", 
+        "parent_woeid": 12589742, 
+        "latitude": 39.901, 
+        "sw_longitude": -75.633, 
+        "fullname": "Birmingham, Pennsylvania, Chester, United States", 
+        "sw_latitude": 39.874
+      }, 
+      "id": 2364555
+    }
+  ]
+}

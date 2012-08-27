@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.987, 
+              26.560
+            ], 
+            [
+              -108.987, 
+              26.578
+            ], 
+            [
+              -108.967, 
+              26.578
+            ], 
+            [
+              -108.967, 
+              26.560
+            ], 
+            [
+              -108.987, 
+              26.560
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.578, 
+        "name": "El Chino", 
+        "adjacent_woeid": [
+          113220, 
+          118313, 
+          124192, 
+          126166, 
+          127287, 
+          131660, 
+          148457
+        ], 
+        "woeid": 119767, 
+        "alias_SPA_V": [
+          "Chino"
+        ], 
+        "ne_longitude": -108.967, 
+        "longitude": -108.977, 
+        "parent_woeid": 12601547, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.569, 
+        "sw_longitude": -108.987, 
+        "fullname": "El Chino, Sonora, Alamos, Mexico", 
+        "sw_latitude": 26.560
+      }, 
+      "id": 119767
+    }
+  ]
+}

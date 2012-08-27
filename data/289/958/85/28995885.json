@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.996, 
+              46.971
+            ], 
+            [
+              10.996, 
+              46.989
+            ], 
+            [
+              11.023, 
+              46.989
+            ], 
+            [
+              11.023, 
+              46.971
+            ], 
+            [
+              10.996, 
+              46.971
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995885, 
+        "name": "Lochlehn", 
+        "adjacent_woeid": [
+          550777, 
+          20095678, 
+          28995886, 
+          28995898
+        ], 
+        "ne_latitude": 46.989, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.023, 
+        "longitude": 11.010, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:40Z", 
+        "parent_woeid": 12675344, 
+        "latitude": 46.980, 
+        "sw_longitude": 10.996, 
+        "fullname": "Lochlehn, Tyrol, Imst, Austria", 
+        "sw_latitude": 46.971
+      }, 
+      "id": 28995885
+    }
+  ]
+}

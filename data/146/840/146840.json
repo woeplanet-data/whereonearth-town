@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.176, 
+              19.524
+            ], 
+            [
+              -99.176, 
+              19.542
+            ], 
+            [
+              -99.157, 
+              19.542
+            ], 
+            [
+              -99.157, 
+              19.524
+            ], 
+            [
+              -99.176, 
+              19.524
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.542, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          137546, 
+          140563, 
+          143141, 
+          145860
+        ], 
+        "woeid": 146840, 
+        "alias_SPA_V": [
+          "Sta. Rosa"
+        ], 
+        "ne_longitude": -99.157, 
+        "longitude": -99.169, 
+        "parent_woeid": 12599940, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.525, 
+        "sw_longitude": -99.176, 
+        "fullname": "Santa Rosa, Distrito Federal, Gustavo A. Madero, Mexico", 
+        "sw_latitude": 19.524
+      }, 
+      "id": 146840
+    }
+  ]
+}

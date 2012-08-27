@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.410, 
+              43.939
+            ], 
+            [
+              1.410, 
+              43.981
+            ], 
+            [
+              1.448, 
+              43.981
+            ], 
+            [
+              1.448, 
+              43.939
+            ], 
+            [
+              1.410, 
+              43.939
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626044, 
+        "name": "St.-Nauphary", 
+        "adjacent_woeid": [
+          586912, 
+          605166, 
+          619296, 
+          625508, 
+          631617, 
+          20195084, 
+          29331653
+        ], 
+        "ne_latitude": 43.981, 
+        "ne_longitude": 1.448, 
+        "longitude": 1.429, 
+        "parent_woeid": 12670983, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Nauphary"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.964, 
+        "sw_longitude": 1.410, 
+        "fullname": "St.-Nauphary, Midi-Pyrenees, Tarn-et-Garonne, France", 
+        "sw_latitude": 43.939
+      }, 
+      "id": 626044
+    }
+  ]
+}

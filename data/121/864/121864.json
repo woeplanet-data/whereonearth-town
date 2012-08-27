@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.910, 
+              28.091
+            ], 
+            [
+              -109.910, 
+              28.109
+            ], 
+            [
+              -109.890, 
+              28.109
+            ], 
+            [
+              -109.890, 
+              28.091
+            ], 
+            [
+              -109.910, 
+              28.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.109, 
+        "name": "El Realito", 
+        "adjacent_woeid": [
+          111223, 
+          111270, 
+          118017, 
+          121893, 
+          125011
+        ], 
+        "woeid": 121864, 
+        "alias_SPA_V": [
+          "Realito"
+        ], 
+        "ne_longitude": -109.890, 
+        "longitude": -109.900, 
+        "parent_woeid": 12601562, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.100, 
+        "sw_longitude": -109.910, 
+        "fullname": "El Realito, Sonora, Cajeme, Mexico", 
+        "sw_latitude": 28.091
+      }, 
+      "id": 121864
+    }
+  ]
+}

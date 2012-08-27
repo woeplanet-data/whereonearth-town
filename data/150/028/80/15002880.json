@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.570, 
+              44.818
+            ], 
+            [
+              0.570, 
+              44.852
+            ], 
+            [
+              0.607, 
+              44.852
+            ], 
+            [
+              0.607, 
+              44.818
+            ], 
+            [
+              0.570, 
+              44.818
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15002880, 
+        "name": "St.-Germain-et-Mons", 
+        "adjacent_woeid": [
+          587537, 
+          587917, 
+          622810, 
+          623077, 
+          626060, 
+          630669, 
+          29331652
+        ], 
+        "ne_latitude": 44.852, 
+        "ne_longitude": 0.607, 
+        "longitude": 0.591, 
+        "parent_woeid": 12644921, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Germain-et-Mons"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.845, 
+        "sw_longitude": 0.570, 
+        "fullname": "St.-Germain-et-Mons, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.818
+      }, 
+      "id": 15002880
+    }
+  ]
+}

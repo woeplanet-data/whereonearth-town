@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.646, 
+              55.205
+            ], 
+            [
+              10.646, 
+              55.229
+            ], 
+            [
+              10.688, 
+              55.229
+            ], 
+            [
+              10.688, 
+              55.205
+            ], 
+            [
+              10.646, 
+              55.205
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555102, 
+        "name": "Lamdrup", 
+        "adjacent_woeid": [
+          552550, 
+          552836, 
+          554903, 
+          555112, 
+          557851
+        ], 
+        "ne_latitude": 55.229, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.688, 
+        "longitude": 10.667, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:12:30Z", 
+        "parent_woeid": 12582684, 
+        "latitude": 55.217, 
+        "sw_longitude": 10.646, 
+        "fullname": "Lamdrup, Syddanmark, Nyborg, Denmark", 
+        "sw_latitude": 55.205
+      }, 
+      "id": 555102
+    }
+  ]
+}

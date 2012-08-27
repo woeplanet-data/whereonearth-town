@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.145, 
+              51.244
+            ], 
+            [
+              10.145, 
+              51.279
+            ], 
+            [
+              10.185, 
+              51.279
+            ], 
+            [
+              10.185, 
+              51.244
+            ], 
+            [
+              10.145, 
+              51.244
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648581, 
+        "name": "Ershausen", 
+        "adjacent_woeid": [
+          651971, 
+          654814, 
+          670916, 
+          674111, 
+          675390, 
+          706466
+        ], 
+        "ne_latitude": 51.279, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.185, 
+        "longitude": 10.163, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12636146, 
+        "latitude": 51.256, 
+        "sw_longitude": 10.145, 
+        "fullname": "Ershausen, Thuringia, Eichsfeld, Germany", 
+        "alias_GER_V": [
+          "Erhausen"
+        ], 
+        "sw_latitude": 51.244
+      }, 
+      "id": 648581
+    }
+  ]
+}

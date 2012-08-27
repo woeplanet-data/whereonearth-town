@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.046, 
+              48.609
+            ], 
+            [
+              -1.046, 
+              48.640
+            ], 
+            [
+              -0.998, 
+              48.640
+            ], 
+            [
+              -0.998, 
+              48.609
+            ], 
+            [
+              -1.046, 
+              48.609
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 591460, 
+        "name": "Fontenay", 
+        "adjacent_woeid": [
+          585731, 
+          596828, 
+          611542, 
+          619822
+        ], 
+        "ne_latitude": 48.640, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.998, 
+        "longitude": -1.030, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "parent_woeid": 12643976, 
+        "latitude": 48.628, 
+        "sw_longitude": -1.046, 
+        "fullname": "Fontenay, Basse-Normandie, Manche, France", 
+        "sw_latitude": 48.609
+      }, 
+      "id": 591460
+    }
+  ]
+}

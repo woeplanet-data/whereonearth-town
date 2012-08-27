@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.585, 
+              45.026
+            ], 
+            [
+              0.585, 
+              45.065
+            ], 
+            [
+              0.608, 
+              45.065
+            ], 
+            [
+              0.608, 
+              45.026
+            ], 
+            [
+              0.585, 
+              45.026
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 581317, 
+        "name": "Bourrou", 
+        "adjacent_woeid": [
+          589134, 
+          593898, 
+          595481, 
+          609739, 
+          626278
+        ], 
+        "ne_latitude": 45.065, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.608, 
+        "longitude": 0.597, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12638936, 
+        "latitude": 45.045, 
+        "sw_longitude": 0.585, 
+        "fullname": "Bourrou, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.026
+      }, 
+      "id": 581317
+    }
+  ]
+}

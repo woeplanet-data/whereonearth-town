@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.169, 
+              52.666
+            ], 
+            [
+              10.169, 
+              52.714
+            ], 
+            [
+              10.224, 
+              52.714
+            ], 
+            [
+              10.224, 
+              52.666
+            ], 
+            [
+              10.169, 
+              52.666
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20166603, 
+        "name": "Burghorn", 
+        "adjacent_woeid": [
+          662382, 
+          683052, 
+          20166615, 
+          29349545
+        ], 
+        "ne_latitude": 52.714, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.224, 
+        "longitude": 10.202, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:13Z", 
+        "parent_woeid": 12629607, 
+        "latitude": 52.691, 
+        "sw_longitude": 10.169, 
+        "fullname": "Burghorn, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.666
+      }, 
+      "id": 20166603
+    }
+  ]
+}

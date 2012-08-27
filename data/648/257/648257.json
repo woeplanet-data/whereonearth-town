@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.541, 
+              48.508
+            ], 
+            [
+              10.541, 
+              48.543
+            ], 
+            [
+              10.576, 
+              48.543
+            ], 
+            [
+              10.576, 
+              48.508
+            ], 
+            [
+              10.541, 
+              48.508
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648257, 
+        "name": "Eppisburg", 
+        "adjacent_woeid": [
+          644123, 
+          647582, 
+          650912, 
+          688600, 
+          705330
+        ], 
+        "ne_latitude": 48.543, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.576, 
+        "longitude": 10.560, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:31Z", 
+        "parent_woeid": 12634805, 
+        "latitude": 48.520, 
+        "sw_longitude": 10.541, 
+        "fullname": "Eppisburg, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.508
+      }, 
+      "id": 648257
+    }
+  ]
+}

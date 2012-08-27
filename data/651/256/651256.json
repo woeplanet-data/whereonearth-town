@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.550, 
+              48.373
+            ], 
+            [
+              10.550, 
+              48.401
+            ], 
+            [
+              10.577, 
+              48.401
+            ], 
+            [
+              10.577, 
+              48.373
+            ], 
+            [
+              10.550, 
+              48.373
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651256, 
+        "name": "Gabelbach", 
+        "adjacent_woeid": [
+          649921, 
+          651257, 
+          655530, 
+          667114, 
+          696813, 
+          702021
+        ], 
+        "ne_latitude": 48.401, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.577, 
+        "longitude": 10.568, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 12634795, 
+        "latitude": 48.382, 
+        "sw_longitude": 10.550, 
+        "fullname": "Gabelbach, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.373
+      }, 
+      "id": 651256
+    }
+  ]
+}

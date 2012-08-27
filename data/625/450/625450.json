@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.963, 
+              45.906
+            ], 
+            [
+              4.963, 
+              45.972
+            ], 
+            [
+              5.015, 
+              45.972
+            ], 
+            [
+              5.015, 
+              45.906
+            ], 
+            [
+              4.963, 
+              45.906
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625450, 
+        "name": "St.-Marcel", 
+        "adjacent_woeid": [
+          580012, 
+          601432, 
+          612704, 
+          29330546
+        ], 
+        "ne_latitude": 45.972, 
+        "ne_longitude": 5.015, 
+        "longitude": 4.986, 
+        "parent_woeid": 12670901, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Marcel-en-Dombes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.948, 
+        "sw_longitude": 4.963, 
+        "fullname": "St.-Marcel, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 45.906
+      }, 
+      "id": 625450
+    }
+  ]
+}

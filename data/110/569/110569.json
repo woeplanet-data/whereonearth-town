@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -60.942, 
+              14.663
+            ], 
+            [
+              -60.942, 
+              14.679
+            ], 
+            [
+              -60.925, 
+              14.679
+            ], 
+            [
+              -60.925, 
+              14.663
+            ], 
+            [
+              -60.942, 
+              14.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 110569, 
+        "name": "Le Robert", 
+        "adjacent_woeid": [
+          110325, 
+          110360, 
+          110483, 
+          110533, 
+          110546, 
+          110558, 
+          110663
+        ], 
+        "ne_latitude": 14.679, 
+        "ne_longitude": -60.925, 
+        "longitude": -60.933, 
+        "parent_woeid": 24551337, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Robert"
+        ], 
+        "iso": "MQ", 
+        "date_indexed": "2010-12-02T17:06:00Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 14.671, 
+        "sw_longitude": -60.942, 
+        "fullname": "Le Robert, Trinit\u00e9, Le Robert, Martinique", 
+        "sw_latitude": 14.663
+      }, 
+      "id": 110569
+    }
+  ]
+}

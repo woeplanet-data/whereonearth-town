@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.495, 
+              46.588
+            ], 
+            [
+              1.495, 
+              46.620
+            ], 
+            [
+              1.536, 
+              46.620
+            ], 
+            [
+              1.536, 
+              46.588
+            ], 
+            [
+              1.495, 
+              46.588
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625437, 
+        "name": "St.-Marcel", 
+        "adjacent_woeid": [
+          583778, 
+          603881, 
+          625484, 
+          628211
+        ], 
+        "ne_latitude": 46.620, 
+        "ne_longitude": 1.536, 
+        "longitude": 1.512, 
+        "parent_woeid": 12640728, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marcel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.603, 
+        "sw_longitude": 1.495, 
+        "fullname": "St.-Marcel, Centre, Indre, France", 
+        "sw_latitude": 46.588
+      }, 
+      "id": 625437
+    }
+  ]
+}

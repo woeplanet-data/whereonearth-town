@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.203, 
+              48.247
+            ], 
+            [
+              4.203, 
+              48.286
+            ], 
+            [
+              4.265, 
+              48.286
+            ], 
+            [
+              4.265, 
+              48.247
+            ], 
+            [
+              4.203, 
+              48.247
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587579, 
+        "name": "Courteranges", 
+        "adjacent_woeid": [
+          601675, 
+          612318, 
+          620527, 
+          628378
+        ], 
+        "ne_latitude": 48.286, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.265, 
+        "longitude": 4.238, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:47Z", 
+        "parent_woeid": 12642416, 
+        "latitude": 48.267, 
+        "sw_longitude": 4.203, 
+        "fullname": "Courteranges, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.247
+      }, 
+      "id": 587579
+    }
+  ]
+}

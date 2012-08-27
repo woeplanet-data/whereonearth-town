@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.123, 
+              44.121
+            ], 
+            [
+              0.123, 
+              44.204
+            ], 
+            [
+              0.215, 
+              44.204
+            ], 
+            [
+              0.215, 
+              44.121
+            ], 
+            [
+              0.123, 
+              44.121
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 589289, 
+        "name": "Durance", 
+        "adjacent_woeid": [
+          576845, 
+          581377, 
+          590571, 
+          617244, 
+          618933, 
+          20197501, 
+          20197502
+        ], 
+        "ne_latitude": 44.204, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.215, 
+        "longitude": 0.161, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12643134, 
+        "latitude": 44.162, 
+        "sw_longitude": 0.123, 
+        "fullname": "Durance, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.121
+      }, 
+      "id": 589289
+    }
+  ]
+}

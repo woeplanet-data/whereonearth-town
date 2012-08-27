@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.280, 
+              49.382
+            ], 
+            [
+              2.280, 
+              49.438
+            ], 
+            [
+              2.324, 
+              49.438
+            ], 
+            [
+              2.324, 
+              49.382
+            ], 
+            [
+              2.280, 
+              49.382
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599907, 
+        "name": "La Rue-St.-Pierre", 
+        "adjacent_woeid": [
+          599245, 
+          608275, 
+          619101
+        ], 
+        "ne_latitude": 49.438, 
+        "ne_longitude": 2.324, 
+        "longitude": 2.301, 
+        "parent_woeid": 22756518, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Rue-St-Pierre"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.410, 
+        "sw_longitude": 2.280, 
+        "fullname": "La Rue-St.-Pierre, La Rue, Picardie, Oise, France", 
+        "sw_latitude": 49.382
+      }, 
+      "id": 599907
+    }
+  ]
+}

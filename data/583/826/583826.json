@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.123, 
+              45.475
+            ], 
+            [
+              0.123, 
+              45.502
+            ], 
+            [
+              0.161, 
+              45.502
+            ], 
+            [
+              0.161, 
+              45.475
+            ], 
+            [
+              0.123, 
+              45.475
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583826, 
+        "name": "Chadurie", 
+        "adjacent_woeid": [
+          575504, 
+          584680, 
+          591729, 
+          616060, 
+          632671
+        ], 
+        "ne_latitude": 45.502, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.161, 
+        "longitude": 0.138, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12658739, 
+        "latitude": 45.496, 
+        "sw_longitude": 0.123, 
+        "fullname": "Chadurie, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.475
+      }, 
+      "id": 583826
+    }
+  ]
+}

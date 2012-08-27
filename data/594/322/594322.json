@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.180, 
+              49.499
+            ], 
+            [
+              0.180, 
+              49.524
+            ], 
+            [
+              0.214, 
+              49.524
+            ], 
+            [
+              0.214, 
+              49.499
+            ], 
+            [
+              0.180, 
+              49.499
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 594322, 
+        "name": "Harfleur", 
+        "adjacent_woeid": [
+          589824, 
+          593136, 
+          603259, 
+          612821, 
+          626775, 
+          29331417
+        ], 
+        "ne_latitude": 49.524, 
+        "ne_longitude": 0.214, 
+        "longitude": 0.199, 
+        "parent_woeid": 12645030, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt de Harfleur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.505, 
+        "sw_longitude": 0.180, 
+        "fullname": "Harfleur, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.499
+      }, 
+      "id": 594322
+    }
+  ]
+}

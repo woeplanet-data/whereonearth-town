@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -63.924, 
+              10.943
+            ], 
+            [
+              -63.924, 
+              10.957
+            ], 
+            [
+              -63.910, 
+              10.957
+            ], 
+            [
+              -63.910, 
+              10.943
+            ], 
+            [
+              -63.924, 
+              10.943
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.957, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          468151, 
+          468213, 
+          468264, 
+          26806890
+        ], 
+        "woeid": 468329, 
+        "alias_SPA_V": [
+          "S. Antonio del Sur"
+        ], 
+        "ne_longitude": -63.910, 
+        "longitude": -63.917, 
+        "parent_woeid": 26805116, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.950, 
+        "sw_longitude": -63.924, 
+        "fullname": "San Antonio, Nueva Esparta, Garcia, Venezuela", 
+        "sw_latitude": 10.943
+      }, 
+      "id": 468329
+    }
+  ]
+}

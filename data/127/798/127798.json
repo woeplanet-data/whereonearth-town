@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.893, 
+              23.241
+            ], 
+            [
+              -100.893, 
+              23.259
+            ], 
+            [
+              -100.873, 
+              23.259
+            ], 
+            [
+              -100.873, 
+              23.241
+            ], 
+            [
+              -100.893, 
+              23.241
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.259, 
+        "name": "La Joya", 
+        "adjacent_woeid": [
+          120629, 
+          125768, 
+          129381, 
+          129715, 
+          129830
+        ], 
+        "woeid": 127798, 
+        "alias_SPA_V": [
+          "Joya"
+        ], 
+        "ne_longitude": -100.873, 
+        "longitude": -100.883, 
+        "parent_woeid": 12601519, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.250, 
+        "sw_longitude": -100.893, 
+        "fullname": "La Joya, San Luis Potosi, Villa de Guadalupe, Mexico", 
+        "sw_latitude": 23.241
+      }, 
+      "id": 127798
+    }
+  ]
+}

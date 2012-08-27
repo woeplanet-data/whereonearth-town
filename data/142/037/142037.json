@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -112.109, 
+              27.110
+            ], 
+            [
+              -112.109, 
+              27.124
+            ], 
+            [
+              -112.093, 
+              27.124
+            ], 
+            [
+              -112.093, 
+              27.110
+            ], 
+            [
+              -112.109, 
+              27.110
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.124, 
+        "name": "San Bruno", 
+        "adjacent_woeid": [
+          143639, 
+          143695, 
+          144166
+        ], 
+        "woeid": 142037, 
+        "alias_SPA_V": [
+          "S Bruno"
+        ], 
+        "ne_longitude": -112.093, 
+        "longitude": -112.101, 
+        "parent_woeid": 12599698, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.117, 
+        "sw_longitude": -112.109, 
+        "fullname": "San Bruno, Baja California Sur, Mulege, Mexico", 
+        "sw_latitude": 27.110
+      }, 
+      "id": 142037
+    }
+  ]
+}

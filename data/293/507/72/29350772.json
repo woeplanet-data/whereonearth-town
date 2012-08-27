@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.554, 
+              53.505
+            ], 
+            [
+              10.554, 
+              53.523
+            ], 
+            [
+              10.584, 
+              53.523
+            ], 
+            [
+              10.584, 
+              53.505
+            ], 
+            [
+              10.554, 
+              53.505
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29350772, 
+        "name": "Waldstrasse", 
+        "adjacent_woeid": [
+          654638, 
+          690760, 
+          20164861, 
+          29350771, 
+          29350773
+        ], 
+        "ne_latitude": 53.523, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.584, 
+        "longitude": 10.569, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:52Z", 
+        "parent_woeid": 12632086, 
+        "latitude": 53.514, 
+        "sw_longitude": 10.554, 
+        "fullname": "Waldstrasse, Schleswig-Holstein, Herzogtum Lauenburg, Germany", 
+        "sw_latitude": 53.505
+      }, 
+      "id": 29350772
+    }
+  ]
+}

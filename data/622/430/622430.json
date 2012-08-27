@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.032, 
+              50.010
+            ], 
+            [
+              3.032, 
+              50.044
+            ], 
+            [
+              3.067, 
+              50.044
+            ], 
+            [
+              3.067, 
+              50.010
+            ], 
+            [
+              3.032, 
+              50.010
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622430, 
+        "name": "Sorel", 
+        "adjacent_woeid": [
+          589841, 
+          590990, 
+          607989, 
+          611318, 
+          614746
+        ], 
+        "ne_latitude": 50.044, 
+        "ne_longitude": 3.067, 
+        "longitude": 3.051, 
+        "parent_woeid": 12669884, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sorel-le-Grand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.026, 
+        "sw_longitude": 3.032, 
+        "fullname": "Sorel, Picardie, Somme, France", 
+        "sw_latitude": 50.010
+      }, 
+      "id": 622430
+    }
+  ]
+}

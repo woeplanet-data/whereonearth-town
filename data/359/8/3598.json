@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.396, 
+              48.749
+            ], 
+            [
+              -67.396, 
+              48.878
+            ], 
+            [
+              -67.171, 
+              48.878
+            ], 
+            [
+              -67.171, 
+              48.749
+            ], 
+            [
+              -67.396, 
+              48.749
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3598, 
+        "name": "St.-Adelme", 
+        "adjacent_woeid": [
+          1452, 
+          3596, 
+          3601, 
+          23394453, 
+          23394587
+        ], 
+        "ne_latitude": 48.878, 
+        "ne_longitude": -67.171, 
+        "longitude": -67.310, 
+        "parent_woeid": 29375168, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Adelme-de-Matane"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.819, 
+        "sw_longitude": -67.396, 
+        "fullname": "St.-Adelme, Quebec, Matane, Canada", 
+        "sw_latitude": 48.749
+      }, 
+      "id": 3598
+    }
+  ]
+}

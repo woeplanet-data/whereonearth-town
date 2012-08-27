@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.221, 
+              47.596
+            ], 
+            [
+              8.221, 
+              47.618
+            ], 
+            [
+              8.251, 
+              47.618
+            ], 
+            [
+              8.251, 
+              47.596
+            ], 
+            [
+              8.221, 
+              47.596
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 782931, 
+        "name": "Koblenz", 
+        "adjacent_woeid": [
+          782922, 
+          785169, 
+          20101694, 
+          20101879
+        ], 
+        "ne_latitude": 47.618, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.251, 
+        "longitude": 8.235, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:06Z", 
+        "parent_woeid": 20075551, 
+        "latitude": 47.608, 
+        "sw_longitude": 8.221, 
+        "fullname": "Koblenz, Canton of Aargau, Zurzach, Switzerland", 
+        "sw_latitude": 47.596
+      }, 
+      "id": 782931
+    }
+  ]
+}

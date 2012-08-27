@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.340, 
+              49.214
+            ], 
+            [
+              -97.340, 
+              49.230
+            ], 
+            [
+              -97.315, 
+              49.230
+            ], 
+            [
+              -97.315, 
+              49.214
+            ], 
+            [
+              -97.340, 
+              49.214
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 3000, 
+        "name": "St. Jean Baptiste", 
+        "adjacent_woeid": [
+          2998, 
+          23402519, 
+          23402587, 
+          23402664, 
+          29373833, 
+          56121198
+        ], 
+        "ne_latitude": 49.230, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "St Jean Baptiste"
+        ], 
+        "ne_longitude": -97.315, 
+        "longitude": -97.327, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "parent_woeid": 29375231, 
+        "latitude": 49.222, 
+        "sw_longitude": -97.340, 
+        "fullname": "St. Jean Baptiste, Manitoba, Manitoba, Canada", 
+        "sw_latitude": 49.214
+      }, 
+      "id": 3000
+    }
+  ]
+}

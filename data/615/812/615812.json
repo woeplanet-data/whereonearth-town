@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.597, 
+              43.859
+            ], 
+            [
+              0.597, 
+              43.901
+            ], 
+            [
+              0.633, 
+              43.901
+            ], 
+            [
+              0.633, 
+              43.859
+            ], 
+            [
+              0.597, 
+              43.859
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 615812, 
+        "name": "Pauilhac", 
+        "adjacent_woeid": [
+          583260, 
+          601072, 
+          627717, 
+          628262
+        ], 
+        "ne_latitude": 43.901, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.633, 
+        "longitude": 0.613, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12668054, 
+        "latitude": 43.876, 
+        "sw_longitude": 0.597, 
+        "fullname": "Pauilhac, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.859
+      }, 
+      "id": 615812
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.143, 
+              23.791
+            ], 
+            [
+              -100.143, 
+              23.809
+            ], 
+            [
+              -100.123, 
+              23.809
+            ], 
+            [
+              -100.123, 
+              23.791
+            ], 
+            [
+              -100.143, 
+              23.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.809, 
+        "name": "San Vicente de la Puerta", 
+        "adjacent_woeid": [
+          111100, 
+          111785, 
+          114714, 
+          118234, 
+          118996, 
+          130478, 
+          148233
+        ], 
+        "woeid": 145537, 
+        "alias_SPA_V": [
+          "S Vicente de la Puerta"
+        ], 
+        "ne_longitude": -100.123, 
+        "longitude": -100.133, 
+        "parent_woeid": 12600618, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.800, 
+        "sw_longitude": -100.143, 
+        "fullname": "San Vicente de la Puerta, Nuevo Leon, Doctor Arroyo, Mexico", 
+        "sw_latitude": 23.791
+      }, 
+      "id": 145537
+    }
+  ]
+}

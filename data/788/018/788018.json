@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.883, 
+              50.235
+            ], 
+            [
+              12.883, 
+              50.261
+            ], 
+            [
+              12.922, 
+              50.261
+            ], 
+            [
+              12.922, 
+              50.235
+            ], 
+            [
+              12.883, 
+              50.235
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "CZE", 
+        "woeid": 788018, 
+        "name": "Dalovice", 
+        "adjacent_woeid": [
+          786487, 
+          791140, 
+          792573, 
+          795690, 
+          797723, 
+          801282, 
+          801393
+        ], 
+        "ne_latitude": 50.261, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.922, 
+        "longitude": 12.895, 
+        "placetype": "Town", 
+        "alias_CZE_V": [
+          "Dallwitz"
+        ], 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:55:46Z", 
+        "parent_woeid": 12610204, 
+        "latitude": 50.250, 
+        "sw_longitude": 12.883, 
+        "fullname": "Dalovice, Karlovarsk\u00fd, Carlsbad, Czech Republic", 
+        "sw_latitude": 50.235
+      }, 
+      "id": 788018
+    }
+  ]
+}

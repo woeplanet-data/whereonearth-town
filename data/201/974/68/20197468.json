@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.548, 
+              44.218
+            ], 
+            [
+              0.548, 
+              44.245
+            ], 
+            [
+              0.574, 
+              44.245
+            ], 
+            [
+              0.574, 
+              44.218
+            ], 
+            [
+              0.548, 
+              44.218
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20197468, 
+        "name": "St.-Cirq", 
+        "adjacent_woeid": [
+          609035, 
+          609036, 
+          15002901, 
+          20219638
+        ], 
+        "ne_latitude": 44.245, 
+        "ne_longitude": 0.574, 
+        "longitude": 0.565, 
+        "parent_woeid": 12641918, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Cirq"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.235, 
+        "sw_longitude": 0.548, 
+        "fullname": "St.-Cirq, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.218
+      }, 
+      "id": 20197468
+    }
+  ]
+}

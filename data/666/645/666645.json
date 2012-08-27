@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.929, 
+              49.879
+            ], 
+            [
+              8.929, 
+              49.900
+            ], 
+            [
+              8.958, 
+              49.900
+            ], 
+            [
+              8.958, 
+              49.879
+            ], 
+            [
+              8.929, 
+              49.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666645, 
+        "name": "Klein-Umstadt", 
+        "adjacent_woeid": [
+          666237, 
+          686579, 
+          686659, 
+          688379, 
+          692208, 
+          20162151
+        ], 
+        "ne_latitude": 49.900, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.958, 
+        "longitude": 8.944, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12632485, 
+        "latitude": 49.891, 
+        "sw_longitude": 8.929, 
+        "fullname": "Klein-Umstadt, Hesse, Darmstadt-Dieburg, Germany", 
+        "sw_latitude": 49.879
+      }, 
+      "id": 666645
+    }
+  ]
+}

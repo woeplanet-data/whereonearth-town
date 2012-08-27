@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.948, 
+              9.869
+            ], 
+            [
+              -69.948, 
+              9.888
+            ], 
+            [
+              -69.928, 
+              9.888
+            ], 
+            [
+              -69.928, 
+              9.869
+            ], 
+            [
+              -69.948, 
+              9.869
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.888, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          394475, 
+          395325, 
+          395546, 
+          468689
+        ], 
+        "woeid": 395309, 
+        "alias_SPA_V": [
+          "S Pedro"
+        ], 
+        "ne_longitude": -69.928, 
+        "longitude": -69.938, 
+        "parent_woeid": 26805344, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.878, 
+        "sw_longitude": -69.948, 
+        "fullname": "San Pedro, Lara, Moran, Venezuela", 
+        "sw_latitude": 9.869
+      }, 
+      "id": 395309
+    }
+  ]
+}

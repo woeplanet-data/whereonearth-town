@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.413, 
+              45.790
+            ], 
+            [
+              1.413, 
+              45.802
+            ], 
+            [
+              1.433, 
+              45.802
+            ], 
+            [
+              1.433, 
+              45.790
+            ], 
+            [
+              1.413, 
+              45.790
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605246, 
+        "name": "Les Allois", 
+        "adjacent_woeid": [
+          577312, 
+          590416, 
+          590433, 
+          598452, 
+          620340, 
+          626257
+        ], 
+        "ne_latitude": 45.802, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.433, 
+        "longitude": 1.425, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 20074930, 
+        "latitude": 45.796, 
+        "sw_longitude": 1.413, 
+        "fullname": "Les Allois, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.790
+      }, 
+      "id": 605246
+    }
+  ]
+}

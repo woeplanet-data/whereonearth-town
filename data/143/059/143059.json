@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.510, 
+              23.891
+            ], 
+            [
+              -106.510, 
+              23.909
+            ], 
+            [
+              -106.490, 
+              23.909
+            ], 
+            [
+              -106.490, 
+              23.891
+            ], 
+            [
+              -106.510, 
+              23.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.909, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          113945, 
+          117585, 
+          124409, 
+          136930
+        ], 
+        "woeid": 143059, 
+        "alias_SPA_V": [
+          "S Javier"
+        ], 
+        "ne_longitude": -106.490, 
+        "longitude": -106.500, 
+        "parent_woeid": 12601543, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.900, 
+        "sw_longitude": -106.510, 
+        "fullname": "San Javier, Sinaloa, San Ignacio, Mexico", 
+        "sw_latitude": 23.891
+      }, 
+      "id": 143059
+    }
+  ]
+}

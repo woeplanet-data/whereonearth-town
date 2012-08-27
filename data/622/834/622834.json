@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.223, 
+              45.961
+            ], 
+            [
+              2.223, 
+              45.985
+            ], 
+            [
+              2.247, 
+              45.985
+            ], 
+            [
+              2.247, 
+              45.961
+            ], 
+            [
+              2.223, 
+              45.961
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622834, 
+        "name": "St.-Alpinien", 
+        "adjacent_woeid": [
+          597667, 
+          613992, 
+          622843, 
+          626231, 
+          627068
+        ], 
+        "ne_latitude": 45.985, 
+        "ne_longitude": 2.247, 
+        "longitude": 2.239, 
+        "parent_woeid": 20074911, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Alpinien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.978, 
+        "sw_longitude": 2.223, 
+        "fullname": "St.-Alpinien, Limousin, Creuse, France", 
+        "sw_latitude": 45.961
+      }, 
+      "id": 622834
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.893, 
+              40.441
+            ], 
+            [
+              -75.893, 
+              40.539
+            ], 
+            [
+              -75.750, 
+              40.539
+            ], 
+            [
+              -75.750, 
+              40.441
+            ], 
+            [
+              -75.893, 
+              40.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745514, 
+        "name": "Richmond", 
+        "adjacent_woeid": [
+          2400757, 
+          2452794, 
+          2454502, 
+          2454503, 
+          2513915, 
+          28745237
+        ], 
+        "ne_latitude": 40.539, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Richmond Township"
+        ], 
+        "ne_longitude": -75.750, 
+        "longitude": -75.840, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589733, 
+        "latitude": 40.487, 
+        "sw_longitude": -75.893, 
+        "fullname": "Richmond, Pennsylvania, Berks, United States", 
+        "sw_latitude": 40.441
+      }, 
+      "id": 28745514
+    }
+  ]
+}

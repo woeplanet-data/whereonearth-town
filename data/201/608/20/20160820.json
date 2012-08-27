@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.492, 
+              50.746
+            ], 
+            [
+              10.492, 
+              50.793
+            ], 
+            [
+              10.527, 
+              50.793
+            ], 
+            [
+              10.527, 
+              50.746
+            ], 
+            [
+              10.492, 
+              50.746
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20160820, 
+        "name": "Schnellbach", 
+        "adjacent_woeid": [
+          684216, 
+          697955, 
+          20160819
+        ], 
+        "ne_latitude": 50.793, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.527, 
+        "longitude": 10.503, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:44Z", 
+        "parent_woeid": 12636410, 
+        "latitude": 50.755, 
+        "sw_longitude": 10.492, 
+        "fullname": "Schnellbach, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.746
+      }, 
+      "id": 20160820
+    }
+  ]
+}

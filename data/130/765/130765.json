@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.227, 
+              27.974
+            ], 
+            [
+              -105.227, 
+              27.992
+            ], 
+            [
+              -105.206, 
+              27.992
+            ], 
+            [
+              -105.206, 
+              27.974
+            ], 
+            [
+              -105.227, 
+              27.974
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.992, 
+        "name": "Las Parritas", 
+        "adjacent_woeid": [
+          112138, 
+          115729, 
+          120515, 
+          144187, 
+          145180, 
+          150508
+        ], 
+        "woeid": 130765, 
+        "alias_SPA_V": [
+          "Parritas"
+        ], 
+        "ne_longitude": -105.206, 
+        "longitude": -105.217, 
+        "parent_woeid": 12599881, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.983, 
+        "sw_longitude": -105.227, 
+        "fullname": "Las Parritas, Chihuahua, Saucillo, Mexico", 
+        "sw_latitude": 27.974
+      }, 
+      "id": 130765
+    }
+  ]
+}

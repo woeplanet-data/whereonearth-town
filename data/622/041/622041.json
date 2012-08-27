@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.441, 
+              46.186
+            ], 
+            [
+              3.441, 
+              46.222
+            ], 
+            [
+              3.495, 
+              46.222
+            ], 
+            [
+              3.495, 
+              46.186
+            ], 
+            [
+              3.441, 
+              46.186
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622041, 
+        "name": "Seuillet", 
+        "adjacent_woeid": [
+          587894, 
+          609219, 
+          623981, 
+          20205307, 
+          29332053, 
+          29332582, 
+          29332585
+        ], 
+        "ne_latitude": 46.222, 
+        "ne_longitude": 3.495, 
+        "longitude": 3.472, 
+        "parent_woeid": 12641257, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chateau Seuillet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.201, 
+        "sw_longitude": 3.441, 
+        "fullname": "Seuillet, Auvergne, Allier, France", 
+        "sw_latitude": 46.186
+      }, 
+      "id": 622041
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.203, 
+              -22.913
+            ], 
+            [
+              -68.203, 
+              -22.899
+            ], 
+            [
+              -68.188, 
+              -22.899
+            ], 
+            [
+              -68.188, 
+              -22.913
+            ], 
+            [
+              -68.203, 
+              -22.913
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -22.899, 
+        "name": "San Pedro de Atacama", 
+        "adjacent_woeid": [
+          347058, 
+          347198, 
+          349862, 
+          349875, 
+          350144, 
+          350149, 
+          350325, 
+          26794370
+        ], 
+        "woeid": 349479, 
+        "alias_SPA_V": [
+          "S Pedro de Atacama"
+        ], 
+        "ne_longitude": -68.188, 
+        "longitude": -68.195, 
+        "parent_woeid": 26794039, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -22.906, 
+        "sw_longitude": -68.203, 
+        "fullname": "San Pedro de Atacama, Antofagasta Region, El Loa Province, Chile", 
+        "sw_latitude": -22.913
+      }, 
+      "id": 349479
+    }
+  ]
+}

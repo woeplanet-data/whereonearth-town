@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.900, 
+              45.511
+            ], 
+            [
+              -72.900, 
+              45.654
+            ], 
+            [
+              -72.780, 
+              45.654
+            ], 
+            [
+              -72.780, 
+              45.511
+            ], 
+            [
+              -72.900, 
+              45.511
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394509, 
+        "name": "St.-Dominique", 
+        "adjacent_woeid": [
+          1472, 
+          1597, 
+          23394585, 
+          23396464, 
+          23396466
+        ], 
+        "ne_latitude": 45.654, 
+        "ne_longitude": -72.780, 
+        "longitude": -72.855, 
+        "parent_woeid": 29375183, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Dominique-de-Bagot"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.566, 
+        "sw_longitude": -72.900, 
+        "fullname": "St.-Dominique, Quebec, Les Maskoutains, Canada", 
+        "sw_latitude": 45.511
+      }, 
+      "id": 23394509
+    }
+  ]
+}

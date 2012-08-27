@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.593, 
+              20.191
+            ], 
+            [
+              -100.593, 
+              20.209
+            ], 
+            [
+              -100.574, 
+              20.209
+            ], 
+            [
+              -100.574, 
+              20.191
+            ], 
+            [
+              -100.593, 
+              20.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.209, 
+        "name": "La Mina", 
+        "adjacent_woeid": [
+          122344, 
+          126805, 
+          129202, 
+          130825, 
+          135107, 
+          135156, 
+          144177, 
+          144851
+        ], 
+        "woeid": 128290, 
+        "alias_SPA_V": [
+          "Mina"
+        ], 
+        "ne_longitude": -100.574, 
+        "longitude": -100.583, 
+        "parent_woeid": 12600007, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.200, 
+        "sw_longitude": -100.593, 
+        "fullname": "La Mina, Guanajuato, Jerecuaro, Mexico", 
+        "sw_latitude": 20.191
+      }, 
+      "id": 128290
+    }
+  ]
+}

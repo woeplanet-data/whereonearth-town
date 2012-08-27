@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.123, 
+              53.989
+            ], 
+            [
+              12.123, 
+              54.010
+            ], 
+            [
+              12.168, 
+              54.010
+            ], 
+            [
+              12.168, 
+              53.989
+            ], 
+            [
+              12.123, 
+              53.989
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 687320, 
+        "name": "Reez", 
+        "adjacent_woeid": [
+          643645, 
+          654742, 
+          662710, 
+          665289, 
+          666654, 
+          667377, 
+          703272
+        ], 
+        "ne_latitude": 54.010, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.168, 
+        "longitude": 12.149, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:35Z", 
+        "parent_woeid": 12630483, 
+        "latitude": 54.000, 
+        "sw_longitude": 12.123, 
+        "fullname": "Reez, Mecklenburg-Vorpommern, Landkreis Bad Doberan, Germany", 
+        "sw_latitude": 53.989
+      }, 
+      "id": 687320
+    }
+  ]
+}

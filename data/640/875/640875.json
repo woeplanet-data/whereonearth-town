@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.857, 
+              52.443
+            ], 
+            [
+              10.857, 
+              52.504
+            ], 
+            [
+              10.902, 
+              52.504
+            ], 
+            [
+              10.902, 
+              52.443
+            ], 
+            [
+              10.857, 
+              52.443
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640875, 
+        "name": "Brechtorf", 
+        "adjacent_woeid": [
+          647307, 
+          661511, 
+          29349468, 
+          29349469
+        ], 
+        "ne_latitude": 52.504, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.902, 
+        "longitude": 10.876, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12630303, 
+        "latitude": 52.479, 
+        "sw_longitude": 10.857, 
+        "fullname": "Brechtorf, Lower Saxony, Landkreis Gifhorn, Germany", 
+        "sw_latitude": 52.443
+      }, 
+      "id": 640875
+    }
+  ]
+}

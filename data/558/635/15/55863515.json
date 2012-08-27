@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.271, 
+              48.884
+            ], 
+            [
+              2.271, 
+              48.904
+            ], 
+            [
+              2.304, 
+              48.904
+            ], 
+            [
+              2.304, 
+              48.884
+            ], 
+            [
+              2.271, 
+              48.884
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863515, 
+        "name": "Levallois-Perret", 
+        "adjacent_woeid": [
+          615702, 
+          55863417, 
+          55863454, 
+          55863459, 
+          55863545
+        ], 
+        "ne_latitude": 48.904, 
+        "ne_longitude": 2.304, 
+        "longitude": 2.290, 
+        "parent_woeid": 12648179, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Levallois"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.894, 
+        "sw_longitude": 2.271, 
+        "fullname": "Levallois-Perret, Ile-de-France, Hauts-de-Seine, France", 
+        "sw_latitude": 48.884
+      }, 
+      "id": 55863515
+    }
+  ]
+}

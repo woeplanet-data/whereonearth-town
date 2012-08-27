@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.538, 
+              49.099
+            ], 
+            [
+              10.538, 
+              49.132
+            ], 
+            [
+              10.559, 
+              49.132
+            ], 
+            [
+              10.559, 
+              49.099
+            ], 
+            [
+              10.538, 
+              49.099
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641740, 
+        "name": "Brunn", 
+        "adjacent_woeid": [
+          639066, 
+          646828, 
+          650841, 
+          681577
+        ], 
+        "ne_latitude": 49.132, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.559, 
+        "longitude": 10.549, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12634399, 
+        "latitude": 49.116, 
+        "sw_longitude": 10.538, 
+        "fullname": "Brunn, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.099
+      }, 
+      "id": 641740
+    }
+  ]
+}

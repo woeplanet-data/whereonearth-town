@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.528, 
+              44.723
+            ], 
+            [
+              0.528, 
+              44.755
+            ], 
+            [
+              0.561, 
+              44.755
+            ], 
+            [
+              0.561, 
+              44.723
+            ], 
+            [
+              0.528, 
+              44.723
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626332, 
+        "name": "St.-Perdoux", 
+        "adjacent_woeid": [
+          581128, 
+          609633, 
+          612049, 
+          619333, 
+          620582, 
+          623385
+        ], 
+        "ne_latitude": 44.755, 
+        "ne_longitude": 0.561, 
+        "longitude": 0.539, 
+        "parent_woeid": 12653063, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Perdoux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.740, 
+        "sw_longitude": 0.528, 
+        "fullname": "St.-Perdoux, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.723
+      }, 
+      "id": 626332
+    }
+  ]
+}

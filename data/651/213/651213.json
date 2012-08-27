@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.707, 
+              48.439
+            ], 
+            [
+              12.707, 
+              48.455
+            ], 
+            [
+              12.721, 
+              48.455
+            ], 
+            [
+              12.721, 
+              48.439
+            ], 
+            [
+              12.707, 
+              48.439
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651213, 
+        "name": "Furth", 
+        "adjacent_woeid": [
+          634990, 
+          641785, 
+          680679, 
+          681086, 
+          697225, 
+          698706
+        ], 
+        "ne_latitude": 48.455, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.721, 
+        "longitude": 12.717, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12623003, 
+        "latitude": 48.450, 
+        "sw_longitude": 12.707, 
+        "fullname": "Furth, Bavaria, Rottal-Inn, Germany", 
+        "sw_latitude": 48.439
+      }, 
+      "id": 651213
+    }
+  ]
+}

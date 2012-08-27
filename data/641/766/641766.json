@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.086, 
+              47.951
+            ], 
+            [
+              10.086, 
+              47.984
+            ], 
+            [
+              10.108, 
+              47.984
+            ], 
+            [
+              10.108, 
+              47.951
+            ], 
+            [
+              10.086, 
+              47.951
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 641766, 
+        "name": "Brunnen", 
+        "adjacent_woeid": [
+          669083, 
+          676148, 
+          702680, 
+          705770
+        ], 
+        "ne_latitude": 47.984, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.108, 
+        "longitude": 10.097, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12634725, 
+        "latitude": 47.965, 
+        "sw_longitude": 10.086, 
+        "fullname": "Brunnen, Bavaria, Stadtkreis Memmingen, Germany", 
+        "sw_latitude": 47.951
+      }, 
+      "id": 641766
+    }
+  ]
+}

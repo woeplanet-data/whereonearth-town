@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.064, 
+              9.901
+            ], 
+            [
+              -84.064, 
+              9.919
+            ], 
+            [
+              -84.046, 
+              9.919
+            ], 
+            [
+              -84.046, 
+              9.901
+            ], 
+            [
+              -84.064, 
+              9.901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.919, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          59716, 
+          22723610, 
+          22723595
+        ], 
+        "woeid": 59365, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -84.046, 
+        "longitude": -84.055, 
+        "parent_woeid": 26808964, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "S. Francisco de dos Rios"
+        ], 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.910, 
+        "sw_longitude": -84.064, 
+        "fullname": "San Francisco, San Jose, Curridabat, Costa Rica", 
+        "sw_latitude": 9.901
+      }, 
+      "id": 59365
+    }
+  ]
+}

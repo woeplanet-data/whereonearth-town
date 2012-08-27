@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.501, 
+              48.689
+            ], 
+            [
+              10.501, 
+              48.737
+            ], 
+            [
+              10.526, 
+              48.737
+            ], 
+            [
+              10.526, 
+              48.689
+            ], 
+            [
+              10.501, 
+              48.689
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709144, 
+        "name": "Zoltingen", 
+        "adjacent_woeid": [
+          671001, 
+          682107, 
+          701207, 
+          701421
+        ], 
+        "ne_latitude": 48.737, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.526, 
+        "longitude": 10.519, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12634799, 
+        "latitude": 48.724, 
+        "sw_longitude": 10.501, 
+        "fullname": "Zoltingen, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.689
+      }, 
+      "id": 709144
+    }
+  ]
+}

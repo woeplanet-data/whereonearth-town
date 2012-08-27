@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.910, 
+              27.041
+            ], 
+            [
+              -105.910, 
+              27.059
+            ], 
+            [
+              -105.890, 
+              27.059
+            ], 
+            [
+              -105.890, 
+              27.041
+            ], 
+            [
+              -105.910, 
+              27.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.059, 
+        "name": "La Soledad", 
+        "adjacent_woeid": [
+          127715, 
+          130212, 
+          139755, 
+          141835, 
+          142642, 
+          147164, 
+          149894
+        ], 
+        "woeid": 129252, 
+        "alias_SPA_V": [
+          "Soledad"
+        ], 
+        "ne_longitude": -105.890, 
+        "longitude": -105.900, 
+        "parent_woeid": 12599850, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.050, 
+        "sw_longitude": -105.910, 
+        "fullname": "La Soledad, Chihuahua, Hidalgo del Parral, Mexico", 
+        "sw_latitude": 27.041
+      }, 
+      "id": 129252
+    }
+  ]
+}

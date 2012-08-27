@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.348, 
+              50.105
+            ], 
+            [
+              7.348, 
+              50.145
+            ], 
+            [
+              7.377, 
+              50.145
+            ], 
+            [
+              7.377, 
+              50.105
+            ], 
+            [
+              7.348, 
+              50.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 669815, 
+        "name": "Lahr", 
+        "adjacent_woeid": [
+          671717, 
+          676250, 
+          684666, 
+          708993
+        ], 
+        "ne_latitude": 50.145, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.377, 
+        "longitude": 7.366, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:13Z", 
+        "parent_woeid": 12628226, 
+        "latitude": 50.125, 
+        "sw_longitude": 7.348, 
+        "fullname": "Lahr, Rhineland-Palatinate, Cochem-Zell, Germany", 
+        "sw_latitude": 50.105
+      }, 
+      "id": 669815
+    }
+  ]
+}

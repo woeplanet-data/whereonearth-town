@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.275, 
+              9.953
+            ], 
+            [
+              -66.275, 
+              9.967
+            ], 
+            [
+              -66.261, 
+              9.967
+            ], 
+            [
+              -66.261, 
+              9.953
+            ], 
+            [
+              -66.275, 
+              9.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.967, 
+        "name": "San Francisco de Macaira", 
+        "adjacent_woeid": [
+          386684, 
+          394598, 
+          468254, 
+          468301, 
+          468324
+        ], 
+        "woeid": 468336, 
+        "alias_SPA_V": [
+          "S. Francisco de Maicara"
+        ], 
+        "ne_longitude": -66.261, 
+        "longitude": -66.268, 
+        "parent_woeid": 26805413, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.960, 
+        "sw_longitude": -66.275, 
+        "fullname": "San Francisco de Macaira, Guarico, Monagas, Venezuela", 
+        "sw_latitude": 9.953
+      }, 
+      "id": 468336
+    }
+  ]
+}

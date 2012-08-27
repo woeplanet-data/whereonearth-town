@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.210, 
+              25.924
+            ], 
+            [
+              -109.210, 
+              25.942
+            ], 
+            [
+              -109.190, 
+              25.942
+            ], 
+            [
+              -109.190, 
+              25.924
+            ], 
+            [
+              -109.210, 
+              25.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.942, 
+        "name": "La Florida", 
+        "adjacent_woeid": [
+          125057, 
+          132445, 
+          133205
+        ], 
+        "woeid": 127437, 
+        "alias_SPA_V": [
+          "Florida"
+        ], 
+        "ne_longitude": -109.190, 
+        "longitude": -109.200, 
+        "parent_woeid": 12601527, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.933, 
+        "sw_longitude": -109.210, 
+        "fullname": "La Florida, Sinaloa, Ahome, Mexico", 
+        "sw_latitude": 25.924
+      }, 
+      "id": 127437
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.493, 
+              20.741
+            ], 
+            [
+              -100.493, 
+              20.759
+            ], 
+            [
+              -100.474, 
+              20.759
+            ], 
+            [
+              -100.474, 
+              20.741
+            ], 
+            [
+              -100.493, 
+              20.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.759, 
+        "name": "El Zapote", 
+        "adjacent_woeid": [
+          113784, 
+          126217, 
+          128326, 
+          144709, 
+          146879, 
+          146882, 
+          55882502
+        ], 
+        "woeid": 123052, 
+        "alias_SPA_V": [
+          "Zapote"
+        ], 
+        "ne_longitude": -100.474, 
+        "longitude": -100.483, 
+        "parent_woeid": 12601457, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.750, 
+        "sw_longitude": -100.493, 
+        "fullname": "El Zapote, Queretaro de Arteaga, Queretaro, Mexico", 
+        "sw_latitude": 20.741
+      }, 
+      "id": 123052
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.259, 
+              16.994
+            ], 
+            [
+              -100.259, 
+              17.012
+            ], 
+            [
+              -100.240, 
+              17.012
+            ], 
+            [
+              -100.240, 
+              16.994
+            ], 
+            [
+              -100.259, 
+              16.994
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.012, 
+        "name": "El Zapote", 
+        "adjacent_woeid": [
+          117587, 
+          121325
+        ], 
+        "woeid": 123081, 
+        "alias_SPA_V": [
+          "Zapote"
+        ], 
+        "ne_longitude": -100.240, 
+        "longitude": -100.250, 
+        "parent_woeid": 12600048, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.003, 
+        "sw_longitude": -100.259, 
+        "fullname": "El Zapote, Guerrero, Benito Juarez, Mexico", 
+        "sw_latitude": 16.994
+      }, 
+      "id": 123081
+    }
+  ]
+}

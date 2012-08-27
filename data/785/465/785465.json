@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.795, 
+              47.323
+            ], 
+            [
+              8.795, 
+              47.341
+            ], 
+            [
+              8.825, 
+              47.341
+            ], 
+            [
+              8.825, 
+              47.323
+            ], 
+            [
+              8.795, 
+              47.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 785465, 
+        "name": "Kempten", 
+        "adjacent_woeid": [
+          783565, 
+          785467, 
+          20103853, 
+          28996994
+        ], 
+        "ne_latitude": 47.341, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.825, 
+        "longitude": 8.808, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:21Z", 
+        "parent_woeid": 12682699, 
+        "latitude": 47.332, 
+        "sw_longitude": 8.795, 
+        "fullname": "Kempten, Canton of Zurich, Hinwil, Switzerland", 
+        "sw_latitude": 47.323
+      }, 
+      "id": 785465
+    }
+  ]
+}

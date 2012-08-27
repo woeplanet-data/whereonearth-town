@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.433, 
+              44.001
+            ], 
+            [
+              0.433, 
+              44.020
+            ], 
+            [
+              0.483, 
+              44.020
+            ], 
+            [
+              0.483, 
+              44.001
+            ], 
+            [
+              0.433, 
+              44.001
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 592537, 
+        "name": "Gazaupouy", 
+        "adjacent_woeid": [
+          583278, 
+          608034, 
+          611907, 
+          617768
+        ], 
+        "ne_latitude": 44.020, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.483, 
+        "longitude": 0.451, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12661979, 
+        "latitude": 44.008, 
+        "sw_longitude": 0.433, 
+        "fullname": "Gazaupouy, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 44.001
+      }, 
+      "id": 592537
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.636, 
+              48.390
+            ], 
+            [
+              10.636, 
+              48.428
+            ], 
+            [
+              10.660, 
+              48.428
+            ], 
+            [
+              10.660, 
+              48.390
+            ], 
+            [
+              10.636, 
+              48.390
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 672022, 
+        "name": "Lindgraben", 
+        "adjacent_woeid": [
+          638859, 
+          659383, 
+          697801, 
+          20157479
+        ], 
+        "ne_latitude": 48.428, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.660, 
+        "longitude": 10.651, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:41Z", 
+        "parent_woeid": 12634770, 
+        "latitude": 48.398, 
+        "sw_longitude": 10.636, 
+        "fullname": "Lindgraben, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.390
+      }, 
+      "id": 672022
+    }
+  ]
+}

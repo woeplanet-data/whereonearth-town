@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.449, 
+              43.510
+            ], 
+            [
+              2.449, 
+              43.543
+            ], 
+            [
+              2.480, 
+              43.543
+            ], 
+            [
+              2.480, 
+              43.510
+            ], 
+            [
+              2.449, 
+              43.510
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604997, 
+        "name": "Le Vintrou", 
+        "adjacent_woeid": [
+          576138, 
+          604421, 
+          20194264, 
+          20194273, 
+          20194274, 
+          20194280
+        ], 
+        "ne_latitude": 43.543, 
+        "ne_longitude": 2.480, 
+        "longitude": 2.462, 
+        "parent_woeid": 12665190, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Vintrou"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.525, 
+        "sw_longitude": 2.449, 
+        "fullname": "Le Vintrou, Midi-Pyrenees, Tarn, France", 
+        "sw_latitude": 43.510
+      }, 
+      "id": 604997
+    }
+  ]
+}

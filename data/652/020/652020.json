@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.271, 
+              52.002
+            ], 
+            [
+              9.271, 
+              52.034
+            ], 
+            [
+              9.323, 
+              52.034
+            ], 
+            [
+              9.323, 
+              52.002
+            ], 
+            [
+              9.271, 
+              52.002
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 652020, 
+        "name": "Gellersen", 
+        "adjacent_woeid": [
+          634989, 
+          656973, 
+          669727, 
+          687380
+        ], 
+        "ne_latitude": 52.034, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.323, 
+        "longitude": 9.305, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:45Z", 
+        "parent_woeid": 12629446, 
+        "latitude": 52.019, 
+        "sw_longitude": 9.271, 
+        "fullname": "Gellersen, Lower Saxony, Hameln-Pyrmont, Germany", 
+        "sw_latitude": 52.002
+      }, 
+      "id": 652020
+    }
+  ]
+}

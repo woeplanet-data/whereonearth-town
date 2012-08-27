@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.240, 
+              47.641
+            ], 
+            [
+              7.240, 
+              47.675
+            ], 
+            [
+              7.280, 
+              47.675
+            ], 
+            [
+              7.280, 
+              47.641
+            ], 
+            [
+              7.240, 
+              47.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627933, 
+        "name": "Tagolsheim", 
+        "adjacent_woeid": [
+          576895, 
+          594583, 
+          608943, 
+          632795
+        ], 
+        "ne_latitude": 47.675, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.280, 
+        "longitude": 7.271, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 12653502, 
+        "latitude": 47.656, 
+        "sw_longitude": 7.240, 
+        "fullname": "Tagolsheim, Alsace, Haut-Rhin, France", 
+        "sw_latitude": 47.641
+      }, 
+      "id": 627933
+    }
+  ]
+}

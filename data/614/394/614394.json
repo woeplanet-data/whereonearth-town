@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.545, 
+              48.433
+            ], 
+            [
+              1.545, 
+              48.473
+            ], 
+            [
+              1.623, 
+              48.473
+            ], 
+            [
+              1.623, 
+              48.433
+            ], 
+            [
+              1.545, 
+              48.433
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 614394, 
+        "name": "Nogent-le-Phaye", 
+        "adjacent_woeid": [
+          580744, 
+          581820, 
+          586566, 
+          592478, 
+          592605, 
+          595016, 
+          614883, 
+          622635
+        ], 
+        "ne_latitude": 48.473, 
+        "ne_longitude": 1.623, 
+        "longitude": 1.577, 
+        "parent_woeid": 12650003, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Nogent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.446, 
+        "sw_longitude": 1.545, 
+        "fullname": "Nogent-le-Phaye, Centre, Eure-et-Loir, France", 
+        "sw_latitude": 48.433
+      }, 
+      "id": 614394
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.123, 
+              47.246
+            ], 
+            [
+              -0.123, 
+              47.282
+            ], 
+            [
+              -0.083, 
+              47.282
+            ], 
+            [
+              -0.083, 
+              47.246
+            ], 
+            [
+              -0.123, 
+              47.246
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20180555, 
+        "name": "St.-Hilaire-Saint-Florent", 
+        "adjacent_woeid": [
+          577816, 
+          585527, 
+          610276, 
+          625069, 
+          625627, 
+          630875, 
+          29330689
+        ], 
+        "ne_latitude": 47.282, 
+        "ne_longitude": -0.083, 
+        "longitude": -0.102, 
+        "parent_woeid": 12656084, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Hilaire-Saint-Florent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.266, 
+        "sw_longitude": -0.123, 
+        "fullname": "St.-Hilaire-Saint-Florent, Pays de la Loire, Maine-et-Loire, France", 
+        "sw_latitude": 47.246
+      }, 
+      "id": 20180555
+    }
+  ]
+}

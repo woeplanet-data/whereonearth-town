@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.334, 
+              43.362
+            ], 
+            [
+              -0.334, 
+              43.394
+            ], 
+            [
+              -0.288, 
+              43.394
+            ], 
+            [
+              -0.288, 
+              43.362
+            ], 
+            [
+              -0.334, 
+              43.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623397, 
+        "name": "St.-Castin", 
+        "adjacent_woeid": [
+          579395, 
+          582411, 
+          610533, 
+          612285, 
+          613927, 
+          623028
+        ], 
+        "ne_latitude": 43.394, 
+        "ne_longitude": -0.288, 
+        "longitude": -0.306, 
+        "parent_woeid": 12652293, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Castin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.378, 
+        "sw_longitude": -0.334, 
+        "fullname": "St.-Castin, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.362
+      }, 
+      "id": 623397
+    }
+  ]
+}

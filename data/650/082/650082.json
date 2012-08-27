@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.429, 
+              48.741
+            ], 
+            [
+              10.429, 
+              48.781
+            ], 
+            [
+              10.464, 
+              48.781
+            ], 
+            [
+              10.464, 
+              48.741
+            ], 
+            [
+              10.429, 
+              48.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650082, 
+        "name": "Forheim", 
+        "adjacent_woeid": [
+          635190, 
+          636044, 
+          643149, 
+          668368, 
+          693830
+        ], 
+        "ne_latitude": 48.781, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.464, 
+        "longitude": 10.448, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12634991, 
+        "latitude": 48.758, 
+        "sw_longitude": 10.429, 
+        "fullname": "Forheim, Bavaria, Donau-Ries, Germany", 
+        "sw_latitude": 48.741
+      }, 
+      "id": 650082
+    }
+  ]
+}

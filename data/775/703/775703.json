@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.100, 
+              40.915
+            ], 
+            [
+              0.100, 
+              40.972
+            ], 
+            [
+              0.159, 
+              40.972
+            ], 
+            [
+              0.159, 
+              40.915
+            ], 
+            [
+              0.100, 
+              40.915
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.972, 
+        "name": "Torre del Compte", 
+        "adjacent_woeid": [
+          758352, 
+          763412, 
+          776567, 
+          776626
+        ], 
+        "woeid": 775703, 
+        "alias_SPA_V": [
+          "Torre del Comte"
+        ], 
+        "ne_longitude": 0.159, 
+        "longitude": 0.110, 
+        "parent_woeid": 12689795, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.936, 
+        "sw_longitude": 0.100, 
+        "fullname": "Torre del Compte, Aragon, Teruel, Spain", 
+        "sw_latitude": 40.915
+      }, 
+      "id": 775703
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.335, 
+              19.326
+            ], 
+            [
+              -99.335, 
+              19.344
+            ], 
+            [
+              -99.316, 
+              19.344
+            ], 
+            [
+              -99.316, 
+              19.326
+            ], 
+            [
+              -99.335, 
+              19.326
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.344, 
+        "name": "La Venta", 
+        "adjacent_woeid": [
+          111066, 
+          118209, 
+          126693, 
+          141950, 
+          143041, 
+          22664527
+        ], 
+        "woeid": 129550, 
+        "alias_SPA_V": [
+          "Venta"
+        ], 
+        "ne_longitude": -99.316, 
+        "longitude": -99.325, 
+        "parent_woeid": 12599938, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.335, 
+        "sw_longitude": -99.335, 
+        "fullname": "La Venta, Distrito Federal, Cuajimalpa de Morelos, Mexico", 
+        "sw_latitude": 19.326
+      }, 
+      "id": 129550
+    }
+  ]
+}

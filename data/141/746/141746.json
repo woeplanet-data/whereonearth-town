@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.426, 
+              16.324
+            ], 
+            [
+              -95.426, 
+              16.342
+            ], 
+            [
+              -95.407, 
+              16.342
+            ], 
+            [
+              -95.407, 
+              16.324
+            ], 
+            [
+              -95.426, 
+              16.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.342, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          111573, 
+          132682, 
+          133606, 
+          134150, 
+          145889, 
+          146211, 
+          146986, 
+          148578, 
+          148732, 
+          26803002
+        ], 
+        "woeid": 141746, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -95.407, 
+        "longitude": -95.417, 
+        "parent_woeid": 12601174, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.333, 
+        "sw_longitude": -95.426, 
+        "fullname": "San Antonio, Oaxaca, Santo Domingo Tehuantepec, Mexico", 
+        "sw_latitude": 16.324
+      }, 
+      "id": 141746
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.169, 
+              20.564
+            ], 
+            [
+              -101.169, 
+              20.582
+            ], 
+            [
+              -101.149, 
+              20.582
+            ], 
+            [
+              -101.149, 
+              20.564
+            ], 
+            [
+              -101.169, 
+              20.564
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.582, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          114824, 
+          115023, 
+          126588, 
+          146098, 
+          147186, 
+          147446, 
+          55894704
+        ], 
+        "woeid": 143760, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -101.149, 
+        "longitude": -101.159, 
+        "parent_woeid": 12600015, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.573, 
+        "sw_longitude": -101.169, 
+        "fullname": "San Juan, Guanajuato, Salamanca, Mexico", 
+        "sw_latitude": 20.564
+      }, 
+      "id": 143760
+    }
+  ]
+}

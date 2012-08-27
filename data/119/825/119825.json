@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.194, 
+              30.474
+            ], 
+            [
+              -111.194, 
+              30.492
+            ], 
+            [
+              -111.173, 
+              30.492
+            ], 
+            [
+              -111.173, 
+              30.474
+            ], 
+            [
+              -111.194, 
+              30.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.492, 
+        "name": "El Claro", 
+        "adjacent_woeid": [
+          111342, 
+          113390, 
+          115029, 
+          116430, 
+          144299, 
+          145701
+        ], 
+        "woeid": 119825, 
+        "alias_SPA_V": [
+          "Claro"
+        ], 
+        "ne_longitude": -111.173, 
+        "longitude": -111.183, 
+        "parent_woeid": 12601603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.483, 
+        "sw_longitude": -111.194, 
+        "fullname": "El Claro, Sonora, Santa Ana, Mexico", 
+        "sw_latitude": 30.474
+      }, 
+      "id": 119825
+    }
+  ]
+}

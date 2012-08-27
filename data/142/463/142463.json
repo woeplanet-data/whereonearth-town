@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.210, 
+              25.541
+            ], 
+            [
+              -104.210, 
+              25.559
+            ], 
+            [
+              -104.190, 
+              25.559
+            ], 
+            [
+              -104.190, 
+              25.541
+            ], 
+            [
+              -104.210, 
+              25.541
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.559, 
+        "name": "San Francisco", 
+        "adjacent_woeid": [
+          116484, 
+          142261, 
+          143879, 
+          146220, 
+          146305
+        ], 
+        "woeid": 142463, 
+        "alias_SPA_V": [
+          "S Francisco"
+        ], 
+        "ne_longitude": -104.190, 
+        "longitude": -104.200, 
+        "parent_woeid": 12599980, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.550, 
+        "sw_longitude": -104.210, 
+        "fullname": "San Francisco, Durango, San Pedro del Gallo, Mexico", 
+        "sw_latitude": 25.541
+      }, 
+      "id": 142463
+    }
+  ]
+}

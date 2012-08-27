@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.925, 
+              45.953
+            ], 
+            [
+              0.925, 
+              45.962
+            ], 
+            [
+              0.938, 
+              45.962
+            ], 
+            [
+              0.938, 
+              45.953
+            ], 
+            [
+              0.925, 
+              45.953
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 22657205, 
+        "name": "Villeneuve", 
+        "adjacent_woeid": [
+          595489, 
+          598073, 
+          609847, 
+          623355
+        ], 
+        "ne_latitude": 45.962, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.938, 
+        "longitude": 0.931, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12657877, 
+        "latitude": 45.957, 
+        "sw_longitude": 0.925, 
+        "fullname": "Villeneuve, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.953
+      }, 
+      "id": 22657205
+    }
+  ]
+}

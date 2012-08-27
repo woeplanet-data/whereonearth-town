@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.760, 
+              46.190
+            ], 
+            [
+              3.760, 
+              46.220
+            ], 
+            [
+              3.791, 
+              46.220
+            ], 
+            [
+              3.791, 
+              46.190
+            ], 
+            [
+              3.760, 
+              46.190
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626503, 
+        "name": "St.-Pierre-Laval", 
+        "adjacent_woeid": [
+          576045, 
+          576529, 
+          585042, 
+          589213, 
+          623306
+        ], 
+        "ne_latitude": 46.220, 
+        "alias_ENG_V": [
+          "Saint-Pierre"
+        ], 
+        "ne_longitude": 3.791, 
+        "longitude": 3.780, 
+        "parent_woeid": 22757785, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pierre-Laval"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.203, 
+        "sw_longitude": 3.760, 
+        "fullname": "St.-Pierre-Laval, St-Pierre, Auvergne, Allier, France", 
+        "sw_latitude": 46.190
+      }, 
+      "id": 626503
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.005, 
+              7.630
+            ], 
+            [
+              -72.005, 
+              8.037
+            ], 
+            [
+              -71.595, 
+              8.037
+            ], 
+            [
+              -71.595, 
+              7.630
+            ], 
+            [
+              -72.005, 
+              7.630
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 8.037, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          388401, 
+          395575, 
+          383500, 
+          384496, 
+          387755, 
+          26808455, 
+          389669
+        ], 
+        "woeid": 393982, 
+        "alias_SPA_V": [
+          "S. Rafael"
+        ], 
+        "ne_longitude": -71.595, 
+        "longitude": -71.800, 
+        "parent_woeid": 26805000, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.833, 
+        "sw_longitude": -72.005, 
+        "fullname": "San Rafael, Tachira, Francisco de Miranda, Venezuela", 
+        "sw_latitude": 7.630
+      }, 
+      "id": 393982
+    }
+  ]
+}

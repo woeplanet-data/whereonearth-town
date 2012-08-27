@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.478, 
+              26.898
+            ], 
+            [
+              -101.478, 
+              26.974
+            ], 
+            [
+              -101.424, 
+              26.974
+            ], 
+            [
+              -101.424, 
+              26.898
+            ], 
+            [
+              -101.478, 
+              26.898
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 123788, 
+        "name": "Frontera", 
+        "adjacent_woeid": [
+          110909, 
+          127074, 
+          129956, 
+          133947, 
+          134276, 
+          137413, 
+          141090, 
+          150862
+        ], 
+        "ne_latitude": 26.974, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -101.424, 
+        "longitude": -101.452, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "parent_woeid": 12599895, 
+        "latitude": 26.941, 
+        "sw_longitude": -101.478, 
+        "fullname": "Frontera, Coahuila de Zaragoza, Frontera, Mexico", 
+        "sw_latitude": 26.898
+      }, 
+      "id": 123788
+    }
+  ]
+}

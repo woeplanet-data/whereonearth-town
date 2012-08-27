@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.810, 
+              22.741
+            ], 
+            [
+              -100.810, 
+              22.759
+            ], 
+            [
+              -100.790, 
+              22.759
+            ], 
+            [
+              -100.790, 
+              22.741
+            ], 
+            [
+              -100.810, 
+              22.741
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.759, 
+        "name": "El Coyote", 
+        "adjacent_woeid": [
+          112380, 
+          115617, 
+          120210, 
+          129334, 
+          141235, 
+          142800, 
+          143165
+        ], 
+        "woeid": 119999, 
+        "alias_SPA_V": [
+          "Coyote"
+        ], 
+        "ne_longitude": -100.790, 
+        "longitude": -100.800, 
+        "parent_woeid": 12601517, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.750, 
+        "sw_longitude": -100.810, 
+        "fullname": "El Coyote, San Luis Potosi, Villa de Arista, Mexico", 
+        "sw_latitude": 22.741
+      }, 
+      "id": 119999
+    }
+  ]
+}

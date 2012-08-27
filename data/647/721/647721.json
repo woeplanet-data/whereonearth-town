@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.809, 
+              50.321
+            ], 
+            [
+              10.809, 
+              50.355
+            ], 
+            [
+              10.836, 
+              50.355
+            ], 
+            [
+              10.836, 
+              50.321
+            ], 
+            [
+              10.809, 
+              50.321
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 647721, 
+        "name": "Elsa", 
+        "adjacent_woeid": [
+          640987, 
+          651693, 
+          655251, 
+          658822, 
+          682969, 
+          689036
+        ], 
+        "ne_latitude": 50.355, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.836, 
+        "longitude": 10.818, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:25Z", 
+        "parent_woeid": 12636093, 
+        "latitude": 50.339, 
+        "sw_longitude": 10.809, 
+        "fullname": "Elsa, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.321
+      }, 
+      "id": 647721
+    }
+  ]
+}

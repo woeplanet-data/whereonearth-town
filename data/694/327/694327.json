@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.183, 
+              49.843
+            ], 
+            [
+              12.183, 
+              49.883
+            ], 
+            [
+              12.219, 
+              49.883
+            ], 
+            [
+              12.219, 
+              49.843
+            ], 
+            [
+              12.183, 
+              49.843
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 694327, 
+        "name": "Seidlersreuth", 
+        "adjacent_woeid": [
+          655771, 
+          687193, 
+          693069
+        ], 
+        "ne_latitude": 49.883, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.219, 
+        "longitude": 12.203, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12634334, 
+        "latitude": 49.870, 
+        "sw_longitude": 12.183, 
+        "fullname": "Seidlersreuth, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 49.843
+      }, 
+      "id": 694327
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.548, 
+              53.784
+            ], 
+            [
+              10.548, 
+              53.809
+            ], 
+            [
+              10.567, 
+              53.809
+            ], 
+            [
+              10.567, 
+              53.784
+            ], 
+            [
+              10.548, 
+              53.784
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666589, 
+        "name": "Klein Schenkenberg", 
+        "adjacent_woeid": [
+          654681, 
+          20164669, 
+          20164903, 
+          29351869
+        ], 
+        "ne_latitude": 53.809, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.567, 
+        "longitude": 10.560, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12631874, 
+        "latitude": 53.796, 
+        "sw_longitude": 10.548, 
+        "fullname": "Klein Schenkenberg, Schleswig-Holstein, Stormarn, Germany", 
+        "sw_latitude": 53.784
+      }, 
+      "id": 666589
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              14.605, 
+              48.325
+            ], 
+            [
+              14.605, 
+              48.341
+            ], 
+            [
+              14.628, 
+              48.341
+            ], 
+            [
+              14.628, 
+              48.325
+            ], 
+            [
+              14.605, 
+              48.325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20098213, 
+        "name": "Zudersdorf", 
+        "adjacent_woeid": [
+          545822, 
+          545902, 
+          20096029, 
+          20097329
+        ], 
+        "ne_latitude": 48.341, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 14.628, 
+        "longitude": 14.616, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:17Z", 
+        "parent_woeid": 12674515, 
+        "latitude": 48.333, 
+        "sw_longitude": 14.605, 
+        "fullname": "Zudersdorf, Upper Austria, Freistadt, Austria", 
+        "sw_latitude": 48.325
+      }, 
+      "id": 20098213
+    }
+  ]
+}

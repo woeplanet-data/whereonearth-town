@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.854, 
+              49.834
+            ], 
+            [
+              0.854, 
+              49.872
+            ], 
+            [
+              0.917, 
+              49.872
+            ], 
+            [
+              0.917, 
+              49.834
+            ], 
+            [
+              0.854, 
+              49.834
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626512, 
+        "name": "St.-Pierre-le-Vieux", 
+        "adjacent_woeid": [
+          577648, 
+          593996, 
+          597562, 
+          598370, 
+          602220
+        ], 
+        "ne_latitude": 49.872, 
+        "ne_longitude": 0.917, 
+        "longitude": 0.874, 
+        "parent_woeid": 12653126, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre-le-Vieux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.853, 
+        "sw_longitude": 0.854, 
+        "fullname": "St.-Pierre-le-Vieux, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.834
+      }, 
+      "id": 626512
+    }
+  ]
+}

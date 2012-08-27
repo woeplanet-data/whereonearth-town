@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.774, 
+              15.393
+            ], 
+            [
+              -88.774, 
+              15.407
+            ], 
+            [
+              -88.759, 
+              15.407
+            ], 
+            [
+              -88.759, 
+              15.393
+            ], 
+            [
+              -88.774, 
+              15.393
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.407, 
+        "name": "Quebradas", 
+        "adjacent_woeid": [
+          81102, 
+          81234, 
+          81423, 
+          84183, 
+          84542, 
+          85117, 
+          86406
+        ], 
+        "woeid": 85251, 
+        "alias_SPA_V": [
+          "Las Quebradas"
+        ], 
+        "ne_longitude": -88.759, 
+        "longitude": -88.767, 
+        "parent_woeid": 26807034, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.400, 
+        "sw_longitude": -88.774, 
+        "fullname": "Quebradas, Izabal, Morales, Guatemala", 
+        "sw_latitude": 15.393
+      }, 
+      "id": 85251
+    }
+  ]
+}

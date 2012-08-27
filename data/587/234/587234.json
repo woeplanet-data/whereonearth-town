@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.853, 
+              43.327
+            ], 
+            [
+              0.853, 
+              43.361
+            ], 
+            [
+              0.904, 
+              43.361
+            ], 
+            [
+              0.904, 
+              43.327
+            ], 
+            [
+              0.853, 
+              43.327
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587234, 
+        "name": "Coueilles", 
+        "adjacent_woeid": [
+          575435, 
+          583238, 
+          590471, 
+          624052
+        ], 
+        "ne_latitude": 43.361, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.904, 
+        "longitude": 0.887, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 12659928, 
+        "latitude": 43.349, 
+        "sw_longitude": 0.853, 
+        "fullname": "Coueilles, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.327
+      }, 
+      "id": 587234
+    }
+  ]
+}

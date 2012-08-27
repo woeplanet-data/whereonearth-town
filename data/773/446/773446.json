@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.342, 
+              42.666
+            ], 
+            [
+              -1.342, 
+              42.690
+            ], 
+            [
+              -1.316, 
+              42.690
+            ], 
+            [
+              -1.316, 
+              42.666
+            ], 
+            [
+              -1.342, 
+              42.666
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.690, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          762599, 
+          771985, 
+          775042, 
+          20223247, 
+          22661489
+        ], 
+        "woeid": 773446, 
+        "alias_SPA_V": [
+          "S. Vicente"
+        ], 
+        "ne_longitude": -1.316, 
+        "longitude": -1.326, 
+        "parent_woeid": 12688422, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.687, 
+        "sw_longitude": -1.342, 
+        "fullname": "San Vicente, Navarre, Navarre, Spain", 
+        "sw_latitude": 42.666
+      }, 
+      "id": 773446
+    }
+  ]
+}

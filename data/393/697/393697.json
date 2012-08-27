@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.155, 
+              10.412
+            ], 
+            [
+              -64.155, 
+              10.421
+            ], 
+            [
+              -64.145, 
+              10.421
+            ], 
+            [
+              -64.145, 
+              10.412
+            ], 
+            [
+              -64.155, 
+              10.412
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.421, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          391549, 
+          393486, 
+          395630, 
+          468137, 
+          468157, 
+          468349, 
+          468551
+        ], 
+        "woeid": 393697, 
+        "alias_SPA_V": [
+          "S. Juan"
+        ], 
+        "ne_longitude": -64.145, 
+        "longitude": -64.150, 
+        "parent_woeid": 26805025, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.417, 
+        "sw_longitude": -64.155, 
+        "fullname": "San Juan, Sucre, Sucre, Venezuela", 
+        "sw_latitude": 10.412
+      }, 
+      "id": 393697
+    }
+  ]
+}

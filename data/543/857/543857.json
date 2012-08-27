@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.505, 
+              48.702
+            ], 
+            [
+              15.505, 
+              48.721
+            ], 
+            [
+              15.532, 
+              48.721
+            ], 
+            [
+              15.532, 
+              48.702
+            ], 
+            [
+              15.505, 
+              48.702
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 543857, 
+        "name": "Sitzendorf", 
+        "adjacent_woeid": [
+          541916, 
+          541933, 
+          543326, 
+          543631, 
+          23406140
+        ], 
+        "ne_latitude": 48.721, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.532, 
+        "longitude": 15.518, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:41Z", 
+        "parent_woeid": 12673905, 
+        "latitude": 48.711, 
+        "sw_longitude": 15.505, 
+        "fullname": "Sitzendorf, Lower Austria, Horn, Austria", 
+        "sw_latitude": 48.702
+      }, 
+      "id": 543857
+    }
+  ]
+}

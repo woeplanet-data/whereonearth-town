@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.009, 
+              52.000
+            ], 
+            [
+              1.009, 
+              52.009
+            ], 
+            [
+              1.023, 
+              52.009
+            ], 
+            [
+              1.023, 
+              52.000
+            ], 
+            [
+              1.009, 
+              52.000
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 21750, 
+        "name": "Great Wenham", 
+        "adjacent_woeid": [
+          15086, 
+          18902, 
+          23758, 
+          26666, 
+          32988
+        ], 
+        "ne_latitude": 52.009, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.023, 
+        "longitude": 1.015, 
+        "placetype": "Town", 
+        "iso": "GB", 
+        "date_indexed": "2010-12-02T12:18:21Z", 
+        "parent_woeid": 12696080, 
+        "latitude": 52.003, 
+        "sw_longitude": 1.009, 
+        "fullname": "Great Wenham, England, Suffolk, United Kingdom", 
+        "sw_latitude": 52.000
+      }, 
+      "id": 21750
+    }
+  ]
+}

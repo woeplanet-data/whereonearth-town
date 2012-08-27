@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.114, 
+              49.174
+            ], 
+            [
+              -0.114, 
+              49.192
+            ], 
+            [
+              -0.086, 
+              49.192
+            ], 
+            [
+              -0.086, 
+              49.174
+            ], 
+            [
+              -0.114, 
+              49.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603203, 
+        "name": "Le Ham", 
+        "adjacent_woeid": [
+          578353, 
+          582057, 
+          586270, 
+          593295, 
+          594951, 
+          626150, 
+          626475, 
+          626823
+        ], 
+        "ne_latitude": 49.192, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.086, 
+        "longitude": -0.100, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "parent_woeid": 12639998, 
+        "latitude": 49.183, 
+        "sw_longitude": -0.114, 
+        "fullname": "Le Ham, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.174
+      }, 
+      "id": 603203
+    }
+  ]
+}

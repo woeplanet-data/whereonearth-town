@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.765, 
+              9.297
+            ], 
+            [
+              -68.765, 
+              9.311
+            ], 
+            [
+              -68.750, 
+              9.311
+            ], 
+            [
+              -68.750, 
+              9.297
+            ], 
+            [
+              -68.765, 
+              9.297
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 9.311, 
+        "name": "El Amparo", 
+        "adjacent_woeid": [
+          386088, 
+          394165, 
+          395334, 
+          468693, 
+          26806896
+        ], 
+        "woeid": 395326, 
+        "alias_SPA_V": [
+          "Amparo"
+        ], 
+        "ne_longitude": -68.750, 
+        "longitude": -68.757, 
+        "parent_woeid": 26805507, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 9.304, 
+        "sw_longitude": -68.765, 
+        "fullname": "El Amparo, Cojedes, Ricaurte, Venezuela", 
+        "sw_latitude": 9.297
+      }, 
+      "id": 395326
+    }
+  ]
+}

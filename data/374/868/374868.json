@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -78.838, 
+              -2.805
+            ], 
+            [
+              -78.838, 
+              -2.796
+            ], 
+            [
+              -78.829, 
+              -2.796
+            ], 
+            [
+              -78.829, 
+              -2.805
+            ], 
+            [
+              -78.838, 
+              -2.805
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -2.796, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          370645, 
+          372887, 
+          373501, 
+          375747, 
+          375808
+        ], 
+        "woeid": 374868, 
+        "alias_SPA_V": [
+          "S. Miguel de Porotos"
+        ], 
+        "ne_longitude": -78.829, 
+        "longitude": -78.833, 
+        "parent_woeid": 26810460, 
+        "placetype": "Town", 
+        "iso": "EC", 
+        "date_indexed": "2010-12-02T17:51:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -2.800, 
+        "sw_longitude": -78.838, 
+        "fullname": "San Miguel, Canar, Azogues, Ecuador", 
+        "sw_latitude": -2.805
+      }, 
+      "id": 374868
+    }
+  ]
+}

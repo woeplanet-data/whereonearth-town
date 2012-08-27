@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.135, 
+              19.355
+            ], 
+            [
+              -99.135, 
+              19.373
+            ], 
+            [
+              -99.116, 
+              19.373
+            ], 
+            [
+              -99.116, 
+              19.355
+            ], 
+            [
+              -99.135, 
+              19.355
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.373, 
+        "name": "Unidad Modelo", 
+        "adjacent_woeid": [
+          123310, 
+          124794, 
+          126229, 
+          133476, 
+          147482
+        ], 
+        "woeid": 150368, 
+        "alias_SPA_V": [
+          "Colonia Unidad Modelo"
+        ], 
+        "ne_longitude": -99.116, 
+        "longitude": -99.126, 
+        "parent_woeid": 12599942, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.364, 
+        "sw_longitude": -99.135, 
+        "fullname": "Unidad Modelo, Distrito Federal, Iztapalapa, Mexico", 
+        "sw_latitude": 19.355
+      }, 
+      "id": 150368
+    }
+  ]
+}

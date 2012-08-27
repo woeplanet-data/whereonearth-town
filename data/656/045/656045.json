@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.218, 
+              49.633
+            ], 
+            [
+              11.218, 
+              49.657
+            ], 
+            [
+              11.240, 
+              49.657
+            ], 
+            [
+              11.240, 
+              49.633
+            ], 
+            [
+              11.218, 
+              49.633
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 656045, 
+        "name": "Guttenburg", 
+        "adjacent_woeid": [
+          643452, 
+          653738, 
+          665033, 
+          703611
+        ], 
+        "ne_latitude": 49.657, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.240, 
+        "longitude": 11.231, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:04Z", 
+        "parent_woeid": 12634361, 
+        "latitude": 49.645, 
+        "sw_longitude": 11.218, 
+        "fullname": "Guttenburg, Bavaria, Landkreis Forchheim, Germany", 
+        "sw_latitude": 49.633
+      }, 
+      "id": 656045
+    }
+  ]
+}

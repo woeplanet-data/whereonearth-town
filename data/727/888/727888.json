@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.216, 
+              52.100
+            ], 
+            [
+              5.216, 
+              52.127
+            ], 
+            [
+              5.261, 
+              52.127
+            ], 
+            [
+              5.261, 
+              52.100
+            ], 
+            [
+              5.216, 
+              52.100
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DUT", 
+        "woeid": 727888, 
+        "name": "Bosch en Duin", 
+        "adjacent_woeid": [
+          727728, 
+          728639, 
+          730422, 
+          735008
+        ], 
+        "ne_latitude": 52.127, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.261, 
+        "longitude": 5.239, 
+        "placetype": "Town", 
+        "iso": "NL", 
+        "date_indexed": "2010-12-02T18:17:25Z", 
+        "parent_woeid": 12592505, 
+        "latitude": 52.115, 
+        "sw_longitude": 5.216, 
+        "fullname": "Bosch en Duin, Utrecht, Zeist, Netherlands", 
+        "sw_latitude": 52.100
+      }, 
+      "id": 727888
+    }
+  ]
+}

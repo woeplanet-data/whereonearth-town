@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.469, 
+              43.210
+            ], 
+            [
+              -3.469, 
+              43.219
+            ], 
+            [
+              -3.456, 
+              43.219
+            ], 
+            [
+              -3.456, 
+              43.210
+            ], 
+            [
+              -3.469, 
+              43.210
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 43.219, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          760934, 
+          762094, 
+          762590, 
+          764420
+        ], 
+        "woeid": 772912, 
+        "alias_SPA_V": [
+          "S Juan"
+        ], 
+        "ne_longitude": -3.456, 
+        "longitude": -3.463, 
+        "parent_woeid": 12688604, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.214, 
+        "sw_longitude": -3.469, 
+        "fullname": "San Juan, Cantabria, Cantabria, Spain", 
+        "sw_latitude": 43.210
+      }, 
+      "id": 772912
+    }
+  ]
+}

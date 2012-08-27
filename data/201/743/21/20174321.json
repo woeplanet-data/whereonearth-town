@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.852, 
+              52.072
+            ], 
+            [
+              10.852, 
+              52.102
+            ], 
+            [
+              10.885, 
+              52.102
+            ], 
+            [
+              10.885, 
+              52.072
+            ], 
+            [
+              10.852, 
+              52.072
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20174321, 
+        "name": "Siedlung Heeseberg", 
+        "adjacent_woeid": [
+          664089, 
+          20166256
+        ], 
+        "ne_latitude": 52.102, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.885, 
+        "longitude": 10.869, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:27Z", 
+        "parent_woeid": 12630376, 
+        "latitude": 52.088, 
+        "sw_longitude": 10.852, 
+        "fullname": "Siedlung Heeseberg, Lower Saxony, Landkreis Helmstedt, Germany", 
+        "sw_latitude": 52.072
+      }, 
+      "id": 20174321
+    }
+  ]
+}

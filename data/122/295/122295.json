@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.860, 
+              23.141
+            ], 
+            [
+              -99.860, 
+              23.159
+            ], 
+            [
+              -99.840, 
+              23.159
+            ], 
+            [
+              -99.840, 
+              23.141
+            ], 
+            [
+              -99.860, 
+              23.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.159, 
+        "name": "El Salitre", 
+        "adjacent_woeid": [
+          114118, 
+          122312, 
+          123173, 
+          129330, 
+          134485, 
+          145231, 
+          150710
+        ], 
+        "woeid": 122295, 
+        "alias_SPA_V": [
+          "Salitrillo"
+        ], 
+        "ne_longitude": -99.840, 
+        "longitude": -99.850, 
+        "parent_woeid": 12601637, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.150, 
+        "sw_longitude": -99.860, 
+        "fullname": "El Salitre, Tamaulipas, Bustamante, Mexico", 
+        "sw_latitude": 23.141
+      }, 
+      "id": 122295
+    }
+  ]
+}

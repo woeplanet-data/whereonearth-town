@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.377, 
+              48.487
+            ], 
+            [
+              12.377, 
+              48.505
+            ], 
+            [
+              12.404, 
+              48.505
+            ], 
+            [
+              12.404, 
+              48.487
+            ], 
+            [
+              12.377, 
+              48.487
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702399, 
+        "name": "Vilssattling", 
+        "adjacent_woeid": [
+          671603, 
+          685240, 
+          690574, 
+          709297
+        ], 
+        "ne_latitude": 48.505, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.404, 
+        "longitude": 12.391, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12622910, 
+        "latitude": 48.496, 
+        "sw_longitude": 12.377, 
+        "fullname": "Vilssattling, Bavaria, Landkreis Landshut, Germany", 
+        "sw_latitude": 48.487
+      }, 
+      "id": 702399
+    }
+  ]
+}

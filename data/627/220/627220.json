@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.824, 
+              44.283
+            ], 
+            [
+              0.824, 
+              44.293
+            ], 
+            [
+              0.836, 
+              44.293
+            ], 
+            [
+              0.836, 
+              44.283
+            ], 
+            [
+              0.824, 
+              44.283
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627220, 
+        "name": "St.-Victor", 
+        "adjacent_woeid": [
+          583450, 
+          592063, 
+          15002898, 
+          20197414
+        ], 
+        "ne_latitude": 44.293, 
+        "ne_longitude": 0.836, 
+        "longitude": 0.830, 
+        "parent_woeid": 12653294, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Victor"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.288, 
+        "sw_longitude": 0.824, 
+        "fullname": "St.-Victor, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.283
+      }, 
+      "id": 627220
+    }
+  ]
+}

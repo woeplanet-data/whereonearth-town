@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.010, 
+              25.408
+            ], 
+            [
+              -100.010, 
+              25.426
+            ], 
+            [
+              -99.990, 
+              25.426
+            ], 
+            [
+              -99.990, 
+              25.408
+            ], 
+            [
+              -100.010, 
+              25.408
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.426, 
+        "name": "El Cerrito", 
+        "adjacent_woeid": [
+          119184, 
+          130715, 
+          132389, 
+          132400, 
+          141576, 
+          143277, 
+          146263
+        ], 
+        "woeid": 119666, 
+        "alias_SPA_V": [
+          "Cerritos"
+        ], 
+        "ne_longitude": -99.990, 
+        "longitude": -100.000, 
+        "parent_woeid": 12600613, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.417, 
+        "sw_longitude": -100.010, 
+        "fullname": "El Cerrito, Nuevo Leon, Cadereyta Jimenez, Mexico", 
+        "sw_latitude": 25.408
+      }, 
+      "id": 119666
+    }
+  ]
+}

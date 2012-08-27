@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.093, 
+              51.256
+            ], 
+            [
+              10.093, 
+              51.279
+            ], 
+            [
+              10.121, 
+              51.279
+            ], 
+            [
+              10.121, 
+              51.256
+            ], 
+            [
+              10.093, 
+              51.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706374, 
+        "name": "Wiesenfeld", 
+        "adjacent_woeid": [
+          644702, 
+          670916, 
+          690539, 
+          693995, 
+          694692, 
+          702629, 
+          20173510
+        ], 
+        "ne_latitude": 51.279, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.121, 
+        "longitude": 10.110, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12624723, 
+        "latitude": 51.270, 
+        "sw_longitude": 10.093, 
+        "fullname": "Wiesenfeld, Thuringia, Eichsfeld, Germany", 
+        "sw_latitude": 51.256
+      }, 
+      "id": 706374
+    }
+  ]
+}

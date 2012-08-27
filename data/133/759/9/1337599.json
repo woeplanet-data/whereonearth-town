@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -11.950, 
+              11.747
+            ], 
+            [
+              -11.950, 
+              11.763
+            ], 
+            [
+              -11.933, 
+              11.763
+            ], 
+            [
+              -11.933, 
+              11.747
+            ], 
+            [
+              -11.950, 
+              11.747
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1337599, 
+        "name": "Missira", 
+        "adjacent_woeid": [
+          1335350, 
+          1335662, 
+          1337548
+        ], 
+        "ne_latitude": 11.763, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -11.933, 
+        "longitude": -11.941, 
+        "placetype": "Town", 
+        "iso": "GN", 
+        "date_indexed": "2010-12-02T16:11:56Z", 
+        "parent_woeid": 56061085, 
+        "latitude": 11.755, 
+        "sw_longitude": -11.950, 
+        "fullname": "Missira, Lab\u00e9, Mali, Guinea", 
+        "sw_latitude": 11.747
+      }, 
+      "id": 1337599
+    }
+  ]
+}

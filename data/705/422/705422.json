@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.030, 
+              51.612
+            ], 
+            [
+              12.030, 
+              51.621
+            ], 
+            [
+              12.044, 
+              51.621
+            ], 
+            [
+              12.044, 
+              51.612
+            ], 
+            [
+              12.030, 
+              51.612
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705422, 
+        "name": "Werben", 
+        "adjacent_woeid": [
+          653607, 
+          676333, 
+          683807, 
+          698033
+        ], 
+        "ne_latitude": 51.621, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.044, 
+        "longitude": 12.037, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12625998, 
+        "latitude": 51.617, 
+        "sw_longitude": 12.030, 
+        "fullname": "Werben, Saxony-Anhalt, Landkreis Bitterfeld, Germany", 
+        "sw_latitude": 51.612
+      }, 
+      "id": 705422
+    }
+  ]
+}

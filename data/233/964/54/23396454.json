@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.674, 
+              45.165
+            ], 
+            [
+              -72.674, 
+              45.183
+            ], 
+            [
+              -72.648, 
+              45.183
+            ], 
+            [
+              -72.648, 
+              45.165
+            ], 
+            [
+              -72.674, 
+              45.165
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396454, 
+        "name": "West Brome", 
+        "adjacent_woeid": [
+          3565, 
+          3572, 
+          23394297, 
+          23394648
+        ], 
+        "ne_latitude": 45.183, 
+        "ne_longitude": -72.648, 
+        "longitude": -72.661, 
+        "parent_woeid": 29375053, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "W Brome"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.174, 
+        "sw_longitude": -72.674, 
+        "fullname": "West Brome, Quebec, Brome-Missisquoi, Canada", 
+        "sw_latitude": 45.165
+      }, 
+      "id": 23396454
+    }
+  ]
+}

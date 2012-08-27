@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -106.344, 
+              27.158
+            ], 
+            [
+              -106.344, 
+              27.176
+            ], 
+            [
+              -106.323, 
+              27.176
+            ], 
+            [
+              -106.323, 
+              27.158
+            ], 
+            [
+              -106.344, 
+              27.158
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.176, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          113057, 
+          124303, 
+          130301, 
+          143065, 
+          150501
+        ], 
+        "woeid": 142767, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -106.323, 
+        "longitude": -106.333, 
+        "parent_woeid": 12599875, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.167, 
+        "sw_longitude": -106.344, 
+        "fullname": "San Ignacio, Chihuahua, Rosario, Mexico", 
+        "sw_latitude": 27.158
+      }, 
+      "id": 142767
+    }
+  ]
+}

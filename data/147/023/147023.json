@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.926, 
+              20.391
+            ], 
+            [
+              -102.926, 
+              20.409
+            ], 
+            [
+              -102.907, 
+              20.409
+            ], 
+            [
+              -102.907, 
+              20.391
+            ], 
+            [
+              -102.926, 
+              20.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.409, 
+        "name": "Santiago", 
+        "adjacent_woeid": [
+          111260, 
+          111649, 
+          126953, 
+          145085, 
+          146040, 
+          146417, 
+          151675
+        ], 
+        "woeid": 147023, 
+        "alias_SPA_V": [
+          "Santiago Totolimixpa"
+        ], 
+        "ne_longitude": -102.907, 
+        "longitude": -102.917, 
+        "parent_woeid": 12600316, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.400, 
+        "sw_longitude": -102.926, 
+        "fullname": "Santiago, Jalisco, Zapotlan del Rey, Mexico", 
+        "sw_latitude": 20.391
+      }, 
+      "id": 147023
+    }
+  ]
+}

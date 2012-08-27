@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.761, 
+              41.731
+            ], 
+            [
+              -73.761, 
+              41.850
+            ], 
+            [
+              -73.584, 
+              41.850
+            ], 
+            [
+              -73.584, 
+              41.731
+            ], 
+            [
+              -73.761, 
+              41.731
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745005, 
+        "name": "Washington", 
+        "adjacent_woeid": [
+          2514981, 
+          28744970, 
+          28744973, 
+          28745007
+        ], 
+        "ne_latitude": 41.850, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Washington, Town Of"
+        ], 
+        "ne_longitude": -73.584, 
+        "longitude": -73.662, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589325, 
+        "latitude": 41.792, 
+        "sw_longitude": -73.761, 
+        "fullname": "Washington, New York, Dutchess, United States", 
+        "sw_latitude": 41.731
+      }, 
+      "id": 28745005
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.663, 
+              -33.511
+            ], 
+            [
+              -70.663, 
+              -33.492
+            ], 
+            [
+              -70.641, 
+              -33.492
+            ], 
+            [
+              -70.641, 
+              -33.511
+            ], 
+            [
+              -70.663, 
+              -33.511
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.492, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          347732, 
+          347983, 
+          348015, 
+          348745, 
+          349432, 
+          349486
+        ], 
+        "woeid": 349463, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -70.641, 
+        "longitude": -70.652, 
+        "parent_woeid": 26794306, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.502, 
+        "sw_longitude": -70.663, 
+        "fullname": "San Miguel, Santiago Metropolitan Region, Santiago Province, Chile", 
+        "sw_latitude": -33.511
+      }, 
+      "id": 349463
+    }
+  ]
+}

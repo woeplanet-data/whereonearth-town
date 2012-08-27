@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.123, 
+              44.225
+            ], 
+            [
+              -0.123, 
+              44.271
+            ], 
+            [
+              -0.053, 
+              44.271
+            ], 
+            [
+              -0.053, 
+              44.225
+            ], 
+            [
+              -0.123, 
+              44.225
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601568, 
+        "name": "Lartigue", 
+        "adjacent_woeid": [
+          575804, 
+          592942, 
+          616661, 
+          625976
+        ], 
+        "ne_latitude": 44.271, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.053, 
+        "longitude": -0.096, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12647073, 
+        "latitude": 44.250, 
+        "sw_longitude": -0.123, 
+        "fullname": "Lartigue, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.225
+      }, 
+      "id": 601568
+    }
+  ]
+}

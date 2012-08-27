@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.704, 
+              47.536
+            ], 
+            [
+              3.704, 
+              47.567
+            ], 
+            [
+              3.738, 
+              47.567
+            ], 
+            [
+              3.738, 
+              47.536
+            ], 
+            [
+              3.704, 
+              47.536
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580398, 
+        "name": "Bois-d'Arcy", 
+        "adjacent_woeid": [
+          580159, 
+          590554, 
+          599347, 
+          605336, 
+          612809, 
+          20216253, 
+          29332177
+        ], 
+        "ne_latitude": 47.567, 
+        "ne_longitude": 3.738, 
+        "longitude": 3.715, 
+        "parent_woeid": 12639179, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bois d Arcy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.546, 
+        "sw_longitude": 3.704, 
+        "fullname": "Bois-d'Arcy, Burgundy, Yonne, France", 
+        "sw_latitude": 47.536
+      }, 
+      "id": 580398
+    }
+  ]
+}

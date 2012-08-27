@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.406, 
+              29.031
+            ], 
+            [
+              -109.406, 
+              29.050
+            ], 
+            [
+              -109.385, 
+              29.050
+            ], 
+            [
+              -109.385, 
+              29.031
+            ], 
+            [
+              -109.406, 
+              29.031
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.050, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          112865, 
+          121133, 
+          129053, 
+          137672, 
+          141122
+        ], 
+        "woeid": 146983, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -109.385, 
+        "longitude": -109.396, 
+        "parent_woeid": 12601553, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.040, 
+        "sw_longitude": -109.406, 
+        "fullname": "Santa Teresa, Sonora, Bacanora, Mexico", 
+        "sw_latitude": 29.031
+      }, 
+      "id": 146983
+    }
+  ]
+}

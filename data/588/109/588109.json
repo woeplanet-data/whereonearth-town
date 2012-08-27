@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.506, 
+              47.145
+            ], 
+            [
+              3.506, 
+              47.178
+            ], 
+            [
+              3.538, 
+              47.178
+            ], 
+            [
+              3.538, 
+              47.145
+            ], 
+            [
+              3.506, 
+              47.145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588109, 
+        "name": "Crux-la-Ville", 
+        "adjacent_woeid": [
+          578542, 
+          613554, 
+          624054, 
+          625819, 
+          626739, 
+          632490, 
+          20214586
+        ], 
+        "ne_latitude": 47.178, 
+        "ne_longitude": 3.538, 
+        "longitude": 3.519, 
+        "parent_woeid": 12642640, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Crux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.161, 
+        "sw_longitude": 3.506, 
+        "fullname": "Crux-la-Ville, Burgundy, Nievre, France", 
+        "sw_latitude": 47.145
+      }, 
+      "id": 588109
+    }
+  ]
+}

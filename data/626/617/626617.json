@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.629, 
+              46.222
+            ], 
+            [
+              3.629, 
+              46.244
+            ], 
+            [
+              3.665, 
+              46.244
+            ], 
+            [
+              3.665, 
+              46.222
+            ], 
+            [
+              3.629, 
+              46.222
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626617, 
+        "name": "St.-Prix", 
+        "adjacent_woeid": [
+          578228, 
+          589213, 
+          602310, 
+          623460, 
+          20205304
+        ], 
+        "ne_latitude": 46.244, 
+        "ne_longitude": 3.665, 
+        "longitude": 3.651, 
+        "parent_woeid": 22755319, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Prix"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.232, 
+        "sw_longitude": 3.629, 
+        "fullname": "St.-Prix, Auvergne, Allier, France", 
+        "sw_latitude": 46.222
+      }, 
+      "id": 626617
+    }
+  ]
+}

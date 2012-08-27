@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.503, 
+              42.759
+            ], 
+            [
+              2.503, 
+              42.791
+            ], 
+            [
+              2.560, 
+              42.791
+            ], 
+            [
+              2.560, 
+              42.759
+            ], 
+            [
+              2.503, 
+              42.759
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623029, 
+        "name": "St.-Arnac", 
+        "adjacent_woeid": [
+          576248, 
+          583025, 
+          601355, 
+          607756, 
+          29331893
+        ], 
+        "ne_latitude": 42.791, 
+        "ne_longitude": 2.560, 
+        "longitude": 2.531, 
+        "parent_woeid": 12670139, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Arnac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.780, 
+        "sw_longitude": 2.503, 
+        "fullname": "St.-Arnac, Languedoc-Roussillon, Pyrenees-Orientales, France", 
+        "sw_latitude": 42.759
+      }, 
+      "id": 623029
+    }
+  ]
+}

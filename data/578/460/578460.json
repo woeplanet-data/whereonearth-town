@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.886, 
+              50.502
+            ], 
+            [
+              2.886, 
+              50.523
+            ], 
+            [
+              2.907, 
+              50.523
+            ], 
+            [
+              2.907, 
+              50.502
+            ], 
+            [
+              2.886, 
+              50.502
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 578460, 
+        "name": "Bauvin", 
+        "adjacent_woeid": [
+          576219, 
+          577133, 
+          579966, 
+          611346, 
+          618161, 
+          620651, 
+          632941
+        ], 
+        "ne_latitude": 50.523, 
+        "ne_longitude": 2.907, 
+        "longitude": 2.898, 
+        "parent_woeid": 12656388, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Beauvin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.514, 
+        "sw_longitude": 2.886, 
+        "fullname": "Bauvin, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.502
+      }, 
+      "id": 578460
+    }
+  ]
+}

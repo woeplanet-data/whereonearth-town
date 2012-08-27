@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.513, 
+              48.647
+            ], 
+            [
+              13.513, 
+              48.656
+            ], 
+            [
+              13.527, 
+              48.656
+            ], 
+            [
+              13.527, 
+              48.647
+            ], 
+            [
+              13.513, 
+              48.647
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 694000, 
+        "name": "Schwolgau", 
+        "adjacent_woeid": [
+          649073, 
+          656761, 
+          664750, 
+          675613, 
+          698613, 
+          703908
+        ], 
+        "ne_latitude": 48.656, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.527, 
+        "longitude": 13.520, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12622934, 
+        "latitude": 48.652, 
+        "sw_longitude": 13.513, 
+        "fullname": "Schwolgau, Bavaria, Landkreis Passau, Germany", 
+        "sw_latitude": 48.647
+      }, 
+      "id": 694000
+    }
+  ]
+}

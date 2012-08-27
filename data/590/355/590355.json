@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.665, 
+              42.919
+            ], 
+            [
+              0.665, 
+              42.932
+            ], 
+            [
+              0.705, 
+              42.932
+            ], 
+            [
+              0.705, 
+              42.919
+            ], 
+            [
+              0.665, 
+              42.919
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590355, 
+        "name": "Eup", 
+        "adjacent_woeid": [
+          585205, 
+          20192639, 
+          22656944, 
+          29331576
+        ], 
+        "ne_latitude": 42.932, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.705, 
+        "longitude": 0.692, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12661144, 
+        "latitude": 42.928, 
+        "sw_longitude": 0.665, 
+        "fullname": "Eup, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 42.919
+      }, 
+      "id": 590355
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.124, 
+              48.663
+            ], 
+            [
+              5.124, 
+              48.733
+            ], 
+            [
+              5.208, 
+              48.733
+            ], 
+            [
+              5.208, 
+              48.663
+            ], 
+            [
+              5.124, 
+              48.663
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613000, 
+        "name": "Montplonne", 
+        "adjacent_woeid": [
+          578525, 
+          581991, 
+          586605, 
+          601913, 
+          608533, 
+          613850, 
+          621446, 
+          627347, 
+          628041
+        ], 
+        "ne_latitude": 48.733, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.208, 
+        "longitude": 5.169, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "parent_woeid": 12667202, 
+        "latitude": 48.688, 
+        "sw_longitude": 5.124, 
+        "fullname": "Montplonne, Lorraine, Meuse, France", 
+        "sw_latitude": 48.663
+      }, 
+      "id": 613000
+    }
+  ]
+}

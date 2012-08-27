@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.239, 
+              52.486
+            ], 
+            [
+              10.239, 
+              52.519
+            ], 
+            [
+              10.283, 
+              52.519
+            ], 
+            [
+              10.283, 
+              52.486
+            ], 
+            [
+              10.239, 
+              52.486
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706200, 
+        "name": "Wiedenrode", 
+        "adjacent_woeid": [
+          639695, 
+          647790, 
+          649589, 
+          20166409, 
+          20166625, 
+          20174309, 
+          23411560
+        ], 
+        "ne_latitude": 52.519, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.283, 
+        "longitude": 10.265, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:09Z", 
+        "parent_woeid": 12629586, 
+        "latitude": 52.511, 
+        "sw_longitude": 10.239, 
+        "fullname": "Wiedenrode, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.486
+      }, 
+      "id": 706200
+    }
+  ]
+}

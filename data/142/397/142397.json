@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.491, 
+              25.566
+            ], 
+            [
+              -108.491, 
+              25.584
+            ], 
+            [
+              -108.471, 
+              25.584
+            ], 
+            [
+              -108.471, 
+              25.566
+            ], 
+            [
+              -108.491, 
+              25.566
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.584, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          113735, 
+          123817, 
+          124475, 
+          125257, 
+          127438
+        ], 
+        "woeid": 142397, 
+        "alias_SPA_V": [
+          "S. Fernando"
+        ], 
+        "ne_longitude": -108.471, 
+        "longitude": -108.481, 
+        "parent_woeid": 12601537, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.575, 
+        "sw_longitude": -108.491, 
+        "fullname": "San Fernando, Sinaloa, Guasave, Mexico", 
+        "sw_latitude": 25.566
+      }, 
+      "id": 142397
+    }
+  ]
+}

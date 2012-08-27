@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.777, 
+              52.194
+            ], 
+            [
+              13.777, 
+              52.234
+            ], 
+            [
+              13.836, 
+              52.234
+            ], 
+            [
+              13.836, 
+              52.194
+            ], 
+            [
+              13.777, 
+              52.194
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666337, 
+        "name": "Klein Eichholz", 
+        "adjacent_woeid": [
+          642779, 
+          653396, 
+          667837, 
+          694419, 
+          697765
+        ], 
+        "ne_latitude": 52.234, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.836, 
+        "longitude": 13.829, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 28350180, 
+        "latitude": 52.218, 
+        "sw_longitude": 13.777, 
+        "fullname": "Klein Eichholz, Brandenburg, Dahme-Spreewald, Germany", 
+        "sw_latitude": 52.194
+      }, 
+      "id": 666337
+    }
+  ]
+}

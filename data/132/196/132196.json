@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.827, 
+              23.674
+            ], 
+            [
+              -105.827, 
+              23.692
+            ], 
+            [
+              -105.807, 
+              23.692
+            ], 
+            [
+              -105.807, 
+              23.674
+            ], 
+            [
+              -105.827, 
+              23.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.692, 
+        "name": "Los Negros", 
+        "adjacent_woeid": [
+          115782, 
+          120251, 
+          124553, 
+          126912, 
+          146321, 
+          147415
+        ], 
+        "woeid": 132196, 
+        "alias_SPA_V": [
+          "Negros"
+        ], 
+        "ne_longitude": -105.807, 
+        "longitude": -105.817, 
+        "parent_woeid": 12599976, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.683, 
+        "sw_longitude": -105.827, 
+        "fullname": "Los Negros, Durango, San Dimas, Mexico", 
+        "sw_latitude": 23.674
+      }, 
+      "id": 132196
+    }
+  ]
+}

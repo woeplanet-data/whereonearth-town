@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.518, 
+              48.696
+            ], 
+            [
+              10.518, 
+              48.728
+            ], 
+            [
+              10.539, 
+              48.728
+            ], 
+            [
+              10.539, 
+              48.696
+            ], 
+            [
+              10.518, 
+              48.696
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671001, 
+        "name": "Leiheim", 
+        "adjacent_woeid": [
+          701207, 
+          701421, 
+          704004, 
+          709144
+        ], 
+        "ne_latitude": 48.728, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.539, 
+        "longitude": 10.530, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:20Z", 
+        "parent_woeid": 12634799, 
+        "latitude": 48.722, 
+        "sw_longitude": 10.518, 
+        "fullname": "Leiheim, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.696
+      }, 
+      "id": 671001
+    }
+  ]
+}

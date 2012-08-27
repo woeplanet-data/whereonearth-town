@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.143, 
+              26.174
+            ], 
+            [
+              -107.143, 
+              26.192
+            ], 
+            [
+              -107.123, 
+              26.192
+            ], 
+            [
+              -107.123, 
+              26.174
+            ], 
+            [
+              -107.143, 
+              26.174
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.192, 
+        "name": "Santa Rita", 
+        "adjacent_woeid": [
+          116488, 
+          117888, 
+          118257, 
+          121120, 
+          131197, 
+          148012
+        ], 
+        "woeid": 146657, 
+        "alias_SPA_V": [
+          "Sta Rita"
+        ], 
+        "ne_longitude": -107.123, 
+        "longitude": -107.133, 
+        "parent_woeid": 12599847, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.183, 
+        "sw_longitude": -107.143, 
+        "fullname": "Santa Rita, Chihuahua, Guadalupe y Calvo, Mexico", 
+        "sw_latitude": 26.174
+      }, 
+      "id": 146657
+    }
+  ]
+}

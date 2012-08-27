@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.060, 
+              24.474
+            ], 
+            [
+              -99.060, 
+              24.492
+            ], 
+            [
+              -99.040, 
+              24.492
+            ], 
+            [
+              -99.040, 
+              24.474
+            ], 
+            [
+              -99.060, 
+              24.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.492, 
+        "name": "La Gavia", 
+        "adjacent_woeid": [
+          113064, 
+          122389, 
+          131540, 
+          133023, 
+          145219, 
+          146944
+        ], 
+        "woeid": 127541, 
+        "alias_SPA_V": [
+          "La Cavia"
+        ], 
+        "ne_longitude": -99.040, 
+        "longitude": -99.050, 
+        "parent_woeid": 12601665, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.483, 
+        "sw_longitude": -99.060, 
+        "fullname": "La Gavia, Tamaulipas, San Carlos, Mexico", 
+        "sw_latitude": 24.474
+      }, 
+      "id": 127541
+    }
+  ]
+}

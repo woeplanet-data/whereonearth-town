@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.308, 
+              43.638
+            ], 
+            [
+              1.308, 
+              43.660
+            ], 
+            [
+              1.341, 
+              43.660
+            ], 
+            [
+              1.341, 
+              43.638
+            ], 
+            [
+              1.308, 
+              43.638
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587037, 
+        "name": "Cornebarrieu", 
+        "adjacent_woeid": [
+          20193005, 
+          20193008, 
+          29331554, 
+          29332025, 
+          55863628
+        ], 
+        "ne_latitude": 43.660, 
+        "ne_longitude": 1.341, 
+        "longitude": 1.326, 
+        "parent_woeid": 12659872, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Cornebarrien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.650, 
+        "sw_longitude": 1.308, 
+        "fullname": "Cornebarrieu, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.638
+      }, 
+      "id": 587037
+    }
+  ]
+}

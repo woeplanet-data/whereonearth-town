@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -110.451, 
+              29.383
+            ], 
+            [
+              -110.451, 
+              29.401
+            ], 
+            [
+              -110.430, 
+              29.401
+            ], 
+            [
+              -110.430, 
+              29.383
+            ], 
+            [
+              -110.451, 
+              29.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 29.401, 
+        "name": "La Estancia", 
+        "adjacent_woeid": [
+          122430, 
+          124171, 
+          131963, 
+          140374, 
+          144921, 
+          146999, 
+          150394
+        ], 
+        "woeid": 127351, 
+        "alias_SPA_V": [
+          "Estanica"
+        ], 
+        "ne_longitude": -110.430, 
+        "longitude": -110.440, 
+        "parent_woeid": 12601611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 29.392, 
+        "sw_longitude": -110.451, 
+        "fullname": "La Estancia, Sonora, Ures, Mexico", 
+        "sw_latitude": 29.383
+      }, 
+      "id": 127351
+    }
+  ]
+}

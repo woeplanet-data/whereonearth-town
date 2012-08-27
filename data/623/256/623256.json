@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.010, 
+              47.144
+            ], 
+            [
+              5.010, 
+              47.173
+            ], 
+            [
+              5.046, 
+              47.173
+            ], 
+            [
+              5.046, 
+              47.144
+            ], 
+            [
+              5.010, 
+              47.144
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623256, 
+        "name": "St.-Bernard", 
+        "adjacent_woeid": [
+          589761, 
+          591025, 
+          631601
+        ], 
+        "ne_latitude": 47.173, 
+        "ne_longitude": 5.046, 
+        "longitude": 5.017, 
+        "parent_woeid": 12652248, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Bernard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.157, 
+        "sw_longitude": 5.010, 
+        "fullname": "St.-Bernard, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.144
+      }, 
+      "id": 623256
+    }
+  ]
+}

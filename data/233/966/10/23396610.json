@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.415, 
+              45.784
+            ], 
+            [
+              -73.415, 
+              45.871
+            ], 
+            [
+              -73.293, 
+              45.871
+            ], 
+            [
+              -73.293, 
+              45.784
+            ], 
+            [
+              -73.415, 
+              45.784
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23396610, 
+        "name": "St.-Sulpice", 
+        "adjacent_woeid": [
+          838, 
+          23396680
+        ], 
+        "ne_latitude": 45.871, 
+        "ne_longitude": -73.293, 
+        "longitude": -73.355, 
+        "parent_woeid": 29375179, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Sulpice"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.827, 
+        "sw_longitude": -73.415, 
+        "fullname": "St.-Sulpice, Quebec, l'Assomption, Canada", 
+        "sw_latitude": 45.784
+      }, 
+      "id": 23396610
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.035, 
+              49.185
+            ], 
+            [
+              0.035, 
+              49.202
+            ], 
+            [
+              0.059, 
+              49.202
+            ], 
+            [
+              0.059, 
+              49.185
+            ], 
+            [
+              0.035, 
+              49.185
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 619185, 
+        "name": "Repentigny", 
+        "adjacent_woeid": [
+          577467, 
+          578641, 
+          605026, 
+          620479
+        ], 
+        "ne_latitude": 49.202, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.059, 
+        "longitude": 0.046, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 12651237, 
+        "latitude": 49.193, 
+        "sw_longitude": 0.035, 
+        "fullname": "Repentigny, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.185
+      }, 
+      "id": 619185
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -76.565, 
+              38.925
+            ], 
+            [
+              -76.565, 
+              38.962
+            ], 
+            [
+              -76.511, 
+              38.962
+            ], 
+            [
+              -76.511, 
+              38.925
+            ], 
+            [
+              -76.565, 
+              38.925
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2441307, 
+        "name": "London Towne", 
+        "adjacent_woeid": [
+          2374654, 
+          2392920, 
+          2410417, 
+          2410679, 
+          2422231, 
+          2472480
+        ], 
+        "ne_latitude": 38.962, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Londontowne"
+        ], 
+        "ne_longitude": -76.511, 
+        "longitude": -76.539, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:28:19Z", 
+        "parent_woeid": 12588677, 
+        "latitude": 38.939, 
+        "sw_longitude": -76.565, 
+        "fullname": "London Towne, Maryland, Anne Arundel, United States", 
+        "sw_latitude": 38.925
+      }, 
+      "id": 2441307
+    }
+  ]
+}

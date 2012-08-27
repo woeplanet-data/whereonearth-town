@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.623, 
+              45.573
+            ], 
+            [
+              0.623, 
+              45.602
+            ], 
+            [
+              0.649, 
+              45.602
+            ], 
+            [
+              0.649, 
+              45.573
+            ], 
+            [
+              0.623, 
+              45.573
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602211, 
+        "name": "Le Bourdeix", 
+        "adjacent_woeid": [
+          577203, 
+          590293, 
+          595490, 
+          623860, 
+          625745, 
+          628310
+        ], 
+        "ne_latitude": 45.602, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.649, 
+        "longitude": 0.633, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12647208, 
+        "latitude": 45.589, 
+        "sw_longitude": 0.623, 
+        "fullname": "Le Bourdeix, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.573
+      }, 
+      "id": 602211
+    }
+  ]
+}

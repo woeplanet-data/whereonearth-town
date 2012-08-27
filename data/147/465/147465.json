@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.393, 
+              20.191
+            ], 
+            [
+              -99.393, 
+              20.209
+            ], 
+            [
+              -99.374, 
+              20.209
+            ], 
+            [
+              -99.374, 
+              20.191
+            ], 
+            [
+              -99.393, 
+              20.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 147465, 
+        "name": "Sayula", 
+        "adjacent_woeid": [
+          115652, 
+          142702, 
+          146481, 
+          148896
+        ], 
+        "ne_latitude": 20.209, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -99.374, 
+        "longitude": -99.383, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "parent_woeid": 12600173, 
+        "latitude": 20.200, 
+        "sw_longitude": -99.393, 
+        "fullname": "Sayula, Hidalgo, Tepetitlan, Mexico", 
+        "sw_latitude": 20.191
+      }, 
+      "id": 147465
+    }
+  ]
+}

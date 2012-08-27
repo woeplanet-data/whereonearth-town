@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.260, 
+              19.458
+            ], 
+            [
+              -99.260, 
+              19.476
+            ], 
+            [
+              -99.240, 
+              19.476
+            ], 
+            [
+              -99.240, 
+              19.458
+            ], 
+            [
+              -99.260, 
+              19.458
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.476, 
+        "name": "Los Remedios", 
+        "adjacent_woeid": [
+          131385, 
+          141897, 
+          144440, 
+          144680
+        ], 
+        "woeid": 132359, 
+        "alias_SPA_V": [
+          "Remedios"
+        ], 
+        "ne_longitude": -99.240, 
+        "longitude": -99.254, 
+        "parent_woeid": 12600377, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.469, 
+        "sw_longitude": -99.260, 
+        "fullname": "Los Remedios, Mexico, Naucalpan de Juarez, Mexico", 
+        "sw_latitude": 19.458
+      }, 
+      "id": 132359
+    }
+  ]
+}

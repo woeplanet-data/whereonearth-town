@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.204, 
+              20.802
+            ], 
+            [
+              -105.204, 
+              20.830
+            ], 
+            [
+              -105.180, 
+              20.830
+            ], 
+            [
+              -105.180, 
+              20.802
+            ], 
+            [
+              -105.204, 
+              20.802
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.830, 
+        "name": "San Juan de Abajo", 
+        "adjacent_woeid": [
+          116236, 
+          119864, 
+          119881, 
+          121835, 
+          130735
+        ], 
+        "woeid": 143857, 
+        "alias_SPA_V": [
+          "S Juan de Abajo"
+        ], 
+        "ne_longitude": -105.180, 
+        "longitude": -105.189, 
+        "parent_woeid": 12600589, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.821, 
+        "sw_longitude": -105.204, 
+        "fullname": "San Juan de Abajo, Nayarit, Bahia de Banderas, Mexico", 
+        "sw_latitude": 20.802
+      }, 
+      "id": 143857
+    }
+  ]
+}

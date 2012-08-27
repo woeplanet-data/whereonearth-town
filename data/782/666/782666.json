@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.272, 
+              46.463
+            ], 
+            [
+              7.272, 
+              46.484
+            ], 
+            [
+              7.307, 
+              46.484
+            ], 
+            [
+              7.307, 
+              46.463
+            ], 
+            [
+              7.272, 
+              46.463
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 782666, 
+        "name": "Gstaad", 
+        "adjacent_woeid": [
+          782799, 
+          782880, 
+          783978, 
+          784113, 
+          784120, 
+          15001172, 
+          20101988, 
+          20103185
+        ], 
+        "ne_latitude": 46.484, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.307, 
+        "longitude": 7.284, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:06Z", 
+        "parent_woeid": 12682700, 
+        "latitude": 46.476, 
+        "sw_longitude": 7.272, 
+        "fullname": "Gstaad, Canton of Berne, Saanen, Switzerland", 
+        "sw_latitude": 46.463
+      }, 
+      "id": 782666
+    }
+  ]
+}

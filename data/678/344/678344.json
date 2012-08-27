@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.987, 
+              48.250
+            ], 
+            [
+              11.987, 
+              48.269
+            ], 
+            [
+              12.000, 
+              48.269
+            ], 
+            [
+              12.000, 
+              48.250
+            ], 
+            [
+              11.987, 
+              48.250
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678344, 
+        "name": "Neufahrn", 
+        "adjacent_woeid": [
+          640966, 
+          656876, 
+          667841, 
+          669321
+        ], 
+        "ne_latitude": 48.269, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.000, 
+        "longitude": 11.994, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:54Z", 
+        "parent_woeid": 12635160, 
+        "latitude": 48.259, 
+        "sw_longitude": 11.987, 
+        "fullname": "Neufahrn, Bavaria, Landkreis Erding, Germany", 
+        "sw_latitude": 48.250
+      }, 
+      "id": 678344
+    }
+  ]
+}

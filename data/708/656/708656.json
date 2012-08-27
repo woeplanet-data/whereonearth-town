@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.229, 
+              50.068
+            ], 
+            [
+              10.229, 
+              50.126
+            ], 
+            [
+              10.261, 
+              50.126
+            ], 
+            [
+              10.261, 
+              50.068
+            ], 
+            [
+              10.229, 
+              50.068
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 708656, 
+        "name": "Zell", 
+        "adjacent_woeid": [
+          656936, 
+          704857
+        ], 
+        "ne_latitude": 50.126, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.261, 
+        "longitude": 10.250, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12635435, 
+        "latitude": 50.096, 
+        "sw_longitude": 10.229, 
+        "fullname": "Zell, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 50.068
+      }, 
+      "id": 708656
+    }
+  ]
+}

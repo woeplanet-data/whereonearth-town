@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.293, 
+              53.145
+            ], 
+            [
+              7.293, 
+              53.165
+            ], 
+            [
+              7.324, 
+              53.165
+            ], 
+            [
+              7.324, 
+              53.145
+            ], 
+            [
+              7.293, 
+              53.145
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661762, 
+        "name": "Holthusen", 
+        "adjacent_woeid": [
+          639861, 
+          661765, 
+          696338, 
+          704284
+        ], 
+        "ne_latitude": 53.165, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.324, 
+        "longitude": 7.316, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12629977, 
+        "latitude": 53.150, 
+        "sw_longitude": 7.293, 
+        "fullname": "Holthusen, Lower Saxony, Landkreis Leer, Germany", 
+        "sw_latitude": 53.145
+      }, 
+      "id": 661762
+    }
+  ]
+}

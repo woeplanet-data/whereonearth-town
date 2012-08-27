@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.381, 
+              49.351
+            ], 
+            [
+              10.381, 
+              49.371
+            ], 
+            [
+              10.404, 
+              49.371
+            ], 
+            [
+              10.404, 
+              49.351
+            ], 
+            [
+              10.381, 
+              49.351
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700937, 
+        "name": "Unterfelden", 
+        "adjacent_woeid": [
+          638793, 
+          639038, 
+          681169, 
+          701056
+        ], 
+        "ne_latitude": 49.371, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.404, 
+        "longitude": 10.390, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12634393, 
+        "latitude": 49.362, 
+        "sw_longitude": 10.381, 
+        "fullname": "Unterfelden, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.351
+      }, 
+      "id": 700937
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.056, 
+              50.642
+            ], 
+            [
+              3.056, 
+              50.666
+            ], 
+            [
+              3.085, 
+              50.666
+            ], 
+            [
+              3.085, 
+              50.642
+            ], 
+            [
+              3.056, 
+              50.642
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863495, 
+        "name": "La Madeleine", 
+        "adjacent_woeid": [
+          55863530, 
+          55863579
+        ], 
+        "ne_latitude": 50.666, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.085, 
+        "longitude": 3.074, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "parent_woeid": 12663778, 
+        "latitude": 50.655, 
+        "sw_longitude": 3.056, 
+        "fullname": "La Madeleine, Lille, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.642
+      }, 
+      "id": 55863495
+    }
+  ]
+}

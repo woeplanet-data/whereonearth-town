@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.404, 
+              45.525
+            ], 
+            [
+              5.404, 
+              45.543
+            ], 
+            [
+              5.430, 
+              45.543
+            ], 
+            [
+              5.430, 
+              45.525
+            ], 
+            [
+              5.404, 
+              45.525
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330139, 
+        "name": "Patton", 
+        "adjacent_woeid": [
+          627223, 
+          627402, 
+          628785, 
+          29330138
+        ], 
+        "ne_latitude": 45.543, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.430, 
+        "longitude": 5.417, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "parent_woeid": 12664951, 
+        "latitude": 45.534, 
+        "sw_longitude": 5.404, 
+        "fullname": "Patton, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.525
+      }, 
+      "id": 29330139
+    }
+  ]
+}

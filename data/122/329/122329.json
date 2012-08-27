@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.693, 
+              23.208
+            ], 
+            [
+              -109.693, 
+              23.226
+            ], 
+            [
+              -109.673, 
+              23.226
+            ], 
+            [
+              -109.673, 
+              23.208
+            ], 
+            [
+              -109.693, 
+              23.208
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.226, 
+        "name": "El Salto", 
+        "adjacent_woeid": [
+          128602, 
+          128610, 
+          130149, 
+          145721, 
+          145802
+        ], 
+        "woeid": 122329, 
+        "alias_SPA_V": [
+          "Salto"
+        ], 
+        "ne_longitude": -109.673, 
+        "longitude": -109.683, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.217, 
+        "sw_longitude": -109.693, 
+        "fullname": "El Salto, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 23.208
+      }, 
+      "id": 122329
+    }
+  ]
+}

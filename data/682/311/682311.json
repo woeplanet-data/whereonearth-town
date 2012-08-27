@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.266, 
+              49.933
+            ], 
+            [
+              10.266, 
+              49.976
+            ], 
+            [
+              10.306, 
+              49.976
+            ], 
+            [
+              10.306, 
+              49.933
+            ], 
+            [
+              10.266, 
+              49.933
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 682311, 
+        "name": "Oberspiesheim", 
+        "adjacent_woeid": [
+          633932, 
+          652287, 
+          659283, 
+          701551
+        ], 
+        "ne_latitude": 49.976, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.306, 
+        "longitude": 10.276, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12635423, 
+        "latitude": 49.946, 
+        "sw_longitude": 10.266, 
+        "fullname": "Oberspiesheim, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.933
+      }, 
+      "id": 682311
+    }
+  ]
+}

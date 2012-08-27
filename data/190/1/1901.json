@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.913, 
+              45.269
+            ], 
+            [
+              -71.913, 
+              45.312
+            ], 
+            [
+              -71.836, 
+              45.312
+            ], 
+            [
+              -71.836, 
+              45.269
+            ], 
+            [
+              -71.913, 
+              45.269
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1901, 
+        "name": "Waterville", 
+        "adjacent_woeid": [
+          23394348, 
+          23394668, 
+          29374489
+        ], 
+        "ne_latitude": 45.312, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -71.836, 
+        "longitude": -71.891, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "parent_woeid": 29375137, 
+        "latitude": 45.276, 
+        "sw_longitude": -71.913, 
+        "fullname": "Waterville, Quebec, Coaticook, Canada", 
+        "sw_latitude": 45.269
+      }, 
+      "id": 1901
+    }
+  ]
+}

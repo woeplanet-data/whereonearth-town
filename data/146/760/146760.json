@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.743, 
+              26.791
+            ], 
+            [
+              -99.743, 
+              26.809
+            ], 
+            [
+              -99.723, 
+              26.809
+            ], 
+            [
+              -99.723, 
+              26.791
+            ], 
+            [
+              -99.743, 
+              26.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.809, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          112300, 
+          130870, 
+          142061, 
+          145188, 
+          145190, 
+          150527
+        ], 
+        "woeid": 146760, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -99.723, 
+        "longitude": -99.733, 
+        "parent_woeid": 12600655, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.800, 
+        "sw_longitude": -99.743, 
+        "fullname": "Santa Rosa, Nuevo Leon, Vallecillo, Mexico", 
+        "sw_latitude": 26.791
+      }, 
+      "id": 146760
+    }
+  ]
+}

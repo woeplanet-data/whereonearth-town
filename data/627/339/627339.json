@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.225, 
+              45.563
+            ], 
+            [
+              3.225, 
+              45.601
+            ], 
+            [
+              3.248, 
+              45.601
+            ], 
+            [
+              3.248, 
+              45.563
+            ], 
+            [
+              3.225, 
+              45.563
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627339, 
+        "name": "St.-Yvoine", 
+        "adjacent_woeid": [
+          583813, 
+          615039, 
+          615660, 
+          621292, 
+          633057, 
+          20207374, 
+          20207379, 
+          29332647, 
+          29332662
+        ], 
+        "ne_latitude": 45.601, 
+        "ne_longitude": 3.248, 
+        "longitude": 3.231, 
+        "parent_woeid": 12653326, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Yvoine"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.585, 
+        "sw_longitude": 3.225, 
+        "fullname": "St.-Yvoine, Auvergne, Puy-de-Dome, France", 
+        "sw_latitude": 45.563
+      }, 
+      "id": 627339
+    }
+  ]
+}

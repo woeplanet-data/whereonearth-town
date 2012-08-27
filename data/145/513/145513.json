@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.260, 
+              19.624
+            ], 
+            [
+              -103.260, 
+              19.642
+            ], 
+            [
+              -103.240, 
+              19.642
+            ], 
+            [
+              -103.240, 
+              19.624
+            ], 
+            [
+              -103.260, 
+              19.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.642, 
+        "name": "San Vicente", 
+        "adjacent_woeid": [
+          119078, 
+          132395, 
+          134346, 
+          141693, 
+          145514, 
+          148434, 
+          150990
+        ], 
+        "woeid": 145513, 
+        "alias_SPA_V": [
+          "S. Vicente"
+        ], 
+        "ne_longitude": -103.240, 
+        "longitude": -103.250, 
+        "parent_woeid": 12600279, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.633, 
+        "sw_longitude": -103.260, 
+        "fullname": "San Vicente, Jalisco, Tamazula de Gordiano, Mexico", 
+        "sw_latitude": 19.624
+      }, 
+      "id": 145513
+    }
+  ]
+}

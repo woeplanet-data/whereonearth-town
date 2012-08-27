@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.200, 
+              51.237
+            ], 
+            [
+              6.200, 
+              51.251
+            ], 
+            [
+              6.223, 
+              51.251
+            ], 
+            [
+              6.223, 
+              51.237
+            ], 
+            [
+              6.200, 
+              51.237
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 640303, 
+        "name": "Born", 
+        "adjacent_woeid": [
+          652111, 
+          658152, 
+          668622, 
+          669708, 
+          29353183
+        ], 
+        "ne_latitude": 51.251, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.223, 
+        "longitude": 6.205, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:51Z", 
+        "parent_woeid": 12624455, 
+        "latitude": 51.248, 
+        "sw_longitude": 6.200, 
+        "fullname": "Born, North Rhine-Westphalia, Landkreis Viersen, Germany", 
+        "sw_latitude": 51.237
+      }, 
+      "id": 640303
+    }
+  ]
+}

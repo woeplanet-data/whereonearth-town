@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -4.141, 
+              48.346
+            ], 
+            [
+              -4.141, 
+              48.382
+            ], 
+            [
+              -4.106, 
+              48.382
+            ], 
+            [
+              -4.106, 
+              48.346
+            ], 
+            [
+              -4.141, 
+              48.346
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623838, 
+        "name": "St.-Eloy", 
+        "adjacent_woeid": [
+          594282, 
+          595248, 
+          604735, 
+          623370
+        ], 
+        "ne_latitude": 48.382, 
+        "ne_longitude": -4.106, 
+        "longitude": -4.123, 
+        "parent_woeid": 12648027, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Eloy"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.362, 
+        "sw_longitude": -4.141, 
+        "fullname": "St.-Eloy, Brittany, Finistere, France", 
+        "sw_latitude": 48.346
+      }, 
+      "id": 623838
+    }
+  ]
+}

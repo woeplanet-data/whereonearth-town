@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.090, 
+              45.627
+            ], 
+            [
+              0.090, 
+              45.656
+            ], 
+            [
+              0.129, 
+              45.656
+            ], 
+            [
+              0.129, 
+              45.627
+            ], 
+            [
+              0.090, 
+              45.627
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625957, 
+        "name": "St.-Michel", 
+        "adjacent_woeid": [
+          576155, 
+          591086, 
+          597912, 
+          614018, 
+          620186, 
+          29330655, 
+          29331221
+        ], 
+        "ne_latitude": 45.656, 
+        "ne_longitude": 0.129, 
+        "longitude": 0.107, 
+        "parent_woeid": 12670970, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Michel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.641, 
+        "sw_longitude": 0.090, 
+        "fullname": "St.-Michel, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.627
+      }, 
+      "id": 625957
+    }
+  ]
+}

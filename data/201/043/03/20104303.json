@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.835, 
+              47.519
+            ], 
+            [
+              8.835, 
+              47.538
+            ], 
+            [
+              8.862, 
+              47.538
+            ], 
+            [
+              8.862, 
+              47.519
+            ], 
+            [
+              8.835, 
+              47.519
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20104303, 
+        "name": "Stegen", 
+        "adjacent_woeid": [
+          20102016, 
+          20102364, 
+          20102865, 
+          20103371
+        ], 
+        "ne_latitude": 47.538, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.862, 
+        "longitude": 8.848, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:44Z", 
+        "parent_woeid": 20075365, 
+        "latitude": 47.529, 
+        "sw_longitude": 8.835, 
+        "fullname": "Stegen, Canton of Zurich, Winterthur, Switzerland", 
+        "sw_latitude": 47.519
+      }, 
+      "id": 20104303
+    }
+  ]
+}

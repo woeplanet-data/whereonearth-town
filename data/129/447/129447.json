@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.518, 
+              24.292
+            ], 
+            [
+              -99.518, 
+              24.310
+            ], 
+            [
+              -99.498, 
+              24.310
+            ], 
+            [
+              -99.498, 
+              24.292
+            ], 
+            [
+              -99.518, 
+              24.292
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.310, 
+        "name": "La Trinidad", 
+        "adjacent_woeid": [
+          116475, 
+          125405, 
+          128455, 
+          133038, 
+          141603, 
+          142917
+        ], 
+        "woeid": 129447, 
+        "alias_SPA_V": [
+          "Trinidad"
+        ], 
+        "ne_longitude": -99.498, 
+        "longitude": -99.508, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.301, 
+        "sw_longitude": -99.518, 
+        "fullname": "La Trinidad, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.292
+      }, 
+      "id": 129447
+    }
+  ]
+}

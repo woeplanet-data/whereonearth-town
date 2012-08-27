@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.911, 
+              47.746
+            ], 
+            [
+              0.911, 
+              47.779
+            ], 
+            [
+              0.937, 
+              47.779
+            ], 
+            [
+              0.937, 
+              47.746
+            ], 
+            [
+              0.911, 
+              47.746
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626743, 
+        "name": "St.-Rimay", 
+        "adjacent_woeid": [
+          595003, 
+          607342, 
+          628565, 
+          631529, 
+          632261, 
+          29332355
+        ], 
+        "ne_latitude": 47.779, 
+        "ne_longitude": 0.937, 
+        "longitude": 0.925, 
+        "parent_woeid": 12653172, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Rimay"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.765, 
+        "sw_longitude": 0.911, 
+        "fullname": "St.-Rimay, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.746
+      }, 
+      "id": 626743
+    }
+  ]
+}

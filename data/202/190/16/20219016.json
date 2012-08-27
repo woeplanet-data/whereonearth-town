@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.742, 
+              48.777
+            ], 
+            [
+              2.742, 
+              48.820
+            ], 
+            [
+              2.799, 
+              48.820
+            ], 
+            [
+              2.799, 
+              48.777
+            ], 
+            [
+              2.742, 
+              48.777
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20219016, 
+        "name": "La Route", 
+        "adjacent_woeid": [
+          590677, 
+          595603, 
+          614080, 
+          631893
+        ], 
+        "ne_latitude": 48.820, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.799, 
+        "longitude": 2.781, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "parent_woeid": 12643682, 
+        "latitude": 48.800, 
+        "sw_longitude": 2.742, 
+        "fullname": "La Route, Ile-de-France, Seine-et-Marne, France", 
+        "sw_latitude": 48.777
+      }, 
+      "id": 20219016
+    }
+  ]
+}

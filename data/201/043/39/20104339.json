@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.845, 
+              47.554
+            ], 
+            [
+              8.845, 
+              47.572
+            ], 
+            [
+              8.872, 
+              47.572
+            ], 
+            [
+              8.872, 
+              47.554
+            ], 
+            [
+              8.845, 
+              47.554
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20104339, 
+        "name": "Strass", 
+        "adjacent_woeid": [
+          20100901, 
+          20101637, 
+          20103327, 
+          20103541
+        ], 
+        "ne_latitude": 47.572, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.872, 
+        "longitude": 8.858, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:44Z", 
+        "parent_woeid": 12683513, 
+        "latitude": 47.563, 
+        "sw_longitude": 8.845, 
+        "fullname": "Strass, Canton of Thurgau, Frauenfeld, Switzerland", 
+        "sw_latitude": 47.554
+      }, 
+      "id": 20104339
+    }
+  ]
+}

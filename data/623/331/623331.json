@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.747, 
+              47.217
+            ], 
+            [
+              0.747, 
+              47.244
+            ], 
+            [
+              0.789, 
+              47.244
+            ], 
+            [
+              0.789, 
+              47.217
+            ], 
+            [
+              0.747, 
+              47.217
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623331, 
+        "name": "St.-Branchs", 
+        "adjacent_woeid": [
+          587015, 
+          608682, 
+          622438, 
+          627414, 
+          20186032, 
+          20186440, 
+          29332322
+        ], 
+        "ne_latitude": 47.244, 
+        "ne_longitude": 0.789, 
+        "longitude": 0.771, 
+        "parent_woeid": 12645919, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Branchs"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.229, 
+        "sw_longitude": 0.747, 
+        "fullname": "St.-Branchs, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.217
+      }, 
+      "id": 623331
+    }
+  ]
+}

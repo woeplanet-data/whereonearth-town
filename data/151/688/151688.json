@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.738, 
+              23.936
+            ], 
+            [
+              -99.738, 
+              23.954
+            ], 
+            [
+              -99.718, 
+              23.954
+            ], 
+            [
+              -99.718, 
+              23.936
+            ], 
+            [
+              -99.738, 
+              23.936
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.954, 
+        "name": "Zaragoza", 
+        "adjacent_woeid": [
+          122294, 
+          124663, 
+          147551, 
+          148995
+        ], 
+        "woeid": 151688, 
+        "alias_SPA_V": [
+          "General Zaragoza"
+        ], 
+        "ne_longitude": -99.718, 
+        "longitude": -99.728, 
+        "parent_woeid": 12600627, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.945, 
+        "sw_longitude": -99.738, 
+        "fullname": "Zaragoza, Nuevo Leon, General Zaragoza, Mexico", 
+        "sw_latitude": 23.936
+      }, 
+      "id": 151688
+    }
+  ]
+}

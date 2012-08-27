@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.035, 
+              44.679
+            ], 
+            [
+              -0.035, 
+              44.715
+            ], 
+            [
+              0.023, 
+              44.715
+            ], 
+            [
+              0.023, 
+              44.679
+            ], 
+            [
+              -0.035, 
+              44.679
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 583403, 
+        "name": "Caumont", 
+        "adjacent_woeid": [
+          583253, 
+          583497, 
+          586273, 
+          619498, 
+          625214, 
+          625702
+        ], 
+        "ne_latitude": 44.715, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.023, 
+        "longitude": -0.005, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12640569, 
+        "latitude": 44.695, 
+        "sw_longitude": -0.035, 
+        "fullname": "Caumont, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.679
+      }, 
+      "id": 583403
+    }
+  ]
+}

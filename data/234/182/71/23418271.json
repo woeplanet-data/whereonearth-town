@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -122.365, 
+              48.268
+            ], 
+            [
+              -122.365, 
+              48.297
+            ], 
+            [
+              -122.324, 
+              48.297
+            ], 
+            [
+              -122.324, 
+              48.268
+            ], 
+            [
+              -122.365, 
+              48.268
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23418271, 
+        "name": "Lake Ketchum", 
+        "adjacent_woeid": [
+          2370899, 
+          2451627, 
+          2460445, 
+          23418269, 
+          23418272
+        ], 
+        "ne_latitude": 48.297, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Lk. Ketchum"
+        ], 
+        "ne_longitude": -122.324, 
+        "longitude": -122.344, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:33:46Z", 
+        "parent_woeid": 12590470, 
+        "latitude": 48.284, 
+        "sw_longitude": -122.365, 
+        "fullname": "Lake Ketchum, Washington, Snohomish, United States", 
+        "sw_latitude": 48.268
+      }, 
+      "id": 23418271
+    }
+  ]
+}

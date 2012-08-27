@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.014, 
+              49.959
+            ], 
+            [
+              16.014, 
+              49.990
+            ], 
+            [
+              16.046, 
+              49.990
+            ], 
+            [
+              16.046, 
+              49.959
+            ], 
+            [
+              16.014, 
+              49.959
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "CZE", 
+        "woeid": 795627, 
+        "name": "Ostrov", 
+        "adjacent_woeid": [
+          793749, 
+          795508, 
+          798947, 
+          24930335
+        ], 
+        "ne_latitude": 49.990, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.046, 
+        "longitude": 16.030, 
+        "placetype": "Town", 
+        "iso": "CZ", 
+        "date_indexed": "2010-12-02T08:56:14Z", 
+        "parent_woeid": 12609729, 
+        "latitude": 49.972, 
+        "sw_longitude": 16.014, 
+        "fullname": "Ostrov, Pardubick\u00fd, Chrudim, Czech Republic", 
+        "sw_latitude": 49.959
+      }, 
+      "id": 795627
+    }
+  ]
+}

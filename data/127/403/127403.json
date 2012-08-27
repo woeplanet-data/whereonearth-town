@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.493, 
+              20.124
+            ], 
+            [
+              -101.493, 
+              20.142
+            ], 
+            [
+              -101.474, 
+              20.142
+            ], 
+            [
+              -101.474, 
+              20.124
+            ], 
+            [
+              -101.493, 
+              20.124
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.142, 
+        "name": "La Excusa", 
+        "adjacent_woeid": [
+          125059, 
+          129037, 
+          137985, 
+          145883, 
+          150916
+        ], 
+        "woeid": 127403, 
+        "alias_SPA_V": [
+          "Escusa"
+        ], 
+        "ne_longitude": -101.474, 
+        "longitude": -101.483, 
+        "parent_woeid": 12600513, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.133, 
+        "sw_longitude": -101.493, 
+        "fullname": "La Excusa, Michoacan de Ocampo, Puruandiro, Mexico", 
+        "sw_latitude": 20.124
+      }, 
+      "id": 127403
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.305, 
+              49.213
+            ], 
+            [
+              0.305, 
+              49.254
+            ], 
+            [
+              0.342, 
+              49.254
+            ], 
+            [
+              0.342, 
+              49.213
+            ], 
+            [
+              0.305, 
+              49.213
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602875, 
+        "name": "Le Faulq", 
+        "adjacent_woeid": [
+          580153, 
+          580708, 
+          602320, 
+          604027, 
+          626427
+        ], 
+        "ne_latitude": 49.254, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.342, 
+        "longitude": 0.321, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "parent_woeid": 12647302, 
+        "latitude": 49.228, 
+        "sw_longitude": 0.305, 
+        "fullname": "Le Faulq, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.213
+      }, 
+      "id": 602875
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.873, 
+              21.935
+            ], 
+            [
+              -100.873, 
+              21.959
+            ], 
+            [
+              -100.840, 
+              21.959
+            ], 
+            [
+              -100.840, 
+              21.935
+            ], 
+            [
+              -100.873, 
+              21.935
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.959, 
+        "name": "Laguna de San Vicente", 
+        "adjacent_woeid": [
+          116604, 
+          125854, 
+          128771, 
+          135200
+        ], 
+        "woeid": 129806, 
+        "alias_SPA_V": [
+          "Laguna de S Vicente"
+        ], 
+        "ne_longitude": -100.840, 
+        "longitude": -100.857, 
+        "parent_woeid": 12601522, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.945, 
+        "sw_longitude": -100.873, 
+        "fullname": "Laguna de San Vicente, San Luis Potosi, Villa de Reyes, Mexico", 
+        "sw_latitude": 21.935
+      }, 
+      "id": 129806
+    }
+  ]
+}

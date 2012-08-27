@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.177, 
+              23.274
+            ], 
+            [
+              -99.177, 
+              23.292
+            ], 
+            [
+              -99.157, 
+              23.292
+            ], 
+            [
+              -99.157, 
+              23.274
+            ], 
+            [
+              -99.177, 
+              23.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.292, 
+        "name": "El Carmen", 
+        "adjacent_woeid": [
+          120205, 
+          135492, 
+          141620, 
+          142926, 
+          145494, 
+          150601
+        ], 
+        "woeid": 119489, 
+        "alias_SPA_V": [
+          "C\u00e1rmen"
+        ], 
+        "ne_longitude": -99.157, 
+        "longitude": -99.167, 
+        "parent_woeid": 12601651, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Carmen"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.283, 
+        "sw_longitude": -99.177, 
+        "fullname": "El Carmen, Tamaulipas, Llera, Mexico", 
+        "sw_latitude": 23.274
+      }, 
+      "id": 119489
+    }
+  ]
+}

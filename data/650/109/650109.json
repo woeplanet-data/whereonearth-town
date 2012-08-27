@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.671, 
+              49.615
+            ], 
+            [
+              10.671, 
+              49.634
+            ], 
+            [
+              10.699, 
+              49.634
+            ], 
+            [
+              10.699, 
+              49.615
+            ], 
+            [
+              10.671, 
+              49.615
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 650109, 
+        "name": "Forst", 
+        "adjacent_woeid": [
+          646410, 
+          686928, 
+          706739, 
+          20158859, 
+          29348252
+        ], 
+        "ne_latitude": 49.634, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.699, 
+        "longitude": 10.685, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:38Z", 
+        "parent_woeid": 12634506, 
+        "latitude": 49.625, 
+        "sw_longitude": 10.671, 
+        "fullname": "Forst, Bavaria, Neustadt an der Aisch-Bad Windsheim, Germany", 
+        "sw_latitude": 49.615
+      }, 
+      "id": 650109
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.029, 
+              42.887
+            ], 
+            [
+              -0.029, 
+              42.911
+            ], 
+            [
+              -0.012, 
+              42.911
+            ], 
+            [
+              -0.012, 
+              42.887
+            ], 
+            [
+              -0.029, 
+              42.887
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620743, 
+        "name": "Saligos", 
+        "adjacent_woeid": [
+          585795, 
+          590111, 
+          621127, 
+          621464, 
+          631301, 
+          632446, 
+          632542
+        ], 
+        "ne_latitude": 42.911, 
+        "ne_longitude": -0.012, 
+        "longitude": -0.022, 
+        "parent_woeid": 12669374, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saligis"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.893, 
+        "sw_longitude": -0.029, 
+        "fullname": "Saligos, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 42.887
+      }, 
+      "id": 620743
+    }
+  ]
+}

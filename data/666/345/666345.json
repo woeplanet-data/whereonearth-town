@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.965, 
+              52.690
+            ], 
+            [
+              11.965, 
+              52.732
+            ], 
+            [
+              11.999, 
+              52.732
+            ], 
+            [
+              11.999, 
+              52.690
+            ], 
+            [
+              11.965, 
+              52.690
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666345, 
+        "name": "Klein Ellingen", 
+        "adjacent_woeid": [
+          637422, 
+          643565, 
+          647636, 
+          661090, 
+          693746
+        ], 
+        "ne_latitude": 52.732, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.999, 
+        "longitude": 11.981, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12626835, 
+        "latitude": 52.714, 
+        "sw_longitude": 11.965, 
+        "fullname": "Klein Ellingen, Saxony-Anhalt, Landkreis Stendal, Germany", 
+        "sw_latitude": 52.690
+      }, 
+      "id": 666345
+    }
+  ]
+}

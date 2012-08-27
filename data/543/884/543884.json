@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.913, 
+              48.267
+            ], 
+            [
+              15.913, 
+              48.285
+            ], 
+            [
+              15.941, 
+              48.285
+            ], 
+            [
+              15.941, 
+              48.267
+            ], 
+            [
+              15.913, 
+              48.267
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 543884, 
+        "name": "Spital", 
+        "adjacent_woeid": [
+          541346, 
+          542805, 
+          542829, 
+          543314, 
+          543967
+        ], 
+        "ne_latitude": 48.285, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.941, 
+        "longitude": 15.927, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:41Z", 
+        "parent_woeid": 12673772, 
+        "latitude": 48.277, 
+        "sw_longitude": 15.913, 
+        "fullname": "Spital, Lower Austria, Tulln, Austria", 
+        "sw_latitude": 48.267
+      }, 
+      "id": 543884
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -61.818, 
+              -30.673
+            ], 
+            [
+              -61.818, 
+              -30.655
+            ], 
+            [
+              -61.797, 
+              -30.655
+            ], 
+            [
+              -61.797, 
+              -30.673
+            ], 
+            [
+              -61.818, 
+              -30.673
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -30.655, 
+        "name": "Colonia Bossi", 
+        "adjacent_woeid": [
+          332831, 
+          465115, 
+          465177, 
+          465861, 
+          466012, 
+          466517
+        ], 
+        "woeid": 465117, 
+        "alias_SPA_V": [
+          "Bossi"
+        ], 
+        "ne_longitude": -61.797, 
+        "longitude": -61.808, 
+        "parent_woeid": 20070890, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:49Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -30.664, 
+        "sw_longitude": -61.818, 
+        "fullname": "Colonia Bossi, Santa Fe, San Crist\u00f3bal, Argentina", 
+        "sw_latitude": -30.673
+      }, 
+      "id": 465117
+    }
+  ]
+}

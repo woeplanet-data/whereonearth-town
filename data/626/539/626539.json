@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.941, 
+              46.596
+            ], 
+            [
+              2.941, 
+              46.646
+            ], 
+            [
+              2.982, 
+              46.646
+            ], 
+            [
+              2.982, 
+              46.596
+            ], 
+            [
+              2.941, 
+              46.596
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626539, 
+        "name": "St.-Plaisir", 
+        "adjacent_woeid": [
+          587271, 
+          591871, 
+          617796, 
+          628373, 
+          633042
+        ], 
+        "ne_latitude": 46.646, 
+        "ne_longitude": 2.982, 
+        "longitude": 2.965, 
+        "parent_woeid": 22755107, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Plaisir"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.623, 
+        "sw_longitude": 2.941, 
+        "fullname": "St.-Plaisir, Auvergne, Allier, France", 
+        "sw_latitude": 46.596
+      }, 
+      "id": 626539
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.797, 
+              28.065
+            ], 
+            [
+              -105.797, 
+              28.083
+            ], 
+            [
+              -105.776, 
+              28.083
+            ], 
+            [
+              -105.776, 
+              28.065
+            ], 
+            [
+              -105.797, 
+              28.065
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.083, 
+        "name": "San Pedro de Conchos", 
+        "adjacent_woeid": [
+          117452, 
+          124920, 
+          128322, 
+          144165, 
+          146207, 
+          149058
+        ], 
+        "woeid": 145050, 
+        "alias_SPA_V": [
+          "S Pedro de Conchos"
+        ], 
+        "ne_longitude": -105.776, 
+        "longitude": -105.786, 
+        "parent_woeid": 12599874, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.074, 
+        "sw_longitude": -105.797, 
+        "fullname": "San Pedro de Conchos, Chihuahua, Rosales, Mexico", 
+        "sw_latitude": 28.065
+      }, 
+      "id": 145050
+    }
+  ]
+}

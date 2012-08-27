@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.452, 
+              48.405
+            ], 
+            [
+              -123.452, 
+              48.440
+            ], 
+            [
+              -123.405, 
+              48.440
+            ], 
+            [
+              -123.405, 
+              48.405
+            ], 
+            [
+              -123.452, 
+              48.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9118, 
+        "name": "Esquimalt", 
+        "adjacent_woeid": [
+          23404886, 
+          23405825, 
+          29372944, 
+          29372945
+        ], 
+        "ne_latitude": 48.440, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.405, 
+        "longitude": -123.415, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375156, 
+        "latitude": 48.430, 
+        "sw_longitude": -123.452, 
+        "fullname": "Esquimalt, British Columbia, Capital, Canada", 
+        "sw_latitude": 48.405
+      }, 
+      "id": 9118
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.610, 
+              18.941
+            ], 
+            [
+              -103.610, 
+              18.959
+            ], 
+            [
+              -103.590, 
+              18.959
+            ], 
+            [
+              -103.590, 
+              18.941
+            ], 
+            [
+              -103.610, 
+              18.941
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.959, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          112285, 
+          114219, 
+          115592, 
+          116601, 
+          123546, 
+          130904
+        ], 
+        "woeid": 146844, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -103.590, 
+        "longitude": -103.600, 
+        "parent_woeid": 12599929, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.950, 
+        "sw_longitude": -103.610, 
+        "fullname": "Santa Rosa, Colima, Ixtlahuacan, Mexico", 
+        "sw_latitude": 18.941
+      }, 
+      "id": 146844
+    }
+  ]
+}

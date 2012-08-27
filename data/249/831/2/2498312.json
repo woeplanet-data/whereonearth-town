@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -72.550, 
+              43.233
+            ], 
+            [
+              -72.550, 
+              43.345
+            ], 
+            [
+              -72.395, 
+              43.345
+            ], 
+            [
+              -72.395, 
+              43.233
+            ], 
+            [
+              -72.550, 
+              43.233
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2498312, 
+        "name": "Springfield", 
+        "adjacent_woeid": [
+          2356453, 
+          2359739, 
+          2362076, 
+          2370561, 
+          2376457, 
+          2378389, 
+          2379282, 
+          2379298, 
+          2380631, 
+          2461672, 
+          2470639, 
+          2483395, 
+          2497684, 
+          23418205, 
+          28340625, 
+          28340626, 
+          28340627
+        ], 
+        "ne_latitude": 43.345, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Springfield, Town of"
+        ], 
+        "ne_longitude": -72.395, 
+        "longitude": -72.488, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:29Z", 
+        "parent_woeid": 12590303, 
+        "latitude": 43.303, 
+        "sw_longitude": -72.550, 
+        "fullname": "Springfield, Vermont, Windsor, United States", 
+        "sw_latitude": 43.233
+      }, 
+      "id": 2498312
+    }
+  ]
+}

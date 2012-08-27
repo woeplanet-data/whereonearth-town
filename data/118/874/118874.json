@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.943, 
+              21.491
+            ], 
+            [
+              -104.943, 
+              21.509
+            ], 
+            [
+              -104.924, 
+              21.509
+            ], 
+            [
+              -104.924, 
+              21.491
+            ], 
+            [
+              -104.943, 
+              21.491
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.509, 
+        "name": "El Aguacate", 
+        "adjacent_woeid": [
+          125686, 
+          131262, 
+          131875, 
+          135532, 
+          150684
+        ], 
+        "woeid": 118874, 
+        "alias_SPA_V": [
+          "Aguacate"
+        ], 
+        "ne_longitude": -104.924, 
+        "longitude": -104.933, 
+        "parent_woeid": 12600603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.500, 
+        "sw_longitude": -104.943, 
+        "fullname": "El Aguacate, Nayarit, Tepic, Mexico", 
+        "sw_latitude": 21.491
+      }, 
+      "id": 118874
+    }
+  ]
+}

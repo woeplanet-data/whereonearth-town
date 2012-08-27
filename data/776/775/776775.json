@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -16.410, 
+              28.497
+            ], 
+            [
+              -16.410, 
+              28.541
+            ], 
+            [
+              -16.371, 
+              28.541
+            ], 
+            [
+              -16.371, 
+              28.497
+            ], 
+            [
+              -16.410, 
+              28.497
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 28.541, 
+        "name": "Valle de Guerra", 
+        "adjacent_woeid": [
+          761904, 
+          763166, 
+          775336, 
+          15003356, 
+          20223457, 
+          20223753, 
+          29372737, 
+          29372758, 
+          55867233, 
+          56065337, 
+          56065672, 
+          56065673, 
+          56065705, 
+          56065717, 
+          56065731, 
+          56065732
+        ], 
+        "woeid": 776775, 
+        "alias_SPA_V": [
+          "Costa de Valle de Guerra"
+        ], 
+        "ne_longitude": -16.371, 
+        "longitude": -16.389, 
+        "parent_woeid": 12690191, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 28.518, 
+        "sw_longitude": -16.410, 
+        "fullname": "Valle de Guerra, Canary Islands, Santa Cruz de Tenerife, Spain", 
+        "sw_latitude": 28.497
+      }, 
+      "id": 776775
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.393, 
+              47.495
+            ], 
+            [
+              13.393, 
+              47.505
+            ], 
+            [
+              13.407, 
+              47.505
+            ], 
+            [
+              13.407, 
+              47.495
+            ], 
+            [
+              13.393, 
+              47.495
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20095203, 
+        "name": "Gappen", 
+        "adjacent_woeid": [
+          547681, 
+          547825, 
+          20095098, 
+          20095574, 
+          20096179
+        ], 
+        "ne_latitude": 47.505, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.407, 
+        "longitude": 13.400, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12674698, 
+        "latitude": 47.500, 
+        "sw_longitude": 13.393, 
+        "fullname": "Gappen, Salzburg, Hallein, Austria", 
+        "sw_latitude": 47.495
+      }, 
+      "id": 20095203
+    }
+  ]
+}

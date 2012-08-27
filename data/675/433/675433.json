@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.017, 
+              50.323
+            ], 
+            [
+              11.017, 
+              50.341
+            ], 
+            [
+              11.046, 
+              50.341
+            ], 
+            [
+              11.046, 
+              50.323
+            ], 
+            [
+              11.017, 
+              50.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675433, 
+        "name": "Mittelberg", 
+        "adjacent_woeid": [
+          649785, 
+          652222, 
+          703815, 
+          704772
+        ], 
+        "ne_latitude": 50.341, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.046, 
+        "longitude": 11.032, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:41Z", 
+        "parent_woeid": 12635295, 
+        "latitude": 50.332, 
+        "sw_longitude": 11.017, 
+        "fullname": "Mittelberg, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.323
+      }, 
+      "id": 675433
+    }
+  ]
+}

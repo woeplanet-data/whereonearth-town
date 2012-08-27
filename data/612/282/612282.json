@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.983, 
+              45.444
+            ], 
+            [
+              3.983, 
+              45.470
+            ], 
+            [
+              4.004, 
+              45.470
+            ], 
+            [
+              4.004, 
+              45.444
+            ], 
+            [
+              3.983, 
+              45.444
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612282, 
+        "name": "Montarcher", 
+        "adjacent_woeid": [
+          590188, 
+          597460, 
+          597646, 
+          610181
+        ], 
+        "ne_latitude": 45.470, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 4.004, 
+        "longitude": 3.996, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:08Z", 
+        "parent_woeid": 12664813, 
+        "latitude": 45.459, 
+        "sw_longitude": 3.983, 
+        "fullname": "Montarcher, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.444
+      }, 
+      "id": 612282
+    }
+  ]
+}

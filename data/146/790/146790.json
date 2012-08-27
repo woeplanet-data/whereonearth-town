@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.277, 
+              23.958
+            ], 
+            [
+              -99.277, 
+              23.976
+            ], 
+            [
+              -99.257, 
+              23.976
+            ], 
+            [
+              -99.257, 
+              23.958
+            ], 
+            [
+              -99.277, 
+              23.958
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.976, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          118964, 
+          119076, 
+          121208, 
+          126485, 
+          134544, 
+          145015
+        ], 
+        "woeid": 146790, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -99.257, 
+        "longitude": -99.267, 
+        "parent_woeid": 12601645, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.967, 
+        "sw_longitude": -99.277, 
+        "fullname": "Santa Rosa, Tamaulipas, G\u00fc\u00e9mez, Mexico", 
+        "sw_latitude": 23.958
+      }, 
+      "id": 146790
+    }
+  ]
+}

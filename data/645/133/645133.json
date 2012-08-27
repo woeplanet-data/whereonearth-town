@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.470, 
+              48.583
+            ], 
+            [
+              10.470, 
+              48.624
+            ], 
+            [
+              10.501, 
+              48.624
+            ], 
+            [
+              10.501, 
+              48.583
+            ], 
+            [
+              10.470, 
+              48.583
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 645133, 
+        "name": "Donaualtheim", 
+        "adjacent_woeid": [
+          638101, 
+          658024, 
+          676263, 
+          693289
+        ], 
+        "ne_latitude": 48.624, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.501, 
+        "longitude": 10.486, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:18Z", 
+        "parent_woeid": 12634802, 
+        "latitude": 48.596, 
+        "sw_longitude": 10.470, 
+        "fullname": "Donaualtheim, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.583
+      }, 
+      "id": 645133
+    }
+  ]
+}

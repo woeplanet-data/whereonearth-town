@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.428, 
+              50.112
+            ], 
+            [
+              11.428, 
+              50.128
+            ], 
+            [
+              11.448, 
+              50.128
+            ], 
+            [
+              11.448, 
+              50.112
+            ], 
+            [
+              11.428, 
+              50.112
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675052, 
+        "name": "Metzdorf", 
+        "adjacent_woeid": [
+          679720, 
+          684726, 
+          708876, 
+          29348060
+        ], 
+        "ne_latitude": 50.128, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.448, 
+        "longitude": 11.438, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12635350, 
+        "latitude": 50.119, 
+        "sw_longitude": 11.428, 
+        "fullname": "Metzdorf, Bavaria, Landkreis Kulmbach, Germany", 
+        "sw_latitude": 50.112
+      }, 
+      "id": 675052
+    }
+  ]
+}

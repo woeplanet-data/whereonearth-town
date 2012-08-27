@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.727, 
+              20.738
+            ], 
+            [
+              -99.727, 
+              20.756
+            ], 
+            [
+              -99.707, 
+              20.756
+            ], 
+            [
+              -99.707, 
+              20.738
+            ], 
+            [
+              -99.727, 
+              20.738
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.756, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          113632, 
+          115741, 
+          122089, 
+          136266, 
+          147769
+        ], 
+        "woeid": 143066, 
+        "alias_SPA_V": [
+          "S Javier"
+        ], 
+        "ne_longitude": -99.707, 
+        "longitude": -99.717, 
+        "parent_woeid": 12601446, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.747, 
+        "sw_longitude": -99.727, 
+        "fullname": "San Javier, Queretaro de Arteaga, Cadereyta de Montes, Mexico", 
+        "sw_latitude": 20.738
+      }, 
+      "id": 143066
+    }
+  ]
+}

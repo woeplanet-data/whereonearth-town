@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.867, 
+              49.847
+            ], 
+            [
+              0.867, 
+              49.880
+            ], 
+            [
+              0.903, 
+              49.880
+            ], 
+            [
+              0.903, 
+              49.847
+            ], 
+            [
+              0.867, 
+              49.847
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 602220, 
+        "name": "Le Bourg-Dun", 
+        "adjacent_woeid": [
+          577648, 
+          597562, 
+          608563, 
+          618594, 
+          622468, 
+          623124, 
+          626512
+        ], 
+        "ne_latitude": 49.880, 
+        "ne_longitude": 0.903, 
+        "longitude": 0.886, 
+        "parent_woeid": 12639591, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Bourg-Dun"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.866, 
+        "sw_longitude": 0.867, 
+        "fullname": "Le Bourg-Dun, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.847
+      }, 
+      "id": 602220
+    }
+  ]
+}

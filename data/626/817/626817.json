@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.472, 
+              49.682
+            ], 
+            [
+              1.472, 
+              49.707
+            ], 
+            [
+              1.506, 
+              49.707
+            ], 
+            [
+              1.506, 
+              49.682
+            ], 
+            [
+              1.472, 
+              49.682
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626817, 
+        "name": "St.-Saire", 
+        "adjacent_woeid": [
+          578568, 
+          580979, 
+          591339, 
+          611250, 
+          614029, 
+          614183, 
+          627567
+        ], 
+        "ne_latitude": 49.707, 
+        "ne_longitude": 1.506, 
+        "longitude": 1.494, 
+        "parent_woeid": 12642755, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Saire"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.694, 
+        "sw_longitude": 1.472, 
+        "fullname": "St.-Saire, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.682
+      }, 
+      "id": 626817
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.305, 
+              48.011
+            ], 
+            [
+              16.305, 
+              48.029
+            ], 
+            [
+              16.332, 
+              48.029
+            ], 
+            [
+              16.332, 
+              48.011
+            ], 
+            [
+              16.305, 
+              48.011
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995555, 
+        "name": "Stadtrand-siedlung", 
+        "adjacent_woeid": [
+          542855, 
+          544378, 
+          28995557
+        ], 
+        "ne_latitude": 48.029, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.332, 
+        "longitude": 16.318, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12674109, 
+        "latitude": 48.020, 
+        "sw_longitude": 16.305, 
+        "fullname": "Stadtrand-siedlung, Lower Austria, Baden, Austria", 
+        "sw_latitude": 48.011
+      }, 
+      "id": 28995555
+    }
+  ]
+}

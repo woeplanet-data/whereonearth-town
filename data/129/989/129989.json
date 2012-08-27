@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.143, 
+              23.324
+            ], 
+            [
+              -98.143, 
+              23.342
+            ], 
+            [
+              -98.123, 
+              23.342
+            ], 
+            [
+              -98.123, 
+              23.324
+            ], 
+            [
+              -98.143, 
+              23.324
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.342, 
+        "name": "Las Alazanas", 
+        "adjacent_woeid": [
+          122984, 
+          128709, 
+          131007, 
+          134577, 
+          146270
+        ], 
+        "woeid": 129989, 
+        "alias_SPA_V": [
+          "Alazanas Grande"
+        ], 
+        "ne_longitude": -98.123, 
+        "longitude": -98.133, 
+        "parent_woeid": 12601633, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.333, 
+        "sw_longitude": -98.143, 
+        "fullname": "Las Alazanas, Tamaulipas, Aldama, Mexico", 
+        "sw_latitude": 23.324
+      }, 
+      "id": 129989
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.831, 
+              47.518
+            ], 
+            [
+              -69.831, 
+              47.541
+            ], 
+            [
+              -69.787, 
+              47.541
+            ], 
+            [
+              -69.787, 
+              47.518
+            ], 
+            [
+              -69.831, 
+              47.518
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 3665, 
+        "name": "St.-Pascal", 
+        "adjacent_woeid": [
+          1012, 
+          1413, 
+          1431, 
+          3666, 
+          23394386, 
+          23396524, 
+          23396552
+        ], 
+        "ne_latitude": 47.541, 
+        "ne_longitude": -69.787, 
+        "longitude": -69.804, 
+        "parent_woeid": 29375166, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Pascal"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.526, 
+        "sw_longitude": -69.831, 
+        "fullname": "St.-Pascal, Quebec, Kamouraska, Canada", 
+        "sw_latitude": 47.518
+      }, 
+      "id": 3665
+    }
+  ]
+}

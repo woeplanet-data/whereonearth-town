@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.010, 
+              47.951
+            ], 
+            [
+              13.010, 
+              47.960
+            ], 
+            [
+              13.024, 
+              47.960
+            ], 
+            [
+              13.024, 
+              47.951
+            ], 
+            [
+              13.010, 
+              47.951
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20095985, 
+        "name": "Kleinberg", 
+        "adjacent_woeid": [
+          547405, 
+          547969, 
+          20096791, 
+          20097318
+        ], 
+        "ne_latitude": 47.960, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.024, 
+        "longitude": 13.017, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:34:02Z", 
+        "parent_woeid": 12674736, 
+        "latitude": 47.955, 
+        "sw_longitude": 13.010, 
+        "fullname": "Kleinberg, Salzburg, Salzburg-Umgebung, Austria", 
+        "sw_latitude": 47.951
+      }, 
+      "id": 20095985
+    }
+  ]
+}

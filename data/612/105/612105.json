@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.492, 
+              49.815
+            ], 
+            [
+              3.492, 
+              49.858
+            ], 
+            [
+              3.528, 
+              49.858
+            ], 
+            [
+              3.528, 
+              49.815
+            ], 
+            [
+              3.492, 
+              49.815
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612105, 
+        "name": "Mont-d'Origny", 
+        "adjacent_woeid": [
+          579448, 
+          594518, 
+          609173, 
+          614216
+        ], 
+        "ne_latitude": 49.858, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.528, 
+        "longitude": 3.505, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 22757157, 
+        "latitude": 49.845, 
+        "sw_longitude": 3.492, 
+        "fullname": "Mont-d'Origny, Picardie, Aisne, France", 
+        "sw_latitude": 49.815
+      }, 
+      "id": 612105
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.143, 
+              21.574
+            ], 
+            [
+              -105.143, 
+              21.592
+            ], 
+            [
+              -105.124, 
+              21.592
+            ], 
+            [
+              -105.124, 
+              21.574
+            ], 
+            [
+              -105.143, 
+              21.574
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.592, 
+        "name": "El Tepeyac", 
+        "adjacent_woeid": [
+          125083, 
+          126826, 
+          128034, 
+          130720, 
+          133246
+        ], 
+        "woeid": 122680, 
+        "alias_SPA_V": [
+          "Cofradia"
+        ], 
+        "ne_longitude": -105.124, 
+        "longitude": -105.133, 
+        "parent_woeid": 12600598, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.583, 
+        "sw_longitude": -105.143, 
+        "fullname": "El Tepeyac, Nayarit, San Blas, Mexico", 
+        "sw_latitude": 21.574
+      }, 
+      "id": 122680
+    }
+  ]
+}

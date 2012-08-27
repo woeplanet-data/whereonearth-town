@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.126, 
+              47.303
+            ], 
+            [
+              1.126, 
+              47.323
+            ], 
+            [
+              1.143, 
+              47.323
+            ], 
+            [
+              1.143, 
+              47.303
+            ], 
+            [
+              1.126, 
+              47.303
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624228, 
+        "name": "St.-Georges", 
+        "adjacent_woeid": [
+          629908, 
+          22656938, 
+          29332296
+        ], 
+        "ne_latitude": 47.323, 
+        "ne_longitude": 1.143, 
+        "longitude": 1.133, 
+        "parent_woeid": 12645989, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Georges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:56:08Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.317, 
+        "sw_longitude": 1.126, 
+        "fullname": "St.-Georges, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.303
+      }, 
+      "id": 624228
+    }
+  ]
+}

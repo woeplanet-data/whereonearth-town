@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.567, 
+              48.620
+            ], 
+            [
+              -123.567, 
+              48.650
+            ], 
+            [
+              -123.529, 
+              48.650
+            ], 
+            [
+              -123.529, 
+              48.620
+            ], 
+            [
+              -123.567, 
+              48.620
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 23405104, 
+        "name": "Mill Bay", 
+        "adjacent_woeid": [
+          9842, 
+          23405345, 
+          29373953
+        ], 
+        "ne_latitude": 48.650, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.529, 
+        "longitude": -123.556, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:54Z", 
+        "parent_woeid": 29375119, 
+        "latitude": 48.644, 
+        "sw_longitude": -123.567, 
+        "fullname": "Mill Bay, British Columbia, Cowichan Valley, Canada", 
+        "sw_latitude": 48.620
+      }, 
+      "id": 23405104
+    }
+  ]
+}

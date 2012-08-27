@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.095, 
+              20.506
+            ], 
+            [
+              -100.095, 
+              20.525
+            ], 
+            [
+              -100.075, 
+              20.525
+            ], 
+            [
+              -100.075, 
+              20.506
+            ], 
+            [
+              -100.095, 
+              20.506
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.525, 
+        "name": "San Clemente", 
+        "adjacent_woeid": [
+          117522, 
+          124345, 
+          127368, 
+          127487, 
+          128058, 
+          129802, 
+          142721, 
+          55908989
+        ], 
+        "woeid": 142125, 
+        "alias_SPA_V": [
+          "S. Clemente"
+        ], 
+        "ne_longitude": -100.075, 
+        "longitude": -100.085, 
+        "parent_woeid": 12601454, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.515, 
+        "sw_longitude": -100.095, 
+        "fullname": "San Clemente, Queretaro de Arteaga, Pedro Escobedo, Mexico", 
+        "sw_latitude": 20.506
+      }, 
+      "id": 142125
+    }
+  ]
+}

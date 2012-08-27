@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.233, 
+              47.486
+            ], 
+            [
+              10.233, 
+              47.504
+            ], 
+            [
+              10.260, 
+              47.504
+            ], 
+            [
+              10.260, 
+              47.486
+            ], 
+            [
+              10.233, 
+              47.486
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 29347667, 
+        "name": "Wielenberg", 
+        "adjacent_woeid": [
+          638515, 
+          676415, 
+          683033, 
+          693833
+        ], 
+        "ne_latitude": 47.504, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.260, 
+        "longitude": 10.246, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:32Z", 
+        "parent_woeid": 12635023, 
+        "latitude": 47.495, 
+        "sw_longitude": 10.233, 
+        "fullname": "Wielenberg, Bavaria, Oberallg\u00e4u, Germany", 
+        "sw_latitude": 47.486
+      }, 
+      "id": 29347667
+    }
+  ]
+}

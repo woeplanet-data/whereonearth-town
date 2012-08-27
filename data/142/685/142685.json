@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -112.333, 
+              31.584
+            ], 
+            [
+              -112.333, 
+              31.602
+            ], 
+            [
+              -112.312, 
+              31.602
+            ], 
+            [
+              -112.312, 
+              31.584
+            ], 
+            [
+              -112.333, 
+              31.584
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 31.602, 
+        "name": "San Francisquito", 
+        "adjacent_woeid": [
+          116985, 
+          119147, 
+          121549, 
+          138109, 
+          144279
+        ], 
+        "woeid": 142685, 
+        "alias_SPA_V": [
+          "S Francisquito"
+        ], 
+        "ne_longitude": -112.312, 
+        "longitude": -112.323, 
+        "parent_woeid": 12601561, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 31.593, 
+        "sw_longitude": -112.333, 
+        "fullname": "San Francisquito, Sonora, Caborca, Mexico", 
+        "sw_latitude": 31.584
+      }, 
+      "id": 142685
+    }
+  ]
+}

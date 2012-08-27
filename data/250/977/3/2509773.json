@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.100, 
+              36.390
+            ], 
+            [
+              -89.100, 
+              36.466
+            ], 
+            [
+              -88.999, 
+              36.466
+            ], 
+            [
+              -88.999, 
+              36.390
+            ], 
+            [
+              -89.100, 
+              36.390
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2509773, 
+        "name": "Union City", 
+        "adjacent_woeid": [
+          2399678, 
+          2408139, 
+          2417982, 
+          2420671, 
+          2424433, 
+          2431712, 
+          2446279, 
+          2447798, 
+          2450724, 
+          2464834, 
+          2482470, 
+          2493023, 
+          2496248, 
+          2502232, 
+          2506689, 
+          2508201, 
+          2523287
+        ], 
+        "ne_latitude": 36.466, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "UCY"
+        ], 
+        "ne_longitude": -88.999, 
+        "longitude": -89.057, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:38:37Z", 
+        "parent_woeid": 12589977, 
+        "latitude": 36.424, 
+        "sw_longitude": -89.100, 
+        "fullname": "Union City, Tennessee, Obion, United States", 
+        "sw_latitude": 36.390
+      }, 
+      "id": 2509773
+    }
+  ]
+}

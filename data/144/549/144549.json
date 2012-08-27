@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.093, 
+              20.624
+            ], 
+            [
+              -99.093, 
+              20.642
+            ], 
+            [
+              -99.074, 
+              20.642
+            ], 
+            [
+              -99.074, 
+              20.624
+            ], 
+            [
+              -99.093, 
+              20.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.642, 
+        "name": "San Miguel", 
+        "adjacent_woeid": [
+          128246, 
+          147309, 
+          147435
+        ], 
+        "woeid": 144549, 
+        "alias_SPA_V": [
+          "S. Miguel"
+        ], 
+        "ne_longitude": -99.074, 
+        "longitude": -99.083, 
+        "parent_woeid": 12600123, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.633, 
+        "sw_longitude": -99.093, 
+        "fullname": "San Miguel, Hidalgo, Cardonal, Mexico", 
+        "sw_latitude": 20.624
+      }, 
+      "id": 144549
+    }
+  ]
+}

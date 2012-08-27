@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.911, 
+              50.705
+            ], 
+            [
+              11.911, 
+              50.741
+            ], 
+            [
+              11.934, 
+              50.741
+            ], 
+            [
+              11.934, 
+              50.705
+            ], 
+            [
+              11.911, 
+              50.705
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 699545, 
+        "name": "Tischendorf", 
+        "adjacent_woeid": [
+          640835, 
+          656049, 
+          700469, 
+          706158
+        ], 
+        "ne_latitude": 50.741, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.934, 
+        "longitude": 11.921, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:34Z", 
+        "parent_woeid": 12625479, 
+        "latitude": 50.729, 
+        "sw_longitude": 11.911, 
+        "fullname": "Tischendorf, Thuringia, Landkreis Greiz, Germany", 
+        "sw_latitude": 50.705
+      }, 
+      "id": 699545
+    }
+  ]
+}

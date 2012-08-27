@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -108.546, 
+              27.624
+            ], 
+            [
+              -108.546, 
+              27.643
+            ], 
+            [
+              -108.526, 
+              27.643
+            ], 
+            [
+              -108.526, 
+              27.624
+            ], 
+            [
+              -108.546, 
+              27.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.643, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          113272, 
+          118249, 
+          124351, 
+          127182, 
+          130954, 
+          133352
+        ], 
+        "woeid": 145666, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -108.526, 
+        "longitude": -108.536, 
+        "parent_woeid": 12599833, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.633, 
+        "sw_longitude": -108.546, 
+        "fullname": "Santa Ana, Chihuahua, Chinipas, Mexico", 
+        "sw_latitude": 27.624
+      }, 
+      "id": 145666
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.453, 
+              24.879
+            ], 
+            [
+              -99.453, 
+              24.897
+            ], 
+            [
+              -99.433, 
+              24.897
+            ], 
+            [
+              -99.433, 
+              24.879
+            ], 
+            [
+              -99.453, 
+              24.879
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.897, 
+        "name": "El Popote", 
+        "adjacent_woeid": [
+          114867, 
+          115341, 
+          121723, 
+          124219, 
+          129085
+        ], 
+        "woeid": 121564, 
+        "alias_SPA_V": [
+          "Ejido El Popote"
+        ], 
+        "ne_longitude": -99.433, 
+        "longitude": -99.443, 
+        "parent_woeid": 12600636, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.888, 
+        "sw_longitude": -99.453, 
+        "fullname": "El Popote, Nuevo Leon, Linares, Mexico", 
+        "sw_latitude": 24.879
+      }, 
+      "id": 121564
+    }
+  ]
+}

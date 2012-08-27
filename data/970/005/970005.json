@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.904, 
+              50.383
+            ], 
+            [
+              3.904, 
+              50.401
+            ], 
+            [
+              3.933, 
+              50.401
+            ], 
+            [
+              3.933, 
+              50.383
+            ], 
+            [
+              3.904, 
+              50.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 970005, 
+        "name": "Genly", 
+        "adjacent_woeid": [
+          967383, 
+          967752, 
+          969474, 
+          974959, 
+          975995, 
+          976626
+        ], 
+        "ne_latitude": 50.401, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.933, 
+        "longitude": 3.919, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:04Z", 
+        "parent_woeid": 12602454, 
+        "latitude": 50.392, 
+        "sw_longitude": 3.904, 
+        "fullname": "Genly, Hainault, Mons, Belgium", 
+        "sw_latitude": 50.383
+      }, 
+      "id": 970005
+    }
+  ]
+}

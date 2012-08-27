@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.527, 
+              49.338
+            ], 
+            [
+              10.527, 
+              49.356
+            ], 
+            [
+              10.555, 
+              49.356
+            ], 
+            [
+              10.555, 
+              49.338
+            ], 
+            [
+              10.527, 
+              49.338
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 642316, 
+        "name": "Buhlsbach", 
+        "adjacent_woeid": [
+          636738, 
+          669401, 
+          692337, 
+          697953
+        ], 
+        "ne_latitude": 49.356, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.555, 
+        "longitude": 10.541, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:57Z", 
+        "parent_woeid": 12634409, 
+        "latitude": 49.347, 
+        "sw_longitude": 10.527, 
+        "fullname": "Buhlsbach, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.338
+      }, 
+      "id": 642316
+    }
+  ]
+}

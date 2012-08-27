@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.002, 
+              40.183
+            ], 
+            [
+              0.002, 
+              40.240
+            ], 
+            [
+              0.054, 
+              40.240
+            ], 
+            [
+              0.054, 
+              40.183
+            ], 
+            [
+              0.002, 
+              40.183
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 40.240, 
+        "name": "Benlloch", 
+        "adjacent_woeid": [
+          751764, 
+          751818, 
+          755257, 
+          774543, 
+          775732, 
+          776733, 
+          779330, 
+          20224606, 
+          29370032, 
+          29370053
+        ], 
+        "woeid": 754303, 
+        "alias_SPA_V": [
+          "Bennloch"
+        ], 
+        "ne_longitude": 0.054, 
+        "longitude": 0.028, 
+        "parent_woeid": 12695433, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:11Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 40.211, 
+        "sw_longitude": 0.002, 
+        "fullname": "Benlloch, Valencia, Castellon, Spain", 
+        "sw_latitude": 40.183
+      }, 
+      "id": 754303
+    }
+  ]
+}

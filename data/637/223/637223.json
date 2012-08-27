@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.452, 
+              50.140
+            ], 
+            [
+              11.452, 
+              50.158
+            ], 
+            [
+              11.481, 
+              50.158
+            ], 
+            [
+              11.481, 
+              50.140
+            ], 
+            [
+              11.452, 
+              50.140
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 637223, 
+        "name": "Baumgarten", 
+        "adjacent_woeid": [
+          652062, 
+          655780, 
+          670877, 
+          682025
+        ], 
+        "ne_latitude": 50.158, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.481, 
+        "longitude": 11.466, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:38Z", 
+        "parent_woeid": 12635350, 
+        "latitude": 50.149, 
+        "sw_longitude": 11.452, 
+        "fullname": "Baumgarten, Bavaria, Landkreis Kulmbach, Germany", 
+        "sw_latitude": 50.140
+      }, 
+      "id": 637223
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.352, 
+              45.387
+            ], 
+            [
+              4.352, 
+              45.425
+            ], 
+            [
+              4.394, 
+              45.425
+            ], 
+            [
+              4.394, 
+              45.387
+            ], 
+            [
+              4.352, 
+              45.387
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20210054, 
+        "name": "La Ricamarie", 
+        "adjacent_woeid": [
+          602499, 
+          616827, 
+          619640, 
+          623868, 
+          624116, 
+          626795
+        ], 
+        "ne_latitude": 45.425, 
+        "ne_longitude": 4.394, 
+        "longitude": 4.366, 
+        "parent_woeid": 12663943, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Ricamerie"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:38Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.404, 
+        "sw_longitude": 4.352, 
+        "fullname": "La Ricamarie, Rhone-Alpes, Loire, France", 
+        "sw_latitude": 45.387
+      }, 
+      "id": 20210054
+    }
+  ]
+}

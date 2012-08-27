@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.608, 
+              50.795
+            ], 
+            [
+              1.608, 
+              50.813
+            ], 
+            [
+              1.637, 
+              50.813
+            ], 
+            [
+              1.637, 
+              50.795
+            ], 
+            [
+              1.608, 
+              50.795
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29333131, 
+        "name": "La Slack", 
+        "adjacent_woeid": [
+          578526, 
+          618898, 
+          29332982
+        ], 
+        "ne_latitude": 50.813, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.637, 
+        "longitude": 1.623, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:12Z", 
+        "parent_woeid": 12655168, 
+        "latitude": 50.804, 
+        "sw_longitude": 1.608, 
+        "fullname": "La Slack, Nord-Pas-de-Calais, Pas-de-Calais, France", 
+        "sw_latitude": 50.795
+      }, 
+      "id": 29333131
+    }
+  ]
+}

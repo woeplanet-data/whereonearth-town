@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.354, 
+              45.325
+            ], 
+            [
+              1.354, 
+              45.361
+            ], 
+            [
+              1.373, 
+              45.361
+            ], 
+            [
+              1.373, 
+              45.325
+            ], 
+            [
+              1.354, 
+              45.325
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601588, 
+        "name": "Lascaux", 
+        "adjacent_woeid": [
+          583801, 
+          586694, 
+          623311, 
+          627010, 
+          631347
+        ], 
+        "ne_latitude": 45.361, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.373, 
+        "longitude": 1.364, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "parent_woeid": 12664531, 
+        "latitude": 45.339, 
+        "sw_longitude": 1.354, 
+        "fullname": "Lascaux, Limousin, Correze, France", 
+        "sw_latitude": 45.325
+      }, 
+      "id": 601588
+    }
+  ]
+}

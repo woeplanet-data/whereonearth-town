@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.259, 
+              15.091
+            ], 
+            [
+              -92.259, 
+              15.109
+            ], 
+            [
+              -92.241, 
+              15.109
+            ], 
+            [
+              -92.241, 
+              15.091
+            ], 
+            [
+              -92.259, 
+              15.091
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.109, 
+        "name": "Las Chicharras", 
+        "adjacent_woeid": [
+          121084, 
+          122052, 
+          128041, 
+          129099, 
+          132825, 
+          134725
+        ], 
+        "woeid": 130167, 
+        "alias_SPA_V": [
+          "S. Juan Las Chicharras"
+        ], 
+        "ne_longitude": -92.241, 
+        "longitude": -92.250, 
+        "parent_woeid": 12599798, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.100, 
+        "sw_longitude": -92.259, 
+        "fullname": "Las Chicharras, Chiapas, Tapachula, Mexico", 
+        "sw_latitude": 15.091
+      }, 
+      "id": 130167
+    }
+  ]
+}

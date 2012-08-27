@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -58.037, 
+              -33.276
+            ], 
+            [
+              -58.037, 
+              -33.251
+            ], 
+            [
+              -58.008, 
+              -33.251
+            ], 
+            [
+              -58.008, 
+              -33.276
+            ], 
+            [
+              -58.037, 
+              -33.276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.251, 
+        "name": "Mercedes", 
+        "adjacent_woeid": [
+          380844, 
+          468033, 
+          468040, 
+          468060, 
+          468063, 
+          468104, 
+          26796592, 
+          28743658
+        ], 
+        "woeid": 468067, 
+        "alias_SPA_V": [
+          "Ciudad de Mercedes"
+        ], 
+        "ne_longitude": -58.008, 
+        "longitude": -58.023, 
+        "parent_woeid": 2347656, 
+        "placetype": "Town", 
+        "iso": "UY", 
+        "date_indexed": "2010-12-02T17:58:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.264, 
+        "sw_longitude": -58.037, 
+        "fullname": "Mercedes, Soriano, Uruguay", 
+        "sw_latitude": -33.276
+      }, 
+      "id": 468067
+    }
+  ]
+}

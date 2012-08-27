@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.443, 
+              21.041
+            ], 
+            [
+              -100.443, 
+              21.059
+            ], 
+            [
+              -100.424, 
+              21.059
+            ], 
+            [
+              -100.424, 
+              21.041
+            ], 
+            [
+              -100.443, 
+              21.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.059, 
+        "name": "Galomo", 
+        "adjacent_woeid": [
+          117667, 
+          119802, 
+          126313, 
+          127479, 
+          129980
+        ], 
+        "woeid": 123880, 
+        "alias_SPA_V": [
+          "Plan de Galomo"
+        ], 
+        "ne_longitude": -100.424, 
+        "longitude": -100.433, 
+        "parent_woeid": 12600020, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.050, 
+        "sw_longitude": -100.443, 
+        "fullname": "Galomo, Guanajuato, San Jose Iturbide, Mexico", 
+        "sw_latitude": 21.041
+      }, 
+      "id": 123880
+    }
+  ]
+}

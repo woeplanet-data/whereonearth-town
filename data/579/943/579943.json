@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.749, 
+              44.924
+            ], 
+            [
+              1.749, 
+              44.956
+            ], 
+            [
+              1.801, 
+              44.956
+            ], 
+            [
+              1.801, 
+              44.924
+            ], 
+            [
+              1.749, 
+              44.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 579943, 
+        "name": "Bilhac", 
+        "adjacent_woeid": [
+          579637, 
+          608218, 
+          618414, 
+          618587, 
+          622208, 
+          628122
+        ], 
+        "ne_latitude": 44.956, 
+        "ne_longitude": 1.801, 
+        "longitude": 1.775, 
+        "parent_woeid": 12657084, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Billac"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.944, 
+        "sw_longitude": 1.749, 
+        "fullname": "Bilhac, Limousin, Correze, France", 
+        "sw_latitude": 44.924
+      }, 
+      "id": 579943
+    }
+  ]
+}

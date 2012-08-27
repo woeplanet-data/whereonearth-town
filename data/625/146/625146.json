@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.014, 
+              45.333
+            ], 
+            [
+              0.014, 
+              45.374
+            ], 
+            [
+              0.060, 
+              45.374
+            ], 
+            [
+              0.060, 
+              45.333
+            ], 
+            [
+              0.014, 
+              45.333
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625146, 
+        "name": "St.-Laurent-des-Combes", 
+        "adjacent_woeid": [
+          581944, 
+          585077, 
+          623984, 
+          625503
+        ], 
+        "ne_latitude": 45.374, 
+        "alias_ENG_V": [
+          "Saint-Laurent"
+        ], 
+        "ne_longitude": 0.060, 
+        "longitude": 0.036, 
+        "parent_woeid": 12670732, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Laurent-des-Combes"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.355, 
+        "sw_longitude": 0.014, 
+        "fullname": "St.-Laurent-des-Combes, St-Laurent, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.333
+      }, 
+      "id": 625146
+    }
+  ]
+}

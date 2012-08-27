@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.714, 
+              49.214
+            ], 
+            [
+              3.714, 
+              49.241
+            ], 
+            [
+              3.761, 
+              49.241
+            ], 
+            [
+              3.761, 
+              49.214
+            ], 
+            [
+              3.714, 
+              49.214
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 582120, 
+        "name": "Brouillet", 
+        "adjacent_woeid": [
+          576459, 
+          588098, 
+          600845, 
+          622031
+        ], 
+        "ne_latitude": 49.241, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.761, 
+        "longitude": 3.741, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "parent_woeid": 12640029, 
+        "latitude": 49.226, 
+        "sw_longitude": 3.714, 
+        "fullname": "Brouillet, Champagne-Ardenne, Marne, France", 
+        "sw_latitude": 49.214
+      }, 
+      "id": 582120
+    }
+  ]
+}

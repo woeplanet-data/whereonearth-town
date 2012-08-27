@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.134, 
+              46.369
+            ], 
+            [
+              -73.134, 
+              46.492
+            ], 
+            [
+              -72.951, 
+              46.492
+            ], 
+            [
+              -72.951, 
+              46.369
+            ], 
+            [
+              -73.134, 
+              46.369
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394602, 
+        "name": "St.-Paulin", 
+        "adjacent_woeid": [
+          3466, 
+          23394340, 
+          23394512, 
+          23395651, 
+          23396422, 
+          23396528
+        ], 
+        "ne_latitude": 46.492, 
+        "ne_longitude": -72.951, 
+        "longitude": -73.014, 
+        "parent_woeid": 29375146, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Paulin"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.418, 
+        "sw_longitude": -73.134, 
+        "fullname": "St.-Paulin, Quebec, Maskinong\u00e9, Canada", 
+        "sw_latitude": 46.369
+      }, 
+      "id": 23394602
+    }
+  ]
+}

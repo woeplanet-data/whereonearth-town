@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.160, 
+              21.041
+            ], 
+            [
+              -98.160, 
+              21.059
+            ], 
+            [
+              -98.140, 
+              21.059
+            ], 
+            [
+              -98.140, 
+              21.041
+            ], 
+            [
+              -98.160, 
+              21.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.059, 
+        "name": "El Ixtle", 
+        "adjacent_woeid": [
+          112280, 
+          113850, 
+          115924, 
+          136251, 
+          148687
+        ], 
+        "woeid": 120528, 
+        "alias_SPA_V": [
+          "Ixtle"
+        ], 
+        "ne_longitude": -98.140, 
+        "longitude": -98.150, 
+        "parent_woeid": 12601757, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.050, 
+        "sw_longitude": -98.160, 
+        "fullname": "El Ixtle, Veracruz-Llave, Chicontepec, Mexico", 
+        "sw_latitude": 21.041
+      }, 
+      "id": 120528
+    }
+  ]
+}

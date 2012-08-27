@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.188, 
+              49.236
+            ], 
+            [
+              1.188, 
+              49.268
+            ], 
+            [
+              1.228, 
+              49.268
+            ], 
+            [
+              1.228, 
+              49.236
+            ], 
+            [
+              1.188, 
+              49.236
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604851, 
+        "name": "Le Vaudreuil", 
+        "adjacent_woeid": [
+          595185, 
+          617579, 
+          623923, 
+          628836
+        ], 
+        "ne_latitude": 49.268, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.228, 
+        "longitude": 1.209, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "parent_woeid": 12647731, 
+        "latitude": 49.256, 
+        "sw_longitude": 1.188, 
+        "fullname": "Le Vaudreuil, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.236
+      }, 
+      "id": 604851
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.194, 
+              27.891
+            ], 
+            [
+              -105.194, 
+              27.909
+            ], 
+            [
+              -105.173, 
+              27.909
+            ], 
+            [
+              -105.173, 
+              27.891
+            ], 
+            [
+              -105.194, 
+              27.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 27.909, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          121586, 
+          127113, 
+          130402, 
+          130765, 
+          144187, 
+          150508
+        ], 
+        "woeid": 145180, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -105.173, 
+        "longitude": -105.183, 
+        "parent_woeid": 12599857, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 27.900, 
+        "sw_longitude": -105.194, 
+        "fullname": "San Rafael, Chihuahua, La Cruz, Mexico", 
+        "sw_latitude": 27.891
+      }, 
+      "id": 145180
+    }
+  ]
+}

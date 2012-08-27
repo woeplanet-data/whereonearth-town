@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.705, 
+              50.650
+            ], 
+            [
+              9.705, 
+              50.685
+            ], 
+            [
+              9.730, 
+              50.685
+            ], 
+            [
+              9.730, 
+              50.650
+            ], 
+            [
+              9.705, 
+              50.650
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 678830, 
+        "name": "Neunhards", 
+        "adjacent_woeid": [
+          662968, 
+          690289, 
+          691048, 
+          701191
+        ], 
+        "ne_latitude": 50.685, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.730, 
+        "longitude": 9.717, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:41Z", 
+        "parent_woeid": 12632750, 
+        "latitude": 50.667, 
+        "sw_longitude": 9.705, 
+        "fullname": "Neunhards, Hesse, Landkreis Fulda, Germany", 
+        "sw_latitude": 50.650
+      }, 
+      "id": 678830
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.451, 
+              15.114
+            ], 
+            [
+              -88.451, 
+              15.132
+            ], 
+            [
+              -88.432, 
+              15.132
+            ], 
+            [
+              -88.432, 
+              15.114
+            ], 
+            [
+              -88.451, 
+              15.114
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.132, 
+        "name": "San Luis", 
+        "adjacent_woeid": [
+          98139, 
+          98161, 
+          103582, 
+          105410, 
+          105450, 
+          106111, 
+          106913, 
+          107059, 
+          107877, 
+          107891
+        ], 
+        "woeid": 107025, 
+        "alias_SPA_V": [
+          "S Luis"
+        ], 
+        "ne_longitude": -88.432, 
+        "longitude": -88.441, 
+        "parent_woeid": 26813801, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "S. Luis Pajon"
+        ], 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.123, 
+        "sw_longitude": -88.451, 
+        "fullname": "San Luis, Santa B\u00e1rbara, San Luis, Honduras", 
+        "sw_latitude": 15.114
+      }, 
+      "id": 107025
+    }
+  ]
+}

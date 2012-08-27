@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.210, 
+              25.141
+            ], 
+            [
+              -99.210, 
+              25.159
+            ], 
+            [
+              -99.190, 
+              25.159
+            ], 
+            [
+              -99.190, 
+              25.141
+            ], 
+            [
+              -99.210, 
+              25.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.159, 
+        "name": "San Felipe", 
+        "adjacent_woeid": [
+          122792, 
+          130043, 
+          130597, 
+          142818, 
+          150561
+        ], 
+        "woeid": 142316, 
+        "alias_SPA_V": [
+          "S Felipe"
+        ], 
+        "ne_longitude": -99.190, 
+        "longitude": -99.200, 
+        "parent_woeid": 12600625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.150, 
+        "sw_longitude": -99.210, 
+        "fullname": "San Felipe, Nuevo Leon, General Teran, Mexico", 
+        "sw_latitude": 25.141
+      }, 
+      "id": 142316
+    }
+  ]
+}

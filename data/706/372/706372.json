@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.903, 
+              50.291
+            ], 
+            [
+              10.903, 
+              50.309
+            ], 
+            [
+              10.931, 
+              50.309
+            ], 
+            [
+              10.931, 
+              50.291
+            ], 
+            [
+              10.903, 
+              50.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 706372, 
+        "name": "Wiesenfeld", 
+        "adjacent_woeid": [
+          637532, 
+          668366, 
+          675764, 
+          698307, 
+          29348725
+        ], 
+        "ne_latitude": 50.309, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.931, 
+        "longitude": 10.917, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:56Z", 
+        "parent_woeid": 12635293, 
+        "latitude": 50.300, 
+        "sw_longitude": 10.903, 
+        "fullname": "Wiesenfeld, Bavaria, Landkreis Coburg, Germany", 
+        "sw_latitude": 50.291
+      }, 
+      "id": 706372
+    }
+  ]
+}

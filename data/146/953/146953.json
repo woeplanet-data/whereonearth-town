@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.310, 
+              22.391
+            ], 
+            [
+              -101.310, 
+              22.409
+            ], 
+            [
+              -101.290, 
+              22.409
+            ], 
+            [
+              -101.290, 
+              22.391
+            ], 
+            [
+              -101.310, 
+              22.391
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.409, 
+        "name": "Santa Teresa", 
+        "adjacent_woeid": [
+          115277, 
+          115428, 
+          123028, 
+          128632, 
+          145629, 
+          147014, 
+          149765
+        ], 
+        "woeid": 146953, 
+        "alias_SPA_V": [
+          "Sta Teresa"
+        ], 
+        "ne_longitude": -101.290, 
+        "longitude": -101.300, 
+        "parent_woeid": 12601469, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.400, 
+        "sw_longitude": -101.310, 
+        "fullname": "Santa Teresa, San Luis Potosi, Ahualulco, Mexico", 
+        "sw_latitude": 22.391
+      }, 
+      "id": 146953
+    }
+  ]
+}

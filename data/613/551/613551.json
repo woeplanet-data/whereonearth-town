@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.768, 
+              48.604
+            ], 
+            [
+              0.768, 
+              48.675
+            ], 
+            [
+              0.833, 
+              48.675
+            ], 
+            [
+              0.833, 
+              48.604
+            ], 
+            [
+              0.768, 
+              48.604
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613551, 
+        "name": "Moussonvilliers", 
+        "adjacent_woeid": [
+          597471, 
+          609803, 
+          619776, 
+          625861
+        ], 
+        "ne_latitude": 48.675, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.833, 
+        "longitude": 0.794, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 12646350, 
+        "latitude": 48.637, 
+        "sw_longitude": 0.768, 
+        "fullname": "Moussonvilliers, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.604
+      }, 
+      "id": 613551
+    }
+  ]
+}

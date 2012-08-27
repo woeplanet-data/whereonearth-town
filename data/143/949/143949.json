@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.443, 
+              19.641
+            ], 
+            [
+              -98.443, 
+              19.659
+            ], 
+            [
+              -98.424, 
+              19.659
+            ], 
+            [
+              -98.424, 
+              19.641
+            ], 
+            [
+              -98.443, 
+              19.641
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.659, 
+        "name": "San Juan Ixtilmaco", 
+        "adjacent_woeid": [
+          111889, 
+          112224, 
+          113375, 
+          131035, 
+          144801
+        ], 
+        "woeid": 143949, 
+        "alias_SPA_V": [
+          "S Juan Ixtilmaco"
+        ], 
+        "ne_longitude": -98.424, 
+        "longitude": -98.433, 
+        "parent_woeid": 12600116, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.650, 
+        "sw_longitude": -98.443, 
+        "fullname": "San Juan Ixtilmaco, Hidalgo, Almoloya, Mexico", 
+        "sw_latitude": 19.641
+      }, 
+      "id": 143949
+    }
+  ]
+}

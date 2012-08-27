@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.403, 
+              45.922
+            ], 
+            [
+              5.403, 
+              45.931
+            ], 
+            [
+              5.416, 
+              45.931
+            ], 
+            [
+              5.416, 
+              45.922
+            ], 
+            [
+              5.403, 
+              45.922
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612601, 
+        "name": "Montferrand", 
+        "adjacent_woeid": [
+          621971, 
+          628788, 
+          20207910, 
+          20207911
+        ], 
+        "ne_latitude": 45.931, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.416, 
+        "longitude": 5.409, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "parent_woeid": 12665477, 
+        "latitude": 45.927, 
+        "sw_longitude": 5.403, 
+        "fullname": "Montferrand, Rhone-Alpes, Ain, France", 
+        "sw_latitude": 45.922
+      }, 
+      "id": 612601
+    }
+  ]
+}

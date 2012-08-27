@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.249, 
+              44.868
+            ], 
+            [
+              1.249, 
+              44.904
+            ], 
+            [
+              1.297, 
+              44.904
+            ], 
+            [
+              1.297, 
+              44.868
+            ], 
+            [
+              1.249, 
+              44.868
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627288, 
+        "name": "St.-Vincent-le-Paluel", 
+        "adjacent_woeid": [
+          575543, 
+          582724, 
+          583139, 
+          617893, 
+          627689
+        ], 
+        "ne_latitude": 44.904, 
+        "ne_longitude": 1.297, 
+        "longitude": 1.286, 
+        "parent_woeid": 12640308, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Vincent-le-Paluel"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.892, 
+        "sw_longitude": 1.249, 
+        "fullname": "St.-Vincent-le-Paluel, Aquitaine, Dordogne, France", 
+        "sw_latitude": 44.868
+      }, 
+      "id": 627288
+    }
+  ]
+}

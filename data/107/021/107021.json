@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -86.963, 
+              13.731
+            ], 
+            [
+              -86.963, 
+              13.750
+            ], 
+            [
+              -86.944, 
+              13.750
+            ], 
+            [
+              -86.944, 
+              13.731
+            ], 
+            [
+              -86.963, 
+              13.731
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.750, 
+        "name": "San Lucas", 
+        "adjacent_woeid": [
+          102133, 
+          105101, 
+          105559, 
+          106667, 
+          107753, 
+          107964, 
+          108108
+        ], 
+        "woeid": 107021, 
+        "alias_SPA_V": [
+          "S Lucas"
+        ], 
+        "ne_longitude": -86.944, 
+        "longitude": -86.954, 
+        "parent_woeid": 26813799, 
+        "placetype": "Town", 
+        "iso": "HN", 
+        "date_indexed": "2010-12-02T19:21:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.740, 
+        "sw_longitude": -86.963, 
+        "fullname": "San Lucas, El Para\u00edso, San Lucas, Honduras", 
+        "sw_latitude": 13.731
+      }, 
+      "id": 107021
+    }
+  ]
+}

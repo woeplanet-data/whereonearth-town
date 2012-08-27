@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.744, 
+              48.465
+            ], 
+            [
+              10.744, 
+              48.474
+            ], 
+            [
+              10.758, 
+              48.474
+            ], 
+            [
+              10.758, 
+              48.465
+            ], 
+            [
+              10.744, 
+              48.465
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675916, 
+        "name": "Monburg", 
+        "adjacent_woeid": [
+          633446, 
+          659225, 
+          670706, 
+          673254, 
+          676991
+        ], 
+        "ne_latitude": 48.474, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.758, 
+        "longitude": 10.751, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:41Z", 
+        "parent_woeid": 12634769, 
+        "latitude": 48.470, 
+        "sw_longitude": 10.744, 
+        "fullname": "Monburg, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.465
+      }, 
+      "id": 675916
+    }
+  ]
+}

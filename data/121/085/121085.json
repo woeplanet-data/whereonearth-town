@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.360, 
+              24.591
+            ], 
+            [
+              -103.360, 
+              24.609
+            ], 
+            [
+              -103.340, 
+              24.609
+            ], 
+            [
+              -103.340, 
+              24.591
+            ], 
+            [
+              -103.360, 
+              24.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.609, 
+        "name": "El Naranjo", 
+        "adjacent_woeid": [
+          118201, 
+          118232, 
+          127957, 
+          145539
+        ], 
+        "woeid": 121085, 
+        "alias_SPA_V": [
+          "Ca\u00f1as"
+        ], 
+        "ne_longitude": -103.340, 
+        "longitude": -103.350, 
+        "parent_woeid": 12599981, 
+        "placetype": "Town", 
+        "alias_SPA_S": [
+          "Canyas"
+        ], 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.600, 
+        "sw_longitude": -103.360, 
+        "fullname": "El Naranjo, Durango, Santa Clara, Mexico", 
+        "sw_latitude": 24.591
+      }, 
+      "id": 121085
+    }
+  ]
+}

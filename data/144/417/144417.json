@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.093, 
+              19.558
+            ], 
+            [
+              -105.093, 
+              19.576
+            ], 
+            [
+              -105.074, 
+              19.576
+            ], 
+            [
+              -105.074, 
+              19.558
+            ], 
+            [
+              -105.093, 
+              19.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.576, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          112252, 
+          115590, 
+          127472, 
+          148876
+        ], 
+        "woeid": 144417, 
+        "alias_SPA_V": [
+          "S Mateo"
+        ], 
+        "ne_longitude": -105.074, 
+        "longitude": -105.083, 
+        "parent_woeid": 12600250, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.567, 
+        "sw_longitude": -105.093, 
+        "fullname": "San Mateo, Jalisco, La Huerta, Mexico", 
+        "sw_latitude": 19.558
+      }, 
+      "id": 144417
+    }
+  ]
+}

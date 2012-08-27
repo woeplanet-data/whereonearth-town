@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.137, 
+              49.951
+            ], 
+            [
+              10.137, 
+              49.993
+            ], 
+            [
+              10.168, 
+              49.993
+            ], 
+            [
+              10.168, 
+              49.951
+            ], 
+            [
+              10.137, 
+              49.951
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 659251, 
+        "name": "Hergolshausen", 
+        "adjacent_woeid": [
+          643444, 
+          648930, 
+          651578, 
+          699165
+        ], 
+        "ne_latitude": 49.993, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.168, 
+        "longitude": 10.154, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12635436, 
+        "latitude": 49.964, 
+        "sw_longitude": 10.137, 
+        "fullname": "Hergolshausen, Bavaria, Landkreis Schweinfurt, Germany", 
+        "sw_latitude": 49.951
+      }, 
+      "id": 659251
+    }
+  ]
+}

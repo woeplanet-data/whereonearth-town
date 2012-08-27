@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.785, 
+              42.238
+            ], 
+            [
+              -1.785, 
+              42.308
+            ], 
+            [
+              -1.659, 
+              42.308
+            ], 
+            [
+              -1.659, 
+              42.238
+            ], 
+            [
+              -1.785, 
+              42.238
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "woeid": 777701, 
+        "name": "Villafranca", 
+        "adjacent_woeid": [
+          752900, 
+          755409, 
+          756024, 
+          761219, 
+          766556, 
+          767176
+        ], 
+        "ne_latitude": 42.308, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -1.659, 
+        "longitude": -1.746, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:13Z", 
+        "parent_woeid": 12688432, 
+        "latitude": 42.278, 
+        "sw_longitude": -1.785, 
+        "fullname": "Villafranca, Navarre, Navarre, Spain", 
+        "sw_latitude": 42.238
+      }, 
+      "id": 777701
+    }
+  ]
+}

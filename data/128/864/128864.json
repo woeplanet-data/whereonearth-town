@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.293, 
+              25.274
+            ], 
+            [
+              -100.293, 
+              25.292
+            ], 
+            [
+              -100.273, 
+              25.292
+            ], 
+            [
+              -100.273, 
+              25.274
+            ], 
+            [
+              -100.293, 
+              25.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.292, 
+        "name": "La Presa", 
+        "adjacent_woeid": [
+          116335, 
+          129807, 
+          134879, 
+          137250, 
+          143503, 
+          146667, 
+          146669
+        ], 
+        "woeid": 128864, 
+        "alias_SPA_V": [
+          "Presa"
+        ], 
+        "ne_longitude": -100.273, 
+        "longitude": -100.283, 
+        "parent_woeid": 12599889, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.283, 
+        "sw_longitude": -100.293, 
+        "fullname": "La Presa, Coahuila de Zaragoza, Arteaga, Mexico", 
+        "sw_latitude": 25.274
+      }, 
+      "id": 128864
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.568, 
+              48.566
+            ], 
+            [
+              3.568, 
+              48.575
+            ], 
+            [
+              3.581, 
+              48.575
+            ], 
+            [
+              3.581, 
+              48.566
+            ], 
+            [
+              3.568, 
+              48.566
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599888, 
+        "name": "La Rue", 
+        "adjacent_woeid": [
+          578122, 
+          616895, 
+          29333286
+        ], 
+        "ne_latitude": 48.575, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.581, 
+        "longitude": 3.574, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:41Z", 
+        "parent_woeid": 12650685, 
+        "latitude": 48.570, 
+        "sw_longitude": 3.568, 
+        "fullname": "La Rue, Champagne-Ardenne, Aube, France", 
+        "sw_latitude": 48.566
+      }, 
+      "id": 599888
+    }
+  ]
+}

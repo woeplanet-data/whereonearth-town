@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.210, 
+              46.414
+            ], 
+            [
+              2.210, 
+              46.432
+            ], 
+            [
+              2.234, 
+              46.432
+            ], 
+            [
+              2.234, 
+              46.414
+            ], 
+            [
+              2.210, 
+              46.414
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625482, 
+        "name": "St.-Marien", 
+        "adjacent_woeid": [
+          581357, 
+          582466, 
+          618066, 
+          626505, 
+          626588
+        ], 
+        "ne_latitude": 46.432, 
+        "ne_longitude": 2.234, 
+        "longitude": 2.222, 
+        "parent_woeid": 12663134, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marien"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.421, 
+        "sw_longitude": 2.210, 
+        "fullname": "St.-Marien, Limousin, Creuse, France", 
+        "sw_latitude": 46.414
+      }, 
+      "id": 625482
+    }
+  ]
+}

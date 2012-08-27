@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.905, 
+              43.116
+            ], 
+            [
+              1.905, 
+              43.134
+            ], 
+            [
+              1.929, 
+              43.134
+            ], 
+            [
+              1.929, 
+              43.116
+            ], 
+            [
+              1.905, 
+              43.116
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627524, 
+        "name": "Ste.-Foi", 
+        "adjacent_woeid": [
+          600788, 
+          609494, 
+          616856, 
+          619364, 
+          624087, 
+          624948
+        ], 
+        "ne_latitude": 43.134, 
+        "ne_longitude": 1.929, 
+        "longitude": 1.914, 
+        "parent_woeid": 12671401, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Foi"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.129, 
+        "sw_longitude": 1.905, 
+        "fullname": "Ste.-Foi, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.116
+      }, 
+      "id": 627524
+    }
+  ]
+}

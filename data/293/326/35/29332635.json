@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.701, 
+              44.831
+            ], 
+            [
+              3.701, 
+              44.850
+            ], 
+            [
+              3.727, 
+              44.850
+            ], 
+            [
+              3.727, 
+              44.831
+            ], 
+            [
+              3.701, 
+              44.831
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29332635, 
+        "name": "Le Tremoul", 
+        "adjacent_woeid": [
+          584540, 
+          623299, 
+          623470, 
+          29332634
+        ], 
+        "ne_latitude": 44.850, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.727, 
+        "longitude": 3.714, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 22754914, 
+        "latitude": 44.840, 
+        "sw_longitude": 3.701, 
+        "fullname": "Le Tremoul, Auvergne, Haute-Loire, France", 
+        "sw_latitude": 44.831
+      }, 
+      "id": 29332635
+    }
+  ]
+}

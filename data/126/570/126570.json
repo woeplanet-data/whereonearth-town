@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.799, 
+              24.312
+            ], 
+            [
+              -99.799, 
+              24.330
+            ], 
+            [
+              -99.779, 
+              24.330
+            ], 
+            [
+              -99.779, 
+              24.312
+            ], 
+            [
+              -99.799, 
+              24.312
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.330, 
+        "name": "La Caballada", 
+        "adjacent_woeid": [
+          118266, 
+          119725, 
+          125329, 
+          127303, 
+          129927, 
+          133646, 
+          143302
+        ], 
+        "woeid": 126570, 
+        "alias_SPA_V": [
+          "Caballada"
+        ], 
+        "ne_longitude": -99.779, 
+        "longitude": -99.789, 
+        "parent_woeid": 12600611, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.321, 
+        "sw_longitude": -99.799, 
+        "fullname": "La Caballada, Nuevo Leon, Aramberri, Mexico", 
+        "sw_latitude": 24.312
+      }, 
+      "id": 126570
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.876, 
+              17.791
+            ], 
+            [
+              -92.876, 
+              17.809
+            ], 
+            [
+              -92.857, 
+              17.809
+            ], 
+            [
+              -92.857, 
+              17.791
+            ], 
+            [
+              -92.876, 
+              17.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 17.809, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          112537, 
+          119886, 
+          129644, 
+          136993, 
+          137648
+        ], 
+        "woeid": 146857, 
+        "alias_SPA_V": [
+          "Sta Rosa"
+        ], 
+        "ne_longitude": -92.857, 
+        "longitude": -92.867, 
+        "parent_woeid": 12601623, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 17.800, 
+        "sw_longitude": -92.876, 
+        "fullname": "Santa Rosa, Tabasco, Jalapa, Mexico", 
+        "sw_latitude": 17.791
+      }, 
+      "id": 146857
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.047, 
+              46.863
+            ], 
+            [
+              0.047, 
+              46.895
+            ], 
+            [
+              0.078, 
+              46.895
+            ], 
+            [
+              0.078, 
+              46.863
+            ], 
+            [
+              0.047, 
+              46.863
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623528, 
+        "name": "St.-Clair", 
+        "adjacent_woeid": [
+          577237, 
+          592214, 
+          611280, 
+          20201588, 
+          20201595, 
+          20201598, 
+          20201602
+        ], 
+        "ne_latitude": 46.895, 
+        "ne_longitude": 0.078, 
+        "longitude": 0.063, 
+        "parent_woeid": 12670282, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Clair"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.881, 
+        "sw_longitude": 0.047, 
+        "fullname": "St.-Clair, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.863
+      }, 
+      "id": 623528
+    }
+  ]
+}

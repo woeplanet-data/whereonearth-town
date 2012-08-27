@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.776, 
+              20.610
+            ], 
+            [
+              -100.776, 
+              20.642
+            ], 
+            [
+              -100.748, 
+              20.642
+            ], 
+            [
+              -100.748, 
+              20.610
+            ], 
+            [
+              -100.776, 
+              20.610
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.642, 
+        "name": "San Juan de la Vega", 
+        "adjacent_woeid": [
+          123180, 
+          124257, 
+          133305, 
+          136922, 
+          142260, 
+          55883343, 
+          55894573, 
+          55902935, 
+          55908495
+        ], 
+        "woeid": 143887, 
+        "alias_SPA_V": [
+          "S Juan de la Vega"
+        ], 
+        "ne_longitude": -100.748, 
+        "longitude": -100.761, 
+        "parent_woeid": 12599995, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.627, 
+        "sw_longitude": -100.776, 
+        "fullname": "San Juan de la Vega, Guanajuato, Celaya, Mexico", 
+        "sw_latitude": 20.610
+      }, 
+      "id": 143887
+    }
+  ]
+}

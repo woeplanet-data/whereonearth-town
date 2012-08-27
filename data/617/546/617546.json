@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.565, 
+              46.991
+            ], 
+            [
+              0.565, 
+              47.012
+            ], 
+            [
+              0.623, 
+              47.012
+            ], 
+            [
+              0.623, 
+              46.991
+            ], 
+            [
+              0.565, 
+              46.991
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 617546, 
+        "name": "Port-de-Piles", 
+        "adjacent_woeid": [
+          614699, 
+          617605, 
+          618340, 
+          621284, 
+          20186110, 
+          20201686, 
+          20201687
+        ], 
+        "ne_latitude": 47.012, 
+        "ne_longitude": 0.623, 
+        "longitude": 0.599, 
+        "parent_woeid": 12668432, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Pt-de-Piles"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.004, 
+        "sw_longitude": 0.565, 
+        "fullname": "Port-de-Piles, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.991
+      }, 
+      "id": 617546
+    }
+  ]
+}

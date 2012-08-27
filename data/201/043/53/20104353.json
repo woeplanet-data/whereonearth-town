@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.733, 
+              47.320
+            ], 
+            [
+              8.733, 
+              47.338
+            ], 
+            [
+              8.760, 
+              47.338
+            ], 
+            [
+              8.760, 
+              47.320
+            ], 
+            [
+              8.733, 
+              47.320
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20104353, 
+        "name": "Sulzbach", 
+        "adjacent_woeid": [
+          20102151, 
+          20103346, 
+          20103496, 
+          20104885
+        ], 
+        "ne_latitude": 47.338, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.760, 
+        "longitude": 8.746, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:44Z", 
+        "parent_woeid": 12683596, 
+        "latitude": 47.329, 
+        "sw_longitude": 8.733, 
+        "fullname": "Sulzbach, Canton of Zurich, Uster, Switzerland", 
+        "sw_latitude": 47.320
+      }, 
+      "id": 20104353
+    }
+  ]
+}

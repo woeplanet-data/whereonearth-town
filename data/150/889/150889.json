@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -104.329, 
+              24.392
+            ], 
+            [
+              -104.329, 
+              24.409
+            ], 
+            [
+              -104.308, 
+              24.409
+            ], 
+            [
+              -104.308, 
+              24.392
+            ], 
+            [
+              -104.329, 
+              24.392
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.409, 
+        "name": "Villa Madero", 
+        "adjacent_woeid": [
+          112735, 
+          114850, 
+          123745, 
+          124366, 
+          126070, 
+          130461
+        ], 
+        "woeid": 150889, 
+        "alias_SPA_V": [
+          "Francisco I Madero"
+        ], 
+        "ne_longitude": -104.308, 
+        "longitude": -104.316, 
+        "parent_woeid": 12599970, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:34Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.401, 
+        "sw_longitude": -104.329, 
+        "fullname": "Villa Madero, Durango, Panuco de Coronado, Mexico", 
+        "sw_latitude": 24.392
+      }, 
+      "id": 150889
+    }
+  ]
+}

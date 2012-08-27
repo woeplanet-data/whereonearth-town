@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.060, 
+              16.791
+            ], 
+            [
+              -97.060, 
+              16.809
+            ], 
+            [
+              -97.040, 
+              16.809
+            ], 
+            [
+              -97.040, 
+              16.791
+            ], 
+            [
+              -97.060, 
+              16.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 16.809, 
+        "name": "San Pedro el Alto", 
+        "adjacent_woeid": [
+          112555, 
+          144665, 
+          145431, 
+          145836, 
+          26802969, 
+          55886089
+        ], 
+        "woeid": 145076, 
+        "alias_SPA_V": [
+          "S Pedro el Alto"
+        ], 
+        "ne_longitude": -97.040, 
+        "longitude": -97.050, 
+        "parent_woeid": 12601226, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 16.800, 
+        "sw_longitude": -97.060, 
+        "fullname": "San Pedro el Alto, Oaxaca, Zimatlan de Alvarez, Mexico", 
+        "sw_latitude": 16.791
+      }, 
+      "id": 145076
+    }
+  ]
+}

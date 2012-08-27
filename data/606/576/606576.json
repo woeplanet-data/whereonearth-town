@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.386, 
+              49.413
+            ], 
+            [
+              1.386, 
+              49.442
+            ], 
+            [
+              1.424, 
+              49.442
+            ], 
+            [
+              1.424, 
+              49.413
+            ], 
+            [
+              1.386, 
+              49.413
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 606576, 
+        "name": "Les Hogues", 
+        "adjacent_woeid": [
+          604776, 
+          630144, 
+          20187977, 
+          29330779
+        ], 
+        "ne_latitude": 49.442, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.424, 
+        "longitude": 1.397, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "parent_woeid": 12648009, 
+        "latitude": 49.426, 
+        "sw_longitude": 1.386, 
+        "fullname": "Les Hogues, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.413
+      }, 
+      "id": 606576
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.318, 
+              48.405
+            ], 
+            [
+              6.318, 
+              48.443
+            ], 
+            [
+              6.361, 
+              48.443
+            ], 
+            [
+              6.361, 
+              48.405
+            ], 
+            [
+              6.318, 
+              48.405
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624251, 
+        "name": "St.-Germain", 
+        "adjacent_woeid": [
+          583978, 
+          608658, 
+          631387
+        ], 
+        "ne_latitude": 48.443, 
+        "ne_longitude": 6.361, 
+        "longitude": 6.338, 
+        "parent_woeid": 12670506, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Germain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:45Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.431, 
+        "sw_longitude": 6.318, 
+        "fullname": "St.-Germain, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.405
+      }, 
+      "id": 624251
+    }
+  ]
+}

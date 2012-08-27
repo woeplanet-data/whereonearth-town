@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.101, 
+              48.047
+            ], 
+            [
+              10.101, 
+              48.078
+            ], 
+            [
+              10.146, 
+              48.078
+            ], 
+            [
+              10.146, 
+              48.047
+            ], 
+            [
+              10.101, 
+              48.047
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 701341, 
+        "name": "Unteropfingen", 
+        "adjacent_woeid": [
+          640159, 
+          681966, 
+          20157742
+        ], 
+        "ne_latitude": 48.078, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.146, 
+        "longitude": 10.128, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12623756, 
+        "latitude": 48.059, 
+        "sw_longitude": 10.101, 
+        "fullname": "Unteropfingen, Baden-Wurttemberg, Landkreis Biberach, Germany", 
+        "sw_latitude": 48.047
+      }, 
+      "id": 701341
+    }
+  ]
+}

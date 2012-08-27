@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.973, 
+              49.029
+            ], 
+            [
+              -0.973, 
+              49.057
+            ], 
+            [
+              -0.949, 
+              49.057
+            ], 
+            [
+              -0.949, 
+              49.029
+            ], 
+            [
+              -0.973, 
+              49.029
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622842, 
+        "name": "St.-Amand", 
+        "adjacent_woeid": [
+          592822, 
+          597452, 
+          603906, 
+          616746, 
+          627100
+        ], 
+        "ne_latitude": 49.057, 
+        "ne_longitude": -0.949, 
+        "longitude": -0.959, 
+        "parent_woeid": 12646033, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Amand"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.042, 
+        "sw_longitude": -0.973, 
+        "fullname": "St.-Amand, Basse-Normandie, Manche, France", 
+        "sw_latitude": 49.029
+      }, 
+      "id": 622842
+    }
+  ]
+}

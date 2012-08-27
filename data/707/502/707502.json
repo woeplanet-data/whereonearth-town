@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.337, 
+              49.908
+            ], 
+            [
+              11.337, 
+              49.926
+            ], 
+            [
+              11.364, 
+              49.926
+            ], 
+            [
+              11.364, 
+              49.908
+            ], 
+            [
+              11.337, 
+              49.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707502, 
+        "name": "Wohnsdorf", 
+        "adjacent_woeid": [
+          656685, 
+          675093, 
+          681936, 
+          685067, 
+          693035, 
+          696441, 
+          700173, 
+          29348013
+        ], 
+        "ne_latitude": 49.926, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.364, 
+        "longitude": 11.348, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12635264, 
+        "latitude": 49.917, 
+        "sw_longitude": 11.337, 
+        "fullname": "Wohnsdorf, Bavaria, Landkreis Bayreuth, Germany", 
+        "sw_latitude": 49.908
+      }, 
+      "id": 707502
+    }
+  ]
+}

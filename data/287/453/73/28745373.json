@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -77.133, 
+              40.295
+            ], 
+            [
+              -77.133, 
+              40.361
+            ], 
+            [
+              -76.936, 
+              40.361
+            ], 
+            [
+              -76.936, 
+              40.295
+            ], 
+            [
+              -77.133, 
+              40.295
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745373, 
+        "name": "Rye", 
+        "adjacent_woeid": [
+          2386138, 
+          2390866, 
+          2450333, 
+          2516506, 
+          28339965, 
+          28745279
+        ], 
+        "ne_latitude": 40.361, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Rye Township"
+        ], 
+        "ne_longitude": -76.936, 
+        "longitude": -76.985, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:15Z", 
+        "parent_woeid": 12589777, 
+        "latitude": 40.325, 
+        "sw_longitude": -77.133, 
+        "fullname": "Rye, Pennsylvania, Perry, United States", 
+        "sw_latitude": 40.295
+      }, 
+      "id": 28745373
+    }
+  ]
+}

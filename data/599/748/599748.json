@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.941, 
+              45.178
+            ], 
+            [
+              1.941, 
+              45.213
+            ], 
+            [
+              1.987, 
+              45.213
+            ], 
+            [
+              1.987, 
+              45.178
+            ], 
+            [
+              1.941, 
+              45.178
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599748, 
+        "name": "La Roche-Canillac", 
+        "adjacent_woeid": [
+          584147, 
+          593854, 
+          594125, 
+          625726
+        ], 
+        "ne_latitude": 45.213, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.987, 
+        "longitude": 1.971, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "parent_woeid": 12663964, 
+        "latitude": 45.196, 
+        "sw_longitude": 1.941, 
+        "fullname": "La Roche-Canillac, Limousin, Correze, France", 
+        "sw_latitude": 45.178
+      }, 
+      "id": 599748
+    }
+  ]
+}

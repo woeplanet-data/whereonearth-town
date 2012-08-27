@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.851, 
+              48.463
+            ], 
+            [
+              10.851, 
+              48.474
+            ], 
+            [
+              10.872, 
+              48.474
+            ], 
+            [
+              10.872, 
+              48.463
+            ], 
+            [
+              10.851, 
+              48.463
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20157482, 
+        "name": "Foret", 
+        "adjacent_woeid": [
+          633292, 
+          680746, 
+          697235, 
+          20157476
+        ], 
+        "ne_latitude": 48.474, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.872, 
+        "longitude": 10.865, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:37Z", 
+        "parent_woeid": 12636051, 
+        "latitude": 48.468, 
+        "sw_longitude": 10.851, 
+        "fullname": "Foret, Bavaria, Landkreis Augsburg, Germany", 
+        "sw_latitude": 48.463
+      }, 
+      "id": 20157482
+    }
+  ]
+}

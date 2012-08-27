@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.261, 
+              50.920
+            ], 
+            [
+              10.261, 
+              50.962
+            ], 
+            [
+              10.293, 
+              50.962
+            ], 
+            [
+              10.293, 
+              50.920
+            ], 
+            [
+              10.261, 
+              50.920
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 707680, 
+        "name": "Wolfsburg-Unkeroda", 
+        "adjacent_woeid": [
+          643190, 
+          646372, 
+          650170, 
+          663067, 
+          696477, 
+          706643, 
+          20160768
+        ], 
+        "ne_latitude": 50.962, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.293, 
+        "longitude": 10.268, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12624816, 
+        "latitude": 50.936, 
+        "sw_longitude": 10.261, 
+        "fullname": "Wolfsburg-Unkeroda, Thuringia, Wartburgkreis, Germany", 
+        "sw_latitude": 50.920
+      }, 
+      "id": 707680
+    }
+  ]
+}

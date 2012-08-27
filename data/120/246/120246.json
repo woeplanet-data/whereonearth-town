@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.310, 
+              18.558
+            ], 
+            [
+              -99.310, 
+              18.576
+            ], 
+            [
+              -99.290, 
+              18.576
+            ], 
+            [
+              -99.290, 
+              18.558
+            ], 
+            [
+              -99.310, 
+              18.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.576, 
+        "name": "El Estudiante", 
+        "adjacent_woeid": [
+          112003, 
+          115074, 
+          135660, 
+          148590, 
+          149024, 
+          149388, 
+          55908949
+        ], 
+        "woeid": 120246, 
+        "alias_SPA_V": [
+          "Estudiante"
+        ], 
+        "ne_longitude": -99.290, 
+        "longitude": -99.300, 
+        "parent_woeid": 12600569, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.567, 
+        "sw_longitude": -99.310, 
+        "fullname": "El Estudiante, Morelos, Puente de Ixtla, Mexico", 
+        "sw_latitude": 18.558
+      }, 
+      "id": 120246
+    }
+  ]
+}

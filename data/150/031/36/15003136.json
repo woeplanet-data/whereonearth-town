@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.654, 
+              49.353
+            ], 
+            [
+              5.654, 
+              49.394
+            ], 
+            [
+              5.715, 
+              49.394
+            ], 
+            [
+              5.715, 
+              49.353
+            ], 
+            [
+              5.654, 
+              49.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 15003136, 
+        "name": "St.-Pierrevillers", 
+        "adjacent_woeid": [
+          576715, 
+          594256, 
+          614615, 
+          614930, 
+          620296, 
+          627063
+        ], 
+        "ne_latitude": 49.394, 
+        "ne_longitude": 5.715, 
+        "longitude": 5.684, 
+        "parent_woeid": 12673110, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierrevillers"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.377, 
+        "sw_longitude": 5.654, 
+        "fullname": "St.-Pierrevillers, Lorraine, Meuse, France", 
+        "sw_latitude": 49.353
+      }, 
+      "id": 15003136
+    }
+  ]
+}

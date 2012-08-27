@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.465, 
+              48.973
+            ], 
+            [
+              12.465, 
+              49.001
+            ], 
+            [
+              12.483, 
+              49.001
+            ], 
+            [
+              12.483, 
+              48.973
+            ], 
+            [
+              12.465, 
+              48.973
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 709050, 
+        "name": "Zinzendorf", 
+        "adjacent_woeid": [
+          660697, 
+          660753, 
+          685093, 
+          696200
+        ], 
+        "ne_latitude": 49.001, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.483, 
+        "longitude": 12.476, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:23Z", 
+        "parent_woeid": 12635800, 
+        "latitude": 48.983, 
+        "sw_longitude": 12.465, 
+        "fullname": "Zinzendorf, Bavaria, Ratisbon, Germany", 
+        "sw_latitude": 48.973
+      }, 
+      "id": 709050
+    }
+  ]
+}

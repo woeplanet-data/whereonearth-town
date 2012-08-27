@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.726, 
+              21.041
+            ], 
+            [
+              -98.726, 
+              21.059
+            ], 
+            [
+              -98.707, 
+              21.059
+            ], 
+            [
+              -98.707, 
+              21.041
+            ], 
+            [
+              -98.726, 
+              21.041
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.059, 
+        "name": "Huitepec", 
+        "adjacent_woeid": [
+          112287, 
+          116100, 
+          125173, 
+          125693, 
+          149627, 
+          151246
+        ], 
+        "woeid": 125251, 
+        "alias_SPA_V": [
+          "Hueytepec"
+        ], 
+        "ne_longitude": -98.707, 
+        "longitude": -98.717, 
+        "parent_woeid": 12600181, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.050, 
+        "sw_longitude": -98.726, 
+        "fullname": "Huitepec, Hidalgo, Tlanchinol, Mexico", 
+        "sw_latitude": 21.041
+      }, 
+      "id": 125251
+    }
+  ]
+}

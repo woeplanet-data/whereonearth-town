@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -107.927, 
+              25.591
+            ], 
+            [
+              -107.927, 
+              25.609
+            ], 
+            [
+              -107.907, 
+              25.609
+            ], 
+            [
+              -107.907, 
+              25.591
+            ], 
+            [
+              -107.927, 
+              25.591
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.609, 
+        "name": "El Sabino", 
+        "adjacent_woeid": [
+          115355, 
+          119754, 
+          120885, 
+          122854, 
+          122908, 
+          130892, 
+          135607, 
+          143159
+        ], 
+        "woeid": 122244, 
+        "alias_SPA_V": [
+          "Sabino"
+        ], 
+        "ne_longitude": -107.907, 
+        "longitude": -107.917, 
+        "parent_woeid": 12601539, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.600, 
+        "sw_longitude": -107.927, 
+        "fullname": "El Sabino, Sinaloa, Mocorito, Mexico", 
+        "sw_latitude": 25.591
+      }, 
+      "id": 122244
+    }
+  ]
+}

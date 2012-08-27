@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.123, 
+              48.793
+            ], 
+            [
+              13.123, 
+              48.811
+            ], 
+            [
+              13.151, 
+              48.811
+            ], 
+            [
+              13.151, 
+              48.793
+            ], 
+            [
+              13.123, 
+              48.793
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 657854, 
+        "name": "Hatzenberg", 
+        "adjacent_woeid": [
+          647363, 
+          648099, 
+          672416, 
+          673376, 
+          673760, 
+          689222, 
+          20154064, 
+          20154101, 
+          20172553, 
+          20172554
+        ], 
+        "ne_latitude": 48.811, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.151, 
+        "longitude": 13.137, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12622835, 
+        "latitude": 48.802, 
+        "sw_longitude": 13.123, 
+        "fullname": "Hatzenberg, Bavaria, Landkreis Deggendorf, Germany", 
+        "sw_latitude": 48.793
+      }, 
+      "id": 657854
+    }
+  ]
+}

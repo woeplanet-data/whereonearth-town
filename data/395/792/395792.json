@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -69.962, 
+              11.771
+            ], 
+            [
+              -69.962, 
+              11.790
+            ], 
+            [
+              -69.943, 
+              11.790
+            ], 
+            [
+              -69.943, 
+              11.771
+            ], 
+            [
+              -69.962, 
+              11.771
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 11.790, 
+        "name": "Santa Ana", 
+        "adjacent_woeid": [
+          381491, 
+          383312, 
+          383467, 
+          387031, 
+          395389, 
+          395832
+        ], 
+        "woeid": 395792, 
+        "alias_SPA_V": [
+          "Sta Ana"
+        ], 
+        "ne_longitude": -69.943, 
+        "longitude": -69.952, 
+        "parent_woeid": 26805461, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 11.781, 
+        "sw_longitude": -69.962, 
+        "fullname": "Santa Ana, Falcon, Carirubana, Venezuela", 
+        "sw_latitude": 11.771
+      }, 
+      "id": 395792
+    }
+  ]
+}

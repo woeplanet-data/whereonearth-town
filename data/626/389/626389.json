@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.869, 
+              45.901
+            ], 
+            [
+              1.869, 
+              45.926
+            ], 
+            [
+              1.897, 
+              45.926
+            ], 
+            [
+              1.897, 
+              45.901
+            ], 
+            [
+              1.869, 
+              45.901
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626389, 
+        "name": "St.-Pierre-Bellevue", 
+        "adjacent_woeid": [
+          602702, 
+          603738, 
+          613330, 
+          631142
+        ], 
+        "ne_latitude": 45.926, 
+        "ne_longitude": 1.897, 
+        "longitude": 1.888, 
+        "parent_woeid": 12655777, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Pierre-Bellevue"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.917, 
+        "sw_longitude": 1.869, 
+        "fullname": "St.-Pierre-Bellevue, Limousin, Creuse, France", 
+        "sw_latitude": 45.901
+      }, 
+      "id": 626389
+    }
+  ]
+}

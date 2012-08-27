@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.172, 
+              52.736
+            ], 
+            [
+              12.172, 
+              52.771
+            ], 
+            [
+              12.219, 
+              52.771
+            ], 
+            [
+              12.219, 
+              52.736
+            ], 
+            [
+              12.172, 
+              52.736
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 651613, 
+        "name": "Garz", 
+        "adjacent_woeid": [
+          655742, 
+          669388, 
+          697871, 
+          703999
+        ], 
+        "ne_latitude": 52.771, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.219, 
+        "longitude": 12.199, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:44Z", 
+        "parent_woeid": 24547375, 
+        "latitude": 52.753, 
+        "sw_longitude": 12.172, 
+        "fullname": "Garz, Saxony-Anhalt, Landkreis Stendal, Germany", 
+        "sw_latitude": 52.736
+      }, 
+      "id": 651613
+    }
+  ]
+}

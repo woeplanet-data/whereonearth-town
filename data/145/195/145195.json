@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.977, 
+              25.874
+            ], 
+            [
+              -100.977, 
+              25.892
+            ], 
+            [
+              -100.957, 
+              25.892
+            ], 
+            [
+              -100.957, 
+              25.874
+            ], 
+            [
+              -100.977, 
+              25.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.892, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          112026, 
+          112178, 
+          119190, 
+          121803, 
+          139764, 
+          141553, 
+          56068579
+        ], 
+        "woeid": 145195, 
+        "alias_SPA_V": [
+          "S. Rafael"
+        ], 
+        "ne_longitude": -100.957, 
+        "longitude": -100.967, 
+        "parent_woeid": 12599912, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.883, 
+        "sw_longitude": -100.977, 
+        "fullname": "San Rafael, Coahuila de Zaragoza, Ramos Arizpe, Mexico", 
+        "sw_latitude": 25.874
+      }, 
+      "id": 145195
+    }
+  ]
+}

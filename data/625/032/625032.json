@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.053, 
+              45.795
+            ], 
+            [
+              -1.053, 
+              45.827
+            ], 
+            [
+              -1.016, 
+              45.827
+            ], 
+            [
+              -1.016, 
+              45.795
+            ], 
+            [
+              -1.053, 
+              45.795
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625032, 
+        "name": "St.-Just-Luzac", 
+        "adjacent_woeid": [
+          594830, 
+          600521, 
+          614318, 
+          624709, 
+          627007, 
+          20199307
+        ], 
+        "ne_latitude": 45.827, 
+        "ne_longitude": -1.016, 
+        "longitude": -1.040, 
+        "parent_woeid": 20075011, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Just"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.802, 
+        "sw_longitude": -1.053, 
+        "fullname": "St.-Just-Luzac, Poitou-Charentes, Charente-Maritime, France", 
+        "sw_latitude": 45.795
+      }, 
+      "id": 625032
+    }
+  ]
+}

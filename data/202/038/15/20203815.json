@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.804, 
+              43.808
+            ], 
+            [
+              3.804, 
+              43.842
+            ], 
+            [
+              3.858, 
+              43.842
+            ], 
+            [
+              3.858, 
+              43.808
+            ], 
+            [
+              3.804, 
+              43.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20203815, 
+        "name": "Rouet", 
+        "adjacent_woeid": [
+          586149, 
+          590874, 
+          610406, 
+          614570, 
+          629874
+        ], 
+        "ne_latitude": 43.842, 
+        "ne_longitude": 3.858, 
+        "longitude": 3.813, 
+        "parent_woeid": 12673313, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Rouet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.813, 
+        "sw_longitude": 3.804, 
+        "fullname": "Rouet, Languedoc-Roussillon, Herault, France", 
+        "sw_latitude": 43.808
+      }, 
+      "id": 20203815
+    }
+  ]
+}

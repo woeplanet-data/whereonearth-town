@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.250, 
+              47.916
+            ], 
+            [
+              12.250, 
+              47.926
+            ], 
+            [
+              12.263, 
+              47.926
+            ], 
+            [
+              12.263, 
+              47.916
+            ], 
+            [
+              12.250, 
+              47.916
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 697341, 
+        "name": "Stock", 
+        "adjacent_woeid": [
+          664212, 
+          684315, 
+          693459, 
+          20153466, 
+          29346899
+        ], 
+        "ne_latitude": 47.926, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.263, 
+        "longitude": 12.256, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:21Z", 
+        "parent_woeid": 12622769, 
+        "latitude": 47.921, 
+        "sw_longitude": 12.250, 
+        "fullname": "Stock, Bavaria, Landkreis Rosenheim, Germany", 
+        "sw_latitude": 47.916
+      }, 
+      "id": 697341
+    }
+  ]
+}

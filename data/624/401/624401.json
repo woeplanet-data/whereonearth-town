@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.753, 
+              45.780
+            ], 
+            [
+              0.753, 
+              45.789
+            ], 
+            [
+              0.766, 
+              45.789
+            ], 
+            [
+              0.766, 
+              45.780
+            ], 
+            [
+              0.753, 
+              45.780
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624401, 
+        "name": "St.-Gervais", 
+        "adjacent_woeid": [
+          585619, 
+          618033, 
+          630420, 
+          631148
+        ], 
+        "ne_latitude": 45.789, 
+        "ne_longitude": 0.766, 
+        "longitude": 0.759, 
+        "parent_woeid": 12663691, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gervais"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.785, 
+        "sw_longitude": 0.753, 
+        "fullname": "St.-Gervais, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 45.780
+      }, 
+      "id": 624401
+    }
+  ]
+}

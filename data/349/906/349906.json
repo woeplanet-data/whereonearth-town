@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.447, 
+              -39.893
+            ], 
+            [
+              -73.447, 
+              -39.874
+            ], 
+            [
+              -73.422, 
+              -39.874
+            ], 
+            [
+              -73.422, 
+              -39.893
+            ], 
+            [
+              -73.447, 
+              -39.893
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -39.874, 
+        "name": "Corral", 
+        "adjacent_woeid": [
+          349872, 
+          349918, 
+          350057, 
+          350081, 
+          350290
+        ], 
+        "woeid": 349906, 
+        "alias_SPA_V": [
+          "Pto Corral"
+        ], 
+        "ne_longitude": -73.422, 
+        "longitude": -73.435, 
+        "parent_woeid": 26794179, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -39.884, 
+        "sw_longitude": -73.447, 
+        "fullname": "Corral, Los Rios Region, Valdivia Province, Chile", 
+        "sw_latitude": -39.893
+      }, 
+      "id": 349906
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.326, 
+              47.604
+            ], 
+            [
+              10.326, 
+              47.613
+            ], 
+            [
+              10.339, 
+              47.613
+            ], 
+            [
+              10.339, 
+              47.604
+            ], 
+            [
+              10.326, 
+              47.604
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 702814, 
+        "name": "Vorderburg", 
+        "adjacent_woeid": [
+          640635, 
+          642017, 
+          647860, 
+          654873
+        ], 
+        "ne_latitude": 47.613, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.339, 
+        "longitude": 10.333, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:49Z", 
+        "parent_woeid": 12635024, 
+        "latitude": 47.609, 
+        "sw_longitude": 10.326, 
+        "fullname": "Vorderburg, Bavaria, Oberallg\u00e4u, Germany", 
+        "sw_latitude": 47.604
+      }, 
+      "id": 702814
+    }
+  ]
+}

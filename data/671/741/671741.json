@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.583, 
+              52.582
+            ], 
+            [
+              12.583, 
+              52.642
+            ], 
+            [
+              12.628, 
+              52.642
+            ], 
+            [
+              12.628, 
+              52.582
+            ], 
+            [
+              12.583, 
+              52.582
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671741, 
+        "name": "Liepe", 
+        "adjacent_woeid": [
+          642830, 
+          643652, 
+          668942, 
+          676339, 
+          694566
+        ], 
+        "ne_latitude": 52.642, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.628, 
+        "longitude": 12.601, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:20Z", 
+        "parent_woeid": 24547247, 
+        "latitude": 52.613, 
+        "sw_longitude": 12.583, 
+        "fullname": "Liepe, Brandenburg, Havelland, Germany", 
+        "sw_latitude": 52.582
+      }, 
+      "id": 671741
+    }
+  ]
+}

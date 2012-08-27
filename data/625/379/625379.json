@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.688, 
+              44.522
+            ], 
+            [
+              -0.688, 
+              44.547
+            ], 
+            [
+              -0.645, 
+              44.547
+            ], 
+            [
+              -0.645, 
+              44.522
+            ], 
+            [
+              -0.688, 
+              44.522
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625379, 
+        "name": "St.-Magne", 
+        "adjacent_woeid": [
+          582562, 
+          608715, 
+          621141, 
+          631394, 
+          29331435
+        ], 
+        "ne_latitude": 44.547, 
+        "ne_longitude": -0.645, 
+        "longitude": -0.659, 
+        "parent_woeid": 12652814, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Magne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.527, 
+        "sw_longitude": -0.688, 
+        "fullname": "St.-Magne, Aquitaine, Gironde, France", 
+        "sw_latitude": 44.522
+      }, 
+      "id": 625379
+    }
+  ]
+}

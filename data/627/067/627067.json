@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.858, 
+              45.164
+            ], 
+            [
+              1.858, 
+              45.188
+            ], 
+            [
+              1.893, 
+              45.188
+            ], 
+            [
+              1.893, 
+              45.164
+            ], 
+            [
+              1.858, 
+              45.164
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627067, 
+        "name": "St.-Sylvain", 
+        "adjacent_woeid": [
+          584147, 
+          591601, 
+          609779, 
+          623308, 
+          626259
+        ], 
+        "ne_latitude": 45.188, 
+        "ne_longitude": 1.893, 
+        "longitude": 1.875, 
+        "parent_woeid": 12671279, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Sylvain"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.176, 
+        "sw_longitude": 1.858, 
+        "fullname": "St.-Sylvain, Limousin, Correze, France", 
+        "sw_latitude": 45.164
+      }, 
+      "id": 627067
+    }
+  ]
+}

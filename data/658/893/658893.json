@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.303, 
+              49.660
+            ], 
+            [
+              10.303, 
+              49.682
+            ], 
+            [
+              10.341, 
+              49.682
+            ], 
+            [
+              10.341, 
+              49.660
+            ], 
+            [
+              10.303, 
+              49.660
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 658893, 
+        "name": "Hellmitzheim", 
+        "adjacent_woeid": [
+          645352, 
+          649835, 
+          675949, 
+          685752, 
+          694152
+        ], 
+        "ne_latitude": 49.682, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.341, 
+        "longitude": 10.326, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:20Z", 
+        "parent_woeid": 12635571, 
+        "latitude": 49.670, 
+        "sw_longitude": 10.303, 
+        "fullname": "Hellmitzheim, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.660
+      }, 
+      "id": 658893
+    }
+  ]
+}

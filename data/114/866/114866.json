@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.376, 
+              25.919
+            ], 
+            [
+              -100.376, 
+              25.952
+            ], 
+            [
+              -100.348, 
+              25.952
+            ], 
+            [
+              -100.348, 
+              25.919
+            ], 
+            [
+              -100.376, 
+              25.919
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.952, 
+        "name": "Carmen", 
+        "adjacent_woeid": [
+          110913, 
+          116363, 
+          120550, 
+          123978, 
+          132153, 
+          132533, 
+          136523, 
+          141199
+        ], 
+        "woeid": 114866, 
+        "alias_SPA_V": [
+          "El Carmen"
+        ], 
+        "ne_longitude": -100.348, 
+        "longitude": -100.363, 
+        "parent_woeid": 12600614, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.937, 
+        "sw_longitude": -100.376, 
+        "fullname": "Carmen, Nuevo Leon, Carmen, Mexico", 
+        "sw_latitude": 25.919
+      }, 
+      "id": 114866
+    }
+  ]
+}

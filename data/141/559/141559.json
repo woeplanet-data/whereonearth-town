@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.460, 
+              25.674
+            ], 
+            [
+              -103.460, 
+              25.692
+            ], 
+            [
+              -103.440, 
+              25.692
+            ], 
+            [
+              -103.440, 
+              25.674
+            ], 
+            [
+              -103.460, 
+              25.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.692, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          112288, 
+          117119, 
+          119605, 
+          119928, 
+          122979, 
+          123655, 
+          129343, 
+          55905843, 
+          56075188
+        ], 
+        "woeid": 141559, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -103.440, 
+        "longitude": -103.450, 
+        "parent_woeid": 12599957, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.683, 
+        "sw_longitude": -103.460, 
+        "fullname": "San Antonio, Durango, Gomez Palacio, Mexico", 
+        "sw_latitude": 25.674
+      }, 
+      "id": 141559
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.204, 
+              49.233
+            ], 
+            [
+              0.204, 
+              49.255
+            ], 
+            [
+              0.254, 
+              49.255
+            ], 
+            [
+              0.254, 
+              49.233
+            ], 
+            [
+              0.204, 
+              49.233
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 590955, 
+        "name": "Fierville-les-Parcs", 
+        "adjacent_woeid": [
+          580153, 
+          602314, 
+          603632, 
+          609686, 
+          616554, 
+          626348
+        ], 
+        "ne_latitude": 49.255, 
+        "ne_longitude": 0.254, 
+        "longitude": 0.225, 
+        "parent_woeid": 12643787, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Fierville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.242, 
+        "sw_longitude": 0.204, 
+        "fullname": "Fierville-les-Parcs, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.233
+      }, 
+      "id": 590955
+    }
+  ]
+}

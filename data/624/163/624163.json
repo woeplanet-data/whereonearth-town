@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.117, 
+              45.007
+            ], 
+            [
+              3.117, 
+              45.030
+            ], 
+            [
+              3.144, 
+              45.030
+            ], 
+            [
+              3.144, 
+              45.007
+            ], 
+            [
+              3.117, 
+              45.007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624163, 
+        "name": "St.-Georges", 
+        "adjacent_woeid": [
+          604058, 
+          611032, 
+          628736, 
+          29332769, 
+          29332774, 
+          29332776
+        ], 
+        "ne_latitude": 45.030, 
+        "ne_longitude": 3.144, 
+        "longitude": 3.128, 
+        "parent_woeid": 12644843, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Georges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.020, 
+        "sw_longitude": 3.117, 
+        "fullname": "St.-Georges, Auvergne, Cantal, France", 
+        "sw_latitude": 45.007
+      }, 
+      "id": 624163
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -68.486, 
+              7.942
+            ], 
+            [
+              -68.486, 
+              7.952
+            ], 
+            [
+              -68.476, 
+              7.952
+            ], 
+            [
+              -68.476, 
+              7.942
+            ], 
+            [
+              -68.486, 
+              7.942
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 7.952, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          395535, 
+          468210, 
+          468357, 
+          468507
+        ], 
+        "woeid": 395743, 
+        "alias_SPA_V": [
+          "S. Antonio"
+        ], 
+        "ne_longitude": -68.476, 
+        "longitude": -68.481, 
+        "parent_woeid": 26805626, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 7.947, 
+        "sw_longitude": -68.486, 
+        "fullname": "San Antonio, Barinas, Arismendi, Venezuela", 
+        "sw_latitude": 7.942
+      }, 
+      "id": 395743
+    }
+  ]
+}

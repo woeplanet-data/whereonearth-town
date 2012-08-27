@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -12.325, 
+              10.808
+            ], 
+            [
+              -12.325, 
+              10.824
+            ], 
+            [
+              -12.309, 
+              10.824
+            ], 
+            [
+              -12.309, 
+              10.808
+            ], 
+            [
+              -12.325, 
+              10.808
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1337602, 
+        "name": "Mitti", 
+        "adjacent_woeid": [
+          1334551, 
+          1335156, 
+          1338481
+        ], 
+        "ne_latitude": 10.824, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -12.309, 
+        "longitude": -12.317, 
+        "placetype": "Town", 
+        "iso": "GN", 
+        "date_indexed": "2010-12-02T16:11:56Z", 
+        "parent_woeid": 56060923, 
+        "latitude": 10.816, 
+        "sw_longitude": -12.325, 
+        "fullname": "Mitti, Mamou, Dalaba, Guinea", 
+        "sw_latitude": 10.808
+      }, 
+      "id": 1337602
+    }
+  ]
+}

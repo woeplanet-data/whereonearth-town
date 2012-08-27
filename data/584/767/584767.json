@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.144, 
+              46.160
+            ], 
+            [
+              3.144, 
+              46.200
+            ], 
+            [
+              3.183, 
+              46.200
+            ], 
+            [
+              3.183, 
+              46.160
+            ], 
+            [
+              3.144, 
+              46.160
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 584767, 
+        "name": "Charroux", 
+        "adjacent_woeid": [
+          583927, 
+          595519, 
+          613934, 
+          628155, 
+          629661, 
+          29332136
+        ], 
+        "ne_latitude": 46.200, 
+        "ne_longitude": 3.183, 
+        "longitude": 3.162, 
+        "parent_woeid": 22754981, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Charroux-d'Allier"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.186, 
+        "sw_longitude": 3.144, 
+        "fullname": "Charroux, Auvergne, Allier, France", 
+        "sw_latitude": 46.160
+      }, 
+      "id": 584767
+    }
+  ]
+}

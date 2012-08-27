@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.952, 
+              45.415
+            ], 
+            [
+              5.952, 
+              45.424
+            ], 
+            [
+              5.965, 
+              45.424
+            ], 
+            [
+              5.965, 
+              45.415
+            ], 
+            [
+              5.952, 
+              45.415
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624160, 
+        "name": "St.-Georges", 
+        "adjacent_woeid": [
+          578236, 
+          627661, 
+          20209059, 
+          20209061, 
+          29330039, 
+          29330096, 
+          29330594
+        ], 
+        "ne_latitude": 45.424, 
+        "ne_longitude": 5.965, 
+        "longitude": 5.959, 
+        "parent_woeid": 12670481, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Georges"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.420, 
+        "sw_longitude": 5.952, 
+        "fullname": "St.-Georges, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.415
+      }, 
+      "id": 624160
+    }
+  ]
+}

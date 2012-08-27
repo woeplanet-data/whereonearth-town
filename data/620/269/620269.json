@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.322, 
+              49.058
+            ], 
+            [
+              1.322, 
+              49.075
+            ], 
+            [
+              1.362, 
+              49.075
+            ], 
+            [
+              1.362, 
+              49.058
+            ], 
+            [
+              1.322, 
+              49.058
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620269, 
+        "name": "Rouvray", 
+        "adjacent_woeid": [
+          584073, 
+          594979, 
+          20187792, 
+          29330748
+        ], 
+        "ne_latitude": 49.075, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.362, 
+        "longitude": 1.337, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12651473, 
+        "latitude": 49.065, 
+        "sw_longitude": 1.322, 
+        "fullname": "Rouvray, Haute-Normandie, Eure, France", 
+        "sw_latitude": 49.058
+      }, 
+      "id": 620269
+    }
+  ]
+}

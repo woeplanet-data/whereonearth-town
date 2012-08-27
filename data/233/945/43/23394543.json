@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -67.615, 
+              48.622
+            ], 
+            [
+              -67.615, 
+              48.735
+            ], 
+            [
+              -67.416, 
+              48.735
+            ], 
+            [
+              -67.416, 
+              48.622
+            ], 
+            [
+              -67.615, 
+              48.622
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394543, 
+        "name": "Ste.-Paule", 
+        "adjacent_woeid": [
+          3601, 
+          3602, 
+          3603, 
+          3605, 
+          23395690, 
+          23396572, 
+          29374137
+        ], 
+        "ne_latitude": 48.735, 
+        "ne_longitude": -67.416, 
+        "longitude": -67.551, 
+        "parent_woeid": 29375168, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Ste-Paule"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.667, 
+        "sw_longitude": -67.615, 
+        "fullname": "Ste.-Paule, Quebec, Matane, Canada", 
+        "sw_latitude": 48.622
+      }, 
+      "id": 23394543
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -101.543, 
+              20.791
+            ], 
+            [
+              -101.543, 
+              20.809
+            ], 
+            [
+              -101.524, 
+              20.809
+            ], 
+            [
+              -101.524, 
+              20.791
+            ], 
+            [
+              -101.543, 
+              20.791
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.809, 
+        "name": "San Clemente", 
+        "adjacent_woeid": [
+          117659, 
+          119526, 
+          120812, 
+          140915, 
+          141341, 
+          142144, 
+          150017
+        ], 
+        "woeid": 142124, 
+        "alias_SPA_V": [
+          "S Clemente"
+        ], 
+        "ne_longitude": -101.524, 
+        "longitude": -101.533, 
+        "parent_woeid": 12600014, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.800, 
+        "sw_longitude": -101.543, 
+        "fullname": "San Clemente, Guanajuato, Romita, Mexico", 
+        "sw_latitude": 20.791
+      }, 
+      "id": 142124
+    }
+  ]
+}

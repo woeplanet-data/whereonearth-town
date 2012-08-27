@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.345, 
+              47.968
+            ], 
+            [
+              12.345, 
+              47.977
+            ], 
+            [
+              12.359, 
+              47.977
+            ], 
+            [
+              12.359, 
+              47.968
+            ], 
+            [
+              12.345, 
+              47.968
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 680491, 
+        "name": "N\u00f6stlbach", 
+        "adjacent_woeid": [
+          633718, 
+          660304, 
+          673467, 
+          674587, 
+          681212, 
+          696397, 
+          29346372, 
+          29347465
+        ], 
+        "alias_GER_S": [
+          "Noestlbach"
+        ], 
+        "ne_latitude": 47.977, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.359, 
+        "longitude": 12.352, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:07Z", 
+        "parent_woeid": 12622808, 
+        "latitude": 47.972, 
+        "sw_longitude": 12.345, 
+        "fullname": "N\u00f6stlbach, Bavaria, Landkreis Traunstein, Germany", 
+        "sw_latitude": 47.968
+      }, 
+      "id": 680491
+    }
+  ]
+}

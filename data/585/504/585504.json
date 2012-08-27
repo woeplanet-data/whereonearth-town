@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.094, 
+              45.206
+            ], 
+            [
+              0.094, 
+              45.231
+            ], 
+            [
+              0.123, 
+              45.231
+            ], 
+            [
+              0.123, 
+              45.206
+            ], 
+            [
+              0.094, 
+              45.206
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585504, 
+        "name": "Chenaud", 
+        "adjacent_woeid": [
+          578499, 
+          606123, 
+          615649, 
+          618443, 
+          626642
+        ], 
+        "ne_latitude": 45.231, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.123, 
+        "longitude": 0.103, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:55Z", 
+        "parent_woeid": 12641504, 
+        "latitude": 45.218, 
+        "sw_longitude": 0.094, 
+        "fullname": "Chenaud, Aquitaine, Dordogne, France", 
+        "sw_latitude": 45.206
+      }, 
+      "id": 585504
+    }
+  ]
+}

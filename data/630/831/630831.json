@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.455, 
+              46.424
+            ], 
+            [
+              0.455, 
+              46.473
+            ], 
+            [
+              0.505, 
+              46.473
+            ], 
+            [
+              0.505, 
+              46.424
+            ], 
+            [
+              0.455, 
+              46.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630831, 
+        "name": "Vernon", 
+        "adjacent_woeid": [
+          585876, 
+          588729, 
+          591121, 
+          592981, 
+          614311
+        ], 
+        "ne_latitude": 46.473, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.505, 
+        "longitude": 0.477, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:41Z", 
+        "parent_woeid": 12659436, 
+        "latitude": 46.441, 
+        "sw_longitude": 0.455, 
+        "fullname": "Vernon, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.424
+      }, 
+      "id": 630831
+    }
+  ]
+}

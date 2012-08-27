@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.792, 
+              50.306
+            ], 
+            [
+              5.792, 
+              50.315
+            ], 
+            [
+              5.806, 
+              50.315
+            ], 
+            [
+              5.806, 
+              50.306
+            ], 
+            [
+              5.792, 
+              50.306
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 972541, 
+        "name": "La Chapelle", 
+        "adjacent_woeid": [
+          969429, 
+          971757, 
+          975035, 
+          978354
+        ], 
+        "ne_latitude": 50.315, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.806, 
+        "longitude": 5.799, 
+        "placetype": "Town", 
+        "iso": "BE", 
+        "date_indexed": "2010-12-02T16:32:11Z", 
+        "parent_woeid": 12602435, 
+        "latitude": 50.311, 
+        "sw_longitude": 5.792, 
+        "fullname": "La Chapelle, Liege, Verviers, Belgium", 
+        "sw_latitude": 50.306
+      }, 
+      "id": 972541
+    }
+  ]
+}

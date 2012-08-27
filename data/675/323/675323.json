@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.252, 
+              49.210
+            ], 
+            [
+              7.252, 
+              49.235
+            ], 
+            [
+              7.285, 
+              49.235
+            ], 
+            [
+              7.285, 
+              49.210
+            ], 
+            [
+              7.252, 
+              49.210
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675323, 
+        "name": "Mimbach", 
+        "adjacent_woeid": [
+          639495, 
+          675424, 
+          675886, 
+          704208
+        ], 
+        "ne_latitude": 49.235, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.285, 
+        "longitude": 7.267, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12635669, 
+        "latitude": 49.227, 
+        "sw_longitude": 7.252, 
+        "fullname": "Mimbach, Saarland, Saarpfalz-Kreis, Germany", 
+        "sw_latitude": 49.210
+      }, 
+      "id": 675323
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.326, 
+              21.908
+            ], 
+            [
+              -98.326, 
+              21.926
+            ], 
+            [
+              -98.307, 
+              21.926
+            ], 
+            [
+              -98.307, 
+              21.908
+            ], 
+            [
+              -98.326, 
+              21.908
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.926, 
+        "name": "El Molino", 
+        "adjacent_woeid": [
+          111957, 
+          116092, 
+          129435, 
+          130163, 
+          135942, 
+          148183
+        ], 
+        "woeid": 120957, 
+        "alias_SPA_V": [
+          "Molino"
+        ], 
+        "ne_longitude": -98.307, 
+        "longitude": -98.317, 
+        "parent_woeid": 12601846, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.917, 
+        "sw_longitude": -98.326, 
+        "fullname": "El Molino, Veracruz-Llave, Panuco, Mexico", 
+        "sw_latitude": 21.908
+      }, 
+      "id": 120957
+    }
+  ]
+}

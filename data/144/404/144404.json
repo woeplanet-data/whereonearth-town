@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.106, 
+              25.521
+            ], 
+            [
+              -100.106, 
+              25.540
+            ], 
+            [
+              -100.086, 
+              25.540
+            ], 
+            [
+              -100.086, 
+              25.521
+            ], 
+            [
+              -100.106, 
+              25.521
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.540, 
+        "name": "San Mateo", 
+        "adjacent_woeid": [
+          114053, 
+          116573, 
+          119606, 
+          126481, 
+          126870, 
+          130884, 
+          141560, 
+          145203
+        ], 
+        "woeid": 144404, 
+        "alias_SPA_V": [
+          "S Mateo"
+        ], 
+        "ne_longitude": -100.086, 
+        "longitude": -100.096, 
+        "parent_woeid": 12600634, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.531, 
+        "sw_longitude": -100.106, 
+        "fullname": "San Mateo, Nuevo Leon, Juarez, Mexico", 
+        "sw_latitude": 25.521
+      }, 
+      "id": 144404
+    }
+  ]
+}

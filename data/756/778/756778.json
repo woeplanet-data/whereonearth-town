@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.149, 
+              38.219
+            ], 
+            [
+              -3.149, 
+              38.288
+            ], 
+            [
+              -3.091, 
+              38.288
+            ], 
+            [
+              -3.091, 
+              38.219
+            ], 
+            [
+              -3.149, 
+              38.219
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.288, 
+        "name": "Castellar", 
+        "adjacent_woeid": [
+          754211, 
+          755762, 
+          761048, 
+          773885
+        ], 
+        "woeid": 756778, 
+        "alias_SPA_V": [
+          "Castellar de Santisteban"
+        ], 
+        "ne_longitude": -3.091, 
+        "longitude": -3.127, 
+        "parent_woeid": 12689117, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:09:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.256, 
+        "sw_longitude": -3.149, 
+        "fullname": "Castellar, Andalusia, Jaen, Spain", 
+        "sw_latitude": 38.219
+      }, 
+      "id": 756778
+    }
+  ]
+}

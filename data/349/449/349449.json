@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.575, 
+              -33.640
+            ], 
+            [
+              -71.575, 
+              -33.626
+            ], 
+            [
+              -71.558, 
+              -33.626
+            ], 
+            [
+              -71.558, 
+              -33.640
+            ], 
+            [
+              -71.575, 
+              -33.640
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.626, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          347396, 
+          347516, 
+          348310, 
+          348588, 
+          350262
+        ], 
+        "woeid": 349449, 
+        "alias_SPA_V": [
+          "Casas de S. Juan"
+        ], 
+        "ne_longitude": -71.558, 
+        "longitude": -71.567, 
+        "parent_woeid": 26794345, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.633, 
+        "sw_longitude": -71.575, 
+        "fullname": "San Juan, Valparaiso Region, San Antonio Province, Chile", 
+        "sw_latitude": -33.640
+      }, 
+      "id": 349449
+    }
+  ]
+}

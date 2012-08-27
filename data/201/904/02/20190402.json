@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.227, 
+              46.008
+            ], 
+            [
+              1.227, 
+              46.017
+            ], 
+            [
+              1.240, 
+              46.017
+            ], 
+            [
+              1.240, 
+              46.008
+            ], 
+            [
+              1.227, 
+              46.008
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20190402, 
+        "name": "La Combe", 
+        "adjacent_woeid": [
+          586678, 
+          602364, 
+          627103, 
+          628606, 
+          20190401
+        ], 
+        "ne_latitude": 46.017, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.240, 
+        "longitude": 1.234, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:54Z", 
+        "parent_woeid": 12663716, 
+        "latitude": 46.012, 
+        "sw_longitude": 1.227, 
+        "fullname": "La Combe, Limousin, Haute-Vienne, France", 
+        "sw_latitude": 46.008
+      }, 
+      "id": 20190402
+    }
+  ]
+}

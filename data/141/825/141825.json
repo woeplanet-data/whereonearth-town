@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.093, 
+              23.374
+            ], 
+            [
+              -100.093, 
+              23.392
+            ], 
+            [
+              -100.073, 
+              23.392
+            ], 
+            [
+              -100.073, 
+              23.374
+            ], 
+            [
+              -100.093, 
+              23.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.392, 
+        "name": "San Antonio de Padua", 
+        "adjacent_woeid": [
+          111793, 
+          115448, 
+          121956, 
+          126743, 
+          133594
+        ], 
+        "woeid": 141825, 
+        "alias_SPA_V": [
+          "S Antonio de Padua"
+        ], 
+        "ne_longitude": -100.073, 
+        "longitude": -100.083, 
+        "parent_woeid": 12601637, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.383, 
+        "sw_longitude": -100.093, 
+        "fullname": "San Antonio de Padua, Tamaulipas, Bustamante, Mexico", 
+        "sw_latitude": 23.374
+      }, 
+      "id": 141825
+    }
+  ]
+}

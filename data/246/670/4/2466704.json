@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.222, 
+              44.270
+            ], 
+            [
+              -123.222, 
+              44.288
+            ], 
+            [
+              -123.197, 
+              44.288
+            ], 
+            [
+              -123.197, 
+              44.270
+            ], 
+            [
+              -123.222, 
+              44.270
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 2466704, 
+        "name": "Othello", 
+        "adjacent_woeid": [
+          2353724, 
+          2360695, 
+          2410952, 
+          2436071, 
+          2442521
+        ], 
+        "ne_latitude": 44.288, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -123.197, 
+        "longitude": -123.210, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:29:49Z", 
+        "parent_woeid": 12589711, 
+        "latitude": 44.279, 
+        "sw_longitude": -123.222, 
+        "fullname": "Othello, Oregon, Lane, United States", 
+        "sw_latitude": 44.270
+      }, 
+      "id": 2466704
+    }
+  ]
+}

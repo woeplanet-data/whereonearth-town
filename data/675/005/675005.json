@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.589, 
+              50.954
+            ], 
+            [
+              10.589, 
+              50.989
+            ], 
+            [
+              10.636, 
+              50.989
+            ], 
+            [
+              10.636, 
+              50.954
+            ], 
+            [
+              10.589, 
+              50.954
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675005, 
+        "name": "Metebach", 
+        "adjacent_woeid": [
+          635705, 
+          653112, 
+          678377, 
+          700157, 
+          20160838
+        ], 
+        "ne_latitude": 50.989, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.636, 
+        "longitude": 10.609, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12625016, 
+        "latitude": 50.971, 
+        "sw_longitude": 10.589, 
+        "fullname": "Metebach, Thuringia, Landkreis Gotha, Germany", 
+        "sw_latitude": 50.954
+      }, 
+      "id": 675005
+    }
+  ]
+}

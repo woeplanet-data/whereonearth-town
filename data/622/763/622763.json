@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.144, 
+              50.173
+            ], 
+            [
+              2.144, 
+              50.209
+            ], 
+            [
+              2.183, 
+              50.209
+            ], 
+            [
+              2.183, 
+              50.173
+            ], 
+            [
+              2.144, 
+              50.173
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622763, 
+        "name": "St.-Acheul", 
+        "adjacent_woeid": [
+          578556, 
+          594819, 
+          609421, 
+          612786, 
+          618145, 
+          15003197
+        ], 
+        "ne_latitude": 50.209, 
+        "ne_longitude": 2.183, 
+        "longitude": 2.164, 
+        "parent_woeid": 12656587, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Acheul"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:54Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 50.190, 
+        "sw_longitude": 2.144, 
+        "fullname": "St.-Acheul, Picardie, Somme, France", 
+        "sw_latitude": 50.173
+      }, 
+      "id": 622763
+    }
+  ]
+}

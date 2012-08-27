@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.314, 
+              43.583
+            ], 
+            [
+              13.314, 
+              43.592
+            ], 
+            [
+              13.326, 
+              43.592
+            ], 
+            [
+              13.326, 
+              43.583
+            ], 
+            [
+              13.314, 
+              43.583
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20137486, 
+        "name": "Ponte Felice", 
+        "adjacent_woeid": [
+          711160, 
+          20128001, 
+          20128821, 
+          29336798
+        ], 
+        "ne_latitude": 43.592, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.326, 
+        "longitude": 13.320, 
+        "placetype": "Town", 
+        "iso": "IT", 
+        "date_indexed": "2010-12-02T16:29:01Z", 
+        "parent_woeid": 12680472, 
+        "latitude": 43.587, 
+        "sw_longitude": 13.314, 
+        "fullname": "Ponte Felice, Marche, Ancona, Italy", 
+        "sw_latitude": 43.583
+      }, 
+      "id": 20137486
+    }
+  ]
+}

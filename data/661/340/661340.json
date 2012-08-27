@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              9.502, 
+              49.474
+            ], 
+            [
+              9.502, 
+              49.506
+            ], 
+            [
+              9.531, 
+              49.506
+            ], 
+            [
+              9.531, 
+              49.474
+            ], 
+            [
+              9.502, 
+              49.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 661340, 
+        "name": "Hohenstadt", 
+        "adjacent_woeid": [
+          638390, 
+          652238, 
+          660395
+        ], 
+        "ne_latitude": 49.506, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 9.531, 
+        "longitude": 9.517, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:33Z", 
+        "parent_woeid": 12624189, 
+        "latitude": 49.492, 
+        "sw_longitude": 9.502, 
+        "fullname": "Hohenstadt, Baden-Wurttemberg, Main-Tauber-Kreis, Germany", 
+        "sw_latitude": 49.474
+      }, 
+      "id": 661340
+    }
+  ]
+}

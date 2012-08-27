@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.371, 
+              45.072
+            ], 
+            [
+              -73.371, 
+              45.200
+            ], 
+            [
+              -73.289, 
+              45.200
+            ], 
+            [
+              -73.289, 
+              45.072
+            ], 
+            [
+              -73.371, 
+              45.072
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23395691, 
+        "name": "St.-Valentin", 
+        "adjacent_woeid": [
+          1057, 
+          3574, 
+          23394448, 
+          23394494, 
+          23395550, 
+          23395652, 
+          23396484
+        ], 
+        "ne_latitude": 45.200, 
+        "ne_longitude": -73.289, 
+        "longitude": -73.325, 
+        "parent_woeid": 29375141, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Valentin"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.129, 
+        "sw_longitude": -73.371, 
+        "fullname": "St.-Valentin, Quebec, Le Haut-Richelieu, Canada", 
+        "sw_latitude": 45.072
+      }, 
+      "id": 23395691
+    }
+  ]
+}

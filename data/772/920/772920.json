@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.179, 
+              39.520
+            ], 
+            [
+              -1.179, 
+              39.529
+            ], 
+            [
+              -1.167, 
+              39.529
+            ], 
+            [
+              -1.167, 
+              39.520
+            ], 
+            [
+              -1.179, 
+              39.520
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 39.529, 
+        "name": "San Juan", 
+        "adjacent_woeid": [
+          755486, 
+          765999, 
+          772650, 
+          20221592, 
+          20222418
+        ], 
+        "woeid": 772920, 
+        "alias_SPA_V": [
+          "S Juan"
+        ], 
+        "ne_longitude": -1.167, 
+        "longitude": -1.173, 
+        "parent_woeid": 12695752, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 39.524, 
+        "sw_longitude": -1.179, 
+        "fullname": "San Juan, Valencia, Valencia, Spain", 
+        "sw_latitude": 39.520
+      }, 
+      "id": 772920
+    }
+  ]
+}

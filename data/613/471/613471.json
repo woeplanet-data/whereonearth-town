@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.565, 
+              44.529
+            ], 
+            [
+              0.565, 
+              44.554
+            ], 
+            [
+              0.599, 
+              44.554
+            ], 
+            [
+              0.599, 
+              44.529
+            ], 
+            [
+              0.565, 
+              44.529
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 613471, 
+        "name": "Moulinet", 
+        "adjacent_woeid": [
+          578645, 
+          611836, 
+          613165, 
+          625833
+        ], 
+        "ne_latitude": 44.554, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.599, 
+        "longitude": 0.582, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "parent_woeid": 12649723, 
+        "latitude": 44.542, 
+        "sw_longitude": 0.565, 
+        "fullname": "Moulinet, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.529
+      }, 
+      "id": 613471
+    }
+  ]
+}

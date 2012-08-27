@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.736, 
+              49.921
+            ], 
+            [
+              10.736, 
+              49.938
+            ], 
+            [
+              10.765, 
+              49.938
+            ], 
+            [
+              10.765, 
+              49.921
+            ], 
+            [
+              10.736, 
+              49.921
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 700165, 
+        "name": "Trunstadt", 
+        "adjacent_woeid": [
+          671146, 
+          689761, 
+          696244, 
+          697997, 
+          704602
+        ], 
+        "ne_latitude": 49.938, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.765, 
+        "longitude": 10.751, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:42Z", 
+        "parent_woeid": 12635252, 
+        "latitude": 49.929, 
+        "sw_longitude": 10.736, 
+        "fullname": "Trunstadt, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.921
+      }, 
+      "id": 700165
+    }
+  ]
+}

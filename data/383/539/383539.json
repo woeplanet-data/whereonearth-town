@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -66.743, 
+              10.474
+            ], 
+            [
+              -66.743, 
+              10.492
+            ], 
+            [
+              -66.724, 
+              10.492
+            ], 
+            [
+              -66.724, 
+              10.474
+            ], 
+            [
+              -66.743, 
+              10.474
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.492, 
+        "name": "El Aguacate", 
+        "adjacent_woeid": [
+          381516, 
+          468133, 
+          468160, 
+          468209, 
+          468483, 
+          26808466
+        ], 
+        "woeid": 383539, 
+        "alias_SPA_V": [
+          "Barrio Caucaguita"
+        ], 
+        "ne_longitude": -66.724, 
+        "longitude": -66.733, 
+        "parent_woeid": 26805201, 
+        "placetype": "Town", 
+        "iso": "VE", 
+        "date_indexed": "2010-12-02T16:11:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.483, 
+        "sw_longitude": -66.743, 
+        "fullname": "El Aguacate, Miranda, Sucre, Venezuela", 
+        "sw_latitude": 10.474
+      }, 
+      "id": 383539
+    }
+  ]
+}

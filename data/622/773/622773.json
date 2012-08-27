@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.908, 
+              48.016
+            ], 
+            [
+              0.908, 
+              48.052
+            ], 
+            [
+              0.944, 
+              48.052
+            ], 
+            [
+              0.944, 
+              48.016
+            ], 
+            [
+              0.908, 
+              48.016
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 622773, 
+        "name": "St.-Agil", 
+        "adjacent_woeid": [
+          576842, 
+          581324, 
+          585950, 
+          598221, 
+          614870, 
+          29332314
+        ], 
+        "ne_latitude": 48.052, 
+        "ne_longitude": 0.944, 
+        "longitude": 0.926, 
+        "parent_woeid": 12652135, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Agil"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.036, 
+        "sw_longitude": 0.908, 
+        "fullname": "St.-Agil, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 48.016
+      }, 
+      "id": 622773
+    }
+  ]
+}

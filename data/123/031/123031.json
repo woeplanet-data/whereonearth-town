@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.784, 
+              25.819
+            ], 
+            [
+              -105.784, 
+              25.833
+            ], 
+            [
+              -105.768, 
+              25.833
+            ], 
+            [
+              -105.768, 
+              25.819
+            ], 
+            [
+              -105.784, 
+              25.819
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.833, 
+        "name": "El Zape", 
+        "adjacent_woeid": [
+          117487, 
+          118861, 
+          119870, 
+          123032, 
+          131461, 
+          135015, 
+          137111, 
+          142887
+        ], 
+        "woeid": 123031, 
+        "alias_SPA_V": [
+          "Zape"
+        ], 
+        "ne_longitude": -105.768, 
+        "longitude": -105.776, 
+        "parent_woeid": 12599959, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.826, 
+        "sw_longitude": -105.784, 
+        "fullname": "El Zape, Durango, Guanacevi, Mexico", 
+        "sw_latitude": 25.819
+      }, 
+      "id": 123031
+    }
+  ]
+}

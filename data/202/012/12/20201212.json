@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.644, 
+              46.485
+            ], 
+            [
+              0.644, 
+              46.495
+            ], 
+            [
+              0.657, 
+              46.495
+            ], 
+            [
+              0.657, 
+              46.485
+            ], 
+            [
+              0.644, 
+              46.485
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20201212, 
+        "name": "Le Gaschard", 
+        "adjacent_woeid": [
+          588130, 
+          617785, 
+          620787, 
+          625729
+        ], 
+        "ne_latitude": 46.495, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.657, 
+        "longitude": 0.650, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:05Z", 
+        "parent_woeid": 20075018, 
+        "latitude": 46.490, 
+        "sw_longitude": 0.644, 
+        "fullname": "Le Gaschard, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.485
+      }, 
+      "id": 20201212
+    }
+  ]
+}

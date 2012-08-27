@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.087, 
+              43.576
+            ], 
+            [
+              -0.087, 
+              43.613
+            ], 
+            [
+              -0.041, 
+              43.613
+            ], 
+            [
+              -0.041, 
+              43.576
+            ], 
+            [
+              -0.087, 
+              43.576
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625075, 
+        "name": "St.-Lanne", 
+        "adjacent_woeid": [
+          576750, 
+          577682, 
+          582939, 
+          583276, 
+          593318, 
+          609184, 
+          610567, 
+          631180
+        ], 
+        "ne_latitude": 43.613, 
+        "ne_longitude": -0.041, 
+        "longitude": -0.062, 
+        "parent_woeid": 12670711, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Lanne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.593, 
+        "sw_longitude": -0.087, 
+        "fullname": "St.-Lanne, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.576
+      }, 
+      "id": 625075
+    }
+  ]
+}

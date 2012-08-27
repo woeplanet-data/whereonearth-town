@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.337, 
+              43.056
+            ], 
+            [
+              1.337, 
+              43.065
+            ], 
+            [
+              1.350, 
+              43.065
+            ], 
+            [
+              1.350, 
+              43.056
+            ], 
+            [
+              1.337, 
+              43.056
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20191241, 
+        "name": "Maury", 
+        "adjacent_woeid": [
+          575787, 
+          582736, 
+          586234, 
+          589297, 
+          613130, 
+          29331987
+        ], 
+        "ne_latitude": 43.065, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.350, 
+        "longitude": 1.344, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12664920, 
+        "latitude": 43.061, 
+        "sw_longitude": 1.337, 
+        "fullname": "Maury, Midi-Pyrenees, Ariege, France", 
+        "sw_latitude": 43.056
+      }, 
+      "id": 20191241
+    }
+  ]
+}

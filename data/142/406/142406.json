@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.576, 
+              18.874
+            ], 
+            [
+              -88.576, 
+              18.892
+            ], 
+            [
+              -88.557, 
+              18.892
+            ], 
+            [
+              -88.557, 
+              18.874
+            ], 
+            [
+              -88.576, 
+              18.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.892, 
+        "name": "San Fernando", 
+        "adjacent_woeid": [
+          111966, 
+          113707, 
+          132974, 
+          149318
+        ], 
+        "woeid": 142406, 
+        "alias_SPA_V": [
+          "S Fernando"
+        ], 
+        "ne_longitude": -88.557, 
+        "longitude": -88.567, 
+        "parent_woeid": 12601468, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.883, 
+        "sw_longitude": -88.576, 
+        "fullname": "San Fernando, Quintana Roo, Othon P. Blanco, Mexico", 
+        "sw_latitude": 18.874
+      }, 
+      "id": 142406
+    }
+  ]
+}

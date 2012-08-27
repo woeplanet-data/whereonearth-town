@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.310, 
+              26.358
+            ], 
+            [
+              -99.310, 
+              26.376
+            ], 
+            [
+              -99.290, 
+              26.376
+            ], 
+            [
+              -99.290, 
+              26.358
+            ], 
+            [
+              -99.310, 
+              26.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.376, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          116563, 
+          125820, 
+          131471, 
+          132080, 
+          133593, 
+          134729
+        ], 
+        "woeid": 147166, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -99.290, 
+        "longitude": -99.300, 
+        "parent_woeid": 12601655, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.367, 
+        "sw_longitude": -99.310, 
+        "fullname": "Santo Domingo, Tamaulipas, Mier, Mexico", 
+        "sw_latitude": 26.358
+      }, 
+      "id": 147166
+    }
+  ]
+}

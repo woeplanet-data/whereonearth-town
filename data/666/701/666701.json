@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.755, 
+              49.750
+            ], 
+            [
+              8.755, 
+              49.769
+            ], 
+            [
+              8.781, 
+              49.769
+            ], 
+            [
+              8.781, 
+              49.750
+            ], 
+            [
+              8.755, 
+              49.750
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666701, 
+        "name": "Klein-Bieberau", 
+        "adjacent_woeid": [
+          635572, 
+          638938, 
+          648546, 
+          659207, 
+          671579, 
+          673252, 
+          689043, 
+          704213
+        ], 
+        "ne_latitude": 49.769, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.781, 
+        "longitude": 8.766, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12632488, 
+        "latitude": 49.759, 
+        "sw_longitude": 8.755, 
+        "fullname": "Klein-Bieberau, Hesse, Darmstadt-Dieburg, Germany", 
+        "sw_latitude": 49.750
+      }, 
+      "id": 666701
+    }
+  ]
+}

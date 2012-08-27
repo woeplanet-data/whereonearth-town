@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -71.478, 
+              -33.909
+            ], 
+            [
+              -71.478, 
+              -33.891
+            ], 
+            [
+              -71.456, 
+              -33.891
+            ], 
+            [
+              -71.456, 
+              -33.909
+            ], 
+            [
+              -71.478, 
+              -33.909
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -33.891, 
+        "name": "San Pedro", 
+        "adjacent_woeid": [
+          348717, 
+          349223, 
+          349413, 
+          349886, 
+          349930, 
+          350224, 
+          350259, 
+          350357, 
+          350395, 
+          26794379
+        ], 
+        "woeid": 349473, 
+        "alias_SPA_V": [
+          "S. Pedro"
+        ], 
+        "ne_longitude": -71.456, 
+        "longitude": -71.467, 
+        "parent_woeid": 26794277, 
+        "placetype": "Town", 
+        "iso": "CL", 
+        "date_indexed": "2010-12-02T12:15:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -33.900, 
+        "sw_longitude": -71.478, 
+        "fullname": "San Pedro, Santiago Metropolitan Region, Melipilla Province, Chile", 
+        "sw_latitude": -33.909
+      }, 
+      "id": 349473
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.442, 
+              20.531
+            ], 
+            [
+              -100.442, 
+              20.549
+            ], 
+            [
+              -100.423, 
+              20.549
+            ], 
+            [
+              -100.423, 
+              20.531
+            ], 
+            [
+              -100.442, 
+              20.531
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.549, 
+        "name": "Villa del Pueblito", 
+        "adjacent_woeid": [
+          121738, 
+          132542, 
+          136849, 
+          142621, 
+          148606
+        ], 
+        "woeid": 150853, 
+        "alias_SPA_V": [
+          "Pueblito"
+        ], 
+        "ne_longitude": -100.423, 
+        "longitude": -100.432, 
+        "parent_woeid": 12601448, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.540, 
+        "sw_longitude": -100.442, 
+        "fullname": "Villa del Pueblito, Queretaro de Arteaga, Corregidora, Mexico", 
+        "sw_latitude": 20.531
+      }, 
+      "id": 150853
+    }
+  ]
+}

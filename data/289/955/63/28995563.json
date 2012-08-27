@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              16.211, 
+              47.883
+            ], 
+            [
+              16.211, 
+              47.902
+            ], 
+            [
+              16.238, 
+              47.902
+            ], 
+            [
+              16.238, 
+              47.883
+            ], 
+            [
+              16.211, 
+              47.883
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 28995563, 
+        "name": "Matzendorf-siedlung", 
+        "adjacent_woeid": [
+          542189, 
+          542769, 
+          28995595
+        ], 
+        "ne_latitude": 47.902, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 16.238, 
+        "longitude": 16.225, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:34Z", 
+        "parent_woeid": 12674101, 
+        "latitude": 47.893, 
+        "sw_longitude": 16.211, 
+        "fullname": "Matzendorf-siedlung, Lower Austria, Wiener Neustadt Land, Austria", 
+        "sw_latitude": 47.883
+      }, 
+      "id": 28995563
+    }
+  ]
+}

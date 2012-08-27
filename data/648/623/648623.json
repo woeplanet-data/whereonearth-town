@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.366, 
+              51.675
+            ], 
+            [
+              8.366, 
+              51.691
+            ], 
+            [
+              8.394, 
+              51.691
+            ], 
+            [
+              8.394, 
+              51.675
+            ], 
+            [
+              8.366, 
+              51.675
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 648623, 
+        "name": "Esbecker Heide", 
+        "adjacent_woeid": [
+          648621, 
+          672152, 
+          688953
+        ], 
+        "ne_latitude": 51.691, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.394, 
+        "longitude": 8.383, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:28Z", 
+        "parent_woeid": 12624573, 
+        "latitude": 51.683, 
+        "sw_longitude": 8.366, 
+        "fullname": "Esbecker Heide, North Rhine-Westphalia, Landkreis Soest, Germany", 
+        "sw_latitude": 51.675
+      }, 
+      "id": 648623
+    }
+  ]
+}

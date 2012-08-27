@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.072, 
+              43.323
+            ], 
+            [
+              0.072, 
+              43.341
+            ], 
+            [
+              0.095, 
+              43.341
+            ], 
+            [
+              0.095, 
+              43.323
+            ], 
+            [
+              0.072, 
+              43.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 610231, 
+        "name": "Marsac", 
+        "adjacent_woeid": [
+          618311, 
+          621048, 
+          628835, 
+          631803
+        ], 
+        "ne_latitude": 43.341, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.095, 
+        "longitude": 0.090, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12666315, 
+        "latitude": 43.331, 
+        "sw_longitude": 0.072, 
+        "fullname": "Marsac, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.323
+      }, 
+      "id": 610231
+    }
+  ]
+}

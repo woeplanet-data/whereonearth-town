@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.346, 
+              51.984
+            ], 
+            [
+              10.346, 
+              52.012
+            ], 
+            [
+              10.372, 
+              52.012
+            ], 
+            [
+              10.372, 
+              51.984
+            ], 
+            [
+              10.346, 
+              51.984
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 683763, 
+        "name": "Ostharingen", 
+        "adjacent_woeid": [
+          640892, 
+          685769, 
+          701786, 
+          20166225
+        ], 
+        "ne_latitude": 52.012, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.372, 
+        "longitude": 10.362, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:20Z", 
+        "parent_woeid": 12630357, 
+        "latitude": 51.998, 
+        "sw_longitude": 10.346, 
+        "fullname": "Ostharingen, Lower Saxony, Landkreis Goslar, Germany", 
+        "sw_latitude": 51.984
+      }, 
+      "id": 683763
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.339, 
+              45.350
+            ], 
+            [
+              6.339, 
+              45.379
+            ], 
+            [
+              6.355, 
+              45.379
+            ], 
+            [
+              6.355, 
+              45.350
+            ], 
+            [
+              6.339, 
+              45.350
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 612246, 
+        "name": "Montaimont", 
+        "adjacent_woeid": [
+          612976, 
+          613156, 
+          623166, 
+          624058, 
+          624729, 
+          625773, 
+          29330053
+        ], 
+        "ne_latitude": 45.379, 
+        "ne_longitude": 6.355, 
+        "longitude": 6.346, 
+        "parent_woeid": 12657370, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Montaymont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.372, 
+        "sw_longitude": 6.339, 
+        "fullname": "Montaimont, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.350
+      }, 
+      "id": 612246
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.311, 
+              43.794
+            ], 
+            [
+              1.311, 
+              43.812
+            ], 
+            [
+              1.344, 
+              43.812
+            ], 
+            [
+              1.344, 
+              43.794
+            ], 
+            [
+              1.311, 
+              43.794
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626815, 
+        "name": "St.-Rustice", 
+        "adjacent_woeid": [
+          617247, 
+          29331551
+        ], 
+        "ne_latitude": 43.812, 
+        "ne_longitude": 1.344, 
+        "longitude": 1.327, 
+        "parent_woeid": 12671192, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Rustice"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:37Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.806, 
+        "sw_longitude": 1.311, 
+        "fullname": "St.-Rustice, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.794
+      }, 
+      "id": 626815
+    }
+  ]
+}

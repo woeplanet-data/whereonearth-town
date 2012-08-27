@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.127, 
+              43.323
+            ], 
+            [
+              1.127, 
+              43.357
+            ], 
+            [
+              1.188, 
+              43.357
+            ], 
+            [
+              1.188, 
+              43.323
+            ], 
+            [
+              1.127, 
+              43.323
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 580403, 
+        "name": "Bois-de-la-Pierre", 
+        "adjacent_woeid": [
+          579310, 
+          593650, 
+          600553, 
+          608489, 
+          616431
+        ], 
+        "ne_latitude": 43.357, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.188, 
+        "longitude": 1.151, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:23Z", 
+        "parent_woeid": 12657242, 
+        "latitude": 43.344, 
+        "sw_longitude": 1.127, 
+        "fullname": "Bois-de-la-Pierre, Bois, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.323
+      }, 
+      "id": 580403
+    }
+  ]
+}

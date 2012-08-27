@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.193, 
+              24.308
+            ], 
+            [
+              -100.193, 
+              24.326
+            ], 
+            [
+              -100.173, 
+              24.326
+            ], 
+            [
+              -100.173, 
+              24.308
+            ], 
+            [
+              -100.193, 
+              24.308
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.326, 
+        "name": "Texas", 
+        "adjacent_woeid": [
+          122220, 
+          126011, 
+          129607, 
+          142615, 
+          143564, 
+          144880
+        ], 
+        "woeid": 149186, 
+        "alias_SPA_V": [
+          "S. Ignacio de Tejas"
+        ], 
+        "ne_longitude": -100.173, 
+        "longitude": -100.183, 
+        "parent_woeid": 12600621, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.317, 
+        "sw_longitude": -100.193, 
+        "fullname": "Texas, Nuevo Leon, Galeana, Mexico", 
+        "sw_latitude": 24.308
+      }, 
+      "id": 149186
+    }
+  ]
+}

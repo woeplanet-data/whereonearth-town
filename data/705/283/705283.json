@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.121, 
+              53.555
+            ], 
+            [
+              12.121, 
+              53.596
+            ], 
+            [
+              12.158, 
+              53.596
+            ], 
+            [
+              12.158, 
+              53.555
+            ], 
+            [
+              12.121, 
+              53.555
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 705283, 
+        "name": "Wendisch Waren", 
+        "adjacent_woeid": [
+          677734, 
+          690981, 
+          707946
+        ], 
+        "ne_latitude": 53.596, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.158, 
+        "longitude": 12.128, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:02Z", 
+        "parent_woeid": 12631218, 
+        "latitude": 53.575, 
+        "sw_longitude": 12.121, 
+        "fullname": "Wendisch Waren, Mecklenburg-Vorpommern, Landkreis Parchim, Germany", 
+        "sw_latitude": 53.555
+      }, 
+      "id": 705283
+    }
+  ]
+}

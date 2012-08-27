@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -88.276, 
+              13.825
+            ], 
+            [
+              -88.276, 
+              13.839
+            ], 
+            [
+              -88.262, 
+              13.839
+            ], 
+            [
+              -88.262, 
+              13.825
+            ], 
+            [
+              -88.276, 
+              13.825
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 13.839, 
+        "name": "San Antonio", 
+        "adjacent_woeid": [
+          76993, 
+          79566, 
+          79841, 
+          80109, 
+          26809444
+        ], 
+        "woeid": 79416, 
+        "alias_SPA_V": [
+          "S Antonio"
+        ], 
+        "ne_longitude": -88.262, 
+        "longitude": -88.269, 
+        "parent_woeid": 26808692, 
+        "placetype": "Town", 
+        "iso": "SV", 
+        "date_indexed": "2010-12-02T17:05:52Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 13.832, 
+        "sw_longitude": -88.276, 
+        "fullname": "San Antonio, San Miguel, San Antonio, El Salvador", 
+        "sw_latitude": 13.825
+      }, 
+      "id": 79416
+    }
+  ]
+}

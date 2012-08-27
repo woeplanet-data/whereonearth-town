@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.353, 
+              49.341
+            ], 
+            [
+              -1.353, 
+              49.373
+            ], 
+            [
+              -1.300, 
+              49.373
+            ], 
+            [
+              -1.300, 
+              49.341
+            ], 
+            [
+              -1.353, 
+              49.341
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608003, 
+        "name": "Liesville-sur-Douve", 
+        "adjacent_woeid": [
+          576341, 
+          579760, 
+          580274, 
+          583122, 
+          594972, 
+          595013
+        ], 
+        "ne_latitude": 49.373, 
+        "ne_longitude": -1.300, 
+        "longitude": -1.337, 
+        "parent_woeid": 12648217, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Liesville"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.359, 
+        "sw_longitude": -1.353, 
+        "fullname": "Liesville-sur-Douve, Basse-Normandie, Manche, France", 
+        "sw_latitude": 49.341
+      }, 
+      "id": 608003
+    }
+  ]
+}

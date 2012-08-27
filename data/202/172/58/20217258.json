@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.145, 
+              50.054
+            ], 
+            [
+              3.145, 
+              50.098
+            ], 
+            [
+              3.179, 
+              50.098
+            ], 
+            [
+              3.179, 
+              50.054
+            ], 
+            [
+              3.145, 
+              50.054
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20217258, 
+        "name": "La Vacquerie", 
+        "adjacent_woeid": [
+          578045, 
+          593139, 
+          632053, 
+          29333035
+        ], 
+        "ne_latitude": 50.098, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.179, 
+        "longitude": 3.160, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:31Z", 
+        "parent_woeid": 12672589, 
+        "latitude": 50.072, 
+        "sw_longitude": 3.145, 
+        "fullname": "La Vacquerie, Nord-Pas-de-Calais, Nord, France", 
+        "sw_latitude": 50.054
+      }, 
+      "id": 20217258
+    }
+  ]
+}

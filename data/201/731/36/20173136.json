@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.532, 
+              49.530
+            ], 
+            [
+              12.532, 
+              49.559
+            ], 
+            [
+              12.565, 
+              49.559
+            ], 
+            [
+              12.565, 
+              49.530
+            ], 
+            [
+              12.532, 
+              49.530
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20173136, 
+        "name": "Lindau", 
+        "adjacent_woeid": [
+          644628, 
+          668832, 
+          670499, 
+          20173137
+        ], 
+        "ne_latitude": 49.559, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.565, 
+        "longitude": 12.553, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:48:13Z", 
+        "parent_woeid": 12634316, 
+        "latitude": 49.544, 
+        "sw_longitude": 12.532, 
+        "fullname": "Lindau, Bavaria, Landkreis Schwandorf, Germany", 
+        "sw_latitude": 49.530
+      }, 
+      "id": 20173136
+    }
+  ]
+}

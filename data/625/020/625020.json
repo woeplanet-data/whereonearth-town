@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.442, 
+              45.140
+            ], 
+            [
+              4.442, 
+              45.196
+            ], 
+            [
+              4.536, 
+              45.196
+            ], 
+            [
+              4.536, 
+              45.140
+            ], 
+            [
+              4.442, 
+              45.140
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625020, 
+        "name": "St.-Julien-Vocance", 
+        "adjacent_woeid": [
+          611947, 
+          623316, 
+          625008, 
+          626526, 
+          627093, 
+          632544
+        ], 
+        "ne_latitude": 45.196, 
+        "ne_longitude": 4.536, 
+        "longitude": 4.503, 
+        "parent_woeid": 22756691, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Julien-Vocance"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:15Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.175, 
+        "sw_longitude": 4.442, 
+        "fullname": "St.-Julien-Vocance, Rhone-Alpes, Ardeche, France", 
+        "sw_latitude": 45.140
+      }, 
+      "id": 625020
+    }
+  ]
+}

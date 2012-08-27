@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -1.067, 
+              38.005
+            ], 
+            [
+              -1.067, 
+              38.036
+            ], 
+            [
+              -1.045, 
+              38.036
+            ], 
+            [
+              -1.045, 
+              38.005
+            ], 
+            [
+              -1.067, 
+              38.005
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 38.036, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          752291, 
+          757729, 
+          759635, 
+          760125, 
+          765973, 
+          767568, 
+          775724, 
+          15003649, 
+          29370240
+        ], 
+        "woeid": 15003650, 
+        "alias_SPA_V": [
+          "Sta Cruz"
+        ], 
+        "ne_longitude": -1.045, 
+        "longitude": -1.051, 
+        "parent_woeid": 12688155, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:12:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 38.017, 
+        "sw_longitude": -1.067, 
+        "fullname": "Santa Cruz, Murcia, Murcia, Spain", 
+        "sw_latitude": 38.005
+      }, 
+      "id": 15003650
+    }
+  ]
+}

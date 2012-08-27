@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              4.907, 
+              49.318
+            ], 
+            [
+              4.907, 
+              49.359
+            ], 
+            [
+              4.983, 
+              49.359
+            ], 
+            [
+              4.983, 
+              49.318
+            ], 
+            [
+              4.907, 
+              49.318
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625062, 
+        "name": "St.-Juvin", 
+        "adjacent_woeid": [
+          584267, 
+          585692, 
+          587034, 
+          591163, 
+          609905, 
+          622360, 
+          624154
+        ], 
+        "ne_latitude": 49.359, 
+        "ne_longitude": 4.983, 
+        "longitude": 4.939, 
+        "parent_woeid": 12652727, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Juvin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:05Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.336, 
+        "sw_longitude": 4.907, 
+        "fullname": "St.-Juvin, Champagne-Ardenne, Ardennes, France", 
+        "sw_latitude": 49.318
+      }, 
+      "id": 625062
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.341, 
+              48.105
+            ], 
+            [
+              13.341, 
+              48.123
+            ], 
+            [
+              13.368, 
+              48.123
+            ], 
+            [
+              13.368, 
+              48.105
+            ], 
+            [
+              13.341, 
+              48.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 20097301, 
+        "name": "Schlag", 
+        "adjacent_woeid": [
+          545086, 
+          545443, 
+          545655, 
+          546881, 
+          20096432, 
+          20097994, 
+          20098125
+        ], 
+        "ne_latitude": 48.123, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.368, 
+        "longitude": 13.355, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:35:28Z", 
+        "parent_woeid": 12674568, 
+        "latitude": 48.114, 
+        "sw_longitude": 13.341, 
+        "fullname": "Schlag, Upper Austria, Ried im Innkreis, Austria", 
+        "sw_latitude": 48.105
+      }, 
+      "id": 20097301
+    }
+  ]
+}

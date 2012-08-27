@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.144, 
+              52.622
+            ], 
+            [
+              10.144, 
+              52.683
+            ], 
+            [
+              10.174, 
+              52.683
+            ], 
+            [
+              10.174, 
+              52.622
+            ], 
+            [
+              10.144, 
+              52.622
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23411810, 
+        "name": "Osterberg", 
+        "adjacent_woeid": [
+          634900, 
+          640508, 
+          651577, 
+          662382
+        ], 
+        "ne_latitude": 52.683, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.174, 
+        "longitude": 10.158, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:27Z", 
+        "parent_woeid": 12629600, 
+        "latitude": 52.660, 
+        "sw_longitude": 10.144, 
+        "fullname": "Osterberg, Lower Saxony, Landkreis Celle, Germany", 
+        "sw_latitude": 52.622
+      }, 
+      "id": 23411810
+    }
+  ]
+}

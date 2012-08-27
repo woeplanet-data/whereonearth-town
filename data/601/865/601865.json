@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.684, 
+              47.772
+            ], 
+            [
+              0.684, 
+              47.805
+            ], 
+            [
+              0.720, 
+              47.805
+            ], 
+            [
+              0.720, 
+              47.772
+            ], 
+            [
+              0.684, 
+              47.772
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 601865, 
+        "name": "Lavenay", 
+        "adjacent_woeid": [
+          597474, 
+          15003220, 
+          29331263, 
+          29332365
+        ], 
+        "ne_latitude": 47.805, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.720, 
+        "longitude": 0.703, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "parent_woeid": 20074766, 
+        "latitude": 47.790, 
+        "sw_longitude": 0.684, 
+        "fullname": "Lavenay, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 47.772
+      }, 
+      "id": 601865
+    }
+  ]
+}

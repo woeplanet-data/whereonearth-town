@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.185, 
+              46.210
+            ], 
+            [
+              6.185, 
+              46.228
+            ], 
+            [
+              6.212, 
+              46.228
+            ], 
+            [
+              6.212, 
+              46.210
+            ], 
+            [
+              6.185, 
+              46.210
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20101321, 
+        "name": "Chougny", 
+        "adjacent_woeid": [
+          783093, 
+          20100630, 
+          20100767, 
+          20101407
+        ], 
+        "ne_latitude": 46.228, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 6.212, 
+        "longitude": 6.199, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12683856, 
+        "latitude": 46.219, 
+        "sw_longitude": 6.185, 
+        "fullname": "Chougny, Canton of Geneva, Geneva, Switzerland", 
+        "sw_latitude": 46.210
+      }, 
+      "id": 20101321
+    }
+  ]
+}

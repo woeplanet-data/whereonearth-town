@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.196, 
+              25.199
+            ], 
+            [
+              -99.196, 
+              25.217
+            ], 
+            [
+              -99.176, 
+              25.217
+            ], 
+            [
+              -99.176, 
+              25.199
+            ], 
+            [
+              -99.196, 
+              25.199
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.217, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          113737, 
+          119739, 
+          122792, 
+          142316, 
+          150561
+        ], 
+        "woeid": 142818, 
+        "alias_SPA_V": [
+          "S Ignacio"
+        ], 
+        "ne_longitude": -99.176, 
+        "longitude": -99.186, 
+        "parent_woeid": 12600625, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.208, 
+        "sw_longitude": -99.196, 
+        "fullname": "San Ignacio, Nuevo Leon, General Teran, Mexico", 
+        "sw_latitude": 25.199
+      }, 
+      "id": 142818
+    }
+  ]
+}

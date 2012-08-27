@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -92.659, 
+              15.141
+            ], 
+            [
+              -92.659, 
+              15.159
+            ], 
+            [
+              -92.641, 
+              15.159
+            ], 
+            [
+              -92.641, 
+              15.141
+            ], 
+            [
+              -92.659, 
+              15.141
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.159, 
+        "name": "Hidalgo", 
+        "adjacent_woeid": [
+          119093, 
+          124295, 
+          130095, 
+          134306, 
+          147203, 
+          147204
+        ], 
+        "woeid": 124825, 
+        "alias_SPA_V": [
+          "Buenavista Hidalgo"
+        ], 
+        "ne_longitude": -92.641, 
+        "longitude": -92.650, 
+        "parent_woeid": 12599814, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:43Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.150, 
+        "sw_longitude": -92.659, 
+        "fullname": "Hidalgo, Chiapas, Villa Comaltitlan, Mexico", 
+        "sw_latitude": 15.141
+      }, 
+      "id": 124825
+    }
+  ]
+}

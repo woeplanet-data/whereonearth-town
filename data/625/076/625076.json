@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.033, 
+              46.955
+            ], 
+            [
+              -0.033, 
+              46.990
+            ], 
+            [
+              -0.005, 
+              46.990
+            ], 
+            [
+              -0.005, 
+              46.955
+            ], 
+            [
+              -0.033, 
+              46.955
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625076, 
+        "name": "St.-Laon", 
+        "adjacent_woeid": [
+          576426, 
+          581937, 
+          593025, 
+          613577, 
+          614880, 
+          615753, 
+          618843, 
+          20200102
+        ], 
+        "ne_latitude": 46.990, 
+        "ne_longitude": -0.005, 
+        "longitude": -0.019, 
+        "parent_woeid": 12670712, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Laon"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.979, 
+        "sw_longitude": -0.033, 
+        "fullname": "St.-Laon, Poitou-Charentes, Vienne, France", 
+        "sw_latitude": 46.955
+      }, 
+      "id": 625076
+    }
+  ]
+}

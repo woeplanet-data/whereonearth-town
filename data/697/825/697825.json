@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.501, 
+              52.853
+            ], 
+            [
+              10.501, 
+              52.903
+            ], 
+            [
+              10.559, 
+              52.903
+            ], 
+            [
+              10.559, 
+              52.853
+            ], 
+            [
+              10.501, 
+              52.853
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 697825, 
+        "name": "Streuberg", 
+        "adjacent_woeid": [
+          640317, 
+          661523, 
+          677553
+        ], 
+        "ne_latitude": 52.903, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.559, 
+        "longitude": 10.541, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:38:49Z", 
+        "parent_woeid": 12629794, 
+        "latitude": 52.889, 
+        "sw_longitude": 10.501, 
+        "fullname": "Streuberg, Lower Saxony, Landkreis Uelzen, Germany", 
+        "sw_latitude": 52.853
+      }, 
+      "id": 697825
+    }
+  ]
+}

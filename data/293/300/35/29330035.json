@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.297, 
+              45.517
+            ], 
+            [
+              6.297, 
+              45.535
+            ], 
+            [
+              6.323, 
+              45.535
+            ], 
+            [
+              6.323, 
+              45.517
+            ], 
+            [
+              6.297, 
+              45.517
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29330035, 
+        "name": "La Pouille", 
+        "adjacent_woeid": [
+          613119, 
+          618818, 
+          624204, 
+          20210650, 
+          29330026
+        ], 
+        "ne_latitude": 45.535, 
+        "ne_longitude": 6.323, 
+        "longitude": 6.310, 
+        "parent_woeid": 12654946, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Pouile"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:01Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.526, 
+        "sw_longitude": 6.297, 
+        "fullname": "La Pouille, Rhone-Alpes, Savoy, France", 
+        "sw_latitude": 45.517
+      }, 
+      "id": 29330035
+    }
+  ]
+}

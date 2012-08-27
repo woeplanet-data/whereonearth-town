@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.013, 
+              48.256
+            ], 
+            [
+              2.013, 
+              48.291
+            ], 
+            [
+              2.043, 
+              48.291
+            ], 
+            [
+              2.043, 
+              48.256
+            ], 
+            [
+              2.013, 
+              48.256
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 576074, 
+        "name": "Andonville", 
+        "adjacent_woeid": [
+          576407, 
+          580471, 
+          589867, 
+          592198, 
+          618277
+        ], 
+        "ne_latitude": 48.291, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.043, 
+        "longitude": 2.030, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:47Z", 
+        "parent_woeid": 12637083, 
+        "latitude": 48.272, 
+        "sw_longitude": 2.013, 
+        "fullname": "Andonville, Centre, Loiret, France", 
+        "sw_latitude": 48.256
+      }, 
+      "id": 576074
+    }
+  ]
+}

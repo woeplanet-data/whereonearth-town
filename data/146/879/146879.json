@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.457, 
+              20.738
+            ], 
+            [
+              -100.457, 
+              20.749
+            ], 
+            [
+              -100.445, 
+              20.749
+            ], 
+            [
+              -100.445, 
+              20.738
+            ], 
+            [
+              -100.457, 
+              20.738
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.749, 
+        "name": "Santa Rosa", 
+        "adjacent_woeid": [
+          113784, 
+          121495, 
+          123052, 
+          146882, 
+          149284, 
+          55890719, 
+          55910560
+        ], 
+        "woeid": 146879, 
+        "alias_SPA_V": [
+          "Santa Rosa de Jauregui Centro"
+        ], 
+        "ne_longitude": -100.445, 
+        "longitude": -100.448, 
+        "parent_woeid": 12601457, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.742, 
+        "sw_longitude": -100.457, 
+        "fullname": "Santa Rosa, Queretaro de Arteaga, Queretaro, Mexico", 
+        "sw_latitude": 20.738
+      }, 
+      "id": 146879
+    }
+  ]
+}

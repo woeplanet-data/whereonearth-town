@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.829, 
+              26.052
+            ], 
+            [
+              -111.829, 
+              26.066
+            ], 
+            [
+              -111.813, 
+              26.066
+            ], 
+            [
+              -111.813, 
+              26.052
+            ], 
+            [
+              -111.829, 
+              26.052
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.066, 
+        "name": "San Jose", 
+        "adjacent_woeid": [
+          117113, 
+          128990, 
+          140387, 
+          143004, 
+          144933
+        ], 
+        "woeid": 143411, 
+        "alias_SPA_V": [
+          "S Jose"
+        ], 
+        "ne_longitude": -111.813, 
+        "longitude": -111.821, 
+        "parent_woeid": 12599695, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.059, 
+        "sw_longitude": -111.829, 
+        "fullname": "San Jose, Baja California Sur, Comondu, Mexico", 
+        "sw_latitude": 26.052
+      }, 
+      "id": 143411
+    }
+  ]
+}

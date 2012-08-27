@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -2.141, 
+              42.105
+            ], 
+            [
+              -2.141, 
+              42.145
+            ], 
+            [
+              -2.089, 
+              42.145
+            ], 
+            [
+              -2.089, 
+              42.105
+            ], 
+            [
+              -2.141, 
+              42.105
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 42.145, 
+        "name": "Muro de Aguas", 
+        "adjacent_woeid": [
+          776189, 
+          776607, 
+          29371490
+        ], 
+        "woeid": 768075, 
+        "alias_SPA_V": [
+          "Muro de Ambas Aguas"
+        ], 
+        "ne_longitude": -2.089, 
+        "longitude": -2.111, 
+        "parent_woeid": 12687868, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:55Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 42.134, 
+        "sw_longitude": -2.141, 
+        "fullname": "Muro de Aguas, La Rioja, Rioja, Spain", 
+        "sw_latitude": 42.105
+      }, 
+      "id": 768075
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -89.510, 
+              20.358
+            ], 
+            [
+              -89.510, 
+              20.376
+            ], 
+            [
+              -89.490, 
+              20.376
+            ], 
+            [
+              -89.490, 
+              20.358
+            ], 
+            [
+              -89.510, 
+              20.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.376, 
+        "name": "San Enrique", 
+        "adjacent_woeid": [
+          118411, 
+          137990, 
+          143175, 
+          149263
+        ], 
+        "woeid": 142269, 
+        "alias_SPA_V": [
+          "S. Enrique"
+        ], 
+        "ne_longitude": -89.490, 
+        "longitude": -89.500, 
+        "parent_woeid": 12602014, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.367, 
+        "sw_longitude": -89.510, 
+        "fullname": "San Enrique, Yucatan, Ticul, Mexico", 
+        "sw_latitude": 20.358
+      }, 
+      "id": 142269
+    }
+  ]
+}

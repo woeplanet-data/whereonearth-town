@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.006, 
+              49.365
+            ], 
+            [
+              1.006, 
+              49.408
+            ], 
+            [
+              1.059, 
+              49.408
+            ], 
+            [
+              1.059, 
+              49.365
+            ], 
+            [
+              1.006, 
+              49.365
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603982, 
+        "name": "Petit-Couronne", 
+        "adjacent_woeid": [
+          582955, 
+          593506, 
+          603152, 
+          620108, 
+          623921, 
+          629781, 
+          29331418, 
+          55863550
+        ], 
+        "ne_latitude": 49.408, 
+        "ne_longitude": 1.059, 
+        "longitude": 1.023, 
+        "parent_woeid": 12647546, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Petit-Couronne"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.388, 
+        "sw_longitude": 1.006, 
+        "fullname": "Petit-Couronne, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.365
+      }, 
+      "id": 603982
+    }
+  ]
+}

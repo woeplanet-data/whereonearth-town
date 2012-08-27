@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.858, 
+              24.660
+            ], 
+            [
+              -98.858, 
+              24.674
+            ], 
+            [
+              -98.842, 
+              24.674
+            ], 
+            [
+              -98.842, 
+              24.660
+            ], 
+            [
+              -98.858, 
+              24.660
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.674, 
+        "name": "San Rafael", 
+        "adjacent_woeid": [
+          118559, 
+          119534, 
+          121269, 
+          133844, 
+          144782, 
+          146944
+        ], 
+        "woeid": 145216, 
+        "alias_SPA_V": [
+          "S Rafael"
+        ], 
+        "ne_longitude": -98.842, 
+        "longitude": -98.850, 
+        "parent_woeid": 12601667, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.667, 
+        "sw_longitude": -98.858, 
+        "fullname": "San Rafael, Tamaulipas, San Nicolas, Mexico", 
+        "sw_latitude": 24.660
+      }, 
+      "id": 145216
+    }
+  ]
+}

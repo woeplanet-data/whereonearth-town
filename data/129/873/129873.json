@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.541, 
+              22.276
+            ], 
+            [
+              -99.541, 
+              22.290
+            ], 
+            [
+              -99.526, 
+              22.290
+            ], 
+            [
+              -99.526, 
+              22.276
+            ], 
+            [
+              -99.541, 
+              22.276
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.290, 
+        "name": "Lagunillas", 
+        "adjacent_woeid": [
+          111992, 
+          116547, 
+          132780, 
+          133589, 
+          133705, 
+          135953, 
+          140457
+        ], 
+        "woeid": 129873, 
+        "alias_SPA_V": [
+          "Colonia Lagunillas"
+        ], 
+        "ne_longitude": -99.526, 
+        "longitude": -99.533, 
+        "parent_woeid": 12601480, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.283, 
+        "sw_longitude": -99.541, 
+        "fullname": "Lagunillas, San Luis Potosi, Ciudad del Maiz, Mexico", 
+        "sw_latitude": 22.276
+      }, 
+      "id": 129873
+    }
+  ]
+}

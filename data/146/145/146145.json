@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.082, 
+              22.028
+            ], 
+            [
+              -105.082, 
+              22.046
+            ], 
+            [
+              -105.062, 
+              22.046
+            ], 
+            [
+              -105.062, 
+              22.028
+            ], 
+            [
+              -105.082, 
+              22.028
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 22.046, 
+        "name": "Santa Fe", 
+        "adjacent_woeid": [
+          116757, 
+          117572, 
+          131567, 
+          133883, 
+          142236
+        ], 
+        "woeid": 146145, 
+        "alias_SPA_V": [
+          "Sta. Fe"
+        ], 
+        "ne_longitude": -105.062, 
+        "longitude": -105.072, 
+        "parent_woeid": 12600596, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 22.037, 
+        "sw_longitude": -105.082, 
+        "fullname": "Santa Fe, Nayarit, Rosamorada, Mexico", 
+        "sw_latitude": 22.028
+      }, 
+      "id": 146145
+    }
+  ]
+}

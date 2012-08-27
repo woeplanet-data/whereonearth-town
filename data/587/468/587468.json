@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.268, 
+              48.284
+            ], 
+            [
+              0.268, 
+              48.311
+            ], 
+            [
+              0.303, 
+              48.311
+            ], 
+            [
+              0.303, 
+              48.284
+            ], 
+            [
+              0.268, 
+              48.284
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 587468, 
+        "name": "Courgains", 
+        "adjacent_woeid": [
+          588482, 
+          606857, 
+          611986, 
+          620990, 
+          623373, 
+          628523
+        ], 
+        "ne_latitude": 48.311, 
+        "ne_longitude": 0.303, 
+        "longitude": 0.281, 
+        "parent_woeid": 12660005, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Gourgains"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.292, 
+        "sw_longitude": 0.268, 
+        "fullname": "Courgains, Pays de la Loire, Sarthe, France", 
+        "sw_latitude": 48.284
+      }, 
+      "id": 587468
+    }
+  ]
+}

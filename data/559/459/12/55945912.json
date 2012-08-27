@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              100.123, 
+              20.042
+            ], 
+            [
+              100.123, 
+              20.060
+            ], 
+            [
+              100.142, 
+              20.060
+            ], 
+            [
+              100.142, 
+              20.042
+            ], 
+            [
+              100.123, 
+              20.042
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 55945912, 
+        "name": "Pa Sang", 
+        "adjacent_woeid": [
+          1202342, 
+          1217280, 
+          1220624, 
+          1224996, 
+          55945866
+        ], 
+        "ne_latitude": 20.060, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 100.142, 
+        "longitude": 100.133, 
+        "placetype": "Town", 
+        "iso": "TH", 
+        "date_indexed": "2010-12-02T17:04:56Z", 
+        "parent_woeid": 28340871, 
+        "latitude": 20.051, 
+        "sw_longitude": 100.123, 
+        "fullname": "Pa Sang, Chiang Rai, Wiang Chiang Rung, Thailand", 
+        "sw_latitude": 20.042
+      }, 
+      "id": 55945912
+    }
+  ]
+}

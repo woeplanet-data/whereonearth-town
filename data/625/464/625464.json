@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.726, 
+              43.187
+            ], 
+            [
+              0.726, 
+              43.211
+            ], 
+            [
+              0.749, 
+              43.211
+            ], 
+            [
+              0.749, 
+              43.187
+            ], 
+            [
+              0.726, 
+              43.187
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625464, 
+        "name": "St.-Marcet", 
+        "adjacent_woeid": [
+          577257, 
+          583053, 
+          583184, 
+          600985, 
+          601469, 
+          601647, 
+          625079
+        ], 
+        "ne_latitude": 43.211, 
+        "ne_longitude": 0.749, 
+        "longitude": 0.733, 
+        "parent_woeid": 12670822, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Marcet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.198, 
+        "sw_longitude": 0.726, 
+        "fullname": "St.-Marcet, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.187
+      }, 
+      "id": 625464
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.560, 
+              26.441
+            ], 
+            [
+              -102.560, 
+              26.459
+            ], 
+            [
+              -102.540, 
+              26.459
+            ], 
+            [
+              -102.540, 
+              26.441
+            ], 
+            [
+              -102.560, 
+              26.441
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.459, 
+        "name": "El Mezquite", 
+        "adjacent_woeid": [
+          130327, 
+          130600, 
+          132768, 
+          148188, 
+          148225
+        ], 
+        "woeid": 120880, 
+        "alias_SPA_V": [
+          "Mezquite"
+        ], 
+        "ne_longitude": -102.540, 
+        "longitude": -102.550, 
+        "parent_woeid": 12599918, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.450, 
+        "sw_longitude": -102.560, 
+        "fullname": "El Mezquite, Coahuila de Zaragoza, San Pedro, Mexico", 
+        "sw_latitude": 26.441
+      }, 
+      "id": 120880
+    }
+  ]
+}

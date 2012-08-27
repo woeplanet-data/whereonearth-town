@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.338, 
+              49.123
+            ], 
+            [
+              10.338, 
+              49.145
+            ], 
+            [
+              10.359, 
+              49.145
+            ], 
+            [
+              10.359, 
+              49.123
+            ], 
+            [
+              10.338, 
+              49.123
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 708582, 
+        "name": "Zehdorf", 
+        "adjacent_woeid": [
+          638278, 
+          659479, 
+          668253, 
+          668651, 
+          675762, 
+          698271
+        ], 
+        "ne_latitude": 49.145, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.359, 
+        "longitude": 10.351, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:47:16Z", 
+        "parent_woeid": 12634400, 
+        "latitude": 49.138, 
+        "sw_longitude": 10.338, 
+        "fullname": "Zehdorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.123
+      }, 
+      "id": 708582
+    }
+  ]
+}

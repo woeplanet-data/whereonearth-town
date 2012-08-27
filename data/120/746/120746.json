@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.210, 
+              20.720
+            ], 
+            [
+              -100.210, 
+              20.742
+            ], 
+            [
+              -100.190, 
+              20.742
+            ], 
+            [
+              -100.190, 
+              20.720
+            ], 
+            [
+              -100.210, 
+              20.720
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.742, 
+        "name": "El Lobo", 
+        "adjacent_woeid": [
+          111829, 
+          112031, 
+          112660, 
+          122395, 
+          127593, 
+          129680, 
+          151552
+        ], 
+        "woeid": 120746, 
+        "alias_SPA_V": [
+          "Lobo"
+        ], 
+        "ne_longitude": -100.190, 
+        "longitude": -100.204, 
+        "parent_woeid": 12601449, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.728, 
+        "sw_longitude": -100.210, 
+        "fullname": "El Lobo, Queretaro de Arteaga, El Marques, Mexico", 
+        "sw_latitude": 20.720
+      }, 
+      "id": 120746
+    }
+  ]
+}

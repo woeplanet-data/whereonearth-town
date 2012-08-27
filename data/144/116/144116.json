@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -98.560, 
+              21.424
+            ], 
+            [
+              -98.560, 
+              21.442
+            ], 
+            [
+              -98.540, 
+              21.442
+            ], 
+            [
+              -98.540, 
+              21.424
+            ], 
+            [
+              -98.560, 
+              21.424
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 21.442, 
+        "name": "San Lorenzo", 
+        "adjacent_woeid": [
+          119462, 
+          120590, 
+          127980, 
+          134462, 
+          140453, 
+          144968
+        ], 
+        "woeid": 144116, 
+        "alias_SPA_V": [
+          "S Lorenzo"
+        ], 
+        "ne_longitude": -98.540, 
+        "longitude": -98.550, 
+        "parent_woeid": 12601499, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 21.433, 
+        "sw_longitude": -98.560, 
+        "fullname": "San Lorenzo, San Luis Potosi, San Martin Chalchicuautla, Mexico", 
+        "sw_latitude": 21.424
+      }, 
+      "id": 144116
+    }
+  ]
+}

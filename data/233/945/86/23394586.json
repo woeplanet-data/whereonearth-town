@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.436, 
+              46.212
+            ], 
+            [
+              -70.436, 
+              46.328
+            ], 
+            [
+              -70.231, 
+              46.328
+            ], 
+            [
+              -70.231, 
+              46.212
+            ], 
+            [
+              -70.436, 
+              46.212
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394586, 
+        "name": "St.-Louis-de-Gonzague", 
+        "adjacent_woeid": [
+          3488, 
+          23394515, 
+          23394547, 
+          23396501, 
+          29374517
+        ], 
+        "ne_latitude": 46.328, 
+        "ne_longitude": -70.231, 
+        "longitude": -70.328, 
+        "parent_woeid": 29375064, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Louis-de-Gonzague"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.266, 
+        "sw_longitude": -70.436, 
+        "fullname": "St.-Louis-de-Gonzague, Quebec, Les Etchemins, Canada", 
+        "sw_latitude": 46.212
+      }, 
+      "id": 23394586
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.661, 
+              50.221
+            ], 
+            [
+              11.661, 
+              50.239
+            ], 
+            [
+              11.689, 
+              50.239
+            ], 
+            [
+              11.689, 
+              50.221
+            ], 
+            [
+              11.661, 
+              50.221
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 683409, 
+        "name": "Ort", 
+        "adjacent_woeid": [
+          642704, 
+          660996, 
+          682577, 
+          686925, 
+          701700, 
+          703326, 
+          708351, 
+          29348665
+        ], 
+        "ne_latitude": 50.239, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.689, 
+        "longitude": 11.675, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:14Z", 
+        "parent_woeid": 12635306, 
+        "latitude": 50.230, 
+        "sw_longitude": 11.661, 
+        "fullname": "Ort, Bavaria, Landkreis Hof, Germany", 
+        "sw_latitude": 50.221
+      }, 
+      "id": 683409
+    }
+  ]
+}

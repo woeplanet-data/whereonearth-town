@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.508, 
+              43.475
+            ], 
+            [
+              6.508, 
+              43.536
+            ], 
+            [
+              6.598, 
+              43.536
+            ], 
+            [
+              6.598, 
+              43.475
+            ], 
+            [
+              6.508, 
+              43.475
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599162, 
+        "name": "La Motte", 
+        "adjacent_woeid": [
+          582703, 
+          589166, 
+          590958, 
+          603804, 
+          605277, 
+          629076, 
+          29329860, 
+          29329879, 
+          29329896
+        ], 
+        "ne_latitude": 43.536, 
+        "ne_longitude": 6.598, 
+        "longitude": 6.535, 
+        "parent_woeid": 12663973, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Lamotte"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.493, 
+        "sw_longitude": 6.508, 
+        "fullname": "La Motte, Provence-Alpes-Cote d'Azur, Var, France", 
+        "sw_latitude": 43.475
+      }, 
+      "id": 599162
+    }
+  ]
+}

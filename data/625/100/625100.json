@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.381, 
+              44.234
+            ], 
+            [
+              0.381, 
+              44.257
+            ], 
+            [
+              0.410, 
+              44.257
+            ], 
+            [
+              0.410, 
+              44.234
+            ], 
+            [
+              0.381, 
+              44.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625100, 
+        "name": "St.-Laurent", 
+        "adjacent_woeid": [
+          578513, 
+          582167, 
+          586239, 
+          610939, 
+          612561, 
+          20197491
+        ], 
+        "ne_latitude": 44.257, 
+        "ne_longitude": 0.410, 
+        "longitude": 0.398, 
+        "parent_woeid": 12652760, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Laurent"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 44.247, 
+        "sw_longitude": 0.381, 
+        "fullname": "St.-Laurent, Aquitaine, Lot-et-Garonne, France", 
+        "sw_latitude": 44.234
+      }, 
+      "id": 625100
+    }
+  ]
+}

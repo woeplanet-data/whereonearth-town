@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.757, 
+              55.362
+            ], 
+            [
+              10.757, 
+              55.380
+            ], 
+            [
+              10.789, 
+              55.380
+            ], 
+            [
+              10.789, 
+              55.362
+            ], 
+            [
+              10.757, 
+              55.362
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "DAN", 
+        "woeid": 555807, 
+        "name": "Nordenhuse", 
+        "adjacent_woeid": [
+          552144, 
+          552529, 
+          556564, 
+          556978
+        ], 
+        "ne_latitude": 55.380, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.789, 
+        "longitude": 10.773, 
+        "placetype": "Town", 
+        "iso": "DK", 
+        "date_indexed": "2010-12-02T16:13:02Z", 
+        "parent_woeid": 12582684, 
+        "latitude": 55.371, 
+        "sw_longitude": 10.757, 
+        "fullname": "Nordenhuse, Syddanmark, Nyborg, Denmark", 
+        "sw_latitude": 55.362
+      }, 
+      "id": 555807
+    }
+  ]
+}

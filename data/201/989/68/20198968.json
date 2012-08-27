@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.008, 
+              45.894
+            ], 
+            [
+              0.008, 
+              45.903
+            ], 
+            [
+              0.021, 
+              45.903
+            ], 
+            [
+              0.021, 
+              45.894
+            ], 
+            [
+              0.008, 
+              45.894
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20198968, 
+        "name": "La Chauss\u00e9e", 
+        "adjacent_woeid": [
+          589358, 
+          624049, 
+          631720, 
+          20198157
+        ], 
+        "ne_latitude": 45.903, 
+        "ne_longitude": 0.021, 
+        "longitude": 0.015, 
+        "parent_woeid": 12672477, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "La Chaussee"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:44Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.899, 
+        "sw_longitude": 0.008, 
+        "fullname": "La Chauss\u00e9e, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 45.894
+      }, 
+      "id": 20198968
+    }
+  ]
+}

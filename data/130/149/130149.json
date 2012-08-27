@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -109.743, 
+              23.258
+            ], 
+            [
+              -109.743, 
+              23.276
+            ], 
+            [
+              -109.723, 
+              23.276
+            ], 
+            [
+              -109.723, 
+              23.258
+            ], 
+            [
+              -109.743, 
+              23.258
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 23.276, 
+        "name": "Las Casitas", 
+        "adjacent_woeid": [
+          114058, 
+          121957, 
+          122329, 
+          128602, 
+          128610, 
+          133758
+        ], 
+        "woeid": 130149, 
+        "alias_SPA_V": [
+          "Cositas"
+        ], 
+        "ne_longitude": -109.723, 
+        "longitude": -109.733, 
+        "parent_woeid": 12599697, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 23.267, 
+        "sw_longitude": -109.743, 
+        "fullname": "Las Casitas, Baja California Sur, Los Cabos, Mexico", 
+        "sw_latitude": 23.258
+      }, 
+      "id": 130149
+    }
+  ]
+}

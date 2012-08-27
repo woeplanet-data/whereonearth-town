@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.551, 
+              44.711
+            ], 
+            [
+              3.551, 
+              44.747
+            ], 
+            [
+              3.606, 
+              44.747
+            ], 
+            [
+              3.606, 
+              44.711
+            ], 
+            [
+              3.551, 
+              44.711
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 599302, 
+        "name": "La Panouse", 
+        "adjacent_woeid": [
+          600444, 
+          623693, 
+          626298, 
+          626886
+        ], 
+        "ne_latitude": 44.747, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.606, 
+        "longitude": 3.591, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:16Z", 
+        "parent_woeid": 20075076, 
+        "latitude": 44.729, 
+        "sw_longitude": 3.551, 
+        "fullname": "La Panouse, Languedoc-Roussillon, Lozere, France", 
+        "sw_latitude": 44.711
+      }, 
+      "id": 599302
+    }
+  ]
+}

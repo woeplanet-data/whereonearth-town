@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.599, 
+              43.924
+            ], 
+            [
+              0.599, 
+              43.958
+            ], 
+            [
+              0.658, 
+              43.958
+            ], 
+            [
+              0.658, 
+              43.924
+            ], 
+            [
+              0.599, 
+              43.924
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 605053, 
+        "name": "Lectoure", 
+        "adjacent_woeid": [
+          576944, 
+          583260, 
+          583294, 
+          583304, 
+          586773, 
+          591115, 
+          596650, 
+          599805, 
+          601443, 
+          609215, 
+          610275, 
+          611592, 
+          615812, 
+          616935, 
+          623159, 
+          623542, 
+          625617, 
+          627684, 
+          628262, 
+          629843, 
+          20193470, 
+          29331981
+        ], 
+        "ne_latitude": 43.958, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.658, 
+        "longitude": 0.628, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:49Z", 
+        "parent_woeid": 12665207, 
+        "latitude": 43.934, 
+        "sw_longitude": 0.599, 
+        "fullname": "Lectoure, Midi-Pyrenees, Gers, France", 
+        "sw_latitude": 43.924
+      }, 
+      "id": 605053
+    }
+  ]
+}

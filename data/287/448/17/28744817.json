@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -80.207, 
+              41.849
+            ], 
+            [
+              -80.207, 
+              41.950
+            ], 
+            [
+              -80.033, 
+              41.950
+            ], 
+            [
+              -80.033, 
+              41.849
+            ], 
+            [
+              -80.207, 
+              41.849
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28744817, 
+        "name": "Washington", 
+        "adjacent_woeid": [
+          2448225, 
+          28744583, 
+          28744768
+        ], 
+        "ne_latitude": 41.950, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Washington Township"
+        ], 
+        "ne_longitude": -80.033, 
+        "longitude": -80.096, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589752, 
+        "latitude": 41.895, 
+        "sw_longitude": -80.207, 
+        "fullname": "Washington, Pennsylvania, Erie, United States", 
+        "sw_latitude": 41.849
+      }, 
+      "id": 28744817
+    }
+  ]
+}

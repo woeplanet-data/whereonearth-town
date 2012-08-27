@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.280, 
+              48.501
+            ], 
+            [
+              6.280, 
+              48.529
+            ], 
+            [
+              6.318, 
+              48.529
+            ], 
+            [
+              6.318, 
+              48.501
+            ], 
+            [
+              6.280, 
+              48.501
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625471, 
+        "name": "St.-Mard", 
+        "adjacent_woeid": [
+          587902, 
+          588977, 
+          594401, 
+          608638, 
+          614212, 
+          622097
+        ], 
+        "ne_latitude": 48.529, 
+        "ne_longitude": 6.318, 
+        "longitude": 6.304, 
+        "parent_woeid": 12670825, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Mard"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.506, 
+        "sw_longitude": 6.280, 
+        "fullname": "St.-Mard, Lorraine, Meurthe-et-Moselle, France", 
+        "sw_latitude": 48.501
+      }, 
+      "id": 625471
+    }
+  ]
+}

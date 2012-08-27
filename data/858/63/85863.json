@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -91.774, 
+              15.493
+            ], 
+            [
+              -91.774, 
+              15.507
+            ], 
+            [
+              -91.759, 
+              15.507
+            ], 
+            [
+              -91.759, 
+              15.493
+            ], 
+            [
+              -91.774, 
+              15.493
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 15.507, 
+        "name": "San Pedro Necta", 
+        "adjacent_woeid": [
+          81936, 
+          83225, 
+          83456, 
+          85009, 
+          85525, 
+          86081
+        ], 
+        "woeid": 85863, 
+        "alias_SPA_V": [
+          "S Pedro Necta"
+        ], 
+        "ne_longitude": -91.759, 
+        "longitude": -91.767, 
+        "parent_woeid": 26807016, 
+        "placetype": "Town", 
+        "iso": "GT", 
+        "date_indexed": "2010-12-02T16:55:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 15.500, 
+        "sw_longitude": -91.774, 
+        "fullname": "San Pedro Necta, Huehuetenango, San Pedro Necta, Guatemala", 
+        "sw_latitude": 15.493
+      }, 
+      "id": 85863
+    }
+  ]
+}

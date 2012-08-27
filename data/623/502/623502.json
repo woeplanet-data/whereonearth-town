@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.230, 
+              47.864
+            ], 
+            [
+              5.230, 
+              47.898
+            ], 
+            [
+              5.265, 
+              47.898
+            ], 
+            [
+              5.265, 
+              47.864
+            ], 
+            [
+              5.230, 
+              47.864
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623502, 
+        "name": "St.-Ciergues", 
+        "adjacent_woeid": [
+          578593, 
+          587407, 
+          595063, 
+          609924, 
+          615149, 
+          616117, 
+          625752, 
+          632579
+        ], 
+        "ne_latitude": 47.898, 
+        "ne_longitude": 5.265, 
+        "longitude": 5.255, 
+        "parent_woeid": 12652317, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ciergues"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.884, 
+        "sw_longitude": 5.230, 
+        "fullname": "St.-Ciergues, Champagne-Ardenne, Haute-Marne, France", 
+        "sw_latitude": 47.864
+      }, 
+      "id": 623502
+    }
+  ]
+}

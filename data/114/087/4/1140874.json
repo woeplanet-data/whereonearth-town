@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              111.213, 
+              2.214
+            ], 
+            [
+              111.213, 
+              2.232
+            ], 
+            [
+              111.232, 
+              2.232
+            ], 
+            [
+              111.232, 
+              2.214
+            ], 
+            [
+              111.213, 
+              2.214
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 1140874, 
+        "name": "Belawai", 
+        "adjacent_woeid": [
+          1151477, 
+          1154665, 
+          1154692, 
+          1155041, 
+          56015266
+        ], 
+        "ne_latitude": 2.232, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Kampong Belawai"
+        ], 
+        "ne_longitude": 111.232, 
+        "longitude": 111.222, 
+        "placetype": "Town", 
+        "iso": "MY", 
+        "date_indexed": "2010-12-02T18:03:57Z", 
+        "parent_woeid": 56014125, 
+        "latitude": 2.223, 
+        "sw_longitude": 111.213, 
+        "fullname": "Belawai, Sarawak, Division Sarikei, Malaysia", 
+        "sw_latitude": 2.214
+      }, 
+      "id": 1140874
+    }
+  ]
+}

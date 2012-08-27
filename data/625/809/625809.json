@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.285, 
+              46.558
+            ], 
+            [
+              2.285, 
+              46.595
+            ], 
+            [
+              2.319, 
+              46.595
+            ], 
+            [
+              2.319, 
+              46.558
+            ], 
+            [
+              2.285, 
+              46.558
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625809, 
+        "name": "St.-Maur", 
+        "adjacent_woeid": [
+          619056, 
+          624879, 
+          20184677
+        ], 
+        "ne_latitude": 46.595, 
+        "ne_longitude": 2.319, 
+        "longitude": 2.298, 
+        "parent_woeid": 12644665, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Maur"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.580, 
+        "sw_longitude": 2.285, 
+        "fullname": "St.-Maur, Centre, Cher, France", 
+        "sw_latitude": 46.558
+      }, 
+      "id": 625809
+    }
+  ]
+}

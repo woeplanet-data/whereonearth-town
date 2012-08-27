@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -75.400, 
+              46.717
+            ], 
+            [
+              -75.400, 
+              46.840
+            ], 
+            [
+              -75.277, 
+              46.840
+            ], 
+            [
+              -75.277, 
+              46.717
+            ], 
+            [
+              -75.400, 
+              46.717
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 23394435, 
+        "name": "Mont-St.-Michel", 
+        "adjacent_woeid": [
+          3335, 
+          3336, 
+          3457, 
+          23395591
+        ], 
+        "ne_latitude": 46.840, 
+        "ne_longitude": -75.277, 
+        "longitude": -75.339, 
+        "parent_woeid": 29375197, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mont-St-Michel"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:21Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.778, 
+        "sw_longitude": -75.400, 
+        "fullname": "Mont-St.-Michel, Quebec, Antoine-Labelle, Canada", 
+        "sw_latitude": 46.717
+      }, 
+      "id": 23394435
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.045, 
+              49.442
+            ], 
+            [
+              1.045, 
+              49.484
+            ], 
+            [
+              1.102, 
+              49.484
+            ], 
+            [
+              1.102, 
+              49.442
+            ], 
+            [
+              1.045, 
+              49.442
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 55863627, 
+        "name": "Mont-St.-Aignan", 
+        "adjacent_woeid": [
+          594992, 
+          55863465, 
+          55863626
+        ], 
+        "ne_latitude": 49.484, 
+        "ne_longitude": 1.102, 
+        "longitude": 1.071, 
+        "parent_woeid": 12642902, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Mont-St-Aignan"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.462, 
+        "sw_longitude": 1.045, 
+        "fullname": "Mont-St.-Aignan, Rouen, Haute-Normandie, Seine-Maritime, France", 
+        "sw_latitude": 49.442
+      }, 
+      "id": 55863627
+    }
+  ]
+}

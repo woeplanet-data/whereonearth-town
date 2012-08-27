@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.987, 
+              48.374
+            ], 
+            [
+              1.987, 
+              48.383
+            ], 
+            [
+              2.001, 
+              48.383
+            ], 
+            [
+              2.001, 
+              48.374
+            ], 
+            [
+              1.987, 
+              48.374
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628499, 
+        "name": "Thionville", 
+        "adjacent_woeid": [
+          583963, 
+          586796, 
+          593594, 
+          615438
+        ], 
+        "ne_latitude": 48.383, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.001, 
+        "longitude": 1.994, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:12Z", 
+        "parent_woeid": 12642061, 
+        "latitude": 48.379, 
+        "sw_longitude": 1.987, 
+        "fullname": "Thionville, Ile-de-France, Essonne, France", 
+        "sw_latitude": 48.374
+      }, 
+      "id": 628499
+    }
+  ]
+}

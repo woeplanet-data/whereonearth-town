@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.443, 
+              25.774
+            ], 
+            [
+              -105.443, 
+              25.792
+            ], 
+            [
+              -105.423, 
+              25.792
+            ], 
+            [
+              -105.423, 
+              25.774
+            ], 
+            [
+              -105.443, 
+              25.774
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.792, 
+        "name": "San Javier", 
+        "adjacent_woeid": [
+          118861, 
+          129527, 
+          145915, 
+          146178
+        ], 
+        "woeid": 143052, 
+        "alias_SPA_V": [
+          "S Javier"
+        ], 
+        "ne_longitude": -105.423, 
+        "longitude": -105.433, 
+        "parent_woeid": 12599955, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.783, 
+        "sw_longitude": -105.443, 
+        "fullname": "San Javier, Durango, El Oro, Mexico", 
+        "sw_latitude": 25.774
+      }, 
+      "id": 143052
+    }
+  ]
+}

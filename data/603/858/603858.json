@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.503, 
+              45.519
+            ], 
+            [
+              5.503, 
+              45.549
+            ], 
+            [
+              5.520, 
+              45.549
+            ], 
+            [
+              5.520, 
+              45.519
+            ], 
+            [
+              5.503, 
+              45.519
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 603858, 
+        "name": "Le Passage", 
+        "adjacent_woeid": [
+          581754, 
+          584849, 
+          585462, 
+          607324, 
+          622959
+        ], 
+        "ne_latitude": 45.549, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.520, 
+        "longitude": 5.511, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:22Z", 
+        "parent_woeid": 12664982, 
+        "latitude": 45.534, 
+        "sw_longitude": 5.503, 
+        "fullname": "Le Passage, Rhone-Alpes, Isere, France", 
+        "sw_latitude": 45.519
+      }, 
+      "id": 603858
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.660, 
+              20.291
+            ], 
+            [
+              -103.660, 
+              20.309
+            ], 
+            [
+              -103.640, 
+              20.309
+            ], 
+            [
+              -103.640, 
+              20.291
+            ], 
+            [
+              -103.660, 
+              20.291
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.309, 
+        "name": "Barranca de Santa Clara", 
+        "adjacent_woeid": [
+          112686, 
+          113119, 
+          113373, 
+          129117, 
+          137638
+        ], 
+        "woeid": 113120, 
+        "alias_SPA_V": [
+          "Barranca de Sta Clara"
+        ], 
+        "ne_longitude": -103.640, 
+        "longitude": -103.650, 
+        "parent_woeid": 12600312, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.300, 
+        "sw_longitude": -103.660, 
+        "fullname": "Barranca de Santa Clara, Jalisco, Zacoalco de Torres, Mexico", 
+        "sw_latitude": 20.291
+      }, 
+      "id": 113120
+    }
+  ]
+}

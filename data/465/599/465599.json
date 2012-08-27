@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -64.424, 
+              -30.019
+            ], 
+            [
+              -64.424, 
+              -30.001
+            ], 
+            [
+              -64.403, 
+              -30.001
+            ], 
+            [
+              -64.403, 
+              -30.019
+            ], 
+            [
+              -64.424, 
+              -30.019
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": -30.001, 
+        "name": "Isla de San Antonio", 
+        "adjacent_woeid": [
+          330586, 
+          332664, 
+          332671, 
+          465070
+        ], 
+        "woeid": 465599, 
+        "alias_SPA_V": [
+          "Isla S. Antonio"
+        ], 
+        "ne_longitude": -64.403, 
+        "longitude": -64.414, 
+        "parent_woeid": 20070668, 
+        "placetype": "Town", 
+        "iso": "AR", 
+        "date_indexed": "2010-12-02T17:40:56Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": -30.010, 
+        "sw_longitude": -64.424, 
+        "fullname": "Isla de San Antonio, Cordoba, Tulumba, Argentina", 
+        "sw_latitude": -30.019
+      }, 
+      "id": 465599
+    }
+  ]
+}

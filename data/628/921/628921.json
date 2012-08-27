@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.031, 
+              48.800
+            ], 
+            [
+              0.031, 
+              48.824
+            ], 
+            [
+              0.061, 
+              48.824
+            ], 
+            [
+              0.061, 
+              48.800
+            ], 
+            [
+              0.031, 
+              48.800
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 628921, 
+        "name": "Tournai-sur-Dive", 
+        "adjacent_woeid": [
+          577109, 
+          587304, 
+          613956, 
+          622164, 
+          625073, 
+          631656, 
+          20184368
+        ], 
+        "ne_latitude": 48.824, 
+        "ne_longitude": 0.061, 
+        "longitude": 0.044, 
+        "parent_woeid": 12653744, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Tournai-sur-Dives"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:33Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.812, 
+        "sw_longitude": 0.031, 
+        "fullname": "Tournai-sur-Dive, Tournai, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.800
+      }, 
+      "id": 628921
+    }
+  ]
+}

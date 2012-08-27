@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.313, 
+              43.293
+            ], 
+            [
+              0.313, 
+              43.323
+            ], 
+            [
+              0.365, 
+              43.323
+            ], 
+            [
+              0.365, 
+              43.293
+            ], 
+            [
+              0.313, 
+              43.293
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600958, 
+        "name": "Lalanne-Trie", 
+        "adjacent_woeid": [
+          601429, 
+          608872, 
+          631151
+        ], 
+        "ne_latitude": 43.323, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.365, 
+        "longitude": 0.333, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:44Z", 
+        "parent_woeid": 12664327, 
+        "latitude": 43.311, 
+        "sw_longitude": 0.313, 
+        "fullname": "Lalanne-Trie, Lalanne, Midi-Pyrenees, Hautes-Pyrenees, France", 
+        "sw_latitude": 43.293
+      }, 
+      "id": 600958
+    }
+  ]
+}

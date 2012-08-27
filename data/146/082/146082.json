@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.027, 
+              25.674
+            ], 
+            [
+              -103.027, 
+              25.692
+            ], 
+            [
+              -103.007, 
+              25.692
+            ], 
+            [
+              -103.007, 
+              25.674
+            ], 
+            [
+              -103.027, 
+              25.674
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.692, 
+        "name": "Santa Elena", 
+        "adjacent_woeid": [
+          122827, 
+          125374, 
+          140645, 
+          143712, 
+          144310
+        ], 
+        "woeid": 146082, 
+        "alias_SPA_V": [
+          "Sta. Elena"
+        ], 
+        "ne_longitude": -103.007, 
+        "longitude": -103.017, 
+        "parent_woeid": 12599918, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.683, 
+        "sw_longitude": -103.027, 
+        "fullname": "Santa Elena, Coahuila de Zaragoza, San Pedro, Mexico", 
+        "sw_latitude": 25.674
+      }, 
+      "id": 146082
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.129, 
+              50.819
+            ], 
+            [
+              13.129, 
+              50.828
+            ], 
+            [
+              13.143, 
+              50.828
+            ], 
+            [
+              13.143, 
+              50.819
+            ], 
+            [
+              13.129, 
+              50.819
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 675055, 
+        "name": "Metzdorf", 
+        "adjacent_woeid": [
+          640996, 
+          657049, 
+          661173, 
+          672737
+        ], 
+        "ne_latitude": 50.828, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.143, 
+        "longitude": 13.136, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12625595, 
+        "latitude": 50.824, 
+        "sw_longitude": 13.129, 
+        "fullname": "Metzdorf, Saxony, Landkreis Freiberg, Germany", 
+        "sw_latitude": 50.819
+      }, 
+      "id": 675055
+    }
+  ]
+}

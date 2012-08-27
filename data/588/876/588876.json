@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.168, 
+              49.109
+            ], 
+            [
+              5.168, 
+              49.167
+            ], 
+            [
+              5.222, 
+              49.167
+            ], 
+            [
+              5.222, 
+              49.109
+            ], 
+            [
+              5.168, 
+              49.109
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 588876, 
+        "name": "Dombasle-en-Argonne", 
+        "adjacent_woeid": [
+          579647, 
+          581522, 
+          582059, 
+          595668, 
+          618968, 
+          622246
+        ], 
+        "ne_latitude": 49.167, 
+        "ne_longitude": 5.222, 
+        "longitude": 5.190, 
+        "parent_woeid": 12660531, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Dombasle"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:59:19Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.137, 
+        "sw_longitude": 5.168, 
+        "fullname": "Dombasle-en-Argonne, Lorraine, Meuse, France", 
+        "sw_latitude": 49.109
+      }, 
+      "id": 588876
+    }
+  ]
+}

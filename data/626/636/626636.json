@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.013, 
+              47.193
+            ], 
+            [
+              1.013, 
+              47.232
+            ], 
+            [
+              1.037, 
+              47.232
+            ], 
+            [
+              1.037, 
+              47.193
+            ], 
+            [
+              1.013, 
+              47.193
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626636, 
+        "name": "St.-Quentin-sur-Indrois", 
+        "adjacent_woeid": [
+          584069, 
+          585444, 
+          590853, 
+          627808, 
+          29332331
+        ], 
+        "ne_latitude": 47.232, 
+        "ne_longitude": 1.037, 
+        "longitude": 1.027, 
+        "parent_woeid": 12653154, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Quentin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.205, 
+        "sw_longitude": 1.013, 
+        "fullname": "St.-Quentin-sur-Indrois, Centre, Indre-et-Loire, France", 
+        "sw_latitude": 47.193
+      }, 
+      "id": 626636
+    }
+  ]
+}

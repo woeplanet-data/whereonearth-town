@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.715, 
+              47.847
+            ], 
+            [
+              1.715, 
+              47.889
+            ], 
+            [
+              1.784, 
+              47.889
+            ], 
+            [
+              1.784, 
+              47.847
+            ], 
+            [
+              1.715, 
+              47.847
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 623167, 
+        "name": "St.-Ay", 
+        "adjacent_woeid": [
+          583868, 
+          595049, 
+          609930, 
+          20187301, 
+          20187311
+        ], 
+        "ne_latitude": 47.889, 
+        "ne_longitude": 1.784, 
+        "longitude": 1.753, 
+        "parent_woeid": 12652233, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ay"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.858, 
+        "sw_longitude": 1.715, 
+        "fullname": "St.-Ay, Centre, Loiret, France", 
+        "sw_latitude": 47.847
+      }, 
+      "id": 623167
+    }
+  ]
+}

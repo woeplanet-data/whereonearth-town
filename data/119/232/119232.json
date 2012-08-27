@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.093, 
+              20.624
+            ], 
+            [
+              -100.093, 
+              20.642
+            ], 
+            [
+              -100.074, 
+              20.642
+            ], 
+            [
+              -100.074, 
+              20.624
+            ], 
+            [
+              -100.093, 
+              20.624
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.642, 
+        "name": "El Blanco", 
+        "adjacent_woeid": [
+          111614, 
+          120319, 
+          123354, 
+          123854, 
+          124345, 
+          127487, 
+          130160
+        ], 
+        "woeid": 119232, 
+        "alias_SPA_V": [
+          "Blanco"
+        ], 
+        "ne_longitude": -100.074, 
+        "longitude": -100.083, 
+        "parent_woeid": 12601447, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:35Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.633, 
+        "sw_longitude": -100.093, 
+        "fullname": "El Blanco, Queretaro de Arteaga, Colon, Mexico", 
+        "sw_latitude": 20.624
+      }, 
+      "id": 119232
+    }
+  ]
+}

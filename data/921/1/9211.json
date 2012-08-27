@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -123.365, 
+              48.401
+            ], 
+            [
+              -123.365, 
+              48.432
+            ], 
+            [
+              -123.303, 
+              48.432
+            ], 
+            [
+              -123.303, 
+              48.401
+            ], 
+            [
+              -123.365, 
+              48.401
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 9211, 
+        "name": "Oak Bay", 
+        "adjacent_woeid": [
+          23405825
+        ], 
+        "ne_latitude": 48.432, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Oakbay"
+        ], 
+        "ne_longitude": -123.303, 
+        "longitude": -123.317, 
+        "placetype": "Town", 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:48Z", 
+        "parent_woeid": 29375156, 
+        "latitude": 48.426, 
+        "sw_longitude": -123.365, 
+        "fullname": "Oak Bay, British Columbia, Capital, Canada", 
+        "sw_latitude": 48.401
+      }, 
+      "id": 9211
+    }
+  ]
+}

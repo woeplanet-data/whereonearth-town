@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              7.683, 
+              47.192
+            ], 
+            [
+              7.683, 
+              47.207
+            ], 
+            [
+              7.705, 
+              47.207
+            ], 
+            [
+              7.705, 
+              47.192
+            ], 
+            [
+              7.683, 
+              47.192
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 785311, 
+        "name": "Wanzwil", 
+        "adjacent_woeid": [
+          782755, 
+          785312, 
+          785314, 
+          785315, 
+          20102118
+        ], 
+        "ne_latitude": 47.207, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 7.705, 
+        "longitude": 7.694, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:21Z", 
+        "parent_woeid": 20075426, 
+        "latitude": 47.200, 
+        "sw_longitude": 7.683, 
+        "fullname": "Wanzwil, Canton of Berne, Wangen, Switzerland", 
+        "sw_latitude": 47.192
+      }, 
+      "id": 785311
+    }
+  ]
+}

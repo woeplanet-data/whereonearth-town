@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.124, 
+              46.080
+            ], 
+            [
+              0.124, 
+              46.099
+            ], 
+            [
+              0.151, 
+              46.099
+            ], 
+            [
+              0.151, 
+              46.080
+            ], 
+            [
+              0.124, 
+              46.080
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 608481, 
+        "name": "Londigny", 
+        "adjacent_woeid": [
+          612256, 
+          612832, 
+          625689, 
+          20200585
+        ], 
+        "ne_latitude": 46.099, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.151, 
+        "longitude": 0.135, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:01:26Z", 
+        "parent_woeid": 12665770, 
+        "latitude": 46.086, 
+        "sw_longitude": 0.124, 
+        "fullname": "Londigny, Poitou-Charentes, Charente, France", 
+        "sw_latitude": 46.080
+      }, 
+      "id": 608481
+    }
+  ]
+}

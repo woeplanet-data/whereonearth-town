@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -105.893, 
+              26.874
+            ], 
+            [
+              -105.893, 
+              26.892
+            ], 
+            [
+              -105.873, 
+              26.892
+            ], 
+            [
+              -105.873, 
+              26.874
+            ], 
+            [
+              -105.893, 
+              26.874
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 26.892, 
+        "name": "Santo Domingo", 
+        "adjacent_woeid": [
+          121181, 
+          129252, 
+          130212, 
+          136576, 
+          137594, 
+          142642, 
+          145782
+        ], 
+        "woeid": 147164, 
+        "alias_SPA_V": [
+          "Sto. Domingo"
+        ], 
+        "ne_longitude": -105.873, 
+        "longitude": -105.883, 
+        "parent_woeid": 12599878, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:57Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 26.883, 
+        "sw_longitude": -105.893, 
+        "fullname": "Santo Domingo, Chihuahua, San Francisco del Oro, Mexico", 
+        "sw_latitude": 26.874
+      }, 
+      "id": 147164
+    }
+  ]
+}

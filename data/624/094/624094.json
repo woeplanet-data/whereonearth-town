@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -3.114, 
+              48.204
+            ], 
+            [
+              -3.114, 
+              48.241
+            ], 
+            [
+              -3.087, 
+              48.241
+            ], 
+            [
+              -3.087, 
+              48.204
+            ], 
+            [
+              -3.114, 
+              48.204
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 624094, 
+        "name": "St.-Gelven", 
+        "adjacent_woeid": [
+          583419, 
+          601287, 
+          616123, 
+          617063, 
+          622797, 
+          625891, 
+          627404
+        ], 
+        "ne_latitude": 48.241, 
+        "ne_longitude": -3.087, 
+        "longitude": -3.097, 
+        "parent_woeid": 12641863, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Gelven"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 48.226, 
+        "sw_longitude": -3.114, 
+        "fullname": "St.-Gelven, Brittany, Cotes-d'Armor, France", 
+        "sw_latitude": 48.204
+      }, 
+      "id": 624094
+    }
+  ]
+}

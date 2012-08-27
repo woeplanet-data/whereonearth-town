@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.209, 
+              49.383
+            ], 
+            [
+              10.209, 
+              49.408
+            ], 
+            [
+              10.252, 
+              49.408
+            ], 
+            [
+              10.252, 
+              49.383
+            ], 
+            [
+              10.209, 
+              49.383
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 693859, 
+        "name": "Schweinsdorf", 
+        "adjacent_woeid": [
+          651662, 
+          657467, 
+          671916, 
+          680327, 
+          703100
+        ], 
+        "ne_latitude": 49.408, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.252, 
+        "longitude": 10.234, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:46:08Z", 
+        "parent_woeid": 12634416, 
+        "latitude": 49.397, 
+        "sw_longitude": 10.209, 
+        "fullname": "Schweinsdorf, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.383
+      }, 
+      "id": 693859
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.123, 
+              50.539
+            ], 
+            [
+              10.123, 
+              50.566
+            ], 
+            [
+              10.159, 
+              50.566
+            ], 
+            [
+              10.159, 
+              50.539
+            ], 
+            [
+              10.123, 
+              50.539
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 674711, 
+        "name": "Melpers", 
+        "adjacent_woeid": [
+          641573, 
+          648289
+        ], 
+        "ne_latitude": 50.566, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.159, 
+        "longitude": 10.140, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:40Z", 
+        "parent_woeid": 12624940, 
+        "latitude": 50.550, 
+        "sw_longitude": 10.123, 
+        "fullname": "Melpers, Thuringia, Schmalkalden-Meiningen, Germany", 
+        "sw_latitude": 50.539
+      }, 
+      "id": 674711
+    }
+  ]
+}

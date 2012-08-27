@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -95.126, 
+              18.358
+            ], 
+            [
+              -95.126, 
+              18.376
+            ], 
+            [
+              -95.107, 
+              18.376
+            ], 
+            [
+              -95.107, 
+              18.358
+            ], 
+            [
+              -95.126, 
+              18.358
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.376, 
+        "name": "La Victoria", 
+        "adjacent_woeid": [
+          115498, 
+          117109, 
+          117535, 
+          126689, 
+          133192
+        ], 
+        "woeid": 129600, 
+        "alias_SPA_V": [
+          "Victoria"
+        ], 
+        "ne_longitude": -95.107, 
+        "longitude": -95.117, 
+        "parent_woeid": 12601750, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:50Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.367, 
+        "sw_longitude": -95.126, 
+        "fullname": "La Victoria, Veracruz-Llave, Catemaco, Mexico", 
+        "sw_latitude": 18.358
+      }, 
+      "id": 129600
+    }
+  ]
+}

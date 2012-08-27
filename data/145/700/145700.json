@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -111.158, 
+              30.543
+            ], 
+            [
+              -111.158, 
+              30.557
+            ], 
+            [
+              -111.142, 
+              30.557
+            ], 
+            [
+              -111.142, 
+              30.543
+            ], 
+            [
+              -111.158, 
+              30.543
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 30.557, 
+        "name": "Santa Ana Vieja", 
+        "adjacent_woeid": [
+          116430, 
+          126790, 
+          145593, 
+          145701
+        ], 
+        "woeid": 145700, 
+        "alias_SPA_V": [
+          "Sta Ana Vieja"
+        ], 
+        "ne_longitude": -111.142, 
+        "longitude": -111.150, 
+        "parent_woeid": 12601603, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 30.550, 
+        "sw_longitude": -111.158, 
+        "fullname": "Santa Ana Vieja, Sonora, Santa Ana, Mexico", 
+        "sw_latitude": 30.543
+      }, 
+      "id": 145700
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              15.937, 
+              46.891
+            ], 
+            [
+              15.937, 
+              46.909
+            ], 
+            [
+              15.963, 
+              46.909
+            ], 
+            [
+              15.963, 
+              46.891
+            ], 
+            [
+              15.937, 
+              46.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 549501, 
+        "name": "Pichla", 
+        "adjacent_woeid": [
+          548128, 
+          548503, 
+          548917, 
+          549116, 
+          549476
+        ], 
+        "ne_latitude": 46.909, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 15.963, 
+        "longitude": 15.950, 
+        "placetype": "Town", 
+        "iso": "AT", 
+        "date_indexed": "2010-12-02T16:33:55Z", 
+        "parent_woeid": 12675127, 
+        "latitude": 46.900, 
+        "sw_longitude": 15.937, 
+        "fullname": "Pichla, Styria, Feldbach, Austria", 
+        "sw_latitude": 46.891
+      }, 
+      "id": 549501
+    }
+  ]
+}

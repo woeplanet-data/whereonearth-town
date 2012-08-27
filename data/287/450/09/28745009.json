@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -74.426, 
+              41.701
+            ], 
+            [
+              -74.426, 
+              41.913
+            ], 
+            [
+              -74.157, 
+              41.913
+            ], 
+            [
+              -74.157, 
+              41.701
+            ], 
+            [
+              -74.426, 
+              41.701
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ENG", 
+        "woeid": 28745009, 
+        "name": "Rochester", 
+        "adjacent_woeid": [
+          2379159, 
+          2391139, 
+          2433970, 
+          2439176, 
+          2445494, 
+          2449933, 
+          2487759, 
+          2519885
+        ], 
+        "ne_latitude": 41.913, 
+        "provider": "geoplanet 7.6.0", 
+        "alias_ENG_V": [
+          "Rochester, Town Of"
+        ], 
+        "ne_longitude": -74.157, 
+        "longitude": -74.231, 
+        "placetype": "Town", 
+        "iso": "US", 
+        "date_indexed": "2010-12-02T18:39:05Z", 
+        "parent_woeid": 12589367, 
+        "latitude": 41.789, 
+        "sw_longitude": -74.426, 
+        "fullname": "Rochester, New York, Ulster, United States", 
+        "sw_latitude": 41.701
+      }, 
+      "id": 28745009
+    }
+  ]
+}

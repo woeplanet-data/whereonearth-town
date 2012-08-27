@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -0.640, 
+              43.402
+            ], 
+            [
+              -0.640, 
+              43.430
+            ], 
+            [
+              -0.602, 
+              43.430
+            ], 
+            [
+              -0.602, 
+              43.402
+            ], 
+            [
+              -0.640, 
+              43.402
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 600750, 
+        "name": "Lacq", 
+        "adjacent_woeid": [
+          575333, 
+          576369, 
+          577138, 
+          600859, 
+          612070, 
+          615257, 
+          621962
+        ], 
+        "ne_latitude": 43.430, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": -0.602, 
+        "longitude": -0.621, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:09Z", 
+        "parent_woeid": 12637629, 
+        "latitude": 43.413, 
+        "sw_longitude": -0.640, 
+        "fullname": "Lacq, Aquitaine, Pyrenees-Atlantiques, France", 
+        "sw_latitude": 43.402
+      }, 
+      "id": 600750
+    }
+  ]
+}

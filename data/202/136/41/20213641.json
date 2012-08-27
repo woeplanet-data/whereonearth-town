@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              5.042, 
+              47.255
+            ], 
+            [
+              5.042, 
+              47.264
+            ], 
+            [
+              5.056, 
+              47.264
+            ], 
+            [
+              5.056, 
+              47.255
+            ], 
+            [
+              5.042, 
+              47.255
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 20213641, 
+        "name": "Domois", 
+        "adjacent_woeid": [
+          615339, 
+          616143, 
+          20213642, 
+          55863520
+        ], 
+        "ne_latitude": 47.264, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 5.056, 
+        "longitude": 5.049, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12643724, 
+        "latitude": 47.260, 
+        "sw_longitude": 5.042, 
+        "fullname": "Domois, Burgundy, Cote-d'Or, France", 
+        "sw_latitude": 47.255
+      }, 
+      "id": 20213641
+    }
+  ]
+}

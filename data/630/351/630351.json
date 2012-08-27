@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.803, 
+              43.434
+            ], 
+            [
+              1.803, 
+              43.479
+            ], 
+            [
+              1.861, 
+              43.479
+            ], 
+            [
+              1.861, 
+              43.434
+            ], 
+            [
+              1.803, 
+              43.434
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630351, 
+        "name": "Vaux", 
+        "adjacent_woeid": [
+          579035, 
+          590511, 
+          595822, 
+          610597
+        ], 
+        "ne_latitude": 43.479, 
+        "ne_longitude": 1.861, 
+        "longitude": 1.837, 
+        "parent_woeid": 12665163, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Le Vaux"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.456, 
+        "sw_longitude": 1.803, 
+        "fullname": "Vaux, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.434
+      }, 
+      "id": 630351
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.998, 
+              43.365
+            ], 
+            [
+              0.998, 
+              43.393
+            ], 
+            [
+              1.048, 
+              43.393
+            ], 
+            [
+              1.048, 
+              43.365
+            ], 
+            [
+              0.998, 
+              43.365
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620680, 
+        "name": "Sajas", 
+        "adjacent_woeid": [
+          601756, 
+          604045, 
+          612302, 
+          612992
+        ], 
+        "ne_latitude": 43.393, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.048, 
+        "longitude": 1.020, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:02Z", 
+        "parent_woeid": 12669352, 
+        "latitude": 43.377, 
+        "sw_longitude": 0.998, 
+        "fullname": "Sajas, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.365
+      }, 
+      "id": 620680
+    }
+  ]
+}

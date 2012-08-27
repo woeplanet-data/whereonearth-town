@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -102.393, 
+              19.274
+            ], 
+            [
+              -102.393, 
+              19.292
+            ], 
+            [
+              -102.374, 
+              19.292
+            ], 
+            [
+              -102.374, 
+              19.274
+            ], 
+            [
+              -102.393, 
+              19.274
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 19.292, 
+        "name": "Santa Catarina", 
+        "adjacent_woeid": [
+          112279, 
+          118887, 
+          127955, 
+          129394, 
+          148157, 
+          150402
+        ], 
+        "woeid": 145812, 
+        "alias_SPA_V": [
+          "Sta Catarina"
+        ], 
+        "ne_longitude": -102.374, 
+        "longitude": -102.383, 
+        "parent_woeid": 12600523, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:12Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 19.283, 
+        "sw_longitude": -102.393, 
+        "fullname": "Santa Catarina, Michoacan de Ocampo, Tancitaro, Mexico", 
+        "sw_latitude": 19.274
+      }, 
+      "id": 145812
+    }
+  ]
+}

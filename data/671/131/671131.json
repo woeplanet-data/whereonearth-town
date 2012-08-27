@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.120, 
+              49.234
+            ], 
+            [
+              10.120, 
+              49.260
+            ], 
+            [
+              10.143, 
+              49.260
+            ], 
+            [
+              10.143, 
+              49.234
+            ], 
+            [
+              10.120, 
+              49.234
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 671131, 
+        "name": "Leitsweiler", 
+        "adjacent_woeid": [
+          651349, 
+          675166, 
+          699208, 
+          704664, 
+          20158744
+        ], 
+        "ne_latitude": 49.260, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.143, 
+        "longitude": 10.128, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:20Z", 
+        "parent_woeid": 12634425, 
+        "latitude": 49.239, 
+        "sw_longitude": 10.120, 
+        "fullname": "Leitsweiler, Bavaria, Landkreis Ansbach, Germany", 
+        "sw_latitude": 49.234
+      }, 
+      "id": 671131
+    }
+  ]
+}

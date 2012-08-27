@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              8.729, 
+              46.499
+            ], 
+            [
+              8.729, 
+              46.508
+            ], 
+            [
+              8.742, 
+              46.508
+            ], 
+            [
+              8.742, 
+              46.499
+            ], 
+            [
+              8.729, 
+              46.499
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "ITA", 
+        "woeid": 20101207, 
+        "name": "Catto", 
+        "adjacent_woeid": [
+          782441, 
+          20101774, 
+          20102935, 
+          20104603
+        ], 
+        "ne_latitude": 46.508, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 8.742, 
+        "longitude": 8.736, 
+        "placetype": "Town", 
+        "iso": "CH", 
+        "date_indexed": "2010-12-02T18:20:29Z", 
+        "parent_woeid": 12682773, 
+        "latitude": 46.504, 
+        "sw_longitude": 8.729, 
+        "fullname": "Catto, Canton of Ticino, Leventina, Switzerland", 
+        "sw_latitude": 46.499
+      }, 
+      "id": 20101207
+    }
+  ]
+}

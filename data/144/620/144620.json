@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -100.776, 
+              20.891
+            ], 
+            [
+              -100.776, 
+              20.944
+            ], 
+            [
+              -100.714, 
+              20.944
+            ], 
+            [
+              -100.714, 
+              20.891
+            ], 
+            [
+              -100.776, 
+              20.891
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.944, 
+        "name": "San Miguel de Allende", 
+        "adjacent_woeid": [
+          111805, 
+          113036, 
+          114162, 
+          124578, 
+          126228, 
+          129326, 
+          138045, 
+          142227, 
+          150776, 
+          55883498, 
+          55889946, 
+          55891019, 
+          55895016, 
+          55907572, 
+          55907573
+        ], 
+        "woeid": 144620, 
+        "alias_SPA_V": [
+          "S Miguel de Allende"
+        ], 
+        "ne_longitude": -100.714, 
+        "longitude": -100.743, 
+        "parent_woeid": 12599991, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.911, 
+        "sw_longitude": -100.776, 
+        "fullname": "San Miguel de Allende, Guanajuato, Allende, Mexico", 
+        "sw_latitude": 20.891
+      }, 
+      "id": 144620
+    }
+  ]
+}

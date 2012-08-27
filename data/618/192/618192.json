@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.709, 
+              43.538
+            ], 
+            [
+              1.709, 
+              43.584
+            ], 
+            [
+              1.751, 
+              43.584
+            ], 
+            [
+              1.751, 
+              43.538
+            ], 
+            [
+              1.709, 
+              43.538
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 618192, 
+        "name": "Prunet", 
+        "adjacent_woeid": [
+          591860, 
+          610419, 
+          621257, 
+          20192859
+        ], 
+        "ne_latitude": 43.584, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.751, 
+        "longitude": 1.732, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:30Z", 
+        "parent_woeid": 12668605, 
+        "latitude": 43.569, 
+        "sw_longitude": 1.709, 
+        "fullname": "Prunet, Midi-Pyrenees, Haute-Garonne, France", 
+        "sw_latitude": 43.538
+      }, 
+      "id": 618192
+    }
+  ]
+}

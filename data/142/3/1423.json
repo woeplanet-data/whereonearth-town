@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -73.775, 
+              45.092
+            ], 
+            [
+              -73.775, 
+              45.111
+            ], 
+            [
+              -73.749, 
+              45.111
+            ], 
+            [
+              -73.749, 
+              45.092
+            ], 
+            [
+              -73.775, 
+              45.092
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 1423, 
+        "name": "St.-Chrysostome", 
+        "adjacent_woeid": [
+          3575, 
+          23394913, 
+          23395673, 
+          23395693, 
+          23395903, 
+          23396311, 
+          23396516
+        ], 
+        "ne_latitude": 45.111, 
+        "ne_longitude": -73.749, 
+        "longitude": -73.757, 
+        "parent_woeid": 29375136, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Chrysostome"
+        ], 
+        "iso": "CA", 
+        "date_indexed": "2010-12-02T10:23:41Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.105, 
+        "sw_longitude": -73.775, 
+        "fullname": "St.-Chrysostome, Quebec, Le Haut-St-Laurent, Canada", 
+        "sw_latitude": 45.092
+      }, 
+      "id": 1423
+    }
+  ]
+}

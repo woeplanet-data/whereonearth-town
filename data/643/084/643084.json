@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.332, 
+              49.726
+            ], 
+            [
+              10.332, 
+              49.756
+            ], 
+            [
+              10.361, 
+              49.756
+            ], 
+            [
+              10.361, 
+              49.726
+            ], 
+            [
+              10.332, 
+              49.726
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 643084, 
+        "name": "Castell", 
+        "adjacent_woeid": [
+          639170, 
+          654130, 
+          690241, 
+          699831, 
+          706360, 
+          708335
+        ], 
+        "ne_latitude": 49.756, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.361, 
+        "longitude": 10.349, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:42:04Z", 
+        "parent_woeid": 12635567, 
+        "latitude": 49.743, 
+        "sw_longitude": 10.332, 
+        "fullname": "Castell, Bavaria, Landkreis Kitzingen, Germany", 
+        "sw_latitude": 49.726
+      }, 
+      "id": 643084
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -99.360, 
+              24.191
+            ], 
+            [
+              -99.360, 
+              24.209
+            ], 
+            [
+              -99.340, 
+              24.209
+            ], 
+            [
+              -99.340, 
+              24.191
+            ], 
+            [
+              -99.360, 
+              24.191
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 24.209, 
+        "name": "Santa Cruz", 
+        "adjacent_woeid": [
+          115007, 
+          119670, 
+          127525, 
+          135710, 
+          142487, 
+          144728, 
+          150875
+        ], 
+        "woeid": 145940, 
+        "alias_SPA_V": [
+          "Sta. Cruz"
+        ], 
+        "ne_longitude": -99.340, 
+        "longitude": -99.350, 
+        "parent_woeid": 12601648, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:57:04Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 24.200, 
+        "sw_longitude": -99.360, 
+        "fullname": "Santa Cruz, Tamaulipas, Hidalgo, Mexico", 
+        "sw_latitude": 24.191
+      }, 
+      "id": 145940
+    }
+  ]
+}

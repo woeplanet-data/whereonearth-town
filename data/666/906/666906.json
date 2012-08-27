@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.453, 
+              49.819
+            ], 
+            [
+              10.453, 
+              49.856
+            ], 
+            [
+              10.477, 
+              49.856
+            ], 
+            [
+              10.477, 
+              49.819
+            ], 
+            [
+              10.453, 
+              49.819
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666906, 
+        "name": "Kleingressingen", 
+        "adjacent_woeid": [
+          640968, 
+          641895, 
+          646247, 
+          646318, 
+          655008, 
+          660693, 
+          692786
+        ], 
+        "ne_latitude": 49.856, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.477, 
+        "longitude": 10.468, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12635230, 
+        "latitude": 49.829, 
+        "sw_longitude": 10.453, 
+        "fullname": "Kleingressingen, Bavaria, Landkreis Bamberg, Germany", 
+        "sw_latitude": 49.819
+      }, 
+      "id": 666906
+    }
+  ]
+}

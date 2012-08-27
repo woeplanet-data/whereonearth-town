@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.845, 
+              46.939
+            ], 
+            [
+              1.845, 
+              46.986
+            ], 
+            [
+              1.894, 
+              46.986
+            ], 
+            [
+              1.894, 
+              46.939
+            ], 
+            [
+              1.845, 
+              46.939
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627184, 
+        "name": "St.-Valentin", 
+        "adjacent_woeid": [
+          597364, 
+          608192, 
+          608311, 
+          610964, 
+          614240, 
+          623009
+        ], 
+        "ne_latitude": 46.986, 
+        "ne_longitude": 1.894, 
+        "longitude": 1.865, 
+        "parent_woeid": 12648023, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Valentin"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:02:51Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 46.952, 
+        "sw_longitude": 1.845, 
+        "fullname": "St.-Valentin, Centre, Indre, France", 
+        "sw_latitude": 46.939
+      }, 
+      "id": 627184
+    }
+  ]
+}

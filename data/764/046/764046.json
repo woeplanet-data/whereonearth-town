@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.115, 
+              41.181
+            ], 
+            [
+              1.115, 
+              41.231
+            ], 
+            [
+              1.169, 
+              41.231
+            ], 
+            [
+              1.169, 
+              41.181
+            ], 
+            [
+              1.115, 
+              41.181
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 41.231, 
+        "name": "La Selva", 
+        "alias_ENG_P": [
+          "Selva"
+        ], 
+        "woeid": 764046, 
+        "alias_SPA_V": [
+          "La Selva del Campo"
+        ], 
+        "ne_longitude": 1.169, 
+        "longitude": 1.141, 
+        "parent_woeid": 12694284, 
+        "placetype": "Town", 
+        "adjacent_woeid": [
+          751719, 
+          752008, 
+          752243, 
+          756810, 
+          757957, 
+          763874, 
+          771702, 
+          777396, 
+          20224148, 
+          29369944, 
+          55865693
+        ], 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:10:22Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 41.214, 
+        "sw_longitude": 1.115, 
+        "fullname": "La Selva, Selva, Catalonia, Tarragona, Spain", 
+        "sw_latitude": 41.181
+      }, 
+      "id": 764046
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.681, 
+              48.260
+            ], 
+            [
+              0.681, 
+              48.279
+            ], 
+            [
+              0.709, 
+              48.279
+            ], 
+            [
+              0.709, 
+              48.260
+            ], 
+            [
+              0.681, 
+              48.260
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 29331390, 
+        "name": "La Gare", 
+        "adjacent_woeid": [
+          599850, 
+          604664, 
+          609492, 
+          29331389
+        ], 
+        "ne_latitude": 48.279, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 0.709, 
+        "longitude": 0.695, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:51Z", 
+        "parent_woeid": 20074793, 
+        "latitude": 48.270, 
+        "sw_longitude": 0.681, 
+        "fullname": "La Gare, Basse-Normandie, Orne, France", 
+        "sw_latitude": 48.260
+      }, 
+      "id": 29331390
+    }
+  ]
+}

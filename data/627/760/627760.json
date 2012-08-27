@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.893, 
+              47.726
+            ], 
+            [
+              3.893, 
+              47.777
+            ], 
+            [
+              3.941, 
+              47.777
+            ], 
+            [
+              3.941, 
+              47.726
+            ], 
+            [
+              3.893, 
+              47.726
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 627760, 
+        "name": "Ste.-Vertu", 
+        "adjacent_woeid": [
+          575514, 
+          611758, 
+          614342, 
+          616141, 
+          617108, 
+          618301, 
+          633058
+        ], 
+        "ne_latitude": 47.777, 
+        "ne_longitude": 3.941, 
+        "longitude": 3.915, 
+        "parent_woeid": 12653438, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Sainte-Vertu"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.750, 
+        "sw_longitude": 3.893, 
+        "fullname": "Ste.-Vertu, Burgundy, Yonne, France", 
+        "sw_latitude": 47.726
+      }, 
+      "id": 627760
+    }
+  ]
+}

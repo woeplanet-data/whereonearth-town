@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              12.341, 
+              49.885
+            ], 
+            [
+              12.341, 
+              49.909
+            ], 
+            [
+              12.365, 
+              49.909
+            ], 
+            [
+              12.365, 
+              49.885
+            ], 
+            [
+              12.341, 
+              49.885
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666980, 
+        "name": "Kleinklenau", 
+        "adjacent_woeid": [
+          655077, 
+          674272, 
+          707934, 
+          20158582
+        ], 
+        "ne_latitude": 49.909, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 12.365, 
+        "longitude": 12.350, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 12634350, 
+        "latitude": 49.893, 
+        "sw_longitude": 12.341, 
+        "fullname": "Kleinklenau, Bavaria, Landkreis Tirschenreuth, Germany", 
+        "sw_latitude": 49.885
+      }, 
+      "id": 666980
+    }
+  ]
+}

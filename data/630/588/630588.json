@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              3.376, 
+              49.353
+            ], 
+            [
+              3.376, 
+              49.382
+            ], 
+            [
+              3.421, 
+              49.382
+            ], 
+            [
+              3.421, 
+              49.353
+            ], 
+            [
+              3.376, 
+              49.353
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 630588, 
+        "name": "Venizel", 
+        "adjacent_woeid": [
+          575405, 
+          579973, 
+          582272, 
+          631895
+        ], 
+        "ne_latitude": 49.382, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 3.421, 
+        "longitude": 3.396, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T11:58:38Z", 
+        "parent_woeid": 12672205, 
+        "latitude": 49.367, 
+        "sw_longitude": 3.376, 
+        "fullname": "Venizel, Picardie, Aisne, France", 
+        "sw_latitude": 49.353
+      }, 
+      "id": 630588
+    }
+  ]
+}

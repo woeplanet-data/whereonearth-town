@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -103.542, 
+              25.584
+            ], 
+            [
+              -103.542, 
+              25.602
+            ], 
+            [
+              -103.522, 
+              25.602
+            ], 
+            [
+              -103.522, 
+              25.584
+            ], 
+            [
+              -103.542, 
+              25.584
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 25.602, 
+        "name": "San Ignacio", 
+        "adjacent_woeid": [
+          113662, 
+          121853, 
+          131532, 
+          150719, 
+          56074975, 
+          56074985
+        ], 
+        "woeid": 142781, 
+        "alias_SPA_V": [
+          "S. Ignacio"
+        ], 
+        "ne_longitude": -103.522, 
+        "longitude": -103.532, 
+        "parent_woeid": 12599957, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:55:59Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 25.593, 
+        "sw_longitude": -103.542, 
+        "fullname": "San Ignacio, Durango, Gomez Palacio, Mexico", 
+        "sw_latitude": 25.584
+      }, 
+      "id": 142781
+    }
+  ]
+}

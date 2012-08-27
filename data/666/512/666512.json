@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              13.254, 
+              52.945
+            ], 
+            [
+              13.254, 
+              52.991
+            ], 
+            [
+              13.301, 
+              52.991
+            ], 
+            [
+              13.301, 
+              52.945
+            ], 
+            [
+              13.254, 
+              52.945
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 666512, 
+        "name": "Klein-Mutz", 
+        "adjacent_woeid": [
+          636577, 
+          638176, 
+          675277, 
+          683705
+        ], 
+        "ne_latitude": 52.991, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 13.301, 
+        "longitude": 13.281, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:44:00Z", 
+        "parent_woeid": 24547264, 
+        "latitude": 52.967, 
+        "sw_longitude": 13.254, 
+        "fullname": "Klein-Mutz, Brandenburg, Oberhavel, Germany", 
+        "sw_latitude": 52.945
+      }, 
+      "id": 666512
+    }
+  ]
+}

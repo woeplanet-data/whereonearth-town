@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -6.025, 
+              37.007
+            ], 
+            [
+              -6.025, 
+              37.052
+            ], 
+            [
+              -5.963, 
+              37.052
+            ], 
+            [
+              -5.963, 
+              37.007
+            ], 
+            [
+              -6.025, 
+              37.007
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 37.052, 
+        "name": "San Leandro", 
+        "adjacent_woeid": [
+          771089, 
+          20224556, 
+          20226465, 
+          20226896
+        ], 
+        "woeid": 772992, 
+        "alias_SPA_V": [
+          "S. Leandro"
+        ], 
+        "ne_longitude": -5.963, 
+        "longitude": -5.993, 
+        "parent_woeid": 12689310, 
+        "placetype": "Town", 
+        "iso": "ES", 
+        "date_indexed": "2010-12-02T17:11:32Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 37.030, 
+        "sw_longitude": -6.025, 
+        "fullname": "San Leandro, Andalusia, Seville, Spain", 
+        "sw_latitude": 37.007
+      }, 
+      "id": 772992
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              2.806, 
+              46.841
+            ], 
+            [
+              2.806, 
+              46.888
+            ], 
+            [
+              2.839, 
+              46.888
+            ], 
+            [
+              2.839, 
+              46.841
+            ], 
+            [
+              2.806, 
+              46.841
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 620599, 
+        "name": "Sagonne", 
+        "adjacent_woeid": [
+          580232, 
+          583657, 
+          584675, 
+          592952, 
+          630679
+        ], 
+        "ne_latitude": 46.888, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 2.839, 
+        "longitude": 2.825, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:46Z", 
+        "parent_woeid": 12640678, 
+        "latitude": 46.852, 
+        "sw_longitude": 2.806, 
+        "fullname": "Sagonne, Centre, Cher, France", 
+        "sw_latitude": 46.841
+      }, 
+      "id": 620599
+    }
+  ]
+}

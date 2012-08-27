@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.028, 
+              47.777
+            ], 
+            [
+              1.028, 
+              47.824
+            ], 
+            [
+              1.088, 
+              47.824
+            ], 
+            [
+              1.088, 
+              47.777
+            ], 
+            [
+              1.028, 
+              47.777
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 626132, 
+        "name": "St.-Ouen", 
+        "adjacent_woeid": [
+          576514, 
+          577722, 
+          611218, 
+          618730, 
+          20186613, 
+          20186666
+        ], 
+        "ne_latitude": 47.824, 
+        "ne_longitude": 1.088, 
+        "longitude": 1.081, 
+        "parent_woeid": 12653028, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Saint-Ouen"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:06Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 47.810, 
+        "sw_longitude": 1.028, 
+        "fullname": "St.-Ouen, Centre, Loir-et-Cher, France", 
+        "sw_latitude": 47.777
+      }, 
+      "id": 626132
+    }
+  ]
+}

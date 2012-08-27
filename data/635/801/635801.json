@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.107, 
+              48.865
+            ], 
+            [
+              10.107, 
+              48.883
+            ], 
+            [
+              10.125, 
+              48.883
+            ], 
+            [
+              10.125, 
+              48.865
+            ], 
+            [
+              10.107, 
+              48.865
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 635801, 
+        "name": "Attenhofen", 
+        "adjacent_woeid": [
+          660803, 
+          680772, 
+          704102
+        ], 
+        "ne_latitude": 48.883, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.125, 
+        "longitude": 10.116, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:41:31Z", 
+        "parent_woeid": 12624242, 
+        "latitude": 48.874, 
+        "sw_longitude": 10.107, 
+        "fullname": "Attenhofen, Baden-Wurttemberg, Ostalbkreis, Germany", 
+        "sw_latitude": 48.865
+      }, 
+      "id": 635801
+    }
+  ]
+}

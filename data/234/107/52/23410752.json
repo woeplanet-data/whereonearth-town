@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.444, 
+              51.742
+            ], 
+            [
+              10.444, 
+              51.761
+            ], 
+            [
+              10.475, 
+              51.761
+            ], 
+            [
+              10.475, 
+              51.742
+            ], 
+            [
+              10.444, 
+              51.742
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 23410752, 
+        "name": "Harz", 
+        "adjacent_woeid": [
+          664777, 
+          668163, 
+          688601, 
+          694750, 
+          20166223
+        ], 
+        "ne_latitude": 51.761, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.475, 
+        "longitude": 10.460, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:39:27Z", 
+        "parent_woeid": 28350075, 
+        "latitude": 51.752, 
+        "sw_longitude": 10.444, 
+        "fullname": "Harz, Lower Saxony, Landkreis Osterode am Harz, Germany", 
+        "sw_latitude": 51.742
+      }, 
+      "id": 23410752
+    }
+  ]
+}

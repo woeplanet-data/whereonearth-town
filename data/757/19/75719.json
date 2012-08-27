@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -70.321, 
+              18.279
+            ], 
+            [
+              -70.321, 
+              18.288
+            ], 
+            [
+              -70.312, 
+              18.288
+            ], 
+            [
+              -70.312, 
+              18.279
+            ], 
+            [
+              -70.321, 
+              18.279
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 18.288, 
+        "name": "Peravia", 
+        "adjacent_woeid": [
+          69173, 
+          69542, 
+          69635, 
+          70145, 
+          76358, 
+          76456, 
+          76609
+        ], 
+        "woeid": 75719, 
+        "alias_SPA_V": [
+          "Escondido"
+        ], 
+        "ne_longitude": -70.312, 
+        "longitude": -70.317, 
+        "parent_woeid": 2345186, 
+        "placetype": "Town", 
+        "iso": "DO", 
+        "date_indexed": "2010-12-02T16:32:46Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 18.283, 
+        "sw_longitude": -70.321, 
+        "fullname": "Peravia, Dominican Republic", 
+        "sw_latitude": 18.279
+      }, 
+      "id": 75719
+    }
+  ]
+}

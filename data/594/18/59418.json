@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -84.693, 
+              10.708
+            ], 
+            [
+              -84.693, 
+              10.726
+            ], 
+            [
+              -84.674, 
+              10.726
+            ], 
+            [
+              -84.674, 
+              10.708
+            ], 
+            [
+              -84.693, 
+              10.708
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 10.726, 
+        "name": "San Jorge", 
+        "adjacent_woeid": [
+          58158, 
+          58288, 
+          58795, 
+          58981, 
+          59744
+        ], 
+        "woeid": 59418, 
+        "alias_SPA_V": [
+          "S Jorge"
+        ], 
+        "ne_longitude": -84.674, 
+        "longitude": -84.683, 
+        "parent_woeid": 26809190, 
+        "placetype": "Town", 
+        "iso": "CR", 
+        "date_indexed": "2010-12-02T12:16:27Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 10.717, 
+        "sw_longitude": -84.693, 
+        "fullname": "San Jorge, Alajuela, Los Chiles, Costa Rica", 
+        "sw_latitude": 10.708
+      }, 
+      "id": 59418
+    }
+  ]
+}

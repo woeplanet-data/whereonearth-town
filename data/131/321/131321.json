@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              -97.410, 
+              20.858
+            ], 
+            [
+              -97.410, 
+              20.876
+            ], 
+            [
+              -97.390, 
+              20.876
+            ], 
+            [
+              -97.390, 
+              20.858
+            ], 
+            [
+              -97.410, 
+              20.858
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "SPA", 
+        "ne_latitude": 20.876, 
+        "name": "Loma Alta", 
+        "adjacent_woeid": [
+          115263, 
+          130768, 
+          148117, 
+          149357, 
+          150272, 
+          151598
+        ], 
+        "woeid": 131321, 
+        "alias_SPA_V": [
+          "Loma"
+        ], 
+        "ne_longitude": -97.390, 
+        "longitude": -97.400, 
+        "parent_woeid": 12601909, 
+        "placetype": "Town", 
+        "iso": "MX", 
+        "date_indexed": "2010-12-02T16:56:20Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 20.867, 
+        "sw_longitude": -97.410, 
+        "fullname": "Loma Alta, Veracruz-Llave, Tuxpam, Mexico", 
+        "sw_latitude": 20.858
+      }, 
+      "id": 131321
+    }
+  ]
+}

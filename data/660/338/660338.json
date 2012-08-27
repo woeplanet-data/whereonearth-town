@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              10.752, 
+              48.555
+            ], 
+            [
+              10.752, 
+              48.583
+            ], 
+            [
+              10.775, 
+              48.583
+            ], 
+            [
+              10.775, 
+              48.555
+            ], 
+            [
+              10.752, 
+              48.555
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 660338, 
+        "name": "Hirschbach", 
+        "adjacent_woeid": [
+          635288, 
+          649606, 
+          661289, 
+          670240, 
+          678939, 
+          685754, 
+          708024
+        ], 
+        "ne_latitude": 48.583, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 10.775, 
+        "longitude": 10.761, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:43:26Z", 
+        "parent_woeid": 12634815, 
+        "latitude": 48.565, 
+        "sw_longitude": 10.752, 
+        "fullname": "Hirschbach, Bavaria, Landkreis Dillingen an der Donau, Germany", 
+        "sw_latitude": 48.555
+      }, 
+      "id": 660338
+    }
+  ]
+}

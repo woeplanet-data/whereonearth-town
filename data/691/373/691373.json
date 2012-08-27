@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              11.095, 
+              48.605
+            ], 
+            [
+              11.095, 
+              48.620
+            ], 
+            [
+              11.121, 
+              48.620
+            ], 
+            [
+              11.121, 
+              48.605
+            ], 
+            [
+              11.095, 
+              48.605
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "GER", 
+        "woeid": 691373, 
+        "name": "Schainbach", 
+        "adjacent_woeid": [
+          667391, 
+          688445, 
+          703358, 
+          20157449
+        ], 
+        "ne_latitude": 48.620, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 11.121, 
+        "longitude": 11.102, 
+        "placetype": "Town", 
+        "iso": "DE", 
+        "date_indexed": "2010-12-02T09:45:55Z", 
+        "parent_woeid": 12634656, 
+        "latitude": 48.612, 
+        "sw_longitude": 11.095, 
+        "fullname": "Schainbach, Bavaria, Neuburg-Schrobenhausen, Germany", 
+        "sw_latitude": 48.605
+      }, 
+      "id": 691373
+    }
+  ]
+}

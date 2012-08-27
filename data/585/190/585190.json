@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.651, 
+              45.001
+            ], 
+            [
+              1.651, 
+              45.022
+            ], 
+            [
+              1.675, 
+              45.022
+            ], 
+            [
+              1.675, 
+              45.001
+            ], 
+            [
+              1.651, 
+              45.001
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 585190, 
+        "name": "Chauffour-sur-Vell", 
+        "adjacent_woeid": [
+          581576, 
+          583452, 
+          586491, 
+          586732, 
+          620618, 
+          15003114, 
+          29331730
+        ], 
+        "ne_latitude": 45.022, 
+        "ne_longitude": 1.675, 
+        "longitude": 1.666, 
+        "parent_woeid": 12659192, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Chauffour"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:13Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 45.015, 
+        "sw_longitude": 1.651, 
+        "fullname": "Chauffour-sur-Vell, Limousin, Correze, France", 
+        "sw_latitude": 45.001
+      }, 
+      "id": 585190
+    }
+  ]
+}

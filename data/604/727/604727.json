@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              1.223, 
+              46.950
+            ], 
+            [
+              1.223, 
+              46.980
+            ], 
+            [
+              1.261, 
+              46.980
+            ], 
+            [
+              1.261, 
+              46.950
+            ], 
+            [
+              1.223, 
+              46.950
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 604727, 
+        "name": "Le Tranger", 
+        "adjacent_woeid": [
+          586286, 
+          615563, 
+          625897
+        ], 
+        "ne_latitude": 46.980, 
+        "provider": "geoplanet 7.6.0", 
+        "ne_longitude": 1.261, 
+        "longitude": 1.240, 
+        "placetype": "Town", 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:03:39Z", 
+        "parent_woeid": 12647696, 
+        "latitude": 46.957, 
+        "sw_longitude": 1.223, 
+        "fullname": "Le Tranger, Centre, Indre, France", 
+        "sw_latitude": 46.950
+      }, 
+      "id": 604727
+    }
+  ]
+}

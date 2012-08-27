@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              6.432, 
+              43.298
+            ], 
+            [
+              6.432, 
+              43.355
+            ], 
+            [
+              6.485, 
+              43.355
+            ], 
+            [
+              6.485, 
+              43.298
+            ], 
+            [
+              6.432, 
+              43.298
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 598400, 
+        "name": "La Garde-Freinet", 
+        "adjacent_woeid": [
+          586485, 
+          593804, 
+          602419, 
+          603369, 
+          606846, 
+          616804, 
+          627681, 
+          631146
+        ], 
+        "ne_latitude": 43.355, 
+        "ne_longitude": 6.485, 
+        "longitude": 6.470, 
+        "parent_woeid": 12657697, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "Garde-Freinet"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:29Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 43.318, 
+        "sw_longitude": 6.432, 
+        "fullname": "La Garde-Freinet, Provence-Alpes-Cote d'Azur, Var, France", 
+        "sw_latitude": 43.298
+      }, 
+      "id": 598400
+    }
+  ]
+}

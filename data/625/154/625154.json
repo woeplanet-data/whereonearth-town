@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon", 
+        "coordinates": [
+          [
+            [
+              0.025, 
+              49.136
+            ], 
+            [
+              0.025, 
+              49.156
+            ], 
+            [
+              0.047, 
+              49.156
+            ], 
+            [
+              0.047, 
+              49.136
+            ], 
+            [
+              0.025, 
+              49.136
+            ]
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lang": "FRE", 
+        "woeid": 625154, 
+        "name": "St.-Laurent-du-Mont", 
+        "adjacent_woeid": [
+          587904, 
+          614550, 
+          626182
+        ], 
+        "ne_latitude": 49.156, 
+        "alias_ENG_V": [
+          "Saint-Laurent"
+        ], 
+        "ne_longitude": 0.047, 
+        "longitude": 0.037, 
+        "parent_woeid": 12652743, 
+        "placetype": "Town", 
+        "alias_FRE_V": [
+          "St-Laurent-du-Mont"
+        ], 
+        "iso": "FR", 
+        "date_indexed": "2010-12-02T12:00:58Z", 
+        "provider": "geoplanet 7.6.0", 
+        "latitude": 49.141, 
+        "sw_longitude": 0.025, 
+        "fullname": "St.-Laurent-du-Mont, St-Laurent, Basse-Normandie, Calvados, France", 
+        "sw_latitude": 49.136
+      }, 
+      "id": 625154
+    }
+  ]
+}
